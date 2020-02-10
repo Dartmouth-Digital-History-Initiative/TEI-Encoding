@@ -28,7 +28,7 @@
   </teiHeader>
   <text>
       <body>
-<u who="#REED-WESTON">All right. This is Anne Reed-Weston. I'm sitting down with Bruce Pacht in his home in Lebanon, New Hampshire. It is August 4^th^, 2014. Is it all right if I record this?</u>
+<u who="#REED-WESTON">All right. This is Anne Reed-Weston. I'm sitting down with Bruce Pacht in his home in Lebanon, New Hampshire. It is <date when="2014-08-04">August 4^th^, 2014</date>. Is it all right if I record this?</u>
 
 
 <u who="#PACHT">Yes, it is.</u>
@@ -43,7 +43,7 @@
 <u who="#REED-WESTON">Okay. Mm-hm. When were you born?</u>
 
 
-<u who="#PACHT">Nineteen forty-five.</u>
+<u who="#PACHT"><date when="1945">Nineteen forty-five</date>.</u>
 
 
 <u who="#REED-WESTON">All right. So how much time did you spend in Rhode Island before---</u>
@@ -149,7 +149,7 @@ Is that your car? Can you pull straight ahead and park?
 <u who="#REED-WESTON">All right, we're back.</u>
 
 
-<u who="#PACHT">I switched to guitar, because this was---you know, I got to Dartmouth in '63, and I taught myself how to play guitar the summer of '60, when I was a camp. And Bob Dylan and Joan Baez started singing in '62 and became---you know, the folk revival was happening back then, and it's much easier to bring a guitar to a party than a trumpet, so I played guitar with a bunch of other guys. We'd get together and play at the Top of the Hop \[at the Hopkins Center for the Arts\]. And, of course, the cool guys would come and say \[imitates, ironically, a dumb-sounding man\], "Hey, we're trying to read here." And I'd say, "No, the Hop is for entertainment." And had to go to the dean and get a ruling, so that was---
+<u who="#PACHT">I switched to guitar, because this was---you know, I got to Dartmouth in '<date when="1963">63</date>, and I taught myself how to play guitar the summer of '<date when="1960">60</date>, when I was a camp. And Bob Dylan and Joan Baez started singing in '<date when="1962">62</date> and became---you know, the folk revival was happening back then, and it's much easier to bring a guitar to a party than a trumpet, so I played guitar with a bunch of other guys. We'd get together and play at the Top of the Hop \[at the Hopkins Center for the Arts\]. And, of course, the cool guys would come and say \[imitates, ironically, a dumb-sounding man\], "Hey, we're trying to read here." And I'd say, "No, the Hop is for entertainment." And had to go to the dean and get a ruling, so that was---
 
 We were always in trouble. You know, we were growing our hair over our ears, and nobody had hair over their ears at that time, so---plus I was in DKE \[pronounced Deke\]. There used to be a DKE chapter on campus, Delta Kappa Epsilon, and it was---oh, we were last in academics and last in sports and, you know, a small number, and I was the only Jewish guy in that fraternity, so they made me chaplain. But it was---it was sort of a non-fraternity fraternity. But I also enjoyed it for that reason. I was very pleased that it wasn't the mainstream kind of Dartmouth cool.
 
@@ -185,7 +185,7 @@ So anyway,---and I had the fortune of being in a play with him once. So I acted 
 
 But I did do French, and there were about five French majors in my year, so we---we really got all our great stuff. \[Lawrence\] Larry Harvey was there. He headed the French department at the time. David Sices \[pronounced SIGH-sees\] was there. \[Richard E.\] Dick Gregerson was there. He was my mentor. Larry Harvey was---you know, an international reputation.
 
-And he---when I started trying to decide my major---you know, I was speaking to Dick Gregerson, who was just four years older than I. He's a Dartmouth '59, and he was almost finished with his thesis, not quite, and he---I said, "I don't know whether to major in French or in English." He said, "You know, you'll always be able to read English."</u>
+And he---when I started trying to decide my major---you know, I was speaking to Dick Gregerson, who was just four years older than I. He's a Dartmouth '<date when="1959">59</date>, and he was almost finished with his thesis, not quite, and he---I said, "I don't know whether to major in French or in English." He said, "You know, you'll always be able to read English."</u>
 
 
 <u who="#REED-WESTON">\[Chuckles.\]</u>
@@ -199,19 +199,19 @@ And he---when I started trying to decide my major---you know, I was speaking to 
 
 <u who="#PACHT">And this paid everything: tuition, books and a living allowance and everything else. And so I said, "Aw, man! You know, I want to be a bachelor in New York and do that thing." Dick says, "Look, if you don't go to California now, when are you gonna go to California?" So with the same impeccable logic, that got me into a French---to be a French major.  So I said, "Okay." So I went off to California and started living in Palo Alto.
 
-Of course, Vietnam was heating up at this time. It was already an issue when we were on campus because, you know, when we were singing antiwar songs at the Top of the Hop, we'd take shit from people who were standing around. But it was mild shit because we weren't really deep into it, you know. The Gulf of Tonkin Resolution was, what, in '64?</u>
+Of course, Vietnam was heating up at this time. It was already an issue when we were on campus because, you know, when we were singing antiwar songs at the Top of the Hop, we'd take shit from people who were standing around. But it was mild shit because we weren't really deep into it, you know. The Gulf of Tonkin Resolution was, what, in '<date when="1964">64</date>?</u>
 
 
 <u who="#REED-WESTON">Mm-hm.</u>
 
 
-<u who="#PACHT">So things were happening, but we were pretty insulated from them.  You know, it still took---at that time, it still took eight hours to get to Dartmouth from New York City because the interstate wasn't finished until '67, so we were a long way---and you still couldn't get \[New York\] Yankee games on the radio; that's why I became a \[Boston\] Red Sox fan.</u>
+<u who="#PACHT">So things were happening, but we were pretty insulated from them.  You know, it still took---at that time, it still took eight hours to get to Dartmouth from New York City because the interstate wasn't finished until '<date when="1967">67</date>, so we were a long way---and you still couldn't get \[New York\] Yankee games on the radio; that's why I became a \[Boston\] Red Sox fan.</u>
 
 
 <u who="#REED-WESTON">\[Chuckles.\]</u>
 
 
-<u who="#PACHT">And it was---not everybody really knew what the hell was going on, you know? Protests against ROTC \[Reserve Officers' Training Corps\] were just starting. I don't even remember anything happening when I was on campus. But when I got to Stanford, things were really getting hot.  It was the---I arrived in September of '67, which was right after the Summer of Love, which was when things were starting to turn bad. You know, Haight-Ashbury was starting to fall apart. The bad guys were getting into the trafficking in hallucinogenic drugs. You know, they weren't---you couldn't tell---you couldn't be sure that what you were getting was what you were looking for. So things were starting to---things were starting to fray around the edges.
+<u who="#PACHT">And it was---not everybody really knew what the hell was going on, you know? Protests against ROTC \[Reserve Officers' Training Corps\] were just starting. I don't even remember anything happening when I was on campus. But when I got to Stanford, things were really getting hot.  It was the---I arrived in September of '<date when="1967">67</date>, which was right after the Summer of Love, which was when things were starting to turn bad. You know, Haight-Ashbury was starting to fall apart. The bad guys were getting into the trafficking in hallucinogenic drugs. You know, they weren't---you couldn't tell---you couldn't be sure that what you were getting was what you were looking for. So things were starting to---things were starting to fray around the edges.
 
 And protests. People started to protest. There were protests virtually every week, even on the Stanford campus or in San Francisco. Stanford had something called the Stanford Research Institute, which was working on things like the soldierless battlefield, guns that would automatically shoot whatever---you know, when things moved. So we would protest there, and get gassed in San Francisco---all kinds of things.
 
@@ -237,7 +237,7 @@ And so after I dropped out of Stanford, I drove south until I could sit naked so
 
 I remember where I stopped. I saw a guy who was up on top of a rise, Missouri license plates, a station wagon, and he wore his pants up to here \[demonstrates\], and he was looking through goggles. The guy must have been in his 70s. And I went up to him and said, "Hi. I just spent four days and three nights in the desert." \[Laughter.\] And he said, "Don't worry, you'll meet a nice girl. You'll get married, and you'll be okay." \[Laughs.\]
 
-And then that's when I decided, *You have to go back to Dartmouth and see*--because I kind of imagined this reunion moment---you know, everybody would be drawn back to Dartmouth from Green Key \[Weekend\] 1969, and we'd all figure out what the next step was to save the world.
+And then that's when I decided, *You have to go back to Dartmouth and see*--because I kind of imagined this reunion moment---you know, everybody would be drawn back to Dartmouth from Green Key \[Weekend\] <date when="1969">1969</date>, and we'd all figure out what the next step was to save the world.
 
 So I went back---I had a job. I actually had a job. After I came out of the desert, I got a job at the Chisos Mountains Basin Motel inside Big Bend National Park, which was---there are these mountains. You know, it's about a 5,000-foot plateau there. The Rio Grande \[River\] cuts through the channels. It's the southern border of the United States---you know, where it comes down from Mexico and the southern border of Texas goes up like that and then empties into the Gulf \[of Mexico\]. Big Bend National Park is in that big bend in the river.
 
@@ -255,13 +255,13 @@ So I walked in, and then we spent 12 hours talking with lawyers and trying to fi
 
 And then we all got arrested. I got booked, and we were on trial two days later. Forty-six of us, I think, were convicted and sentenced to a month in jail and a hundred-dollar fine for taking over---for not leaving the building, we were in contempt of court. And this requires more beans.
 
-And so we wrote manifestos, you know. And there were guys---I think---I don't know. I think I was the oldest. I was a '67. There were a couple of '68s. There were '69s who were going to graduate in a month, so they were trying to finish their courses. And then there were some guys from '70 and '71 also. We had fourteen men in our county jail. We were in Rockingham County. That was the most in any jail. They sent us all around New Hampshire because there were too many for one county to bear the expense.
+And so we wrote manifestos, you know. And there were guys---I think---I don't know. I think I was the oldest. I was a '<date when ="1967">67</date>. There were a couple of '<date when="1968">68s</date>. There were '<date when="1969">69s</date> who were going to graduate in a month, so they were trying to finish their courses. And then there were some guys from '<date when="1970">70</date> and '<date when = "1971">71</date> also. We had fourteen men in our county jail. We were in Rockingham County. That was the most in any jail. They sent us all around New Hampshire because there were too many for one county to bear the expense.
 
-And so we kind of had a little bit of a power base. You know, when they tried to put one guy in solitary, the rest of us used my cellmate, \[Donald E.\] Don Miller, who was a '68 or---I forget what he is; '69 maybe. But he was tai chi. You know, he was the only guy who resisted arrest when we left Parkhurst, so he got Maced. And when we were walking up the stairs after having my dinner, which they served us at four o'clock, he was walking too slow for the guard, and the guard said, "Move along," and he gave the guard some shit, and they wanted to put him in solitary, so---but we protested. We refused to go back into our cells, and they released him.
+And so we kind of had a little bit of a power base. You know, when they tried to put one guy in solitary, the rest of us used my cellmate, \[Donald E.\] Don Miller, who was a '<date when="1968">68</date> or---I forget what he is; '<date when ="1969">69</date> maybe. But he was tai chi. You know, he was the only guy who resisted arrest when we left Parkhurst, so he got Maced. And when we were walking up the stairs after having my dinner, which they served us at four o'clock, he was walking too slow for the guard, and the guard said, "Move along," and he gave the guard some shit, and they wanted to put him in solitary, so---but we protested. We refused to go back into our cells, and they released him.
 
 It was an interesting time. At the end of the month, we had over 300 books in the 14 cells---seven cells; there were 14 of us. It was an interesting time, but we learned that, you know, you can't do anything when you're in jail. You have no power, and nobody listens to you.  \[Chuckles.\] You have no--- unless you're Nelson Mandela or something, nobody cares what you write when you're in jail. All of our manifestos were nothing.
 
-But we did decide that when we came out, we'd have to get together, so we came out and watched the commencement in 1969, and then---and a bunch of us decided to rent a house together in Hartland, Vermont, which we did. And so that was the beginning of the Wooden Shoe Commune. There were one guy from '66, David \[H.\] Guest, who still lives in the Upper Valley, who runs Killdeer Farm, and \[Edward M.\] Ed Levin, who was a '69, and \[Robert G.\] Rob Nichols, who was a '69. Rob and Ed are both dead. And me, Odessa \[Piper\] and Carol \[Pacht\].
+But we did decide that when we came out, we'd have to get together, so we came out and watched the commencement in <date when="1969">1969</date>, and then---and a bunch of us decided to rent a house together in Hartland, Vermont, which we did. And so that was the beginning of the Wooden Shoe Commune. There were one guy from '<date when="1966">66</date>, David \[H.\] Guest, who still lives in the Upper Valley, who runs Killdeer Farm, and \[Edward M.\] Ed Levin, who was a '<date when="1969">69</date>, and \[Robert G.\] Rob Nichols, who was a '<date when="1969">69</date>. Rob and Ed are both dead. And me, Odessa \[Piper\] and Carol \[Pacht\].
 
 So we rented this house in Hartland, and that was the third commune. I count, like, the first 12 hours in the administration building. That becomes the first commune. And then the 26 days at Rockingham. (They gave us four days off for good behavior.) That was the second commune, and then the third commune was the Wooden Shoe. So we rented it for a year, and then we realized that rent was just pissing money down the drain. We decided we had to buy a place, so we borrowed \$9,000 from Jake's father, who was a professor at the Tuck School \[of Business at Dartmouth\], and \$1,000 from Andrew Leddy, who was a professor at Dartmouth, and we bought 35 acres in Canaan at the end of a dirt road.
 
@@ -285,7 +285,7 @@ Carol was elected to the New Hampshire state legislature and served a term, and 
 
 And that's when---we left after five and a half years because we got tired of going through eight consciousnesses to get a glass of water.
 
-So that was---that's mostly the Vietnam stuff. I mean, by then it was 1975. We left in October of 1975. So our activism---you know, we were very peripheral to what was going on at the college from '70 to '75. We were anti war. People would come and stay with us for a while, but we had this vision that, you know, the urban lefties would come up to the country and relax and then they'd go back and get involved with stuff.  None of that ever materialized. What we essentially did was carve out a path in a place, which was previously very conservative, where we earned the respect of the people who were living in that town and made lives that had meaning outside of the mainstream. We weren't part of the war machine. You know, we weren't contributing to the war economy, we thought, so---
+So that was---that's mostly the Vietnam stuff. I mean, by then it was <date when="1975">1975</date>. We left in October of <date when="1975">1975</date>. So our activism---you know, we were very peripheral to what was going on at the college from '<date when="1970">70</date> to '<date when ="1975">75</date>. We were anti war. People would come and stay with us for a while, but we had this vision that, you know, the urban lefties would come up to the country and relax and then they'd go back and get involved with stuff.  None of that ever materialized. What we essentially did was carve out a path in a place, which was previously very conservative, where we earned the respect of the people who were living in that town and made lives that had meaning outside of the mainstream. We weren't part of the war machine. You know, we weren't contributing to the war economy, we thought, so---
 
 We hung out with a couple of interesting people. I mean, we went to some events with a guy named Murray Bookchin, B-o-o-k-c-h-i-n, who was a thinker who was up in university---I think it was at the University of Vermont or Goddard College or one of those colleges. But he wrote several books on, you know, what was going to happen after---what did he call it?---the post- ---it was, like,---it was a time of plenty, and he was writing books about what happens when this time of plenty passes. He was pretty interesting.
 
@@ -297,7 +297,7 @@ And we read lots of books, and we did things, but basically what we did was chan
 
 <u who="#PACHT">But most of the time---most of the time we weren't involved, so that's the whole story.
 
-When we got to '75, you know, that's when---that's when the commune sort of started breaking up. Carol and I left, and that's when I got a mainstream job. Take care of people with developmental disabilities.</u>
+When we got to '<date when="1975">75</date>, you know, that's when---that's when the commune sort of started breaking up. Carol and I left, and that's when I got a mainstream job. Take care of people with developmental disabilities.</u>
 
 
 <u who="#REED-WESTON">All right. So there are a few things I'd like to go back to,---</u>
@@ -327,7 +327,7 @@ When we got to '75, you know, that's when---that's when the commune sort of star
 <u who="#REED-WESTON">How do you think that affected how you viewed what you would do after high school?</u>
 
 
-<u who="#PACHT">Well, yeah, it's true. My father had told me that he wanted to be doctor, and he was only able to do---is take a couple of courses at community college before he had to start working. He was born in 1917, so he wasn't drafted until 1943, because he had a kid in 1942, and having a kid kept you out until '43, when they really needed everybody.  And then he was assigned as a---he didn't make chief petty officer, but he was a petty officer. He was the guy---have you ever watched the old war movies? There's a guy up on a platform leading everybody in jumping jacks.</u>
+<u who="#PACHT">Well, yeah, it's true. My father had told me that he wanted to be doctor, and he was only able to do---is take a couple of courses at community college before he had to start working. He was born in <date when = "1917">1917</date>, so he wasn't drafted until <date when="1943">1943</date>, because he had a kid in <date when = "1942">1942</date>, and having a kid kept you out until '<date when="1943">43</date>, when they really needed everybody.  And then he was assigned as a---he didn't make chief petty officer, but he was a petty officer. He was the guy---have you ever watched the old war movies? There's a guy up on a platform leading everybody in jumping jacks.</u>
 
 
 <u who="#REED-WESTON">\[Chuckles.\]</u>
@@ -409,7 +409,7 @@ And then the number thing came out while my 1-Y was starting to look shaky. What
 <u who="#REED-WESTON">Where were you when that happened?</u>
 
 
-<u who="#PACHT">I was already living in Hartland. That was the first year that---after we got out of jail. I think that's---no, it must have been after that because while I was in Hartland, I went for my pre-induction physical, so it was the winter of '69-'70, was when I went for my pre-induction physical, so the lottery must have been after that, because I had a high number, and was never---they never got beyond the low numbers, so---</u>
+<u who="#PACHT">I was already living in Hartland. That was the first year that---after we got out of jail. I think that's---no, it must have been after that because while I was in Hartland, I went for my pre-induction physical, so it was the winter of '<date when="1969">69</date>-'<date when="1970">70</date>, was when I went for my pre-induction physical, so the lottery must have been after that, because I had a high number, and was never---they never got beyond the low numbers, so---</u>
 
 
 <u who="#REED-WESTON">So did you worry about the draft at all while you were in college or---</u>
@@ -439,7 +439,7 @@ And then the number thing came out while my 1-Y was starting to look shaky. What
 <u who="#REED-WESTON">\[Laughs.\]</u>
 
 
-<u who="#PACHT">It's lovely. But---no, 100 degrees in the summer; it didn't really have any attraction for me. California? Maybe, but, you know, I didn't need the earthquakes, and it was so far away, and I didn't care much about that. I didn't know much about the Northwest. But it was my---I had a cousin who went to Dartmouth. My father's first cousin \[Rudolph (Rudy) Pacht\] was the Class of '35. And he came to the house to visit, and he was talking about his father, who was my father's uncle, having just received some award and they were going to have a dinner, and he said to my father, "Well, if you can't go, I think a congratulatory telegram would be in order." And I thought, *You motherfucker! Who are you---you fuck! I'm definitely gonna go to Dartmouth. I'm gonna have a better record than you did, so I can piss on your grave.*
+<u who="#PACHT">It's lovely. But---no, 100 degrees in the summer; it didn't really have any attraction for me. California? Maybe, but, you know, I didn't need the earthquakes, and it was so far away, and I didn't care much about that. I didn't know much about the Northwest. But it was my---I had a cousin who went to Dartmouth. My father's first cousin \[Rudolph (Rudy) Pacht\] was the Class of '<date when="1935">35</date>. And he came to the house to visit, and he was talking about his father, who was my father's uncle, having just received some award and they were going to have a dinner, and he said to my father, "Well, if you can't go, I think a congratulatory telegram would be in order." And I thought, *You motherfucker! Who are you---you fuck! I'm definitely gonna go to Dartmouth. I'm gonna have a better record than you did, so I can piss on your grave.*
 
 And sure enough, I get up there---and he was a big football jock, and everybody knew him. The guys who were handing out the uniforms for football---I don't remember their names; they were, like, Joe and Eddie.  Everybody knew who they were. All the jocks knew who they were. And they were the guys who were there, had been there, and they---the guy went, "Pacht, Pacht. Rudy Pacht?" he says. I said, "Yeah, he was my cousin."  So he was a great football player. He never passed a language course.  And so I had to go to Dartmouth. That's why I went to Dartmouth, was because Rudy insulted my father.</u>
 
@@ -447,7 +447,7 @@ And sure enough, I get up there---and he was a big football jock, and everybody 
 <u who="#REED-WESTON">\[Chuckles.\]</u>
 
 
-<u who="#PACHT">But when we came up, you know, we flew up in April of '63 in a \[Douglas\] DC-3. It's a plane that sort of rests on its tail, along like that \[demonstrates\]. And I actually was on the same plane with Jerry \[J.\] Zaks. I don't know if you ever heard of Jerry.</u>
+<u who="#PACHT">But when we came up, you know, we flew up in April of '<date when = "1963">63</date> in a \[Douglas\] DC-3. It's a plane that sort of rests on its tail, along like that \[demonstrates\]. And I actually was on the same plane with Jerry \[J.\] Zaks. I don't know if you ever heard of Jerry.</u>
 
 
 <u who="#REED-WESTON">\[No audible response.\]</u>
@@ -540,7 +540,7 @@ You know, it was more Confucius than Mao. You know, you drop a pebble in the pon
 <u who="#REED-WESTON">Did you find like-minded individuals in California?</u>
 
 
-<u who="#PACHT">You know, I was there from---let's see, from September of '67 to January of '69, so I was really there only about 14 months before I threw my stuff in the car and drove off to the Northwest. It was after \[President Richard M.\] Nixon's inaugural ball. In fact, it was January 20^th^. The night that he was elected, I was watching the coverage on TV, and I just---I freaked out. I thought the world was going to come to an end because he became the president, and I had to---I really had to leave.
+<u who="#PACHT">You know, I was there from---let's see, from September of '<date when="1967">67</date> to January of '<date when="1969">69</date>, so I was really there only about 14 months before I threw my stuff in the car and drove off to the Northwest. It was after \[President Richard M.\] Nixon's inaugural ball. In fact, it was January 20^th^. The night that he was elected, I was watching the coverage on TV, and I just---I freaked out. I thought the world was going to come to an end because he became the president, and I had to---I really had to leave.
 
 So I took my stereo and my guitar and my books, and---I didn't see anything at Stanford or on the campus besides being in French, which, as I said, you know, I had to be 24 hours in an ivory tower doing only French, and I couldn't pay attention to it anymore. I had to figure out---so I just had to get away from it.
 
@@ -598,7 +598,7 @@ But I didn't do it, and so now I just do what I'm doing. My boys are healthy, yo
 <u who="#REED-WESTON">Can you describe what it was like---I mean, you went to the Northwest. You mentioned that you were seeing communes there. Can you describe what that was like?</u>
 
 
-<u who="#PACHT">Yeah. Well, it was really---it felt like I had been an ox in a yoke and pulling this plow that had been put on me when I was eight years old, and I was, you know, living the script that had been written for me, to go to college and to go to graduate school. And I remember that night---I mean, like, it was the inaugural ball night. It was January 20^th^, 1969, and I put stuff in the car, and I just drove away, drove away from my apartment and got to Yreka, California, which is up in the north part, past the redwood forests and everything, and just parked and felt a sense of freedom that I'd never felt in my entire life.
+<u who="#PACHT">Yeah. Well, it was really---it felt like I had been an ox in a yoke and pulling this plow that had been put on me when I was eight years old, and I was, you know, living the script that had been written for me, to go to college and to go to graduate school. And I remember that night---I mean, like, it was the inaugural ball night. It was <date when="1969-01-20">January 20^th^, 1969</date>, and I put stuff in the car, and I just drove away, drove away from my apartment and got to Yreka, California, which is up in the north part, past the redwood forests and everything, and just parked and felt a sense of freedom that I'd never felt in my entire life.
 
 Of course, you know, the responsibility of paying back the stipend that I hadn't used and all that was---I hadn't thought about that yet, but I felt free for the first time, a different level of freedom than I'd ever felt in my life. Like, I could do anything that I wanted. Of course, I had that credit card. So I could fix the car and had gas and everything, so my folks were really supporting my breaking away, so if they had taken that away, I don't know what I would have done.
 
@@ -640,7 +640,7 @@ Do you have a deadline?</u>
 
 <u who="#PACHT">I'm trying to think about why---you know, why I left. I think I got a message that I had to go back to Stanford and wrap things up. You know, I had to tell the people at Stanford that I was definitely done, and I had to make arrangements to pay back the stipend, to give them back the money that was in my account, you know. And so I had to go back there to wrap that up. That's what brought me back, so I went back to Palo Alto.
 
-And then it was after I wrapped that up in Palo Alto that I drove south, because it was winter. It was January 20^th^ when I left, and it was still going to be winter for a long time, and I wanted to be completely free---a place where I could sit naked in the sun. What's what I looked for. So I drove south until there weren't any more fences, and that was inside Big Bend National Park. It's the first place that I found. But I stopped along the way at the University of Arizona, you know, and other places, and I met the one hippie at Arizona State University.</u>
+And then it was after I wrapped that up in Palo Alto that I drove south, because it was winter. It was <date when="1969-01-20"> January 20^th^</date> when I left, and it was still going to be winter for a long time, and I wanted to be completely free---a place where I could sit naked in the sun. What's what I looked for. So I drove south until there weren't any more fences, and that was inside Big Bend National Park. It's the first place that I found. But I stopped along the way at the University of Arizona, you know, and other places, and I met the one hippie at Arizona State University.</u>
 
 
 <u who="#REED-WESTON">\[Chuckles.\]</u>
@@ -718,7 +718,7 @@ So that's---that's what made the commitment, and then Carol and I made certain a
 <u who="#REED-WESTON">Why did you want to come back to Dartmouth?</u>
 
 
-<u who="#PACHT">Oh, because I---you know, I thought that---as I said, this union moment, you know, that if I was feeling this way, everybody in my generation would be feeling this way, and all of us who had been melted in the crucible at Dartmouth would be going back to campus for Green Key in 1969. So I truly thought that maybe there'd be people there who would be thinking the same way, because I had been bent in a certain way by being at Dartmouth and that maybe these other people would come back; maybe something would grow from that. So that's why I went back.
+<u who="#PACHT">Oh, because I---you know, I thought that---as I said, this union moment, you know, that if I was feeling this way, everybody in my generation would be feeling this way, and all of us who had been melted in the crucible at Dartmouth would be going back to campus for Green Key in <date when="1969">1969</date>. So I truly thought that maybe there'd be people there who would be thinking the same way, because I had been bent in a certain way by being at Dartmouth and that maybe these other people would come back; maybe something would grow from that. So that's why I went back.
 
 And I didn't know where else to go. I mean, it looked like the best possible place. I'd just been in the desert in Texas, traveled around, stopping at college campuses, went up to the Northwest. Maybe something would be happening at Dartmouth that would be part of that path---you know, the path to something sustainable. And then I saw the takeover and said, *This is it. I gotta get in on this.*</u>
 
@@ -750,7 +750,7 @@ So anything that drew attention to bringing the war---whether it was guerilla th
 <u who="#REED-WESTON">Okay. Can you walk me through exactly what happened once you went inside the administration building?</u>
 
 
-<u who="#PACHT">I have to tell you that everything I wrote from 1973---1963---actually, it was before '63. I started writing journals probably in '59. Everything I've written from 1959 to when the barn at the Wooden Shoe burned in 1973 was destroyed, so all of my notes from this whole era are gone. So it's simply memory. And I've learned---Lori just found some pictures of what our kitchen looked like before we redesigned---we redid it, which is probably 2003 or '4. And when I describe what the kitchen looked like, it's like a caricature of what it really looked like. I made it ten times darker and ten times smaller, and it was just ridiculous. So memory---and they're discovering this in law. You know, eye witness accounts are just worthless.
+<u who="#PACHT">I have to tell you that everything I wrote from <date when="1973">1973</date>---<date when="1963">1963</date>---actually, it was before '<date when="1963">63</date>. I started writing journals probably in '<date when="1959">59</date>. Everything I've written from <date when="1959">1959</date> to when the barn at the Wooden Shoe burned in <date when="1973">1973</date> was destroyed, so all of my notes from this whole era are gone. So it's simply memory. And I've learned---Lori just found some pictures of what our kitchen looked like before we redesigned---we redid it, which is probably <date when="2003">2003</date> or '<date when="2004">4</date>. And when I describe what the kitchen looked like, it's like a caricature of what it really looked like. I made it ten times darker and ten times smaller, and it was just ridiculous. So memory---and they're discovering this in law. You know, eye witness accounts are just worthless.
 
 So you wanted me to describe---tell me again what you wanted me to describe.</u>
 
@@ -766,7 +766,7 @@ Somebody had brought in a little piece of metal, like two inches by four inches,
 
 And then a lot of the time a lawyer came in, somebody called \[William A.\] Bill Baker. He's dead now, too. There was a firm called Baker &amp; Page here in Lebanon, and Bill Baker was brought in because people wanted to know what are the consequences? Because by that time, the takeover of administration buildings had been occurring in other students. And the big one was at Columbia. And I guess the people there came running out in a wedge, and they all got their heads cracked open by the police---you know, with batons and everything else. They got beaten up, and they got arrested.
 
-And so we at least knew that we were not going to do that. And we talked about it. You know, there'd be meetings, and there were lots of little meetings, you know, where people who were in the leadership of SDS were still meeting. And because I knew Don Miller, who was already an alum at that time---Don was---he must have been Class of '68. It must have been '68. Yeah, he was at least a year behind me. I don't think he was a '69, because the '69s were still on campus, so he was a '68. And Jake, who was Class of '66---he was there, and he had been in the Army, so they were part of the leadership.
+And so we at least knew that we were not going to do that. And we talked about it. You know, there'd be meetings, and there were lots of little meetings, you know, where people who were in the leadership of SDS were still meeting. And because I knew Don Miller, who was already an alum at that time---Don was---he must have been Class of '<date when="1968">68</date>. It must have been '<date when="1968">68</date>. Yeah, he was at least a year behind me. I don't think he was a '<date when="1969">69</date>, because the '<date when="1969">69</date>s were still on campus, so he was a '<date when="1968">68</date>. And Jake, who was Class of '<date when="1966">66</date>---he was there, and he had been in the Army, so they were part of the leadership.
 
 And the reason I was admitted to part of the leadership was because I at least knew Don from the old days, from when I was on campus, so I was able to sit around---at that time, I wasn't talking very much. I was reading the *I Ching*. I carried the *I Ching* with me all the time, and I read it, and I would cast the sticks or the coins every day, many times. And so I didn't talk much. So people who do that---you tend to listen to them when they speak, even if they're not very bright \[chuckles\], so I was living by the *I Ching*, and Don, because he was studying tai chi and everything else, respected the *I Ching*, and some of the other people, who had studied religion, knew it, knew what it was, and so---I was pretty deep into it. And I was seeing the whole world as a metaphor of the 64 hexagrams.
 
@@ -882,17 +882,17 @@ And that's what Kemeny did. He said, *Okay, this is really important.  You know,
 <u who="#REED-WESTON">Yeah. Do you think that the Parkhurst takeover was successful?</u>
 
 
-<u who="#PACHT">Well, you know, that was 1969. The war didn't end until--- what?---'76 or something?</u>
+<u who="#PACHT">Well, you know, that was <date when="1969">1969</date>. The war didn't end until--- what?---'<date when="1976">76</date> or something?</u>
 
 
-<u who="#REED-WESTON">Seventy-three.</u>
+<u who="#REED-WESTON"><date when="1973">Seventy-three</date>.</u>
 
 
-<u who="#PACHT">Seventy-three? Yeah. So I think we contributed a little something. You know, we changed some minds, and we mostly changed our own minds, too. I mean, you know, as district governor now, I'm going around---I have to speak to every one of the 42 clubs in my Rotary district. And the district governor is supposed to carry the message, the theme of the Rotary international president. And our theme this year is Light Up Rotary. I'm not going to talk about that. But I start out by telling them a little bit about who I am and how I got to where I was.  And I can't---
+<u who="#PACHT"><date when="1973">Seventy-three</date>? Yeah. So I think we contributed a little something. You know, we changed some minds, and we mostly changed our own minds, too. I mean, you know, as district governor now, I'm going around---I have to speak to every one of the 42 clubs in my Rotary district. And the district governor is supposed to carry the message, the theme of the Rotary international president. And our theme this year is Light Up Rotary. I'm not going to talk about that. But I start out by telling them a little bit about who I am and how I got to where I was.  And I can't---
 
 I realized quickly in my talks that I can't---everybody who's my age went through the Vietnam era, and every one of us made choices. You had to make a choice. You had to either---whether you were consciously making the choice or not, you either went or you didn't go. And if you didn't go, then what did you do, you know? And if you did go, then what did you do? How did you comport yourself when you were in there?
 
-So the whole---our whole generation is defined by that---that event, whether we were killed---May '58 \[sic\], a thousand-plus were killed, you know? A hundred more Canadians. There were hundreds of Australians, if not thousands, and untold numbers of Southeast Asian folks. So it was---it destroyed the economy and the agriculture of a country. I mean, it was, like, a huge cataclysm.
+So the whole---our whole generation is defined by that---that event, whether we were killed---May '<date when="1958">58</date> \[sic\], a thousand-plus were killed, you know? A hundred more Canadians. There were hundreds of Australians, if not thousands, and untold numbers of Southeast Asian folks. So it was---it destroyed the economy and the agriculture of a country. I mean, it was, like, a huge cataclysm.
 
 And I tell people, you know, that my path was on the other side, you know? And mostly it ended. You know, it ended when the caskets coming home washed into the current consciousness of the people, and they couldn't---it's the same way when Israel is doing this shit in Gaza, you know? And I'm Jewish, and I realize the situation of Israel, surrounded by millions of Arabs saying, "We're gonna push you into the ocean." And I understand that. But that's how Israel stops these things. When the Israeli public sees the caskets coming home, it's, like, it's not worth the price.</u>
 
@@ -900,7 +900,7 @@ And I tell people, you know, that my path was on the other side, you know? And m
 <u who="#REED-WESTON">Mm-hm.</u>
 
 
-<u who="#PACHT">You know, we got to figure out something else. So I think we contributed in a small way to changing a couple of things at the college, changing some consciousnesses of people, you know, from the classes of, mmm, '69 to '75 or something. Made some more even more conservative, but maybe opened some other minds. But, you know, it wasn't earth changing or anything.</u>
+<u who="#PACHT">You know, we got to figure out something else. So I think we contributed in a small way to changing a couple of things at the college, changing some consciousnesses of people, you know, from the classes of, mmm, '<date when="1969">69</date> to '<date when="1975">75</date> or something. Made some more even more conservative, but maybe opened some other minds. But, you know, it wasn't earth changing or anything.</u>
 
 
 <u who="#REED-WESTON">Mm-hm.</u>
@@ -1048,7 +1048,7 @@ But everybody had to cook, and if you didn't know how to cook, somebody would he
 <u who="#REED-WESTON">Nn-nn.</u>
 
 
-<u who="#PACHT">You should Google that because it was a big thing in the '60s.  It's still going on. E-s-a-l-e-n, the Esalen Institute. Some of the people who had been to Esalen---they developed these things called encounter groups, where we were supposed to encounter each other as pure human beings you know?</u>
+<u who="#PACHT">You should Google that because it was a big thing in the '<date when="1960">60s</date>.  It's still going on. E-s-a-l-e-n, the Esalen Institute. Some of the people who had been to Esalen---they developed these things called encounter groups, where we were supposed to encounter each other as pure human beings you know?</u>
 
 
 <u who="#REED-WESTON">\[Chuckles.\]</u>
@@ -1108,13 +1108,13 @@ You can be as free as you want, but you try to live in a three-person relationsh
 <u who="#REED-WESTON">When was she elected?</u>
 
 
-<u who="#PACHT">She served in---I guess it must have been the elections of '76, so she served '78-'79.</u>
+<u who="#PACHT">She served in---I guess it must have been the elections of '<date when="1976">76</date>, so she served '<date when="1978">78</date>-'<date when="1979">79</date>.</u>
 
 
 <u who="#REED-WESTON">Mm-hm.</u>
 
 
-<u who="#PACHT">And then she won the election in Canaan, in the election of '78, but she had withdrawn already. Her name was still on the ballot, but she wasn't going to serve.</u>
+<u who="#PACHT">And then she won the election in Canaan, in the election of '<date when="1978">78</date>, but she had withdrawn already. Her name was still on the ballot, but she wasn't going to serve.</u>
 
 
 <u who="#REED-WESTON">Okay.</u>
@@ -1126,7 +1126,7 @@ You can be as free as you want, but you try to live in a three-person relationsh
 <u who="#REED-WESTON">Mm-hm.</u>
 
 
-<u who="#PACHT">In '79. We already had Jesse, who was about nine years old.</u>
+<u who="#PACHT">In '<date when="1979">79</date>. We already had Jesse, who was about nine years old.</u>
 
 
 <u who="#REED-WESTON">Do you think your experience with Parkhurst and getting arrested there changed your political views at all?</u>
@@ -1172,7 +1172,7 @@ But, you know, the oligarchs that we had set up in power and who were benefiting
 <u who="#PACHT">But it felt great to have it be done.</u>
 
 
-<u who="#REED-WESTON">Mm-hm. Yeah. What did you do after you left the commune in 1975?</u>
+<u who="#REED-WESTON">Mm-hm. Yeah. What did you do after you left the commune in <date when="1975">1975</date>?</u>
 
 
 <u who="#PACHT">Oh. Well, Carol and I moved to---we became caretakers for a house in Dorchester, New Hampshire, and I got my job as the CEO of what became United Developmental Services.</u>
@@ -1187,9 +1187,9 @@ But, you know, the oligarchs that we had set up in power and who were benefiting
 <u who="#REED-WESTON">\[Chuckles.\]</u>
 
 
-<u who="#PACHT">It came down to here \[demonstrates\]. But I think that the people who were doing it realized that if I got the job, I would do it up to here \[demonstrates\], the way I did everything else in my life.  And I did. It was a wonderful business to be in because the tide of civil rights reached people with developmental disabilities in the 1980s, and New Hampshire was right out front with that movement. We were the first state to close its institution for people with mental retardation in the whole country, so we were nationally known.
+<u who="#PACHT">It came down to here \[demonstrates\]. But I think that the people who were doing it realized that if I got the job, I would do it up to here \[demonstrates\], the way I did everything else in my life.  And I did. It was a wonderful business to be in because the tide of civil rights reached people with developmental disabilities in the <date when="1980">1980s</date>, and New Hampshire was right out front with that movement. We were the first state to close its institution for people with mental retardation in the whole country, so we were nationally known.
 
-I was in a position where we were going to national conferences. I was meeting people at the forefront of thinking about how to liberate people with disabilities, how to treat them, how to do mainstreaming in the right way, how to---because mainstreaming then started---had other effects on people with autism, on thinking about boys versus girls, how do they mature, you know, what kind of structures do boys flourish in versus, you know, rule-bound things. So it was a great time. It was a great time. I was making \$14,000 in 1976, so it was good money. I actually bought my first car.</u>
+I was in a position where we were going to national conferences. I was meeting people at the forefront of thinking about how to liberate people with disabilities, how to treat them, how to do mainstreaming in the right way, how to---because mainstreaming then started---had other effects on people with autism, on thinking about boys versus girls, how do they mature, you know, what kind of structures do boys flourish in versus, you know, rule-bound things. So it was a great time. It was a great time. I was making \$14,000 in <date when="1976">1976</date>, so it was good money. I actually bought my first car.</u>
 
 
 <u who="#REED-WESTON">Mm-hm.</u>
@@ -1221,7 +1221,7 @@ So I think I put Twin Pines---you know, we didn't have two nickels to rub togeth
 
 <u who="#PACHT">And they're doing fine. So that's what I did.
 
-And then after Twin Pines in 2012 I started working part time as the development director for the Grafton County Senior Citizens Council and only did that for about a year and a half, and then my Rotary duties became so consuming that I was falling asleep at work, and I couldn't keep up, so---Lori is still working, so she said, you know, for a year and a half I'm going to be able to do this without doing anything else, which is good because I spend about eight hours a day on it.  \[Chuckles\].</u>
+And then after Twin Pines in <date when="2012">2012</date> I started working part time as the development director for the Grafton County Senior Citizens Council and only did that for about a year and a half, and then my Rotary duties became so consuming that I was falling asleep at work, and I couldn't keep up, so---Lori is still working, so she said, you know, for a year and a half I'm going to be able to do this without doing anything else, which is good because I spend about eight hours a day on it.  \[Chuckles\].</u>
 
 
 <u who="#REED-WESTON">\[Chuckles.\] What kind of impact do you think Vietnam has had on the rest of your life?</u>
