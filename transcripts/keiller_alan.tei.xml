@@ -15,7 +15,7 @@
       </publicationStmt>
       <sourceDesc>
         <recordingStmt>
-          <recording xml:id="primary_recording" type="audio" dur-iso="">
+          <recording xml:id="primary_recording" type="audio" dur-iso="0">
             <!-- https://www.digi.com/resources/documentation/digidocs/90001437-13/reference/r_iso_8601_duration_format.htm -->
             <media url="" mimeType="MIMEaudio/wav"/>
           </recording>
@@ -131,7 +131,7 @@
       <u who="MARKOWITZ">What was campus like when you first got here?</u>
       <u who="KEILLER">It was very exciting. I—I didn’t—I knew my brother, obviously.</u>
       <u who="MARKOWITZ">Oh, right.</u>
-      <u who="KEILLER">He was a year older, but he lived in Hitchcock [Hall]. And I was in Woodward [Hall]. And I—I never lived away from home. I never went to camp during the summer, and so it was a big difference. I roomed with a guy who was from <placeName>Nebraska</placeName>, a guy I’m still good friends with. And over a hundred of us out of—I guess it was about 750—well over a hundred played freshman football. So I was a football—I played football in high school, and it was a great experience to be on the freshman football team, and I got to know a lot of people quickly. And that really kind of got me going. And I think we had a very close group of people in our dorm, Woodward. And so I felt very comfortable right away.</u>
+      <u who="KEILLER">He was a year older, but he lived in <placeName>Hitchcock [Hall]</placeName>. And I was in <placeName>Woodward [Hall]</placeName>. And I—I never lived away from home. I never went to camp during the summer, and so it was a big difference. I roomed with a guy who was from <placeName>Nebraska</placeName>, a guy I’m still good friends with. And over a hundred of us out of—I guess it was about 750—well over a hundred played freshman football. So I was a football—I played football in high school, and it was a great experience to be on the freshman football team, and I got to know a lot of people quickly. And that really kind of got me going. And I think we had a very close group of people in our dorm, <placeName>Woodward</placeName>. And so I felt very comfortable right away.</u>
       <u who="MARKOWITZ">Mm-hm. </u>
       <u who="KEILLER">I had—my wife and I dated from—she was a freshman; I was a sophomore in high school.</u>
       <u who="MARKOWITZ">Oh, wow.</u>
@@ -199,11 +199,11 @@
       <u who="MARKOWITZ">—getting commissioned and sort of what happened next? You mentioned you also got married around that time, so—</u>
       <u who="KEILLER">Yes. So, yeah, we—we were engaged for—we had dated all those years, and then—and really didn’t date other people, and so we had got engaged about nine months before we got married, but we sort of knew we were. And it was—we got—I graduated I guess it was, like, <date when="1967-06-10">June</date> whatever, 10th or <date when="1967-06-12">12th</date> or something. The day before, you get commissioned, so you’re a commissioned officer then, and your in. [Chuckles.]</u>
       <u who="MARKOWITZ">Mm-hm.</u>
-      <u who="KEILLER">And I think it was a week later we got married, <date when="1967-06-18">June 18th</date>. And I was quite unusual in that when I was at <placeName>Tuck School</placeName> in the spring of my second year, I thought I was going to go into the <orgName>[U.S. Navy] Supply Corps</orgName> in the <orgName>Navy</orgName>, which is sort of the business end of the <orgName>Navy</orgName>, supporting the ships and so forth, and they needed extra—there was a request that came from <placeName>Washington [D.C.]</placeName> that [they] needed additional nuclear officers, so the situation was that if you said you would volunteer, you flew down to <placeName>Washington</placeName> and you were interviewed by <persName>Admiral [Hyman G.] Rickover</persName>. Do you know who <persName>Admiral Rickover w</persName>as?</u>
+      <u who="KEILLER">And I think it was a week later we got married, <date when="1967-06-18">June 18th</date>. And I was quite unusual in that when I was at <placeName>Tuck School</placeName> in the spring of my second year, I thought I was going to go into the <orgName>[U.S. Navy] Supply Corps</orgName> in the <orgName>Navy</orgName>, which is sort of the business end of the <orgName>Navy</orgName>, supporting the ships and so forth, and they needed extra—there was a request that came from <placeName>Washington [D.C.]</placeName> that [they] needed additional nuclear officers, so the situation was that if you said you would volunteer, you flew down to <placeName>Washington</placeName> and you were interviewed by <persName>Admiral [Hyman G.] Rickover</persName>. Do you know who <persName>Admiral Rickover</persName> was?</u>
       <u who="MARKOWITZ">No, I haven’t heard that.</u>
       <u who="KEILLER">You should write that down and look him up. Google him.</u>
       <u who="MARKOWITZ">[Chuckles.]</u>
-      <u who="KEILLER"><persName>Rickover</persName>. He was the father of the nuclear <orgName>Navy</orgName>, and he had—<persName>Hyman Rickover</persName>, <orgName>Naval Academy</orgName>. I think ’22. He was the guy who developed the [USS] Nautilus, the first nuclear-powered submarine, and then a series of submarines after that. And eventually, when I was in, there were four surface ships that were powered by nuclear power plants. So most of the people who were in the nuclear power program were engineers, and all of the people who graduated from the <orgName>Naval Academy</orgName> were all engineers, so they were prime people to go in.But at the time, because of the Cold War and the <name type="event">Vietnam War</name>, they were building submarines faster than they could man them up,—</u>
+      <u who="KEILLER"><persName>Rickover</persName>. He was the father of the nuclear <orgName>Navy</orgName>, and he had—<persName>Hyman Rickover</persName>, <orgName>Naval Academy</orgName>. I think <orgName>’22</orgName>. He was the guy who developed the [USS] Nautilus, the first nuclear-powered submarine, and then a series of submarines after that. And eventually, when I was in, there were four surface ships that were powered by nuclear power plants. So most of the people who were in the nuclear power program were engineers, and all of the people who graduated from the <orgName>Naval Academy</orgName> were all engineers, so they were prime people to go in.But at the time, because of the Cold War and the <name type="event">Vietnam War</name>, they were building submarines faster than they could man them up,—</u>
       <u who="MARKOWITZ">Right.</u>
       <u who="KEILLER">—so they needed more people to go in and officers to go in, so I volunteered, thinking there was no way they would pick an accountant [both chuckle], right? And I had my interview with <persName>Rickover</persName>, and sure enough, I got selected. So we—soon—like, two weeks after we got married—we got married. Had a wonderful honeymoon in <placeName>Bermuda</placeName>, came up on temporary duty station to <placeName>Dartmouth</placeName> for about three or four weeks, and then I had to report to nuclear power school in <placeName>San Francisco Bay</placeName> area. So my wife and I drove across the country in about two weeks. We had a second honeymoon,—</u>
       <u who="MARKOWITZ">Right.</u>
@@ -211,7 +211,7 @@
       <u who="MARKOWITZ">Six months?</u>
       <u who="KEILLER">Six months.</u>
       <u who="MARKOWITZ">Oh, wow.</u>
-      <u who="KEILLER">What they call nuclear power school. And most of the people in my class—there were 60 of us—were <orgName>Naval Academy</orgName> graduates. We were all brand-new ensigns. I mean—and over half were just married, just like me. You couldn’t get married until you were commissioned, so everybody is newlywed. [Chuckles.] And you had this school that was—it was 10, 12, hours a day that you had to study. Either you were in class or studying to be able to—And then once—if you passed that, then you went to a prototype. Mine was in upstate <placeName>New York</placeName>, outside of <placeName>Saratoga Springs</placeName>, where <orgName>General Electric</orgName> had a demonstration power plant. Actually, once you got inside the containment area, it looked just like a ship.</u>
+      <u who="KEILLER">What they call nuclear power school. And most of the people in my class—there were 60 of us—were <orgName>Naval Academy</orgName> graduates. We were all brand-new ensigns. I mean—and over half were just married, just like me. You couldn’t get married until you were commissioned, so everybody is newlywed. [Chuckles.] And you had this school that was—it was 10, 12, hours a day that you had to study. Either you were in class or studying to be able to—And then once—if you passed that, then you went to a prototype. Mine was in <placeName>upstate New York</placeName>, outside of <placeName>Saratoga Springs</placeName>, where <orgName>General Electric</orgName> had a demonstration power plant. Actually, once you got inside the containment area, it looked just like a ship.</u>
       <u who="MARKOWITZ">Mm-hm.</u>
       <u who="KEILLER">So you—people like myself, officers and enlisted men, would learn how to operate the nuclear power plant that ran the ship,—</u>
       <u who="MARKOWITZ">Right.</u>
@@ -247,7 +247,7 @@
       <u who="MARKOWITZ">Okay.</u>
       <u who="KEILLER">—back and forth and probably do a bit loop. And we were often by ourselves, so we didn’t have—like, an aircraft carrier has a number of other ships being with it. And this sort of cloud of fishing boats would come around us, and you never knew—I mean, there could be a combat ship.</u>
       <u who="MARKOWITZ">Right.</u>
-      <u who="KEILLER">And thank goodness they weren’t doing things like the—<orgName>ISIS [Islamic State of Iraq and Syria, officially known as Islamic State of Iraq and the Levant, or ISIL]</orgName> does or <orgName>Al-Qaeda</orgName> does with ships that—like, the ship in—that was hit, the [USS] Cole. Remember that,—</u>
+      <u who="KEILLER">And thank goodness they weren’t doing things like the—<orgName>ISIS [Islamic State of Iraq and Syria, officially known as Islamic State of Iraq and the Levant, or ISIL]</orgName> does or <orgName>Al-Qaeda</orgName> does with ships that—like, the ship in—that was hit, the <orgName>[USS] Cole</orgName>. Remember that,—</u>
       <u who="MARKOWITZ">Yeah.</u>
       <u who="KEILLER">—when the ship was hit?</u>
       <u who="MARKOWITZ">Mm-hm.</u>
@@ -346,7 +346,7 @@
       <u who="KEILLER">—tactical nuclear weapons, but I—I don’t know.</u>
       <u who="MARKOWITZ">Right, right.</u>
       <u who="KEILLER">And then we had several different kinds of torpedoes, so that—and they were primarily antisubmarine weapons? So we were always very conscious of submarine activity.</u>
-      <u who="MARKOWITZ">Okay. That’s actually something that I’ve been wondering about a lot, because I feel like you always hear about antisubmarine activity in <name type="event">World War II</name> and the beginnings of the Cold War but never in terms of <name type="event">Vietnam</name>. It’s sort of—you always just hear about the—you know, the land war that was going on there, so—</u>
+      <u who="MARKOWITZ">Okay. That’s actually something that I’ve been wondering about a lot, because I feel like you always hear about antisubmarine activity in <name type="event">World War II</name> and the beginnings of the <name type="event">Cold War</name> but never in terms of <name type="event">Vietnam</name>. It’s sort of—you always just hear about the—you know, the land war that was going on there, so—</u>
       <u who="KEILLER">So the Vietnamese didn’t have much of a navy.</u>
       <u who="MARKOWITZ">Right.</u>
       <u who="KEILLER">The <orgName>North Vietnamese</orgName>. They had some boats. They didn’t have any submarines. So anybody—any submarine enemy would be the <orgName>Soviet Union</orgName>, and that’s it. I don’t think <orgName>China</orgName> had any at that time.</u>
@@ -451,7 +451,7 @@
       <u who="MARKOWITZ">Okay. </u>
       <u who="KEILLER">And so we were all very concerned about him going off to that. The other thing that was interesting: Our ship was based in <placeName>Long Beach, California</placeName>? And there’s a great big—there’s a great big naval base, and there’s a big long pier that goes out in the water. It’s a couple of miles long. And off of that is where the ships are. So there’s deep water that can come in, and yet it’s accessible by cars.I had the duty one weekend. It was Memorial Day weekend. I think it was <date when="1968-05-30">Memorial Day</date>. And so the public was allowed onto the base. And we were very concerned about protesters trying to storm the ship. So we had a plan to—I mean, to—the officer of the deck, who stands where the gangplank is?</u>
       <u who="MARKOWITZ">Mm-hm. </u>
-      <u who="KEILLER">—carries a weapon, and there are weapons available. But we were—we had hoses laid out. In case we had protestors come, we could put the hoses on them. And so the sense of a great deal of disruption, even reaching onto a naval base, even reaching to the ship, was still—And there was—there was concern about sabotage. You know, it could be either domestic sabotage or international. People were very angry, and, well, you know, the terrible events of <name type="event">[the] Kent State [University shootings]</name> happened, and people locked up and, you know, taking over presidents’ offices and that kind of stuff.</u>
+      <u who="KEILLER">—carries a weapon, and there are weapons available. But we were—we had hoses laid out. In case we had protestors come, we could put the hoses on them. And so the sense of a great deal of disruption, even reaching onto a naval base, even reaching to the ship, was still—And there was—there was concern about sabotage. You know, it could be either domestic sabotage or international. People were very angry, and, well, you know, the terrible events of [the] <name type="event">Kent State [University shootings]</name> happened, and people locked up and, you know, taking over presidents’ offices and that kind of stuff.</u>
       <u who="MARKOWITZ">Yeah.</u>
       <u who="KEILLER">But we were very much aware of the casualties that were going on while we were on the ship, either off shore or—once we came back, we went into training. We had to have some work done at a shipyard, but everybody—I mean, it was pretty all-cons- —not all-consuming. That’s a little—that’s—it was certainly top of mind. The war was very much top of mind.</u>
       <u who="MARKOWITZ">You—you said earlier that you came back and were—you were an instructor—</u>
@@ -480,7 +480,8 @@
       <u who="KEILLER">They were not going to Swift Boats.</u>
       <u who="MARKOWITZ">Right, right.</u>
       <u who="KEILLER">They were going to submarines and—but they were very important to operate the surface ships that were off of—like the <orgName>Enterprise</orgName> and, more importantly, the submarines. The submarines were sort of the key at that time for—we were so involved with the war, it was such a distraction, that it was really comforting to have the submarines and the deterrent of the submarines—</u>
-      <u who="MARKOWITZ">Sure.<persName>KEILLER	</persName>—against the <orgName>Soviets</orgName>.</u>
+      <u who="MARKOWITZ">Sure.</u>
+      <u who="KEILLER">	—against the <orgName>Soviets</orgName>.</u>
       <u who="MARKOWITZ">Right, right.</u>
       <u who="KEILLER">That was sort of the ace that you always had while you were doing this—what turned out to be a very destructive and not very helpful war.</u>
       <u who="MARKOWITZ">Yeah. That must have been interesting to have, on one hand, to on one hand be involved with the—you know, the air—sort of <orgName>Air Force</orgName> or naval aviation—</u>
@@ -651,7 +652,7 @@
       <u who="KEILLER">Oh, wow.</u>
       <u who="MARKOWITZ">—and sort of is looking back more critically on his memories—</u>
       <u who="KEILLER">Oh.</u>
-      <u who="MARKOWITZ">—and talking about it a lot more, so that—that’s what sparked my interest in the <orgName>Vietnamese navy</orgName> and the <orgName>Navy’s</orgName> role in <name type="event">Vietnam</name> in particular.</u>
+      <u who="MARKOWITZ">—and talking about it a lot more, so that—that’s what sparked my interest in the <orgName>Vietnamese navy</orgName> and the <orgName>Navy</orgName>’s role in <name type="event">Vietnam</name> in particular.</u>
       <u who="KEILLER">Yeah. It—it was a difficult time because, as I said, the context was your father’s generation was <name type="event">World War II</name>, the expectation of serving was very high, and so it was so easy to kind of—</u>
       <u who="MARKOWITZ">Right.</u>
       <u who="KEILLER">—the people who were in the military didn’t push back at all. That was their duty. But there were a lot of people who saw it differently that, you know, frankly had it right, probably. It just was a bad mistake.</u>
