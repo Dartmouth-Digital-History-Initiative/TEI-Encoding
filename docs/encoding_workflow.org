@@ -1,0 +1,303 @@
+#+options: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline
+#+options: author:t broken-links:nil c:nil creator:nil
+#+options: d:(not "LOGBOOK") date:t e:t email:nil f:t inline:t num:t
+#+options: p:nil pri:nil prop:nil stat:t tags:t tasks:t tex:t
+#+options: timestamp:t title:t toc:t todo:t |:t
+#+title: DDHI Encoding
+#+date: <2020-09-07 Mon>
+#+author: Clifford Wulfman
+#+email: cliff@agilehumanities.ca
+#+language: en
+#+select_tags: export
+#+exclude_tags: noexport
+#+creator: Emacs 27.1 (Org mode 9.3)
+
+* Converting Word-Encoded DVP Transcriptions to TEI
+  Converting a Word-encoded interview file to TEI is a two-step
+  process.
+
+** Perform basic conversion to TEI XML
+   #+begin_src sh
+         ddhi_convert WORDFILE.docx -o tmp.tei.xml
+    #+end_src
+
+** Add named-entity tags to the transcription
+   #+begin_src sh
+     ddhi_tag -o filename.tei.xml tmp.filename.xml
+   #+end_src
+
+** Update and correct the metadata in the TEIHeader
+   (See instructions elsewhere.)
+   - *IMPORTANT* Even if you do not choose to edit the metadata in the
+     teiHeader, you *must* supply a project-specific ID number in the
+     file; otherwise the other ddhi_encoder routines will not work.
+     The idno element /must/ be the final sub-element of
+     publicationStmt:
+     #+begin_src xml
+       <?xml version="1.0" encoding="utf-8"?>
+       <publicationStmt>
+	 <authority>
+	   <orgName>Dartmouth Digital History Initiative</orgName>
+	 </authority>
+	 <date>
+	   <!--  Date of publication, e.g. for citation purposes  -->
+	 </date>
+	 <idno type="DDHI">dvp_NNN</idno> <!-- Where NNN is a three-digit number -->
+       </publicationStmt>
+     #+end_src
+
+* Authorizing Names
+  DDHI employs linked open data to enrich its transcription corpus.  A
+  named-entity recognizer (Spacy) is used to perform initial tagging
+  of people, places, organizations, and events where they occur in the
+  interview; student encoders correct and extend this initial
+  tagging.  The DDHI then uses OpenRefine to link these named entities
+  with entries in the Wikidata knowledge base.  Linked data like this
+  can be used to enrich the DDHI's metadata (by automatically
+  supplying geo-coordinates for known places, for example) and to
+  unify references to common named entities across the corpus.
+
+
+** Names of Persons
+*** Extract the mentioned names
+    #+begin_src sh
+      ddhi_mentioned_persons TEIFILE > persons.tsv
+    #+end_src
+*** Authorize the names using OpenRefine
+    (OpenRefine instructions elsewhere)
+**** Add Columns to OpenRefine Table
+***** Add QID column
+      - from the pull-down chevron to the right of the word *persName*
+        in table header row select /Reconcile/ and then, from the menu
+        that appears, select /Add entity identifiers column/
+      - in the resulting dialog box, where you are prompted to provide
+        a new column name, enter /QID/; select OK
+**** Export OpenRefine Table to a tsv file
+     - Click on the /Export/ button in the upper righthand corner of
+       the OpenRefine window
+     - Select /Tab-separated value/
+
+     OpenRefine will save a file to your browser's default download
+     location; you may move it to your working directory or leave it
+     in place.
+*** Update the TEI file with OpenRefine data
+    #+begin_src sh
+      ddhi_update_persons TEIFILE TSVFILE > NEWFILE
+    #+end_src
+
+** Names of Organizations
+*** Extract the mentioned organizations
+    #+begin_src sh
+      ddhi_mentioned_orgs TEIFILE > orgs.tsv
+    #+end_src
+*** Authorize the organization names using OpenRefine
+    (See OpenRefine instructions elsewhere.)
+***** Add QID column
+      - from the pull-down chevron to the right of the word *orgName*
+        in table header row select /Reconcile/ and then, from the menu
+        that appears, select /Add entity identifiers column/
+      - in the resulting dialog box, where you are prompted to provide
+        a new column name, enter /QID/; select OK
+**** Export OpenRefine Table to a tsv file
+     - Click on the /Export/ button in the upper righthand corner of
+       the OpenRefine window
+     - Select /Tab-separated value/
+
+     OpenRefine will save a file to your browser's default download
+     location; you may move it to your working directory or leave it
+     in place.
+*** Update the TEI file with OpenRefine data
+    #+begin_src sh
+      ddhi_update_persons TEIFILE TSVFILE > NEWFILE
+    #+end_src
+
+** Names of Events
+*** Extract the mentioned names
+    #+begin_src sh
+      ddhi_mentioned_events TEIFILE > events.tsv
+    #+end_src
+*** Authorize the names using OpenRefine
+    (OpenRefine instructions elsewhere)
+**** Add Columns to OpenRefine Table
+***** Add QID column
+      - from the pull-down chevron to the right of the word *persName*
+        in table-header row select /Reconcile/ and then, from the menu
+        that appears, select /Add entity identifiers column/
+      - in the resulting dialog box, where you are prompted to provide
+        a new column name, enter /QID/; select OK
+***** Add date columns
+      - from the pull-down chevron to the right of the word *name* in
+        the table-header row select /Edit Column/ and then, from the
+        menu that appears, select /Add columns from reconciled values.../
+      - in the resulting dialog box, you will see a list of suggested
+        properties to add; select /end time/, /point in time/, and
+        /start time/ from the list.  You should see them added to the
+        Preview column.
+      - select OK
+**** Export OpenRefine Table to a tsv file
+     - Click on the /Export/ button in the upper righthand corner of
+       the OpenRefine window
+     - Select /Tab-separated value/
+
+     OpenRefine will save a file to your browser's default download
+     location; you may move it to your working directory or leave it
+     in place.
+*** Update the TEI file with OpenRefine data
+    #+begin_src sh
+      ddhi_update_events TEIFILE TSVFILE > NEWFILE
+    #+end_src
+
+** Names of Places
+*** Extract the mentioned names
+    #+begin_src sh
+      ddhi_mentioned_places TEIFILE > places.tsv
+    #+end_src
+*** Authorize the names using OpenRefine
+    (OpenRefine instructions elsewhere)
+**** Add Columns to OpenRefine Table
+***** Add QID column
+      - from the pull-down chevron to the right of the word *placeName*
+        in table-header row select /Reconcile/ and then, from the menu
+        that appears, select /Add entity identifiers column/
+      - in the resulting dialog box, where you are prompted to provide
+        a new column name, enter /QID/; select OK
+***** Add geo-coordinate  column
+      - from the pull-down chevron to the right of the word *placeName* in
+        the table-header row select /Edit Column/ and then, from the
+        menu that appears, select /Add columns from reconciled values.../
+      - in the resulting dialog box, you will see a list of suggested
+        properties to add; select /coordinate location/ from the list.
+        You should see it added to the Preview column.
+      - select OK
+**** Export OpenRefine Table to a tsv file
+     - Click on the /Export/ button in the upper righthand corner of
+       the OpenRefine window
+     - Select /Tab-separated value/
+
+     OpenRefine will save a file to your browser's default download
+     location; you may move it to your working directory or leave it
+     in place.
+*** Update the TEI file with OpenRefine data
+    #+begin_src sh
+      ddhi_update_places TEIFILE TSVFILE > NEWFILE
+    #+end_src
+
+* Local Named Entities
+  
+  Wikidata does not, of course, contain entries for every named
+  entity, real or imagined.  Because it is an open platform, anyone
+  may add an entity to Wikidata, provided it is [[https://www.wikidata.org/wiki/Help:Items#Understanding_items][notable]].  But most
+  narrators will refer to people and places that are neither in the
+  Wikidata authority database nor eligible to be placed there.  These
+  are names the project must manage itself: encoders must create
+  unique identifiers for the named entities (like Wikidata's Q-names)
+  that may be mapped to individual occurances of names in the text of
+  the interview, and which may be used across the corpus, whenever
+  that entity is mentioned.
+  
+  Later iterations of the DDHI Drupal tool will include a named-entity
+  manager, but until it is developed, the DVP will employ a
+  table-based manual method commonly used in libraries to manage
+  name-authority metadata.  This is a quick, agile solution, designed
+  to enable the students to continue their work and manage
+  project-specific named entities as quickly as possible.
+
+  This method is described below.
+
+* DDHI Named Authority Table
+   The DVP-in-DDHI project will use a shared Google Spreadsheet to
+   maintain the name authority file (NAF).  Agile has created the
+   table here.  Please do not alter the layout of this table: do not
+   change the names of columns or their order  If you feel you must
+   create additional columns for any reason, please consult with
+   Agile.
+
+   While editing a transcript's name list in OpenRefine, create a new
+   column named /dvp_id/.  Be sure to name it properly.
+
+   - from the pull-down menu at the top of the QID column, select
+     "Edit column/add column based on this column..."
+   - you will be presented with a dialog box.  Beside /new column
+     name/ enter dvp_id (no quotation marks, no capital letters); in
+     the box beneath the word /expression/, enter the word /null/.
+     Select /ok/ at the bottom of the dialog box to create the column.
+
+   Now, inspect the QID column for empty values. (You may sort the
+   column to put all the blank values at the top if you like.)  The
+   rows with no QID correspond with names that could not be found in
+   Wikidata and could not be created there because they do not meet
+   Wikidata's inclusion criteria).  For each of these "unauthorized
+   names", the students will do the following:
+
+   - *Has the entity already been assigned a project identifier?*
+     Students will look in the Google spreadsheet authority table.  If
+     the name has already been identified from another interview, the
+     student will use the project id for that name and enter it into
+     the dvp_id column.
+
+     *Things to watch out for.*  Encoders must be on the alert for
+     ambiguity.  The "Jane Smith" in one interview may or may not be
+     the same as the "Jane Smith" or the "Jane" in another.  Encoders
+     must read the interviews to discover the context of these
+     mentions in order to resolve ambiguous co-references.  Sometimes
+     it will not be possible to resolve an ambiguity: from the
+     interviews, it is not possible to determine that the name "Jane"
+     refers to the same person.  In those cases, the encoder should
+     assume they are not homonymous and create separate IDs for each
+     one.
+
+     Encoders should also be careful to avoid false homonyms.  The
+     "Jane Smith" in one interview may not be the same person as the
+     "Jane Smith" in another.
+
+   - *If not, create a new entry in the NAF.* The first three columns
+     are required.
+     
+     - enter a new identifier.  Please use the following procedure to
+       determine the new identifier:
+
+       - find the last-created identifier (the one with the highest number)
+       - add 1 to it
+       - enter the new identifier in the ID column
+
+       The format of the id should be the following:
+
+       #+begin_example
+       dvp_nnnn       
+       #+end_example
+
+       where /n/ is a digit.  For example:
+
+       #+begin_example
+       dvp_0001
+       #+end_example
+
+     - enter authorized form of the name. Library catalogers have
+       strict and elaborate rules for establishing authorized names;
+       the DVP should establish its own rules and strive to be
+       consistent.
+
+     - enter the /type/ of entity being named, using the TEI ontology:
+       - person
+       - place
+       - org
+       - event
+
+     - enter a brief description.  A single sentence that provides
+       context for someone encountering the name.  E.g., "Dartmouth
+       alumnus, class of 1968" or "Mother of Fred Smith, Dartmouth
+       class of 1968" or "Landing strip near someVillage"
+
+     - enter values in the remaining columns as appropriate and
+       known.  For example, enter geo-coordinates for places.
+
+   - *Record the new identifier in the dvp_id column in the OpenRefine
+     sheet.*
+
+   When every item in the OpenRefine sheet has either a QID or a
+   dvp_id, export the project as TSV.  Bryan will run a ddhi_encoder
+   script to merge the named-entity data into the TEI transcription.
+
+   Agile will provide a command-line script that may be used to
+   convert this Google spreadsheet into a TEI document (the preferred
+   form).
