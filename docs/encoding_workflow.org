@@ -57,6 +57,18 @@
   supplying geo-coordinates for known places, for example) and to
   unify references to common named entities across the corpus.
 
+** Generate a StandOff Markup section
+   When the encoders have edited the text of the interview and marked
+   named entities, they can then generate a standoff-markup section,
+   which will be used in subsequent authorization steps.
+
+   #+begin_src sh
+     ddhi_generate_standoff INPUTFILE -o OUTPUTFILE
+   #+end_src
+
+``ddhi_generate_standoff`` to  create a ``<standOff>`` element in the
+interview and link the entities to names in the text.
+
 
 ** Names of Persons
 *** Extract the mentioned names
