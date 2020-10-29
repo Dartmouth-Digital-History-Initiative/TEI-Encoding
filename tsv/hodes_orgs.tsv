@@ -1,59 +1,59 @@
-id	orgName
-dvp_008_org1	Collegiate School
-dvp_008_org2	Beth Israel Hospital
-dvp_008_org3	Metropolitan life Insurance Company
-dvp_008_org4	Dartmouth Class of ’46
-dvp_008_org5	Navy
-dvp_008_org6	Harvard Law School
-dvp_008_org7	Willkie Farr and Gallagher [LLP]
-dvp_008_org8	Collegiate
-dvp_008_org9	Public School 40
-dvp_008_org10	ABC [A Better Chance]
-dvp_008_org11	Dartmouth [College]
-dvp_008_org12	ABC program
-dvp_008_org13	Columbia University
-dvp_008_org14	Grace Church
-dvp_008_org15	P.S. 40
-dvp_008_org16	ABC
-dvp_008_org17	Dartmouth
-dvp_008_org18	New York State
-dvp_008_org19	Folklore Center
-dvp_008_org20	Waverly Theater
-dvp_008_org21	Warner Brothers [sic; Warner Music Group]
-dvp_008_org22	Wesleyan [University]
-dvp_008_org23	Wesleyan
-dvp_008_org24	Trinity [College]
-dvp_008_org25	Columbia [University]
-dvp_008_org26	Princeton [University]
-dvp_008_org27	Beloit [College]
-dvp_008_org28	Dickinson [College]
-dvp_008_org29	Davidson [College]
-dvp_008_org30	Students for a Democratic Society [SDS]
-dvp_008_org31	Foley House
-dvp_008_org32	Hop [Hopkins Center for the Arts]
-dvp_008_org33	[Dartmouth] Players
-dvp_008_org34	Navy ROTC [Reserve Officers’ Training Corps]
-dvp_008_org35	SDS
-dvp_008_org36	United States’
-dvp_008_org37	Navy ROTC
-dvp_008_org38	United States Post Office
-dvp_008_org39	ROTC
-dvp_008_org40	Ivy League
-dvp_008_org41	Cold Regions Research [and Engineering] Laboratory
-dvp_008_org42	Army
-dvp_008_org43	U.S. Army
-dvp_008_org44	New Hampshire state
-dvp_008_org45	Vermont state
-dvp_008_org46	The Dartmouth
-dvp_008_org47	The D
-dvp_008_org48	Harvard
-dvp_008_org49	SWAT
-dvp_008_org50	National Guard
-dvp_008_org51	Congress
-dvp_008_org52	Boston College
-dvp_008_org53	Shaheen and Gordon[, P.A.]
-dvp_008_org54	Democratic
-dvp_008_org55	Dartmouth ’83—a ’73
-dvp_008_org56	United States Congress
-dvp_008_org57	The Wall Street Journal
-dvp_008_org58	United States government
+id	orgName	QID	dvp_id
+dvp_008_org1	Collegiate School	Q5146978	
+dvp_008_org2	Beth Israel Medical Center	Q2575019	
+dvp_008_org3	MetLife	Q607131	
+dvp_008_org4	Dartmouth Class of â€™46		
+dvp_008_org5	United States Navy	Q11220	
+dvp_008_org6	Harvard Law School	Q49122	
+dvp_008_org7	Willkie Farr & Gallagher	Q8022168	
+dvp_008_org8	Collegiate School	Q5146978	
+dvp_008_org9	Public School 40		
+dvp_008_org10	A Better Chance	Q25469497	
+dvp_008_org11	Dartmouth College	Q49116	
+dvp_008_org12	A Better Chance	Q25469497	
+dvp_008_org13	Columbia University	Q49088	
+dvp_008_org14	Grace Church	Q3916756	
+dvp_008_org15	P.S. 40		
+dvp_008_org16	A Better Chance	Q25469497	
+dvp_008_org17	Dartmouth College	Q49116	
+dvp_008_org18	New York	Q1384	
+dvp_008_org19	Folklore Center		
+dvp_008_org20	IFC Center	Q5970652	
+dvp_008_org21	Warner Music Group	Q21077	
+dvp_008_org22	Wesleyan University	Q49167	
+dvp_008_org23	Wesleyan University	Q49167	
+dvp_008_org24	Trinity College	Q1927705	
+dvp_008_org25	Columbia University	Q49088	
+dvp_008_org26	Princeton University	Q21578	
+dvp_008_org27	Beloit College	Q2904557	
+dvp_008_org28	Dickinson College	Q1210045	
+dvp_008_org29	Davidson College	Q2902978	
+dvp_008_org30	Students for a Democratic Society	Q2250103	
+dvp_008_org31	Foley House		
+dvp_008_org32	Hopkins Center for the Arts	Q3140375	
+dvp_008_org33	[Dartmouth] Players		
+dvp_008_org34	Naval Reserve Officers Training Corps	Q6981909	
+dvp_008_org35	Students for a Democratic Society	Q2250103	
+dvp_008_org36	United States of America	Q30	
+dvp_008_org37	Naval Reserve Officers Training Corps	Q6981909	
+dvp_008_org38	United States Postal Service	Q668687	
+dvp_008_org39	Reserve Officers' Training Corps	Q489983	
+dvp_008_org40	Ivy League	Q49113	
+dvp_008_org41	Cold Regions Research and Engineering Laboratory	Q5142318	
+dvp_008_org42	United States Army	Q9212	
+dvp_008_org43	United States Army	Q9212	
+dvp_008_org44	New Hampshire	Q759	
+dvp_008_org45	Vermont	Q16551	
+dvp_008_org46	The Dartmouth	Q7729068	
+dvp_008_org47	The Dartmouth	Q7729068	
+dvp_008_org48	Harvard University	Q13371	
+dvp_008_org49	SWAT team	Q324563	
+dvp_008_org50	National Guard of the United States	Q928670	
+dvp_008_org51	United States Congress	Q11268	
+dvp_008_org52	Boston College	Q49118	
+dvp_008_org53	Shaheen and Gordon[, P.A.]		
+dvp_008_org54	Democratic Party	Q29552	
+dvp_008_org55	Dartmouth â€™83â€”a â€™73		
+dvp_008_org56	United States Congress	Q11268	
+dvp_008_org57	The Wall Street Journal	Q164746	
+dvp_008_org58	Federal Government of the United States of America	Q48525	
