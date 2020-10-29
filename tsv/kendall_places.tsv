@@ -1,62 +1,67 @@
-id	placeName
-dvp_012_place1	Ticknor room
-dvp_012_place2	Rauner [Special Collections] Library 
-dvp_012_place3	Dartmouth College
-dvp_012_place4	Grand Junction, Colorado
-dvp_012_place5	Grand Junction
-dvp_012_place6	Dartmouth
-dvp_012_place7	Grand Junction Airport
-dvp_012_place8	Philippines
-dvp_012_place9	America
-dvp_012_place10	Denver
-dvp_012_place11	West Point
-dvp_012_place12	Thayer Hall
-dvp_012_place13	Commons or something [the Class of 1953 Commons]
-dvp_012_place14	Wyoming
-dvp_012_place15	Colorado
-dvp_012_place16	[Dartmouth] Green
-dvp_012_place17	Vail ski area
-dvp_012_place18	Fort Devens [Massachusetts]
-dvp_012_place19	Fort Devens
-dvp_012_place20	Vietnam
-dvp_012_place21	Fort Benning, Georgia
-dvp_012_place22	Cuba
-dvp_012_place23	Guantanamo [Bay Detention Camp]
-dvp_012_place24	Bremen [Germany]
-dvp_012_place25	Munich
-dvp_012_place26	Mainz
-dvp_012_place27	East German-West German border
-dvp_012_place28	Germany
-dvp_012_place29	Belgium
-dvp_012_place30	Spain
-dvp_012_place31	States
-dvp_012_place32	East Germany
-dvp_012_place33	West Germany
-dvp_012_place34	Fulda Gap
-dvp_012_place35	U.S.
-dvp_012_place36	Candlestick Park
-dvp_012_place37	Fort Benning
-dvp_012_place38	Tan Son Nhut Air Base
-dvp_012_place39	Chu Lai
-dvp_012_place40	Chu Lai Air Base
-dvp_012_place41	Hill 59
-dvp_012_place42	Iraq
-dvp_012_place43	Afghanistan
-dvp_012_place44	Da Nang
-dvp_012_place45	Laotian border
-dvp_012_place46	Watts
-dvp_012_place47	Harlem
-dvp_012_place48	Puerto Rico
-dvp_012_place49	Hawaii
-dvp_012_place50	Tam Kỳ
-dvp_012_place51	South Vietnam
-dvp_012_place52	Idaho
-dvp_012_place53	Chu Lai Airport [sic; Air Base]
-dvp_012_place54	Massachusetts
-dvp_012_place55	the Colorado River
-dvp_012_place56	Colorado River
-dvp_012_place57	Saigon
-dvp_012_place58	San Francisco
-dvp_012_place59	Calcutta [now called Kolkata, India]
-dvp_012_place60	Calcutta
-dvp_012_place61	Malaysia
+id	placeName	coordinate location	QID	dvp_id
+dvp_012_place1	Ticknor room			
+dvp_012_place2	Rauner Special Collections Library	43.70447,-72.28817	Q98544730	
+dvp_012_place3	Dartmouth College	43.703333333333,-72.288333333333	Q49116	
+dvp_012_place4	Grand Junction	39.0667,-108.567	Q989903	
+dvp_012_place5	Grand Junction	39.0667,-108.567	Q989903	
+dvp_012_place6	Dartmouth College	43.703333333333,-72.288333333333	Q49116	
+dvp_012_place7	Grand Junction Regional Airport	39.1225,-108.52666666667	Q3914110	
+dvp_012_place8	Philippines	12,123	Q928	
+dvp_012_place9	United States of America	39.828175,-98.5795	Q30	
+dvp_012_place10	Denver	39.739166666667,-104.98472222222	Q16554	
+dvp_012_place11	United States Military Academy	41.39277778,-73.95833333	Q9219	
+dvp_012_place12	Thayer Hall	43.70309,-72.29092	Q98636574	
+dvp_012_place13	Thayer Hall	43.70309,-72.29092	Q98636574	
+dvp_012_place14	Wyoming	43,-107.5	Q1214	
+dvp_012_place15	Colorado	39,-105.5	Q1261	
+dvp_012_place16	The Green	43.7033,-72.2886	Q7738117	
+dvp_012_place17	Vail Ski Resort	39.6391,-106.374	Q14685139	
+dvp_012_place18	Fort Devens	42.545022222222,-71.613336111111	Q1413867	
+dvp_012_place19	Fort Devens	42.545022222222,-71.613336111111	Q1413867	
+dvp_012_place20	Vietnam	16,108	Q881	
+dvp_012_place21	Fort Benning	32.366111111111,-84.969166666667	Q1438462	
+dvp_012_place22	Cuba	22,-79.5	Q241	
+dvp_012_place23	Guantanamo Bay detention camp	19.900812,-75.099835	Q357	
+dvp_012_place24	Bremen	53.076944444444,8.8088888888889	Q24879	
+dvp_012_place25	Munich	48.137194444444,11.5755	Q1726	
+dvp_012_place26	Mainz	50,8.2666666666667	Q1720	
+dvp_012_place27	Inner German border		Q700754	
+dvp_012_place28	Germany	51,10	Q183	
+dvp_012_place29	Belgium	50.641111111111,4.6680555555556	Q31	
+dvp_012_place30	Spain	40.2,-3.5	Q29	
+dvp_012_place31	United States of America	39.828175,-98.5795	Q30	
+dvp_012_place32	German Democratic Republic	52.052,12.389	Q16957	
+dvp_012_place33	West Germany	50.733888888889,7.0997222222222	Q713750	
+dvp_012_place34	Fulda Gap	50.61666667,9.41666667	Q450770	
+dvp_012_place35	United States of America	39.828175,-98.5795	Q30	
+dvp_012_place36	Candlestick Park	37.713611111111,-122.38611111111	Q1033076	
+dvp_012_place37	Fort Benning	32.366111111111,-84.969166666667	Q1438462	
+dvp_012_place38	Tan Son Nhut Air Base	10.818888888889,106.65194444444	Q4115006	
+dvp_012_place39	Chu Lai	15.412275,108.704478	Q5115146	
+dvp_012_place40	Chu Lai Air Base	15.40611111,108.70555556	Q3274355	
+dvp_012_place41	Hill 59			
+dvp_012_place42	Iraq	33,43	Q796	
+dvp_012_place43	Afghanistan	34,66	Q889	
+dvp_012_place44	Da Nang	16.031944444444445,108.22055555555555	Q25282	
+dvp_012_place45	Laos–Vietnam border	14.686106481482,107.54443981481	Q3089114	
+		22.4,102.15		
+dvp_012_place46	Watts	33.941666666667,-118.24166666667	Q1687279	
+dvp_012_place47	Harlem	40.809033333333,-73.948372222222	Q189074	
+dvp_012_place48	Puerto Rico	18.25,-66.5	Q1183	
+dvp_012_place49	Hawaii	21.311388888889,-157.79638888889	Q782	
+dvp_012_place50	Tam Kỳ	15.566666666667,108.48333333333	Q35661	
+dvp_012_place51	South Vietnam	10.75,106.66666666667	Q180573	
+dvp_012_place52	Idaho	45,-114	Q1221	
+dvp_012_place53	Chu Lai Air Base	15.40611111,108.70555556	Q3274355	
+dvp_012_place54	Massachusetts	42.3,-71.8	Q771	
+dvp_012_place55	Colorado River	40.4722,-105.8261	Q1265	
+		31.8154,-114.804		
+		36.28283,-112.86806		
+dvp_012_place56	Colorado River	40.4722,-105.8261	Q1265	
+		31.8154,-114.804		
+		36.28283,-112.86806		
+dvp_012_place57	Ho Chi Minh City	10.816666666667,106.63333333333	Q1854	
+dvp_012_place58	San Francisco	37.7775,-122.41638888888889	Q62	
+dvp_012_place59	Kolkata	22.541111111111,88.337777777778	Q1348	
+dvp_012_place60	Kolkata	22.541111111111,88.337777777778	Q1348	
+dvp_012_place61	Malaysia	3,108	Q833	
