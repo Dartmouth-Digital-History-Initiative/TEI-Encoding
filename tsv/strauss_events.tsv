@@ -1,20 +1,20 @@
-id	name
-dvp_017_event_0	Vietnam War
-dvp_017_event_1	Holocaust
-dvp_017_event_2	Holocaust
-dvp_017_event_3	Vietnam War
-dvp_017_event_4	Vietnam War
-dvp_017_event_5	Vietnam War
-dvp_017_event_6	Vietnam War
-dvp_017_event_7	war in Vietnam
-dvp_017_event_8	Vietnam War
-dvp_017_event_9	Vietnam [War]
-dvp_017_event_10	Parkhurst [Hall takeover on May 6, 1969]
-dvp_017_event_11	Vietnam War
-dvp_017_event_12	war in Vietnam
-dvp_017_event_13	Vietnam War
-dvp_017_event_14	Second World War
-dvp_017_event_15	Holocaust
-dvp_017_event_16	Vietnam
-dvp_017_event_17	Vietnam War
-dvp_017_event_18	Vietnam War
+id	name	QID	dvp_id	end time	start time	point in time
+dvp_017_event_0	Vietnam War	Q8740		1975-04-30T00:00:00Z	1965-11-01T00:00:00Z	1955-11-01T00:00:00Z
+dvp_017_event_1	The Holocaust	Q2763		1945-01-01T00:00:00Z	1941-01-01T00:00:00Z	
+dvp_017_event_2	The Holocaust	Q2763		1945-01-01T00:00:00Z	1941-01-01T00:00:00Z	
+dvp_017_event_3	Vietnam War	Q8740		1975-04-30T00:00:00Z	1965-11-01T00:00:00Z	1955-11-01T00:00:00Z
+dvp_017_event_4	Vietnam War	Q8740		1975-04-30T00:00:00Z	1965-11-01T00:00:00Z	1955-11-01T00:00:00Z
+dvp_017_event_5	Vietnam War	Q8740		1975-04-30T00:00:00Z	1965-11-01T00:00:00Z	1955-11-01T00:00:00Z
+dvp_017_event_6	Vietnam War	Q8740		1975-04-30T00:00:00Z	1965-11-01T00:00:00Z	1955-11-01T00:00:00Z
+dvp_017_event_7	Vietnam War	Q8740		1975-04-30T00:00:00Z	1965-11-01T00:00:00Z	1955-11-01T00:00:00Z
+dvp_017_event_8	Vietnam War	Q8740		1975-04-30T00:00:00Z	1965-11-01T00:00:00Z	1955-11-01T00:00:00Z
+dvp_017_event_9	Vietnam War	Q8740		1975-04-30T00:00:00Z	1965-11-01T00:00:00Z	1955-11-01T00:00:00Z
+dvp_017_event_10	Parkhurst [Hall takeover on May 6, 1969]					
+dvp_017_event_11	Vietnam War	Q8740		1975-04-30T00:00:00Z	1965-11-01T00:00:00Z	1955-11-01T00:00:00Z
+dvp_017_event_12	Vietnam War	Q8740		1975-04-30T00:00:00Z	1965-11-01T00:00:00Z	1955-11-01T00:00:00Z
+dvp_017_event_13	Vietnam War	Q8740		1975-04-30T00:00:00Z	1965-11-01T00:00:00Z	1955-11-01T00:00:00Z
+dvp_017_event_14	World War II	Q362		1945-09-02T00:00:00Z	1939-09-01T00:00:00Z	
+dvp_017_event_15	The Holocaust	Q2763		1945-01-01T00:00:00Z	1941-01-01T00:00:00Z	
+dvp_017_event_16	Vietnam War	Q8740		1975-04-30T00:00:00Z	1965-11-01T00:00:00Z	1955-11-01T00:00:00Z
+dvp_017_event_17	Vietnam War	Q8740		1975-04-30T00:00:00Z	1965-11-01T00:00:00Z	1955-11-01T00:00:00Z
+dvp_017_event_18	Vietnam War	Q8740		1975-04-30T00:00:00Z	1965-11-01T00:00:00Z	1955-11-01T00:00:00Z
