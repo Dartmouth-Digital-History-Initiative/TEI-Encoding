@@ -1,51 +1,51 @@
-id	orgName
-dvp_017_org_0	University of London
-dvp_017_org_1	Dartmouth
-dvp_017_org_2	Canaan College
-dvp_017_org_3	Dartmouth
-dvp_017_org_4	Cape Town University [University of Cape Town]
-dvp_017_org_5	Cape Town University
-dvp_017_org_6	Non-European Unity Movement
-dvp_017_org_7	Cape Town University
-dvp_017_org_8	Cape Town University
-dvp_017_org_9	Cape Town University
-dvp_017_org_10	Cape Town University
-dvp_017_org_11	Cambridge
-dvp_017_org_12	Non-European Unity Movement
-dvp_017_org_13	Cambridge
-dvp_017_org_14	London University [University of London]
-dvp_017_org_15	MIT [Massachusetts Institute of Technology]
-dvp_017_org_16	Dartmouth
-dvp_017_org_17	Quakers
-dvp_017_org_18	Dartmouth
-dvp_017_org_19	Students for a Democratic Society
-dvp_017_org_20	Quakers
-dvp_017_org_21	Quakers
-dvp_017_org_22	Quaker
-dvp_017_org_23	SDS
-dvp_017_org_24	Dartmouth
-dvp_017_org_25	Dartmouth
-dvp_017_org_26	SDS
-dvp_017_org_27	Dartmouth
-dvp_017_org_28	Dartmouth
-dvp_017_org_29	ROTC [pronounced it ROT-c, Reserve Officers’ Training Corps]
-dvp_017_org_30	Dartmouth
-dvp_017_org_31	ROTC
-dvp_017_org_32	Dartmouth
-dvp_017_org_33	SDS
-dvp_017_org_34	Committee Advisory to the President
-dvp_017_org_35	Valley News
-dvp_017_org_36	CAP
-dvp_017_org_37	University of Hull
-dvp_017_org_38	Association for Workers’ Liberty [Alliance for Workers’ Liberty]
-dvp_017_org_39	Dartmouth
-dvp_017_org_40	Dartmouth
-dvp_017_org_41	Dartmouth
-dvp_017_org_42	Dartmouth
-dvp_017_org_43	Dartmouth
-dvp_017_org_44	Hull University
-dvp_017_org_45	Dartmouth
-dvp_017_org_46	Dartmouth
-dvp_017_org_47	Dartmouth
-dvp_017_org_48	Dartmouth
-dvp_017_org_49	Valley News
+id	orgName	QID	dvp_id
+dvp_017_org_0	University of London	Q170027	
+dvp_017_org_1	Dartmouth College	Q49116	
+dvp_017_org_2	Canaan College		
+dvp_017_org_3	Dartmouth College	Q49116	
+dvp_017_org_4	University of Cape Town	Q951305	
+dvp_017_org_5	University of Cape Town	Q951305	
+dvp_017_org_6	Non-European Unity Movement	Q1996126	
+dvp_017_org_7	University of Cape Town	Q951305	
+dvp_017_org_8	University of Cape Town	Q951305	
+dvp_017_org_9	University of Cape Town	Q951305	
+dvp_017_org_10	University of Cape Town	Q951305	
+dvp_017_org_11	University of Cambridge	Q35794	
+dvp_017_org_12	Non-European Unity Movement	Q1996126	
+dvp_017_org_13	University of Cambridge	Q35794	
+dvp_017_org_14	University of London	Q170027	
+dvp_017_org_15	Massachusetts Institute of Technology	Q49108	
+dvp_017_org_16	Dartmouth College	Q49116	
+dvp_017_org_17	Religious Society of Friends	Q170208	
+dvp_017_org_18	Dartmouth College	Q49116	
+dvp_017_org_19	Students for a Democratic Society	Q2250103	
+dvp_017_org_20	Religious Society of Friends	Q170208	
+dvp_017_org_21	Religious Society of Friends	Q170208	
+dvp_017_org_22	Religious Society of Friends	Q170208	
+dvp_017_org_23	Students for a Democratic Society	Q2250103	
+dvp_017_org_24	Dartmouth College	Q49116	
+dvp_017_org_25	Dartmouth College	Q49116	
+dvp_017_org_26	Students for a Democratic Society	Q2250103	
+dvp_017_org_27	Dartmouth College	Q49116	
+dvp_017_org_28	Dartmouth College	Q49116	
+dvp_017_org_29	Reserve Officers' Training Corps	Q489983	
+dvp_017_org_30	Dartmouth College	Q49116	
+dvp_017_org_31	Reserve Officers' Training Corps	Q489983	
+dvp_017_org_32	Dartmouth College	Q49116	
+dvp_017_org_33	Students for a Democratic Society	Q2250103	
+dvp_017_org_34	Committee Advisory to the President		
+dvp_017_org_35	Valley News	Q7912156	
+dvp_017_org_36	CAP [Committee Advisory to the President]		
+dvp_017_org_37	University of Hull	Q1474019	
+dvp_017_org_38	Alliance for Workers' Liberty	Q2838234	
+dvp_017_org_39	Dartmouth College	Q49116	
+dvp_017_org_40	Dartmouth College	Q49116	
+dvp_017_org_41	Dartmouth College	Q49116	
+dvp_017_org_42	Dartmouth College	Q49116	
+dvp_017_org_43	Dartmouth College	Q49116	
+dvp_017_org_44	University of Hull	Q1474019	
+dvp_017_org_45	Dartmouth College	Q49116	
+dvp_017_org_46	Dartmouth College	Q49116	
+dvp_017_org_47	Dartmouth College	Q49116	
+dvp_017_org_48	Dartmouth College	Q49116	
+dvp_017_org_49	Valley News	Q7912156	
