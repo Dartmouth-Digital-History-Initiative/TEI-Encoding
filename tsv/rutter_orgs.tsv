@@ -1,6 +1,6 @@
 id	orgName	QID	dvp_id
 dvp_016_org1	Dartmouth College	Q49116	
-dvp_016_org2	Dartmouth Vietnam Project		
+dvp_016_org2	Dartmouth Vietnam Project		dvp_0020
 dvp_016_org3	Dartmouth College	Q49116	
 dvp_016_org4	Massachusetts General Hospital	Q126412	
 dvp_016_org5	United States Foreign Service	Q3480437	
@@ -39,7 +39,6 @@ dvp_016_org37	F. W. Woolworth Company	Q642212
 dvp_016_org38	Charlie		
 dvp_016_org39	VC		
 dvp_016_org40	Mr. Charles		
-			
 dvp_016_org41	Flying Tiger Line	Q248637	
 dvp_016_org42	11th Armored Cavalry Regiment	Q2756475	
 dvp_016_org43	11th Armored Cavalry Regiment	Q2756475	
