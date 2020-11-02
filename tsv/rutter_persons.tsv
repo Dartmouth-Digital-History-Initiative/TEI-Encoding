@@ -1,17 +1,17 @@
-id	persName
-dvp_016_person1	Leigh Steinberg
-dvp_016_person2	Jeremy [P.] Rutter
-dvp_016_person3	Jack Lester
-dvp_016_person4	JFK [President John F. Kennedy]
-dvp_016_person5	JFK
-dvp_016_person6	Lyndon [B.] Johnson
-dvp_016_person7	Danny
-dvp_016_person8	Dr. Martin Luther King [Jr.]
-dvp_016_person9	[Adolf] Hitler
-dvp_016_person10	LBJ
-dvp_016_person11	Rutter
-dvp_016_person12	James Jones
-dvp_016_person13	[James O.] Freedman
-dvp_016_person14	Catullus
-dvp_016_person15	Freedman
-dvp_016_person16	Carl
+id	persName	QID	dvp_id
+dvp_016_person1	Leigh Steinberg		
+dvp_016_person2	Jeremy [P.] Rutter		
+dvp_016_person3	Jack Lester		
+dvp_016_person4	John F. Kennedy	Q9696	
+dvp_016_person5	John F. Kennedy	Q9696	
+dvp_016_person6	Lyndon B. Johnson	Q9640	
+dvp_016_person7	Danny		
+dvp_016_person8	Martin Luther King Jr.	Q8027	
+dvp_016_person9	Adolf Hitler	Q352	
+dvp_016_person10	Lyndon B. Johnson	Q9640	
+dvp_016_person11	Rutter		
+dvp_016_person12	James Jones	Q462629	
+dvp_016_person13	James O. Freedman	Q3161314	
+dvp_016_person14	Catullus	Q163079	
+dvp_016_person15	James O. Freedman	Q3161314	
+dvp_016_person16	Carl		

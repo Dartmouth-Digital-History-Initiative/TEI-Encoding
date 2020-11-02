@@ -135,7 +135,7 @@ So I would say we were pretty much in tune with—and we used to talk about it a
          <u who="STEINBERG">So did people discuss current events at <placeName ref="#dvp_016_place17">Exeter</placeName> as well, or were you—</u>
          <u who="RUTTER">Yeah, to a certain extent, sure. I didn’t join political clubs. The kind of things I did was join the science fiction club and the stamp collecting club or—you know, I was—yeah, I was a sort of a geeky kid.</u>
          <u who="STEINBERG">So was there talk of the war, worry about the war?</u>
-         <u who="RUTTER">You mean <name type="event" ref="#dvp_016_event2">the Vietnam War</name>?</u>
+         <u who="RUTTER">You mean the <name type="event" ref="#dvp_016_event2">Vietnam War</name>?</u>
          <u who="STEINBERG">Yeah—when you were at <orgName ref="#dvp_016_org8">Exeter</orgName>?</u>
           <u who="RUTTER">Not much. No. No, no, no. That was at <placeName ref="#dvp_016_place20">Haverford [College]</placeName>. That was front and center right from the day we showed up.</u>
          <u who="STEINBERG">Yeah. So, yeah, so what was your—like, take me back through that experience of getting to <placeName ref="#dvp_016_place21">Haverford</placeName>. How did you decide to go there, and then what was the atmosphere like on campus?</u>
@@ -1074,7 +1074,7 @@ And I’m looking forward to reading my parents’, which I have in another trun
             <desc>World War II</desc>
          </event>
          <event xml:id="dvp_016_event2">
-            <desc>the Vietnam War</desc>
+            <desc>Vietnam War</desc>
          </event>
          <event xml:id="dvp_016_event3">
             <desc>March on Washington [for Jobs and Freedom]</desc>

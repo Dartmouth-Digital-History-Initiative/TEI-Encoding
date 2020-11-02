@@ -1,55 +1,56 @@
-id	orgName
-dvp_016_org1	Dartmouth
-dvp_016_org2	Dartmouth Vietnam Project
-dvp_016_org3	Dartmouth College
-dvp_016_org4	Massachusetts General Hospital
-dvp_016_org5	[U.S.] Foreign Service
-dvp_016_org6	[Phillips] Exeter [Academy]
-dvp_016_org7	Foreign Service
-dvp_016_org8	Exeter
-dvp_016_org9	Princeton [University]
-dvp_016_org10	Harvard [University]
-dvp_016_org11	MIT [Massachusetts Institute of Technology]
-dvp_016_org12	[U.S.] Army
-dvp_016_org13	St. Andrews [School]
-dvp_016_org14	Republican
-dvp_016_org15	Democrat
-dvp_016_org16	Harvard
-dvp_016_org17	Yale
-dvp_016_org18	Haverford
-dvp_016_org19	Exxon [Corporation, now part of Exxon/Mobil Corporation]
-dvp_016_org20	Exxon
-dvp_016_org21	Quakers
-dvp_016_org22	Quaker
-dvp_016_org23	Viet Cong
-dvp_016_org24	Bryn Mawr [College]
-dvp_016_org25	Morehouse [College]
-dvp_016_org26	the Intercollegiate Center for Classical Studies
-dvp_016_org27	Texas Southern [University]
-dvp_016_org28	the State Department
-dvp_016_org29	OCS [Officer Candidate School]
-dvp_016_org30	Marine
-dvp_016_org31	Penn [University of Pennsylvania]
-dvp_016_org32	Penn
-dvp_016_org33	[U.S.] Marines
-dvp_016_org34	Marines
-dvp_016_org35	the United States Army
-dvp_016_org36	Army
-dvp_016_org37	Woolworth’s
-dvp_016_org38	Charlie
-dvp_016_org39	VC
-dvp_016_org40	“Mr. Charles”
-dvp_016_org41	Flying Tiger Airlines [sic; Flying Tigers or Flying Tiger Line]
-dvp_016_org42	Left Arm Cavalry Regiment [sic; 11th Armored Cavalry Regiment]
-dvp_016_org43	the 11th Armored Cavalry
-dvp_016_org44	The 11th Cav
-dvp_016_org45	the 11th Cav
-dvp_016_org46	2nd Cav
-dvp_016_org47	2nd Air Cav
-dvp_016_org48	Bryn Mawr
-dvp_016_org49	the American School of Classical Studies
-dvp_016_org50	11th ACR
-dvp_016_org51	the University of Minnesota
-dvp_016_org52	Cornell [University]
-dvp_016_org53	Wesleyan [University]
-dvp_016_org54	OCS
+id	orgName	QID	dvp_id
+dvp_016_org1	Dartmouth College	Q49116	
+dvp_016_org2	Dartmouth Vietnam Project		
+dvp_016_org3	Dartmouth College	Q49116	
+dvp_016_org4	Massachusetts General Hospital	Q126412	
+dvp_016_org5	United States Foreign Service	Q3480437	
+dvp_016_org6	Phillips Exeter Academy	Q1426464	
+dvp_016_org7	United States Foreign Service	Q3480437	
+dvp_016_org8	Phillips Exeter Academy	Q1426464	
+dvp_016_org9	Princeton University	Q21578	
+dvp_016_org10	Harvard University	Q13371	
+dvp_016_org11	Massachusetts Institute of Technology	Q49108	
+dvp_016_org12	United States Army	Q9212	
+dvp_016_org13	St. Andrews School (Virginia)	Q7586943	
+dvp_016_org14	Republican Party	Q29468	
+dvp_016_org15	Democratic Party	Q29552	
+dvp_016_org16	Harvard University	Q13371	
+dvp_016_org17	Yale University	Q49112	
+dvp_016_org18	Haverford College	Q579611	
+dvp_016_org19	ExxonMobil	Q156238	
+dvp_016_org20	ExxonMobil	Q156238	
+dvp_016_org21	Religious Society of Friends	Q170208	
+dvp_016_org22	Religious Society of Friends	Q170208	
+dvp_016_org23	Viet Cong	Q12712291	
+dvp_016_org24	Bryn Mawr College	Q995265	
+dvp_016_org25	Morehouse College	Q1524124	
+dvp_016_org26	Intercollegiate Center for Classical Studies	Q6045800	
+dvp_016_org27	Texas Southern University	Q626591	
+dvp_016_org28	United States Department of State	Q789915	
+dvp_016_org29	Officer Candidate School	Q12622609	
+dvp_016_org30	United States Marine Corps	Q11218	
+dvp_016_org31	University of Pennsylvania	Q49117	
+dvp_016_org32	University of Pennsylvania	Q49117	
+dvp_016_org33	United States Marine Corps	Q11218	
+dvp_016_org34	United States Marine Corps	Q11218	
+dvp_016_org35	Army of the United States	Q258758	
+dvp_016_org36	United States Army	Q9212	
+dvp_016_org37	F. W. Woolworth Company	Q642212	
+dvp_016_org38	Charlie		
+dvp_016_org39	VC		
+dvp_016_org40	Mr. Charles		
+			
+dvp_016_org41	Flying Tiger Line	Q248637	
+dvp_016_org42	11th Armored Cavalry Regiment	Q2756475	
+dvp_016_org43	11th Armored Cavalry Regiment	Q2756475	
+dvp_016_org44	11th Armored Cavalry Regiment	Q2756475	
+dvp_016_org45	11th Cavalry Corps	Q4547829	
+dvp_016_org46	2nd Cavalry Regiment	Q210609	
+dvp_016_org47	2nd Cavalry Regiment	Q210609	
+dvp_016_org48	Bryn Mawr	Q995267	
+dvp_016_org49	American School of Classical Studies at Athens	Q466718	
+dvp_016_org50	11th Armored Cavalry Regiment	Q2756475	
+dvp_016_org51	University of Minnesota	Q238101	
+dvp_016_org52	Cornell University	Q49115	
+dvp_016_org53	Wesleyan University	Q49167	
+dvp_016_org54	Officer Candidate School	Q12622609	
