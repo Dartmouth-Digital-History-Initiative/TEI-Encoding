@@ -1,5 +1,5 @@
 id	placeName	coordinate location	QID	dvp_id
-dvp_012_place1	Ticknor room			
+dvp_012_place1	Ticknor Room	43.70446944444444,-72.28816944444445	Q101096820	
 dvp_012_place2	Rauner Special Collections Library	43.70447,-72.28817	Q98544730	
 dvp_012_place3	Dartmouth College	43.703333333333,-72.288333333333	Q49116	
 dvp_012_place4	Grand Junction	39.0667,-108.567	Q989903	
@@ -39,7 +39,7 @@ dvp_012_place37	Fort Benning	32.366111111111,-84.969166666667	Q1438462
 dvp_012_place38	Tan Son Nhut Air Base	10.818888888889,106.65194444444	Q4115006	
 dvp_012_place39	Chu Lai	15.412275,108.704478	Q5115146	
 dvp_012_place40	Chu Lai Air Base	15.40611111,108.70555556	Q3274355	
-dvp_012_place41	Hill 59			
+dvp_012_place41	Hill 59	15.348976,108.716875	Q101096788	
 dvp_012_place42	Iraq	33,43	Q796	
 dvp_012_place43	Afghanistan	34,66	Q889	
 dvp_012_place44	Da Nang	16.031944444444445,108.22055555555555	Q25282	
