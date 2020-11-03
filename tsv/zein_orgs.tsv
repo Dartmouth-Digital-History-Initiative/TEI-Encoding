@@ -1,43 +1,43 @@
-id	orgName
-dvp_018_org1	National Labor Relations Board of Eastern Tennessee
-dvp_018_org2	TVA (Tennessee Valley Authority)
-dvp_018_org3	National Labor Relations Board
-dvp_018_org4	University of Wisconsin
-dvp_018_org5	TVA
-dvp_018_org6	Communist Party
-dvp_018_org7	House Un-American Activities Committee
-dvp_018_org8	Highlander Center [now the Highlander Research and Education Center]
-dvp_018_org9	Highlander Center
-dvp_018_org10	Army Air Force
-dvp_018_org11	Congress
-dvp_018_org12	federal government
-dvp_018_org13	Dartmouth
-dvp_018_org14	Sane
-dvp_018_org15	Society for Atomic Nuclear
-dvp_018_org16	U.S. government
-dvp_018_org17	Democratic Party
-dvp_018_org18	Democrats
-dvp_018_org19	Republicans
-dvp_018_org20	Thayer [School of Engineering at Dartmouth]
-dvp_018_org21	SDS [Students for a Democratic Society]
-dvp_018_org22	SDS
-dvp_018_org23	ROTC [Reserve Officers’ Training Corps]
-dvp_018_org24	ROTC
-dvp_018_org25	U.S. military
-dvp_018_org26	TIME magazine
-dvp_018_org27	Newsweek
-dvp_018_org28	The New York Times
-dvp_018_org29	Dow Chemical [Co.]
-dvp_018_org30	Republican
-dvp_018_org31	New Hampshire Union Leader
-dvp_018_org32	Manchester Union Leader
-dvp_018_org33	Yale
-dvp_018_org34	FBI
-dvp_018_org35	Wooden Shoe group [the Wooden Shoe Commune in Canaan, New Hampshire]
-dvp_018_org36	Wooden Shoe
-dvp_018_org37	Harvard
-dvp_018_org38	Harvard University Graduate School of Education
-dvp_018_org39	Killdeer Farm
-dvp_018_org40	King Arthur Flour
-dvp_018_org41	PBS [Public Broadcasting Service]
-dvp_018_org42	United States government
+id	orgName	QID	dvp_id
+dvp_018_org1	National Labor Relations Board	Q3024155	
+dvp_018_org2	Tennessee Valley Authority	Q1367577	
+dvp_018_org3	National Labor Relations Board	Q3024155	
+dvp_018_org4	University of Wisconsinâ€“Madison	Q838330	
+dvp_018_org5	Tennessee Valley Authority	Q1367577	
+dvp_018_org6	Communist Party USA	Q308714	
+dvp_018_org7	House Un-American Activities Committee	Q945795	
+dvp_018_org8	Highlander Research and Education Center	Q5759304	
+dvp_018_org9	Highlander Research and Education Center	Q5759304	
+dvp_018_org10	United States Army Air Forces	Q741723	
+dvp_018_org11	United States Congress	Q11268	
+dvp_018_org12	Federal Government of the United States of America	Q48525	
+dvp_018_org13	Dartmouth College	Q49116	
+dvp_018_org14	Peace Action	Q7157308	
+dvp_018_org15	Peace Action	Q7157308	
+dvp_018_org16	Federal Government of the United States of America	Q48525	
+dvp_018_org17	Democratic Party	Q29552	
+dvp_018_org18	Democratic Party	Q29552	
+dvp_018_org19	Republican Party	Q29468	
+dvp_018_org20	Thayer School of Engineering	Q7711553	
+dvp_018_org21	Students for a Democratic Society	Q2250103	
+dvp_018_org22	Students for a Democratic Society	Q2250103	
+dvp_018_org23	Reserve Officers' Training Corps	Q489983	
+dvp_018_org24	Reserve Officers' Training Corps	Q489983	
+dvp_018_org25	United States Armed Forces	Q11211	
+dvp_018_org26	Time	Q43297	
+dvp_018_org27	Newsweek	Q188413	
+dvp_018_org28	The New York Times	Q9684	
+dvp_018_org29	Dow Chemical Company	Q855639	
+dvp_018_org30	Republican Party	Q29468	
+dvp_018_org31	New Hampshire Union Leader	Q7008331	
+dvp_018_org32	New Hampshire Union Leader	Q7008331	
+dvp_018_org33	Yale University	Q49112	
+dvp_018_org34	Federal Bureau of Investigation	Q8333	
+dvp_018_org35	Killdeer Farm	Q101112427	
+dvp_018_org36	Killdeer Farm	Q101112427	
+dvp_018_org37	Harvard University	Q13371	
+dvp_018_org38	Harvard Graduate School of Education	Q14715517	
+dvp_018_org39	Killdeer Farm	Q101112427	
+dvp_018_org40	King Arthur Flour	Q16998403	
+dvp_018_org41	PBS	Q215616	
+dvp_018_org42	Federal Government of the United States of America	Q48525	
