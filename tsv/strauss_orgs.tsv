@@ -1,7 +1,7 @@
 id	orgName	QID	dvp_id
 dvp_017_org_0	University of London	Q170027	
 dvp_017_org_1	Dartmouth College	Q49116	
-dvp_017_org_2	Canaan College		
+dvp_017_org_2	Canaan College	Q101110223	
 dvp_017_org_3	Dartmouth College	Q49116	
 dvp_017_org_4	University of Cape Town	Q951305	
 dvp_017_org_5	University of Cape Town	Q951305	
@@ -33,9 +33,9 @@ dvp_017_org_30	Dartmouth College	Q49116
 dvp_017_org_31	Reserve Officers' Training Corps	Q489983	
 dvp_017_org_32	Dartmouth College	Q49116	
 dvp_017_org_33	Students for a Democratic Society	Q2250103	
-dvp_017_org_34	Committee Advisory to the President		
+dvp_017_org_34	Committee Advisory to the President		dvp_0032
 dvp_017_org_35	Valley News	Q7912156	
-dvp_017_org_36	CAP [Committee Advisory to the President]		
+dvp_017_org_36	CAP [Committee Advisory to the President]		dvp_0032
 dvp_017_org_37	University of Hull	Q1474019	
 dvp_017_org_38	Alliance for Workers' Liberty	Q2838234	
 dvp_017_org_39	Dartmouth College	Q49116	
