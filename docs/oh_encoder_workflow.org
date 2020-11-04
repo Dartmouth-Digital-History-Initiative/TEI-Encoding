@@ -66,9 +66,9 @@
      ddhi_generate_standoff INPUTFILE -o OUTPUTFILE
    #+end_src
 
-``ddhi_generate_standoff`` to  create a ``<standOff>`` element in the
-interview and link the entities to names in the text.
-
+   Typically, you would run this command to generate a temporary file
+   and then replace the original file with the generated file when you
+   have verified it.
 
 ** Names of Persons
 *** Extract the mentioned names
@@ -97,6 +97,17 @@ interview and link the entities to names in the text.
       ddhi_update_persons TEIFILE TSVFILE > NEWFILE
     #+end_src
 
+    *NB* You will notice that update_persons (and the other update
+    operations described below) will /replace/ the existing name in
+    the /standOff/ section with the authorized form of the name as it
+    was found in Wikidata.  This is considered good practice; recall
+    that several name forms in a text may refer to the same entity
+    (e.g., "NYC", "New York", and "the City" may all refer to Wikidata
+    entity Q60, whose standardized name is "New York City").  Using a
+    single, authorized name in for the named entities also simplifies
+    faceting.  Should an application wish to compile all the names
+    used for a particular entity, it can easily index the names from
+    their occurances in the text.
 ** Names of Organizations
 *** Extract the mentioned organizations
     #+begin_src sh
