@@ -1,23 +1,23 @@
-id	persName
-dvp_012_person1	Paul [F.] Danyow
-dvp_012_person2	Glen [R.] Kendall
-dvp_012_person3	Mr. Kendall
-dvp_012_person4	Richard Kendall
-dvp_012_person5	May Dell(strange name) Kendall [Mary Elizabeth May Dell Hallar Kendall Workman]
-dvp_012_person6	Congressman Wayne [N.] Aspinall
-dvp_012_person7	Sgt. Brown [Senior Sergeant Major Bill Brown Jr.]
-dvp_012_person8	[President John F.] Kennedy
-dvp_012_person9	Edmund [B.] Frost [Class of 1964]
-dvp_012_person10	[Secretary of Defense] Robert [M.] Gates’
-dvp_012_person11	[Dartmouth] President [John G.] Kemeny’s
-dvp_012_person12	[Philip C.] Schaefer [Class of 1964]
-dvp_012_person13	Phil
-dvp_012_person14	[President Richard M.] Nixon
-dvp_012_person15	Nixon
-dvp_012_person16	[Secretary of State] Colin [L.] Powell
-dvp_012_person17	Rachel Carson
-dvp_012_person18	Professor [Edward G.] Miller
-dvp_012_person19	Aldous Huxley
-dvp_012_person20	President [Barack H.] Obama’s
-dvp_012_person21	William the Conqueror
-dvp_012_person22	Professor Miller’s
+id	persName	QID	dvp_id
+dvp_012_person1	Paul [F.] Danyow		
+dvp_012_person2	Glen [R.] Kendall		
+dvp_012_person3	Mr. Kendall		
+dvp_012_person4	Richard Kendall		
+dvp_012_person5	May Dell(strange name) Kendall [Mary Elizabeth May Dell Hallar Kendall Workman]		
+dvp_012_person6	Wayne N. Aspinall	Q1747642	
+dvp_012_person7	Sgt. Brown [Senior Sergeant Major Bill Brown Jr.]		
+dvp_012_person8	John F. Kennedy	Q9696	
+dvp_012_person9	Edmund [B.] Frost [Class of 1964]		
+dvp_012_person10	Robert Gates	Q212979	
+dvp_012_person11	John George Kemeny	Q28900	
+dvp_012_person12	[Philip C.] Schaefer [Class of 1964]		
+dvp_012_person13	Phil		
+dvp_012_person14	Richard Nixon	Q9588	
+dvp_012_person15	Richard Nixon	Q9588	
+dvp_012_person16	Colin Powell	Q150851	
+dvp_012_person17	Rachel Carson	Q100948	
+dvp_012_person18	Professor [Edward G.] Miller		
+dvp_012_person19	Aldous Huxley	Q81447	
+dvp_012_person20	Barack Obama	Q76	
+dvp_012_person21	William the Conqueror	Q37594	
+dvp_012_person22	Professor Millerï¿½s		
