@@ -1,9 +1,9 @@
 id	persName	QID	dvp_id
-dvp_018_person1	Tim Harrison		
-dvp_018_person2	Jim Zien		
-dvp_018_person3	Jim		
-dvp_018_person4	Burton Zien		
-dvp_018_person5	Betty Zien		
+dvp_018_person1	Tim Harrison		dvp_0006
+dvp_018_person2	Jim Zien		dvp_0015
+dvp_018_person3	Jim		dvp_0015
+dvp_018_person4	Burton Zien		dvp_0016
+dvp_018_person5	Betty Zien		dvp_0017
 dvp_018_person6	Gaylord Nelson	Q886966	
 dvp_018_person7	Gaylord Nelson	Q886966	
 dvp_018_person8	William Proxmire	Q1894476	
@@ -18,9 +18,9 @@ dvp_018_person16	Nelson Rockefeller	Q11237
 dvp_018_person17	James Epperson	Q101111767	
 dvp_018_person18	James Epperson	Q101111767	
 dvp_018_person19	Al Capp	Q2060191	
-dvp_018_person20	[O. Theodore] “Ted” Roberg III		
-dvp_018_person21	Ted Roberg		
-dvp_018_person22	Ted		
+dvp_018_person20	[O. Theodore] “Ted” Roberg III		dvp_0018
+dvp_018_person21	Ted Roberg		dvp_0018
+dvp_018_person22	Ted		dvp_0018
 dvp_018_person23	Franklin Delano Roosevelt	Q8007	
 dvp_018_person24	Theodore Roosevelt	Q33866	
 dvp_018_person25	Franklin Delano Roosevelt	Q8007	
@@ -29,7 +29,7 @@ dvp_018_person27	Lyndon B. Johnson	Q9640
 dvp_018_person28	Martin Luther King Jr.	Q8027	
 dvp_018_person29	Malcolm X	Q43303	
 dvp_018_person30	John		
-dvp_018_person31	Lucky White		
+dvp_018_person31	Lucky White		dvp_0019
 dvp_018_person32	Eugene McCarthy	Q380550	
 dvp_018_person33	Robert F. Kennedy	Q25310	
 dvp_018_person34	Hubert Humphrey	Q209989	
