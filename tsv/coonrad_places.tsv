@@ -1,57 +1,57 @@
-id	placeName
-dvp_004_place_0	Rauner [Special Collections] Library
-dvp_004_place_1	Troy, New York
-dvp_004_place_2	Washington, D.C.
-dvp_004_place_3	Troy, New York
-dvp_004_place_4	Adirondacks [Adirondack Mountains]
-dvp_004_place_5	Long Trail
-dvp_004_place_6	Massachusetts
-dvp_004_place_7	Canada
-dvp_004_place_8	Vermont
-dvp_004_place_9	White Mountains
-dvp_004_place_10	New Hampshire
-dvp_004_place_11	Vermont
-dvp_004_place_12	Dartmouth
-dvp_004_place_13	Long Trail
-dvp_004_place_14	Vermont
-dvp_004_place_15	Appalachian Trail
-dvp_004_place_16	Boston
-dvp_004_place_17	Dartmouth’s
-dvp_004_place_18	Middlebury [College]
-dvp_004_place_19	[Eiger] Mountain
-dvp_004_place_20	Hamilton College
-dvp_004_place_21	New York
-dvp_004_place_22	the White Mountains
-dvp_004_place_23	Dartmouth
-dvp_004_place_24	the Boston Navy Yard
-dvp_004_place_25	Cape Cod
-dvp_004_place_26	the Boston Navy Yard
-dvp_004_place_27	Little Creek in Virginia [the Naval Amphibious Base, Little Creek]
-dvp_004_place_28	Rota, Spain
-dvp_004_place_29	Rota
-dvp_004_place_30	Palermo, Sicily
-dvp_004_place_31	Palermo, Sicily
-dvp_004_place_32	Taranto
-dvp_004_place_33	Italy
-dvp_004_place_34	Rome
-dvp_004_place_35	Rome
-dvp_004_place_36	Panthenon [Pantheon]
-dvp_004_place_37	Rome
-dvp_004_place_38	the Aegean Sea
-dvp_004_place_39	Greece
-dvp_004_place_40	Argostoli Bay [Argostoli]
-dvp_004_place_41	Athens
-dvp_004_place_42	Vermont
-dvp_004_place_43	Vietnam
-dvp_004_place_44	Connecticut
-dvp_004_place_45	New York City
-dvp_004_place_46	New York Citys
-dvp_004_place_47	Juilliard [School]
-dvp_004_place_48	Juilliard
-dvp_004_place_49	Alabama
-dvp_004_place_50	Rauner
-dvp_004_place_51	Webster Hall
-dvp_004_place_52	Alabama
-dvp_004_place_53	Mississippi
-dvp_004_place_54	Dartmouth
-dvp_004_place_55	Nam
+id	placeName	coordinate location	QID	dvp_id
+dvp_004_place_0	Rauner Special Collections Library	43.70447,-72.28817	Q98544730	
+dvp_004_place_1	Troy	42.731666666667,-73.6925	Q600301	
+dvp_004_place_2	Washington, D.C.	38.895,-77.036666666667	Q61	
+dvp_004_place_3	Troy	42.731666666667,-73.6925	Q600301	
+dvp_004_place_4	Adirondack Mountains	44.1125,-73.9239	Q357546	
+dvp_004_place_5	Long Trail		Q6673311	
+dvp_004_place_6	Massachusetts	42.3,-71.8	Q771	
+dvp_004_place_7	Canada	56,-109	Q16	
+dvp_004_place_8	Vermont	44,-72.7	Q16551	
+dvp_004_place_9	White Mountains	44.27,-71.31	Q1556007	
+dvp_004_place_10	New Hampshire	44,-71.5	Q759	
+dvp_004_place_11	Vermont	44,-72.7	Q16551	
+dvp_004_place_12	Dartmouth College	43.703333333333,-72.288333333333	Q49116	
+dvp_004_place_13	Long Trail		Q6673311	
+dvp_004_place_14	Vermont	44,-72.7	Q16551	
+dvp_004_place_15	Appalachian Trail	37.35175,-80.38108	Q620648	
+dvp_004_place_16	Boston	42.358333333333,-71.0625	Q100	
+dvp_004_place_17	Dartmouth College	43.703333333333,-72.288333333333	Q49116	
+dvp_004_place_18	Middlebury College	44.008888888889,-73.177222222222	Q1357891	
+dvp_004_place_19	Eiger	46.577607529,8.005286822	Q4425	
+dvp_004_place_20	Hamilton College	43.0524,-75.4057	Q3113011	
+dvp_004_place_21	New York City	40.67,-73.94	Q60	
+dvp_004_place_22	White Mountains	44.27,-71.31	Q1556007	
+dvp_004_place_23	Dartmouth College	43.703333333333,-72.288333333333	Q49116	
+dvp_004_place_24	Boston Navy Yard	42.376111111111,-71.0525	Q894573	
+dvp_004_place_25	Cape Cod	41.688889,-70.296944	Q49152	
+dvp_004_place_26	Boston Navy Yard	42.376111111111,-71.0525	Q894573	
+dvp_004_place_27	Naval Amphibious Base Little Creek	36.917,-76.164	Q3337215	
+dvp_004_place_28	Rota	36.6228636,-6.3599595	Q15907	
+dvp_004_place_29	Rota	36.6228636,-6.3599595	Q15907	
+dvp_004_place_30	Palermo	38.115658,13.361262	Q2656	
+dvp_004_place_31	Palermo	38.115658,13.361262	Q2656	
+dvp_004_place_32	Province of Taranto	40.466666666667,17.233333333333	Q16283	
+dvp_004_place_33	Italy	42.5,12.5	Q38	
+dvp_004_place_34	Rome	41.893055555556,12.482777777778	Q220	
+dvp_004_place_35	Rome	41.893055555556,12.482777777778	Q220	
+dvp_004_place_36	Pantheon	41.898561,12.47685	Q99309	
+dvp_004_place_37	Rome	41.893055555556,12.482777777778	Q220	
+dvp_004_place_38	Aegean Sea	38.5,25.3	Q34575	
+dvp_004_place_39	Greece	38.5,23	Q41	
+dvp_004_place_40	Gulf of Argostoli	38.166666666667,20.45	Q5617561	
+dvp_004_place_41	Athens	37.979444444444,23.716111111111	Q1524	
+dvp_004_place_42	Vermont	44,-72.7	Q16551	
+dvp_004_place_43	Vietnam	16,108	Q881	
+dvp_004_place_44	Connecticut	41.6,-72.7	Q779	
+dvp_004_place_45	New York City	40.67,-73.94	Q60	
+dvp_004_place_46	New York City	40.67,-73.94	Q60	
+dvp_004_place_47	Juilliard School	40.773871,-73.983178	Q503246	
+dvp_004_place_48	Juilliard School	40.773871,-73.983178	Q503246	
+dvp_004_place_49	Alabama	32.7,-86.7	Q173	
+dvp_004_place_50	Rauner Special Collections Library	43.70447,-72.28817	Q98544730	
+dvp_004_place_51	Webster Hall	40.7317,-73.9892	Q7978928	
+dvp_004_place_52	Alabama	32.7,-86.7	Q173	
+dvp_004_place_53	Mississippi	33,-90	Q1494	
+dvp_004_place_54	Dartmouth College	43.703333333333,-72.288333333333	Q49116	
+dvp_004_place_55	Vietnam	16,108	Q881	
