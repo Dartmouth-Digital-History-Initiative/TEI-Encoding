@@ -1,15 +1,15 @@
 id	persName	QID	dvp_id
-dvp_004_person_0	Douglas Coonrad,Dartmouth ’67		
-dvp_004_person_1	Elena Ridker		
-dvp_004_person_2	Mr. Coonrad		
-dvp_004_person_3	Douglas		
-dvp_004_person_4	Doug		
-dvp_004_person_5	Doug		
-dvp_004_person_6	Robert		
-dvp_004_person_7	Charlotte Coonrad		
+dvp_004_person_0	Douglas Coonrad,Dartmouth ’67		dvp_0045
+dvp_004_person_1	Elena Ridker		dvp_0046
+dvp_004_person_2	Mr. Coonrad		dvp_0045
+dvp_004_person_3	Douglas		dvp_0045
+dvp_004_person_4	Doug		dvp_0045
+dvp_004_person_5	Doug		dvp_0045
+dvp_004_person_6	Robert		dvp_0047
+dvp_004_person_7	Charlotte Coonrad		dvp_0048
 dvp_004_person_8	Jigs		
-dvp_004_person_9	[R.] Jay Evans [Class of 1949]		
-dvp_004_person_10	Jay Evans		
+dvp_004_person_9	[R.] Jay Evans [Class of 1949]		dvp_0049
+dvp_004_person_10	Jay Evans		dvp_0049
 dvp_004_person_11	Francis Sears	Q1427451	
 dvp_004_person_12	John George Kemeny	Q28900	
 dvp_004_person_13	Thomas Eugene Kurtz	Q1387801	
@@ -20,7 +20,7 @@ dvp_004_person_17	Lyndon B. Johnson	Q9640
 dvp_004_person_18	Jane Fonda	Q41142	
 dvp_004_person_19	Robert McNamara	Q191999	
 dvp_004_person_20	Phil Hanlon	Q87034621	
-dvp_004_person_21	Jay		
+dvp_004_person_21	Jay		dvp_0049
 dvp_004_person_22	Claude Monet	Q296	
 dvp_004_person_23	Ansel Adams	Q60809	
 dvp_004_person_24	Richard Eberhart	Q975736	
@@ -31,16 +31,16 @@ dvp_004_person_28	Richard Eberhart	Q975736
 dvp_004_person_29	Gretchen	Q1791104	
 dvp_004_person_30	Francis Sears	Q1427451	
 dvp_004_person_31	Mignon G. Eberhart	Q452249	
-dvp_004_person_32	Doug		
+dvp_004_person_32	Doug		dvp_0045
 dvp_004_person_33	Duke Cunningham	Q946106	
 dvp_004_person_34	Duke Cunningham	Q946106	
 dvp_004_person_35	Duke Cunningham	Q946106	
 dvp_004_person_36	Duke Cunningham	Q946106	
-dvp_004_person_37	Jay Evans		
+dvp_004_person_37	Jay Evans		dvp_0049
 dvp_004_person_38	Joseph Heller	Q208101	
 dvp_004_person_39	Checkertail Bob		
-dvp_004_person_40	Ned [Edward F. “Ned” Gillette, Class of 1967]		
-dvp_004_person_41	Kraig Kristofferson		
+dvp_004_person_40	Ned [Edward F. “Ned” Gillette, Class of 1967]	Q101251040	
+dvp_004_person_41	Kraig Kristofferson		dvp_0050
 dvp_004_person_42	Kris Kristofferson	Q208681	
 dvp_004_person_43	Kris Kristofferson	Q208681	
 dvp_004_person_44	Kris Kristofferson	Q208681	
