@@ -1,51 +1,53 @@
-id	placeName
-dvp_003_place_0	Rauner [Special Collections] Library
-dvp_003_place_1	Muir Beach, California
-dvp_003_place_2	Hartford, Connecticut
-dvp_003_place_3	Hartford, Connecticut
-dvp_003_place_4	Connecticut
-dvp_003_place_5	Dartmouth
-dvp_003_place_6	Connecticut
-dvp_003_place_7	Little Rock
-dvp_003_place_8	Hartford
-dvp_003_place_9	West Hartford
-dvp_003_place_10	Dartmouth
-dvp_003_place_11	Maine
-dvp_003_place_12	Maine
-dvp_003_place_13	St. Louis
-dvp_003_place_14	Maine
-dvp_003_place_15	Rangeley Lakes
-dvp_003_place_16	Maine
-dvp_003_place_17	Dartmouth
-dvp_003_place_18	America
-dvp_003_place_19	Sanborn [Hall]
-dvp_003_place_20	Sanborn
-dvp_003_place_21	Baltimore
-dvp_003_place_22	White River Junction
-dvp_003_place_23	New Hampshire
-dvp_003_place_24	New Hampshire
-dvp_003_place_25	Montreal, Canada
-dvp_003_place_26	Esquire Show Bar
-dvp_003_place_27	Rue de Saint-Catherine [Rue Stanley]
-dvp_003_place_28	Montreal
-dvp_003_place_29	Hartford
-dvp_003_place_30	Montreal
-dvp_003_place_31	Montreal
-dvp_003_place_32	Hartford
-dvp_003_place_33	Vietnam
-dvp_003_place_34	Vietnam
-dvp_003_place_35	Vietnam
-dvp_003_place_36	Nigeria
-dvp_003_place_37	Vietnam
-dvp_003_place_38	United States
-dvp_003_place_39	New Hampshire
-dvp_003_place_40	Washington
-dvp_003_place_41	Vietnam
-dvp_003_place_42	Harpers Ferry, [West] Virginia
-dvp_003_place_43	Washington
-dvp_003_place_44	Vietnam
-dvp_003_place_45	Vietnam
-dvp_003_place_46	Saigon
-dvp_003_place_47	Saigon
-dvp_003_place_48	Vietnam
-dvp_003_place_49	Binh Long
+id	placeName	QID	dvp_id	coordinate location
+dvp_003_place_0	Rauner Special Collections Library	Q98544730		43.70447,-72.28817
+dvp_003_place_1	Muir Beach	Q2792890		37.862222222222,-122.58138888889
+dvp_003_place_2	Hartford	Q33486		41.763333333333,-72.685
+dvp_003_place_3	Hartford	Q33486		41.763333333333,-72.685
+dvp_003_place_4	Connecticut	Q779		41.6,-72.7
+dvp_003_place_5	Dartmouth College	Q49116		43.703333333333,-72.288333333333
+dvp_003_place_6	Connecticut	Q779		41.6,-72.7
+dvp_003_place_7	Little Rock	Q33405		34.736111111111,-92.331111111111
+dvp_003_place_8	Hartford	Q33486		41.763333333333,-72.685
+dvp_003_place_9	West Hartford	Q49140		41.767777777778,-72.753888888889
+dvp_003_place_10	Dartmouth College	Q49116		43.703333333333,-72.288333333333
+dvp_003_place_11	Maine	Q724		45.5,-69
+dvp_003_place_12	Maine	Q724		45.5,-69
+dvp_003_place_13	St. Louis	Q38022		38.616666666667,-90.2
+dvp_003_place_14	Maine	Q724		45.5,-69
+dvp_003_place_15	Rangeley Lake	Q7292727		44.947416666667,-70.692944444444
+dvp_003_place_16	Maine	Q724		45.5,-69
+dvp_003_place_17	Dartmouth College	Q49116		43.703333333333,-72.288333333333
+dvp_003_place_18	United States of America	Q30		39.828175,-98.5795
+dvp_003_place_19	Sanborn [Hall]			
+dvp_003_place_20	Sanborn			
+dvp_003_place_21	Baltimore	Q5092		39.286388888889,-76.615
+dvp_003_place_22	White River Junction	Q1898562		43.6503,-72.3214
+dvp_003_place_23	New Hampshire	Q759		44,-71.5
+dvp_003_place_24	New Hampshire	Q759		44,-71.5
+dvp_003_place_25	Montreal	Q340		45.508888888889,-73.561666666667
+dvp_003_place_26	Esquire Show Bar	Q3058623		
+dvp_003_place_27	Stanley Street	Q3450086		45.4997,-73.5743
+dvp_003_place_28	Montreal	Q340		45.508888888889,-73.561666666667
+dvp_003_place_29	Hartford	Q33486		41.763333333333,-72.685
+dvp_003_place_30	Montreal	Q340		45.508888888889,-73.561666666667
+dvp_003_place_31	Montreal	Q340		45.508888888889,-73.561666666667
+dvp_003_place_32	Hartford	Q33486		41.763333333333,-72.685
+dvp_003_place_33	Vietnam	Q881		16,108
+dvp_003_place_34	Vietnam	Q881		16,108
+dvp_003_place_35	Vietnam	Q881		16,108
+dvp_003_place_36	Nigeria	Q1033		9,8
+dvp_003_place_37	Vietnam	Q881		16,108
+dvp_003_place_38	United States of America	Q30		39.828175,-98.5795
+dvp_003_place_39	New Hampshire	Q759		44,-71.5
+dvp_003_place_40	Washington, D.C.	Q61		38.895,-77.036666666667
+dvp_003_place_41	Vietnam	Q881		16,108
+dvp_003_place_42	Harpers Ferry	Q985289		39.325398,-77.743599
+				39.32538,-77.73888
+dvp_003_place_43	Washington, D.C.	Q61		38.895,-77.036666666667
+dvp_003_place_44	Vietnam	Q881		16,108
+dvp_003_place_45	Vietnam	Q881		16,108
+dvp_003_place_46	Ho Chi Minh City	Q1854		10.816666666667,106.63333333333
+dvp_003_place_47	Ho Chi Minh City	Q1854		10.816666666667,106.63333333333
+dvp_003_place_48	Vietnam	Q881		16,108
+dvp_003_place_49	Bình Long	Q733426		11.6869462,106.5964026
+				11.678888888889,106.60416666667
