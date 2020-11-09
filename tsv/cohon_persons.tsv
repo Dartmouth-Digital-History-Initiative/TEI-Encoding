@@ -1,24 +1,24 @@
-id	persName
-dvp_003_person_0	Hannah Solomon
-dvp_003_person_1	[J.] Donald Cohon [Jr.]
-dvp_003_person_2	J. Donald Cohon
-dvp_003_person_3	Joseph Donald Cohon
-dvp_003_person_4	Florence [H. Cohon]
-dvp_003_person_5	Mike Castero [Archivist Note: spelling uncertain]
-dvp_003_person_6	Gitty Donnelly [Archivist Note: spelling of first name is uncertain]
-dvp_003_person_7	Donald
-dvp_003_person_8	Donald
-dvp_003_person_9	Donald
-dvp_003_person_10	Donald Jr
-dvp_003_person_11	[Herbert F.] ìHerbî West
-dvp_003_person_12	Chris Miller [Class of 1963]
-dvp_003_person_13	[Aiden H.] ìWhiteyî Burnham
-dvp_003_person_14	[Michael J.] ìMikeî Herriott [Class of 1964]
-dvp_003_person_15	Whitey
-dvp_003_person_16	Mike
-dvp_003_person_17	[Henry M.] ìHankî Paulson [Jr., Class of 1968]
-dvp_003_person_18	Richard [G.] Eberhart
-dvp_003_person_19	[President John F.] Kennedy
-dvp_003_person_20	Kennedy
-dvp_003_person_21	Kennedy
-dvp_003_person_22	Jay Parsons
+id	persName	QID	dvp_id
+dvp_003_person_0	Hannah Solomon		dvp_0051
+dvp_003_person_1	[J.] Donald Cohon [Jr.]		dvp_0052
+dvp_003_person_2	J. Donald Cohon		dvp_0052
+dvp_003_person_3	Joseph Donald Cohon		dvp_0053
+dvp_003_person_4	Florence [H. Cohon]		dvp_0054
+dvp_003_person_5	Mike Castero [Archivist Note: spelling uncertain]		dvp_0055
+dvp_003_person_6	Gitty Donnelly [Archivist Note: spelling of first name is uncertain]		dvp_0056
+dvp_003_person_7	Donald		dvp_0053
+dvp_003_person_8	Donald		dvp_0053
+dvp_003_person_9	Donald		dvp_0052
+dvp_003_person_10	Donald Jr		dvp_0052
+dvp_003_person_11	Herbert Faulkner West	Q101413698	
+dvp_003_person_12	Chris Miller [Class of 1963]		dvp_0057
+dvp_003_person_13	[Aiden H.] ‚ÄúWhitey‚Äù Burnham		dvp_0058
+dvp_003_person_14	[Michael J.] ‚ÄúMike‚Äù Herriott [Class of 1964]		dvp_0059
+dvp_003_person_15	Whitey		dvp_0058
+dvp_003_person_16	Mike		dvp_0059
+dvp_003_person_17	Henry Paulson	Q311025	
+dvp_003_person_18	Richard Eberhart	Q975736	
+dvp_003_person_19	John F. Kennedy	Q9696	
+dvp_003_person_20	John F. Kennedy	Q9696	
+dvp_003_person_21	John F. Kennedy	Q9696	
+dvp_003_person_22	Jay Parsons		dvp_0060
