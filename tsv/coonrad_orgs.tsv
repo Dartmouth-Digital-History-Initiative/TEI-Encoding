@@ -1,5 +1,5 @@
 id	orgName	QID	dvp_id
-dvp_004_org_0	Class of ’67		
+dvp_004_org_0	Class of ’67		dvp_0061
 dvp_004_org_1	Siemens	Q81230	
 dvp_004_org_2	Scouts BSA	Q7887340	
 dvp_004_org_3	Scouts BSA	Q7887340	
@@ -17,7 +17,7 @@ dvp_004_org_14	Dartmouth College	Q49116
 dvp_004_org_15	Dartmouth College	Q49116	
 dvp_004_org_16	Dartmouth College	Q49116	
 dvp_004_org_17	Dartmouth Outing Club (DOC)	Q101243244	
-dvp_004_org_18	[Dartmouth] Mountaineering Club		
+dvp_004_org_18	[Dartmouth] Mountaineering Club		dvp_0062
 dvp_004_org_19	USS Savannah	Q1122473	
 dvp_004_org_20	Dartmouth College	Q49116	
 dvp_004_org_21	Ford Motor Company	Q44294	
@@ -74,7 +74,7 @@ dvp_004_org_71	United States Army Reserve	Q2036662
 dvp_004_org_72	United States Army Reserve	Q2036662	
 dvp_004_org_73	United States Navy	Q11220	
 dvp_004_org_74	United States Army	Q9212	
-dvp_004_org_75	Class of ’67		
+dvp_004_org_75	Class of ’67		dvp_0061
 dvp_004_org_76	Dartmouth College	Q49116	
 dvp_004_org_77	Dartmouth College	Q49116	
 dvp_004_org_78	United States Marine Corps	Q11218	
