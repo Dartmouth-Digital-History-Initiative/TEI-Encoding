@@ -1,4 +1,4 @@
-id	name
-dvp_003_event_0	Depression
-dvp_003_event_1	Bay of Pigs [Invasion]
-dvp_003_event_2	Kennedy assassination
+id	name	dvp_id	end time	point in time	start time
+dvp_003_event_0	Great Depression		1941-01-01T00:00:00Z		1929-10-24T00:00:00Z
+dvp_003_event_1	Bay of Pigs invasion		1961-04-19T00:00:00Z	1961-04-20T00:00:00Z	1961-04-17T00:00:00Z
+dvp_003_event_2	assassination of John F. Kennedy			1963-11-22T00:00:00Z
