@@ -1,30 +1,30 @@
-id	name
-dvp_005_event_0	Vietnam
-dvp_005_event_1	Vietnam
-dvp_005_event_2	World War I
-dvp_005_event_3	World War II
-dvp_005_event_4	[the Battle of] Bunker Hill
-dvp_005_event_5	American Revolution
-dvp_005_event_6	World War II
-dvp_005_event_7	[the attack on] Pearl Harbor
-dvp_005_event_8	Civil War
-dvp_005_event_9	Civil War
-dvp_005_event_10	Civil War
-dvp_005_event_11	the Korean War
-dvp_005_event_12	[Douglas] MacArthur hearings
-dvp_005_event_13	[President Harry S.] Truman firing General MacArthur
-dvp_005_event_14	Queen Elizabeth [II] was coronated [in 1952]
-dvp_005_event_15	Kennedy election
-dvp_005_event_16	Cuban Missile Crisis
-dvp_005_event_17	Vietnam
-dvp_005_event_18	John Kennedy was killed
-dvp_005_event_19	the assassination of the president
-dvp_005_event_20	Vietnam
-dvp_005_event_21	World War II
-dvp_005_event_22	march Against Fear
-dvp_005_event_23	war in Korea
-dvp_005_event_24	the Korean War
-dvp_005_event_25	Watts riots
-dvp_005_event_26	Martin Luther King was assassinated
-dvp_005_event_27	Vietnam
-dvp_005_event_28	Vietnam
+id	name	dvp_id	start time	end time	point in time
+dvp_005_event_0	Vietnam War		1965-11-01T00:00:00Z	1975-04-30T00:00:00Z	1955-11-01T00:00:00Z
+dvp_005_event_1	Vietnam War		1965-11-01T00:00:00Z	1975-04-30T00:00:00Z	1955-11-01T00:00:00Z
+dvp_005_event_2	World War I		1914-07-28T00:00:00Z	1918-11-11T00:00:00Z	
+dvp_005_event_3	World War II		1939-09-01T00:00:00Z	1945-09-02T00:00:00Z	
+dvp_005_event_4	Battle of Bunker Hill				1775-06-17T00:00:00Z
+dvp_005_event_5	American Revolutionary War		1775-04-19T00:00:00Z	1783-09-03T00:00:00Z	0004-09-01T00:00:00Z
+dvp_005_event_6	World War II		1939-09-01T00:00:00Z	1945-09-02T00:00:00Z	
+dvp_005_event_7	Attack on Pearl Harbor				1941-12-07T00:00:00Z
+dvp_005_event_8	American Civil War		1861-04-11T00:00:00Z	1865-05-10T00:00:00Z	1861-04-12T00:00:00Z
+dvp_005_event_9	American Civil War		1861-04-11T00:00:00Z	1865-05-10T00:00:00Z	1861-04-12T00:00:00Z
+dvp_005_event_10	American Civil War		1861-04-11T00:00:00Z	1865-05-10T00:00:00Z	1861-04-12T00:00:00Z
+dvp_005_event_11	The Korean War				
+dvp_005_event_12	[Douglas] MacArthur hearings				
+dvp_005_event_13	Relief of Douglas MacArthur				1951-04-11T00:00:00Z
+dvp_005_event_14	Coronation of Queen Elizabeth II				1953-06-02T00:00:00Z
+dvp_005_event_15	Election of John F. Kennedy: President of the United States (NAID 53679)				
+dvp_005_event_16	Cuban Missile Crisis		1962-10-14T00:00:00Z	1962-10-28T00:00:00Z	1962-01-01T00:00:00Z
+dvp_005_event_17	Vietnam War		1965-11-01T00:00:00Z	1975-04-30T00:00:00Z	1955-11-01T00:00:00Z
+dvp_005_event_18	assassination of John F. Kennedy				1963-11-22T00:00:00Z
+dvp_005_event_19	assassination of John F. Kennedy				1963-11-22T00:00:00Z
+dvp_005_event_20	Vietnam War		1965-11-01T00:00:00Z	1975-04-30T00:00:00Z	1955-11-01T00:00:00Z
+dvp_005_event_21	World War II		1939-09-01T00:00:00Z	1945-09-02T00:00:00Z	
+dvp_005_event_22	March Against Fear				
+dvp_005_event_23	Korean War		1950-06-25T00:00:00Z	1953-07-27T00:00:00Z	
+dvp_005_event_24	The Korean War				
+dvp_005_event_25	Watts riots		1965-08-11T00:00:00Z	1965-08-16T00:00:00Z	1965-08-01T00:00:00Z
+dvp_005_event_26	assassination of Martin Luther King Jr.				1968-04-04T00:00:00Z
+dvp_005_event_27	Vietnam War		1965-11-01T00:00:00Z	1975-04-30T00:00:00Z	1955-11-01T00:00:00Z
+dvp_005_event_28	Vietnam War		1965-11-01T00:00:00Z	1975-04-30T00:00:00Z	1955-11-01T00:00:00Z
