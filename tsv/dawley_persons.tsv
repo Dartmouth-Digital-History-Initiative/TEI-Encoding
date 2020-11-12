@@ -1,39 +1,39 @@
 id	persName	QID	dvp_id
-dvp_005_person_0	Alexa Sonnenfeld		
+dvp_005_person_0	Alexa Sonnenfeld		dvp_0089
 dvp_005_person_1	David Dawley		dvp_0073
 dvp_005_person_2	David		dvp_0073
-dvp_005_person_3	Dolly Ferguson [Dawley]		
-dvp_005_person_4	Porter [W.] Dawley		
-dvp_005_person_5	Frank[Ferguson]		
-dvp_005_person_6	Uncle Frank		
-dvp_005_person_7	Percy Ferguson		
-dvp_005_person_8	John Hutchins		
-dvp_005_person_9	Frances Alcock Hutchins		
-dvp_005_person_10	Jeremiah Hutchins		
-dvp_005_person_11	Richard Saltonstall		
-dvp_005_person_12	Abigail [Hutchins]		
-dvp_005_person_13	Jeremiah Hutchins		
+dvp_005_person_3	Dolly Ferguson [Dawley]		dvp_0090
+dvp_005_person_4	Porter [W.] Dawley		dvp_0091
+dvp_005_person_5	Frank[Ferguson]		dvp_0092
+dvp_005_person_6	Uncle Frank		dvp_0092
+dvp_005_person_7	Percy Ferguson		dvp_0093
+dvp_005_person_8	John Hutchins		dvp_0094
+dvp_005_person_9	Frances Alcock Hutchins		dvp_0095
+dvp_005_person_10	Jeremiah Hutchins		dvp_0096
+dvp_005_person_11	Richard Saltonstall		dvp_0113
+dvp_005_person_12	Abigail [Hutchins]		dvp_0097
+dvp_005_person_13	Jeremiah Hutchins		dvp_0096
 dvp_005_person_14	Uncle Mike		
 dvp_005_person_15	Mike		
-dvp_005_person_16	Arthur Hutchins		
+dvp_005_person_16	Arthur Hutchins		dvp_0098
 dvp_005_person_17	John Wayne	Q40531	
 dvp_005_person_18	Chocorua		
-dvp_005_person_19	[Richard J.] “Richie” Wolanski		
-dvp_005_person_20	Marcel [H.] Klavian		
+dvp_005_person_19	[Richard J.] “Richie” Wolanski		dvp_0099
+dvp_005_person_20	Marcel [H.] Klavian		dvp_0100
 dvp_005_person_21	Nichols		
 dvp_005_person_22	Stone		
-dvp_005_person_23	[Barbara] ‘Barbie” Nichols [Kirwood]		
-dvp_005_person_24	Carlton [D.] Nichols [Class of 1937]		
-dvp_005_person_25	[Charles C.] “Charlie” Brooks [Class of 1936]		
-dvp_005_person_26	[Edward T.] “Eddie” Chamberlain [Jr.		
-dvp_005_person_27	Charlie Brooks		
+dvp_005_person_23	[Barbara] ‘Barbie” Nichols [Kirwood]		dvp_0101
+dvp_005_person_24	Carlton [D.] Nichols [Class of 1937]		dvp_0102
+dvp_005_person_25	[Charles C.] “Charlie” Brooks [Class of 1936]		dvp_0103
+dvp_005_person_26	[Edward T.] “Eddie” Chamberlain [Jr.		dvp_0104
+dvp_005_person_27	Charlie Brooks		dvp_0103
 dvp_005_person_28	Dwight D. Eisenhower	Q9916	
 dvp_005_person_29	Dwight D. Eisenhower	Q9916	
 dvp_005_person_30	Douglas MacArthur	Q127417	
-dvp_005_person_31	[W.] Hart Perry		
-dvp_005_person_32	[Bob] Blackman		
+dvp_005_person_31	[W.] Hart Perry		dvp_0105
+dvp_005_person_32	[Bob] Blackman		dvp_0106
 dvp_005_person_33	John Sloan Dickey	Q3182471	
-dvp_005_person_34	“Herb” [Herbert F.] West		
+dvp_005_person_34	“Herb” [Herbert F.] West		dvp_0107
 dvp_005_person_35	Dwight D. Eisenhower	Q9916	
 dvp_005_person_36	John F. Kennedy	Q9696	
 dvp_005_person_37	Charles L. Bartlett	Q5079906	
@@ -42,20 +42,20 @@ dvp_005_person_39	Jacqueline Kennedy Onassis	Q165421
 dvp_005_person_40	John F. Kennedy	Q9696	
 dvp_005_person_41	John F. Kennedy	Q9696	
 dvp_005_person_42	Robert F. Kennedy	Q25310	
-dvp_005_person_43	[William R.] “Sarge” Brown	Q101500331	dvp_0037
-dvp_005_person_44	Sarge Brown	Q101500331	dvp_0037
+dvp_005_person_43	William R. Brown	Q101500331	
+dvp_005_person_44	William R. Brown	Q101500331	
 dvp_005_person_45	Pete Seibert	Q7172247	
-dvp_005_person_46	Sarge Brown	Q101500331	dvp_0037
-dvp_005_person_47	Sarge Brown	Q101500331	dvp_0037
-dvp_005_person_48	Perry Mason	Q377529	
-dvp_005_person_49	Perry Mason	Q377529	
+dvp_005_person_46	William R. Brown	Q101500331	
+dvp_005_person_47	William R. Brown	Q101500331	
+dvp_005_person_48	Perry Mason		
+dvp_005_person_49	Perry Mason		
 dvp_005_person_50	John F. Kennedy	Q9696	
 dvp_005_person_51	Joseph P. Kennedy Sr.	Q313696	
 dvp_005_person_52	John F. Kennedy	Q9696	
 dvp_005_person_53	John F. Kennedy	Q9696	
 dvp_005_person_54	Miña María Huete [archivist note: spelling uncertain]		
 dvp_005_person_55	María		
-dvp_005_person_56	Samuel Morse	Q75698	
+dvp_005_person_56	Morse		
 dvp_005_person_57	Henry Luce	Q516473	
 dvp_005_person_58	David Halberstam	Q467156	
 dvp_005_person_59	Theodore H. White	Q4392601	
@@ -63,7 +63,7 @@ dvp_005_person_60	Henry Luce	Q516473
 dvp_005_person_61	Oscar Lewis	Q1381703	
 dvp_005_person_62	Che Guevara	Q5809	
 dvp_005_person_63	T. E. Lawrence	Q170596	
-dvp_005_person_64	[Joseph A.] “Joe” Farrell [III]		
+dvp_005_person_64	[Joseph A.] “Joe” Farrell [III]		dvp_0112
 dvp_005_person_65	John F. Kennedy	Q9696	
 dvp_005_person_66	Tom Hayden	Q352953	
 dvp_005_person_67	Jane Fonda	Q41142	
@@ -76,18 +76,18 @@ dvp_005_person_73	James Meredith	Q5040
 dvp_005_person_74	Stokely Carmichael	Q509860	
 dvp_005_person_75	Martin Luther King Jr.	Q8027	
 dvp_005_person_76	Stokely Carmichael	Q509860	
-dvp_005_person_77	Willie Ricks		
+dvp_005_person_77	Willie Ricks		dvp_0108
 dvp_005_person_78	Stokely Carmichael	Q509860	
 dvp_005_person_79	Martin Luther King Jr.	Q8027	
 dvp_005_person_80	Coleman Young	Q863703	
 dvp_005_person_81	Maryann Mahaffey	Q6781115	
-dvp_005_person_82	Kathy McNamara [Kathleen McNamara Spears]		
+dvp_005_person_82	Kathy McNamara [Kathleen McNamara Spears]		dvp_0109
 dvp_005_person_83	Suzie		
 dvp_005_person_84	Lyndon B. Johnson	Q9640	
 dvp_005_person_85	Robert McNamara	Q191999	
 dvp_005_person_86	Robert F. Kennedy	Q25310	
 dvp_005_person_87	Robert F. Kennedy	Q25310	
-dvp_005_person_88	Edward M. Kennedy, Jr.	Q3048622	
+dvp_005_person_88	Ted Kennedy	Q134549	
 dvp_005_person_89	Robert McNamara	Q191999	
 dvp_005_person_90	David Halberstam	Q467156	
 dvp_005_person_91	Robert McNamara	Q191999	
@@ -98,14 +98,14 @@ dvp_005_person_95	Warren [W.] Wiggins	Q101500349
 dvp_005_person_96	Warren Wiggins	Q101500349	
 dvp_005_person_97	Sargent Shriver	Q317248	
 dvp_005_person_98	Warren Wiggins	Q101500349	
-dvp_005_person_99	[William] “Bill” Josephson		
+dvp_005_person_99	[William] “Bill” Josephson		dvp_0110
 dvp_005_person_100	Wiggins	Q101500349	
 dvp_005_person_101	Sargent Shriver	Q317248	
 dvp_005_person_102	Sargent Shriver	Q317248	
 dvp_005_person_103	Wiggins	Q101500349	
 dvp_005_person_104	John Coltrane	Q7346	
 dvp_005_person_105	Wiggins	Q101500349	
-dvp_005_person_106	Dr. Joseph [E.] Black		
+dvp_005_person_106	Dr. Joseph [E.] Black		dvp_0111
 dvp_005_person_107	Walter Cronkite	Q31073	
 dvp_005_person_108	Walter Cronkite	Q31073	
 dvp_005_person_109	Fonzo, John Halsey		
@@ -145,11 +145,11 @@ dvp_005_person_142	Barney Frank	Q537287
 dvp_005_person_143	Kevin White	Q6397750	
 dvp_005_person_144	Muhammad Ali	Q36107	
 dvp_005_person_145	David T. McLaughlin	Q5240250	
-dvp_005_person_146	[Paul D.] Paganucci	Q7150318	
+dvp_005_person_146	Paul Donnelly Paganucci	Q7150318	
 dvp_005_person_147	Warren Rudman	Q60547	
 dvp_005_person_148	Warren Rudman	Q60547	
 dvp_005_person_149	Thomas Polgar	Q9358522	
-dvp_005_person_150	Gerard Cassidy	Q64743818	
+dvp_005_person_150	Gerry Cassidy	Q98836382	
 dvp_005_person_151	David		dvp_0073
 dvp_005_person_152	Arthur		
 dvp_005_person_153	Paul X. Kelley	Q2063239	
