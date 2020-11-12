@@ -1,28 +1,28 @@
-id	name
-dvp_002_event_0	World War II
-dvp_002_event_1	JFK [President John F. Kennedy] was assassinated
-dvp_002_event_2	JFK’s death
-dvp_002_event_3	March on Washington [for Jobs and Freedom]
-dvp_002_event_4	March on Washington
-dvp_002_event_5	Vietnam War
-dvp_002_event_6	Vietnam
-dvp_002_event_7	World War I
-dvp_002_event_8	World War II
-dvp_002_event_9	[American] Civil War
-dvp_002_event_10	Tet [Offensive]
-dvp_002_event_11	[Rev. Dr.] Martin Luther King [Jr.] getting assassinated
-dvp_002_event_12	Tet
-dvp_002_event_13	Korea
-dvp_002_event_14	’68 election
-dvp_002_event_15	World War II
-dvp_002_event_16	Korea
-dvp_002_event_17	Vietnam War
-dvp_002_event_18	Vietnam
-dvp_002_event_19	big Common rally against the Vietnam War
-dvp_002_event_20	My Lai [Massacre] incident
-dvp_002_event_21	[the Battle of] Hamburger Hill
-dvp_002_event_22	Vietnam War
-dvp_002_event_23	Vietnam
-dvp_002_event_24	Kuwait War [sic; Persian Gulf War]
-dvp_002_event_25	Vietnam
-dvp_002_event_26	Vietnam
+id	name	dvp_id	point in time	end time	start time
+dvp_002_event_0	World War II			1945-09-02T00:00:00Z	1939-09-01T00:00:00Z
+dvp_002_event_1	assassination of John F. Kennedy		1963-11-22T00:00:00Z		
+dvp_002_event_2	assassination of John F. Kennedy		1963-11-22T00:00:00Z		
+dvp_002_event_3	March on Washington for Jobs and Freedom		1963-08-28T00:00:00Z		
+dvp_002_event_4	March on Washington for Jobs and Freedom		1963-08-28T00:00:00Z		
+dvp_002_event_5	Vietnam War		1955-11-01T00:00:00Z	1975-04-30T00:00:00Z	1965-11-01T00:00:00Z
+dvp_002_event_6	Vietnam War		1955-11-01T00:00:00Z	1975-04-30T00:00:00Z	1965-11-01T00:00:00Z
+dvp_002_event_7	World War I			1918-11-11T00:00:00Z	1914-07-28T00:00:00Z
+dvp_002_event_8	World War II			1945-09-02T00:00:00Z	1939-09-01T00:00:00Z
+dvp_002_event_9	American Civil War		1861-04-12T00:00:00Z	1865-05-10T00:00:00Z	1861-04-11T00:00:00Z
+dvp_002_event_10	Tet Offensive		1968-09-23T00:00:00Z	1968-09-23T00:00:00Z	1968-01-30T00:00:00Z
+dvp_002_event_11	assassination of Martin Luther King Jr.		1968-04-04T00:00:00Z		
+dvp_002_event_12	Tet Offensive		1968-09-23T00:00:00Z	1968-09-23T00:00:00Z	1968-01-30T00:00:00Z
+dvp_002_event_13	Korean War			1953-07-27T00:00:00Z	1950-06-25T00:00:00Z
+dvp_002_event_14	1968 United States presidential election		1968-11-05T00:00:00Z		
+dvp_002_event_15	World War II			1945-09-02T00:00:00Z	1939-09-01T00:00:00Z
+dvp_002_event_16	Korean War			1953-07-27T00:00:00Z	1950-06-25T00:00:00Z
+dvp_002_event_17	Vietnam War		1955-11-01T00:00:00Z	1975-04-30T00:00:00Z	1965-11-01T00:00:00Z
+dvp_002_event_18	Vietnam War		1955-11-01T00:00:00Z	1975-04-30T00:00:00Z	1965-11-01T00:00:00Z
+dvp_002_event_19	big Common rally against the Vietnam War				
+dvp_002_event_20	My Lai Massacre		1968-03-16T00:00:00Z		
+dvp_002_event_21	Battle of Hamburger Hill		1969-05-20T00:00:00Z	1969-05-20T00:00:00Z	1969-05-10T00:00:00Z
+dvp_002_event_22	Vietnam War		1955-11-01T00:00:00Z	1975-04-30T00:00:00Z	1965-11-01T00:00:00Z
+dvp_002_event_23	Vietnam War		1955-11-01T00:00:00Z	1975-04-30T00:00:00Z	1965-11-01T00:00:00Z
+dvp_002_event_24	Gulf War			1991-02-28T00:00:00Z	1990-08-02T00:00:00Z
+dvp_002_event_25	Vietnam War		1955-11-01T00:00:00Z	1975-04-30T00:00:00Z	1965-11-01T00:00:00Z
+dvp_002_event_26	Vietnam War		1955-11-01T00:00:00Z	1975-04-30T00:00:00Z	1965-11-01T00:00:00Z
