@@ -1,67 +1,67 @@
-id	placeName
-dvp_002_place_0	Rauner Special Collections Library
-dvp_002_place_1	Dartmouth College
-dvp_002_place_2	Hanover
-dvp_002_place_3	Massachusetts
-dvp_002_place_4	Niagara Falls
-dvp_002_place_5	Philadelphia
-dvp_002_place_6	Wynnewood
-dvp_002_place_7	Niagara Falls
-dvp_002_place_8	Love Canal
-dvp_002_place_9	Niagara Falls
-dvp_002_place_10	Lyndonville
-dvp_002_place_11	Dartmouth College
-dvp_002_place_12	Lake Geneva
-dvp_002_place_13	Harvard University
-dvp_002_place_14	Ohiri Field
-dvp_002_place_15	Hanover
-dvp_002_place_16	Ithaca
-dvp_002_place_17	Dartmouth College
-dvp_002_place_18	Mount Moosilauke
-dvp_002_place_19	New Hamp[shire] Hall
-dvp_002_place_20	New Hamp Hall
-dvp_002_place_21	University of Kentucky
-dvp_002_place_22	Dartmouth College
-dvp_002_place_23	United States of America
-dvp_002_place_24	Dartmouth College
-dvp_002_place_25	Buffalo
-dvp_002_place_26	Buffalo
-dvp_002_place_27	Jamaica Plain VA Medical Center
-dvp_002_place_28	Boston
-dvp_002_place_29	Philadelphia
-dvp_002_place_30	Philadelphia
-dvp_002_place_31	University of Pennsylvania
-dvp_002_place_32	University of Pennsylvania
-dvp_002_place_33	Dartmouth College
-dvp_002_place_34	Philadelphia
-dvp_002_place_35	Vietnam
-dvp_002_place_36	Vietnam
-dvp_002_place_37	Fort Dix
-dvp_002_place_38	New Jersey
-dvp_002_place_39	Vietnam
-dvp_002_place_40	Fort Dix
-dvp_002_place_41	Korea
-dvp_002_place_42	Vietnam
-dvp_002_place_43	South Korea
-dvp_002_place_44	South Korea
-dvp_002_place_45	Vietnam
-dvp_002_place_46	Fort Dix
-dvp_002_place_47	Fort Carson
-dvp_002_place_48	Fort Dix
-dvp_002_place_49	Fort Carson
-dvp_002_place_50	Fort Dix
-dvp_002_place_51	Fort Carson
-dvp_002_place_52	Fort Carson
-dvp_002_place_53	Fort Carson
-dvp_002_place_54	Fort Carson
-dvp_002_place_55	Massachusetts
-dvp_002_place_56	Fort Carson
-dvp_002_place_57	Colorado
-dvp_002_place_58	Yellowstone National Park
-dvp_002_place_59	Grand Teton National Park
-dvp_002_place_60	Glacier National Park
-dvp_002_place_61	Wake Island
-dvp_002_place_62	Guam
-dvp_002_place_63	Philippines
-dvp_002_place_64	Da Nang Air Base
-dvp_002_place_65	Da Nang
+id	placeName	QID	dvp_id	coordinate location
+dvp_002_place_0	Rauner Special Collections Library	Q98544730		43.70447,-72.28817
+dvp_002_place_1	Dartmouth College	Q49116		43.703333333333,-72.288333333333
+dvp_002_place_2	Hanover	Q131908		43.7,-72.28333333333333
+dvp_002_place_3	Massachusetts	Q771		42.3,-71.8
+dvp_002_place_4	Niagara Falls	Q128133		43.093889,-79.016944
+dvp_002_place_5	Philadelphia	Q1345		39.952777777778,-75.163611111111
+dvp_002_place_6	Wynnewood	Q8040222		40.0028,-75.2708
+dvp_002_place_7	Niagara Falls	Q128133		43.093889,-79.016944
+dvp_002_place_8	Love Canal	Q1872409		43.080518,-78.948956
+dvp_002_place_9	Niagara Falls	Q128133		43.093889,-79.016944
+dvp_002_place_10	Lyndonville	Q6708760		44.533611111111,-72.003055555556
+dvp_002_place_11	Dartmouth College	Q49116		43.703333333333,-72.288333333333
+dvp_002_place_12	Lake Geneva	Q82230		42.5925,-88.434444444444
+dvp_002_place_13	Harvard University	Q13371		42.374443888889,-71.116943888889
+dvp_002_place_14	Ohiri Field	Q7081069		42.3654,-71.1256
+dvp_002_place_15	Hanover	Q131908		43.7,-72.28333333333333
+dvp_002_place_16	Ithaca	Q217346		42.443333333333,-76.5
+dvp_002_place_17	Dartmouth College	Q49116		43.703333333333,-72.288333333333
+dvp_002_place_18	Mount Moosilauke	Q3321961		44.024511111111,-71.830916666667
+dvp_002_place_19	New Hampshire Hall	Q101537382		43.70252,-72.28664
+dvp_002_place_20	New Hampshire Hall	Q101537382		43.70252,-72.28664
+dvp_002_place_21	University of Kentucky	Q1360303		38.033333333333,-84.5
+dvp_002_place_22	Dartmouth College	Q49116		43.703333333333,-72.288333333333
+dvp_002_place_23	United States of America	Q30		39.828175,-98.5795
+dvp_002_place_24	Dartmouth College	Q49116		43.703333333333,-72.288333333333
+dvp_002_place_25	Buffalo	Q40435		42.904722222222,-78.849444444444
+dvp_002_place_26	Buffalo	Q40435		42.904722222222,-78.849444444444
+dvp_002_place_27	Jamaica Plain VA Medical Center	Q89036091		42.32677,-71.11017
+dvp_002_place_28	Boston	Q100		42.358333333333,-71.0625
+dvp_002_place_29	Philadelphia	Q1345		39.952777777778,-75.163611111111
+dvp_002_place_30	Philadelphia	Q1345		39.952777777778,-75.163611111111
+dvp_002_place_31	University of Pennsylvania	Q49117		39.953885,-75.193048
+dvp_002_place_32	University of Pennsylvania	Q49117		39.953885,-75.193048
+dvp_002_place_33	Dartmouth College	Q49116		43.703333333333,-72.288333333333
+dvp_002_place_34	Philadelphia	Q1345		39.952777777778,-75.163611111111
+dvp_002_place_35	Vietnam	Q881		16,108
+dvp_002_place_36	Vietnam	Q881		16,108
+dvp_002_place_37	Fort Dix	Q1087169		40.019166666667,-74.522777777778
+dvp_002_place_38	New Jersey	Q1408		40,-74.5
+dvp_002_place_39	Vietnam	Q881		16,108
+dvp_002_place_40	Fort Dix	Q1087169		40.019166666667,-74.522777777778
+dvp_002_place_41	Korea	Q18097		38.316666666667,127.23333333333
+dvp_002_place_42	Vietnam	Q881		16,108
+dvp_002_place_43	South Korea	Q884		36,128
+dvp_002_place_44	South Korea	Q884		36,128
+dvp_002_place_45	Vietnam	Q881		16,108
+dvp_002_place_46	Fort Dix	Q1087169		40.019166666667,-74.522777777778
+dvp_002_place_47	Fort Carson	Q602739		38.555555555556,-104.8425
+dvp_002_place_48	Fort Dix	Q1087169		40.019166666667,-74.522777777778
+dvp_002_place_49	Fort Carson	Q602739		38.555555555556,-104.8425
+dvp_002_place_50	Fort Dix	Q1087169		40.019166666667,-74.522777777778
+dvp_002_place_51	Fort Carson	Q602739		38.555555555556,-104.8425
+dvp_002_place_52	Fort Carson	Q602739		38.555555555556,-104.8425
+dvp_002_place_53	Fort Carson	Q602739		38.555555555556,-104.8425
+dvp_002_place_54	Fort Carson	Q602739		38.555555555556,-104.8425
+dvp_002_place_55	Massachusetts	Q771		42.3,-71.8
+dvp_002_place_56	Fort Carson	Q602739		38.555555555556,-104.8425
+dvp_002_place_57	Colorado	Q1261		39,-105.5
+dvp_002_place_58	Yellowstone National Park	Q351		44.6,-110.5
+dvp_002_place_59	Grand Teton National Park	Q222695		43.833333333333,-110.70083333333
+dvp_002_place_60	Glacier National Park	Q373567		48.57,-113.72
+dvp_002_place_61	Wake Island	Q43296		19.3,166.63333333333
+dvp_002_place_62	Guam	Q16635		13.5,144.8
+dvp_002_place_63	Philippines	Q928		12,123
+dvp_002_place_64	Da Nang Air Base	Q1656800		16.043888888889,108.19944444444
+dvp_002_place_65	Da Nang	Q25282		16.031944444444445,108.22055555555555
