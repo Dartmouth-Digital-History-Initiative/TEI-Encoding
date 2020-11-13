@@ -1,68 +1,68 @@
-id	placeName
-dvp_008_place1	Concord, New Hampshire
-dvp_008_place2	New York City
-dvp_008_place3	Peter Cooper Village
-dvp_008_place4	390 First Avenue
-dvp_008_place5	New York
-dvp_008_place6	First Avenue
-dvp_008_place7	[East] River
-dvp_008_place8	23rd Street
-dvp_008_place9	14th Street
-dvp_008_place10	Stuyvesant Town
-dvp_008_place11	74th Street and Central Park West
-dvp_008_place12	Upper West Side
-dvp_008_place13	United States
-dvp_008_place14	Soviet Union
-dvp_008_place15	Vietnam
-dvp_008_place16	China
-dvp_008_place17	Cuba
-dvp_008_place18	Brooklyn
-dvp_008_place19	Manhattan
-dvp_008_place20	Sag Harbor
-dvp_008_place21	Long Island
-dvp_008_place22	Gramercy Park
-dvp_008_place23	Peter Cooper
-dvp_008_place24	Egypt
-dvp_008_place25	Philippines
-dvp_008_place26	St. Augustine, Florida
-dvp_008_place27	Dartmouth
-dvp_008_place28	Needle Park
-dvp_008_place29	Central Park West
-dvp_008_place30	New Hampshire
-dvp_008_place31	America
-dvp_008_place32	Greenwich Village
-dvp_008_place33	Sixth Avenue
-dvp_008_place34	Hanover
-dvp_008_place35	Chicago
-dvp_008_place36	Columbia
-dvp_008_place37	North Mass[achusetts Hall]
-dvp_008_place38	North Mass
-dvp_008_place39	North Mass Hall
-dvp_008_place40	Parkhurst Hall
-dvp_008_place41	Hanover, New Hampshire
-dvp_008_place42	Berkeley, California
-dvp_008_place43	Hanover Inn
-dvp_008_place44	Washington
-dvp_008_place45	Parkhurst
-dvp_008_place46	North Massachusetts Hall
-dvp_008_place47	Canada
-dvp_008_place48	Gold Coast
-dvp_008_place49	Gile
-dvp_008_place50	Streeter
-dvp_008_place51	Lord
-dvp_008_place52	Lyme
-dvp_008_place53	the Green
-dvp_008_place54	CRREL
-dvp_008_place55	Boston
-dvp_008_place56	Kiewit [Computation Center]
-dvp_008_place57	Kiewit
-dvp_008_place58	Hollywood
-dvp_008_place59	Mexico
-dvp_008_place60	Washington, DC
-dvp_008_place61	Dartmouth College
-dvp_008_place62	Kent State
-dvp_008_place63	Concord
-dvp_008_place64	2nd District in New Hampshire
-dvp_008_place65	Bushwick
-dvp_008_place66	Oakland, California
-dvp_008_place67	Iraq
+id	placeName	coordinate location	QID	dvp_id
+dvp_008_place1	Concord	43.206666666667,-71.538055555556	Q28249	
+dvp_008_place2	New York City	40.67,-73.94	Q60	
+dvp_008_place3	Stuyvesant Town—Peter Cooper Village	40.731666666667,-73.977777777778	Q1588578	
+dvp_008_place4	390 First Avenue	40.73627,-73.97836		dvp_0001
+dvp_008_place5	New York City	40.67,-73.94	Q60	
+dvp_008_place6	First Avenue	40.761775,-73.960388888889	Q124947	
+dvp_008_place7	East River	40.786944444444,-73.9175	Q212862	
+dvp_008_place8	23rd Street	40.74155863151024,-73.98957359699125	Q118599	
+dvp_008_place9	14th Street	40.73601491926788,-73.9936399254895	Q191013	
+dvp_008_place10	Stuyvesant Town—Peter Cooper Village	40.731666666667,-73.977777777778	Q1588578	
+dvp_008_place11	74th Street and Central Park West	40.77735,-73.97528		dvp_0002
+dvp_008_place12	Upper West Side	40.787,-73.9754	Q429687	
+dvp_008_place13	United States of America	39.828175,-98.5795	Q30	
+dvp_008_place14	Soviet Union	65,90	Q15180	
+dvp_008_place15	Vietnam	16,108	Q881	
+dvp_008_place16	People's Republic of China	35.844722222222224,103.45194444444445	Q148	
+dvp_008_place17	Cuba	22,-79.5	Q241	
+dvp_008_place18	Brooklyn	40.692777777778,-73.990277777778	Q18419	
+dvp_008_place19	Manhattan	40.728333333333,-73.994166666667	Q11299	
+dvp_008_place20	Sag Harbor	40.9967,-72.2922	Q3087814	
+dvp_008_place21	Long Island	40.805805,-73.253616	Q18438	
+dvp_008_place22	Gramercy Park	40.737778,-73.986111	Q1191972	
+dvp_008_place23	Stuyvesant Town—Peter Cooper Village	40.731666666667,-73.977777777778	Q1588578	
+dvp_008_place24	Egypt	27,29	Q79	
+dvp_008_place25	Philippines	12,123	Q928	
+dvp_008_place26	St. Augustine	29.894722222222,-81.314444444444	Q487988	
+dvp_008_place27	Dartmouth College	43.703333333333,-72.288333333333	Q49116	
+dvp_008_place28	Needle Park	40.46383,-7358563	Q5620968	
+dvp_008_place29	Central Park West	40.7847,-73.9699	Q2738041	
+dvp_008_place30	New Hampshire	44,-71.5	Q759	
+dvp_008_place31	United States of America	39.828175,-98.5795	Q30	
+dvp_008_place32	Greenwich Village	40.733611111111,-74.001666666667	Q205380	
+dvp_008_place33	Sixth Avenue	40.742777777778,-73.992777777778	Q109873	
+dvp_008_place34	Hanover	43.7,-72.28333333333333	Q131908	
+dvp_008_place35	Chicago	41.881944444444,-87.627777777778	Q1297	
+dvp_008_place36	Columbia University	40.8075,-73.961944444444	Q49088	
+dvp_008_place37	North Mass[achusetts Hall]	43.42148,-72.17262	Q100952541	
+dvp_008_place38	North Mass	43.42148,-72.17262	Q100952541	
+dvp_008_place39	North Mass Hall	43.42148,-72.17262	Q100952541	
+dvp_008_place40	Parkhurst Hall	43.421454,-72.172382	Q100952777	
+dvp_008_place41	Hanover	43.7,-72.28333333333333	Q131908	
+dvp_008_place42	Berkeley	37.870277777778,-122.26805555556	Q484678	
+dvp_008_place43	Hanover Inn Dartmouth	43.70224,-72.28899	Q56427380	
+dvp_008_place44	Washington, D.C.	38.895,-77.036666666667	Q61	
+dvp_008_place45	Parkhurst	43.421454,-72.172382	Q100952777	
+dvp_008_place46	North Massachusetts Hall	43.42148,-72.17262	Q100952541	
+dvp_008_place47	Canada	56,-109	Q16	
+dvp_008_place48	Gold Coast	43.70466,-72.29165	Q100977433	
+dvp_008_place49	Gile	43.70468,-72.29118	Q100977444	
+dvp_008_place50	Streeter	43.70466,-72.29165	Q100977486	
+dvp_008_place51	Lord	43.70466,-72.29200	Q100977616	
+dvp_008_place52	Lyme	43.810277777778,-72.156111111111	Q2418021	
+dvp_008_place53	The Green	43.7033,-72.2886	Q7738117	
+dvp_008_place54	Cold Regions Research and Engineering Laboratory	43.7239,-72.2731	Q5142318	
+dvp_008_place55	Boston	42.358333333333,-71.0625	Q100	
+dvp_008_place56	Kiewit [Computation Center]	43.70583,-72.28908	Q100979935	
+dvp_008_place57	Kiewit	43.70583,-72.28908	Q100979935	
+dvp_008_place58	Hollywood	34.10166666666667,-118.32666666666667	Q34006	
+dvp_008_place59	Mexico	23,-102	Q96	
+dvp_008_place60	Washington, D.C.	38.895,-77.036666666667	Q61	
+dvp_008_place61	Dartmouth College	43.703333333333,-72.288333333333	Q49116	
+dvp_008_place62	Kent State University	41.146944444444,-81.343333333333	Q1473615	
+dvp_008_place63	Concord	43.206666666667,-71.538055555556	Q28249	
+dvp_008_place64	New Hampshire's 2nd congressional district	43.76416667,-71.72138889	Q7008068	
+dvp_008_place65	Bushwick	40.694166666667,-73.918611111111	Q2288728	
+dvp_008_place66	Oakland	37.8,-122.25	Q17042	
+dvp_008_place67	Iraq	33,43	Q796	

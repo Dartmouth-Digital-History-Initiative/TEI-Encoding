@@ -1,52 +1,52 @@
-id	persName
-dvp_008_person1	Tim Harrison
-dvp_008_person2	Paul Hodes
-dvp_008_person3	Robert
-dvp_008_person4	Florence Hodes
-dvp_008_person5	Mrs. Much
-dvp_008_person6	president of the United States, John F. Kennedy
-dvp_008_person7	Kennedy
-dvp_008_person8	Nabil Fahmy
-dvp_008_person9	Mr. Adams
-dvp_008_person10	Hodes
-dvp_008_person11	John F. Kennedy
-dvp_008_person12	Dr. Robert Atkins
-dvp_008_person13	Dustin Hoffman
-dvp_008_person14	Mr. [Bill] Perkins
-dvp_008_person15	Martin Luther King
-dvp_008_person16	Robert F. Kennedy
-dvp_008_person17	John Fowler
-dvp_008_person18	Peter Max
-dvp_008_person19	Bob Dylan
-dvp_008_person20	John Hammond
-dvp_008_person21	Arthur Butler
-dvp_008_person22	Edgar Bronfman [Jr.]
-dvp_008_person23	John Rassias
-dvp_008_person24	John
-dvp_008_person25	Meryl Streep
-dvp_008_person26	Chris Merchant
-dvp_008_person27	Atkins
-dvp_008_person28	[President] Dwight [D.] Eisenhower
-dvp_008_person29	President [John G.] Kemeny
-dvp_008_person30	Kemeny
-dvp_008_person31	President Dickey
-dvp_008_person32	President [John Sloan] Dickey
-dvp_008_person33	David Green '71
-dvp_008_person34	David Green ’71
-dvp_008_person35	David
-dvp_008_person36	Professor [Edward G.] Miller
-dvp_008_person37	[John G.] Spritzler [Class of 1968]
-dvp_008_person38	Spritzler
-dvp_008_person39	Richard [M.] Nixon
-dvp_008_person40	E. E. Cummings
-dvp_008_person41	Neil Young
-dvp_008_person42	David Souter
-dvp_008_person43	Jeanne Shaheen
-dvp_008_person44	President [George W.] Bush
-dvp_008_person45	Bush
-dvp_008_person46	[Charles F.] Charlie Bass
-dvp_008_person47	Paul
-dvp_008_person48	Charlie
-dvp_008_person49	President Bush
-dvp_008_person50	[Vice President Richard Bruce (Dick)] Cheney
-dvp_008_person51	[Donald H.] Rumsfeld
+id	persName	QID	dvp_id
+dvp_008_person1	Tim Harrison		dvp_0006
+dvp_008_person2	Paul Hodes	Q959262	
+dvp_008_person3	Robert		dvp_0007
+dvp_008_person4	Florence Hodes		dvp_0008
+dvp_008_person5	Mrs. Much		
+dvp_008_person6	John F. Kennedy	Q9696	
+dvp_008_person7	John F. Kennedy	Q9696	
+dvp_008_person8	Nabil Fahmi	Q12247944	
+dvp_008_person9	Mr. Adams		
+dvp_008_person10	Paul Hodes	Q959262	
+dvp_008_person11	John F. Kennedy	Q9696	
+dvp_008_person12	Robert Atkins	Q638020	
+dvp_008_person13	Dustin Hoffman	Q42930	
+dvp_008_person14	Bill Perkins	Q4910470	
+dvp_008_person15	Martin Luther King Jr.	Q8027	
+dvp_008_person16	Robert F. Kennedy	Q25310	
+dvp_008_person17	John Fowler		dvp_0009
+dvp_008_person18	Peter Max	Q215805	
+dvp_008_person19	Bob Dylan	Q392	
+dvp_008_person20	John H. Hammond	Q549141	
+dvp_008_person21	Arthur Butler		dvp_0010
+dvp_008_person22	Edgar Bronfman, Jr.	Q328520	
+dvp_008_person23	John Rassias	Q6254272	
+dvp_008_person24	John Rassias	Q6254272	
+dvp_008_person25	Meryl Streep	Q873	
+dvp_008_person26	Chris Merchant		dvp_0011
+dvp_008_person27	Robert Atkins	Q638020	
+dvp_008_person28	Dwight D. Eisenhower	Q9916	
+dvp_008_person29	John George Kemeny	Q28900	
+dvp_008_person30	John George Kemeny	Q28900	
+dvp_008_person31	John Sloan Dickey	Q3182471	
+dvp_008_person32	John Sloan Dickey	Q3182471	
+dvp_008_person33	David Green '71		dvp_0012
+dvp_008_person34	David Green â€™71		dvp_0012
+dvp_008_person35	David		dvp_0012
+dvp_008_person36	Professor [Edward G.] Miller	Q101064654	
+dvp_008_person37	[John G.] Spritzler [Class of 1968]		dvp_0013
+dvp_008_person38	Spritzler		dvp_0013
+dvp_008_person39	Richard Nixon	Q9588	
+dvp_008_person40	E. E. Cummings	Q298703	
+dvp_008_person41	Neil Young	Q633	
+dvp_008_person42	David Souter	Q472547	
+dvp_008_person43	Jeanne Shaheen	Q270316	
+dvp_008_person44	George W. Bush	Q207	
+dvp_008_person45	George W. Bush	Q207	
+dvp_008_person46	Charles Bass	Q1063677	
+dvp_008_person47	Paul Hodes	Q959262	
+dvp_008_person48	Charles Bass	Q1063677	
+dvp_008_person49	George W. Bush	Q207	
+dvp_008_person50	Dick Cheney	Q48259	
+dvp_008_person51	Donald Rumsfeld	Q184650	
