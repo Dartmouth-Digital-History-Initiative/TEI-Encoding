@@ -1,72 +1,72 @@
-id	persName
-dvp_002_person_0	Riley Carbone
-dvp_002_person_1	Peter [D.] Barber
-dvp_002_person_2	Mr. Barber
-dvp_002_person_3	[Edward J.] ìEddieî Jeremiahís [Class of 1930]
-dvp_002_person_4	Eddie Jeremiah
-dvp_002_person_5	[Ulysses J.] ìTonyî Lupien
-dvp_002_person_6	Barry [F.] Machado [Class of 1966]
-dvp_002_person_7	Chris Ohiri
-dvp_002_person_8	Clyde Sutherland
-dvp_002_person_9	John [S.] Dickey [Class of 1929]
-dvp_002_person_10	[President Richard M.] Nixon
-dvp_002_person_11	Barry Bachado
-dvp_002_person_12	[Alden H.] ìWhiteyî Burnham
-dvp_002_person_13	Whitey
-dvp_002_person_14	[Alfred E.] Watson
-dvp_002_person_15	[William S.] ìBillî Smoyer [Class of 1967]
-dvp_002_person_16	Bill Smoyer
-dvp_002_person_17	Whitey
-dvp_002_person_18	Bill Smoyer
-dvp_002_person_19	[Richard W.] ìDickî Horton [Class of 1965]
-dvp_002_person_20	[Stephen B.] ìSteveî Dichter [Class of 1964]
-dvp_002_person_21	Steve Victor
-dvp_002_person_22	Dick Horton
-dvp_002_person_23	[Theodore W.] ìTedî Friel
-dvp_002_person_24	Tony
-dvp_002_person_25	Tony
-dvp_002_person_26	Tony
-dvp_002_person_27	Tony
-dvp_002_person_28	[Lyndon B.] Johnson
-dvp_002_person_29	[Barry M.] Goldwater
-dvp_002_person_30	Muhammad Ali
-dvp_002_person_31	[Robert F.] ìBobbyî Kennedy
-dvp_002_person_32	[Eugene J.] ìGeneî McCarthy
-dvp_002_person_33	Bobby Kennedy
-dvp_002_person_34	[Edward M.] ìTedî Kennedy
-dvp_002_person_35	Kennedy
-dvp_002_person_36	Ted Kennedy
-dvp_002_person_37	[A.] Noam Chomsky
-dvp_002_person_38	Chomsky
-dvp_002_person_39	Nixon
-dvp_002_person_40	John [F.] Kerry
-dvp_002_person_41	Senator [Alan M.] Cranston
-dvp_002_person_42	John Kerry
-dvp_002_person_43	Kerry
-dvp_002_person_44	John Kerry
-dvp_002_person_45	Senator Alan Cranston
-dvp_002_person_46	Alan
-dvp_002_person_47	Kerry
-dvp_002_person_48	Cranston
-dvp_002_person_49	Nixon
-dvp_002_person_50	[George S.] McGovern
-dvp_002_person_51	McGovern
-dvp_002_person_52	Daniel Ellsberg
-dvp_002_person_53	Nixon
-dvp_002_person_54	[President Gerald R.] Ford [Jr.]
-dvp_002_person_55	Nixon
-dvp_002_person_56	Ford
-dvp_002_person_57	[President James E. ìJimmyî] Carter
-dvp_002_person_58	[Charles W. [ìDuke] ìChuckî Oakley
-dvp_002_person_59	Duke Oakley
-dvp_002_person_60	Bill Smoyers
-dvp_002_person_61	Billy Smoyer
-dvp_002_person_62	Stan Smoyer
-dvp_002_person_63	Bill
-dvp_002_person_64	Dave, Class of í63, [David ìDaveî Smoyer, Class of 1962]
-dvp_002_person_65	Bill Smoyer
-dvp_002_person_66	Nancy [R. Smoyer]
-dvp_002_person_67	Bill
-dvp_002_person_68	Bill
-dvp_002_person_69	Nancy
-dvp_002_person_70	[Jonathan V.] ìJonî Voigt
+id	persName	QID	dvp_id
+dvp_002_person_0	Riley Carbone		dvp_0076
+dvp_002_person_1	Peter [D.] Barber		dvp_0077
+dvp_002_person_2	Mr. Barber		dvp_0077
+dvp_002_person_3	Eddie Jeremiah	Q5336162	
+dvp_002_person_4	Eddie Jeremiah	Q5336162	
+dvp_002_person_5	Tony Lupien	Q7822832	
+dvp_002_person_6	Barry Machado	Q100878454	
+dvp_002_person_7	Christian Ohiri	Q46702545	
+dvp_002_person_8	Clyde Sutherland		dvp_0078
+dvp_002_person_9	John Sloan Dickey	Q3182471	
+dvp_002_person_10	Richard Nixon	Q9588	
+dvp_002_person_11	Barry Bachado		dvp_0079
+dvp_002_person_12	[Alden H.] ‚ÄúWhitey‚Äù Burnham		dvp_0058
+dvp_002_person_13	Whitey		dvp_0058
+dvp_002_person_14	[Alfred E.] Watson		dvp_0080
+dvp_002_person_15	[William S.] ‚ÄúBill‚Äù Smoyer [Class of 1967]		dvp_0081
+dvp_002_person_16	Bill Smoyer		dvp_0081
+dvp_002_person_17	Whitey		dvp_0058
+dvp_002_person_18	Bill Smoyer		dvp_0081
+dvp_002_person_19	Dick Horton	Q59327246	
+dvp_002_person_20	[Stephen B.] ‚ÄúSteve‚Äù Dichter [Class of 1964]		dvp_0082
+dvp_002_person_21	Steve Victor		dvp_0082
+dvp_002_person_22	Dick Horton	Q59327246	
+dvp_002_person_23	[Theodore W.] ‚ÄúTed‚Äù Friel		dvp_0083
+dvp_002_person_24	Tony Lupien	Q7822832	
+dvp_002_person_25	Tony Lupien	Q7822832	
+dvp_002_person_26	Tony Lupien	Q7822832	
+dvp_002_person_27	Tony Lupien	Q7822832	
+dvp_002_person_28	Lyndon B. Johnson	Q9640	
+dvp_002_person_29	Barry Goldwater	Q319129	
+dvp_002_person_30	Muhammad Ali	Q36107	
+dvp_002_person_31	Robert F. Kennedy	Q25310	
+dvp_002_person_32	Eugene McCarthy	Q380550	
+dvp_002_person_33	Robert F. Kennedy	Q25310	
+dvp_002_person_34	Ted Kennedy	Q134549	
+dvp_002_person_35	Ted Kennedy	Q134549	
+dvp_002_person_36	Ted Kennedy	Q134549	
+dvp_002_person_37	Noam Chomsky	Q9049	
+dvp_002_person_38	Noam Chomsky	Q9049	
+dvp_002_person_39	Richard Nixon	Q9588	
+dvp_002_person_40	John Kerry	Q22316	
+dvp_002_person_41	Alan Cranston	Q1994957	
+dvp_002_person_42	John Kerry	Q22316	
+dvp_002_person_43	John Kerry	Q22316	
+dvp_002_person_44	John Kerry	Q22316	
+dvp_002_person_45	Alan Cranston	Q1994957	
+dvp_002_person_46	Alan Cranston	Q1994957	
+dvp_002_person_47	John Kerry	Q22316	
+dvp_002_person_48	Alan Cranston	Q1994957	
+dvp_002_person_49	Richard Nixon	Q9588	
+dvp_002_person_50	George McGovern	Q331742	
+dvp_002_person_51	George McGovern	Q331742	
+dvp_002_person_52	Daniel Ellsberg	Q431085	
+dvp_002_person_53	Richard Nixon	Q9588	
+dvp_002_person_54	Gerald Ford	Q9582	
+dvp_002_person_55	Richard Nixon	Q9588	
+dvp_002_person_56	Gerald Ford	Q9582	
+dvp_002_person_57	Jimmy Carter	Q23685	
+dvp_002_person_58	[Charles W. [‚ÄúDuke] ‚ÄúChuck‚Äù Oakley		dvp_0084
+dvp_002_person_59	Duke Oakley		dvp_0084
+dvp_002_person_60	Bill Smoyers		dvp_0081
+dvp_002_person_61	Billy Smoyer		dvp_0081
+dvp_002_person_62	Stan Smoyer		dvp_0085
+dvp_002_person_63	Bill		dvp_0081
+dvp_002_person_64	Dave, Class of ‚Äô63, [David ‚ÄúDave‚Äù Smoyer, Class of 1962]		dvp_0086
+dvp_002_person_65	Bill Smoyer		dvp_0081
+dvp_002_person_66	Nancy [R. Smoyer]		dvp_0087
+dvp_002_person_67	Bill		dvp_0081
+dvp_002_person_68	Bill		dvp_0081
+dvp_002_person_69	Nancy		dvp_0087
+dvp_002_person_70	Jon Voight	Q167520	
