@@ -1,72 +1,144 @@
-id	persName
-dvp_001_person_0	Hannah Solomon
-dvp_001_person_1	Professor Hoyt Alverson
-dvp_001_person_2	Elwyn, E-l-w-y-n Alverson
-dvp_001_person_3	Myrtle Hall
-dvp_001_person_4	Myrtle
-dvp_001_person_5	Hoyat
-dvp_001_person_6	Hoyat
-dvp_001_person_7	[John G.] ìJackî London
-dvp_001_person_8	[Ernest M.] Hemingway
-dvp_001_person_9	Alverson
-dvp_001_person_10	Marianne [Melchior]
-dvp_001_person_11	Marianne
-dvp_001_person_12	Marianne
-dvp_001_person_13	Nelson [R.] Mandela
-dvp_001_person_14	[President John F.] Kennedy
-dvp_001_person_15	Marianne
-dvp_001_person_16	Kennedyís
-dvp_001_person_17	[President Lyndon B.] Johnsonís
-dvp_001_person_18	[the Rev. Dr.] Martin Luther King [Jr.]
-dvp_001_person_19	William Sloane Coffin [Jr.]
-dvp_001_person_20	Keith
-dvp_001_person_21	Marianne
-dvp_001_person_22	Keith
-dvp_001_person_23	[cultural anthropologist] Margaret Mead
-dvp_001_person_24	Keith
-dvp_001_person_25	[then Dartmouth president] John [S.] Dickey
-dvp_001_person_26	Leonard [M.] Rieser [pronounced REE-sir, Class of 1944]
-dvp_001_person_27	Rieser
-dvp_001_person_28	Hoyt
-dvp_001_person_29	[President Richard M.] Nixon
-dvp_001_person_30	Nixonís
-dvp_001_person_31	[Secretary of State Henry A.] Kissinger
-dvp_001_person_32	Nixon
-dvp_001_person_33	[John G.] Kemeny
-dvp_001_person_34	[George S.] McGovern
-dvp_001_person_35	Kemeny
-dvp_001_person_36	Dickey
-dvp_001_person_37	Kemeny
-dvp_001_person_38	Kemenyís
-dvp_001_person_39	Kemeny
-dvp_001_person_40	Kemeny
-dvp_001_person_41	Kemeny
-dvp_001_person_42	Kemeny
-dvp_001_person_43	[David T.] McLaughlin [Class of 1954, Tuck Class of 1955]
-dvp_001_person_44	Kemeny
-dvp_001_person_45	Meryl Streep
-dvp_001_person_46	[Joseph] Conradís
-dvp_001_person_47	Brian
-dvp_001_person_48	Marianne
-dvp_001_person_49	[former Secretary of State] Condoleezza Rice
-dvp_001_person_50	Jake Guest
-dvp_001_person_51	Charlie
-dvp_001_person_52	[Steven E.] ìSteveî Tozer
-dvp_001_person_53	[the poet William Butler] Yeats
-dvp_001_person_54	Nearings
-dvp_001_person_55	Jonathan [E.] Sa-adah
-dvp_001_person_56	Jonathan
-dvp_001_person_57	Rieser
-dvp_001_person_58	Steve Tozer
-dvp_001_person_59	Teju [pronounced TAY-jew] Cole
-dvp_001_person_60	Yeatsís
-dvp_001_person_61	Nearing
-dvp_001_person_62	[John] Dewey
-dvp_001_person_63	Simone de Beauvoirís
-dvp_001_person_64	Betty Friedan
-dvp_001_person_65	Crowley
-dvp_001_person_66	Gloria Steinem
-dvp_001_person_67	Rachel Carsonís
-dvp_001_person_68	Simone de Beauvoirís
-dvp_001_person_69	Betty Friedanís
-dvp_001_person_70	Steve Tozer
+id	persName	QID	dvp_id
+			
+dvp_001_person_0	Hannah Solomon		dvp_0051
+			
+dvp_001_person_1	Professor Hoyt Alverson		dvp_0131
+			
+dvp_001_person_2	Elwyn, E-l-w-y-n Alverson		dvp_0132
+			
+dvp_001_person_3	Myrtle Hall		dvp_0133
+			
+dvp_001_person_4	Myrtle		dvp_0133
+			
+dvp_001_person_5	Hoyat		dvp_0134
+			
+dvp_001_person_6	Hoyat		dvp_0134
+			
+dvp_001_person_7	Jack London	Q45765	
+			
+dvp_001_person_8	Ernest Hemingway	Q23434	
+			
+dvp_001_person_9	Andrew Halstead Alverson	Q21505134	
+			
+dvp_001_person_10	Marianne [Melchior]		dvp_135
+			
+dvp_001_person_11	Marianne		dvp_135
+			
+dvp_001_person_12	Marianne		dvp_135
+			
+dvp_001_person_13	Nelson Mandela	Q8023	
+			
+dvp_001_person_14	John F. Kennedy	Q9696	
+			
+dvp_001_person_15	Marianne		dvp_135
+			
+dvp_001_person_16	John F. Kennedy	Q9696	
+			
+dvp_001_person_17	Lyndon B. Johnson	Q9640	
+			
+dvp_001_person_18	Martin Luther King Jr.	Q8027	
+			
+dvp_001_person_19	William Sloane Coffin	Q332963	
+			
+dvp_001_person_20	Keith		dvp_0136
+			
+dvp_001_person_21	Marianne		dvp_135
+			
+dvp_001_person_22	Keith		dvp_0136
+			
+dvp_001_person_23	[cultural anthropologist] Margaret Mead		
+			
+dvp_001_person_24	Keith		dvp_0136
+			
+dvp_001_person_25	John Sloan Dickey	Q3182471	
+			
+dvp_001_person_26	Leonard [M.] Rieser [pronounced REE-sir, Class of 1944]		dvp_0137
+			
+dvp_001_person_27	Rieser		dvp_0137
+			
+dvp_001_person_28	William Dana Hoyt	Q20898582	
+			
+dvp_001_person_29	Richard Nixon	Q9588	
+			
+dvp_001_person_30	Richard Nixon	Q9588	
+			
+dvp_001_person_31	Henry Kissinger	Q66107	
+			
+dvp_001_person_32	Richard Nixon	Q9588	
+			
+dvp_001_person_33	John George Kemeny	Q28900	
+			
+dvp_001_person_34	George McGovern	Q331742	
+			
+dvp_001_person_35	John George Kemeny	Q28900	
+			
+dvp_001_person_36	John Sloan Dickey	Q3182471	
+			
+dvp_001_person_37	John George Kemeny	Q28900	
+			
+dvp_001_person_38	John George Kemeny	Q28900	
+			
+dvp_001_person_39	John George Kemeny	Q28900	
+			
+dvp_001_person_40	John George Kemeny	Q28900	
+			
+dvp_001_person_41	John George Kemeny	Q28900	
+			
+dvp_001_person_42	John George Kemeny	Q28900	
+			
+dvp_001_person_43	[David T.] McLaughlin [Class of 1954, Tuck Class of 1955]		dvp_0138
+			
+dvp_001_person_44	John George Kemeny	Q28900	
+			
+dvp_001_person_45	Meryl Streep	Q873	
+			
+dvp_001_person_46	[Joseph] Conrad‚Äôs		
+			
+dvp_001_person_47	Brian		dvp_0139
+			
+dvp_001_person_48	Marianne		dvp_0135
+			
+dvp_001_person_49	Condoleezza Rice	Q47216	
+			
+dvp_001_person_50	Jake Guest		dvp_0140
+			
+dvp_001_person_51	Charlie		dvp_0141
+			
+dvp_001_person_52	[Steven E.] ‚ÄúSteve‚Äù Tozer		dvp_0142
+			
+dvp_001_person_53	William Butler Yeats	Q40213	
+			
+dvp_001_person_54	Nearings		dvp_0143
+			
+dvp_001_person_55	Jonathan [E.] Sa-adah		dvp_0144
+			
+dvp_001_person_56	Jonathan		dvp_0144
+			
+dvp_001_person_57	Rieser		dvp_0137
+			
+dvp_001_person_58	Steve Tozer		dvp_0142
+			
+dvp_001_person_59	Teju [pronounced TAY-jew] Cole		
+			
+dvp_001_person_60	William Butler Yeats	Q40213	
+			
+dvp_001_person_61	G.C. Nearing	Q36565773	
+			
+dvp_001_person_62	John Dewey	Q131805	
+			
+dvp_001_person_63	Simone de Beauvoir	Q7197	
+			
+dvp_001_person_64	Betty Friedan	Q234604	
+			
+dvp_001_person_65	Crowley		dvp_0145
+			
+dvp_001_person_66	Gloria Steinem	Q231178	
+			
+dvp_001_person_67	Rachel Carson‚Äôs		
+			
+dvp_001_person_68	Simone de Beauvoir	Q7197	
+			
+dvp_001_person_69	Betty Friedan‚Äôs		
+			
+dvp_001_person_70	Steve Tozer		dvp_0142
+			
