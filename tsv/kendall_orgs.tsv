@@ -1,50 +1,50 @@
-id	orgName
-dvp_012_org1	[U.S. Military Academy at] West Point
-dvp_012_org2	Dartmouth
-dvp_012_org3	Stanford [University]
-dvp_012_org4	Princeton [University]
-dvp_012_org5	West Point
-dvp_012_org6	Colorado College
-dvp_012_org7	Grand Junction High School
-dvp_012_org8	ROTC [Reserve Officers’ Training Corps]
-dvp_012_org9	ROTC
-dvp_012_org10	Army
-dvp_012_org11	NATO [North Atlantic Treaty Organization]
-dvp_012_org12	the Air Force
-dvp_012_org13	the 101st Airborne [Division]
-dvp_012_org14	Baader-Meinhoff Gang
-dvp_012_org15	101st Airborne Battalion [sic; Division]
-dvp_012_org16	196th Infantry Battalion [sic; 196th Light Infantry Brigade]
-dvp_012_org17	101st
-dvp_012_org18	196th Light Infantry Brigade
-dvp_012_org19	101st Airborne
-dvp_012_org20	196th
-dvp_012_org21	2nd Battalion, 1st Infantry [sic; Regiment]
-dvp_012_org22	Big Red One [101st Airborne Division]
-dvp_012_org23	Delta Company
-dvp_012_org24	[Boston] Red Sox
-dvp_012_org25	Defense Department
-dvp_012_org26	Air Force
-dvp_012_org27	Viet Cong
-dvp_012_org28	[U.S. Army] Special Forces
-dvp_012_org29	NVA [North Vietnamese Army]
-dvp_012_org30	NVA
-dvp_012_org31	U.S. Army Reserve
-dvp_012_org32	New England Reserve committee
-dvp_012_org33	Tuck [School of Business at Dartmouth College]
-dvp_012_org34	Tuck
-dvp_012_org35	Class of ’71
-dvp_012_org36	White House
-dvp_012_org37	White House Fellows [sic; White House Fellowship Program]
-dvp_012_org38	National Security Council
-dvp_012_org39	EPA [Environmental Protection Agency]
-dvp_012_org40	EPA
-dvp_012_org41	Council on Environmental Quality
-dvp_012_org42	VA [U.S. Department of Veterans Affairs, also known as the Veterans Administration]
-dvp_012_org43	VA’s
-dvp_012_org44	VA
-dvp_012_org45	Walter Reed Hospital [sic; Walter Reed Army Medical Center]
-dvp_012_org46	Calcutta Rescue charity
-dvp_012_org47	Popular Forces [sic; South Vietnam Popular Force]
-dvp_012_org48	South Vietnam Army
-dvp_012_org49	Congress
+id	orgName	QID	dvp_id
+dvp_012_org1	United States Military Academy	Q9219	
+dvp_012_org2	Dartmouth College	Q49116	
+dvp_012_org3	Stanford University	Q41506	
+dvp_012_org4	Princeton University	Q21578	
+dvp_012_org5	United States Military Academy	Q9219	
+dvp_012_org6	Colorado College	Q1111261	
+dvp_012_org7	Grand Junction High School	Q5594705	
+dvp_012_org8	Reserve Officers' Training Corps	Q489983	
+dvp_012_org9	Reserve Officers' Training Corps	Q489983	
+dvp_012_org10	United States Army	Q9212	
+dvp_012_org11	NATO	Q7184	
+dvp_012_org12	The Air Force	Q7712925	
+dvp_012_org13	101st Airborne Division	Q165256	
+dvp_012_org14	Red Army Faction	Q102734	
+dvp_012_org15	101st Airborne Division	Q165256	
+dvp_012_org16	196th Infantry Brigade	Q12782692	
+dvp_012_org17	101st Airborne Division	Q165256	
+dvp_012_org18	196th Infantry Brigade	Q12782692	
+dvp_012_org19	101st Airborne Division	Q165256	
+dvp_012_org20	196th Infantry Brigade	Q12782692	
+dvp_012_org21	1st Infantry Regiment	Q4596395	
+dvp_012_org22	101st Airborne Division	Q165256	
+dvp_012_org23	Delta Company		dvp_0041
+dvp_012_org24	Boston Red Sox	Q213959	
+dvp_012_org25	United States Department of Defense	Q11209	
+dvp_012_org26	United States Air Force	Q11223	
+dvp_012_org27	National Front for the Liberation of South Vietnam	Q174423	
+dvp_012_org28	United States Army Special Forces	Q482421	
+dvp_012_org29	People's Army of Vietnam	Q3936506	
+dvp_012_org30	People's Army of Vietnam	Q3936506	
+dvp_012_org31	United States Army Reserve	Q2036662	
+dvp_012_org32	New England Reserve committee		dvp_0042
+dvp_012_org33	Tuck School of Business	Q1263832	
+dvp_012_org34	Tuck School of Business	Q1263832	
+dvp_012_org35	Class of '71		dvp_0043
+dvp_012_org36	White House	Q35525	
+dvp_012_org37	White House Fellows	Q1325730	
+dvp_012_org38	United States National Security Council	Q851756	
+dvp_012_org39	United States Environmental Protection Agency	Q460173	
+dvp_012_org40	United States Environmental Protection Agency	Q460173	
+dvp_012_org41	Council on Environmental Quality	Q5176561	
+dvp_012_org42	United States Department of Veterans Affairs	Q592576	
+dvp_012_org43	United States Department of Veterans Affairs	Q592576	
+dvp_012_org44	United States Department of Veterans Affairs	Q592576	
+dvp_012_org45	Walter Reed National Military Medical Center	Q1457886	
+dvp_012_org46	Calcutta rescue	Q1026393	
+dvp_012_org47	South Vietnamese Popular Force	Q7568737	
+dvp_012_org48	Army of the Republic of Vietnam	Q18917	
+dvp_012_org49	United States Congress	Q11268	
