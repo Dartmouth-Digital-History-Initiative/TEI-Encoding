@@ -1,11 +1,9 @@
 id	placeName	coordinate location	QID
 dvp_005_place_0	Rauner Special Collections Library	"43.70447,-72.28817"	Q98544730
 dvp_005_place_1	Westminster	"42.545833333333,-71.911111111111"	Q2559758
-		"42.54592,-71.91063"	
 dvp_005_place_2	Massachusetts	"42.3,-71.8"	Q771
 dvp_005_place_3	Scotland	"57,-5"	Q22
 dvp_005_place_4	Westminster	"42.545833333333,-71.911111111111"	Q2559758
-		"42.54592,-71.91063"	
 dvp_005_place_5	Newbury	"42.766666666667,-70.845833333333"	Q2302285
 dvp_005_place_6	Haverhill	"42.783333333333,-71.083333333333"	Q54132
 dvp_005_place_7	Haverhill	"42.783333333333,-71.083333333333"	Q54132
@@ -15,7 +13,6 @@ dvp_005_place_10	Corregidor Island Lighthouse	"14.38011111,120.57683333"	Q517282
 dvp_005_place_11	Fort Devens	"42.545022222222,-71.613336111111"	Q1413867
 dvp_005_place_12	Rauner Special Collections Library	"43.70447,-72.28817"	Q98544730
 dvp_005_place_13	Westminster	"42.545833333333,-71.911111111111"	Q2559758
-		"42.54592,-71.91063"	
 dvp_005_place_14	Gardner	"42.575,-71.998611111111"	Q1829193
 dvp_005_place_15	Lake Winnipesaukee	"43.598888888889,-71.323055555556"	Q224872
 dvp_005_place_16	Winter Harbor	"44.395277777778,-68.083055555556"	Q3448810
@@ -32,7 +29,6 @@ dvp_005_place_26	United States of America	"39.828175,-98.5795"	Q30
 dvp_005_place_27	Gardner	"42.575,-71.998611111111"	Q1829193
 dvp_005_place_28	Harvard University	"42.374443888889,-71.116943888889"	Q13371
 dvp_005_place_29	Williamstown	"42.711944444444,-73.204166666667"	Q983837
-		"42.71202,-73.20372"	
 dvp_005_place_30	University of Michigan	"42.276944444444,-83.738055555556"	Q230492
 dvp_005_place_31	Michigan	"44.34,-85.58"	Q1166
 dvp_005_place_32	Michigan	"44.34,-85.58"	Q1166
