@@ -1,78 +1,78 @@
-id	placeName	coordinate location	QID	dvp_id
-dvp_013_place1	Rauner Special Collections Library	43.70447,-72.28817	Q98544730	
-dvp_013_place2	Boston	42.358333333333,-71.0625	Q100	
-dvp_013_place3	Lynn	42.466666666667,-70.95	Q49188	
-dvp_013_place4	Swampscott	42.470833333333,-70.918055555556	Q2086267	
-dvp_013_place5	Swampscott	42.470833333333,-70.918055555556	Q2086267	
-dvp_013_place6	Nahant	42.426388888889,-70.919444444444	Q665163	
-dvp_013_place7	Dartmouth College	43.703333333333,-72.288333333333	Q49116	
-dvp_013_place8	Maine	45.5,-69	Q724	
-dvp_013_place9	Cape Cod	41.688889,-70.296944	Q49152	
-dvp_013_place10	New Hampshire	44,-71.5	Q759	
-dvp_013_place11	New Jersey	40,-74.5	Q1408	
-dvp_013_place12	Bowdoin College	43.90875,-69.96231	Q895401	
-dvp_013_place13	Brunswick	43.910833333333,-69.963055555556	Q518466	
-dvp_013_place14	Lynn	42.466666666667,-70.95	Q49188	
-dvp_013_place15	United States Military Academy	41.39277778,-73.95833333	Q9219	
-dvp_013_place16	Mount Moosilauke	44.024511111111,-71.830916666667	Q3321961	
-dvp_013_place17	Mount Moosilauke	44.024511111111,-71.830916666667	Q3321961	
-dvp_013_place18	Second College Grant	44.913888888889,-71.113055555556	Q7443207	
-dvp_013_place19	University of Massachusetts Boston	42.313432,-71.038445	Q15144	
-dvp_013_place20	Massachusetts Hall	43.909722,-69.962222	Q6784280	
-dvp_013_place21	Thayer Hall	43.70309,-72.29092	Q98636574	
-dvp_013_place22	Orozco Mural Room	43.7051989,-72.2889742	Q98615173	
-dvp_013_place23	Long Island	40.805805,-73.253616	Q18438	
-dvp_013_place24	Garden City	40.7269,-73.6497	Q739452	
-dvp_013_place25	Connecticut River	45.2375,-71.2	Q379648	
-		41.272222222222,-72.333055555556		
-dvp_013_place26	Mount Ascutney	43.444516666667,-72.453702777778	Q2260149	
-dvp_013_place27	Hanover	43.702222222222,-72.206111111111	Q131908	
-		43.7083,-72.2772		
-dvp_013_place28	Collis Center for Student Involvement	43.70277,-72.28991	Q100725367	
-dvp_013_place29	Wellesley College	42.29528,-71.30667	Q49205	
-dvp_013_place30	Skidmore College	43.097777777778,-73.785277777778	Q7535073	
-dvp_013_place31	Colby–Sawyer College	43.4122,-71.9778	Q5142055	
-dvp_013_place32	Green Mountain College	43.5171,-73.2396	Q14711908	
-dvp_013_place33	Chi Heorot			
-dvp_013_place34	Colby–Sawyer College	43.4122,-71.9778	Q5142055	
-dvp_013_place35	Green Mountain College	43.5171,-73.2396	Q14711908	
-dvp_013_place36	Saratoga Springs	43.075277777778,-73.7825	Q1144357	
-dvp_013_place37	Smith College	42.3175,-72.6375	Q49204	
-dvp_013_place38	Hopkins Center for the Arts	43.701666666667,-72.288611111111	Q3140375	
-dvp_013_place39	Hopkins Center for the Arts	43.701666666667,-72.288611111111	Q3140375	
-dvp_013_place40	Chi Heorot	43.70373, -72.28443	Q5095066	
-dvp_013_place41	Vietnam	16,108	Q881	
-dvp_013_place42	Marine Corps Base Quantico	38.50194,-77.30583	Q1374564	
-		38.551111,-77.430556		
-		38.52263,-77.31834		
-dvp_013_place43	Marine Corps Air Facility Quantico	38.5036,-77.305	Q1029695	
-dvp_013_place44	BEMA [Big Empty Meeting Area]	43.70521,-72.28445	Q98636182	
-dvp_013_place45	Quantico	38.521871,-77.289757	Q204315	
-dvp_013_place46	Kansas	38.5,-98	Q1558	
-dvp_013_place47	San Francisco	37.7775,-122.41638888888889	Q62	
-dvp_013_place48	UTC−12:00		Q2146	
-dvp_013_place49	Okinawa Island	26.483333333333,127.95	Q600614	
-dvp_013_place50	Okinawa Island	26.483333333333,127.95	Q600614	
-dvp_013_place51	I Corps	16.1697, 108.2324	Q98611610	
-dvp_013_place52	Vietnamese Demilitarized Zone		Q2349960	
-dvp_013_place53	Đông Hà	16.830277777778,107.09722222222	Q33343	
-		16.805555555556,107.09055555556		
-dvp_013_place54	Huế	16.466666666667,107.58333333333	Q36167	
+id	placeName	QID	coordinate location	dvp_id
+dvp_013_place1	Rauner Special Collections Library	Q98544730	43.70447,-72.28817	
+dvp_013_place2	Boston	Q100	42.358333333333,-71.0625	
+dvp_013_place3	Lynn	Q49188	42.466666666667,-70.95	
+dvp_013_place4	Swampscott	Q2086267	42.470833333333,-70.918055555556	
+dvp_013_place5	Swampscott	Q2086267	42.470833333333,-70.918055555556	
+dvp_013_place6	Nahant	Q665163	42.426388888889,-70.919444444444	
+dvp_013_place7	Dartmouth College	Q49116	43.703333333333,-72.288333333333	
+dvp_013_place8	Maine	Q724	45.5,-69	
+dvp_013_place9	Cape Cod	Q49152	41.688889,-70.296944	
+dvp_013_place10	New Hampshire	Q759	44,-71.5	
+dvp_013_place11	New Jersey	Q1408	40,-74.5	
+dvp_013_place12	Bowdoin College	Q895401	43.90875,-69.96231	
+dvp_013_place13	Brunswick	Q518466	43.910833333333,-69.963055555556	
+dvp_013_place14	Lynn	Q49188	42.466666666667,-70.95	
+dvp_013_place15	United States Military Academy	Q9219	41.39277778,-73.95833333	
+dvp_013_place16	Mount Moosilauke	Q3321961	44.024511111111,-71.830916666667	
+dvp_013_place17	Mount Moosilauke	Q3321961	44.024511111111,-71.830916666667	
+dvp_013_place18	Second College Grant	Q7443207	44.913888888889,-71.113055555556	
+dvp_013_place19	University of Massachusetts Boston	Q15144	42.313432,-71.038445	
+dvp_013_place20	Massachusetts Hall	Q6784280	43.909722,-69.962222	
+dvp_013_place21	Thayer Hall	Q98636574	43.70309,-72.29092	
+dvp_013_place22	Orozco Mural Room	Q98615173	43.7051989,-72.2889742	
+dvp_013_place23	Long Island	Q18438	40.805805,-73.253616	
+dvp_013_place24	Garden City	Q739452	40.7269,-73.6497	
+dvp_013_place25	Connecticut River	Q379648	43.293,-71.917	
+				
+dvp_013_place26	Mount Ascutney	Q2260149	43.444516666667,-72.453702777778	
+dvp_013_place27	Hanover	Q131908	43.702222222222,-72.206111111111	
+				
+dvp_013_place28	Collis Center for Student Involvement	Q100725367	43.70277,-72.28991	
+dvp_013_place29	Wellesley College	Q49205	42.29528,-71.30667	
+dvp_013_place30	Skidmore College	Q7535073	43.097777777778,-73.785277777778	
+dvp_013_place31	Colby–Sawyer College	Q5142055	43.4122,-71.9778	
+dvp_013_place32	Green Mountain College	Q14711908	43.5171,-73.2396	
+dvp_013_place33	Chi Heorot	Q5095066	43.70373, -72.28443	
+dvp_013_place34	Colby–Sawyer College	Q5142055	43.4122,-71.9778	
+dvp_013_place35	Green Mountain College	Q14711908	43.5171,-73.2396	
+dvp_013_place36	Saratoga Springs	Q1144357	43.075277777778,-73.7825	
+dvp_013_place37	Smith College	Q49204	42.3175,-72.6375	
+dvp_013_place38	Hopkins Center for the Arts	Q3140375	43.701666666667,-72.288611111111	
+dvp_013_place39	Hopkins Center for the Arts	Q3140375	43.701666666667,-72.288611111111	
+dvp_013_place40	Chi Heorot	Q5095066	43.70373, -72.28443	
+dvp_013_place41	Vietnam	Q881	16,108	
+dvp_013_place42	Marine Corps Base Quantico	Q1374564	38.50194,-77.30583	
+				
+				
+dvp_013_place43	Marine Corps Air Facility Quantico	Q1029695	38.5036,-77.305	
+dvp_013_place44	BEMA [Big Empty Meeting Area]	Q98636182	43.70521,-72.28445	
+dvp_013_place45	Quantico	Q204315	38.521871,-77.289757	
+dvp_013_place46	Kansas	Q1558	38.5,-98	
+dvp_013_place47	San Francisco	Q62	37.7775,-122.41638888888889	
+dvp_013_place48	UTC−12:00	Q2146		
+dvp_013_place49	Okinawa Island	Q600614	26.483333333333,127.95	
+dvp_013_place50	Okinawa Island	Q600614	26.483333333333,127.95	
+dvp_013_place51	I Corps	Q98611610	16.1697, 108.2324	
+dvp_013_place52	Vietnamese Demilitarized Zone	Q2349960		
+dvp_013_place53	Đông Hà	Q33343	16.830277777778,107.09722222222	
+				
+dvp_013_place54	Huế	Q36167	16.466666666667,107.58333333333	
 dvp_013_place55	National Route 9			
-dvp_013_place56	Khe Sanh	16.627211111111,106.73733333333	Q1924264	
-		16.631111111111,106.73555555556		
-dvp_013_place57	Điện Biên Phủ	21.383333333333,103.01694444444	Q36027	
+dvp_013_place56	Khe Sanh	Q1924264	16.627211111111,106.73733333333	
+				
+dvp_013_place57	Điện Biên Phủ	Q36027	21.383333333333,103.01694444444	
 dvp_013_place58	Hill 68			dvp_0130
-dvp_013_place59	Rauner Special Collections Library	43.70447,-72.28817	Q98544730	
-dvp_013_place60	Hanover	43.702222222222,-72.206111111111	Q131908	
-		43.7083,-72.2772		
-dvp_013_place61	North Vietnam	21.033333,105.85	Q172640	
-dvp_013_place62	Ho Chi Minh trail			
-dvp_013_place63	Laos–Vietnam border	14.686106481482,107.54443981481	Q3089114	
-dvp_013_place64	South Vietnam	10.75,106.66666666667	Q180573	
-dvp_013_place65	Hawaii	21.311388888889,-157.79638888889	Q782	
-dvp_013_place66	Da Nang	16.031944444444445,108.22055555555555	Q25282	
-dvp_013_place67	Newport	41.488002,-71.312622	Q54264	
-dvp_013_place68	Newport	41.488002,-71.312622	Q54264	
-dvp_013_place69	Dorchester	42.316666666667,-71.05	Q1024037	
-dvp_013_place70	Fredericksburg	38.301829,-77.470778	Q492342	
+dvp_013_place59	Rauner Special Collections Library	Q98544730	43.70447,-72.28817	
+dvp_013_place60	Hanover	Q131908	43.702222222222,-72.206111111111	
+				
+dvp_013_place61	North Vietnam	Q172640	21.033333,105.85	
+dvp_013_place62	Ho Chi Minh trail	Q695916		
+dvp_013_place63	Laos–Vietnam border	Q3089114	14.686106481482,107.54443981481	
+dvp_013_place64	South Vietnam	Q180573	10.75,106.66666666667	
+dvp_013_place65	Hawaii	Q782	21.311388888889,-157.79638888889	
+dvp_013_place66	Da Nang	Q25282	16.031944444444445,108.22055555555555	
+dvp_013_place67	Newport	Q54264	41.488002,-71.312622	
+dvp_013_place68	Newport	Q54264	41.488002,-71.312622	
+dvp_013_place69	Dorchester	Q1024037	42.316666666667,-71.05	
+dvp_013_place70	Fredericksburg	Q492342	38.301829,-77.470778	
