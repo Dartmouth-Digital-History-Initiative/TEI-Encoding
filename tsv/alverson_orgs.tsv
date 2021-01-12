@@ -1,83 +1,83 @@
-id	orgName	QID1	QID	dvp_id
-dvp_001_org_0	Dartmouth College	Q49116	Q49116	
-dvp_001_org_1	Confederate States of America	Q81931	Q81931	
-dvp_001_org_2	Anacostia High School	Q4750710	Q4750710	
-dvp_001_org_3	Phillips Exeter Academy	Q1426464	Q1426464	
-dvp_001_org_4	St. Paul's School	Q906930	Q906930	
-dvp_001_org_5	Eastern [Senior] High School	Q5330185		
-dvp_001_org_6	Anacostia High School	Q4750710	Q4750710	
-dvp_001_org_7	United States Marine Band	Q3550743		
-dvp_001_org_8	United States Marine Corps	Q11218	Q11218	
-dvp_001_org_9	Germans	Q42884	Q42884	
-dvp_001_org_10	Scouts BSA	Q7887340		
-dvp_001_org_11	Eagle Scout	Q3046356	Q3046356	
-dvp_001_org_12	United States Marine Corps	Q11218	Q1898583	
-dvp_001_org_13	United States Marine Corps	Q11218	Q1898583	
-dvp_001_org_14	National Training School for Boys	Q6978985	Q6978985	
-dvp_001_org_15	Dartmouth College	Q49116	Q49116	
-dvp_001_org_16	Howard University	Q1068752	Q1068752	
-dvp_001_org_17	Miner State Teachers College	Q101579899		
-dvp_001_org_18	University of the District of Columbia	Q3551751		
-dvp_001_org_19	The Washington Star	Q3489540	Q3489540	
-dvp_001_org_20	Yale University	Q49112	Q49112	
-dvp_001_org_21	George Washington University	Q432637	Q432637	
-dvp_001_org_22	Yale University	Q49112	Q49112	
-dvp_001_org_23	United States Navy	Q11220	Q4508	
-dvp_001_org_24	Reserve Officers' Training Corps	Q489983	Q7277420	
-dvp_001_org_25	United States Navy	Q11220	Q4508	
-dvp_001_org_26	Yale University	Q49112	Q49112	
-dvp_001_org_27	National Science Foundation	Q304878	Q304878	
-dvp_001_org_28	National Institutes of Health	Q390551	Q390551	
-dvp_001_org_29	Yale University	Q49112	Q49112	
-dvp_001_org_30	Yale University	Q49112	Q49112	
-dvp_001_org_31	University of Michigan	Q230492	Q230492	
-dvp_001_org_32	University of Washington	Q219563	Q219563	
-dvp_001_org_33	University of California, Berkeley	Q168756	Q168756	
-dvp_001_org_34	Harvard University	Q13371	Q13371	
-dvp_001_org_35	Columbia University	Q49088	Q49088	
-dvp_001_org_36	Stanford University	Q41506	Q41506	
-dvp_001_org_37	Yale University	Q49112	Q49112	
-dvp_001_org_38	George Washington University	Q432637	Q432637	
-dvp_001_org_39	Yale University	Q49112	Q49112	
-dvp_001_org_40	Yale University	Q49112	Q49112	
-dvp_001_org_41	Yale University	Q49112	Q49112	
-dvp_001_org_42	Students for a Democratic Society	Q2250103	Q7627975	
-dvp_001_org_43	Students for a Democratic Society	Q2250103		
-dvp_001_org_44	Yale University	Q49112	Q49112	
-dvp_001_org_45	McGill University	Q201492	Q201492	
-dvp_001_org_46	Dartmouth College	Q49116	Q49116	
-dvp_001_org_47	Dartmouth College	Q49116	Q49116	
-dvp_001_org_48	Dartmouth College	Q49116	Q49116	
-dvp_001_org_49	Collis Center for Student Involvement	Q100725367	Q100725367	
-dvp_001_org_50	Reserve Officers' Training Corps	Q489983	Q489983	
-dvp_001_org_51	Reserve Officers' Training Corps	Q489983	Q489983	
-dvp_001_org_52	Reserve Officers' Training Corps	Q489983	Q489983	
-dvp_001_org_53	Dartmouth College	Q49116	Q49116	
-dvp_001_org_54	University of Wisconsin–Madison	Q838330	Q81137959	
-dvp_001_org_55	Berkeley College	Q2897191	Q2897191	
-dvp_001_org_56	Columbia University	Q49088	Q49088	
-dvp_001_org_57	Harvard University	Q13371	Q13371	
-dvp_001_org_58	Yale University	Q49112	Q49112	
-dvp_001_org_59	Reserve Officers' Training Corps	Q489983	Q489983	
-dvp_001_org_60	Ivy League	Q49113	Q49113	
-dvp_001_org_61	Dartmouth College	Q49116	Q49116	
-dvp_001_org_62	BBC	Q9531	Q9531	
-dvp_001_org_63	United States Department of State	Q789915	Q789915	
-dvp_001_org_64	Dartmouth College	Q49116	Q49116	
-dvp_001_org_65	Reserve Officers' Training Corps	Q489983	Q489983	
-dvp_001_org_66	Dartmouth College	Q49116	Q49116	
-dvp_001_org_67	Dartmouth College	Q49116	Q49116	
-dvp_001_org_68	Wellesley College	Q49205	Q49205	
-dvp_001_org_69	Smith College	Q49204	Q49204	
-dvp_001_org_70	Mount Holyoke College	Q1140542	Q1140542	
-dvp_001_org_71	Amherst College	Q49165	Q49165	
-dvp_001_org_72	The Dartmouth [D.]	Q102322299		
-dvp_001_org_73	Witwatersrand, [University of] Cape Town	Q102322719		
-dvp_001_org_74	Durban University of Technology	Q926710	Q926710	
-dvp_001_org_75	Witwatersrand, [University of] Cape Town	Q102322719		
-dvp_001_org_76	Durban University of Technology	Q926710		
-dvp_001_org_77	McGill University	Q201492	Q201492	
-dvp_001_org_78	Dartmouth College	Q49116	Q49116	
-dvp_001_org_79	Wooden Shoe			
-dvp_001_org_80	AVA Gallery and Art Center	Q101526596		
-dvp_001_org_81	Dartmouth College	Q49116	Q49116	
+id	orgName	QID	dvp_id
+dvp_001_org_0	Dartmouth College	Q49116	
+dvp_001_org_1	Confederate States of America	Q81931	
+dvp_001_org_2	Anacostia High School	Q4750710	
+dvp_001_org_3	Phillips Exeter Academy	Q1426464	
+dvp_001_org_4	St. Paul's School	Q906930	
+dvp_001_org_5	Eastern [Senior] High School	Q5330185	
+dvp_001_org_6	Anacostia High School	Q4750710	
+dvp_001_org_7	United States Marine Band	Q3550743	
+dvp_001_org_8	United States Marine Corps	Q11218	
+dvp_001_org_9	Germans	Q42884	
+dvp_001_org_10	Scouts BSA	Q7887340	
+dvp_001_org_11	Eagle Scout	Q3046356	
+dvp_001_org_12	United States Marine Corps	Q11218	
+dvp_001_org_13	United States Marine Corps	Q11218	
+dvp_001_org_14	National Training School for Boys	Q6978985	
+dvp_001_org_15	Dartmouth College	Q49116	
+dvp_001_org_16	Howard University	Q1068752	
+dvp_001_org_17	Miner State Teachers College	Q101579899	
+dvp_001_org_18	University of the District of Columbia	Q3551751	
+dvp_001_org_19	The Washington Star	Q3489540	
+dvp_001_org_20	Yale University	Q49112	
+dvp_001_org_21	George Washington University	Q432637	
+dvp_001_org_22	Yale University	Q49112	
+dvp_001_org_23	United States Navy	Q11220	
+dvp_001_org_24	Reserve Officers' Training Corps	Q489983	
+dvp_001_org_25	United States Navy	Q11220	
+dvp_001_org_26	Yale University	Q49112	
+dvp_001_org_27	National Science Foundation	Q304878	
+dvp_001_org_28	National Institutes of Health	Q390551	
+dvp_001_org_29	Yale University	Q49112	
+dvp_001_org_30	Yale University	Q49112	
+dvp_001_org_31	University of Michigan	Q230492	
+dvp_001_org_32	University of Washington	Q219563	
+dvp_001_org_33	University of California, Berkeley	Q168756	
+dvp_001_org_34	Harvard University	Q13371	
+dvp_001_org_35	Columbia University	Q49088	
+dvp_001_org_36	Stanford University	Q41506	
+dvp_001_org_37	Yale University	Q49112	
+dvp_001_org_38	George Washington University	Q432637	
+dvp_001_org_39	Yale University	Q49112	
+dvp_001_org_40	Yale University	Q49112	
+dvp_001_org_41	Yale University	Q49112	
+dvp_001_org_42	Students for a Democratic Society	Q2250103	
+dvp_001_org_43	Students for a Democratic Society	Q2250103	
+dvp_001_org_44	Yale University	Q49112	
+dvp_001_org_45	McGill University	Q201492	
+dvp_001_org_46	Dartmouth College	Q49116	
+dvp_001_org_47	Dartmouth College	Q49116	
+dvp_001_org_48	Dartmouth College	Q49116	
+dvp_001_org_49	Collis Center for Student Involvement	Q100725367	
+dvp_001_org_50	Reserve Officers' Training Corps	Q489983	
+dvp_001_org_51	Reserve Officers' Training Corps	Q489983	
+dvp_001_org_52	Reserve Officers' Training Corps	Q489983	
+dvp_001_org_53	Dartmouth College	Q49116	
+dvp_001_org_54	University of Wisconsin–Madison	Q838330	
+dvp_001_org_55	Berkeley College	Q2897191	
+dvp_001_org_56	Columbia University	Q49088	
+dvp_001_org_57	Harvard University	Q13371	
+dvp_001_org_58	Yale University	Q49112	
+dvp_001_org_59	Reserve Officers' Training Corps	Q489983	
+dvp_001_org_60	Ivy League	Q49113	
+dvp_001_org_61	Dartmouth College	Q49116	
+dvp_001_org_62	BBC	Q9531	
+dvp_001_org_63	United States Department of State	Q789915	
+dvp_001_org_64	Dartmouth College	Q49116	
+dvp_001_org_65	Reserve Officers' Training Corps	Q489983	
+dvp_001_org_66	Dartmouth College	Q49116	
+dvp_001_org_67	Dartmouth College	Q49116	
+dvp_001_org_68	Wellesley College	Q49205	
+dvp_001_org_69	Smith College	Q49204	
+dvp_001_org_70	Mount Holyoke College	Q1140542	
+dvp_001_org_71	Amherst College	Q49165	
+dvp_001_org_72	The Dartmouth [D.]	Q102322299	
+dvp_001_org_73	Witwatersrand, [University of] Cape Town	Q102322719	
+dvp_001_org_74	Durban University of Technology	Q926710	
+dvp_001_org_75	Witwatersrand, [University of] Cape Town	Q102322719	
+dvp_001_org_76	Durban University of Technology	Q926710	
+dvp_001_org_77	McGill University	Q201492	
+dvp_001_org_78	Dartmouth College	Q49116	
+dvp_001_org_79	Wooden Shoe	Q101112427	
+dvp_001_org_80	AVA Gallery and Art Center	Q101526596	
+dvp_001_org_81	Dartmouth College	Q49116	
