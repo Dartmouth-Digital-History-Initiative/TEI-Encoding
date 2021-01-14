@@ -1,72 +1,72 @@
-id	placeName	coordinate location	QID
-dvp_017_place_0	Rauner Special Collections Library	43.70447,-72.28817	Q98544730
-dvp_017_place_1	Dartmouth College	43.703333333333,-72.288333333333	Q49116
-dvp_017_place_2	Hanover	43.7,-72.28333333333333	Q131908
-dvp_017_place_3	London	51.507222222222,-0.1275	Q84
-dvp_017_place_4	South Africa	-29,24	Q258
-dvp_017_place_5	South Africa	-29,24	Q258
-dvp_017_place_6	Cambridge	52.208055555556,0.1225	Q350
-dvp_017_place_7	Paris	48.856944444444,2.3513888888889	Q90
-dvp_017_place_8	London	51.507222222222,-0.1275	Q84
-dvp_017_place_9	Vermont	44,-72.7	Q16551
-dvp_017_place_10	United States of America	39.828175,-98.5795	Q30
-dvp_017_place_11	Vermont	44,-72.7	Q16551
-dvp_017_place_12	South Africa	-29,24	Q258
-dvp_017_place_13	South Africa	-29,24	Q258
-dvp_017_place_14	Eastern Cape	-32,27	Q130840
-dvp_017_place_15	Eastern Cape	-32,27	Q130840
-dvp_017_place_16	South Africa	-29,24	Q258
-dvp_017_place_17	Cape Town	-33.925,18.425	Q5465
-dvp_017_place_18	Israel	31,35	Q801
-dvp_017_place_19	South Africa	-29,24	Q258
-dvp_017_place_20	South Africa	-29,24	Q258
-dvp_017_place_21	South Africa	-29,24	Q258
-dvp_017_place_22	Cape Town	-33.925,18.425	Q5465
-dvp_017_place_23	University of Cape Town	-33.9575,18.460555555556	Q951305
-dvp_017_place_24	University of Cape Town	-33.9575,18.460555555556	Q951305
-dvp_017_place_25	University of Cambridge	52.205277777778,0.11722222222222	Q35794
-dvp_017_place_26	University of Cambridge	52.205277777778,0.11722222222222	Q35794
-dvp_017_place_27	Paris	48.856944444444,2.3513888888889	Q90
-dvp_017_place_28	Paris	48.856944444444,2.3513888888889	Q90
-dvp_017_place_29	Paris	48.856944444444,2.3513888888889	Q90
-dvp_017_place_30	Cambridge	52.208055555556,0.1225	Q350
-dvp_017_place_31	University of Cambridge	52.205277777778,0.11722222222222	Q35794
-dvp_017_place_32	Paris	48.856944444444,2.3513888888889	Q90
-dvp_017_place_33	Paris	48.856944444444,2.3513888888889	Q90
-dvp_017_place_34	Geneva	46.2,6.15	Q71
-dvp_017_place_35	London	51.507222222222,-0.1275	Q84
-dvp_017_place_36	United States of America	39.828175,-98.5795	Q30
-dvp_017_place_37	London	51.507222222222,-0.1275	Q84
-dvp_017_place_38	Vermont	44,-72.7	Q16551
-dvp_017_place_39	United States of America	39.828175,-98.5795	Q30
-dvp_017_place_40	Vermont	44,-72.7	Q16551
-dvp_017_place_41	United States of America	39.828175,-98.5795	Q30
-dvp_017_place_42	South Africa	-29,24	Q258
-dvp_017_place_43	Vermont	44,-72.7	Q16551
-dvp_017_place_44	United States of America	39.828175,-98.5795	Q30
-dvp_017_place_45	Washington, D.C.	38.895,-77.036666666667	Q61
-dvp_017_place_46	Washington, D.C.	38.895,-77.036666666667	Q61
-dvp_017_place_47	Washington, D.C.	38.895,-77.036666666667	Q61
-dvp_017_place_48	England	53,-1	Q21
-dvp_017_place_49	United States of America	39.828175,-98.5795	Q30
-dvp_017_place_50	Vietnam	16,108	Q881
-dvp_017_place_51	Vermont	44,-72.7	Q16551
-dvp_017_place_52	England	53,-1	Q21
-dvp_017_place_53	England	53,-1	Q21
-dvp_017_place_54	England	53,-1	Q21
-dvp_017_place_55	North Vietnam	21.033333,105.85	Q172640
-dvp_017_place_56	Israel	31,35	Q801
-dvp_017_place_57	England	53,-1	Q21
-dvp_017_place_58	Dartmouth College	43.703333333333,-72.288333333333	Q49116
-dvp_017_place_59	London	51.507222222222,-0.1275	Q84
-dvp_017_place_60	United States of America	39.828175,-98.5795	Q30
-dvp_017_place_61	England	53,-1	Q21
-dvp_017_place_62	South Africa	-29,24	Q258
-dvp_017_place_63	United States of America	39.828175,-98.5795	Q30
-dvp_017_place_64	England	53,-1	Q21
-dvp_017_place_65	England	53,-1	Q21
-dvp_017_place_66	England	53,-1	Q21
-dvp_017_place_67	England	53,-1	Q21
-dvp_017_place_68	England	53,-1	Q21
-dvp_017_place_69	South Africa	-29,24	Q258
-dvp_017_place_70	United States of America	39.828175,-98.5795	Q30
+id	placeName	QID	dvp_id	coordinates
+dvp_017_place_0	Rauner Special Collections Library	Q98544730		43.70447,-72.28817
+dvp_017_place_1	Dartmouth College	Q49116		43.703333333333,-72.288333333333
+dvp_017_place_2	Hanover	Q131908		43.7,-72.28333333333333
+dvp_017_place_3	London	Q84		51.507222222222,-0.1275
+dvp_017_place_4	South Africa	Q258		-29,24
+dvp_017_place_5	South Africa	Q258		-29,24
+dvp_017_place_6	Cambridge	Q350		52.208055555556,0.1225
+dvp_017_place_7	Paris	Q90		48.856944444444,2.3513888888889
+dvp_017_place_8	London	Q84		51.507222222222,-0.1275
+dvp_017_place_9	Vermont	Q16551		44,-72.7
+dvp_017_place_10	United States of America	Q30		39.828175,-98.5795
+dvp_017_place_11	Vermont	Q16551		44,-72.7
+dvp_017_place_12	South Africa	Q258		-29,24
+dvp_017_place_13	South Africa	Q258		-29,24
+dvp_017_place_14	Eastern Cape	Q130840		-32,27
+dvp_017_place_15	Eastern Cape	Q130840		-32,27
+dvp_017_place_16	South Africa	Q258		-29,24
+dvp_017_place_17	Cape Town	Q5465		-33.925,18.425
+dvp_017_place_18	Israel	Q801		31,35
+dvp_017_place_19	South Africa	Q258		-29,24
+dvp_017_place_20	South Africa	Q258		-29,24
+dvp_017_place_21	South Africa	Q258		-29,24
+dvp_017_place_22	Cape Town	Q5465		-33.925,18.425
+dvp_017_place_23	University of Cape Town	Q951305		-33.9575,18.460555555556
+dvp_017_place_24	University of Cape Town	Q951305		-33.9575,18.460555555556
+dvp_017_place_25	University of Cambridge	Q35794		52.205277777778,0.11722222222222
+dvp_017_place_26	University of Cambridge	Q35794		52.205277777778,0.11722222222222
+dvp_017_place_27	Paris	Q90		48.856944444444,2.3513888888889
+dvp_017_place_28	Paris	Q90		48.856944444444,2.3513888888889
+dvp_017_place_29	Paris	Q90		48.856944444444,2.3513888888889
+dvp_017_place_30	Cambridge	Q350		52.208055555556,0.1225
+dvp_017_place_31	University of Cambridge	Q35794		52.205277777778,0.11722222222222
+dvp_017_place_32	Paris	Q90		48.856944444444,2.3513888888889
+dvp_017_place_33	Paris	Q90		48.856944444444,2.3513888888889
+dvp_017_place_34	Geneva	Q71		46.2,6.15
+dvp_017_place_35	London	Q84		51.507222222222,-0.1275
+dvp_017_place_36	United States of America	Q30		39.828175,-98.5795
+dvp_017_place_37	London	Q84		51.507222222222,-0.1275
+dvp_017_place_38	Vermont	Q16551		44,-72.7
+dvp_017_place_39	United States of America	Q30		39.828175,-98.5795
+dvp_017_place_40	Vermont	Q16551		44,-72.7
+dvp_017_place_41	United States of America	Q30		39.828175,-98.5795
+dvp_017_place_42	South Africa	Q258		-29,24
+dvp_017_place_43	Vermont	Q16551		44,-72.7
+dvp_017_place_44	United States of America	Q30		39.828175,-98.5795
+dvp_017_place_45	Washington, D.C.	Q61		38.895,-77.036666666667
+dvp_017_place_46	Washington, D.C.	Q61		38.895,-77.036666666667
+dvp_017_place_47	Washington, D.C.	Q61		38.895,-77.036666666667
+dvp_017_place_48	England	Q21		53,-1
+dvp_017_place_49	United States of America	Q30		39.828175,-98.5795
+dvp_017_place_50	Vietnam	Q881		16,108
+dvp_017_place_51	Vermont	Q16551		44,-72.7
+dvp_017_place_52	England	Q21		53,-1
+dvp_017_place_53	England	Q21		53,-1
+dvp_017_place_54	England	Q21		53,-1
+dvp_017_place_55	North Vietnam	Q172640		21.033333,105.85
+dvp_017_place_56	Israel	Q801		31,35
+dvp_017_place_57	England	Q21		53,-1
+dvp_017_place_58	Dartmouth College	Q49116		43.703333333333,-72.288333333333
+dvp_017_place_59	London	Q84		51.507222222222,-0.1275
+dvp_017_place_60	United States of America	Q30		39.828175,-98.5795
+dvp_017_place_61	England	Q21		53,-1
+dvp_017_place_62	South Africa	Q258		-29,24
+dvp_017_place_63	United States of America	Q30		39.828175,-98.5795
+dvp_017_place_64	England	Q21		53,-1
+dvp_017_place_65	England	Q21		53,-1
+dvp_017_place_66	England	Q21		53,-1
+dvp_017_place_67	England	Q21		53,-1
+dvp_017_place_68	England	Q21		53,-1
+dvp_017_place_69	South Africa	Q258		-29,24
+dvp_017_place_70	United States of America	Q30		39.828175,-98.5795
