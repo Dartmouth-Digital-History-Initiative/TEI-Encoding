@@ -26,7 +26,7 @@ dvp_002_place_23	United States of America	Q30		39.828175,-98.5795
 dvp_002_place_24	Dartmouth College	Q49116		43.703333333333,-72.288333333333
 dvp_002_place_25	Buffalo	Q40435		42.904722222222,-78.849444444444
 dvp_002_place_26	Buffalo	Q40435		42.904722222222,-78.849444444444
-dvp_002_place_27	Veterans Administration hospital	Q95984744		
+dvp_002_place_27	Veterans Administration hospital	Q95984744		42.27889,-71.16826
 dvp_002_place_28	Boston	Q100		42.358333333333,-71.0625
 dvp_002_place_29	Philadelphia	Q1345		39.952777777778,-75.163611111111
 dvp_002_place_30	Philadelphia	Q1345		39.952777777778,-75.163611111111
@@ -66,7 +66,7 @@ dvp_002_place_63	Philippines	Q928		12,123
 dvp_002_place_64	Da Nang Air Base	Q1656800		16.043888888889,108.19944444444
 dvp_002_place_65	Da Nang	Q25282		16.031944444444445,108.22055555555555
 dvp_002_place_66	Quảng Trị Combat Base	Q18640049		16.775, 107.161
-dvp_002_place_67	I Corps	Q5976677		
+dvp_002_place_67	I Corps	Q5976677		15.5394, 108.0191
 dvp_002_place_68	Vietnam	Q881		16,108
 dvp_002_place_69	Vietnam	Q881		16,108
 dvp_002_place_70	Vietnam	Q881		16,108
@@ -86,7 +86,7 @@ dvp_002_place_83	Charlie 2	Q60785038		16.855, 107.005
 dvp_002_place_84	Charlie 2	Q60785038		16.855, 107.005
 dvp_002_place_85	Con Thien	Q1626571		16.90972222,106.98
 dvp_002_place_86	Vietnam	Q881		16,108
-dvp_002_place_87	Vietnamese Demilitarized Zone	Q2349960		
+dvp_002_place_87	Vietnamese Demilitarized Zone	Q2349960		17.0021, 107.05
 dvp_002_place_88	Con Thien	Q1626571		16.90972222,106.98
 dvp_002_place_89	Con Thien	Q1626571		16.90972222,106.98
 dvp_002_place_90	New Jersey	Q1408		40,-74.5
@@ -106,7 +106,7 @@ dvp_002_place_103	California	Q99		37,-120
 dvp_002_place_104	Massachusetts	Q771		42.3,-71.8
 dvp_002_place_105	Detroit	Q12439		42.331666666667,-83.0475
 dvp_002_place_106	Vietnam	Q881		16,108
-dvp_002_place_107	Vietnamese Demilitarized Zone	Q2349960		
+dvp_002_place_107	Vietnamese Demilitarized Zone	Q2349960		17.0021, 107.05
 dvp_002_place_108	Quảng Trị	Q36579		16.75,107
 dvp_002_place_109	Quảng Trị	Q36579		16.75,107
 dvp_002_place_110	Boston	Q100		42.358333333333,-71.0625
@@ -151,13 +151,13 @@ dvp_002_place_148	Tremont Street	Q7838158		42.3581,-71.0606
 dvp_002_place_149	Boston	Q100		42.358333333333,-71.0625
 dvp_002_place_150	California	Q99		37,-120
 dvp_002_place_151	California	Q99		37,-120
-dvp_002_place_152	Veterans Administration hospital	Q95984744		
+dvp_002_place_152	Veterans Administration hospital	Q95984744		42.27889,-71.16826
 dvp_002_place_153	Boston	Q100		42.358333333333,-71.0625
 dvp_002_place_154	California	Q99		37,-120
-dvp_002_place_155	Veterans Administration hospital	Q95984744		
+dvp_002_place_155	Veterans Administration hospital	Q95984744		42.27889,-71.16826
 dvp_002_place_156	Dong Ap Bia	Q8520389		16.25,107.18333333333
 dvp_002_place_157	Cambodia	Q424		12.6,105
-dvp_002_place_158	Veterans Administration hospital	Q95984744		
+dvp_002_place_158	Veterans Administration hospital	Q95984744		42.27889,-71.16826
 dvp_002_place_159	Boston	Q100		42.358333333333,-71.0625
 dvp_002_place_160	California	Q99		37,-120
 dvp_002_place_161	East Bay	Q2617944		37.7,-122
@@ -203,7 +203,7 @@ dvp_002_place_200	Alaska	Q797		64,-150
 dvp_002_place_201	Vietnam	Q881		16,108
 dvp_002_place_202	Vietnam	Q881		16,108
 dvp_002_place_203	Palo Alto	Q47265		37.429166666667,-122.13805555556
-dvp_002_place_204	Veterans Administration hospital	Q95984744		
+dvp_002_place_204	Veterans Administration hospital	Q95984744		42.27889,-71.16826
 dvp_002_place_205	Palo Alto	Q47265		37.429166666667,-122.13805555556
 dvp_002_place_206	Chelsea	Q54156		42.391666666667,-71.033333333333
 dvp_002_place_207	Long Beach	Q16739		33.768321,-118.1956168
