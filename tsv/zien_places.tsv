@@ -4,7 +4,7 @@ dvp_018_place2	Knoxville	Q185582		35.966666666667,-83.95
 dvp_018_place3	Knoxville	Q185582		35.966666666667,-83.95
 dvp_018_place4	Oak Ridge	Q48809		36.013333333333,-84.2625
 dvp_018_place5	Tennessee	Q1509		36,-86
-dvp_018_place6	Mississippi River	Q1497		
+dvp_018_place6	Mississippi River	Q1497		47.2399,-95.2075
 dvp_018_place7	New York City	Q60		40.67,-73.94
 dvp_018_place8	United States of America	Q30		39.828175,-98.5795
 dvp_018_place9	United States of America	Q30		39.828175,-98.5795
@@ -22,14 +22,14 @@ dvp_018_place20	Dartmouth College	Q49116		43.703333333333,-72.288333333333
 dvp_018_place21	Vietnam	Q881		16,108
 dvp_018_place22	North Vietnam	Q172640		21.033333,105.85
 dvp_018_place23	Vietnam	Q881		16,108
-dvp_018_place24	Mississippi River	Q1497		
+dvp_018_place24	Mississippi River	Q1497		47.2399,-95.2075
 dvp_018_place25	Texas	Q1439		31,-100
 dvp_018_place26	Ledyard Bridge	Q6512790		43.7036,-72.2997
 dvp_018_place27	The Green	Q7738117		43.7033,-72.2886
 dvp_018_place28	Milwaukee	Q37836		43.05,-87.95
 dvp_018_place29	Los Angeles	Q65		34.05223,-118.24368
 dvp_018_place30	Watts	Q1687279		33.941666666667,-118.24166666667
-dvp_018_place31	Pacific Coast Highway	Q68050615		
+dvp_018_place31	Pacific Coast Highway	Q68050615		36.7544855,-121.7674875
 dvp_018_place32	Disneyland	Q181185		33.809,-117.919
 dvp_018_place33	South Africa	Q258		-29,24
 dvp_018_place34	Canada	Q16		56,-109
@@ -45,7 +45,7 @@ dvp_018_place43	United States of America	Q30		39.828175,-98.5795
 dvp_018_place44	Philadelphia	Q1345		39.952777777778,-75.163611111111
 dvp_018_place45	Albany	Q2255535		44.730555555556,-72.340555555556
 dvp_018_place46	Norwich	Q1510465		43.730277777778,-72.303055555556
-dvp_018_place47	Interstate 91	Q94961		
+dvp_018_place47	Interstate 91	Q94961		43.1677608,-73.1624579
 dvp_018_place48	Iraq	Q796		33,43
 dvp_018_place49	Afghanistan	Q889		34,66
 dvp_018_place50	Kuwait	Q817		29.166667,47.6
