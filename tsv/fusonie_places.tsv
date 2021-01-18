@@ -1,44 +1,44 @@
-id	placeName
-dvp_028_place_0	Connecticut
-dvp_028_place_1	Rhode Island
-dvp_028_place_2	U.S.
-dvp_028_place_3	Vietnam
-dvp_028_place_4	Dartmouth
-dvp_028_place_5	North Carolina
-dvp_028_place_6	Philadelphia
-dvp_028_place_7	Vietnam
-dvp_028_place_8	Vietnam
-dvp_028_place_9	Vietnam
-dvp_028_place_10	Vietnam
-dvp_028_place_11	Vietnam
-dvp_028_place_12	Vietnam
-dvp_028_place_13	South Vietnam
-dvp_028_place_14	Boston
-dvp_028_place_15	South Vietnam
-dvp_028_place_16	Oakland
-dvp_028_place_17	San Francisco
-dvp_028_place_18	Vietnam
-dvp_028_place_19	America
-dvp_028_place_20	Vietnam
-dvp_028_place_21	Ohio
-dvp_028_place_22	Vietnam
-dvp_028_place_23	Vietnam
-dvp_028_place_24	Massachusetts
-dvp_028_place_25	Fort Eustis
-dvp_028_place_26	Vietnam
-dvp_028_place_27	Texas
-dvp_028_place_28	Vietnam
-dvp_028_place_29	San Francisco
-dvp_028_place_30	Vietnam
-dvp_028_place_31	Vietnam
-dvp_028_place_32	Georgia
-dvp_028_place_33	Saigon
-dvp_028_place_34	Saigon
-dvp_028_place_35	Texas
-dvp_028_place_36	Hawaii
-dvp_028_place_37	Hawaii
-dvp_028_place_38	Hawaii
-dvp_028_place_39	Vietnam
-dvp_028_place_40	U.S.
-dvp_028_place_41	Vietnam
-dvp_028_place_42	Washington
+id	placeName	QID	dvp_id	coordinate location
+dvp_028_place_0	Connecticut	Q779		41.6,-72.7
+dvp_028_place_1	Rhode Island	Q1387		41.7,-71.5
+dvp_028_place_2	United States of America	Q30		39.828175,-98.5795
+dvp_028_place_3	Vietnam	Q881		16,108
+dvp_028_place_4	Dartmouth College	Q49116		43.703333333333,-72.288333333333
+dvp_028_place_5	North Carolina	Q1454		35.5,-80
+dvp_028_place_6	Philadelphia	Q1345		39.952777777778,-75.163611111111
+dvp_028_place_7	Vietnam	Q881		16,108
+dvp_028_place_8	Vietnam	Q881		16,108
+dvp_028_place_9	Vietnam	Q881		16,108
+dvp_028_place_10	Vietnam	Q881		16,108
+dvp_028_place_11	Vietnam	Q881		16,108
+dvp_028_place_12	Vietnam	Q881		16,108
+dvp_028_place_13	South Vietnam	Q180573		10.75,106.66666666667
+dvp_028_place_14	Boston	Q100		42.358333333333,-71.0625
+dvp_028_place_15	South Vietnam	Q180573		10.75,106.66666666667
+dvp_028_place_16	Oakland	Q17042		37.8,-122.25
+dvp_028_place_17	San Francisco	Q62		37.7775,-122.41638888888889
+dvp_028_place_18	Vietnam	Q881		16,108
+dvp_028_place_19	United States of America	Q30		39.828175,-98.5795
+dvp_028_place_20	Vietnam	Q881		16,108
+dvp_028_place_21	Ohio	Q1397		40.5,-82.5
+dvp_028_place_22	Vietnam	Q881		16,108
+dvp_028_place_23	Vietnam	Q881		16,108
+dvp_028_place_24	Massachusetts	Q771		42.3,-71.8
+dvp_028_place_25	Fort Eustis	Q3077862		37.1593,-76.5752
+dvp_028_place_26	Vietnam	Q881		16,108
+dvp_028_place_27	Texas	Q1439		31,-100
+dvp_028_place_28	Vietnam	Q881		16,108
+dvp_028_place_29	San Francisco	Q62		37.7775,-122.41638888888889
+dvp_028_place_30	Vietnam	Q881		16,108
+dvp_028_place_31	Vietnam	Q881		16,108
+dvp_028_place_32	Georgia	Q1428		33,-83.5
+dvp_028_place_33	Ho Chi Minh City	Q1854		10.816666666667,106.63333333333
+dvp_028_place_34	Ho Chi Minh City	Q1854		10.816666666667,106.63333333333
+dvp_028_place_35	Texas	Q1439		31,-100
+dvp_028_place_36	Hawaii	Q782		21.3075,-157.8575
+dvp_028_place_37	Hawaii	Q782		21.3075,-157.8575
+dvp_028_place_38	Hawaii	Q782		21.3075,-157.8575
+dvp_028_place_39	Vietnam	Q881		16,108
+dvp_028_place_40	United States of America	Q30		39.828175,-98.5795
+dvp_028_place_41	Vietnam	Q881		16,108
+dvp_028_place_42	Washington, D.C.	Q61		38.895,-77.036666666667
