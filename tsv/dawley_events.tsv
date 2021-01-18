@@ -1,32 +1,32 @@
-id	name	QID	start time	end time	point in time	dvp_id
-dvp_005_event_0	Vietnam War	Q8740	1965-11-01T00:00:00Z	1975-04-30T00:00:00Z	1955-11-01T00:00:00Z	
-dvp_005_event_1	Vietnam War	Q8740	1965-11-01T00:00:00Z	1975-04-30T00:00:00Z	1955-11-01T00:00:00Z	
-dvp_005_event_2	World War I	Q361	1914-07-28T00:00:00Z	1918-11-11T00:00:00Z		
-dvp_005_event_3	World War II	Q362	1939-09-01T00:00:00Z	1945-09-02T00:00:00Z		
-dvp_005_event_4	Battle of Bunker Hill	Q334029			1775-06-17T00:00:00Z	
-dvp_005_event_5	American Revolutionary War	Q40949	1775-04-19T00:00:00Z	1783-09-03T00:00:00Z	0004-09-01T00:00:00Z	
-dvp_005_event_6	World War II	Q362	1939-09-01T00:00:00Z	1945-09-02T00:00:00Z		
-dvp_005_event_7	Attack on Pearl Harbor	Q52418			1941-12-07T00:00:00Z	
-dvp_005_event_8	American Civil War	Q8676	1861-04-11T00:00:00Z	1865-05-10T00:00:00Z	1861-04-12T00:00:00Z	
-dvp_005_event_9	American Civil War	Q8676	1861-04-11T00:00:00Z	1865-05-10T00:00:00Z	1861-04-12T00:00:00Z	
-dvp_005_event_10	American Civil War	Q8676	1861-04-11T00:00:00Z	1865-05-10T00:00:00Z	1861-04-12T00:00:00Z	
-dvp_005_event_11	Korean War	Q8663	1950-06-25T00:00:00Z	1953-07-27T00:00:00Z		
-dvp_005_event_12	[Douglas] MacArthur hearings					
-dvp_005_event_13	Relief of Douglas MacArthur	Q1344952			1951-04-11T00:00:00Z	
-dvp_005_event_14	Coronation of Queen Elizabeth II	Q3797766			1953-06-02T00:00:00Z	
-dvp_005_event_15	Election of John F. Kennedy: President of the United States (NAID 53679)	Q66325403				
-dvp_005_event_16	Cuban Missile Crisis	Q128160	1962-10-14T00:00:00Z	1962-10-28T00:00:00Z	1962-01-01T00:00:00Z	
-dvp_005_event_17	Vietnam War	Q8740	1965-11-01T00:00:00Z	1975-04-30T00:00:00Z	1955-11-01T00:00:00Z	
-dvp_005_event_18	assassination of John F. Kennedy	Q193484			1963-11-22T00:00:00Z	
-dvp_005_event_19	assassination of John F. Kennedy	Q193484			1963-11-22T00:00:00Z	
-dvp_005_event_20	Vietnam War	Q8740	1965-11-01T00:00:00Z	1975-04-30T00:00:00Z	1955-11-01T00:00:00Z	
-dvp_005_event_21	World War II	Q362	1939-09-01T00:00:00Z	1945-09-02T00:00:00Z		
-dvp_005_event_22	March Against Fear	Q16932373				
-dvp_005_event_23	Korean War	Q8663	1950-06-25T00:00:00Z	1953-07-27T00:00:00Z		
-dvp_005_event_24	Korean War	Q8663	1950-06-25T00:00:00Z	1953-07-27T00:00:00Z		
-dvp_005_event_25	Watts riots	Q377682	1965-08-11T00:00:00Z	1965-08-16T00:00:00Z	1965-08-01T00:00:00Z	
-dvp_005_event_26	assassination of Martin Luther King Jr.	Q757963			1968-04-04T00:00:00Z	
-dvp_005_event_27	Vietnam War	Q8740	1965-11-01T00:00:00Z	1975-04-30T00:00:00Z	1955-11-01T00:00:00Z	
-dvp_005_event_28	Vietnam War	Q8740	1965-11-01T00:00:00Z	1975-04-30T00:00:00Z	1955-11-01T00:00:00Z	
-dvp_005_event_29	My Lai Massacre	Q183421			1968-03-16T00:00:00Z	
-dvp_005_event_30	Paris Peace Accords	Q696802			1973-01-27T00:00:00Z	
+id	name	QID	dvp_id	start time	end time	point in time
+dvp_005_event_0	Vietnam War	Q8740		1965-11-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_005_event_1	Vietnam War	Q8740		1965-11-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_005_event_2	World War I	Q361		1914-07-28T00:00:00Z	1918-11-11T00:00:00Z	
+dvp_005_event_3	World War II	Q362		1939-09-01T00:00:00Z	1945-09-02T00:00:00Z	
+dvp_005_event_4	Battle of Bunker Hill	Q334029				1775-06-17T00:00:00Z
+dvp_005_event_5	American Revolutionary War	Q40949		1775-04-19T00:00:00Z	1783-09-03T00:00:00Z	
+dvp_005_event_6	World War II	Q362		1939-09-01T00:00:00Z	1945-09-02T00:00:00Z	
+dvp_005_event_7	Attack on Pearl Harbor	Q52418				1941-12-07T00:00:00Z
+dvp_005_event_8	American Civil War	Q8676		1861-04-11T00:00:00Z	1865-05-10T00:00:00Z	
+dvp_005_event_9	American Civil War	Q8676		1861-04-11T00:00:00Z	1865-05-10T00:00:00Z	
+dvp_005_event_10	American Civil War	Q8676		1861-04-11T00:00:00Z	1865-05-10T00:00:00Z	
+dvp_005_event_11	Korean War	Q8663		1950-06-25T00:00:00Z	1953-07-27T00:00:00Z	
+dvp_005_event_12	Relief of Douglas MacArthur	Q1344952				1951-04-11T00:00:00Z
+dvp_005_event_13	Relief of Douglas MacArthur	Q1344952				1951-04-11T00:00:00Z
+dvp_005_event_14	Coronation of Queen Elizabeth II	Q3797766				1953-06-02T00:00:00Z
+dvp_005_event_15	1960 United States elections	Q7892436				1960-11-08T00:00:00Z
+dvp_005_event_16	Cuban Missile Crisis	Q128160		1962-10-14T00:00:00Z	1962-10-28T00:00:00Z	
+dvp_005_event_17	Vietnam War	Q8740		1965-11-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_005_event_18	assassination of John F. Kennedy	Q193484				1963-11-22T00:00:00Z
+dvp_005_event_19	assassination of John F. Kennedy	Q193484				1963-11-22T00:00:00Z
+dvp_005_event_20	Vietnam War	Q8740		1965-11-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_005_event_21	World War II	Q362		1939-09-01T00:00:00Z	1945-09-02T00:00:00Z	
+dvp_005_event_22	March Against Fear	Q16932373		1966-06-05T00:00:00Z	1966-06-26T00:00:00Z	
+dvp_005_event_23	Korean War	Q8663		1950-06-25T00:00:00Z	1953-07-27T00:00:00Z	
+dvp_005_event_24	Korean War	Q8663		1950-06-25T00:00:00Z	1953-07-27T00:00:00Z	
+dvp_005_event_25	Watts riots	Q377682				1965-08-01T00:00:00Z
+dvp_005_event_26	assassination of Martin Luther King Jr.	Q757963				1968-04-04T00:00:00Z
+dvp_005_event_27	Vietnam War	Q8740		1965-11-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_005_event_28	Vietnam War	Q8740		1965-11-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_005_event_29	My Lai Massacre	Q183421				1968-03-16T00:00:00Z
+dvp_005_event_30	Paris Peace Accords	Q696802				1973-01-27T00:00:00Z
