@@ -42,7 +42,7 @@ dvp_014_place_39	Virginia Military Institute	Q785357		37.7903,-79.4386
 dvp_014_place_40	Vietnam	Q881		16,108
 dvp_014_place_41	Middlebury College	Q1357891		44.008888888889,-73.177222222222
 dvp_014_place_42	Fort Benning	Q1438462		32.366111111111,-84.969166666667
-dvp_014_place_43	Olson Hall			
+dvp_014_place_43	Olson Hall	Q104880617		32.3597,-84.9642
 dvp_014_place_44	United States Military Academy	Q9219		41.39277778,-73.95833333
 dvp_014_place_45	Fort Benning	Q1438462		32.366111111111,-84.969166666667
 dvp_014_place_46	Fort Polk	Q1438661		31.0726,-93.0806
@@ -51,7 +51,7 @@ dvp_014_place_48	Alaska	Q797		64,-150
 dvp_014_place_49	Fort Benning	Q1438462		32.366111111111,-84.969166666667
 dvp_014_place_50	Washington, D.C.	Q61		38.895,-77.036666666667
 dvp_014_place_51	Alaska	Q797		64,-150
-dvp_014_place_52	Biathlon Training Center			
+dvp_014_place_52	Biathlon Training Center	Q104880728		61.2359,-149.6332
 dvp_014_place_53	Alaska	Q797		64,-150
 dvp_014_place_54	Vietnam	Q881		16,108
 dvp_014_place_55	Vietnam	Q881		16,108
@@ -80,29 +80,29 @@ dvp_014_place_77	United States of America	Q30		39.828175,-98.5795
 dvp_014_place_78	Vietnam	Q881		16,108
 dvp_014_place_79	Alaska	Q797		64,-150
 dvp_014_place_80	Alaska	Q797		64,-150
-dvp_014_place_81	Biathlon Training Center			
+dvp_014_place_81	Biathlon Training Center	Q104880728		61.2359,-149.6332
 dvp_014_place_82	Vietnam	Q881		16,108
 dvp_014_place_83	Vietnam	Q881		16,108
 dvp_014_place_84	Vietnam	Q881		16,108
 dvp_014_place_85	Vietnam	Q881		16,108
-dvp_014_place_86	Mekong Delta	Q8177459		
+dvp_014_place_86	Mekong Delta	Q8177459		10.242323,106.633923
 dvp_014_place_87	South Vietnam	Q180573		10.75,106.66666666667
 dvp_014_place_88	South Vietnam	Q180573		10.75,106.66666666667
-dvp_014_place_89	Phong Dinh province	Q10805424		
-dvp_014_place_90	Phong Dinh province	Q10805424		
-dvp_014_place_91	Ton Phuoc Hung			
-dvp_014_place_92	Tom Phuoc Hung			
-dvp_014_place_93	Üçkuyu	Q3678380		
+dvp_014_place_89	Phong Dinh province	Q10805424		10.120,105.535
+dvp_014_place_90	Phong Dinh province	Q10805424		10.120,105.535
+dvp_014_place_91	Ton Phuoc Hung	Q10830761		9.74888889,105.7888889
+dvp_014_place_92	Tom Phuoc Hung	Q10830761		9.74888889,105.7888889
+dvp_014_place_93	Araska			
 dvp_014_place_94	Alaska	Q797		64,-150
 dvp_014_place_95	Tân Phước Hưng	Q10830761		9.74888889,105.7888889
-dvp_014_place_96	Mekong	Q12497895		
+dvp_014_place_96	Mekong	Q8177459		10.242323,106.633923
 dvp_014_place_97	Phụng Hiệp	Q7188350		9.8,105.70416666667
 dvp_014_place_98	Ho Chi Minh City	Q1854		10.816666666667,106.63333333333
 dvp_014_place_99	Ho Chi Minh City	Q1854		10.816666666667,106.63333333333
 dvp_014_place_100	Cần Thơ	Q216075		10.033333333333,105.78333333333
-dvp_014_place_101	Southern Vietnam	Q2289221		
+dvp_014_place_101	Southern Vietnam	Q2289221		10.876,106.743
 dvp_014_place_102	Cần Thơ	Q216075		10.033333333333,105.78333333333
-dvp_014_place_103	Phong Hiep			
+dvp_014_place_103	Phong Hiep	Q7188350		9.8,105.70416666667
 dvp_014_place_104	Tân Phước Hưng	Q10830761		9.74888889,105.7888889
 dvp_014_place_105	Long Mỹ	Q6673020		9.65,105.5375
 dvp_014_place_106	Cần Thơ	Q216075		10.033333333333,105.78333333333
@@ -110,13 +110,13 @@ dvp_014_place_107	Ho Chi Minh City	Q1854		10.816666666667,106.63333333333
 dvp_014_place_108	Ho Chi Minh trail	Q695916		18.6852,104.8373
 dvp_014_place_109	Ho Chi Minh trail	Q695916		18.6852,104.8373
 dvp_014_place_110	western border of Vietnam and Laos and Cambodia			
-dvp_014_place_111	U Minh Forest			
+dvp_014_place_111	U Minh Forest	Q1536917		9.58333,105.083
 dvp_014_place_112	Cambodia–Vietnam border	Q3089036		14.686106481482,107.54443981481
-dvp_014_place_113	U Minh Forest			
+dvp_014_place_113	U Minh Forest	Q1536917		9.58333,105.083
 dvp_014_place_114	Vietnam	Q881		16,108
 dvp_014_place_115	South Vietnam	Q180573		10.75,106.66666666667
 dvp_014_place_116	Tân Phước Hưng	Q10830761		9.74888889,105.7888889
-dvp_014_place_117	Phong Hiep			
+dvp_014_place_117	Phong Hiep	Q7188350		9.8,105.70416666667
 dvp_014_place_118	Tân Phước Hưng	Q10830761		9.74888889,105.7888889
 dvp_014_place_119	Tân Phước Hưng	Q10830761		9.74888889,105.7888889
 dvp_014_place_120	Phụng Hiệp	Q7188350		9.8,105.70416666667
@@ -150,7 +150,7 @@ dvp_014_place_147	Louisiana	Q1588		31,-92
 dvp_014_place_148	Afghanistan	Q889		34,66
 dvp_014_place_149	Iraq	Q796		33,43
 dvp_014_place_150	Alaska	Q797		64,-150
-dvp_014_place_151	Biathlon Training Center			
+dvp_014_place_151	Biathlon Training Center	Q104880728		61.2359,-149.6332
 dvp_014_place_152	Ho Chi Minh City	Q1854		10.816666666667,106.63333333333
 dvp_014_place_153	Vietnam	Q881		16,108
 dvp_014_place_154	Alaska	Q797		64,-150
@@ -159,15 +159,15 @@ dvp_014_place_156	Alaska	Q797		64,-150
 dvp_014_place_157	Travis Air Force Base	Q3497425		38.262777777778,-121.9275
 dvp_014_place_158	University of California, Berkeley	Q168756		37.87,-122.259
 dvp_014_place_159	Japan	Q17		35,136
-dvp_014_place_160	Travis, California			
+dvp_014_place_160	Travis, California	Q3497425		38.262777777778,-121.9275
 dvp_014_place_161	Anchorage	Q39450		61.218333333333,-149.89916666667
 dvp_014_place_162	United States of America	Q30		39.828175,-98.5795
-dvp_014_place_163	Travis			
+dvp_014_place_163	Travis	Q3497425		38.262777777778,-121.9275
 dvp_014_place_164	Anchorage	Q39450		61.218333333333,-149.89916666667
-dvp_014_place_165	Travis			
+dvp_014_place_165	Travis	Q3497425		38.262777777778,-121.9275
 dvp_014_place_166	Vietnam	Q881		16,108
 dvp_014_place_167	Anchorage	Q39450		61.218333333333,-149.89916666667
-dvp_014_place_168	Travis, California			
+dvp_014_place_168	Travis, California	Q3497425		38.262777777778,-121.9275
 dvp_014_place_169	Anchorage	Q39450		61.218333333333,-149.89916666667
 dvp_014_place_170	Anchorage	Q39450		61.218333333333,-149.89916666667
 dvp_014_place_171	Anchorage	Q39450		61.218333333333,-149.89916666667
@@ -215,26 +215,26 @@ dvp_014_place_212	Vietnam	Q881		16,108
 dvp_014_place_213	Tokyo	Q1490		35.689722222222,139.69222222222
 dvp_014_place_214	Vietnam	Q881		16,108
 dvp_014_place_215	Alaska	Q797		64,-150
-dvp_014_place_216	Biathlon Training Center			
+dvp_014_place_216	Biathlon Training Center	Q104880728		61.2359,-149.6332
 dvp_014_place_217	Washington, D.C.	Q61		38.895,-77.036666666667
 dvp_014_place_218	Alaska	Q797		64,-150
 dvp_014_place_219	Alaska	Q797		64,-150
-dvp_014_place_220	Biathlon Training Center			
+dvp_014_place_220	Biathlon Training Center	Q104880728		61.2359,-149.6332
 dvp_014_place_221	Alaska	Q797		64,-150
 dvp_014_place_222	Vietnam	Q881		16,108
 dvp_014_place_223	Vietnam	Q881		16,108
 dvp_014_place_224	Alaska	Q797		64,-150
-dvp_014_place_225	Biathlon Training Center			
+dvp_014_place_225	Biathlon Training Center	Q104880728		61.2359,-149.6332
 dvp_014_place_226	Alaska	Q797		64,-150
 dvp_014_place_227	Vietnam	Q881		16,108
 dvp_014_place_228	Vietnam	Q881		16,108
-dvp_014_place_229	Training Center			
+dvp_014_place_229	Training Center	Q104880728		61.2359,-149.6332
 dvp_014_place_230	Sapporo	Q37951		43.062083333333,141.35438888889
 dvp_014_place_231	Calgary	Q36312		51.05,-114.06666666667
 dvp_014_place_232	Albertville	Q159469		45.675833333333,6.3925
 dvp_014_place_233	Lillehammer	Q101341		61.11464,10.46743
-dvp_014_place_234	Training Center			
-dvp_014_place_235	Center			
+dvp_014_place_234	Training Center	Q104880728		61.2359,-149.6332
+dvp_014_place_235	Center	Q104880728		61.2359,-149.6332
 dvp_014_place_236	Sweden	Q34		61,15
 dvp_014_place_237	Sweden	Q34		61,15
 dvp_014_place_238	United States of America	Q30		39.828175,-98.5795
@@ -274,12 +274,12 @@ dvp_014_place_271	Parkhurst Hall	Q100952777		43.70404,-72.28995
 dvp_014_place_272	Thetford	Q237250		52.41,0.74
 dvp_014_place_273	Dartmouth College	Q49116		43.703333333333,-72.288333333333
 dvp_014_place_274	Middlebury College	Q1357891		44.008888888889,-73.177222222222
-dvp_014_place_275	Crest Room [in the McCullough Student Center]			
+dvp_014_place_275	Crest Room [in the McCullough Student Center]	Q104881681		44.00830,-73.17724
 dvp_014_place_276	Robinson Hall	Q101445665		43.703119,-72.290959
 dvp_014_place_277	Lake Placid	Q192700		44.285555555556,-73.985277777778
 dvp_014_place_278	Vietnam	Q881		16,108
 dvp_014_place_279	Fort Benning	Q1438462		32.366111111111,-84.969166666667
-dvp_014_place_280	Spaulding [Auditorium]			
+dvp_014_place_280	Spaulding [Auditorium]	Q104881588		43.70164,-72.28816
 dvp_014_place_281	Vietnam	Q881		16,108
 dvp_014_place_282	Ho Chi Minh City	Q1854		10.816666666667,106.63333333333
 dvp_014_place_283	Alaska	Q797		64,-150
