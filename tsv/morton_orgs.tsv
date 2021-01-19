@@ -11,9 +11,9 @@ dvp_014_org_8	Middlebury College	Q1357891
 dvp_014_org_9	Reserve Officers' Training Corps	Q489983	
 dvp_014_org_10	Reserve Officers' Training Corps	Q17063257	
 dvp_014_org_11	Dartmouth College	Q49116	
-dvp_014_org_12	Naval ROTC		
+dvp_014_org_12	Naval ROTC	Q6981909	
 dvp_014_org_13	Middlebury College	Q1357891	
-dvp_014_org_14	Army ROTC		
+dvp_014_org_14	Army ROTC	Q4794233	
 dvp_014_org_15	Reserve Officers' Training Corps	Q489983	
 dvp_014_org_16	Reserve Officers' Training Corps	Q489983	
 dvp_014_org_17	Reserve Officers' Training Corps	Q489983	
@@ -63,23 +63,23 @@ dvp_014_org_60	United States Military Academy	Q9219
 dvp_014_org_61	United States infantry regiment	Q66735957	
 dvp_014_org_62	United States Army	Q9212	
 dvp_014_org_63	National Front for the Liberation of South Vietnam	Q174423	
-dvp_014_org_64	MAT team—a Mobile Advisory Team		
+dvp_014_org_64	MAT team—a Mobile Advisory Team	Q104892390	
 dvp_014_org_65	Reserve Officers' Training Corps	Q489983	
-dvp_014_org_66	Mobile Advisory Team		
-dvp_014_org_67	MAT		
-dvp_014_org_68	MAT		
-dvp_014_org_69	MAT		
+dvp_014_org_66	Mobile Advisory Team	Q104892390	
+dvp_014_org_67	MAT	Q104892390	
+dvp_014_org_68	MAT	Q104892390	
+dvp_014_org_69	MAT	Q104892390	
 dvp_014_org_70	Army of the Republic of Vietnam	Q18917	
 dvp_014_org_71	Army of the Republic of Vietnam	Q18917	
 dvp_014_org_72	Army of the Republic of Vietnam	Q18917	
 dvp_014_org_73	Army of the Republic of Vietnam	Q18917	
-dvp_014_org_74	MAT		
+dvp_014_org_74	MAT	Q104892390	
 dvp_014_org_75	Army of the Republic of Vietnam	Q18917	
 dvp_014_org_76	National Front for the Liberation of South Vietnam	Q174423	
 dvp_014_org_77	National Front for the Liberation of South Vietnam	Q174423	
 dvp_014_org_78	National Front for the Liberation of South Vietnam	Q174423	
 dvp_014_org_79	Army of the Republic of Vietnam	Q18917	
-dvp_014_org_80	MAT		
+dvp_014_org_80	MAT	Q104892390	
 dvp_014_org_81	Army of the Republic of Vietnam	Q18917	
 dvp_014_org_82	South Vietnamese Regional Force	Q7568739	
 dvp_014_org_83	South Vietnamese Popular Force	Q7568737	
@@ -92,18 +92,18 @@ dvp_014_org_89	Peace Corps	Q458620
 dvp_014_org_90	National Front for the Liberation of South Vietnam	Q174423	
 dvp_014_org_91	National Front for the Liberation of South Vietnam	Q174423	
 dvp_014_org_92	United States Army	Q9212	
-dvp_014_org_93	MAT		
-dvp_014_org_94	MAT		
+dvp_014_org_93	MAT	Q104892390	
+dvp_014_org_94	MAT	Q104892390	
 dvp_014_org_95	National Front for the Liberation of South Vietnam	Q174423	
 dvp_014_org_96	National Front for the Liberation of South Vietnam	Q174423	
 dvp_014_org_97	National Front for the Liberation of South Vietnam	Q174423	
-dvp_014_org_98	MAT		
-dvp_014_org_99	MAT		
-dvp_014_org_100	MAT		
-dvp_014_org_101	MAT		
-dvp_014_org_102	MAT		
-dvp_014_org_103	MAT		
-dvp_014_org_104	Mobile Advisory Team		
+dvp_014_org_98	MAT	Q104892390	
+dvp_014_org_99	MAT	Q104892390	
+dvp_014_org_100	MAT	Q104892390	
+dvp_014_org_101	MAT	Q104892390	
+dvp_014_org_102	MAT	Q104892390	
+dvp_014_org_103	MAT	Q104892390	
+dvp_014_org_104	Mobile Advisory Team	Q104892390	
 dvp_014_org_105	Araska		
 dvp_014_org_106	South Vietnamese Regional Force	Q7568739	
 dvp_014_org_107	National Front for the Liberation of South Vietnam	Q174423	
@@ -124,37 +124,37 @@ dvp_014_org_121	National Front for the Liberation of South Vietnam	Q174423
 dvp_014_org_122	United States Army	Q9212	
 dvp_014_org_123	Army of the Republic of Vietnam	Q18917	
 dvp_014_org_124	United States of America	Q30	
-dvp_014_org_125	MAT		
-dvp_014_org_126	MAT		
+dvp_014_org_125	MAT	Q104892390	
+dvp_014_org_126	MAT	Q104892390	
 dvp_014_org_127	Military Assistance Command, Vietnam	Q485921	
 dvp_014_org_128	’72 Olympic team		
 dvp_014_org_129	National Front for the Liberation of South Vietnam	Q174423	
 dvp_014_org_130	National Front for the Liberation of South Vietnam	Q174423	
 dvp_014_org_131	National Front for the Liberation of South Vietnam	Q174423	
-dvp_014_org_132	MAT		
-dvp_014_org_133	MAT		
-dvp_014_org_134	MAT		
-dvp_014_org_135	MAT		
+dvp_014_org_132	MAT	Q104892390	
+dvp_014_org_133	MAT	Q104892390	
+dvp_014_org_134	MAT	Q104892390	
+dvp_014_org_135	MAT	Q104892390	
 dvp_014_org_136	National Front for the Liberation of South Vietnam	Q174423	
 dvp_014_org_137	Military Assistance Command, Vietnam	Q485921	
-dvp_014_org_138	MAT		
+dvp_014_org_138	MAT	Q104892390	
 dvp_014_org_139	United States Marine Corps	Q11218	
 dvp_014_org_140	United States Army	Q9212	
 dvp_014_org_141	The U.S. Air Force	Q7771013	
-dvp_014_org_142	MAT		
-dvp_014_org_143	MAT		
-dvp_014_org_144	MAT		
+dvp_014_org_142	MAT	Q104892390	
+dvp_014_org_143	MAT	Q104892390	
+dvp_014_org_144	MAT	Q104892390	
 dvp_014_org_145	South Vietnamese Regional Force	Q7568739	
-dvp_014_org_146	MAT		
-dvp_014_org_147	Mobile Advisory Team		
-dvp_014_org_148	MAT		
+dvp_014_org_146	MAT	Q104892390	
+dvp_014_org_147	Mobile Advisory Team	Q104892390	
+dvp_014_org_148	MAT	Q104892390	
 dvp_014_org_149	United States Agency for International Development	Q217072	
 dvp_014_org_150	United States Agency for International Development	Q217072	
 dvp_014_org_151	United States Agency for International Development	Q217072	
-dvp_014_org_152	MAT		
+dvp_014_org_152	MAT	Q104892390	
 dvp_014_org_153	United States Agency for International Development	Q217072	
-dvp_014_org_154	MAT		
-dvp_014_org_155	MAT		
+dvp_014_org_154	MAT	Q104892390	
+dvp_014_org_155	MAT	Q104892390	
 dvp_014_org_156	United States Army	Q9212	
 dvp_014_org_157	’72 Olympic team		
 dvp_014_org_158	Olympic delegation	Q26213387	
@@ -165,7 +165,7 @@ dvp_014_org_162	Olympic delegation	Q26213387
 dvp_014_org_163	’72 Olympic team		
 dvp_014_org_164	National Front for the Liberation of South Vietnam	Q174423	
 dvp_014_org_165	National Front for the Liberation of South Vietnam	Q174423	
-dvp_014_org_166	MAT		
+dvp_014_org_166	MAT	Q104892390	
 dvp_014_org_167	Allies of the Second World War	Q329888	
 dvp_014_org_168	Ford Motor Company	Q44294	
 dvp_014_org_169	Ford Motor Company	Q44294	
@@ -174,7 +174,7 @@ dvp_014_org_171	Dartmouth College	Q49116
 dvp_014_org_172	Reserve Officers' Training Corps	Q489983	
 dvp_014_org_173	United States Army	Q9212	
 dvp_014_org_174	United States Army	Q9212	
-dvp_014_org_175	Army Sports Branch		
+dvp_014_org_175	Army Sports Branch	Q104892396	
 dvp_014_org_176	United States Army	Q9212	
 dvp_014_org_177	United States Army	Q9212	
 dvp_014_org_178	United States Army	Q9212	
@@ -219,7 +219,7 @@ dvp_014_org_216	Reserve Officers' Training Corps	Q489983
 dvp_014_org_217	Reserve Officers' Training Corps	Q489983	
 dvp_014_org_218	Reserve Officers' Training Corps	Q489983	
 dvp_014_org_219	United States Army	Q9212	
-dvp_014_org_220	Marine Platoon Leaders Corps		
+dvp_014_org_220	Marine Platoon Leaders Corps	Q104904093	
 dvp_014_org_221	Reserve Officers' Training Corps	Q489983	
 dvp_014_org_222	Reserve Officers' Training Corps	Q489983	
 dvp_014_org_223	Dartmouth College	Q49116	
@@ -233,8 +233,8 @@ dvp_014_org_230	Dartmouth College	Q49116
 dvp_014_org_231	Dartmouth College	Q49116	
 dvp_014_org_232	Dartmouth Outing Club	Q5225718	
 dvp_014_org_233	Dartmouth Outing Club	Q5225718	
-dvp_014_org_234	Hopkins Center Film Society [sic; Dartmouth Film Society at Hopkins Center for the Arts]		
-dvp_014_org_235	MAT		
+dvp_014_org_234	Hopkins Center Film Society [sic; Dartmouth Film Society at Hopkins Center for the Arts]	Q104904098	
+dvp_014_org_235	MAT	Q104892390	
 dvp_014_org_236	United States Army	Q9212	
 dvp_014_org_237	Reserve Officers' Training Corps	Q489983	
 dvp_014_org_238	Reserve Officers' Training Corps	Q17063257	
@@ -263,7 +263,7 @@ dvp_014_org_260	Reserve Officers' Training Corps	Q489983
 dvp_014_org_261	Dartmouth College	Q49116	
 dvp_014_org_262	Dartmouth College	Q49116	
 dvp_014_org_263	Ivy League	Q49113	
-dvp_014_org_264	Ledyard Canoe Club		
+dvp_014_org_264	Ledyard Canoe Club	Q104904105	
 dvp_014_org_265	Dartmouth Outing Club	Q5225718	
 dvp_014_org_266	Dartmouth College	Q49116	
 dvp_014_org_267	Ivy League	Q49113	
@@ -276,9 +276,9 @@ dvp_014_org_273	Harvard University	Q13371
 dvp_014_org_274	Yale University	Q49112	
 dvp_014_org_275	Dartmouth College	Q49116	
 dvp_014_org_276	National Collegiate Athletic Association	Q271805	
-dvp_014_org_277	World University Games		
+dvp_014_org_277	World University Games	Q1189918	
 dvp_014_org_278	National Collegiate Athletic Association	Q271805	
-dvp_014_org_279	World University Games		
+dvp_014_org_279	World University Games	Q1189918	
 dvp_014_org_280	Dartmouth College	Q49116	
 dvp_014_org_281	National Collegiate Athletic Association	Q271805	
 dvp_014_org_282	United States Army	Q9212	
