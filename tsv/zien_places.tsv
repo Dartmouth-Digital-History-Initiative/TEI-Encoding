@@ -1,52 +1,52 @@
-id	placeName	coordinate location	QID	dvp_id
-dvp_018_place1	Thetford	"43.8352997,-72.2480633"	Q2348131	
-dvp_018_place2	Knoxville	"35.966666666667,-83.95"	Q185582	
-dvp_018_place3	Knoxville	"35.966666666667,-83.95"	Q185582	
-dvp_018_place4	Oak Ridge	"36.013333333333,-84.2625"	Q48809	
-dvp_018_place5	Tennessee	"36,-86"	Q1509	
-dvp_018_place6	Mississippi River		Q1497	
-dvp_018_place7	New York City	"40.67,-73.94"	Q60	
-dvp_018_place8	United States of America	"39.828175,-98.5795"	Q30	
-dvp_018_place9	United States of America	"39.828175,-98.5795"	Q30	
-dvp_018_place10	Milwaukee	"43.05,-87.95"	Q37836	
-dvp_018_place11	Tokyo	"35.689722222222,139.69222222222"	Q1490	
-dvp_018_place12	Japan	"35,136"	Q17	
-dvp_018_place13	United States of America	"39.828175,-98.5795"	Q30	
-dvp_018_place14	Wisconsin	"44.5,-89.5"	Q1537	
-dvp_018_place15	Hanover	"43.7,-72.28333333333333"	Q131908	
-dvp_018_place16	Russia	"66.41666666666667,94.25"	Q159	
-dvp_018_place17	United States of America	"39.828175,-98.5795"	Q30	
-dvp_018_place18	Hitchcock Hall	"43.70469,-72.29066"	Q100974511	
-dvp_018_place19	Hitchcock Hall	"43.70469,-72.29066"	Q100974511	
-dvp_018_place20	Dartmouth College	"43.703333333333,-72.288333333333"	Q49116	
-dvp_018_place21	Vietnam	"16,108"	Q881	
-dvp_018_place22	North Vietnam	"21.033333,105.85"	Q172640	
-dvp_018_place23	Vietnam	"16,108"	Q881	
-dvp_018_place24	Mississippi River		Q1497	
-dvp_018_place25	Texas	"31,-100"	Q1439	
-dvp_018_place26	Ledyard Bridge	"43.7036,-72.2997"	Q6512790	
-dvp_018_place27	The Green	"43.7033,-72.2886"	Q7738117	
-dvp_018_place28	Milwaukee	"43.05,-87.95"	Q37836	
-dvp_018_place29	Los Angeles	"34.05223,-118.24368"	Q65	
-dvp_018_place30	Watts	"33.941666666667,-118.24166666667"	Q1687279	
-dvp_018_place31	Pacific Coast Highway		Q68050615	
-dvp_018_place32	Disneyland	"33.809,-117.919"	Q181185	
-dvp_018_place33	South Africa	"-29,24"	Q258	
-dvp_018_place34	Canada	"56,-109"	Q16	
-dvp_018_place35	Boston	"42.358333333333,-71.0625"	Q100	
-dvp_018_place36	"Washington, D.C."	"38.895,-77.036666666667"	Q61	
-dvp_018_place37	Arlington National Cemetery	"38.876806,-77.070795"	Q216344	
-dvp_018_place38	New Hampshire	"44,-71.5"	Q759	
-dvp_018_place39	Minnesota	"46,-94"	Q1527	
-dvp_018_place40	Lebanon	"43.6422,-72.2517"	Q993523	
-dvp_018_place41	Canaan	"43.646666666667,-72.010277777778"	Q1031897	
-dvp_018_place42	Webster Hall	"40.7317,-73.9892"	Q7978928	
-dvp_018_place43	United States of America	"39.828175,-98.5795"	Q30	
-dvp_018_place44	Philadelphia	"39.952777777778,-75.163611111111"	Q1345	
-dvp_018_place45	Albany	"44.730555555556,-72.340555555556"	Q2255535	
-dvp_018_place46	Norwich	"43.730277777778,-72.303055555556"	Q1510465	
-dvp_018_place47	Interstate 91		Q94961	
-dvp_018_place48	Iraq	"33,43"	Q796	
-dvp_018_place49	Afghanistan	"34,66"	Q889	
-dvp_018_place50	Kuwait	"29.166667,47.6"	Q817	
-dvp_018_place51	Parkhurst Hall	"43.70404,-72.28995"	Q100952777	
+id	placeName	QID	dvp_id	coordinate location
+dvp_018_place1	Thetford	Q2348131		43.8352997,-72.2480633
+dvp_018_place2	Knoxville	Q185582		35.966666666667,-83.95
+dvp_018_place3	Knoxville	Q185582		35.966666666667,-83.95
+dvp_018_place4	Oak Ridge	Q48809		36.013333333333,-84.2625
+dvp_018_place5	Tennessee	Q1509		36,-86
+dvp_018_place6	Mississippi River	Q1497		47.2399,-95.2075
+dvp_018_place7	New York City	Q60		40.67,-73.94
+dvp_018_place8	United States of America	Q30		39.828175,-98.5795
+dvp_018_place9	United States of America	Q30		39.828175,-98.5795
+dvp_018_place10	Milwaukee	Q37836		43.05,-87.95
+dvp_018_place11	Tokyo	Q1490		35.689722222222,139.69222222222
+dvp_018_place12	Japan	Q17		35,136
+dvp_018_place13	United States of America	Q30		39.828175,-98.5795
+dvp_018_place14	Wisconsin	Q1537		44.5,-89.5
+dvp_018_place15	Hanover	Q131908		43.7,-72.28333333333333
+dvp_018_place16	Russia	Q159		66.41666666666667,94.25
+dvp_018_place17	United States of America	Q30		39.828175,-98.5795
+dvp_018_place18	Hitchcock Hall	Q100974511		43.70469,-72.29066
+dvp_018_place19	Hitchcock Hall	Q100974511		43.70469,-72.29066
+dvp_018_place20	Dartmouth College	Q49116		43.703333333333,-72.288333333333
+dvp_018_place21	Vietnam	Q881		16,108
+dvp_018_place22	North Vietnam	Q172640		21.033333,105.85
+dvp_018_place23	Vietnam	Q881		16,108
+dvp_018_place24	Mississippi River	Q1497		47.2399,-95.2075
+dvp_018_place25	Texas	Q1439		31,-100
+dvp_018_place26	Ledyard Bridge	Q6512790		43.7036,-72.2997
+dvp_018_place27	The Green	Q7738117		43.7033,-72.2886
+dvp_018_place28	Milwaukee	Q37836		43.05,-87.95
+dvp_018_place29	Los Angeles	Q65		34.05223,-118.24368
+dvp_018_place30	Watts	Q1687279		33.941666666667,-118.24166666667
+dvp_018_place31	Pacific Coast Highway	Q68050615		36.7544855,-121.7674875
+dvp_018_place32	Disneyland	Q181185		33.809,-117.919
+dvp_018_place33	South Africa	Q258		-29,24
+dvp_018_place34	Canada	Q16		56,-109
+dvp_018_place35	Boston	Q100		42.358333333333,-71.0625
+dvp_018_place36	Washington, D.C.	Q61		38.895,-77.036666666667
+dvp_018_place37	Arlington National Cemetery	Q216344		38.876806,-77.070795
+dvp_018_place38	New Hampshire	Q759		44,-71.5
+dvp_018_place39	Minnesota	Q1527		46,-94
+dvp_018_place40	Lebanon	Q993523		43.6422,-72.2517
+dvp_018_place41	Canaan	Q1031897		43.646666666667,-72.010277777778
+dvp_018_place42	Webster Hall	Q7978928		40.7317,-73.9892
+dvp_018_place43	United States of America	Q30		39.828175,-98.5795
+dvp_018_place44	Philadelphia	Q1345		39.952777777778,-75.163611111111
+dvp_018_place45	Albany	Q2255535		44.730555555556,-72.340555555556
+dvp_018_place46	Norwich	Q1510465		43.730277777778,-72.303055555556
+dvp_018_place47	Interstate 91	Q94961		43.1677608,-73.1624579
+dvp_018_place48	Iraq	Q796		33,43
+dvp_018_place49	Afghanistan	Q889		34,66
+dvp_018_place50	Kuwait	Q817		29.166667,47.6
+dvp_018_place51	Parkhurst Hall	Q100952777		43.70404,-72.28995
