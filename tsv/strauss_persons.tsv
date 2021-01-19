@@ -1,22 +1,22 @@
-id	persName	dvp_id	QID
-dvp_017_person_0	Hanna Solomon	dvp_0026	
-dvp_017_person_1	Dr.Dona [Anschel] Strauss	dvp_0027	
-dvp_017_person_2	[Edmond B.] “Ed” Strauss	dvp_0028	
-dvp_017_person_3	Ed	dvp_0028	
-dvp_017_person_4	Seymour Papert		Q335027
-dvp_017_person_5	Jean Piaget		Q123190
-dvp_017_person_6	Ed Strauss	dvp_0028	
-dvp_017_person_7	Ed	dvp_0028	
-dvp_017_person_8	Ed	dvp_0028	
-dvp_017_person_9	Ed	dvp_0028	
-dvp_017_person_10	Ed	dvp_0028	
-dvp_017_person_11	Marianne [Silverstein] Brown	dvp_0029	
-dvp_017_person_12	Marianne	dvp_0029	
-dvp_017_person_13	[Edward M.] “Ed”	dvp_0030	
-dvp_017_person_14	Paul [S.] Knapp	dvp_0031	
-dvp_017_person_15	Paul Knapp	dvp_0031	
-dvp_017_person_16	William Kunstler		Q957941
-dvp_017_person_17	Paul	dvp_0031	
-dvp_017_person_18	Ed	dvp_0028	
-dvp_017_person_19	Ed	dvp_0028	
-dvp_017_person_20	Ed	dvp_0028	
+id	persName	QID	dvp_id
+dvp_017_person_0	Hanna Solomon		dvp_0026
+dvp_017_person_1	Dr.Dona [Anschel] Strauss		dvp_0027
+dvp_017_person_2	[Edmond B.] “Ed” Strauss		dvp_0028
+dvp_017_person_3	Ed		dvp_0028
+dvp_017_person_4	Seymour Papert	Q335027	
+dvp_017_person_5	Jean Piaget	Q123190	
+dvp_017_person_6	Ed Strauss		dvp_0028
+dvp_017_person_7	Ed		dvp_0028
+dvp_017_person_8	Ed		dvp_0028
+dvp_017_person_9	Ed		dvp_0028
+dvp_017_person_10	Ed		dvp_0028
+dvp_017_person_11	Marianne [Silverstein] Brown		dvp_0029
+dvp_017_person_12	Marianne		dvp_0029
+dvp_017_person_13	[Edward M.] “Ed”		dvp_0030
+dvp_017_person_14	Paul [S.] Knapp		dvp_0031
+dvp_017_person_15	Paul Knapp		dvp_0031
+dvp_017_person_16	William Kunstler	Q957941	
+dvp_017_person_17	Paul		dvp_0031
+dvp_017_person_18	Ed		dvp_0028
+dvp_017_person_19	Ed		dvp_0028
+dvp_017_person_20	Ed		dvp_0028
