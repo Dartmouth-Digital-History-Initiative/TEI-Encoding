@@ -1,72 +1,72 @@
-id	placeName	coordinate location	QID
-dvp_016_place1	Jones Media Center	"43.7024689, -72.2885437"	dvp_0003
-dvp_016_place2	Baker Memorial Library	"43.705,-72.289166666667"	Q4849183
-dvp_016_place3	Hanover	"43.7,-72.28333333333333"	Q131908
-dvp_016_place4	Boston	"42.358333333333,-71.0625"	Q100
-dvp_016_place5	Italy	"42.5,12.5"	Q38
-dvp_016_place6	Genoa	"44.407186111111,8.9339833333333"	Q1449
-dvp_016_place7	Vienna	"48.20833,16.373064"	Q1741
-dvp_016_place8	"Washington, D.C."	"38.895,-77.036666666667"	Q61
-dvp_016_place9	London	"51.507222222222,-0.1275"	Q84
-dvp_016_place10	"Washington, D.C."	"38.895,-77.036666666667"	Q61
-dvp_016_place11	New Hampshire	"44,-71.5"	Q759
-dvp_016_place12	Greece	"38.5,23"	Q41
-dvp_016_place13	Europe	"46,7"	Q46
-dvp_016_place14	United States of America	"39.828175,-98.5795"	Q30
-dvp_016_place15	England	"53,-1"	Q21
-dvp_016_place16	United States of America	"39.828175,-98.5795"	Q30
-dvp_016_place17	Phillips Exeter Academy	"42.98,-70.951111111111"	Q1426464
-dvp_016_place18	Delaware	"39,-75.5"	Q1393
-dvp_016_place19	Vietnam	"16,108"	Q881
-dvp_016_place20	Haverford College	"40.0081,-75.3064"	Q13633585
-dvp_016_place21	Haverford	"40.013055555556,-75.294444444444"	Q5683748
-dvp_016_place22	Princeton University	"40.345277777778,-74.656111111111"	Q21578
-dvp_016_place23	Princeton University	"40.345277777778,-74.656111111111"	Q21578
-dvp_016_place24	Dartmouth College	"43.703333333333,-72.288333333333"	Q49116
-dvp_016_place25	Aruba	"12.51106253,-69.97422388"	Q21203
-dvp_016_place26	Liberia	"6.533333,-9.75"	Q1014
-dvp_016_place27	Philadelphia	"39.952777777778,-75.163611111111"	Q1345
-dvp_016_place28	Rock Creek		Q7354360
-dvp_016_place29	Rome	"41.893055555556,12.482777777778"	Q220
-dvp_016_place30	Mississippi	"33,-90"	Q1494
-dvp_016_place31	Lincoln Memorial	"38.889277777778,-77.050138888889"	Q213559
-dvp_016_place32	St. Andrew’s
-dvp_016_place33	Nuremberg	"49.452777777778,11.077777777778"	Q2090
-dvp_016_place34	Massachusetts	"42.3,-71.8"	Q771
-dvp_016_place35	University of Pennsylvania	"39.953885,-75.193048"	Q49117
-dvp_016_place36	Bryn Mawr	"40.0211,-75.3169"	Q995267
-dvp_016_place37	Canada	"56,-109"	Q16
-dvp_016_place38	Montreal	"45.508888888889,-73.561666666667"	Q340
-dvp_016_place39	Gulf of Naples	"40.735277777778,14.275277777778"	Q201385
-dvp_016_place40	Ischia	"40.75,13.95"	Q72134
-dvp_016_place41	Fort Bliss	"31.801666666667,-106.42444444444"	Q707110
-dvp_016_place42	Texas	"31,-100"	Q1439
-dvp_016_place43	Fort Dix	"40.019166666667,-74.522777777778"	Q1087169
-dvp_016_place44	Philadelphia	"39.952777777778,-75.163611111111"	Q1345
-dvp_016_place45	Fort Dix	"40.019166666667,-74.522777777778"	Q1087169
-dvp_016_place46	Georgia	"33,-83.5"	Q1428
-dvp_016_place47	Fort Gordon	"33.413333333333,-82.135277777778"	Q1368958
-dvp_016_place48	Germany	"51,10"	Q183
-dvp_016_place49	I Corps		Q1652977
-dvp_016_place50	II Corps		Q2465238
-dvp_016_place51	III Corps		Q1515252
-dvp_016_place52	IV Corps		Q2018792
-dvp_016_place53	Vietnam	"16,108"	Q881
-dvp_016_place54	Guadalcanal	"-9.6166666666667,160.18333333333"	Q192767
-dvp_016_place55	Cam Ranh International Airport	"11.998055555556,109.21944444444"	Q25226
-dvp_016_place56	Cam Ranh International Airport	"11.998055555556,109.21944444444"	Q25226
-dvp_016_place57	Dĩ An	"10.9038708,106.7678954"	Q1320364
-dvp_016_place58	III Corps		Q100984057
-dvp_016_place59	Ho Chi Minh City	"10.816666666667,106.63333333333"	Q1854
-dvp_016_place60	Parrot's Beak	"14.21356,120.64617"	Q42612858
-dvp_016_place61	Cam Ranh	"11.913611111111,109.13694444444"	Q33116
-dvp_016_place62	II Corps		Q2465238
-dvp_016_place63	Phan Rang–Tháp Chàm	"11.56432,108.98858"	Q19013
-dvp_016_place64	Athens	"37.979444444444,23.716111111111"	Q1524
-dvp_016_place65	Hawaii	"21.311388888889,-157.79638888889"	Q782
-dvp_016_place66	Lima Site 85	"20.445,103.71805556"	Q6487948
-dvp_016_place67	Lima Site 85	"20.445,103.71805556"	Q6487948
-dvp_016_place68	Japan	"35,136"	Q17
-dvp_016_place69	Alaska	"64,-150"	Q797
-dvp_016_place70	The Bahamas	"23.7,-76.4"	Q778
-dvp_016_place71	Chicago	"41.881944444444,-87.627777777778"	Q1297
+id	placeName	QID	dvp_id	coordinate location
+dvp_016_place1	Jones Media Center	dvp_0003		43.7024689, -72.2885437
+dvp_016_place2	Baker Memorial Library	Q4849183		43.705,-72.289166666667
+dvp_016_place3	Hanover	Q131908		43.7,-72.28333333333333
+dvp_016_place4	Boston	Q100		42.358333333333,-71.0625
+dvp_016_place5	Italy	Q38		42.5,12.5
+dvp_016_place6	Genoa	Q1449		44.407186111111,8.9339833333333
+dvp_016_place7	Vienna	Q1741		48.20833,16.373064
+dvp_016_place8	Washington, D.C.	Q61		38.895,-77.036666666667
+dvp_016_place9	London	Q84		51.507222222222,-0.1275
+dvp_016_place10	Washington, D.C.	Q61		38.895,-77.036666666667
+dvp_016_place11	New Hampshire	Q759		44,-71.5
+dvp_016_place12	Greece	Q41		38.5,23
+dvp_016_place13	Europe	Q46		46,7
+dvp_016_place14	United States of America	Q30		39.828175,-98.5795
+dvp_016_place15	England	Q21		53,-1
+dvp_016_place16	United States of America	Q30		39.828175,-98.5795
+dvp_016_place17	Phillips Exeter Academy	Q1426464		42.98,-70.951111111111
+dvp_016_place18	Delaware	Q1393		39,-75.5
+dvp_016_place19	Vietnam	Q881		16,108
+dvp_016_place20	Haverford College	Q13633585		40.0081,-75.3064
+dvp_016_place21	Haverford	Q5683748		40.013055555556,-75.294444444444
+dvp_016_place22	Princeton University	Q21578		40.345277777778,-74.656111111111
+dvp_016_place23	Princeton University	Q21578		40.345277777778,-74.656111111111
+dvp_016_place24	Dartmouth College	Q49116		43.703333333333,-72.288333333333
+dvp_016_place25	Aruba	Q21203		12.51106253,-69.97422388
+dvp_016_place26	Liberia	Q1014		6.533333,-9.75
+dvp_016_place27	Philadelphia	Q1345		39.952777777778,-75.163611111111
+dvp_016_place28	Rock Creek	Q7354360		
+dvp_016_place29	Rome	Q220		41.893055555556,12.482777777778
+dvp_016_place30	Mississippi	Q1494		33,-90
+dvp_016_place31	Lincoln Memorial	Q213559		38.889277777778,-77.050138888889
+dvp_016_place32	St. Andrew’s			
+dvp_016_place33	Nuremberg	Q2090		49.452777777778,11.077777777778
+dvp_016_place34	Massachusetts	Q771		42.3,-71.8
+dvp_016_place35	University of Pennsylvania	Q49117		39.953885,-75.193048
+dvp_016_place36	Bryn Mawr	Q995267		40.0211,-75.3169
+dvp_016_place37	Canada	Q16		56,-109
+dvp_016_place38	Montreal	Q340		45.508888888889,-73.561666666667
+dvp_016_place39	Gulf of Naples	Q201385		40.735277777778,14.275277777778
+dvp_016_place40	Ischia	Q72134		40.75,13.95
+dvp_016_place41	Fort Bliss	Q707110		31.801666666667,-106.42444444444
+dvp_016_place42	Texas	Q1439		31,-100
+dvp_016_place43	Fort Dix	Q1087169		40.019166666667,-74.522777777778
+dvp_016_place44	Philadelphia	Q1345		39.952777777778,-75.163611111111
+dvp_016_place45	Fort Dix	Q1087169		40.019166666667,-74.522777777778
+dvp_016_place46	Georgia	Q1428		33,-83.5
+dvp_016_place47	Fort Gordon	Q1368958		33.413333333333,-82.135277777778
+dvp_016_place48	Germany	Q183		51,10
+dvp_016_place49	I Corps	Q1652977		
+dvp_016_place50	II Corps	Q2465238		
+dvp_016_place51	III Corps	Q1515252		
+dvp_016_place52	IV Corps	Q2018792		
+dvp_016_place53	Vietnam	Q881		16,108
+dvp_016_place54	Guadalcanal	Q192767		-9.6166666666667,160.18333333333
+dvp_016_place55	Cam Ranh International Airport	Q25226		11.998055555556,109.21944444444
+dvp_016_place56	Cam Ranh International Airport	Q25226		11.998055555556,109.21944444444
+dvp_016_place57	Dĩ An	Q1320364		10.9038708,106.7678954
+dvp_016_place58	III Corps	Q100984057		
+dvp_016_place59	Ho Chi Minh City	Q1854		10.816666666667,106.63333333333
+dvp_016_place60	Parrot's Beak	Q42612858		14.21356,120.64617
+dvp_016_place61	Cam Ranh	Q33116		11.913611111111,109.13694444444
+dvp_016_place62	II Corps	Q2465238		
+dvp_016_place63	Phan Rang–Tháp Chàm	Q19013		11.56432,108.98858
+dvp_016_place64	Athens	Q1524		37.979444444444,23.716111111111
+dvp_016_place65	Hawaii	Q782		21.311388888889,-157.79638888889
+dvp_016_place66	Lima Site 85	Q6487948		20.445,103.71805556
+dvp_016_place67	Lima Site 85	Q6487948		20.445,103.71805556
+dvp_016_place68	Japan	Q17		35,136
+dvp_016_place69	Alaska	Q797		64,-150
+dvp_016_place70	The Bahamas	Q778		23.7,-76.4
+dvp_016_place71	Chicago	Q1297		41.881944444444,-87.627777777778
