@@ -1,140 +1,138 @@
-id	placeName
-dvp_027_place_0	White River Junction,Vermont
-dvp_027_place_1	Newark, New Jersey
-dvp_027_place_2	Newark
-dvp_027_place_3	Newark
-dvp_027_place_4	Newark
-dvp_027_place_5	Newark
-dvp_027_place_6	New York City
-dvp_027_place_7	New York
-dvp_027_place_8	Newark
-dvp_027_place_9	Newark
-dvp_027_place_10	Mason-Dixon line
-dvp_027_place_11	Newark
-dvp_027_place_12	Newark
-dvp_027_place_13	Newark
-dvp_027_place_14	Newark
-dvp_027_place_15	Newark
-dvp_027_place_16	Dartmouth
-dvp_027_place_17	Ashville, North Carolina
-dvp_027_place_18	Berlin Wall
-dvp_027_place_19	Berlin
-dvp_027_place_20	Vietnam
-dvp_027_place_21	Vietnam
-dvp_027_place_22	Indochina
-dvp_027_place_23	French Indochina
-dvp_027_place_24	Vietnam
-dvp_027_place_25	New York
-dvp_027_place_26	Lower East Side
-dvp_027_place_27	New York
-dvp_027_place_28	New York
-dvp_027_place_29	New York City
-dvp_027_place_30	New York
-dvp_027_place_31	New York
-dvp_027_place_32	Kentucky
-dvp_027_place_33	Appalachia
-dvp_027_place_34	Kentucky
-dvp_027_place_35	Washington [D.C.]
-dvp_027_place_36	Vietnam
-dvp_027_place_37	Canada
-dvp_027_place_38	Kentucky
-dvp_027_place_39	Tennessee
-dvp_027_place_40	Kentucky
-dvp_027_place_41	Tennessee
-dvp_027_place_42	Canada
-dvp_027_place_43	Vietnam
-dvp_027_place_44	Vietnam
-dvp_027_place_45	Fort Detrick [Maryland
-dvp_027_place_46	Boston
-dvp_027_place_47	Boston
-dvp_027_place_48	Arlington Street Church
-dvp_027_place_49	[Boston] Public Garden
-dvp_027_place_50	Public Garden
-dvp_027_place_51	Boston Common
-dvp_027_place_52	Beacon Hill
-dvp_027_place_53	Charles [Street]
-dvp_027_place_54	Ellis Island
-dvp_027_place_55	Boston
-dvp_027_place_56	Cornish, New Hampshire
-dvp_027_place_57	Burlington
-dvp_027_place_58	Freud
-dvp_027_place_59	Vermont
-dvp_027_place_60	New York
-dvp_027_place_61	Norway
-dvp_027_place_62	Auschwitz [concentration camp]
-dvp_027_place_63	Vermont
-dvp_027_place_64	Vietnam
-dvp_027_place_65	New York City
-dvp_027_place_66	New York
-dvp_027_place_67	Manhattan
-dvp_027_place_68	84th [Street] and East End [Avenue]
-dvp_027_place_69	Tompkins Square
-dvp_027_place_70	Bronx
-dvp_027_place_71	Riverside Church
-dvp_027_place_72	New Jersey
-dvp_027_place_73	Russia
-dvp_027_place_74	Vermont
-dvp_027_place_75	Mississippi
-dvp_027_place_76	Palo Alto
-dvp_027_place_77	Georgia
-dvp_027_place_78	Vermont
-dvp_027_place_79	New Hampshire
-dvp_027_place_80	Missouri
-dvp_027_place_81	Ohio
-dvp_027_place_82	California
-dvp_027_place_83	Vietnam
-dvp_027_place_84	Vietnam
-dvp_027_place_85	Vietnam
-dvp_027_place_86	Vietnam
-dvp_027_place_87	Vietnam
-dvp_027_place_88	Vietnam
-dvp_027_place_89	Cleveland
-dvp_027_place_90	Iraq
-dvp_027_place_91	Palo Alto
-dvp_027_place_92	Vermont
-dvp_027_place_93	San Francisco
-dvp_027_place_94	Seattle
-dvp_027_place_95	White River Junction
-dvp_027_place_96	Vermont
-dvp_027_place_97	Massachusetts
-dvp_027_place_98	Connecticut
-dvp_027_place_99	California
-dvp_027_place_100	Washington, D.C.
-dvp_027_place_101	White River Junction
-dvp_027_place_102	Sarajevo [Bosnia and Herzegovina]
-dvp_027_place_103	Hanover
-dvp_027_place_104	Sarajevo
-dvp_027_place_105	Indonesia
-dvp_027_place_106	Indonesia
-dvp_027_place_107	Normandy [region of France]
-dvp_027_place_108	Afghanistan
-dvp_027_place_109	Soviet Union
-dvp_027_place_110	Soviet Union
-dvp_027_place_111	Afghanistan
-dvp_027_place_112	Vietnam
-dvp_027_place_113	Somalia
-dvp_027_place_114	Vietnam
-dvp_027_place_115	Saigon
-dvp_027_place_116	Iowa
-dvp_027_place_117	Colorado
-dvp_027_place_118	Vietnam
-dvp_027_place_119	Vietnam
-dvp_027_place_120	Canada
-dvp_027_place_121	Vietnam
-dvp_027_place_122	Washington
-dvp_027_place_123	Korean [War Veterans] Memorial
-dvp_027_place_124	Vietnam Veteran War [sic; Vietnam Veterans Memorial
-dvp_027_place_125	Nurses Memorial [sic; the Vietnam Women’s Memorial]
-dvp_027_place_126	Wisconsin
-dvp_027_place_127	California
-dvp_027_place_128	Vietnam
-dvp_027_place_129	Vietnam
-dvp_027_place_130	Vietnam
-dvp_027_place_131	Vietnam
-dvp_027_place_132	Iraq
-dvp_027_place_133	Afghanistan
-dvp_027_place_134	Vietnam
-dvp_027_place_135	Vietnam
-dvp_027_place_136	Iraq
-dvp_027_place_137	Afghanistan
-dvp_027_place_138	United States
+id	placeName	QID	dvp_id	coordinate location
+dvp_027_place_0	White River Junction	Q1898562		43.6503,-72.3214
+dvp_027_place_1	Newark	Q25395		40.735277777778,-74.185
+dvp_027_place_2	Newark	Q25395		40.735277777778,-74.185
+dvp_027_place_3	Newark	Q25395		40.735277777778,-74.185
+dvp_027_place_4	Newark	Q25395		40.735277777778,-74.185
+dvp_027_place_5	Newark	Q25395		40.735277777778,-74.185
+dvp_027_place_6	New York City	Q60		40.67,-73.94
+dvp_027_place_7	New York City	Q60		40.67,-73.94
+dvp_027_place_8	Newark	Q25395		40.735277777778,-74.185
+dvp_027_place_9	Newark	Q25395		40.735277777778,-74.185
+dvp_027_place_10	Mason–Dixon Line	Q530472		39.716666666667,-75.783333333333
+dvp_027_place_11	Newark	Q25395		40.735277777778,-74.185
+dvp_027_place_12	Newark	Q25395		40.735277777778,-74.185
+dvp_027_place_13	Newark	Q25395		40.735277777778,-74.185
+dvp_027_place_14	Newark	Q25395		40.735277777778,-74.185
+dvp_027_place_15	Newark	Q25395		40.735277777778,-74.185
+dvp_027_place_16	Dartmouth College	Q49116		43.703333333333,-72.288333333333
+dvp_027_place_17	Asheville	Q648501		35.58,-82.555833333333
+dvp_027_place_18	Berlin Wall	Q5086		52.51611111111111,13.376888888888889
+dvp_027_place_19	Berlin	Q64		52.516666666667,13.383333333333
+dvp_027_place_20	Vietnam	Q881		16,108
+dvp_027_place_21	Vietnam	Q881		16,108
+dvp_027_place_22	Indochina	Q43467		16,102
+dvp_027_place_23	French Indochina	Q185682		21.033333333333,105.85
+dvp_027_place_24	Vietnam	Q881		16,108
+dvp_027_place_25	New York City	Q60		40.67,-73.94
+dvp_027_place_26	Lower East Side	Q1511813		40.717222,-73.989722
+dvp_027_place_27	New York City	Q60		40.67,-73.94
+dvp_027_place_28	New York City	Q60		40.67,-73.94
+dvp_027_place_29	New York City	Q60		40.67,-73.94
+dvp_027_place_30	New York City	Q60		40.67,-73.94
+dvp_027_place_31	New York City	Q60		40.67,-73.94
+dvp_027_place_32	Kentucky	Q6392158		-30.760833333333334,151.3894444
+dvp_027_place_33	Appalachia	Q2673740		38.8,-81
+dvp_027_place_34	Kentucky	Q6392158		-30.760833333333334,151.3894444
+dvp_027_place_35	Washington, D.C.	Q61		38.895,-77.036666666667
+dvp_027_place_36	Vietnam	Q881		16,108
+dvp_027_place_37	Canada	Q16		56,-109
+dvp_027_place_38	Kentucky	Q6392158		-30.760833333333334,151.3894444
+dvp_027_place_39	Tennessee	Q1509		36,-86
+dvp_027_place_40	Kentucky	Q6392158		-30.760833333333334,151.3894444
+dvp_027_place_41	Tennessee	Q1509		36,-86
+dvp_027_place_42	Canada	Q16		56,-109
+dvp_027_place_43	Vietnam	Q881		16,108
+dvp_027_place_44	Vietnam	Q881		16,108
+dvp_027_place_45	Fort Detrick	Q1438504		39.4356,-77.4272
+dvp_027_place_46	Boston	Q100		42.358333333333,-71.0625
+dvp_027_place_47	Boston	Q100		42.358333333333,-71.0625
+dvp_027_place_48	Arlington Street Church	Q4792403		42.333333,-71.041667
+dvp_027_place_49	Public Garden	Q894579		42.3541,-71.0699
+dvp_027_place_50	Public Garden	Q894579		42.3541,-71.0699
+dvp_027_place_51	Boston Common	Q49132		42.355,-71.065555555556
+dvp_027_place_52	Beacon Hill	Q812889		42.3583,-71.0661
+dvp_027_place_53	Charles Street	Q5082718		42.3001,-71.0628
+dvp_027_place_54	Ellis Island	Q202175		40.699166666667,-74.039444444444
+dvp_027_place_55	Boston	Q100		42.358333333333,-71.0625
+dvp_027_place_56	Cornish	Q2304594		43.464722222222,-72.369166666667
+dvp_027_place_57	Burlington	Q31058		44.4876246,-73.2314828
+dvp_027_place_59	Vermont	Q16551		44,-72.7
+dvp_027_place_60	New York City	Q60		40.67,-73.94
+dvp_027_place_61	Norway	Q20		65,11
+dvp_027_place_62	Auschwitz II-Birkenau concentration camp	Q663764		50.0371,19.1752
+dvp_027_place_63	Vermont	Q16551		44,-72.7
+dvp_027_place_64	Vietnam	Q881		16,108
+dvp_027_place_65	New York City	Q60		40.67,-73.94
+dvp_027_place_66	New York City	Q60		40.67,-73.94
+dvp_027_place_67	Manhattan	Q11299		40.728333333333,-73.994166666667
+dvp_027_place_69	Tompkins Square Park	Q1310674		40.726111111111,-73.981388888889
+dvp_027_place_70	The Bronx	Q18426		40.84676,-73.873207
+dvp_027_place_71	Riverside Church	Q1156586		40.81194444444444,-73.96305555555556
+dvp_027_place_72	New Jersey	Q1408		40,-74.5
+dvp_027_place_73	Russia	Q159		66.41666666666667,94.25
+dvp_027_place_74	Vermont	Q16551		44,-72.7
+dvp_027_place_75	Mississippi	Q1494		33,-90
+dvp_027_place_76	Palo Alto	Q47265		37.429166666667,-122.13805555556
+dvp_027_place_77	Georgia	Q1428		33,-83.5
+dvp_027_place_78	Vermont	Q16551		44,-72.7
+dvp_027_place_79	New Hampshire	Q759		44,-71.5
+dvp_027_place_80	Missouri	Q1581		38.5,-92.5
+dvp_027_place_81	Ohio	Q1397		40.5,-82.5
+dvp_027_place_82	California	Q99		37,-120
+dvp_027_place_83	Vietnam	Q881		16,108
+dvp_027_place_84	Vietnam	Q881		16,108
+dvp_027_place_85	Vietnam	Q881		16,108
+dvp_027_place_86	Vietnam	Q881		16,108
+dvp_027_place_87	Vietnam	Q881		16,108
+dvp_027_place_88	Vietnam	Q881		16,108
+dvp_027_place_89	Cleveland	Q37320		41.482222222222,-81.669722222222
+dvp_027_place_90	Iraq	Q796		33,43
+dvp_027_place_91	Palo Alto	Q47265		37.429166666667,-122.13805555556
+dvp_027_place_92	Vermont	Q16551		44,-72.7
+dvp_027_place_93	San Francisco	Q62		37.7775,-122.41638888888889
+dvp_027_place_94	Seattle	Q5083		47.60621,-122.33207
+dvp_027_place_95	White River Junction	Q1898562		43.6503,-72.3214
+dvp_027_place_96	Vermont	Q16551		44,-72.7
+dvp_027_place_97	Massachusetts	Q771		42.3,-71.8
+dvp_027_place_98	Connecticut	Q779		41.6,-72.7
+dvp_027_place_99	California	Q99		37,-120
+dvp_027_place_100	Washington, D.C.	Q61		38.895,-77.036666666667
+dvp_027_place_101	White River Junction	Q1898562		43.6503,-72.3214
+dvp_027_place_102	Sarajevo	Q11194		43.866666666667,18.416666666667
+dvp_027_place_103	Hanover	Q131908		43.7,-72.28333333333333
+dvp_027_place_104	Sarajevo	Q11194		43.866666666667,18.416666666667
+dvp_027_place_105	Indonesia	Q252		-2,118
+dvp_027_place_106	Indonesia	Q252		-2,118
+dvp_027_place_107	Normandy	Q15878		49.1223390972,-0.4366442916666
+dvp_027_place_108	Afghanistan	Q889		34,66
+dvp_027_place_109	Soviet Union	Q15180		65,90
+dvp_027_place_110	Soviet Union	Q15180		65,90
+dvp_027_place_111	Afghanistan	Q889		34,66
+dvp_027_place_112	Vietnam	Q881		16,108
+dvp_027_place_113	Somalia	Q1045		6,47
+dvp_027_place_114	Vietnam	Q881		16,108
+dvp_027_place_115	Ho Chi Minh City	Q1854		10.816666666667,106.63333333333
+dvp_027_place_116	Iowa	Q1546		42,-93
+dvp_027_place_117	Colorado	Q1261		39,-105.5
+dvp_027_place_118	Vietnam	Q881		16,108
+dvp_027_place_119	Vietnam	Q881		16,108
+dvp_027_place_120	Canada	Q16		56,-109
+dvp_027_place_121	Vietnam	Q881		16,108
+dvp_027_place_122	Washington, D.C.	Q61		38.895,-77.036666666667
+dvp_027_place_123	Korean War Veterans Memorial	Q708847		38.887778,-77.047222
+dvp_027_place_124	Vietnam Veterans Memorial	Q713628		38.891111111111,-77.047777777778
+dvp_027_place_125	Vietnam Women's Memorial	Q2910887		38.8904,-77.0469
+dvp_027_place_126	Wisconsin	Q1537		44.5,-89.5
+dvp_027_place_127	California	Q99		37,-120
+dvp_027_place_128	Vietnam	Q881		16,108
+dvp_027_place_129	Vietnam	Q881		16,108
+dvp_027_place_130	Vietnam	Q881		16,108
+dvp_027_place_131	Vietnam	Q881		16,108
+dvp_027_place_132	Iraq	Q796		33,43
+dvp_027_place_133	Afghanistan	Q889		34,66
+dvp_027_place_134	Vietnam	Q881		16,108
+dvp_027_place_135	Vietnam	Q881		16,108
+dvp_027_place_136	Iraq	Q796		33,43
+dvp_027_place_137	Afghanistan	Q889		34,66
+dvp_027_place_138	United States of America	Q30		39.828175,-98.5795
