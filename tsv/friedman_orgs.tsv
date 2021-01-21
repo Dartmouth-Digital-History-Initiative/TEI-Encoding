@@ -1,127 +1,120 @@
-id	orgName
-dvp_027_org_0	VA Hospital [White River Junction Veterans Affairs Medical Center
-dvp_027_org_1	U.S. News and World Report
-dvp_027_org_2	New York Times
-dvp_027_org_3	House on Un-American Activities [House Un-American Activities Committee - HUAC]
-dvp_027_org_4	Dartmouth
-dvp_027_org_5	Dartmouth
-dvp_027_org_6	Dartmouth
-dvp_027_org_7	Planned Parenthood
-dvp_027_org_8	Dartmouth
-dvp_027_org_9	Dartmouth
-dvp_027_org_10	Dartmouth Medical School [now the Audrey and Theodor Geisel School of Medicine at Dartmouth]
-dvp_027_org_11	Harvard [Medical School]
-dvp_027_org_12	Dartmouth
-dvp_027_org_13	University of North Carolina
-dvp_027_org_14	Duke [University]
-dvp_027_org_15	North Carolina University
-dvp_027_org_16	Dartmouth
-dvp_027_org_17	Stanford
-dvp_027_org_18	Dartmouth
-dvp_027_org_19	Dartmouth
-dvp_027_org_20	Dartmouth
-dvp_027_org_21	Dartmouth
-dvp_027_org_22	Dartmouth
-dvp_027_org_23	Dartmouth
-dvp_027_org_24	Dartmouth
-dvp_027_org_25	the military
-dvp_027_org_26	the military
-dvp_027_org_27	Association for the Aid of Crippled Children
-dvp_027_org_28	MASH [Mobile Army Surgical Hospital] unit 
-dvp_027_org_29	Association for the Aid of Crippled Children
-dvp_027_org_30	Einstein Medical School [sic; Albert Einstein College of Medicine]
-dvp_027_org_31	Yeshiva University
-dvp_027_org_32	[the Audrey and Theodor] Geisel [School of Medicine]
-dvp_027_org_33	Dartmouth
-dvp_027_org_34	Yeshiva Medical School
-dvp_027_org_35	Army
-dvp_027_org_36	Einstein
-dvp_027_org_37	the military
-dvp_027_org_38	Einstein
-dvp_027_org_39	Addiction Research Center
-dvp_027_org_40	HHS [U.S. Department of Health and Human Services]
-dvp_027_org_41	DoD [U.S. Department of Defense]
-dvp_027_org_42	Mass General [Massachusetts General Hospital, MGH]
-dvp_027_org_43	MGH
-dvp_027_org_44	Harvard
-dvp_027_org_45	MGH
-dvp_027_org_46	National Health Corps
-dvp_027_org_47	Dartmouth
-dvp_027_org_48	Dartmouth
-dvp_027_org_49	Dartmouth
-dvp_027_org_50	Dartmouth
-dvp_027_org_51	Navy ROTC [Naval Reserve Officer Training Corps]
-dvp_027_org_52	Dartmouth
-dvp_027_org_53	Navy
-dvp_027_org_54	Ivy League
-dvp_027_org_55	Navy
-dvp_027_org_56	Dartmouth
-dvp_027_org_57	Marine
-dvp_027_org_58	Dartmouth
-dvp_027_org_59	the military
-dvp_027_org_60	Mass General
-dvp_027_org_61	MGH
-dvp_027_org_62	Mass General
-dvp_027_org_63	Mass General
-dvp_027_org_64	Harvard
-dvp_027_org_65	Dartmouth
-dvp_027_org_66	MGH
-dvp_027_org_67	VA [Hospital
-dvp_027_org_68	the U.S. Department of Veterans Affairs
-dvp_027_org_69	Mt. Ascutney Hospital [and Health Center]
-dvp_027_org_70	VA
-dvp_027_org_71	Einstein
-dvp_027_org_72	VA
-dvp_027_org_73	Yale [School of Medicine]
-dvp_027_org_74	Dartmouth
-dvp_027_org_75	VVAW [Vietnam Veterans Against the War
-dvp_027_org_76	VA
-dvp_027_org_77	VA
-dvp_027_org_78	Columbia [University]
-dvp_027_org_79	[the U.S.] Congress
-dvp_027_org_80	Special Committee on PTSD
-dvp_027_org_81	VA
-dvp_027_org_82	VA
-dvp_027_org_83	VA
-dvp_027_org_84	VA
-dvp_027_org_85	National Center for PTSD
-dvp_027_org_86	[Class of 1968]
-dvp_027_org_87	Dartmouth
-dvp_027_org_88	Dartmouth
-dvp_027_org_89	Dartmouth
-dvp_027_org_90	Navy ROTC program
-dvp_027_org_91	Navy
-dvp_027_org_92	Dartmouth
-dvp_027_org_93	the military
-dvp_027_org_94	[Class of 1924]
-dvp_027_org_95	Dartmouth
-dvp_027_org_96	Classes of ’67
-dvp_027_org_97	 [Class of] '68
-dvp_027_org_98	Dartmouth
-dvp_027_org_99	Dartmouth
-dvp_027_org_100	Dartmouth
-dvp_027_org_101	National Center for PTSD
-dvp_027_org_102	VA
-dvp_027_org_103	BU [Boston University School of Medicine]
-dvp_027_org_104	Yale
-dvp_027_org_105	Princeton [University]
-dvp_027_org_106	Dartmouth
-dvp_027_org_107	the police
-dvp_027_org_108	World Veterans Federation
-dvp_027_org_109	World Veterans Federation
-dvp_027_org_110	U.N. [United Nations
-dvp_027_org_111	VA
-dvp_027_org_112	VA
-dvp_027_org_113	VA
-dvp_027_org_114	VA
-dvp_027_org_115	Army
-dvp_027_org_116	military service
-dvp_027_org_117	the military
-dvp_027_org_118	Army
-dvp_027_org_119	VA
-dvp_027_org_120	VA
-dvp_027_org_121	Congress
-dvp_027_org_122	The military
-dvp_027_org_123	VA
-dvp_027_org_124	National PTSD Brain Bank [sic; National Posttraumatic Stress Disorder Brain Bank]
-dvp_027_org_125	Congress
+id	orgName	QID	dvp_id
+dvp_027_org_0	White River Junction VA Medical Center	Q30279710	
+dvp_027_org_1	U.S. News & World Report	Q848629	
+dvp_027_org_2	The New York Times	Q9684	
+dvp_027_org_3	House Un-American Activities Committee	Q945795	
+dvp_027_org_4	Dartmouth College	Q49116	
+dvp_027_org_5	Dartmouth College	Q49116	
+dvp_027_org_6	Dartmouth College	Q49116	
+dvp_027_org_7	Planned Parenthood	Q2553262	
+dvp_027_org_8	Dartmouth College	Q49116	
+dvp_027_org_9	Dartmouth College	Q49116	
+dvp_027_org_10	Geisel School of Medicine	Q5530214	
+dvp_027_org_11	Harvard Medical School	Q49121	
+dvp_027_org_12	Dartmouth College	Q49116	
+dvp_027_org_13	University of North Carolina at Chapel Hill	Q192334	
+dvp_027_org_14	Duke University	Q168751	
+dvp_027_org_15	University of North Carolina at Chapel Hill	Q192334	
+dvp_027_org_16	Dartmouth College	Q49116	
+dvp_027_org_17	Stanford University	Q41506	
+dvp_027_org_18	Dartmouth College	Q49116	
+dvp_027_org_19	Dartmouth College	Q49116	
+dvp_027_org_20	Dartmouth College	Q49116	
+dvp_027_org_21	Dartmouth College	Q49116	
+dvp_027_org_22	Dartmouth College	Q49116	
+dvp_027_org_23	Dartmouth College	Q49116	
+dvp_027_org_24	Dartmouth College	Q49116	
+dvp_027_org_25	United States Armed Forces	Q11211	
+dvp_027_org_26	United States Armed Forces	Q11211	
+dvp_027_org_27	Foundation for Child Development	Q16993706	
+dvp_027_org_28	mobile army surgical hospital	Q1934870	
+dvp_027_org_29	Foundation for Child Development	Q16993706	
+dvp_027_org_30	Albert Einstein College of Medicine	Q2030894	
+dvp_027_org_31	Yeshiva University	Q1048851	
+dvp_027_org_32	Geisel School of Medicine	Q5530214	
+dvp_027_org_33	Dartmouth College	Q49116	
+dvp_027_org_34	Albert Einstein College of Medicine	Q2030894	
+dvp_027_org_35	United States Army	Q9212	
+dvp_027_org_36	Albert Einstein College of Medicine	Q2030894	
+dvp_027_org_37	The military	Q58123938	
+dvp_027_org_38	Albert Einstein College of Medicine	Q2030894	
+dvp_027_org_39	Addiction Research Center	Q4681111	
+dvp_027_org_40	United States Department of Health and Human Services	Q942326	
+dvp_027_org_41	United States Department of Defense	Q11209	
+dvp_027_org_42	Massachusetts General Hospital	Q126412	
+dvp_027_org_43	Massachusetts General Hospital	Q126412	
+dvp_027_org_44	Harvard University	Q13371	
+dvp_027_org_45	Massachusetts General Hospital	Q126412	
+dvp_027_org_46	National Health Service Corps	Q17091274	
+dvp_027_org_47	Dartmouth College	Q49116	
+dvp_027_org_48	Dartmouth College	Q49116	
+dvp_027_org_49	Dartmouth College	Q49116	
+dvp_027_org_50	Dartmouth College	Q49116	
+dvp_027_org_51	NAVY Reserves Officer Training Corps	Q101243251	
+dvp_027_org_52	Dartmouth College	Q49116	
+dvp_027_org_53	United States Navy	Q11220	
+dvp_027_org_54	Ivy League	Q49113	
+dvp_027_org_55	United States Navy	Q11220	
+dvp_027_org_56	Dartmouth College	Q49116	
+dvp_027_org_57	United States Marine Corps	Q11218	
+dvp_027_org_58	Dartmouth College	Q49116	
+dvp_027_org_59	United States Armed Forces	Q11211	
+dvp_027_org_60	Massachusetts General Hospital	Q126412	
+dvp_027_org_61	Massachusetts General Hospital	Q126412	
+dvp_027_org_62	Massachusetts General Hospital	Q126412	
+dvp_027_org_63	Massachusetts General Hospital	Q126412	
+dvp_027_org_64	Harvard University	Q13371	
+dvp_027_org_65	Dartmouth College	Q49116	
+dvp_027_org_66	Massachusetts General Hospital	Q126412	
+dvp_027_org_67	White River Junction VA Medical Center	Q30279710	
+dvp_027_org_68	United States Department of Veterans Affairs	Q592576	
+dvp_027_org_69	Mt. Ascutney Hospital and Health Center	Q6930244	
+dvp_027_org_70	United States Department of Veterans Affairs	Q592576	
+dvp_027_org_71	Albert Einstein College of Medicine	Q2030894	
+dvp_027_org_72	United States Department of Veterans Affairs	Q592576	
+dvp_027_org_73	Yale School of Medicine	Q1961140	
+dvp_027_org_74	Dartmouth College	Q49116	
+dvp_027_org_75	Vietnam Veterans Against the War	Q7928558	
+dvp_027_org_76	United States Department of Veterans Affairs	Q592576	
+dvp_027_org_77	United States Department of Veterans Affairs	Q592576	
+dvp_027_org_78	Columbia University	Q49088	
+dvp_027_org_79	United States Congress	Q11268	
+dvp_027_org_81	United States Department of Veterans Affairs	Q592576	
+dvp_027_org_82	United States Department of Veterans Affairs	Q592576	
+dvp_027_org_83	United States Department of Veterans Affairs	Q592576	
+dvp_027_org_84	United States Department of Veterans Affairs	Q592576	
+dvp_027_org_85	National Center for Post Traumatic Stress Disorder	Q30288135	
+dvp_027_org_87	Dartmouth College	Q49116	
+dvp_027_org_88	Dartmouth College	Q49116	
+dvp_027_org_89	Dartmouth College	Q49116	
+dvp_027_org_90	Navy Reserve Officers Training Corps	Q104892388	
+dvp_027_org_91	United States Navy	Q11220	
+dvp_027_org_92	Dartmouth College	Q49116	
+dvp_027_org_93	United States Armed Forces	Q11211	
+dvp_027_org_95	Dartmouth College	Q49116	
+dvp_027_org_98	Dartmouth College	Q49116	
+dvp_027_org_99	Dartmouth College	Q49116	
+dvp_027_org_100	Dartmouth College	Q49116	
+dvp_027_org_101	National Center for Post Traumatic Stress Disorder	Q30288135	
+dvp_027_org_102	United States Department of Veterans Affairs	Q592576	
+dvp_027_org_103	Boston University School of Medicine	Q4119659	
+dvp_027_org_104	Yale University	Q49112	
+dvp_027_org_105	Princeton University	Q21578	
+dvp_027_org_106	Dartmouth College	Q49116	
+dvp_027_org_108	World Veterans Federation	Q1765567	
+dvp_027_org_109	World Veterans Federation	Q1765567	
+dvp_027_org_110	United Nations	Q1065	
+dvp_027_org_111	United States Department of Veterans Affairs	Q592576	
+dvp_027_org_112	United States Department of Veterans Affairs	Q592576	
+dvp_027_org_113	United States Department of Veterans Affairs	Q592576	
+dvp_027_org_114	United States Department of Veterans Affairs	Q592576	
+dvp_027_org_115	United States Army	Q9212	
+dvp_027_org_117	The military	Q58123938	
+dvp_027_org_118	United States Army	Q9212	
+dvp_027_org_119	United States Department of Veterans Affairs	Q592576	
+dvp_027_org_120	United States Department of Veterans Affairs	Q592576	
+dvp_027_org_121	United States Congress	Q11268	
+dvp_027_org_122	The military	Q58123938	
+dvp_027_org_123	United States Department of Veterans Affairs	Q592576	
+dvp_027_org_124	National Posttraumatic Stress Disorder Brain Bank	Q104936054	
+dvp_027_org_125	United States Congress	Q11268	
