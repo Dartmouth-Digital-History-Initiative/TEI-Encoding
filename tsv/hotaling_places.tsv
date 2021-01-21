@@ -8,12 +8,12 @@ dvp_009_place_5	New Haven	Q49145		41.308333333333,-72.925
 dvp_009_place_6	New Haven	Q49145		41.308333333333,-72.925
 dvp_009_place_7	New Haven	Q49145		41.308333333333,-72.925
 dvp_009_place_8	Bethany	Q1131828		41.6144,-75.2886
-				41.61314,-75.28434
+				
 dvp_009_place_9	New Haven	Q49145		41.308333333333,-72.925
 dvp_009_place_10	New Haven	Q49145		41.308333333333,-72.925
 dvp_009_place_11	New Haven	Q49145		41.308333333333,-72.925
 dvp_009_place_12	North Haven	Q754769		41.381666666667,-72.858333333333
-				41.39093,-72.85954
+				
 dvp_009_place_13	Bethany	Q2572268		41.425555555556,-72.9925
 dvp_009_place_14	Pottstown	Q1185890		40.2497,-75.6403
 dvp_009_place_15	Pennsylvania	Q1400		41,-77.5
@@ -50,7 +50,7 @@ dvp_009_place_45	Parkhurst Hall	Q100952777		43.70404,-72.28995
 dvp_009_place_46	Vietnam	Q881		16,108
 dvp_009_place_47	Dartmouth College	Q49116		43.703333333333,-72.288333333333
 dvp_009_place_48	Vietnam	Q881		16,108
-dvp_009_place_49	Baker Library/Bloomberg Center	Q42377658		
+dvp_009_place_49	Baker Library/Bloomberg Center	Q42377658		42.215908,-71.72204
 dvp_009_place_50	The Green	Q7738117		43.7033,-72.2886
 dvp_009_place_51	Naval Air Station Pensacola	Q321162		30.354166666667,-87.305555555556
 dvp_009_place_52	Pensacola	Q486306		30.433333333333,-87.2
@@ -86,8 +86,8 @@ dvp_009_place_81	Nevada	Q1227		39,-117
 dvp_009_place_82	Vietnam	Q881		16,108
 dvp_009_place_83	Hawaii	Q782		21.3075,-157.8575
 dvp_009_place_84	Naval Air Station Cubi Point	Q3017866		14.79445,120.27136388889
-				6.1075,125.232778
-				14.79654,120.27669
+				
+				
 dvp_009_place_85	Philippines	Q928		12,123
 dvp_009_place_86	Yankees – East 153rd Street	Q5937334		40.825375,-73.930267
 dvp_009_place_87	Yankees – East 153rd Street	Q5937334		40.825375,-73.930267
@@ -168,7 +168,7 @@ dvp_009_place_161	Naval Base Ventura County	Q17082712		34.12027778,-119.1211111
 dvp_009_place_162	Malibu	Q387047		34.035,-118.695
 dvp_009_place_163	Point Mugu	Q7208095		34.085555555556,-119.06
 dvp_009_place_164	University of California, Santa Barbara	Q263064		34.41254,-119.84813
-dvp_009_place_165	naval air station	Q6981985		
+dvp_009_place_165	naval air station	Q321162		30.2115,-87.1820
 dvp_009_place_166	Vietnam	Q881		16,108
 dvp_009_place_167	Vietnam	Q881		16,108
 dvp_009_place_168	American			
@@ -192,7 +192,7 @@ dvp_009_place_185	American
 dvp_009_place_186	North Vietnam	Q172640		21.033333,105.85
 dvp_009_place_187	North Vietnam	Q172640		21.033333,105.85
 dvp_009_place_188	Vietnam	Q881		16,108
-dvp_009_place_189	Vietnam Military History Museum	Q1048785		
+dvp_009_place_189	Vietnam Military History Museum	Q1048785		21.03225,105.84025
 dvp_009_place_190	Hanoi	Q1858		21.0245,105.84117
 dvp_009_place_191	Hỏa Lò Prison	Q1359941		21.025277777778,105.84638888889
 dvp_009_place_192	United States of America	Q30		39.828175,-98.5795
