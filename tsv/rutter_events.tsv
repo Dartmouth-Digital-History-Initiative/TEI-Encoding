@@ -1,6 +1,6 @@
-id	name	QID	dvp_id	end time	point in time	start time
-dvp_016_event1	World War II	Q362		1945-09-02T00:00:00Z		1939-09-01T00:00:00Z
-dvp_016_event2	Vietnam War	Q8740		1975-04-30T00:00:00Z	1955-11-01T00:00:00Z	1965-11-01T00:00:00Z
-dvp_016_event3	March on Washington for Jobs and Freedom	Q1128871			1963-08-28T00:00:00Z	
-dvp_016_event4	March on Washington for Jobs and Freedom	Q1128871			1963-08-28T00:00:00Z	
+id	name	QID	dvp_id	start time	end time	point in time
+dvp_016_event1	World War II	Q362		1939-09-01T00:00:00Z	1945-09-02T00:00:00Z	
+dvp_016_event2	Vietnam War	Q8740		1965-11-01T00:00:00Z	1975-04-30T00:00:00Z	1955-11-01T00:00:00Z
+dvp_016_event3	March on Washington for Jobs and Freedom	Q1128871				1963-08-28T00:00:00Z
+dvp_016_event4	March on Washington for Jobs and Freedom	Q1128871				1963-08-28T00:00:00Z
 dvp_016_event5	Masters Tournament	Q280275				
