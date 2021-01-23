@@ -24,8 +24,8 @@ dvp_023_org_21	Navy Reserve Officers Training Corps	Q104892388
 dvp_023_org_22	Navy Reserve Officers Training Corps	Q104892388	
 dvp_023_org_23	Navy Reserve Officers Training Corps	Q104892388	
 dvp_023_org_24	Navy Reserve Officers Training Corps	Q104892388	
-dvp_023_org_25	FIP (F-I-P)		
-dvp_023_org_26	Flight Indoctrination Program		
+dvp_023_org_25	FIP (F-I-P)	Q16847634	
+dvp_023_org_26	Flight Indoctrination Program	Q16847634	
 dvp_023_org_27	United States Navy	Q11220	
 dvp_023_org_28	Reserve Officers' Training Corps	Q489983	
 dvp_023_org_29	United States of America	Q30	
@@ -41,25 +41,25 @@ dvp_023_org_38	University of Southern California	Q4614
 dvp_023_org_39	Dartmouth College	Q49116	
 dvp_023_org_40	Cornell University	Q49115	
 dvp_023_org_41	University of California, Los Angeles	Q174710	
-dvp_023_org_42	alumni association in Omaha		
+dvp_023_org_42	alumni association in Omaha	Q105045824	
 dvp_023_org_43	Dartmouth College	Q49116	
 dvp_023_org_44	Dartmouth College	Q49116	
 dvp_023_org_45	Dartmouth College	Q49116	
-dvp_023_org_46	Green Key [Society]		
+dvp_023_org_46	Green Key [Society]		dvp_0187
 dvp_023_org_47	Sigma Phi Epsilon	Q7512359	
 dvp_023_org_48	Dartmouth College Marching Band	Q5225685	
 dvp_023_org_49	WDCR	Q7948320	
 dvp_023_org_50	Dartmouth College	Q49116	
 dvp_023_org_51	Sigma Phi Epsilon	Q7512359	
 dvp_023_org_52	Reserve Officers' Training Corps	Q489983	
-dvp_023_org_53	Interfraternity Council [at Dartmouth (IFC)]		
-dvp_023_org_54	Palaeopitus [Senior Society]		
-dvp_023_org_55	Interfraternity Council		
+dvp_023_org_53	Interfraternity Council [at Dartmouth (IFC)]		dvp_0188
+dvp_023_org_54	Palaeopitus [Senior Society]		dvp_0182
+dvp_023_org_55	Interfraternity Council		dvp_0188
 dvp_023_org_56	Dartmouth College	Q49116	
 dvp_023_org_57	Dartmouth College	Q49116	
 dvp_023_org_58	Dartmouth College	Q49116	
 dvp_023_org_59	Dartmouth College	Q49116	
-dvp_023_org_60	Interfraternity Council		
+dvp_023_org_60	Interfraternity Council		dvp_0188
 dvp_023_org_61	Dartmouth College	Q49116	
 dvp_023_org_62	Dartmouth College	Q49116	
 dvp_023_org_63	Reserve Officers' Training Corps	Q489983	
@@ -99,8 +99,8 @@ dvp_023_org_96	Dartmouth College	Q49116
 dvp_023_org_97	United States Navy	Q11220	
 dvp_023_org_98	Dartmouth College	Q49116	
 dvp_023_org_99	Dartmouth College	Q49116	
-dvp_023_org_100	Palaeopitus		
-dvp_023_org_101	Palaeopitus		
+dvp_023_org_100	Palaeopitus		dvp_0182
+dvp_023_org_101	Palaeopitus		dvp_0182
 dvp_023_org_102	Pensacola		
 dvp_023_org_103	Dartmouth College	Q49116	
 dvp_023_org_104	Dartmouth College	Q49116	
@@ -113,8 +113,8 @@ dvp_023_org_110	Smith College	Q49204
 dvp_023_org_111	United States Navy	Q11220	
 dvp_023_org_112	United States Navy	Q11220	
 dvp_023_org_113	Attack Squadron 42	Q4817922	
-dvp_023_org_114	RAG		
-dvp_023_org_115	Replacement Air Group		
+dvp_023_org_114	RAG	Q5458416	
+dvp_023_org_115	Replacement Air Group	Q5458416	
 dvp_023_org_116	Dartmouth Vietnam Project	Q104889683	
 dvp_023_org_117	United States Navy	Q11220	
 dvp_023_org_118	United States of America	Q30	
