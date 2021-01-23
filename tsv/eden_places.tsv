@@ -1,5 +1,5 @@
 id	placeName	QID	dvp_id	coordinate location
-dvp_023_place_0	Webster Hall			
+dvp_023_place_0	Webster Hall	Q105045865		43.704469, 72.288169
 dvp_023_place_1	Dartmouth College	Q49116		43.703333333333,-72.288333333333
 dvp_023_place_2	Iowa City	Q487977		41.655833333333,-91.525
 dvp_023_place_3	Iowa	Q1546		42,-93
@@ -64,7 +64,7 @@ dvp_023_place_61	Quantico	Q204315		38.521871,-77.289757
 dvp_023_place_62	Caribbean Sea	Q1247		15,-75
 dvp_023_place_63	Collis Center for Student Involvement	Q100725367		43.70277,-72.28991
 dvp_023_place_64	Collis Center for Student Involvement	Q100725367		43.70277,-72.28991
-dvp_023_place_65	Leverone Field House			
+dvp_023_place_65	Leverone Field House	Q105046139		43.70091,-72.28271
 dvp_023_place_66	Korea	Q18097		38.316666666667,127.23333333333
 dvp_023_place_67	Korea	Q18097		38.316666666667,127.23333333333
 dvp_023_place_68	Vietnam	Q881		16,108
@@ -115,31 +115,27 @@ dvp_023_place_112	Philippines	Q928		12,123
 dvp_023_place_113	Virginia	Q1370		37.5,-79
 dvp_023_place_114	Hawaii	Q782		21.3075,-157.8575
 dvp_023_place_115	Hawaii	Q782		21.3075,-157.8575
-dvp_023_place_116	Clark Air Force Base			
+dvp_023_place_116	Clark Air Force Base	Q1095676		15.185830555555556, 120.56028055555555
 dvp_023_place_117	Philippines	Q928		12,123
 dvp_023_place_118	Virginia	Q1370		37.5,-79
 dvp_023_place_119	Philippines	Q928		12,123
-dvp_023_place_120	Clark Air Force Base			
+dvp_023_place_120	Clark Air Force Base	Q1095676		15.185830555555556, 120.56028055555555
 dvp_023_place_121	Naval Base Subic Bay	Q1458014		14.80777778,120.27805556
 dvp_023_place_122	Subic Bay	Q1542528		14.8,120.23333333333
-				14.8083,120.292
 dvp_023_place_123	Subic Bay	Q1542528		14.8,120.23333333333
-				14.8083,120.292
-dvp_023_place_124	Clark Air Force Base			
+dvp_023_place_124	Clark Air Force Base	Q1095676		15.185830555555556, 120.56028055555555
 dvp_023_place_125	Bangor	Q327012		44.803055555556,-68.7675
 dvp_023_place_126	Philippines	Q928		12,123
 dvp_023_place_127	Philippines	Q928		12,123
 dvp_023_place_128	Vietnam	Q881		16,108
 dvp_023_place_129	Gulf of Tonkin	Q212428		19.75,107.75
 dvp_023_place_130	Subic Bay	Q1542528		14.8,120.23333333333
-				14.8083,120.292
 dvp_023_place_131	Hong Kong	Q8646		22.278333333333,114.15861111111
 dvp_023_place_132	Philippines	Q928		12,123
 dvp_023_place_133	Olongapo	Q56759		14.833333333333,120.28333333333
 dvp_023_place_134	Olongapo	Q56759		14.833333333333,120.28333333333
 dvp_023_place_135	Michigan	Q1166		44.34,-85.58
 dvp_023_place_136	Livonia	Q853552		42.401111111111,-83.371111111111
-				42.39722222,-83.37361111
 dvp_023_place_137	North Vietnam	Q172640		21.033333,105.85
 dvp_023_place_138	Vietnam	Q881		16,108
 dvp_023_place_139	North Vietnam	Q172640		21.033333,105.85
