@@ -1,2 +1,2 @@
-id	name
-dvp_028_event_0	Second World War
+id	name	QID	dvp_id	start time	end time	point in time
+dvp_028_event_0	World War II	Q362		1939-09-01T00:00:00Z	1945-09-02T00:00:00Z	
