@@ -19,7 +19,7 @@ dvp_007_place_16	Middle Massachusetts Hall	Q104898322		43.7041,-72.28973
 dvp_007_place_17	Newport	Q54264		41.488002,-71.312622
 dvp_007_place_18	Dartmouth College	Q49116		43.703333333333,-72.288333333333
 dvp_007_place_19	Baker Memorial Library	Q4849183		43.705,-72.289166666667
-dvp_007_place_20	Map Room [now the Evans Map Room]		dvp_0167	
+dvp_007_place_20	Map Room [now the Evans Map Room]		dvp_0167  	43.705,-72.289166666667
 dvp_007_place_21	Cuba	Q241		22,-79.5
 dvp_007_place_22	Vietnam	Q881		16,108
 dvp_007_place_23	Newport	Q54264		41.488002,-71.312622
@@ -231,7 +231,7 @@ dvp_007_place_228	Long Beach	Q16739		33.768321,-118.1956168
 dvp_007_place_229	Long Beach	Q16739		33.768321,-118.1956168
 dvp_007_place_230	Long Beach	Q16739		33.768321,-118.1956168
 dvp_007_place_231	Long Beach	Q16739		33.768321,-118.1956168
-dvp_007_place_232	WESTPAC			
+dvp_007_place_232	WESTPAC
 dvp_007_place_233	Dartmouth College	Q49116		43.703333333333,-72.288333333333
 dvp_007_place_234	Dartmouth College	Q49116		43.703333333333,-72.288333333333
 dvp_007_place_235	Australia	Q3960		-26,141
@@ -260,4 +260,4 @@ dvp_007_place_257	United States of America	Q30		39.828175,-98.5795
 dvp_007_place_258	Hong Kong	Q8646		22.278333333333,114.15861111111
 dvp_007_place_259	Hong Kong	Q8646		22.278333333333,114.15861111111
 dvp_007_place_260	Mediterranean Sea	Q4918		38,17
-dvp_007_place_261	Pacific Ocean			
+dvp_007_place_261	Pacific Ocean
