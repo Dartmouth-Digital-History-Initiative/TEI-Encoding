@@ -56,8 +56,8 @@ dvp_032_place_53	University of Salamanca	Q308963		40.9616,-5.6676
 dvp_032_place_54	Spain	Q29		40.2,-3.5
 dvp_032_place_55	Spain	Q29		40.2,-3.5
 dvp_032_place_56	Spain	Q29		40.2,-3.5
-dvp_032_place_57	Saigon	Q105076255		
-dvp_032_place_58	Saigon	Q105076255		
+dvp_032_place_57	Saigon	Q105076255		10.816667,106.633333
+dvp_032_place_58	Saigon	Q105076255		10.816667,106.633333
 dvp_032_place_59	Spain	Q29		40.2,-3.5
 dvp_032_place_60	Spain	Q29		40.2,-3.5
 dvp_032_place_61	Spain	Q29		40.2,-3.5
@@ -91,7 +91,7 @@ dvp_032_place_88	Vietnam	Q881		16,108
 dvp_032_place_89	Vietnam	Q881		16,108
 dvp_032_place_90	Vietnam	Q881		16,108
 dvp_032_place_91	Vietnam	Q881		16,108
-dvp_032_place_92	Saigon	Q105076255		
+dvp_032_place_92	Saigon	Q105076255		10.816667,106.633333
 dvp_032_place_93	Vietnam	Q881		16,108
 dvp_032_place_94	Vietnam	Q881		16,108
 dvp_032_place_95	Washington, D.C.	Q61		38.895,-77.036666666667
@@ -106,9 +106,9 @@ dvp_032_place_103	Korea	Q18097		38.316666666667,127.23333333333
 dvp_032_place_104	Vietnam	Q881		16,108
 dvp_032_place_105	Vietnam	Q881		16,108
 dvp_032_place_106	Vietnam	Q881		16,108
-dvp_032_place_107	Saigon	Q105076255		
+dvp_032_place_107	Saigon	Q105076255		10.816667,106.633333
 dvp_032_place_108	Cam Ranh Bay	Q11072051		11.998153,109.219372
-dvp_032_place_109	Saigon	Q105076255		
+dvp_032_place_109	Saigon	Q105076255		10.816667,106.633333
 dvp_032_place_110	United States of America	Q30		39.828175,-98.5795
 dvp_032_place_111	Washington, D.C.	Q61		38.895,-77.036666666667
 dvp_032_place_112	Vietnam	Q881		16,108
@@ -121,7 +121,7 @@ dvp_032_place_118	United States of America	Q30		39.828175,-98.5795
 dvp_032_place_119	United States of America	Q30		39.828175,-98.5795
 dvp_032_place_120	Vietnam	Q881		16,108
 dvp_032_place_121	Vietnam	Q881		16,108
-dvp_032_place_122	Saigon	Q105076255		
+dvp_032_place_122	Saigon	Q105076255		10.816667,106.633333
 dvp_032_place_123	An Khê	Q10733203		16.05222222,108.1855556
 dvp_032_place_124	Central Highlands	Q1140648		13.75,108.25
 dvp_032_place_125	Bồng Sơn	Q2276503		14.43333333,109.01666667
@@ -141,7 +141,7 @@ dvp_032_place_138	Buôn Ma Thuột	Q33469		12.666666666667,108.05
 dvp_032_place_139	Da Lat	Q25281		11.941666666667,108.43833333333
 dvp_032_place_140	Nha Trang	Q19491		12.249527,109.190764
 dvp_032_place_141	Đức Phổ	Q5311205		14.81,108.96
-dvp_032_place_142	II Corps	Q2465238		
+dvp_032_place_142	II Corps	Q2465238		13.971519,108.014673
 dvp_032_place_143	Qui Nhơn	Q36081		13.776480555555555,109.22366944444444
 dvp_032_place_144	Da Nang	Q25282		16.031944444444445,108.22055555555555
 dvp_032_place_145	Đức Phổ	Q5311205		14.81,108.96
@@ -225,7 +225,7 @@ dvp_032_place_222	Ho Chi Minh City	Q1854		10.816666666667,106.63333333333
 dvp_032_place_223	Phnom Penh	Q1850		11.569583333333,104.92102777778
 dvp_032_place_224	Angkor Wat	Q43473		13.4125,103.86666666667
 dvp_032_place_225	Vietnam	Q881		16,108
-dvp_032_place_226	Saigon	Q105076255		
+dvp_032_place_226	Saigon	Q105076255		10.816667,106.633333
 dvp_032_place_227	Ho Chi Minh City	Q1854		10.816666666667,106.63333333333
 dvp_032_place_228	Rex Hotel	Q7319215		10.77583333,106.7015
 dvp_032_place_229	England	Q21		53,-1
