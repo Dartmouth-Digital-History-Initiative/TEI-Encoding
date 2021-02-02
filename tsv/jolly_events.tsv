@@ -1,44 +1,44 @@
-id	name
-dvp_010_event_0	the Cold War
-dvp_010_event_1	Sputnik
-dvp_010_event_2	World War II
-dvp_010_event_3	Korean War
-dvp_010_event_4	World War I
-dvp_010_event_5	World War I
-dvp_010_event_6	Vietnam War
-dvp_010_event_7	Korean War
-dvp_010_event_8	the Korean War
-dvp_010_event_9	Korean War
-dvp_010_event_10	Korean War
-dvp_010_event_11	World War II
-dvp_010_event_12	Cold War
-dvp_010_event_13	Cuban Missile Crisis
-dvp_010_event_14	Vietnam
-dvp_010_event_15	American Civil War
-dvp_010_event_16	World War II
-dvp_010_event_17	World War II
-dvp_010_event_18	World War II
-dvp_010_event_19	World War II
-dvp_010_event_20	Haight-Ashbury. [Transcriber’s note: He refers to the hippie counterculture movement there in the ‘60s, and, in 
-dvp_010_event_21	the Summer of Love
-dvp_010_event_22	Haight-Ashbury
-dvp_010_event_23	Vietnam War
-dvp_010_event_24	Vietnam War
-dvp_010_event_25	World War II
-dvp_010_event_26	the Vietnam War
-dvp_010_event_27	World War II
-dvp_010_event_28	[the] Tet [Offensive]
-dvp_010_event_29	Tet
-dvp_010_event_30	Tet
-dvp_010_event_31	Tet
-dvp_010_event_32	Cuban crisis
-dvp_010_event_33	Cuban invasion
-dvp_010_event_34	Tet
-dvp_010_event_35	World War II
-dvp_010_event_36	World War I
-dvp_010_event_37	Vietnam War
-dvp_010_event_38	Tet
-dvp_010_event_39	Tet
-dvp_010_event_40	Tet Offensive
-dvp_010_event_41	Normandy invasion
-dvp_010_event_42	Vietnam War
+id	name	QID	dvp_id	start time	end time	point in time
+dvp_010_event_0	Cold War	Q8683		1947-01-01T00:00:00Z	1991-01-01T00:00:00Z	
+dvp_010_event_1	Tyazhely Sputnik	Q40610				1961-02-04T00:00:00Z
+dvp_010_event_2	World War II	Q362		1939-09-01T00:00:00Z	1945-09-02T00:00:00Z	
+dvp_010_event_3	Korean War	Q8663		1950-06-25T00:00:00Z	1953-07-27T00:00:00Z	
+dvp_010_event_4	World War I	Q361		1914-07-28T00:00:00Z	1918-11-11T00:00:00Z	
+dvp_010_event_5	World War I	Q361		1914-07-28T00:00:00Z	1918-11-11T00:00:00Z	
+dvp_010_event_6	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_010_event_7	Korean War	Q8663		1950-06-25T00:00:00Z	1953-07-27T00:00:00Z	
+dvp_010_event_8	Korean War	Q8663		1950-06-25T00:00:00Z	1953-07-27T00:00:00Z	
+dvp_010_event_9	Korean War	Q8663		1950-06-25T00:00:00Z	1953-07-27T00:00:00Z	
+dvp_010_event_10	Korean War	Q8663		1950-06-25T00:00:00Z	1953-07-27T00:00:00Z	
+dvp_010_event_11	World War II	Q362		1939-09-01T00:00:00Z	1945-09-02T00:00:00Z	
+dvp_010_event_12	Cold War	Q8683		1947-01-01T00:00:00Z	1991-01-01T00:00:00Z	
+dvp_010_event_13	Cuban Missile Crisis	Q128160		1962-10-14T00:00:00Z	1962-10-28T00:00:00Z	
+dvp_010_event_14	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_010_event_15	American Civil War	Q8676		1861-04-11T00:00:00Z	1865-05-10T00:00:00Z	
+dvp_010_event_16	World War II	Q362		1939-09-01T00:00:00Z	1945-09-02T00:00:00Z	
+dvp_010_event_17	World War II	Q362		1939-09-01T00:00:00Z	1945-09-02T00:00:00Z	
+dvp_010_event_18	World War II	Q362		1939-09-01T00:00:00Z	1945-09-02T00:00:00Z	
+dvp_010_event_19	World War II	Q362		1939-09-01T00:00:00Z	1945-09-02T00:00:00Z	
+dvp_010_event_20	Haight-Ashbury. [Transcriber’s note: He refers to the hippie counterculture movement there in the ‘60s, and, in					
+dvp_010_event_21	Summer of Love	Q932701		1967-06-01T00:00:00Z	1967-10-01T00:00:00Z	
+dvp_010_event_22	Haight-Ashbury					
+dvp_010_event_23	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_010_event_24	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_010_event_25	World War II	Q362		1939-09-01T00:00:00Z	1945-09-02T00:00:00Z	
+dvp_010_event_26	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_010_event_27	World War II	Q362		1939-09-01T00:00:00Z	1945-09-02T00:00:00Z	
+dvp_010_event_28	Tet Offensive	Q82542		1968-01-30T00:00:00Z	1968-09-23T00:00:00Z	
+dvp_010_event_29	Tet Offensive	Q82542		1968-01-30T00:00:00Z	1968-09-23T00:00:00Z	
+dvp_010_event_30	Tet Offensive	Q82542		1968-01-30T00:00:00Z	1968-09-23T00:00:00Z	
+dvp_010_event_31	Tet Offensive	Q82542		1968-01-30T00:00:00Z	1968-09-23T00:00:00Z	
+dvp_010_event_32	Cuban Missile Crisis	Q128160		1962-10-14T00:00:00Z	1962-10-28T00:00:00Z	
+dvp_010_event_33	Bay of Pigs invasion	Q191721		1961-04-17T00:00:00Z	1961-04-19T00:00:00Z	
+dvp_010_event_34	Tet Offensive	Q82542		1968-01-30T00:00:00Z	1968-09-23T00:00:00Z	
+dvp_010_event_35	World War II	Q362		1939-09-01T00:00:00Z	1945-09-02T00:00:00Z	
+dvp_010_event_36	World War I	Q361		1914-07-28T00:00:00Z	1918-11-11T00:00:00Z	
+dvp_010_event_37	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_010_event_38	Tet Offensive	Q82542		1968-01-30T00:00:00Z	1968-09-23T00:00:00Z	
+dvp_010_event_39	Tet Offensive	Q82542		1968-01-30T00:00:00Z	1968-09-23T00:00:00Z	
+dvp_010_event_40	Tet Offensive	Q82542		1968-01-30T00:00:00Z	1968-09-23T00:00:00Z	
+dvp_010_event_41	Invasion of Normandy	Q16471		1944-06-06T00:00:00Z	1944-07-01T00:00:00Z	
+dvp_010_event_42	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
