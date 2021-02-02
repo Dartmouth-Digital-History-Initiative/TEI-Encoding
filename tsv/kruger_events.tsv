@@ -1,23 +1,23 @@
-id	name
-dvp_032_event_0	Great Depression
-dvp_032_event_1	Second World War
-dvp_032_event_2	Vietnam
-dvp_032_event_3	Vietnam
-dvp_032_event_4	First World War
-dvp_032_event_5	Vietnam
-dvp_032_event_6	Vietnam War
-dvp_032_event_7	Tet [Offensive]
-dvp_032_event_8	Vietnam War
-dvp_032_event_9	Tet
-dvp_032_event_10	World War II
-dvp_032_event_11	Korean War
-dvp_032_event_12	Tet Offensive
-dvp_032_event_13	Tet
-dvp_032_event_14	World War II
-dvp_032_event_15	World War II
-dvp_032_event_16	World War II
-dvp_032_event_17	9/11
-dvp_032_event_18	Tet
-dvp_032_event_19	Kent State [massacre
-dvp_032_event_20	Tet
-dvp_032_event_21	Vietnam
+id	name	QID	dvp_id	start time	end time	point in time
+dvp_032_event_0	Great Depression in the United States	Q696482		1929-10-24T00:00:00Z	1939-01-01T00:00:00Z	
+dvp_032_event_1	World War II	Q362		1939-09-01T00:00:00Z	1945-09-02T00:00:00Z	
+dvp_032_event_2	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_032_event_3	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_032_event_4	World War I	Q361		1914-07-28T00:00:00Z	1918-11-11T00:00:00Z	
+dvp_032_event_5	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_032_event_6	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_032_event_7	Tet Offensive	Q82542		1968-01-30T00:00:00Z	1968-09-23T00:00:00Z	
+dvp_032_event_8	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_032_event_9	Tet Offensive	Q82542		1968-01-30T00:00:00Z	1968-09-23T00:00:00Z	
+dvp_032_event_10	World War II	Q362		1939-09-01T00:00:00Z	1945-09-02T00:00:00Z	
+dvp_032_event_11	Korean War	Q8663		1950-06-25T00:00:00Z	1953-07-27T00:00:00Z	
+dvp_032_event_12	Tet Offensive	Q82542		1968-01-30T00:00:00Z	1968-09-23T00:00:00Z	
+dvp_032_event_13	Tet Offensive	Q82542		1968-01-30T00:00:00Z	1968-09-23T00:00:00Z	
+dvp_032_event_14	World War II	Q362		1939-09-01T00:00:00Z	1945-09-02T00:00:00Z	
+dvp_032_event_15	World War II	Q362		1939-09-01T00:00:00Z	1945-09-02T00:00:00Z	
+dvp_032_event_16	World War II	Q362		1939-09-01T00:00:00Z	1945-09-02T00:00:00Z	
+dvp_032_event_17	September 11 attacks	Q10806				2001-09-11T00:00:00Z
+dvp_032_event_18	Tet Offensive	Q82542		1968-01-30T00:00:00Z	1968-09-23T00:00:00Z	
+dvp_032_event_19	Kent State shootings	Q482635				1970-05-04T00:00:00Z
+dvp_032_event_20	Tet Offensive	Q82542		1968-01-30T00:00:00Z	1968-09-23T00:00:00Z	
+dvp_032_event_21	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
