@@ -1,134 +1,135 @@
-id	placeName
-dvp_025_place_0	Rauner Special Collections Library
-dvp_025_place_1	Hanover, New Hampshire
-dvp_025_place_2	Dartmouth College
-dvp_025_place_3	California
-dvp_025_place_4	Grass Valley, California
-dvp_025_place_5	Newport News, Virginia
-dvp_025_place_6	Virginia
-dvp_025_place_7	Virginia
-dvp_025_place_8	Peninsula
-dvp_025_place_9	Williamsburg
-dvp_025_place_10	Newport News
-dvp_025_place_11	James River
-dvp_025_place_12	England
-dvp_025_place_13	England
-dvp_025_place_14	England
-dvp_025_place_15	Virginia
-dvp_025_place_16	Hilton Village [Elementary School]
-dvp_025_place_17	Paris
-dvp_025_place_18	Virginia
-dvp_025_place_19	U.S.
-dvp_025_place_20	Canada
-dvp_025_place_21	Canada
-dvp_025_place_22	Detroit
-dvp_025_place_23	Detroit
-dvp_025_place_24	Newport News, Virginia
-dvp_025_place_25	Virginia
-dvp_025_place_26	North Carolina
-dvp_025_place_27	West Point
-dvp_025_place_28	Peninsula
-dvp_025_place_29	America
-dvp_025_place_30	Korea
-dvp_025_place_31	U.S.
-dvp_025_place_32	West Point
-dvp_025_place_33	Detroit
-dvp_025_place_34	Ann Arbor
-dvp_025_place_35	Virginia
-dvp_025_place_36	Ann Arbor
-dvp_025_place_37	West Point
-dvp_025_place_38	West Point
-dvp_025_place_39	West Point
-dvp_025_place_40	UVA
-dvp_025_place_41	Charlottesville
-dvp_025_place_42	Hanover, New Hampshire
-dvp_025_place_43	West Point
-dvp_025_place_44	Harvard
-dvp_025_place_45	Washington [D.C.]
-dvp_025_place_46	Vietnam
-dvp_025_place_47	Washington
-dvp_025_place_48	Pentagon
-dvp_025_place_49	Pentagon
-dvp_025_place_50	Pentagon
-dvp_025_place_51	Vietnam
-dvp_025_place_52	Soviet Union
-dvp_025_place_53	Moscow
-dvp_025_place_54	Moscow
-dvp_025_place_55	Soviet Union
-dvp_025_place_56	Moffett Air Force Base [Naval Air Station, Moffett Field; now Moffett Federal Airfield]
-dvp_025_place_57	U.S.
-dvp_025_place_58	Fort Bragg [North Carolina]
-dvp_025_place_59	Vietnam
-dvp_025_place_60	North Vietnam
-dvp_025_place_61	North Vietnam
-dvp_025_place_62	Vietnam
-dvp_025_place_63	Paris [France]
-dvp_025_place_64	Vietnam
-dvp_025_place_65	Strafford, Vermont
-dvp_025_place_66	Dartmouth
-dvp_025_place_67	Pentagon
-dvp_025_place_68	El Segundo
-dvp_025_place_69	Los Angeles
-dvp_025_place_70	Soviet Union
-dvp_025_place_71	Offutt Air Force Base [in Nebraska]
-dvp_025_place_72	Offutt
-dvp_025_place_73	Pentagon
-dvp_025_place_74	Dartmouth
-dvp_025_place_75	Hanoi
-dvp_025_place_76	Rauner [Special Collections] Library
-dvp_025_place_77	Dartmouth College
-dvp_025_place_78	California
-dvp_025_place_79	Chicago Park
-dvp_025_place_80	Vietnam
-dvp_025_place_81	Vietnam
-dvp_025_place_82	Harvard
-dvp_025_place_83	Cambridge
-dvp_025_place_84	Kent State
-dvp_025_place_85	Vietnam
-dvp_025_place_86	Vietnam
-dvp_025_place_87	Kent State
-dvp_025_place_88	West Wing
-dvp_025_place_89	U.S.
-dvp_025_place_90	Vietnam
-dvp_025_place_91	Saigon
-dvp_025_place_92	Saigon
-dvp_025_place_93	Vietnam
-dvp_025_place_94	Washington
-dvp_025_place_95	Vietnam
-dvp_025_place_96	U.S.
-dvp_025_place_97	Philippines
-dvp_025_place_98	United States
-dvp_025_place_99	U.S.
-dvp_025_place_100	U.S.
-dvp_025_place_101	U.S.
-dvp_025_place_102	U.S.
-dvp_025_place_103	North Dakota
-dvp_025_place_104	Vietnam
-dvp_025_place_105	U.S.
-dvp_025_place_106	Vietnam
-dvp_025_place_107	Vietnam
-dvp_025_place_108	Vietnam
-dvp_025_place_109	Japan
-dvp_025_place_110	Vietnam
-dvp_025_place_111	Tokyo
-dvp_025_place_112	U.S.
-dvp_025_place_113	Japan
-dvp_025_place_114	China
-dvp_025_place_115	Hanoi
-dvp_025_place_116	Hanoi
-dvp_025_place_117	Vietnam
-dvp_025_place_118	Moscow
-dvp_025_place_119	Hanoi
-dvp_025_place_120	Vietnam
-dvp_025_place_121	Vietnam
-dvp_025_place_122	Vietnam
-dvp_025_place_123	Vietnam
-dvp_025_place_124	Hanoi
-dvp_025_place_125	Hồ Chí Minh City
-dvp_025_place_126	Saigon
-dvp_025_place_127	Saigon
-dvp_025_place_128	Hanoi
-dvp_025_place_129	Tuck
-dvp_025_place_130	Saigon
-dvp_025_place_131	Hanoi
-dvp_025_place_132	Vietnam
+id	placeName	QID	dvp_id	coordinate location
+dvp_025_place_0	Rauner Special Collections Library	Q98544730		43.70447,-72.28817
+dvp_025_place_1	Hanover	Q131908		43.7,-72.28333333333333
+dvp_025_place_2	Dartmouth College	Q49116		43.703333333333,-72.288333333333
+dvp_025_place_3	California	Q99		37,-120
+dvp_025_place_4	Grass Valley	Q834337		39.219167,-121.058333
+dvp_025_place_5	Newport News	Q335017		37.070833333333,-76.484444444444
+dvp_025_place_6	Virginia	Q1370		37.5,-79
+dvp_025_place_7	Virginia	Q1370		37.5,-79
+dvp_025_place_8	Virginia Peninsula	Q2553780		37.079833333333,-76.40625
+dvp_025_place_9	Williamsburg	Q492346		37.2708,-76.7069
+dvp_025_place_10	Newport News	Q335017		37.070833333333,-76.484444444444
+dvp_025_place_11	James River	Q422487		37.784444,-79.775833
+				36.941667,-76.443611
+dvp_025_place_12	England	Q21		53,-1
+dvp_025_place_13	England	Q21		53,-1
+dvp_025_place_14	England	Q21		53,-1
+dvp_025_place_15	Virginia	Q1370		37.5,-79
+dvp_025_place_16	Hilton Village [Elementary School]	Q105089968		43.290503,-77.801201
+dvp_025_place_17	Paris	Q90		48.856944444444,2.3513888888889
+dvp_025_place_18	Virginia	Q1370		37.5,-79
+dvp_025_place_19	United States of America	Q30		39.828175,-98.5795
+dvp_025_place_20	Canada	Q16		56,-109
+dvp_025_place_21	Canada	Q16		56,-109
+dvp_025_place_22	Detroit	Q12439		42.331666666667,-83.0475
+dvp_025_place_23	Detroit	Q12439		42.331666666667,-83.0475
+dvp_025_place_24	Newport News	Q335017		37.070833333333,-76.484444444444
+dvp_025_place_25	Virginia	Q1370		37.5,-79
+dvp_025_place_26	North Carolina	Q1454		35.5,-80
+dvp_025_place_27	United States Military Academy	Q9219		41.39277778,-73.95833333
+dvp_025_place_28	Virginia Peninsula	Q2553780		37.079833333333,-76.40625
+dvp_025_place_29	United States of America	Q30		39.828175,-98.5795
+dvp_025_place_30	Korea	Q18097		38.316666666667,127.23333333333
+dvp_025_place_31	United States of America	Q30		39.828175,-98.5795
+dvp_025_place_32	United States Military Academy	Q9219		41.39277778,-73.95833333
+dvp_025_place_33	Detroit	Q12439		42.331666666667,-83.0475
+dvp_025_place_34	Ann Arbor	Q485172		42.28138889,-83.74833333
+dvp_025_place_35	Virginia	Q1370		37.5,-79
+dvp_025_place_36	Ann Arbor	Q485172		42.28138889,-83.74833333
+dvp_025_place_37	United States Military Academy	Q9219		41.39277778,-73.95833333
+dvp_025_place_38	United States Military Academy	Q9219		41.39277778,-73.95833333
+dvp_025_place_39	United States Military Academy	Q9219		41.39277778,-73.95833333
+dvp_025_place_40	University of Virginia	Q213439		38.035555555556,-78.503333333333
+dvp_025_place_41	Charlottesville	Q123766		38.0299,-78.479
+dvp_025_place_42	Hanover	Q131908		43.7,-72.28333333333333
+dvp_025_place_43	United States Military Academy	Q9219		41.39277778,-73.95833333
+dvp_025_place_44	Harvard University	Q13371		42.374443888889,-71.116943888889
+dvp_025_place_45	Washington, D.C.	Q61		38.895,-77.036666666667
+dvp_025_place_46	Vietnam	Q881		16,108
+dvp_025_place_47	Washington, D.C.	Q61		38.895,-77.036666666667
+dvp_025_place_48	The Pentagon	Q11208		38.871111,-77.055833
+dvp_025_place_49	The Pentagon	Q11208		38.871111,-77.055833
+dvp_025_place_50	The Pentagon	Q11208		38.871111,-77.055833
+dvp_025_place_51	Vietnam	Q881		16,108
+dvp_025_place_52	Soviet Union	Q15180		65,90
+dvp_025_place_53	Moscow	Q649		55.755833333333,37.617777777778
+dvp_025_place_54	Moscow	Q649		55.755833333333,37.617777777778
+dvp_025_place_55	Soviet Union	Q15180		65,90
+dvp_025_place_56	Moffett Federal Airfield	Q3565247		37.415,-122.04833333333
+dvp_025_place_57	United States of America	Q30		39.828175,-98.5795
+dvp_025_place_58	Fort Bragg	Q991369		35.139166666667,-78.999166666667
+dvp_025_place_59	Vietnam	Q881		16,108
+dvp_025_place_60	North Vietnam	Q172640		21.033333,105.85
+dvp_025_place_61	North Vietnam	Q172640		21.033333,105.85
+dvp_025_place_62	Vietnam	Q881		16,108
+dvp_025_place_63	Paris	Q90		48.856944444444,2.3513888888889
+dvp_025_place_64	Vietnam	Q881		16,108
+dvp_025_place_65	Strafford	Q2305933		43.8691778,-72.3667537
+dvp_025_place_66	Dartmouth College	Q49116		43.703333333333,-72.288333333333
+dvp_025_place_67	The Pentagon	Q11208		38.871111,-77.055833
+dvp_025_place_68	El Segundo	Q983859		33.919147222222,-118.41553611111
+dvp_025_place_69	Los Angeles	Q65		34.05223,-118.24368
+dvp_025_place_70	Soviet Union	Q15180		65,90
+dvp_025_place_71	Offutt Air Force Base	Q626985		41.118333333333,-95.912511111111
+dvp_025_place_72	Offutt Air Force Base	Q626985		41.118333333333,-95.912511111111
+dvp_025_place_73	The Pentagon	Q11208		38.871111,-77.055833
+dvp_025_place_74	Dartmouth College	Q49116		43.703333333333,-72.288333333333
+dvp_025_place_75	Hanoi	Q1858		21.0245,105.84117
+dvp_025_place_76	Rauner Special Collections Library	Q98544730		43.70447,-72.28817
+dvp_025_place_77	Dartmouth College	Q49116		43.703333333333,-72.288333333333
+dvp_025_place_78	California	Q99		37,-120
+dvp_025_place_79	Chicago Park	Q977235		39.145,-120.967
+dvp_025_place_80	Vietnam	Q881		16,108
+dvp_025_place_81	Vietnam	Q881		16,108
+dvp_025_place_82	Harvard University	Q13371		42.374443888889,-71.116943888889
+dvp_025_place_83	Cambridge	Q49111		42.375,-71.106111111111
+dvp_025_place_84	Kent State University	Q1473615		41.146944444444,-81.343333333333
+dvp_025_place_85	Vietnam	Q881		16,108
+dvp_025_place_86	Vietnam	Q881		16,108
+dvp_025_place_87	Kent State University	Q1473615		41.146944444444,-81.343333333333
+dvp_025_place_88	West Wing	Q1932621		38.8974,-77.0374
+dvp_025_place_89	United States of America	Q30		39.828175,-98.5795
+dvp_025_place_90	Vietnam	Q881		16,108
+dvp_025_place_91	Ho Chi Minh City	Q1854		10.816666666667,106.63333333333
+dvp_025_place_92	Ho Chi Minh City	Q1854		10.816666666667,106.63333333333
+dvp_025_place_93	Vietnam	Q881		16,108
+dvp_025_place_94	Washington, D.C.	Q61		38.895,-77.036666666667
+dvp_025_place_95	Vietnam	Q881		16,108
+dvp_025_place_96	United States of America	Q30		39.828175,-98.5795
+dvp_025_place_97	Philippines	Q928		12,123
+dvp_025_place_98	United States of America	Q30		39.828175,-98.5795
+dvp_025_place_99	United States of America	Q30		39.828175,-98.5795
+dvp_025_place_100	United States of America	Q30		39.828175,-98.5795
+dvp_025_place_101	United States of America	Q30		39.828175,-98.5795
+dvp_025_place_102	United States of America	Q30		39.828175,-98.5795
+dvp_025_place_103	North Dakota	Q1207		47.5,-100.5
+dvp_025_place_104	Vietnam	Q881		16,108
+dvp_025_place_105	United States of America	Q30		39.828175,-98.5795
+dvp_025_place_106	Vietnam	Q881		16,108
+dvp_025_place_107	Vietnam	Q881		16,108
+dvp_025_place_108	Vietnam	Q881		16,108
+dvp_025_place_109	Japan	Q17		35,136
+dvp_025_place_110	Vietnam	Q881		16,108
+dvp_025_place_111	Tokyo	Q1490		35.689722222222,139.69222222222
+dvp_025_place_112	United States of America	Q30		39.828175,-98.5795
+dvp_025_place_113	Japan	Q17		35,136
+dvp_025_place_114	People's Republic of China	Q148		35.844722222222224,103.45194444444445
+dvp_025_place_115	Hanoi	Q1858		21.0245,105.84117
+dvp_025_place_116	Hanoi	Q1858		21.0245,105.84117
+dvp_025_place_117	Vietnam	Q881		16,108
+dvp_025_place_118	Moscow	Q649		55.755833333333,37.617777777778
+dvp_025_place_119	Hanoi	Q1858		21.0245,105.84117
+dvp_025_place_120	Vietnam	Q881		16,108
+dvp_025_place_121	Vietnam	Q881		16,108
+dvp_025_place_122	Vietnam	Q881		16,108
+dvp_025_place_123	Vietnam	Q881		16,108
+dvp_025_place_124	Hanoi	Q1858		21.0245,105.84117
+dvp_025_place_125	Ho Chi Minh City	Q1854		10.816666666667,106.63333333333
+dvp_025_place_126	Ho Chi Minh City	Q1854		10.816666666667,106.63333333333
+dvp_025_place_127	Ho Chi Minh City	Q1854		10.816666666667,106.63333333333
+dvp_025_place_128	Hanoi	Q1858		21.0245,105.84117
+dvp_025_place_129	Tuck School of Business	Q1263832		43.7056,-72.2939
+dvp_025_place_130	Ho Chi Minh City	Q1854		10.816666666667,106.63333333333
+dvp_025_place_131	Hanoi	Q1858		21.0245,105.84117
+dvp_025_place_132	Vietnam	Q881		16,108
