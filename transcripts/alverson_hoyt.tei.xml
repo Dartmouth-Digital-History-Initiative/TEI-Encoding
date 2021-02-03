@@ -168,7 +168,7 @@ I would like to go back and talk about your father a bit.</u>
       <u who="SOLOMON">[Laughs.]</u>
       <u who="ALVERSON">—because the questions you ask force me to come up with—or suggest I should come up with answers, and I don’t want to invent answers that simply seem satisfactory—</u>
       <u who="SOLOMON">Right.</u>
-      <u who="ALVERSON">—for the occasion. My father came from an authoritarian family, Presbyterian. His grandfather fought in the <name type="event" ref="#dvp_001_event_3">Civil War</name>. His father was a telegrapher on the <placeName ref="#dvp_001_place_29">Pennsylvania Railroad</placeName>, very much worked 29 days a month. That was back in the old days of the <placeName ref="#dvp_001_place_30">Pennsylvania Railroad</placeName>. And his mother was a high school graduate, a very strong woman, who did participate in the feminist movement in northwestern <placeName ref="#dvp_001_place_31">Pennsylvania</placeName>.</u>
+      <u who="ALVERSON">—for the occasion. My father came from an authoritarian family, Presbyterian. His grandfather fought in the <name type="event" ref="#dvp_001_event_3">Civil War</name>. His father was a telegrapher on the <orgName ref="#dvp_001_org_82">Pennsylvania Railroad</orgName>, very much worked 29 days a month. That was back in the old days of the <placeName ref="#dvp_001_place_30">Pennsylvania Railroad</placeName>. And his mother was a high school graduate, a very strong woman, who did participate in the feminist movement in northwestern <placeName ref="#dvp_001_place_31">Pennsylvania</placeName>.</u>
       <u who="SOLOMON">Oh, wow!</u>
       <u who="ALVERSON">And my father’s sister, quite a bit younger than he, did become quite a forceful and eager participate in the women’s suffrage movement, to get the vote. This would have been back before <name type="event" ref="#dvp_001_event_4">World War I.</name> But the idea of obedience, family structure, authority, right or wrong were kind of hard and fast principles, and children were to be molded to succeed in the roles that were pretty well set out. So it was more of a 19th-century kind of family,—</u>
       <u who="SOLOMON">Got you.</u>
@@ -804,7 +804,7 @@ Mm-hm.</u>
       <u who="SOLOMON">[Chuckles.]</u>
       <u who="ALVERSON">And so I was a bit insulated. But I still was determined, so I brought African students or African research assistants into the common room of the university, and you could tell these liberals were a little upset that this was being integrated by me and my—</u>
       <u who="SOLOMON">Right.</u>
-      <u who="ALVERSON">—they called them my—“<placeName ref="#dvp_001_place_135">Alverson</placeName> and his slaves”—</u>
+      <u who="ALVERSON">—they called them my—“<persName ref="#dvp_001_person_71">Alverson</persName> and his slaves”—</u>
       <u who="SOLOMON">Oh, wow!</u>
       <u who="ALVERSON">—“are being—you know, sort of roughing up the edges of the university,” which had a reputation as a center of integration. But when it came to sort of day-to-day things, bringing Africans in to eat meals in the common room with the faculty, you could tell a lot of people felt this was pushing the envelope. But I didn’t want to, you know, pussyfoot around that.</u>
       <u who="SOLOMON">So this was the university in?</u>
@@ -841,7 +841,7 @@ Mm-hm.</u>
       <u who="SOLOMON">Right.</u>
       <u who="ALVERSON">—for a long time, and the <persName ref="#dvp_001_person_54">Nearings</persName>, who lived in <placeName ref="#dvp_001_place_146">Vermont</placeName> and then moved to <placeName ref="#dvp_001_place_147">Maine</placeName>—their work was a kind of template for what a lot of the students were trying to do.</u>
       <u who="SOLOMON">Mm-hm.</u>
-      <u who="ALVERSON">There were communes here, like the <orgName ref="#dvp_001_org_79">Wooden Shoe</orgName>, et cetera, which I had no central involvement with at all except I knew people who moved out there.</u>
+      <u who="ALVERSON">There were communes here, like the Wooden Shoe, et cetera, which I had no central involvement with at all except I knew people who moved out there.</u>
       <u who="SOLOMON">Right.</u>
       <u who="ALVERSON">And I think for them, the shadow, to use your metaphor, was much bigger than it was for me. I felt that I was doing what I could do better and it was more important to do it in the context of teaching than, you know, throwing in the towel and growing crops in <placeName ref="#dvp_001_place_148">Canaan, New Hampshire</placeName>.</u>
       <u who="SOLOMON">Right. 
@@ -1071,9 +1071,6 @@ Are you going to do this with other people?</u>
       </place>
       <place xml:id="dvp_001_place_28">
         <placeName>Spain</placeName>
-      </place>
-      <place xml:id="dvp_001_place_29">
-        <placeName>Pennsylvania Railroad</placeName>
       </place>
       <place xml:id="dvp_001_place_30">
         <placeName>Pennsylvania Railroad</placeName>
@@ -1389,9 +1386,6 @@ Are you going to do this with other people?</u>
       </place>
       <place xml:id="dvp_001_place_134">
         <placeName>U.S.</placeName>
-      </place>
-      <place xml:id="dvp_001_place_135">
-        <placeName>Alverson</placeName>
       </place>
       <place xml:id="dvp_001_place_136">
         <placeName>Johannesburg</placeName>
@@ -1787,6 +1781,9 @@ Are you going to do this with other people?</u>
       <person xml:id="dvp_001_person_70">
         <persName>Steve Tozer</persName>
       </person>
+      <person xml:id="dvp_001_person_71">
+        <persName>Alverson</persName>
+      </person>
     </listPerson>
     <listOrg>
       <org xml:id="dvp_001_org_0">
@@ -2026,14 +2023,14 @@ Are you going to do this with other people?</u>
       <org xml:id="dvp_001_org_78">
         <orgName>Dartmouth</orgName>
       </org>
-      <org xml:id="dvp_001_org_79">
-        <orgName>Wooden Shoe</orgName>
-      </org>
       <org xml:id="dvp_001_org_80">
         <orgName>AVA Gallery</orgName>
       </org>
       <org xml:id="dvp_001_org_81">
         <orgName>Dartmouth College</orgName>
+      </org>
+      <org xml:id="dvp_001_org_82">
+        <orgName>Pennsylvania Railroad</orgName>
       </org>
     </listOrg>
   </standOff>
