@@ -50,7 +50,7 @@
       </particDesc>
       <settingDesc>
         <setting>
-          <date when-iso=""/>
+          <date when-iso="25/01/2016"/>
           <locale/>
         </setting>
       </settingDesc>
@@ -58,22 +58,22 @@
   </teiHeader>
   <text>
     <body>
-      <u who="NOPPENBERGER">Hello. I am <persName>Angela Noppenberger</persName>. I am interviewing from the Ticknor Room in <placeName>Rauner</placeName> [Special Collections] Library. <date>Today’s date</date> is <date>Monday, January 25th, 2016</date>. It’s 12:05, and we’re starting this interview. I am interviewing <persName>Thomas Miller</persName>.Mr. <persName>Miller</persName>, could you tell me where I am calling you at?</u>
-      <u who="MILLER">I live in <placeName>Woking</placeName>, <placeName>Surrey</placeName>, <placeName>England</placeName>, about 16 miles southwest of <placeName>London</placeName>.</u>
+      <u who="NOPPENBERGER">Hello. I am <persName>Angela Noppenberger</persName>. I am interviewing from the Ticknor Room in <placeName>Rauner [Special Collections] Library</placeName>. Today’s date is Monday, <date>January 25th, 2016</date>. It’s 12:05, and we’re starting this interview. I am interviewing <persName>Thomas Miller</persName>.Mr. <persName>Miller</persName>, could you tell me where I am calling you at?</u>
+      <u who="MILLER">I live in <placeName>Woking, Surrey, England</placeName>, about 16 miles southwest of <placeName>London</placeName>.</u>
       <u who="NOPPENBERGER">Great. Am I calling you in your home right now?</u>
       <u who="MILLER">I’m in my home, yes.</u>
       <u who="NOPPENBERGER">Okay. So let’s start this interview. Could you please tell me your date of birth and where you were born?</u>
-      <u who="MILLER">Yeah, I was born <date>14 January 1943</date> in the post hospital at <placeName>Fort Sill</placeName>, <placeName>Oklahoma</placeName>.</u>
+      <u who="MILLER">Yeah, I was born <date when= "14-01-1943">14 January 1943</date> in the post hospital at <placeName>Fort Sill, Oklahoma</placeName>.</u>
       <u who="NOPPENBERGER">And what were your parents’ names?</u>
       <u who="MILLER"><persName>Martin D. Miller</persName> and <persName>Esther L. Miller</persName>.</u>
       <u who="NOPPENBERGER">And did you grow up in <placeName>Oklahoma</placeName>, or did you move?</u>
-      <u who="MILLER">No, my dad was in the armor officer training school at Fort Sill. Just a second. [Speaking to someone else: What?] Okay. He was an instructor in the artillery school at Fort Sill, having just completed officer training, himself. I was born there. We moved from there shortly thereafter for a little while, to <placeName>California</placeName> and the moved back to the <placeName>Chicago</placeName> area, where I spent the rest of the war with my mother at her parents’ home in <placeName>Chicago</placeName>, itself.</u>
+      <u who="MILLER">No, my dad was in the armor officer training school at <orgName>Fort Sill</orgName>. Just a second. [Speaking to someone else: What?] Okay. He was an instructor in the artillery school at <orgName>Fort Sill</orgName>, having just completed officer training, himself. I was born there. We moved from there shortly thereafter for a little while, to <placeName>California</placeName> and the moved back to the <placeName>Chicago</placeName> area, where I spent the rest of the war with my mother at her parents’ home in <placeName>Chicago</placeName>, itself.</u>
       <u who="NOPPENBERGER">Did your dad serve overseas during the war?</u>
-      <u who="MILLER">Yeah. He—he was with <orgName>11th Armor Division</orgName>, which was part of [General <persName>George S., Jr.</persName>] <name type="event">Patton’s Third</name> [<orgName>U.S.] Army</orgName> after <date>D-Day</date> [<persName>Normandy</persName> landings during <name type="event">World War II</name>], so he served through <name type="event">the Battle of the Bulge</name> and ended up in <placeName>Bad Ischl</placeName>, <placeName>Austria</placeName>, where he was at that point a 28-year-old major—</u>
+      <u who="MILLER">Yeah. He—he was with <orgName>11th Armor Division</orgName>, which was part of [General <persName>George S., Jr.] Patton’s</persName> Third [<orgName>U.S.] Army</orgName> after <name type="event">D-Day</name> [Normandy landings during World War II], so he served through <name type="event">the Battle of the Bulge</name> and ended up in <placeName>Bad Ischl, Austria</placeName>, where he was at that point a 28-year-old major—</u>
       <u who="NOPPENBERGER">Wow.</u>
-      <u who="MILLER">—and became the military burgermeister of <orgName>Bad Ischl</orgName> for a short while before going back to the <placeName>U.S.</placeName>, where he got out the army—</u>
+      <u who="MILLER">—and became the military burgermeister of <placeName>Bad Ischl</placeName> for a short while before going back to the <placeName>U.S.</placeName>, where he got out the army—</u>
       <u who="NOPPENBERGER">When did he come back to the <placeName>U.S.</placeName>?</u>
-      <u who="MILLER">He got back to the U.S.—it would have been <date>late 1945</date> or <date>early 1946</date>.</u>
+      <u who="MILLER">He got back to the <placeName>U.S</placeName>.—it would have been late <date when="1945">1945</date> or early <date when="1946">1946</date>.</u>
       <u who="NOPPENBERGER">Oh, so he was there through the end of the war.</u>
       <u who="MILLER">Yes, it was at the end of the war.</u>
       <u who="NOPPENBERGER">And did you have any siblings, growing up?</u>
@@ -81,22 +81,22 @@
       <u who="NOPPENBERGER">Oh, wow. So the oldest.</u>
       <u who="MILLER">Yeah.</u>
       <u who="NOPPENBERGER">And you were growing up in <placeName>Chicago</placeName> as the oldest—about how old were you when your father was away, overseas?</u>
-      <u who="MILLER">Um, well he came back in, well, say, he came back in <date>’46</date>. I would have been <date>three years old</date> when he got back.</u>
+      <u who="MILLER">Um, well he came back in, well, say, he came back in <date when="1946">’46</date>. I would have been three years old when he got back.</u>
       <u who="NOPPENBERGER">Okay. All right. So you were very, very small.</u>
       <u who="MILLER">Yeah.</u>
       <u who="NOPPENBERGER">Can you tell me about growing up in <placeName>Illinois</placeName>?</u>
-      <u who="MILLER">Yeah. We lived for a little while on the southwest side of <placeName>Chicago</placeName>, and then my folks bought a house in <placeName>Hinsdale</placeName>, <placeName>Illinois</placeName>, which is a suburb about 16 miles west of the city. It was a fairly active place. Good schools and active <persName>Cub Scouts</persName>, <persName>Boy Scouts</persName>, things like that.</u>
-      <u who="NOPPENBERGER">Were you <persName>a Boy Scout</persName>?</u>
-      <u who="MILLER">I went to the local schools, and then <orgName>Hinsdale Township High School</orgName> [in <placeName>District 86</placeName>]. I was active in the Cub Scouts and <persName>the Boy Scouts</persName>. I am an Eagle Scout, or was an Eagle Scout. So did all of those kinds of things and learned about camping and [chuckles] living in tents and things like that—</u>
+      <u who="MILLER">Yeah. We lived for a little while on the southwest side of <placeName>Chicago</placeName>, and then my folks bought a house in <placeName>Hinsdale, Illinois</placeName>, which is a suburb about 16 miles west of the city. It was a fairly active place. Good schools and active <orgName>Cub Scouts</orgName>, <orgName>Boy Scouts</orgName>, things like that.</u>
+      <u who="NOPPENBERGER">Were you a <orgName>Boy Scout</orgName>?</u>
+      <u who="MILLER">I went to the local schools, and then <orgName>Hinsdale Township High School</orgName> [in District 86]. I was active in the <orgName>Cub Scouts</orgName> and <orgName>the Boy Scouts</orgName>. I am an Eagle Scout, or was an Eagle Scout. So did all of those kinds of things and learned about camping and [chuckles] living in tents and things like that—</u>
       <u who="NOPPENBERGER">[Chuckles.]</u>
       <u who="MILLER">—that became useful later on.</u>
       <u who="NOPPENBERGER">[Chuckles.] Great. What else were you active in, say, in high school, leading up to—</u>
-      <u who="MILLER">I—I was a little bit active in the track, but at <date>age 16</date> I got a part-time job working as a clerk in men’s shop in town, so from 16 on, was—in my spare time, was busy working, although I did stay active in the Scouts till I was—till I was <date>17</date>, <date>18</date>, basically till I went to <orgName>Dartmouth</orgName>.</u>
+      <u who="MILLER">I—I was a little bit active in the track, but at age 16 I got a part-time job working as a clerk in men’s shop in town, so from 16 on, was—in my spare time, was busy working, although I did stay active in the <orgName>Scouts</orgName> till I was—till I was 17, 18, basically till I went to <orgName>Dartmouth</orgName>.</u>
       <u who="NOPPENBERGER">And when you were in high school, do you remember the sort of aspirations you had? Was <orgName>Dartmouth</orgName> really something that you’d been thinking about at that age already, or college in general?</u>
       <u who="MILLER">I was just looking for good—good universities. I actually only applied to two schools. I applied to <orgName>Beloit College</orgName> in <placeName>Wisconsin</placeName> and <orgName>Dartmouth</orgName>. Was accepted by both and decided to go to <orgName>Dartmouth</orgName>, partially because it was further away from home than <persName>Beloit</persName>. [Chuckles.]</u>
       <u who="NOPPENBERGER">Do you remember your career aspirations at that time?</u>
-      <u who="MILLER">I didn’t have any specific career aspirations, maybe going into law, which in the end I didn’t do, but that impacted my major. I was a history major at <orgName>Dartmouth</orgName>, which was one of the things deemed good for law school, but I was also in ROTC [Reserve Officers’ Training Corps], so effectively— </u>
-      <u who="NOPPENBERGER">Right. Let me—sorry. Let’s—let’s—let’s get into your <date>college years</date>, then. So you had been working in high school. You’d applied to two colleges, gotten into both.</u>
+      <u who="MILLER">I didn’t have any specific career aspirations, maybe going into law, which in the end I didn’t do, but that impacted my major. I was a history major at <orgName>Dartmouth</orgName>, which was one of the things deemed good for law school, but I was also in <orgName>ROTC [Reserve Officers’ Training Corps]</orgName>, so effectively— </u>
+      <u who="NOPPENBERGER">Right. Let me—sorry. Let’s—let’s—let’s get into your college years, then. So you had been working in high school. You’d applied to two colleges, gotten into both.</u>
       <u who="MILLER">Yeah.</u>
       <u who="NOPPENBERGER">Can you tell me if you knew you were doing ROTC at <orgName>Dartmouth</orgName> right away, or if that’s something that you decided—actually, sorry. Let’s go back one second.</u>
       <u who="MILLER">No, I knew I was going into ROTC when I went off to university. You have to remember, this was kind of <date>the early days</date> of the conflict in <placeName>Vietnam</placeName>, and draft was fairly active, and it just made sense to me to serve—do my military service as an officer rather than being drafted.</u>
