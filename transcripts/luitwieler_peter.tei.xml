@@ -58,9 +58,9 @@
   </teiHeader>
   <text>
     <body>
-      <u who="NOPPENBERGER">This is <persName>Angela Noppenberger</persName> interviewing <persName>Peter Luitwieler</persName> on Saturday, <date when="2016-02-06">February 6, 2016</date>. I’m in the Bryant Room of the <placeName>Rauner Special Collections Library</placeName>. It is 10:04 when we’re starting our interview.Mr. <persName>Luitwieler</persName>, can you give your full name and date of birth?</u>
+      <u who="NOPPENBERGER">This is <persName>Angela Noppenberger</persName> interviewing <persName>Peter Luitwieler</persName> on Saturday, <date when="2016-02-06">February 6, 2016</date>. I’m in the Bryant Room of the <placeName>Rauner Special Collections Library</placeName>. It is 10:04 when we’re starting our interview. <persName>Mr. Luitwieler</persName>, can you give your full name and date of birth?</u>
       <u who="LUITWIELER"><persName>Peter Edward Luitwieler</persName> [pronounced LUTE-wile-er], <date when="1942-10-05">October 5th, 1942</date>.</u>
-      <u who="NOPPENBERGER">And where were you born, Mr. <persName>Luitwieler</persName>?</u>
+      <u who="NOPPENBERGER">And where were you born, <persName>Mr. Luitwieler</persName>?</u>
       <u who="LUITWIELER">In <placeName>Winchester, Massachusetts</placeName>, just north of <placeName>Boston</placeName>.</u>
       <u who="NOPPENBERGER">Great. And what were your parents’ names?</u>
       <u who="LUITWIELER"><persName>Clarence Seward Luitwieler [Jr.]</persName>, <orgName>Class of ’24</orgName>, and my mother’s name was <persName>Sarah Louise Holcomb Luitwieler</persName>, and she was a <orgName>Cornell [University]</orgName> grad, and I believe she graduated in <date when="1925">’25</date>. </u>
@@ -225,7 +225,7 @@
       <u who="NOPPENBERGER">Mm-hm.</u>
       <u who="LUITWIELER">—I can remember the very first time we were formed out in front of our building, and we were called the <orgName>93rd Infantry Company at Fort Benning OCS [sic; 93rd Company OCS]</orgName>.</u>
       <u who="NOPPENBERGER">In <placeName>Georgia</placeName>.</u>
-      <u who="LUITWIELER">Yes, uh-huh. And I believe there was, like, a 120 officer candidates, and we were standing in formation, having—just dropped our bags and stuff inside the building. Or we had ‘em with us, one way or the other. And the captain, who was called our tactical officer or TO—and he would be in charge of us for the next six months, to try to make us officers. His name was Capt. <placeName>Paris</placeName>, and just an awesome leader. The first thing he said was—this was, like, 5:30 in the afternoon [chuckles]—“Okay, is there any <orgName>Ivy League</orgName> graduates? I want them to come out and stand front and center.” [Chuckles.] And I knew that was not a good thing. [Chuckles.]</u>
+      <u who="LUITWIELER">Yes, uh-huh. And I believe there was, like, a 120 officer candidates, and we were standing in formation, having—just dropped our bags and stuff inside the building. Or we had ‘em with us, one way or the other. And the captain, who was called our tactical officer or TO—and he would be in charge of us for the next six months, to try to make us officers. His name was <placeName>Capt. Paris</placeName>, and just an awesome leader. The first thing he said was—this was, like, 5:30 in the afternoon [chuckles]—“Okay, is there any <orgName>Ivy League</orgName> graduates? I want them to come out and stand front and center.” [Chuckles.] And I knew that was not a good thing. [Chuckles.]</u>
       <u who="NOPPENBERGER">Interesting.</u>
       <u who="LUITWIELER">So three of us stepped forward, and all three of us happened to be athletic—one went to <orgName>Harvard</orgName>, I went to—I can’t remember where the third one went to. And he said, “Okay, drop and give me 30, and then drop on the ground and give me 30 percent.” So while we were doing that, he was talking to everybody else. He said, “Now, from now on, when we do anything physical, these gentlemen will have to do more than you.”</u>
       <u who="NOPPENBERGER">Wow! Why was that?</u>
