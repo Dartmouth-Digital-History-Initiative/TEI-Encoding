@@ -51,8 +51,6 @@ dvp_044_place_48	Dallas	Q16557		32.779166666667,-96.808888888889
 dvp_044_place_49	Dallas	Q16557		32.779166666667,-96.808888888889
 dvp_044_place_50	Washington, D.C.	Q61		38.895,-77.036666666667
 dvp_044_place_51	Trinity River	Q1969490		29.743055555556,-94.703333333333
-				32.798391666667,-96.898922222222
-				29.741666666667,-94.702777777778
 dvp_044_place_52	Dallas	Q16557		32.779166666667,-96.808888888889
 dvp_044_place_53	Caribbean	Q664609		16.256944,-73.300833
 dvp_044_place_54	Latin America	Q12585		-1.106889,-68.097391
@@ -106,7 +104,7 @@ dvp_044_place_101	Soviet Union	Q15180		65,90
 dvp_044_place_102	Rio de Janeiro	Q8678		-22.908333333333,-43.196388888889
 dvp_044_place_103	United States of America	Q30		39.828175,-98.5795
 dvp_044_place_104	Rio de Janeiro	Q8678		-22.908333333333,-43.196388888889
-dvp_044_place_105	Instituto Brazil-Estados Unidos			
+dvp_044_place_105	Instituto Brazil-Estados Unidos	Q61931588		-22.902582, -43.178798
 dvp_044_place_106	Copacabana	Q202730		-22.967033333333,-43.180697222222
 dvp_044_place_107	United States of America	Q30		39.828175,-98.5795
 dvp_044_place_108	Soviet Union	Q15180		65,90
@@ -317,12 +315,12 @@ dvp_044_place_312	Egypt	Q79		27,29
 dvp_044_place_313	Soviet Union	Q15180		65,90
 dvp_044_place_314	Sinai Peninsula	Q36755		29.5,33.833333333333
 dvp_044_place_315	Vietnam	Q881		16,108
-dvp_044_place_316	American Embassy			
+dvp_044_place_316	American Embassy	Q105438924		33.934751, 35.597783
 dvp_044_place_317	Israel	Q801		31,35
 dvp_044_place_318	United States of America	Q30		39.828175,-98.5795
-dvp_044_place_319	Embassy			
+dvp_044_place_319	Embassy	Q105438924		33.934751, 35.597783
 dvp_044_place_320	United States of America	Q30		39.828175,-98.5795
-dvp_044_place_321	Embassy			
+dvp_044_place_321	Embassy	Q105438924		33.934751, 35.597783
 dvp_044_place_322	United States of America	Q30		39.828175,-98.5795
 dvp_044_place_323	Paris	Q90		48.856944444444,2.3513888888889
 dvp_044_place_324	Hanoi	Q1858		21.0245,105.84117
