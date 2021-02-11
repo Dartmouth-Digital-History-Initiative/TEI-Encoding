@@ -1,117 +1,117 @@
-id	placeName
-dvp_043_place_0	Rauner [Special Collections] Library
-dvp_043_place_1	Dartmouth College
-dvp_043_place_2	Hanover, New Hampshire
-dvp_043_place_3	Malden, Massachusetts
-dvp_043_place_4	Wakefield
-dvp_043_place_5	Malden
-dvp_043_place_6	Wakefield
-dvp_043_place_7	Massachusetts
-dvp_043_place_8	Wakefield, Massachusetts
-dvp_043_place_9	Wakefield
-dvp_043_place_10	Washington, D.C.
-dvp_043_place_11	D.C.
-dvp_043_place_12	America
-dvp_043_place_13	New Hampshire
-dvp_043_place_14	New York
-dvp_043_place_15	Germany
-dvp_043_place_16	Germany
-dvp_043_place_17	Vietnam
-dvp_043_place_18	Vietnam
-dvp_043_place_19	Germany
-dvp_043_place_20	Fort Huachuca, Arizona
-dvp_043_place_21	Arizona
-dvp_043_place_22	Vietnam
-dvp_043_place_23	Arizona
-dvp_043_place_24	Vietnam
-dvp_043_place_25	Vietnam
-dvp_043_place_26	Germany
-dvp_043_place_27	Fort Sill, Oklahoma
-dvp_043_place_28	Fort Devens, Massachusetts
-dvp_043_place_29	Fort Devens
-dvp_043_place_30	Fort Sill
-dvp_043_place_31	Fort Devens
-dvp_043_place_32	Germany
-dvp_043_place_33	Germany
-dvp_043_place_34	Vietnam
-dvp_043_place_35	Vietnam
-dvp_043_place_36	Vietnam
-dvp_043_place_37	Arizona
-dvp_043_place_38	Arizona
-dvp_043_place_39	Vietnam
-dvp_043_place_40	Arizona
-dvp_043_place_41	Vietnam
-dvp_043_place_42	Arizona
-dvp_043_place_43	Vietnam
-dvp_043_place_44	Arizona
-dvp_043_place_45	Fort Huachuca
-dvp_043_place_46	Vietnam
-dvp_043_place_47	Vietnam
-dvp_043_place_48	Vietnam
-dvp_043_place_49	Vietnam
-dvp_043_place_50	Biên Hòa Air Base
-dvp_043_place_51	Saigon
-dvp_043_place_52	Vietnam
-dvp_043_place_53	Vietnam
-dvp_043_place_54	Vietnam
-dvp_043_place_55	Xuân Lộc
-dvp_043_place_56	Saigon
-dvp_043_place_57	Xuân Lộc
-dvp_043_place_58	Xuân Lộc
-dvp_043_place_59	Vietnam
-dvp_043_place_60	Vietnam
-dvp_043_place_61	Vietnam
-dvp_043_place_62	Vietnam
-dvp_043_place_63	States
-dvp_043_place_64	Long Binh
-dvp_043_place_65	Vietnam
-dvp_043_place_66	Xuân Lộc
-dvp_043_place_67	North Vietnam
-dvp_043_place_68	North Vietnam
-dvp_043_place_69	Vietnam
-dvp_043_place_70	U.S.
-dvp_043_place_71	Vietnam
-dvp_043_place_72	North Vietnamese
-dvp_043_place_73	Vietnam
-dvp_043_place_74	Vietnam
-dvp_043_place_75	Hampton Beach
-dvp_043_place_76	New Hampshire
-dvp_043_place_77	Vietnam
-dvp_043_place_78	Vietnam
-dvp_043_place_79	Saigon
-dvp_043_place_80	Vietnam
-dvp_043_place_81	Biên Hòa Air Base
-dvp_043_place_82	Vietnam
-dvp_043_place_83	Vietnam
-dvp_043_place_84	Germany
-dvp_043_place_85	Vietnam
-dvp_043_place_86	Texas
-dvp_043_place_87	Illinois
-dvp_043_place_88	Vietnam
-dvp_043_place_89	Cambodia
-dvp_043_place_90	Cambodia
-dvp_043_place_91	Cambodia
-dvp_043_place_92	Austin
-dvp_043_place_93	Texas
-dvp_043_place_94	Vietnam’s
-dvp_043_place_95	U.S.
-dvp_043_place_96	Texas
-dvp_043_place_97	Philadelphia
-dvp_043_place_98	Maine
-dvp_043_place_99	Vermont
-dvp_043_place_100	Maine
-dvp_043_place_101	Philadelphia
-dvp_043_place_102	Maine
-dvp_043_place_103	Vietnam
-dvp_043_place_104	Iraq
-dvp_043_place_105	Afghanistan
-dvp_043_place_106	Syria
-dvp_043_place_107	Syria
-dvp_043_place_108	Vietnam
-dvp_043_place_109	Vietnam
-dvp_043_place_110	South Sudan
-dvp_043_place_111	Nairobi [Kenya]
-dvp_043_place_112	South Sudan
-dvp_043_place_113	Northern Sudan
-dvp_043_place_114	Southern Sudan
-dvp_043_place_115	Vietnam
+id	placeName	QID	dvp_id	coordinate location
+dvp_043_place_0	Rauner Special Collections Library	Q98544730		43.70447,-72.28817
+dvp_043_place_1	Dartmouth College	Q49116		43.703333333333,-72.288333333333
+dvp_043_place_2	Hanover	Q131908		43.7,-72.28333333333333
+dvp_043_place_3	Malden	Q54149		42.425,-71.066666666667
+dvp_043_place_4	Wakefield	Q2426909		42.506388888889,-71.073333333333
+dvp_043_place_5	Malden	Q54149		42.425,-71.066666666667
+dvp_043_place_6	Wakefield	Q2426909		42.506388888889,-71.073333333333
+dvp_043_place_7	Massachusetts	Q771		42.3,-71.8
+dvp_043_place_8	Wakefield	Q2426909		42.506388888889,-71.073333333333
+dvp_043_place_9	Wakefield	Q2426909		42.506388888889,-71.073333333333
+dvp_043_place_10	Washington, D.C.	Q61		38.895,-77.036666666667
+dvp_043_place_11	Washington, D.C.	Q61		38.895,-77.036666666667
+dvp_043_place_12	United States of America	Q30		39.828175,-98.5795
+dvp_043_place_13	New Hampshire	Q759		44,-71.5
+dvp_043_place_14	New York City	Q60		40.67,-73.94
+dvp_043_place_15	Germany	Q183		51,10
+dvp_043_place_16	Germany	Q183		51,10
+dvp_043_place_17	Vietnam	Q881		16,108
+dvp_043_place_18	Vietnam	Q881		16,108
+dvp_043_place_19	Germany	Q183		51,10
+dvp_043_place_20	Fort Huachuca	Q1327004		31.5554,-110.35
+dvp_043_place_21	Arizona	Q816		34.286667,-111.656944
+dvp_043_place_22	Vietnam	Q881		16,108
+dvp_043_place_23	Arizona	Q816		34.286667,-111.656944
+dvp_043_place_24	Vietnam	Q881		16,108
+dvp_043_place_25	Vietnam	Q881		16,108
+dvp_043_place_26	Germany	Q183		51,10
+dvp_043_place_27	Fort Sill	Q1018681		34.704166666667,-98.508333333333
+dvp_043_place_28	Fort Devens	Q1413867		42.545022222222,-71.613336111111
+dvp_043_place_29	Fort Devens	Q1413867		42.545022222222,-71.613336111111
+dvp_043_place_30	Fort Sill	Q1018681		34.704166666667,-98.508333333333
+dvp_043_place_31	Fort Devens	Q1413867		42.545022222222,-71.613336111111
+dvp_043_place_32	Germany	Q183		51,10
+dvp_043_place_33	Germany	Q183		51,10
+dvp_043_place_34	Vietnam	Q881		16,108
+dvp_043_place_35	Vietnam	Q881		16,108
+dvp_043_place_36	Vietnam	Q881		16,108
+dvp_043_place_37	Arizona	Q816		34.286667,-111.656944
+dvp_043_place_38	Arizona	Q816		34.286667,-111.656944
+dvp_043_place_39	Vietnam	Q881		16,108
+dvp_043_place_40	Arizona	Q816		34.286667,-111.656944
+dvp_043_place_41	Vietnam	Q881		16,108
+dvp_043_place_42	Arizona	Q816		34.286667,-111.656944
+dvp_043_place_43	Vietnam	Q881		16,108
+dvp_043_place_44	Arizona	Q816		34.286667,-111.656944
+dvp_043_place_45	Fort Huachuca	Q1327004		31.5554,-110.35
+dvp_043_place_46	Vietnam	Q881		16,108
+dvp_043_place_47	Vietnam	Q881		16,108
+dvp_043_place_48	Vietnam	Q881		16,108
+dvp_043_place_49	Vietnam	Q881		16,108
+dvp_043_place_50	Bien Hoa Air Base	Q619905		10.976944444444,106.81833333333
+dvp_043_place_51	Ho Chi Minh City	Q1854		10.816666666667,106.63333333333
+dvp_043_place_52	Vietnam	Q881		16,108
+dvp_043_place_53	Vietnam	Q881		16,108
+dvp_043_place_54	Vietnam	Q881		16,108
+dvp_043_place_55	Xuân Lộc	Q5258599		10.926348,107.402681
+dvp_043_place_56	Ho Chi Minh City	Q1854		10.816666666667,106.63333333333
+dvp_043_place_57	Xuân Lộc	Q5258599		10.926348,107.402681
+dvp_043_place_58	Xuân Lộc	Q5258599		10.926348,107.402681
+dvp_043_place_59	Vietnam	Q881		16,108
+dvp_043_place_60	Vietnam	Q881		16,108
+dvp_043_place_61	Vietnam	Q881		16,108
+dvp_043_place_62	Vietnam	Q881		16,108
+dvp_043_place_63	United States of America	Q30		39.828175,-98.5795
+dvp_043_place_64	Long Binh Post	Q27627856		10.931672,106.837462
+dvp_043_place_65	Vietnam	Q881		16,108
+dvp_043_place_66	Xuân Lộc	Q5258599		10.926348,107.402681
+dvp_043_place_67	North Vietnam	Q172640		21.033333,105.85
+dvp_043_place_68	North Vietnam	Q172640		21.033333,105.85
+dvp_043_place_69	Vietnam	Q881		16,108
+dvp_043_place_70	United States of America	Q30		39.828175,-98.5795
+dvp_043_place_71	Vietnam	Q881		16,108
+dvp_043_place_72	North Vietnam	Q172640		21.033333,105.85
+dvp_043_place_73	Vietnam	Q881		16,108
+dvp_043_place_74	Vietnam	Q881		16,108
+dvp_043_place_75	Hampton Beach	Q3472167		42.907222222222,-70.811944444444
+dvp_043_place_76	New Hampshire	Q759		44,-71.5
+dvp_043_place_77	Vietnam	Q881		16,108
+dvp_043_place_78	Vietnam	Q881		16,108
+dvp_043_place_79	Ho Chi Minh City	Q1854		10.816666666667,106.63333333333
+dvp_043_place_80	Vietnam	Q881		16,108
+dvp_043_place_81	Bien Hoa Air Base	Q619905		10.976944444444,106.81833333333
+dvp_043_place_82	Vietnam	Q881		16,108
+dvp_043_place_83	Vietnam	Q881		16,108
+dvp_043_place_84	Germany	Q183		51,10
+dvp_043_place_85	Vietnam	Q881		16,108
+dvp_043_place_86	Texas	Q1439		31,-100
+dvp_043_place_87	Illinois	Q1204		40,-89
+dvp_043_place_88	Vietnam	Q881		16,108
+dvp_043_place_89	Cambodia	Q424		12.6,105
+dvp_043_place_90	Cambodia	Q424		12.6,105
+dvp_043_place_91	Cambodia	Q424		12.6,105
+dvp_043_place_92	Austin	Q16559		30.3,-97.733333333333
+dvp_043_place_93	Texas	Q1439		31,-100
+dvp_043_place_94	Vietnam	Q881		16,108
+dvp_043_place_95	United States of America	Q30		39.828175,-98.5795
+dvp_043_place_96	Texas	Q1439		31,-100
+dvp_043_place_97	Philadelphia	Q1345		39.952777777778,-75.163611111111
+dvp_043_place_98	Maine	Q724		45.5,-69
+dvp_043_place_99	Vermont	Q16551		44,-72.7
+dvp_043_place_100	Maine	Q724		45.5,-69
+dvp_043_place_101	Philadelphia	Q1345		39.952777777778,-75.163611111111
+dvp_043_place_102	Maine	Q724		45.5,-69
+dvp_043_place_103	Vietnam	Q881		16,108
+dvp_043_place_104	Iraq	Q796		33,43
+dvp_043_place_105	Afghanistan	Q889		34,66
+dvp_043_place_106	Syria	Q858		35.216667,38.583333
+dvp_043_place_107	Syria	Q858		35.216667,38.583333
+dvp_043_place_108	Vietnam	Q881		16,108
+dvp_043_place_109	Vietnam	Q881		16,108
+dvp_043_place_110	South Sudan	Q958		7,30
+dvp_043_place_111	Nairobi	Q3870		-1.2863888888889,36.817222222222
+dvp_043_place_112	South Sudan	Q958		7,30
+dvp_043_place_113	Northern Sudan	Q14210054		17.73,31.66
+dvp_043_place_114	South Sudan	Q958		7,30
+dvp_043_place_115	Vietnam	Q881		16,108
