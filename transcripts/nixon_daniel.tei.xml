@@ -47,6 +47,7 @@
       <particDesc>
         <person xml:id="NOPPENBERGER"/>
         <person xml:id="NIXON"/>
+        <person xml:id="NIXON-T" />
       </particDesc>
       <settingDesc>
         <setting>
@@ -388,17 +389,26 @@
       <u who="NIXON">It was just a—it was—I—and I guess that was probably a—a good précis of—of what the war was like. I mean,—Can you—can you hold on just a moment?</u>
       <u who="NOPPENBERGER">Yeah, no problem.</u>
       <u who="NIXON">You can talk to my wife. She’s—she’s charming.</u>
-      <u who="NOPPENBERGER">Oh, that’s—okay.T. NIXON:	Good morning. Good afternoon.</u>
+      <u who="NOPPENBERGER">Oh, that’s—okay.</u>
+      <u who="NIXON-T">Good morning. Good afternoon.</u>
       <u who="NOPPENBERGER">Afternoon! Hi, there! This is a bit unexpected, but can I get your name, please?</u>
       <u who="NIXON"><persName>Tamara</persName>, T-a-m-a-r-a.</u>
-      <u who="NOPPENBERGER"><placeName>Nixon?T.</placeName> NIXON:	Yes.</u>
-      <u who="NOPPENBERGER">Yes. Oh, okay. Well, while <persName>Dr. Nixon</persName> is away, then I’ll just ask you what was it like for you having him over in <placeName>Vietnam</placeName>? Were you able to be in contact very often?T. NIXON:	It was very interesting. It’s not—not like today, where you have cell phones and you have computers. What we had was we would send CARE packages and letters, and we had tape recorders, and he had a tape recorder, and we would send tapes, and our four-year-old would send a recording on the tape.</u>
-      <u who="NOPPENBERGER">Oh! That’s very sweet.T. NIXON:	And when he came—when my father died and we tried to contact him in <placeName>Vietnam</placeName>, the only contact could be done by short-wave radio, so you would have a short-wave radio operator. I don’t know if you’ve ever had the experience, but what happens is you talk, and then they shut you off and they turn on the other one and they talk, so you don’t—</u>
-      <u who="NOPPENBERGER">Oh.T. NIXON:	—talk back and forth. I would—</u>
-      <u who="NOPPENBERGER">Like a walkie-talkie? Sorry, sorry. Like a—T. NIXON:	Basically, it goes into the short-wave radio operator, who then shuts off the incoming line and turns on the other line to talk.</u>
-      <u who="NOPPENBERGER">Okay. And do you still have any of those tape recordings? That sounds like a really awesome piece of history to have.T. NIXON:	It probably is, and I don’t know if I have. I do have—my husband always was a—a letter writer. You heard that we conducted our correspondence—</u>
-      <u who="NOPPENBERGER">Long distance.T. NIXON:	It was long distance. He wrote a letter every day while I was in college—</u>
-      <u who="NOPPENBERGER">Oh. Wow.T. NIXON:	—and he was in medical school. And I do have some of those. I’m really very interested, if you are doing an audio of this as well, if we can get a copy because I’m sure our grandchildren would love to hear this history.I’m going to give you back to <persName>Dr. Nixon</persName>.</u>
+      <u who="NOPPENBERGER">Nixon?</u>
+      <u who="NIXON-T">Yes.</u>
+      <u who="NOPPENBERGER">Yes. Oh, okay. Well, while <persName>Dr. Nixon</persName> is away, then I’ll just ask you what was it like for you having him over in <placeName>Vietnam</placeName>? Were you able to be in contact very often?</u>
+      <u who="NIXON-T">It was very interesting. It’s not—not like today, where you have cell phones and you have computers. What we had was we would send CARE packages and letters, and we had tape recorders, and he had a tape recorder, and we would send tapes, and our four-year-old would send a recording on the tape.</u>
+      <u who="NOPPENBERGER">Oh! That’s very sweet.</u>
+      <u who="NIXON-T">And when he came—when my father died and we tried to contact him in <placeName>Vietnam</placeName>, the only contact could be done by short-wave radio, so you would have a short-wave radio operator. I don’t know if you’ve ever had the experience, but what happens is you talk, and then they shut you off and they turn on the other one and they talk, so you don’t—</u>
+      <u who="NOPPENBERGER">Oh.</u>
+      <u who="NIXON-T">—talk back and forth. I would—</u>
+      <u who="NOPPENBERGER">Like a walkie-talkie? Sorry, sorry. Like a—</u>
+      <u who="NIXON-T">Basically, it goes into the short-wave radio operator, who then shuts off the incoming line and turns on the other line to talk.</u>
+      <u who="NOPPENBERGER">Okay. And do you still have any of those tape recordings? That sounds like a really awesome piece of history to have.</u>
+      <u who="NIXON-T">It probably is, and I don’t know if I have. I do have—my husband always was a—a letter writer. You heard that we conducted our correspondence—</u>
+      <u who="NOPPENBERGER">Long distance.</u>
+      <u who="NIXON-T">It was long distance. He wrote a letter every day while I was in college—</u>
+      <u who="NOPPENBERGER">Oh. Wow.</u>
+      <u who="NIXON-T">—and he was in medical school. And I do have some of those. I’m really very interested, if you are doing an audio of this as well, if we can get a copy because I’m sure our grandchildren would love to hear this history.I’m going to give you back to <persName>Dr. Nixon</persName>.</u>
       <u who="NOPPENBERGER">Okay. Great. It was lovely talking to you.</u>
       <u who="NIXON">Thank you. I’m here.</u>
       <u who="NOPPENBERGER">Hi, there! Are we all good again?</u>
