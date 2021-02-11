@@ -1,11 +1,11 @@
 id	orgName	QID	dvp_id
 dvp_044_org_0	Dartmouth Vietnam Project	Q104889683	
 dvp_044_org_1	Dartmouth College	Q49116	
-dvp_044_org_2	Class of ’27		
+dvp_044_org_2	Class of ’27		dvp_0209
 dvp_044_org_3	Dartmouth College	Q49116	
-dvp_044_org_4	Class of ’69		
-dvp_044_org_5	Class of ’71		
-dvp_044_org_6	Class of ’72		
+dvp_044_org_4	Class of ’69		dvp_0088
+dvp_044_org_5	Class of ’71		dvp_0043
+dvp_044_org_6	Class of ’72		dvp_0210
 dvp_044_org_7	Western Electric	Q2031258	
 dvp_044_org_8	The Saturday Evening Post	Q2302345	
 dvp_044_org_9	Life	Q463198	
@@ -129,7 +129,7 @@ dvp_044_org_126	Dartmouth College	Q49116
 dvp_044_org_127	Dartmouth College	Q49116	
 dvp_044_org_128	American University of Beirut	Q469482	
 dvp_044_org_129	American University of Beirut	Q469482	
-dvp_044_org_130	American Embassy		
+dvp_044_org_130	American Embassy	Q105438924	
 dvp_044_org_131	Dartmouth College	Q49116	
 dvp_044_org_132	Dartmouth College	Q49116	
 dvp_044_org_133	Federal Government of the United States of America	Q48525	
@@ -142,7 +142,7 @@ dvp_044_org_139	National Front for the Liberation of South Vietnam	Q174423
 dvp_044_org_140	Khmer Rouge	Q191764	
 dvp_044_org_141	Stanford University	Q41506	
 dvp_044_org_142	American University of Beirut	Q469482	
-dvp_044_org_143	Algerian		
+dvp_044_org_143	Algerian	Q5015487	
 dvp_044_org_144	Black Panther Party	Q189150	
 dvp_044_org_145	University of Algiers	Q1190852	
 dvp_044_org_146	Federal Government of the United States of America	Q48525	
@@ -173,13 +173,13 @@ dvp_044_org_170	American University of Beirut	Q469482
 dvp_044_org_171	Popular Front for the Liberation of Palestine	Q212884	
 dvp_044_org_172	American University of Beirut	Q469482	
 dvp_044_org_173	American University of Beirut	Q469482	
-dvp_044_org_174	Algerian		
+dvp_044_org_174	Algerian	Q5015487	
 dvp_044_org_175	University of Algiers	Q1190852	
 dvp_044_org_176	Lebanese Armed Forces	Q1074908	
 dvp_044_org_177	South Vietnam	Q180573	
-dvp_044_org_178	American Embassy		
+dvp_044_org_178	American Embassy	Q105438924	
 dvp_044_org_179	Supreme Court of the United States	Q11201	
-dvp_044_org_180	Fifth Circuit Court of Texas		
+dvp_044_org_180	Fifth Circuit Court of Texas	Q250456	
 dvp_044_org_181	Federal Government of the United States of America	Q48525	
 dvp_044_org_182	South Vietnam	Q180573	
 dvp_044_org_183	Bolsheviks	Q83372	
