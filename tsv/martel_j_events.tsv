@@ -1,40 +1,40 @@
-id	name
-dvp_042_event_0	World War II
-dvp_042_event_1	World War II
-dvp_042_event_2	World War II
-dvp_042_event_3	World War II
-dvp_042_event_4	Korean War
-dvp_042_event_5	Bay of Pigs [Invasion of Cuba]
-dvp_042_event_6	[Cuban] Missile Crisis
-dvp_042_event_7	Bay of Pigs
-dvp_042_event_8	President Kennedy was shot
-dvp_042_event_9	ietnam War
-dvp_042_event_10	Vietnam War
-dvp_042_event_11	Cold War
-dvp_042_event_12	Tet [Offensive]
-dvp_042_event_13	Tet
-dvp_042_event_14	Tet
-dvp_042_event_15	Vietnam War
-dvp_042_event_16	[the Rev. Dr.] Martin Luther King Jr.] is assassinated
-dvp_042_event_17	Vietnam
-dvp_042_event_18	Kennedy is assassinated
-dvp_042_event_19	World War II
-dvp_042_event_20	fall of Saigon
-dvp_042_event_21	Vietnam
-dvp_042_event_22	Vietnam
-dvp_042_event_23	Vietnam
-dvp_042_event_24	Great Patriotic War
-dvp_042_event_25	Second World War
-dvp_042_event_26	Great Patriotic
-dvp_042_event_27	World War II
-dvp_042_event_28	Vietnam
-dvp_042_event_29	World War II
-dvp_042_event_30	World War II
-dvp_042_event_31	World War II
-dvp_042_event_32	Vietnam
-dvp_042_event_33	Vietnam
-dvp_042_event_34	Gulf of Tonkin incident
-dvp_042_event_35	Vietnam
-dvp_042_event_36	[Berlin] Wall finally came down
-dvp_042_event_37	the Wall come down
-dvp_042_event_38	Cold War
+id	name	QID	dvp_id	start time	end time	point in time
+dvp_042_event_0	World War II	Q362		1939-09-01T00:00:00Z	1945-09-02T00:00:00Z	
+dvp_042_event_1	World War II	Q362		1939-09-01T00:00:00Z	1945-09-02T00:00:00Z	
+dvp_042_event_2	World War II	Q362		1939-09-01T00:00:00Z	1945-09-02T00:00:00Z	
+dvp_042_event_3	World War II	Q362		1939-09-01T00:00:00Z	1945-09-02T00:00:00Z	
+dvp_042_event_4	Korean War	Q8663		1950-06-25T00:00:00Z	1953-07-27T00:00:00Z	
+dvp_042_event_5	Bay of Pigs invasion	Q191721		1961-04-17T00:00:00Z	1961-04-19T00:00:00Z	
+dvp_042_event_6	Cuban Missile Crisis	Q128160		1962-10-14T00:00:00Z	1962-10-28T00:00:00Z	
+dvp_042_event_7	Bay of Pigs invasion	Q191721		1961-04-17T00:00:00Z	1961-04-19T00:00:00Z	
+dvp_042_event_8	assassination of John F. Kennedy	Q193484				1963-11-22T00:00:00Z
+dvp_042_event_9	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_042_event_10	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_042_event_11	Cold War	Q8683		1947-01-01T00:00:00Z	1991-01-01T00:00:00Z	
+dvp_042_event_12	Tet Offensive	Q82542		1968-01-30T00:00:00Z	1968-09-23T00:00:00Z	
+dvp_042_event_13	Tet Offensive	Q82542		1968-01-30T00:00:00Z	1968-09-23T00:00:00Z	
+dvp_042_event_14	Tet Offensive	Q82542		1968-01-30T00:00:00Z	1968-09-23T00:00:00Z	
+dvp_042_event_15	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_042_event_16	assassination of Martin Luther King Jr.	Q757963				1968-04-04T00:00:00Z
+dvp_042_event_17	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_042_event_18	assassination of John F. Kennedy	Q193484				1963-11-22T00:00:00Z
+dvp_042_event_19	World War II	Q362		1939-09-01T00:00:00Z	1945-09-02T00:00:00Z	
+dvp_042_event_20	Fall of Saigon	Q482456				1975-04-30T00:00:00Z
+dvp_042_event_21	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_042_event_22	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_042_event_23	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_042_event_24	Great Patriotic War	Q19896779		1939-09-01T00:00:00Z	1945-09-02T00:00:00Z	
+dvp_042_event_25	World War II	Q362		1939-09-01T00:00:00Z	1945-09-02T00:00:00Z	
+dvp_042_event_26	Great Patriotic War	Q19896779		1939-09-01T00:00:00Z	1945-09-02T00:00:00Z	
+dvp_042_event_27	World War II	Q362		1939-09-01T00:00:00Z	1945-09-02T00:00:00Z	
+dvp_042_event_28	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_042_event_29	World War II	Q362		1939-09-01T00:00:00Z	1945-09-02T00:00:00Z	
+dvp_042_event_30	World War II	Q362		1939-09-01T00:00:00Z	1945-09-02T00:00:00Z	
+dvp_042_event_31	World War II	Q362		1939-09-01T00:00:00Z	1945-09-02T00:00:00Z	
+dvp_042_event_32	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_042_event_33	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_042_event_34	Gulf of Tonkin incident	Q482402				1964-08-02T00:00:00Z
+dvp_042_event_35	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_042_event_36	fall of the Berlin Wall	Q69163529				1989-11-09T00:00:00Z
+dvp_042_event_37	fall of the Berlin Wall	Q69163529				1989-11-09T00:00:00Z
+dvp_042_event_38	Cold War	Q8683		1947-01-01T00:00:00Z	1991-01-01T00:00:00Z	
