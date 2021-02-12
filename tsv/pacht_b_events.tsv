@@ -1,22 +1,23 @@
-id	name
-dvp_046_event_0	war [World War II]
-dvp_046_event_1	Vietnam
-dvp_046_event_2	Gulf of Tonkin Resolution
-dvp_046_event_3	Summer of Love
-dvp_046_event_4	Green Key [Weekend] 1969
-dvp_046_event_5	takeover of Parkhurst [Hall]
-dvp_046_event_6	Vietnam
-dvp_046_event_7	Vietnam War
-dvp_046_event_8	[President Richard M.] Nixon’s inaugural ball
-dvp_046_event_9	takeover at Parkhurst
-dvp_046_event_10	occupation at Parkhurst
-dvp_046_event_11	Parkhurst thing
-dvp_046_event_12	Green Key in 969
-dvp_046_event_13	Parkhurst takeover
-dvp_046_event_14	Parrot’s Beak [Cambodia] invasion
-dvp_046_event_15	Parkhurst takeover
-dvp_046_event_16	Vietnam
-dvp_046_event_17	Parkhurst
-dvp_046_event_18	Vietnam War
-dvp_046_event_19	Vietnam
-dvp_046_event_20	Vietnam
+id	name	QID	dvp_id	start time	end time	point in time
+dvp_046_event_0	World War II	Q362		1939-09-01T00:00:00Z	1945-09-02T00:00:00Z	
+dvp_046_event_1	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_046_event_2	Gulf of Tonkin Resolution	Q240352				1964-08-07T00:00:00Z
+dvp_046_event_3	Summer of Love	Q932701		1967-06-01T00:00:00Z	1967-10-01T00:00:00Z	
+dvp_046_event_4	Green Key [Weekend] 1969					
+dvp_046_event_5	Parkhurst Hall Takeover	Q101424872				1969-05-06T00:00:00Z
+dvp_046_event_6	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_046_event_7	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_046_event_8	First inauguration of Richard Nixon	Q5454200				1969-01-01T00:00:00Z
+						
+dvp_046_event_9	Parkhurst Hall Takeover	Q101424872				1969-05-06T00:00:00Z
+dvp_046_event_10	Parkhurst Hall Takeover	Q101424872				1969-05-06T00:00:00Z
+dvp_046_event_11	Parkhurst Hall Takeover	Q101424872				1969-05-06T00:00:00Z
+dvp_046_event_12	Green Key in 969					
+dvp_046_event_13	Parkhurst Hall Takeover	Q101424872				1969-05-06T00:00:00Z
+dvp_046_event_14	Cambodian–Vietnamese War	Q635533		1977-04-30T00:00:00Z	1991-10-23T00:00:00Z	
+dvp_046_event_15	Parkhurst Hall Takeover	Q101424872				1969-05-06T00:00:00Z
+dvp_046_event_16	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_046_event_17	Parkhurst Hall Takeover	Q101424872				1969-05-06T00:00:00Z
+dvp_046_event_18	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_046_event_19	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_046_event_20	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
