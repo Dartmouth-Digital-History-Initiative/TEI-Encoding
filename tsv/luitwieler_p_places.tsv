@@ -1,102 +1,102 @@
-id	placeName
-dvp_041_place_0	Rauner Special Collections Library
-dvp_041_place_1	Winchester, Massachusetts
-dvp_041_place_2	Boston
-dvp_041_place_3	Winchester
-dvp_041_place_4	Boston
-dvp_041_place_5	New Hampshire
-dvp_041_place_6	Dartmouth
-dvp_041_place_7	New Hampshire
-dvp_041_place_8	Hanover
-dvp_041_place_9	Salamanca [Spain]
-dvp_041_place_10	Winchester
-dvp_041_place_11	Hanover, Germany
-dvp_041_place_12	Germany
-dvp_041_place_13	Scotland
-dvp_041_place_14	Pittsburgh
-dvp_041_place_15	Pittsburgh
-dvp_041_place_16	Pittsburgh, Pennsylvania
-dvp_041_place_17	Fort Jackson
-dvp_041_place_18	Columbia, South Carolina
-dvp_041_place_19	OCS
-dvp_041_place_20	Fort Jackson
-dvp_041_place_21	Fort Jackson
-dvp_041_place_22	Vietnam
-dvp_041_place_23	Vietnam
-dvp_041_place_24	Vietnam
-dvp_041_place_25	Vietnam
-dvp_041_place_26	Laos
-dvp_041_place_27	Cambodia
-dvp_041_place_28	Fort Benning [Georgia]
-dvp_041_place_29	Georgia
-dvp_041_place_30	Pittsburgh
-dvp_041_place_31	Pittsburgh
-dvp_041_place_32	Fort Benning
-dvp_041_place_33	Georgia
-dvp_041_place_34	Fort Benning
-dvp_041_place_35	Fort Benning
-dvp_041_place_36	Fort Holabird
-dvp_041_place_37	Baltimore, Maryland
-dvp_041_place_38	Baltimore
-dvp_041_place_39	Pittsburgh
-dvp_041_place_40	Boston
-dvp_041_place_41	Vietnam
-dvp_041_place_42	Baltimore
-dvp_041_place_43	Vietnam
-dvp_041_place_44	Vietnam
-dvp_041_place_45	Baltimore
-dvp_041_place_46	Fort Holabird
-dvp_041_place_47	Vietnam
-dvp_041_place_48	Vietnam
-dvp_041_place_49	Saigon
-dvp_041_place_50	Pittsburgh
-dvp_041_place_51	Vietnam
-dvp_041_place_52	Vietnam
-dvp_041_place_53	Tulsa
-dvp_041_place_54	Vietnam
-dvp_041_place_55	Vietnam
-dvp_041_place_56	Los Angeles
-dvp_041_place_57	Tan Son Nhut Air Base
-dvp_041_place_58	Saigon
-dvp_041_place_59	Long Binh
-dvp_041_place_60	Saigon
-dvp_041_place_61	Vietnam
-dvp_041_place_62	Quang Tri
-dvp_041_place_63	Vietnam
-dvp_041_place_64	Vietnam
-dvp_041_place_65	Quảng Trj
-dvp_041_place_66	Phoenix
-dvp_041_place_67	Saigon
-dvp_041_place_68	Vietnam
-dvp_041_place_69	Quảng Trj
-dvp_041_place_70	Saigon
-dvp_041_place_71	Vietnam
-dvp_041_place_72	Vietnam
-dvp_041_place_73	Vietnam
-dvp_041_place_74	Vietnam
-dvp_041_place_75	Honolulu
-dvp_041_place_76	Cam Ranh Bay
-dvp_041_place_77	Honolulu
-dvp_041_place_78	Vietnam
-dvp_041_place_79	Hungary
-dvp_041_place_80	Quảng Trj
-dvp_041_place_81	Quảng Trj
-dvp_041_place_82	Quảng Trj
-dvp_041_place_83	Hué
-dvp_041_place_84	Perfume River
-dvp_041_place_85	Hué
-dvp_041_place_86	Da Nang
-dvp_041_place_87	Philippines
-dvp_041_place_88	Vietnam
-dvp_041_place_89	Boston
-dvp_041_place_90	Fort Devens
-dvp_041_place_91	Fort Devens
-dvp_041_place_92	Fort Devens
-dvp_041_place_93	Boston
-dvp_041_place_94	Vietnam
-dvp_041_place_95	Pittsburgh
-dvp_041_place_96	Vietnam
-dvp_041_place_97	Pittsburgh
-dvp_041_place_98	London
-dvp_041_place_99	London
-dvp_041_place_100	London
+id	placeName	QID	dvp_id	coordinate location
+dvp_041_place_0	Rauner Special Collections Library	Q98544730		43.70447,-72.28817
+dvp_041_place_1	Winchester	Q991443		42.452222222222,-71.1375
+dvp_041_place_2	Boston	Q100		42.358333333333,-71.0625
+dvp_041_place_3	Winchester	Q991443		42.452222222222,-71.1375
+dvp_041_place_4	Boston	Q100		42.358333333333,-71.0625
+dvp_041_place_5	New Hampshire	Q3472179		40.556111111111,-83.952777777778
+dvp_041_place_6	Dartmouth College	Q49116		43.703333333333,-72.288333333333
+dvp_041_place_7	New Hampshire	Q3472179		40.556111111111,-83.952777777778
+dvp_041_place_8	Hanover	Q131908		43.7,-72.28333333333333
+dvp_041_place_9	Salamanca	Q15695		40.96666666666667,-5.663888888888889
+dvp_041_place_10	Winchester	Q991443		42.452222222222,-71.1375
+dvp_041_place_11	Hanover	Q1715		52.374444444444,9.7386111111111
+dvp_041_place_12	Burg Drachenfels	Q1011486		50.6652,7.21011
+dvp_041_place_13	Scotland	Q22		57,-5
+dvp_041_place_14	Pittsburgh	Q1342		40.45,-80
+dvp_041_place_15	Pittsburgh	Q1342		40.45,-80
+dvp_041_place_16	Pittsburgh	Q1342		40.45,-80
+dvp_041_place_17	Fort Jackson	Q8564746		29.35711,-89.45519
+dvp_041_place_18	Columbia	Q38453		34.000555555556,-81.044166666667
+dvp_041_place_19	Öcs	Q1089872		47.001911111111,17.614811111111
+dvp_041_place_20	Fort Jackson	Q8564746		29.35711,-89.45519
+dvp_041_place_21	Fort Jackson	Q8564746		29.35711,-89.45519
+dvp_041_place_22	Vietnam	Q881		16,108
+dvp_041_place_23	Vietnam	Q881		16,108
+dvp_041_place_24	Vietnam	Q881		16,108
+dvp_041_place_25	Vietnam	Q881		16,108
+dvp_041_place_26	Laos	Q819		18.2,104
+dvp_041_place_27	Cambodia	Q424		12.6,105
+dvp_041_place_28	Fort Benning	Q1438462		32.366111111111,-84.969166666667
+dvp_041_place_29	Georgia	Q1428		33,-83.5
+dvp_041_place_30	Pittsburgh	Q1342		40.45,-80
+dvp_041_place_31	Pittsburgh	Q1342		40.45,-80
+dvp_041_place_32	Fort Benning	Q1438462		32.366111111111,-84.969166666667
+dvp_041_place_33	Georgia	Q1428		33,-83.5
+dvp_041_place_34	Fort Benning	Q1438462		32.366111111111,-84.969166666667
+dvp_041_place_35	Fort Benning	Q1438462		32.366111111111,-84.969166666667
+dvp_041_place_36	Fort Holabird	Q3077889		39.26667,-76.53361
+dvp_041_place_37	Baltimore	Q5092		39.286388888889,-76.615
+dvp_041_place_38	Baltimore	Q5092		39.286388888889,-76.615
+dvp_041_place_39	Pittsburgh	Q1342		40.45,-80
+dvp_041_place_40	Boston	Q100		42.358333333333,-71.0625
+dvp_041_place_41	Vietnam	Q881		16,108
+dvp_041_place_42	Baltimore	Q5092		39.286388888889,-76.615
+dvp_041_place_43	Vietnam	Q881		16,108
+dvp_041_place_44	Vietnam	Q881		16,108
+dvp_041_place_45	Baltimore	Q5092		39.286388888889,-76.615
+dvp_041_place_46	Fort Holabird	Q3077889		39.26667,-76.53361
+dvp_041_place_47	Vietnam	Q881		16,108
+dvp_041_place_48	Vietnam	Q881		16,108
+dvp_041_place_49	Ho Chi Minh City	Q1854		10.816666666667,106.63333333333
+dvp_041_place_50	Pittsburgh	Q1342		40.45,-80
+dvp_041_place_51	Vietnam	Q881		16,108
+dvp_041_place_52	Vietnam	Q881		16,108
+dvp_041_place_53	Tulsa	Q44989		36.131388888889,-95.937222222222
+dvp_041_place_54	Vietnam	Q881		16,108
+dvp_041_place_55	Vietnam	Q881		16,108
+dvp_041_place_56	Los Angeles	Q65		34.05223,-118.24368
+dvp_041_place_57	Tan Son Nhut Air Base	Q4115006		10.818888888889,106.65194444444
+dvp_041_place_58	Ho Chi Minh City	Q1854		10.816666666667,106.63333333333
+dvp_041_place_59	Long Bình	Q10786785		10.9405,106.901
+dvp_041_place_60	Ho Chi Minh City	Q1854		10.816666666667,106.63333333333
+dvp_041_place_61	Vietnam	Q881		16,108
+dvp_041_place_62	Quang Tri	Q36579		16.75,107
+dvp_041_place_63	Vietnam	Q881		16,108
+dvp_041_place_64	Vietnam	Q881		16,108
+dvp_041_place_65	Quảng Trị	Q36579		16.75,107
+dvp_041_place_66	Phoenix			
+dvp_041_place_67	Ho Chi Minh City	Q1854		10.816666666667,106.63333333333
+dvp_041_place_68	Vietnam	Q881		16,108
+dvp_041_place_69	Quảng Trị	Q36579		16.75,107
+dvp_041_place_70	Ho Chi Minh City	Q1854		10.816666666667,106.63333333333
+dvp_041_place_71	Vietnam	Q881		16,108
+dvp_041_place_72	Vietnam	Q881		16,108
+dvp_041_place_73	Vietnam	Q881		16,108
+dvp_041_place_74	Vietnam	Q881		16,108
+dvp_041_place_75	Honolulu	Q18094		21.304694444444443,-157.85719444444445
+dvp_041_place_76	Cam Ranh Bay	Q11072051		11.998153,109.219372
+dvp_041_place_77	Honolulu	Q18094		21.304694444444443,-157.85719444444445
+dvp_041_place_78	Vietnam	Q881		16,108
+dvp_041_place_79	Hungary	Q28		47,19
+dvp_041_place_80	Quảng Trị	Q36579		16.75,107
+dvp_041_place_81	Quảng Trị	Q36579		16.75,107
+dvp_041_place_82	Quảng Trị	Q36579		16.75,107
+dvp_041_place_83	Huế	Q36167		16.463684,107.590859
+dvp_041_place_84	Perfume River	Q1515971		16.55,107.63333333333
+dvp_041_place_85	Huế	Q36167		16.463684,107.590859
+dvp_041_place_86	Da Nang	Q25282		16.031944444444445,108.22055555555555
+dvp_041_place_87	Magallanes	Q31810196		12.82917,123.83639
+dvp_041_place_88	Vietnam	Q881		16,108
+dvp_041_place_89	Boston	Q100		42.358333333333,-71.0625
+dvp_041_place_90	Fort Devens	Q1413867		42.545022222222,-71.613336111111
+dvp_041_place_91	Fort Devens	Q1413867		42.545022222222,-71.613336111111
+dvp_041_place_92	Fort Devens	Q1413867		42.545022222222,-71.613336111111
+dvp_041_place_93	Boston	Q100		42.358333333333,-71.0625
+dvp_041_place_94	Vietnam	Q881		16,108
+dvp_041_place_95	Pittsburgh	Q1342		40.45,-80
+dvp_041_place_96	Vietnam	Q881		16,108
+dvp_041_place_97	Pittsburgh	Q1342		40.45,-80
+dvp_041_place_98	London	Q84		51.507222222222,-0.1275
+dvp_041_place_99	London	Q84		51.507222222222,-0.1275
+dvp_041_place_100	London	Q84		51.507222222222,-0.1275
