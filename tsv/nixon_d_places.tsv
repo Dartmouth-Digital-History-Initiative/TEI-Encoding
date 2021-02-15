@@ -1,133 +1,133 @@
-id	placeName
-dvp_050_place_0	Rauner [Special Collections] Library
-dvp_050_place_1	Pennsylvania
-dvp_050_place_2	Pennsylvania
-dvp_050_place_3	California
-dvp_050_place_4	Pennsylvania
-dvp_050_place_5	Pennsylvania
-dvp_050_place_6	California
-dvp_050_place_7	California
-dvp_050_place_8	Los Angeles
-dvp_050_place_9	Los Angeles
-dvp_050_place_10	Los Angeles
-dvp_050_place_11	United States
-dvp_050_place_12	California
-dvp_050_place_13	Youngstown, Ohio
-dvp_050_place_14	New Castle
-dvp_050_place_15	Los Angeles
-dvp_050_place_16	Los Angeles
-dvp_050_place_17	Youngstown
-dvp_050_place_18	New Castle
-dvp_050_place_19	Youngstown
-dvp_050_place_20	Los Angeles
-dvp_050_place_21	Pennsylvania
-dvp_050_place_22	Pennsylvania
-dvp_050_place_23	Los Angeles
-dvp_050_place_24	Pennsylvania
-dvp_050_place_25	Los Angeles
-dvp_050_place_26	Pennsylvania
-dvp_050_place_27	New Castle
-dvp_050_place_28	New Castle
-dvp_050_place_29	Pennsylvania
-dvp_050_place_30	America
-dvp_050_place_31	Pennsylvania
-dvp_050_place_32	Cuba
-dvp_050_place_33	New Castle
-dvp_050_place_34	New York City
-dvp_050_place_35	Pittsburgh
-dvp_050_place_36	Miami Beach
-dvp_050_place_37	Vietnam
-dvp_050_place_38	Rockville Centre
-dvp_050_place_39	Long Island
-dvp_050_place_40	Vietnam
-dvp_050_place_41	New York
-dvp_050_place_42	Miami
-dvp_050_place_43	New York
-dvp_050_place_44	Florida
-dvp_050_place_45	Vietnam
-dvp_050_place_46	New York
-dvp_050_place_47	Miami
-dvp_050_place_48	Vietnam
-dvp_050_place_49	Fort Sam [Fort Sam Houston, Texas]
-dvp_050_place_50	San Antonio
-dvp_050_place_51	Fort Sam
-dvp_050_place_52	Biên Hòa [Air Base]
-dvp_050_place_53	Biên Hòa
-dvp_050_place_54	California
-dvp_050_place_55	Monterey, California
-dvp_050_place_56	Vietnam
-dvp_050_place_57	Monterey Peninsula
-dvp_050_place_58	Vietnam
-dvp_050_place_59	Vietnam
-dvp_050_place_60	Cam Ranh Bay
-dvp_050_place_61	Củ Chi [Base Camp]
-dvp_050_place_62	Củ Chi
-dvp_050_place_63	Củ Chi
-dvp_050_place_64	Củ Chi
-dvp_050_place_65	Saigon
-dvp_050_place_66	Củ Chi
-dvp_050_place_67	Củ Chi
-dvp_050_place_68	Vietnam
-dvp_050_place_69	Vietnam
-dvp_050_place_70	Vietnam
-dvp_050_place_71	Vietnam
-dvp_050_place_72	Hồ Chí Minh trail
-dvp_050_place_73	Laos
-dvp_050_place_74	Củ Chi
-dvp_050_place_75	Vietnam
-dvp_050_place_76	United States
-dvp_050_place_77	Vietnam
-dvp_050_place_78	Củ Chi
-dvp_050_place_79	Củ Chi
-dvp_050_place_80	Củ Chi
-dvp_050_place_81	Củ Chi
-dvp_050_place_82	Củ Chi
-dvp_050_place_83	Củ Chi
-dvp_050_place_84	Philippines
-dvp_050_place_85	Saigon
-dvp_050_place_86	Vietnam
-dvp_050_place_87	Vietnam
-dvp_050_place_88	Vietnam
-dvp_050_place_89	Vietnam
-dvp_050_place_90	Vietnam
-dvp_050_place_91	United States
-dvp_050_place_92	Vietnam
-dvp_050_place_93	U.S.
-dvp_050_place_94	Miami
-dvp_050_place_95	Vietnam
-dvp_050_place_96	Philadelphia
-dvp_050_place_97	Vietnam
-dvp_050_place_98	Pennsylvania
-dvp_050_place_99	Pennsylvania
-dvp_050_place_100	United States
-dvp_050_place_101	Vietnam
-dvp_050_place_102	Philadelphia
-dvp_050_place_103	States
-dvp_050_place_104	Valley Forge
-dvp_050_place_105	Miami
-dvp_050_place_106	Valley
-dvp_050_place_107	Valley Forge
-dvp_050_place_108	Valley Forge
-dvp_050_place_109	New York
-dvp_050_place_110	Miami
-dvp_050_place_111	Vietnam
-dvp_050_place_112	Vietnam
-dvp_050_place_113	Vietnam
-dvp_050_place_114	Vietnam
-dvp_050_place_115	America
-dvp_050_place_116	Vietnam
-dvp_050_place_117	America
-dvp_050_place_118	Chicago
-dvp_050_place_119	Vietnam
-dvp_050_place_120	Rauner [Special Collections] Library
-dvp_050_place_121	Vietnam
-dvp_050_place_122	Vietnam
-dvp_050_place_123	Vietnam
-dvp_050_place_124	Vietnam
-dvp_050_place_125	Vietnam
-dvp_050_place_126	Vietnam
-dvp_050_place_127	Fort Ord
-dvp_050_place_128	Monterey [California]
-dvp_050_place_129	Monterey
-dvp_050_place_130	Vietnam
-dvp_050_place_131	Vietnam
+id	placeName	QID	dvp_id	coordinate location
+dvp_050_place_0	Rauner Special Collections Library	Q98544730		43.70447,-72.28817
+dvp_050_place_1	Pennsylvania	Q1400		41,-77.5
+dvp_050_place_2	Pennsylvania	Q1400		41,-77.5
+dvp_050_place_3	California	Q99		37,-120
+dvp_050_place_4	Pennsylvania	Q1400		41,-77.5
+dvp_050_place_5	Pennsylvania	Q1400		41,-77.5
+dvp_050_place_6	California	Q99		37,-120
+dvp_050_place_7	California	Q99		37,-120
+dvp_050_place_8	Los Angeles	Q65		34.05223,-118.24368
+dvp_050_place_9	Los Angeles	Q65		34.05223,-118.24368
+dvp_050_place_10	Los Angeles	Q65		34.05223,-118.24368
+dvp_050_place_11	United States of America	Q30		39.828175,-98.5795
+dvp_050_place_12	California	Q99		37,-120
+dvp_050_place_13	Youngstown	Q216820		41.096388888889,-80.649166666667
+dvp_050_place_14	New Castle	Q1144835		40.9972,-80.3444
+dvp_050_place_15	Los Angeles	Q65		34.05223,-118.24368
+dvp_050_place_16	Los Angeles	Q65		34.05223,-118.24368
+dvp_050_place_17	Youngstown	Q216820		41.096388888889,-80.649166666667
+dvp_050_place_18	New Castle	Q1144835		40.9972,-80.3444
+dvp_050_place_19	Youngstown	Q216820		41.096388888889,-80.649166666667
+dvp_050_place_20	Los Angeles	Q65		34.05223,-118.24368
+dvp_050_place_21	Pennsylvania	Q1400		41,-77.5
+dvp_050_place_22	Pennsylvania	Q1400		41,-77.5
+dvp_050_place_23	Los Angeles	Q65		34.05223,-118.24368
+dvp_050_place_24	Pennsylvania	Q1400		41,-77.5
+dvp_050_place_25	Los Angeles	Q65		34.05223,-118.24368
+dvp_050_place_26	Pennsylvania	Q1400		41,-77.5
+dvp_050_place_27	New Castle	Q1144835		40.9972,-80.3444
+dvp_050_place_28	New Castle	Q1144835		40.9972,-80.3444
+dvp_050_place_29	Pennsylvania	Q1400		41,-77.5
+dvp_050_place_30	United States of America	Q30		39.828175,-98.5795
+dvp_050_place_31	Pennsylvania	Q1400		41,-77.5
+dvp_050_place_32	Cuba	Q241		22,-79.5
+dvp_050_place_33	New Castle	Q1144835		40.9972,-80.3444
+dvp_050_place_34	New York City	Q60		40.67,-73.94
+dvp_050_place_35	Pittsburgh	Q1342		40.45,-80
+dvp_050_place_36	Miami Beach	Q201516		25.813025,-80.134063888889
+dvp_050_place_37	Vietnam	Q881		16,108
+dvp_050_place_38	Rockville Centre	Q961808		40.663333333333,-73.636944444444
+dvp_050_place_39	Long Island	Q18438		40.805805,-73.253616
+dvp_050_place_40	Vietnam	Q881		16,108
+dvp_050_place_41	New York	Q1384		43,-75
+dvp_050_place_42	Miami	Q8652		25.783333333333,-80.216666666667
+dvp_050_place_43	New York	Q1384		43,-75
+dvp_050_place_44	Florida	Q812		28.133333333333,-81.631666666667
+dvp_050_place_45	Vietnam	Q881		16,108
+dvp_050_place_46	New York	Q1384		43,-75
+dvp_050_place_47	Miami	Q8652		25.783333333333,-80.216666666667
+dvp_050_place_48	Vietnam	Q881		16,108
+dvp_050_place_49	Fort Sam Houston	Q1438706		29.4763,-98.4308
+dvp_050_place_50	San Antonio	Q975		29.425,-98.49388888888889
+dvp_050_place_51	Fort Sam Houston	Q1438706		29.4763,-98.4308
+dvp_050_place_52	Bien Hoa Air Base	Q619905		10.976944444444,106.81833333333
+dvp_050_place_53	Biên Hòa	Q19316		10.927686,106.868067
+dvp_050_place_54	California	Q99		37,-120
+dvp_050_place_55	Monterey	Q487315		36.60024,-121.89468
+dvp_050_place_56	Vietnam	Q881		16,108
+dvp_050_place_57	Monterey Peninsula	Q1772349		36.596,-121.932
+dvp_050_place_58	Vietnam	Q881		16,108
+dvp_050_place_59	Vietnam	Q881		16,108
+dvp_050_place_60	Cam Ranh Bay	Q11072051		11.998153,109.219372
+dvp_050_place_61	Củ Chi Base Camp	Q18349778		10.982,106.507
+dvp_050_place_62	Củ Chi tunnels	Q192721		11.061,106.526
+dvp_050_place_63	Củ Chi tunnels	Q192721		11.061,106.526
+dvp_050_place_64	Củ Chi tunnels	Q192721		11.061,106.526
+dvp_050_place_65	Ho Chi Minh City	Q1854		10.816666666667,106.63333333333
+dvp_050_place_66	Củ Chi tunnels	Q192721		11.061,106.526
+dvp_050_place_67	Củ Chi tunnels	Q192721		11.061,106.526
+dvp_050_place_68	Vietnam	Q881		16,108
+dvp_050_place_69	Vietnam	Q881		16,108
+dvp_050_place_70	Vietnam	Q881		16,108
+dvp_050_place_71	Vietnam	Q881		16,108
+dvp_050_place_72	Ho Chi Minh trail	Q695916		18.6852,104.8373
+dvp_050_place_73	Laos	Q819		18.2,104
+dvp_050_place_74	Củ Chi tunnels	Q192721		11.061,106.526
+dvp_050_place_75	Vietnam	Q881		16,108
+dvp_050_place_76	United States of America	Q30		39.828175,-98.5795
+dvp_050_place_77	Vietnam	Q881		16,108
+dvp_050_place_78	Củ Chi tunnels	Q192721		11.061,106.526
+dvp_050_place_79	Củ Chi tunnels	Q192721		11.061,106.526
+dvp_050_place_80	Củ Chi tunnels	Q192721		11.061,106.526
+dvp_050_place_81	Củ Chi tunnels	Q192721		11.061,106.526
+dvp_050_place_82	Củ Chi tunnels	Q192721		11.061,106.526
+dvp_050_place_83	Củ Chi tunnels	Q192721		11.061,106.526
+dvp_050_place_84	Philippines	Q928		12,123
+dvp_050_place_85	Ho Chi Minh City	Q1854		10.816666666667,106.63333333333
+dvp_050_place_86	Vietnam	Q881		16,108
+dvp_050_place_87	Vietnam	Q881		16,108
+dvp_050_place_88	Vietnam	Q881		16,108
+dvp_050_place_89	Vietnam	Q881		16,108
+dvp_050_place_90	Vietnam	Q881		16,108
+dvp_050_place_91	United States of America	Q30		39.828175,-98.5795
+dvp_050_place_92	Vietnam	Q881		16,108
+dvp_050_place_93	United States of America	Q30		39.828175,-98.5795
+dvp_050_place_94	Miami	Q8652		25.783333333333,-80.216666666667
+dvp_050_place_95	Vietnam	Q881		16,108
+dvp_050_place_96	Philadelphia	Q1345		39.952777777778,-75.163611111111
+dvp_050_place_97	Vietnam	Q881		16,108
+dvp_050_place_98	Pennsylvania	Q1400		41,-77.5
+dvp_050_place_99	Pennsylvania	Q1400		41,-77.5
+dvp_050_place_100	United States of America	Q30		39.828175,-98.5795
+dvp_050_place_101	Vietnam	Q881		16,108
+dvp_050_place_102	Philadelphia	Q1345		39.952777777778,-75.163611111111
+dvp_050_place_103	United States of America	Q30		39.828175,-98.5795
+dvp_050_place_104	Valley Forge General Hospital	Q7912062		40.1186,-75.5484
+dvp_050_place_105	Miami	Q8652		25.783333333333,-80.216666666667
+dvp_050_place_106	Valley Forge General Hospital	Q7912062		40.1186,-75.5484
+dvp_050_place_107	Valley Forge General Hospital	Q7912062		40.1186,-75.5484
+dvp_050_place_108	Valley Forge General Hospital	Q7912062		40.1186,-75.5484
+dvp_050_place_109	New York	Q1384		43,-75
+dvp_050_place_110	Miami	Q8652		25.783333333333,-80.216666666667
+dvp_050_place_111	Vietnam	Q881		16,108
+dvp_050_place_112	Vietnam	Q881		16,108
+dvp_050_place_113	Vietnam	Q881		16,108
+dvp_050_place_114	Vietnam	Q881		16,108
+dvp_050_place_115	United States of America	Q30		39.828175,-98.5795
+dvp_050_place_116	Vietnam	Q881		16,108
+dvp_050_place_117	United States of America	Q30		39.828175,-98.5795
+dvp_050_place_118	Chicago	Q1297		41.881944444444,-87.627777777778
+dvp_050_place_119	Vietnam	Q881		16,108
+dvp_050_place_120	Rauner Special Collections Library	Q98544730		43.70447,-72.28817
+dvp_050_place_121	Vietnam	Q881		16,108
+dvp_050_place_122	Vietnam	Q881		16,108
+dvp_050_place_123	Vietnam	Q881		16,108
+dvp_050_place_124	Vietnam	Q881		16,108
+dvp_050_place_125	Vietnam	Q881		16,108
+dvp_050_place_126	Vietnam	Q881		16,108
+dvp_050_place_127	Fort Ord	Q943136		36.639166666667,-121.73527777778
+dvp_050_place_128	Monterey	Q487315		36.60024,-121.89468
+dvp_050_place_129	Monterey	Q487315		36.60024,-121.89468
+dvp_050_place_130	Vietnam	Q881		16,108
+dvp_050_place_131	Vietnam	Q881		16,108
