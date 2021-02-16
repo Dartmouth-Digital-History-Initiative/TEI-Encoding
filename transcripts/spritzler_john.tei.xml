@@ -3,7 +3,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Transcript of an Interview with a Narrator</title>
+        <title>Transcript of an Interview with John Spritzler</title>
       </titleStmt>
       <publicationStmt>
         <authority>
@@ -51,7 +51,7 @@
       </particDesc>
       <settingDesc>
         <setting>
-          <date when-iso=""/>
+          <date when-iso="0000-08-15"/>
           <locale/>
         </setting>
       </settingDesc>
@@ -74,8 +74,8 @@
       <u who="CONNOLLY">Sure, sure. Did you have any brothers or sisters?</u>
       <u who="SPRITZLER">I have—at the time, I had one sister. I later have a half sister from my father’s future marriage. She’s three years younger than I am.</u>
       <u who="CONNOLLY">Okay. </u>
-      <u who="SPRITZLER">So in high school I had a teacher in the tenth grade, in a class called Power Reading, I think it was called, in <orgName>Pacific Palisades High School, [sic; Palisades Charter High School]</orgName>,  <orgName>“Palisades High”</orgName> <orgName>“Pali High.”</orgName></u>
-      <u who="CONNOLLY">Yeah, <orgName>“Pali High.”</orgName></u>
+      <u who="SPRITZLER">So in high school I had a teacher in the tenth grade, in a class called Power Reading, I think it was called, in <orgName>Pacific Palisades High School, [sic; Palisades Charter High School]</orgName>,  <orgName>“Palisades High”</orgName> “<orgName>Pali High</orgName>.”</u>
+      <u who="CONNOLLY">Yeah, “<orgName>Pali High</orgName>.”</u>
       <u who="SPRITZLER">Her name was <persName>Rose Gilbert</persName>, and she died last year or even less than a year ago, but shortly before she died, she was on national TV because she was still teaching at the age of 93—</u>
       <u who="CONNOLLY">Oh, and was she—</u>
       <u who="SPRITZLER">She was the oldest—</u>
@@ -174,7 +174,7 @@
       <u who="CONNOLLY">Yeah, I guess your mom and your dad were okay with you going out in the town for something.</u>
       <u who="SPRITZLER">Yeah. I can give you a little anecdote about that if you want to hear it.</u>
       <u who="CONNOLLY">Sure.</u>
-      <u who="SPRITZLER">It was <date when='1958'>1958</date>. I was 12 years old. My sister was 9 years old. My grandfather was in <placeName>New York City</placeName>. He was a gossip columnist. So my father was taking, like, a sabbatical, and we were going to <placeName>Europe</placeName>, and they were—you know, my sister and I were going to be dropped off in <placeName>Switzerland</placeName> for about eight months while he and my mother were in <placeName>London</placeName>. He was doing some medical kind of sabbatical thing.So we were in <placeName>New York</placeName>, visiting my grandfather. And so he got us tickets for a matinee showing of How to Succeed in Business Without Really Trying, which was—have you heard of it?</u>
+      <u who="SPRITZLER">It was <date when='1958'>1958</date>. I was 12 years old. My sister was 9 years old. My grandfather was in <placeName>New York City</placeName>. He was a gossip columnist. So my father was taking, like, a sabbatical, and we were going to Europe, and they were—you know, my sister and I were going to be dropped off in <placeName>Switzerland</placeName> for about eight months while he and my mother were in <placeName>London</placeName>. He was doing some medical kind of sabbatical thing.So we were in <placeName>New York</placeName>, visiting my grandfather. And so he got us tickets for a matinee showing of How to Succeed in Business Without Really Trying, which was—have you heard of it?</u>
       <u who="CONNOLLY">Yep.</u>
       <u who="SPRITZLER">I think it’s one of the longest-running successes—</u>
       <u who="CONNOLLY">I’ve seen it.</u>
@@ -195,7 +195,7 @@
       <u who="SPRITZLER">His name was <persName>Louis [pronounced LOO-ee] Sobel</persName>. He was a famous person. He was asked to host <orgName>The Ed Sullivan Show</orgName>, and then he turned it down because he had a big nose that he was embarrassed—and so he was okay on radio but didn’t want to be on television.</u>
       <u who="CONNOLLY">Interesting.</u>
       <u who="SPRITZLER">And he was a syndicated columnist, so your grandfather would probably know his name. He wrote—it was him and <persName>Walter Winchell</persName>. <persName>Walter Winchell</persName> revealed the dirt about people. My grandfather was famous for only saying nice things about them. [Laughs.]</u>
-      <u who="CONNOLLY"><orgName>Fair</orgName>, fair. Was your grandfather close with your family? Was your grandfather your father’s side or your mom’s side?</u>
+      <u who="CONNOLLY">Fair, fair. Was your grandfather close with your family? Was your grandfather your father’s side or your mom’s side?</u>
       <u who="SPRITZLER">My mother’s side.</u>
       <u who="CONNOLLY">Mother’s side. Okay. Did you see him often?</u>
       <u who="SPRITZLER">Well,—</u>
@@ -203,7 +203,7 @@
       <u who="SPRITZLER">—he would come out occasionally to <placeName>Los Angeles</placeName>. You know, occasionally we’d see him then, and I saw him a few times.</u>
       <u who="CONNOLLY">Sure.</u>
       <u who="SPRITZLER">You know, when I was in college, I stopped there on my way to <orgName>Dartmouth</orgName> as a freshman and so forth. But he was mortified—he was very close friends with Senator—ah! Oh, what’s his name? One of the big senators who was I guess from <placeName>New York</placeName>, very pro-war. Ah, I can’t remember the senator’s name. I think it starts with a G. But he was good friends with the senator. And at <orgName>Dartmouth</orgName> gradu- [Apparent recording glitch.]</u>
-      <u who="CONNOLLY">So this is the second audio file of <name type="event">the August 15th</name> interview with <persName>Mr. John Spritzler</persName>. We refer to QuickTime player on my MacBook Pro as a secondary backup after the recorder was no longer able to store any additional files.So, <persName>John</persName>, if you would like to take it where we left off.</u>
+      <u who="CONNOLLY">So this is the second audio file of the August 15th interview with <persName>Mr. John Spritzler</persName>. We refer to QuickTime player on my MacBook Pro as a secondary backup after the recorder was no longer able to store any additional files.So, <persName>John</persName>, if you would like to take it where we left off.</u>
       <u who="SPRITZLER">Okay. So I was getting my diploma. After I took my diploma in hand, I said to <persName>Senator [Ernest H.] Gruening</persName>, “Hi, I’m <persName>Louis Sobel</persName>’s grandson” and extended my hand for a handshake, and he grinned and smiled, and then I said, “I think that you’re a criminal for voting for, you know, funds for the war in <placeName>Vietnam</placeName>,” and his face completely changed. You know, he was horrified. And my grandfather was mortified later when he found out about it, of course. So that’s—</u>
       <u who="CONNOLLY">Gotcha.</u>
       <u who="SPRITZLER">[Chuckles.]</u>
@@ -452,7 +452,7 @@
       <u who="CONNOLLY">Yeah.</u>
       <u who="SPRITZLER">So I was really into physics. But I was also—had become aware that the war in <placeName>Vietnam</placeName>—like everybody at the time—you know, we were reading the headlines and seeing events, like, you know, the monks immolating themselves, you know, in protest of the war. So I was becoming very, very aware that something was wrong. You know, my pro-<persName>Goldwater</persName> “life is wonderful; the <placeName>United States</placeName> is a great place” was developing cracks.</u>
       <u who="CONNOLLY">Yeah.</u>
-      <u who="SPRITZLER">And the civil rights movement was one of them—you know, the more I knew about the Jim Crow laws and everything. And then <name type="event">the Vietnam War</name> was another big one. And so I decided that I was going to take a course—this was a great college; this was where all knowledge was, so I wanted to know why was the  <placeName>United States</placeName> fighting in <placeName>Vietnam</placeName>? So it’s a simple question. And I decided, to get the answer to that question I would take the right history course, and then, you know, that would be the end of it. I’d get the answer and continue with physics, right?</u>
+      <u who="SPRITZLER">And the civil rights movement was one of them—you know, the more I knew about the Jim Crow laws and everything. And then the <name type="event">Vietnam War</name> was another big one. And so I decided that I was going to take a course—this was a great college; this was where all knowledge was, so I wanted to know why was the  <placeName>United States</placeName> fighting in <placeName>Vietnam</placeName>? So it’s a simple question. And I decided, to get the answer to that question I would take the right history course, and then, you know, that would be the end of it. I’d get the answer and continue with physics, right?</u>
       <u who="CONNOLLY">Yeah.</u>
       <u who="SPRITZLER">So I took an Asian history course.</u>
       <u who="CONNOLLY">What time era?</u>
@@ -478,7 +478,7 @@
       <u who="CONNOLLY">Sure. And did you find it kind of bubbling up more in conversation on campus?</u>
       <u who="SPRITZLER">Well, yeah. I mean,—</u>
       <u who="CONNOLLY">Early on, at least?</u>
-      <u who="SPRITZLER">—the years between <date when='1964'>’64</date> and <date when='1968'>’68 were years</date> in which the entire country went from practically nobody opposing the war—by <date when='1968'>’68</date>, a majority of Americans opposed the war, so there was an extremely rapid period of change in general, and <orgName>Dartmouth</orgName> reflected that like everywhere else.</u>
+      <u who="SPRITZLER">—the years between <date when='1964'>’64</date> and <date when='1968'>’68</date> were years in which the entire country went from practically nobody opposing the war—by <date when='1968'>’68</date>, a majority of Americans opposed the war, so there was an extremely rapid period of change in general, and <orgName>Dartmouth</orgName> reflected that like everywhere else.</u>
       <u who="CONNOLLY">Okay. Interesting. So you took these history courses. Was it the content or professors that really kind of led you to—</u>
       <u who="SPRITZLER">This is the thing about history that I liked: I had to take a sociology course, Soci 101. In fact, I still have anxiety nightmares because of this course.</u>
       <u who="CONNOLLY">Why?</u>
@@ -536,7 +536,7 @@
       <u who="CONNOLLY">Sure, sure.</u>
       <u who="SPRITZLER">So I’ve always that about history.</u>
       <u who="CONNOLLY">You liked the appeal. Do you have a certain era of history that, you know, you specialized in?</u>
-      <u who="SPRITZLER">Well, <placeName>U.S.</placeName> history and Asian history during the—you know, that led up to—any history that seemed to offer a possibility of answering that one question. You know, I studied <placeName>Japan</placeName>—you know, the <orgName>Meiji Restoration</orgName>, and <placeName>China</placeName> and the <orgName>Kuomintang</orgName>, and Southeast Asia I guess a little bit, and <placeName>U.S.</placeName> history—you know. I can’t even remember now. But that was what determined my choice of history classes.</u>
+      <u who="SPRITZLER">Well, <placeName>U.S.</placeName> history and Asian history during the—you know, that led up to—any history that seemed to offer a possibility of answering that one question. You know, I studied <placeName>Japan</placeName>—you know, the Meiji Restoration, and <placeName>China</placeName> and the <orgName>Kuomintang</orgName>, and Southeast Asia I guess a little bit, and <placeName>U.S.</placeName> history—you know. I can’t even remember now. But that was what determined my choice of history classes.</u>
       <u who="CONNOLLY">Okay. Gotcha. So you talked about classes. I guess I’m curious—</u>
       <u who="SPRITZLER">I never did get the answer, by the way [chuckles] in that process.</u>
       <u who="CONNOLLY">Fair. Fair. I’m curious about kind of the moments that stand out to you when you started getting involved with activism on campus. Was it just kind of hearing it, being interested and kind of going to it or, like, say, a friend kind of pulling you in, or—was it the fact that—</u>
@@ -556,7 +556,7 @@
       <u who="CONNOLLY">Okay.</u>
       <u who="SPRITZLER">The head of the <orgName>Dartmouth Christian Union</orgName> was—the adult  person in charge was <persName>Rev. George Kalbfleisch</persName>, and he was very, very anti war and very pro civil rights, and so he made the <orgName>Dartmouth Christian Union</orgName> and the office and the mimeograph machine, which was very important—do you know what a mimeograph machine is? [Chuckles.]</u>
       <u who="CONNOLLY">Yep.</u>
-      <u who="SPRITZLER">I don’t think we even had <orgName>Xerox</orgName> machines then.</u>
+      <u who="SPRITZLER">I don’t think we even had Xerox machines then.</u>
       <u who="CONNOLLY">Interesting.</u>
       <u who="SPRITZLER">You know, never mind printers and computers and all that, right? And there was a secretary for the office—you know, an employee. He made that available to us anti-war people. We eventually made ourselves an <orgName>SDS</orgName> chapter, <orgName>Students for a Democratic Society</orgName>, and that was our home. Do you remember the name of the building? It’s not—it’s next to <placeName>Parkhurst [Hall]</placeName>.</u>
       <u who="CONNOLLY"><placeName>McNutt [Hall]</placeName>.</u>
@@ -659,7 +659,7 @@
       <u who="SPRITZLER">He—</u>
       <u who="CONNOLLY">Had a record?</u>
       <u who="SPRITZLER">—had privately identified himself to me and my—and a select number of—one or two of my comrades as sharing our anti-war beliefs.</u>
-      <u who="CONNOLLY">Okay. And he gave you this key, and obviously you didn’t burn down the ROTC office.</u>
+      <u who="CONNOLLY">Okay. And he gave you this key, and obviously you didn’t burn down the <orgName>ROTC</orgName> office.</u>
       <u who="SPRITZLER">No. We talked about it, and we weighed the pros and cons. Interestingly, one of the cons that I don’t recall even considering was that we might get caught. Somehow we didn’t even consider that. But the main thing we considered is that it was politically a terrible idea. We did not want—we wanted to build a mass movement against the war; we did not want to burn the <orgName>ROTC</orgName> building down and then have a mass movement develop against people burning buildings down.</u>
       <u who="CONNOLLY">Sure.</u>
       <u who="SPRITZLER">So it would have been disastrous from the point of view of building a mass opposition to the war if we had done it, and that’s what we decided, so we just decided no, we’re not going to do it.</u>
@@ -849,7 +849,7 @@
       <u who="CONNOLLY">Interesting. So you stuck with it. You got your degree. You mentioned at the aside about meeting the senator up on stage. And then you decided to hang around, you mentioned, as an agitator.</u>
       <u who="SPRITZLER">Do you want to talk about what I did the years afterwards?</u>
       <u who="CONNOLLY">Yeah, I do.</u>
-      <u who="SPRITZLER">Okay. Well, I ended up joining the <orgName>Progressive Labor Party</orgName>, a Marxist-Leninist spinoff of the <orgName>Communist Party</orgName>. And the <orgName>Progressive Labor Party</orgName> first sent me to <placeName>Connecticut</placeName>, with a handful of other people, to organize—[A tone sounds.]—I hear it, too. I don’t know what it was—to organize political support for students at <orgName>the University of Connecticut</orgName>, <orgName>UConn</orgName>, for <persName>[James M.] Jim Sober</persName>, who was an <orgName>SDS</orgName> leader there who had been arrested—serious felony charges—for leading a building takeover against <orgName>ROTC</orgName>. So I was there for about a year or so.And then I was asked to go with another married couple to <placeName>Buffalo, New York</placeName>, to organize an <orgName>SDS</orgName> chapter at <orgName>UB</orgName>, <orgName>University of Buffalo</orgName>, part of the <orgName>[State] University of New York</orgName> system. So the focus then was fighting racism being taught on campus, so I enrolled in <persName>Professor [John] Halstead</persName>’s history class. Not to get—I didn’t need credit or anything; I was already a college graduate, but to be able to organize students.</u>
+      <u who="SPRITZLER">Okay. Well, I ended up joining the <orgName>Progressive Labor Party</orgName>, a Marxist-Leninist spinoff of the <orgName>Communist Party</orgName>. And the <orgName>Progressive Labor Party</orgName> first sent me to <placeName>Connecticut</placeName>, with a handful of other people, to organize—[A tone sounds.]—I hear it, too. I don’t know what it was—to organize political support for students at the <orgName>University of Connecticut</orgName>, <orgName>UConn</orgName>, for <persName>[James M.] Jim Sober</persName>, who was an <orgName>SDS</orgName> leader there who had been arrested—serious felony charges—for leading a building takeover against <orgName>ROTC</orgName>. So I was there for about a year or so.And then I was asked to go with another married couple to <placeName>Buffalo, New York</placeName>, to organize an <orgName>SDS</orgName> chapter at <orgName>UB</orgName>, <orgName>University of Buffalo</orgName>, part of the <orgName>[State] University of New York</orgName> system. So the focus then was fighting racism being taught on campus, so I enrolled in <persName>Professor [John] Halstead</persName>’s history class. Not to get—I didn’t need credit or anything; I was already a college graduate, but to be able to organize students.</u>
       <u who="CONNOLLY">Yep.</u>
       <u who="SPRITZLER">And <persName>Professor Halstead</persName>’s class was one in which he—he was a very authoritarian, Germanic kind of a authoritarian professor, and he taught that European imperialism was good for the Africans because it civilized the savage Africans. And I made it a point of, extremely politely, you know, raising my hand, only when called upon, politely expressing disagreement, for which he accused me of disrupting his class because in his opinion, the most polite, orderly—</u>
       <u who="CONNOLLY">Now, now, what—</u>
@@ -917,7 +917,7 @@
       <u who="CONNOLLY">What year?</u>
       <u who="SPRITZLER">It was, like, <date when='1967'>’67</date>, I guess, you know. Totally for the war. Really disgusting. Just a little anecdote.</u>
       <u who="CONNOLLY">Yeah. I’m trying to think of the right question. I mean, you described how at least on campus, student population that was supporting the war was pretty—you seemed to indicate it steadily declined. What was it like interacting with those few holdouts who were still very supportive?</u>
-      <u who="SPRITZLER">You’d argue, you know. You’d argue, sometimes scream. You know, sometimes ignore them. A big part of the pro-war, anti-war hinged around how much you knew about it. If you understood the government was lying, you tended to be anti-war because, you know, peasants were being murdered with napalm. You know, there was the picture of that girl running toward the camera, naked, with napalm. And, you know, you either were horrified by that stuff or, if you supported it, the only way to support it was by believing government lies that somehow freedom was being defended. If you know that—even <persName>Eisenhower</persName> admitted that 80 percent would have voted for <placeName>Ho Chi Minh</placeName>. And knew that. Which most people did not. But when you found out stuff like that, you know, it sort of takes the moral rug out from underneath your pro-war position. So we felt that we had a basis for talking to people who disagreed with us, which was to show them facts.</u>
+      <u who="SPRITZLER">You’d argue, you know. You’d argue, sometimes scream. You know, sometimes ignore them. A big part of the pro-war, anti-war hinged around how much you knew about it. If you understood the government was lying, you tended to be anti-war because, you know, peasants were being murdered with napalm. You know, there was the picture of that girl running toward the camera, naked, with napalm. And, you know, you either were horrified by that stuff or, if you supported it, the only way to support it was by believing government lies that somehow freedom was being defended. If you know that—even <persName>Eisenhower</persName> admitted that 80 percent would have voted for <persName>Ho Chi Minh</persName>. And knew that. Which most people did not. But when you found out stuff like that, you know, it sort of takes the moral rug out from underneath your pro-war position. So we felt that we had a basis for talking to people who disagreed with us, which was to show them facts.</u>
       <u who="CONNOLLY">And see their response?</u>
       <u who="SPRITZLER">You know, it wasn’t like, “You’re an asshole.”</u>
       <u who="CONNOLLY">Yeah. Yeah, yeah.</u>
@@ -997,7 +997,7 @@
       <u who="CONNOLLY">Yeah. Did he ever explain why—</u>
       <u who="SPRITZLER">The gun was to be given, along with a bunch of cash, to his revolutionaries.</u>
       <u who="CONNOLLY">Okay. A singular gun. It’s not like you’re giving multiple—it’s one firearm, a pistol or something like that.</u>
-      <u who="SPRITZLER">Maybe he had one in his back pocket, too. I don’t know. So there you go. That was <date when='1968'>1968</date>. That was why I wasn’t at <name type="event">the Democratic Convention</name>, protesting. I was in this other country instead.</u>
+      <u who="SPRITZLER">Maybe he had one in his back pocket, too. I don’t know. So there you go. That was <date when='1968'>1968</date>. That was why I wasn’t at the <name type="event">Democratic Convention</name>, protesting. I was in this other country instead.</u>
       <u who="CONNOLLY">Okay. How long were you there?</u>
       <u who="SPRITZLER">About a month.</u>
       <u who="CONNOLLY">Okay. And travel and seeing the country here?</u>
