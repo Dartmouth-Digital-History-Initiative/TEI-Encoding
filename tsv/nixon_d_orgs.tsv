@@ -40,7 +40,7 @@ dvp_050_org_37	Mount Sinai Hospital	Q1476505
 dvp_050_org_38	NewYork–Presbyterian Hospital	Q975653	
 dvp_050_org_39	Dartmouth College	Q49116	
 dvp_050_org_40	Wellesley College	Q49205	
-dvp_050_org_41	Nautilus Hotel [now Nautilus South Beach]		
+dvp_050_org_41	Nautilus Hotel [now Nautilus South Beach]		dvp_0217
 dvp_050_org_42	Wellesley College	Q49205	
 dvp_050_org_43	Reserve Officers' Training Corps	Q489983	
 dvp_050_org_44	Columbia University	Q49088	
@@ -49,7 +49,7 @@ dvp_050_org_46	12th Evacuation Hospital	Q104883008
 dvp_050_org_47	12th Evacuation Hospital	Q104883008	
 dvp_050_org_48	21st Evac[uation Hospital]		
 dvp_050_org_49	12th Evacuation Hospital	Q104883008	
-dvp_050_org_50	6th Convalescent Center		
+dvp_050_org_50	6th Convalescent Center	Q105518973	
 dvp_050_org_51	United States Army	Q9212	
 dvp_050_org_52	United States Army	Q9212	
 dvp_050_org_53	United States Army	Q9212	
@@ -58,7 +58,7 @@ dvp_050_org_55	12th Evacuation Hospital	Q104883008
 dvp_050_org_56	National Front for the Liberation of South Vietnam	Q174423	
 dvp_050_org_57	American Red Cross	Q470110	
 dvp_050_org_58	12th Evacuation Hospital	Q104883008	
-dvp_050_org_59	6th Convalescent Center		
+dvp_050_org_59	6th Convalescent Center	Q105518973	
 dvp_050_org_60	Valley Forge General Hospital	Q7912062	
 dvp_050_org_61	National Front for the Liberation of South Vietnam	Q174423	
 dvp_050_org_62	NewYork–Presbyterian Hospital	Q975653	
@@ -68,7 +68,7 @@ dvp_050_org_65	Columbia University	Q49088
 dvp_050_org_66	United States Armed Forces	Q11211	
 dvp_050_org_67	Chinese Armed Forces	Q16189636	
 dvp_050_org_68	Chinese Armed Forces	Q16189636	
-dvp_050_org_69	America		
+dvp_050_org_69	United States of America	Q30	
 dvp_050_org_70	United States Armed Forces	Q11211	
 dvp_050_org_71	United States Marine Corps	Q11218	
 dvp_050_org_72	United States Department of Veterans Affairs	Q592576	
