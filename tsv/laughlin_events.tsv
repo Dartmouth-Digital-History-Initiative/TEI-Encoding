@@ -1,45 +1,45 @@
-id	name
-dvp_031_event_0	Dartmouth Vietnam Project
-dvp_031_event_1	World War II
-dvp_031_event_2	Vietnam War
-dvp_031_event_3	Vietnam War
-dvp_031_event_4	Vietnam War
-dvp_031_event_5	Vietnam
-dvp_031_event_6	Vietnam War
-dvp_031_event_7	Vietnam
-dvp_031_event_8	Vietnam
-dvp_031_event_9	Vietnam
-dvp_031_event_10	Vietnam
-dvp_031_event_11	Afghanistan
-dvp_031_event_12	Vietnam
-dvp_031_event_13	Tet Offensive
-dvp_031_event_14	World War II
-dvp_031_event_15	Tet Offensive
-dvp_031_event_16	Tet Offensive
-dvp_031_event_17	Mỹ Lai Massacre
-dvp_031_event_18	World War II
-dvp_031_event_19	Tet Offensive
-dvp_031_event_20	Tet Offensive
-dvp_031_event_21	Tet Offensive
-dvp_031_event_22	Tet Offensive
-dvp_031_event_23	Tet Offensive
-dvp_031_event_24	Tet Offensive
-dvp_031_event_25	Tet Offensive
-dvp_031_event_26	Tet Offensive
-dvp_031_event_27	Tet Offensive
-dvp_031_event_28	Afghanistan
-dvp_031_event_29	Vietnam
-dvp_031_event_30	Vietnam
-dvp_031_event_31	Vietnam
-dvp_031_event_32	Afghanistan
-dvp_031_event_33	Iraq
-dvp_031_event_34	Afghanistan
-dvp_031_event_35	Iraq
-dvp_031_event_36	Vietnam
-dvp_031_event_37	Vietnam
-dvp_031_event_38	Vietnam
-dvp_031_event_39	Tet Offensive
-dvp_031_event_40	Vietnam
-dvp_031_event_41	Vietnam War
-dvp_031_event_42	Vietnam War
-dvp_031_event_43	[James E.] Jimmy Carter [Jr.] years
+id	name	QID	dvp_id	start time	end time	point in time
+dvp_031_event_0	Dartmouth Vietnam Project	Q104889683				
+dvp_031_event_1	World War II	Q362		1939-09-01T00:00:00Z	1945-09-02T00:00:00Z	
+dvp_031_event_2	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_031_event_3	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_031_event_4	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_031_event_5	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_031_event_6	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_031_event_7	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_031_event_8	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_031_event_9	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_031_event_10	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_031_event_11	Afghanistan War	Q182865		2001-10-07T00:00:00Z	2014-12-28T00:00:00Z	
+dvp_031_event_12	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_031_event_13	Tet Offensive	Q82542		1968-01-30T00:00:00Z	1968-09-23T00:00:00Z	
+dvp_031_event_14	World War II	Q362		1939-09-01T00:00:00Z	1945-09-02T00:00:00Z	
+dvp_031_event_15	Tet Offensive	Q82542		1968-01-30T00:00:00Z	1968-09-23T00:00:00Z	
+dvp_031_event_16	Tet Offensive	Q82542		1968-01-30T00:00:00Z	1968-09-23T00:00:00Z	
+dvp_031_event_17	My Lai Massacre	Q183421				1968-03-16T00:00:00Z
+dvp_031_event_18	World War II	Q362		1939-09-01T00:00:00Z	1945-09-02T00:00:00Z	
+dvp_031_event_19	Tet Offensive	Q82542		1968-01-30T00:00:00Z	1968-09-23T00:00:00Z	
+dvp_031_event_20	Tet Offensive	Q82542		1968-01-30T00:00:00Z	1968-09-23T00:00:00Z	
+dvp_031_event_21	Tet Offensive	Q82542		1968-01-30T00:00:00Z	1968-09-23T00:00:00Z	
+dvp_031_event_22	Tet Offensive	Q82542		1968-01-30T00:00:00Z	1968-09-23T00:00:00Z	
+dvp_031_event_23	Tet Offensive	Q82542		1968-01-30T00:00:00Z	1968-09-23T00:00:00Z	
+dvp_031_event_24	Tet Offensive	Q82542		1968-01-30T00:00:00Z	1968-09-23T00:00:00Z	
+dvp_031_event_25	Tet Offensive	Q82542		1968-01-30T00:00:00Z	1968-09-23T00:00:00Z	
+dvp_031_event_26	Tet Offensive	Q82542		1968-01-30T00:00:00Z	1968-09-23T00:00:00Z	
+dvp_031_event_27	Tet Offensive	Q82542		1968-01-30T00:00:00Z	1968-09-23T00:00:00Z	
+dvp_031_event_28	Afghanistan War	Q182865		2001-10-07T00:00:00Z	2014-12-28T00:00:00Z	
+dvp_031_event_29	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_031_event_30	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_031_event_31	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_031_event_32	Afghanistan War	Q182865		2001-10-07T00:00:00Z	2014-12-28T00:00:00Z	
+dvp_031_event_33	Iraq War	Q545449		2003-03-20T00:00:00Z	2011-12-15T00:00:00Z	
+dvp_031_event_34	Afghanistan War	Q182865		2001-10-07T00:00:00Z	2014-12-28T00:00:00Z	
+dvp_031_event_35	Iraq War	Q545449		2003-03-20T00:00:00Z	2011-12-15T00:00:00Z	
+dvp_031_event_36	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_031_event_37	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_031_event_38	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_031_event_39	Tet Offensive	Q82542		1968-01-30T00:00:00Z	1968-09-23T00:00:00Z	
+dvp_031_event_40	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_031_event_41	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_031_event_42	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_031_event_43	presidency of Jimmy Carter	Q2824547		1977-01-20T00:00:00Z	1981-01-20T00:00:00Z	

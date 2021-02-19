@@ -1,31 +1,31 @@
-id	name
-dvp_026_event_0	World War II
-dvp_026_event_1	World War II
-dvp_026_event_2	D-Day-Plus-10
-dvp_026_event_3	D-Day
-dvp_026_event_4	Vietnam [War]
-dvp_026_event_5	Vietnam
-dvp_026_event_6	World War II
-dvp_026_event_7	Vietnam War
-dvp_026_event_8	Vietnam War
-dvp_026_event_9	Vietnam War
-dvp_026_event_10	Tet Offensive
-dvp_026_event_11	Tet Offensive
-dvp_026_event_12	Tet Offensive
-dvp_026_event_13	Tet Offensive
-dvp_026_event_14	Tet Offensive
-dvp_026_event_15	World War II
-dvp_026_event_16	Vietnam
-dvp_026_event_17	Vietnam
-dvp_026_event_18	Korean War
-dvp_026_event_19	World War II
-dvp_026_event_20	Korean War
-dvp_026_event_21	Paris Peace Treaty [Paris Peace Accords]
-dvp_026_event_22	Saigon eventually fell
-dvp_026_event_23	Vietnam War
-dvp_026_event_24	Vietnam War
-dvp_026_event_25	Vietnam
-dvp_026_event_26	Vietnam War
-dvp_026_event_27	Vietnam
-dvp_026_event_28	Vietnam
-dvp_026_event_29	Vietnam War
+id	name	QID	dvp_id	start time	end time	point in time
+dvp_026_event_0	World War II	Q362		1939-09-01T00:00:00Z	1945-09-02T00:00:00Z	
+dvp_026_event_1	World War II	Q362		1939-09-01T00:00:00Z	1945-09-02T00:00:00Z	
+dvp_026_event_2	D-Day-Plus-10					
+dvp_026_event_3	Normandy landings	Q16470		1944-06-06T00:00:00Z	1944-08-29T00:00:00Z	
+dvp_026_event_4	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_026_event_5	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_026_event_6	World War II	Q362		1939-09-01T00:00:00Z	1945-09-02T00:00:00Z	
+dvp_026_event_7	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_026_event_8	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_026_event_9	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_026_event_10	Tet Offensive	Q82542		1968-01-30T00:00:00Z	1968-09-23T00:00:00Z	
+dvp_026_event_11	Tet Offensive	Q82542		1968-01-30T00:00:00Z	1968-09-23T00:00:00Z	
+dvp_026_event_12	Tet Offensive	Q82542		1968-01-30T00:00:00Z	1968-09-23T00:00:00Z	
+dvp_026_event_13	Tet Offensive	Q82542		1968-01-30T00:00:00Z	1968-09-23T00:00:00Z	
+dvp_026_event_14	Tet Offensive	Q82542		1968-01-30T00:00:00Z	1968-09-23T00:00:00Z	
+dvp_026_event_15	World War II	Q362		1939-09-01T00:00:00Z	1945-09-02T00:00:00Z	
+dvp_026_event_16	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_026_event_17	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_026_event_18	Korean War	Q8663		1950-06-25T00:00:00Z	1953-07-27T00:00:00Z	
+dvp_026_event_19	World War II	Q362		1939-09-01T00:00:00Z	1945-09-02T00:00:00Z	
+dvp_026_event_20	Korean War	Q8663		1950-06-25T00:00:00Z	1953-07-27T00:00:00Z	
+dvp_026_event_21	Paris Peace Accords	Q696802				1973-01-27T00:00:00Z
+dvp_026_event_22	Fall of Saigon	Q482456				1975-04-30T00:00:00Z
+dvp_026_event_23	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_026_event_24	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_026_event_25	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_026_event_26	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_026_event_27	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_026_event_28	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_026_event_29	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	

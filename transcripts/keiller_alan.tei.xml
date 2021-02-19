@@ -1,9 +1,9 @@
 <?xml-model href="../schemas/ddhi.rnc" type="application/relax-ng-compact-syntax"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="dvp_034">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Transcript of an Interview with a Narrator</title>
+        <title>Transcript of an Interview with a Alan Keiller</title>
       </titleStmt>
       <publicationStmt>
         <authority>
@@ -12,6 +12,7 @@
         <date>
           <!--  Date of publication, e.g. for citation purposes  -->
         </date>
+        <idno type="DDHI">dvp_034</idno>
       </publicationStmt>
       <sourceDesc>
         <recordingStmt>
@@ -58,7 +59,7 @@
   </teiHeader>
   <text>
     <body>
-      <u who="MARKOWITZ">This is <persName>Hannah Markowitz</persName> in <placeName>Rauner [Special Collections] Library</placeName> on <placeName>Dartmouth College</placeName>’s campus on <date when="2017-02-23">February 23rd, 2017</date>. I’m here with <persName>[Alan C.] “Al” Keiller</persName>, and this interview is for the <orgName>Dartmouth Vietnam Project</orgName>.So first of all, just thank you for making the trip to <placeName>Hanover</placeName> today to speak with me. I just wanted to start out with a little background information: just about where you’re from, your parents, your family, anything about your early childhood, really.</u>
+      <u who="MARKOWITZ">This is <persName>Hannah Markowitz</persName> in <placeName>Rauner [Special Collections] Library</placeName> on <placeName>Dartmouth College’s campus</placeName> on <date when="2017-02-23">February 23rd, 2017</date>. I’m here with <persName>[Alan C.] “Al” Keiller</persName>, and this interview is for the <orgName>Dartmouth Vietnam Project</orgName>.So first of all, just thank you for making the trip to <placeName>Hanover</placeName> today to speak with me. I just wanted to start out with a little background information: just about where you’re from, your parents, your family, anything about your early childhood, really.</u>
       <u who="KEILLER">Oh, good. Well, I was born in <placeName>Paterson, New Jersey</placeName>, and my family lived in <placeName>North Haledon, New Jersey</placeName>, which is very close to <placeName>Paterson</placeName> and <placeName>Ridgewood</placeName>, so very much an area that was for commuters to <placeName>New York City</placeName>. So my dad worked in <placeName>New York City</placeName>. I have two brothers, one a year and a half older and another that’s seven years younger. All three of us went to <orgName>Dartmouth</orgName>, —</u>
       <u who="MARKOWITZ">Oh, yeah!</u>
       <u who="KEILLER">—and we all went to <orgName>Tuck School [of Business]</orgName> on what was then the 3-2 program. My older brother and I went to <orgName>Dartmouth</orgName> on <orgName>[U.S.] Navy</orgName> scholarships, so we had to compete, take tests, much like the academies, and if you were accepted, you—you selected the college that you could go to or you could put in for the college, and if you—it was a ranking system. And it turns out my older brother came to <orgName>Dartmouth</orgName> on the <orgName>Navy</orgName> scholarship. And when it was my turn to—to go to college, I had applied to a number of places and ended up at <placeName>Dartmouth</placeName>. I had an appointment to the <orgName>[U.S.] Air Force Academy</orgName>, but decided <orgName>Dartmouth</orgName> was going to be probably better because I wasn’t planning to make the military a career. So we grew up in a suburban ‘50s household, very normal. My dad never went to college, so the three boys were the first in our family to go to college. Just we played a lot of sports. I was a good student, very good student and was very fortunate to come to <placeName>Dartmouth</placeName> and then very fortunate to be on the <orgName>Navy</orgName> scholarship because we would not have been able to attend a place like <orgName>Dartmouth</orgName> without the scholarship. Unfortunately, it’s no longer here at <orgName>Dartmouth</orgName>. They had closed it down, partly due to the politics around the end of the <name type="event">Vietnam War</name>. And they’ve tried to bring it back, and it’s very difficult to do financially. I think the college might welcome it back, but it’s—it’s difficult to have a large enough group to justify having the program.So when I graduated, we had I think about 35—</u>
@@ -95,7 +96,7 @@
       <u who="MARKOWITZ">Right.</u>
       <u who="KEILLER">You didn’t have to define it. And so I think, you know, that was sort of the context. And then when the Soviet Union became so aggressive and negative and there was this fear mongering that was going on, there was a real concern that, you know, bombers could take off, and so we did the duck-and-cover in the classroom, under our desks,—</u>
       <u who="MARKOWITZ">Right.</u>
-      <u who="KEILLER">—and learned a little bit about nuclear blasts and those kind of things. And so it was very—very much there. And in <date when="1957">1957</date>, when <name type="event">Sputnik [1]</name> went up, that was a real shock. It was very dramatic because it said that the <orgName>Russians</orgName>, or the <orgName>Soviets</orgName>, could launch a missile—if they could launch that, they could launch a missile that could hit us, and that was very electrifying.</u>
+      <u who="KEILLER">—and learned a little bit about nuclear blasts and those kind of things. And so it was very—very much there. And in <date when="1957">1957</date>, when <name type="event">Sputnik [1] went up</name>, that was a real shock. It was very dramatic because it said that the <orgName>Russians</orgName>, or the <orgName>Soviets</orgName>, could launch a missile—if they could launch that, they could launch a missile that could hit us, and that was very electrifying.</u>
       <u who="MARKOWITZ">Right.</u>
       <u who="KEILLER">It created a lot of interest in math and science and associated things, yeah.</u>
       <u who="MARKOWITZ">So did your father serve in <name type="event">World War II</name>?</u>
@@ -203,7 +204,7 @@
       <u who="MARKOWITZ">No, I haven’t heard that.</u>
       <u who="KEILLER">You should write that down and look him up. Google him.</u>
       <u who="MARKOWITZ">[Chuckles.]</u>
-      <u who="KEILLER"><persName>Rickover</persName>. He was the father of the nuclear <orgName>Navy</orgName>, and he had—<persName>Hyman Rickover</persName>, <orgName>Naval Academy</orgName>. I think <orgName>’22</orgName>. He was the guy who developed the [USS] Nautilus, the first nuclear-powered submarine, and then a series of submarines after that. And eventually, when I was in, there were four surface ships that were powered by nuclear power plants. So most of the people who were in the nuclear power program were engineers, and all of the people who graduated from the <orgName>Naval Academy</orgName> were all engineers, so they were prime people to go in.But at the time, because of the Cold War and the <name type="event">Vietnam War</name>, they were building submarines faster than they could man them up,—</u>
+      <u who="KEILLER"><persName>Rickover</persName>. He was the father of the nuclear <orgName>Navy</orgName>, and he had—<persName>Hyman Rickover</persName>, <orgName>Naval Academy</orgName>. I think ’22. He was the guy who developed the <orgName>[USS] Nautilus</orgName>, the first nuclear-powered submarine, and then a series of submarines after that. And eventually, when I was in, there were four surface ships that were powered by nuclear power plants. So most of the people who were in the nuclear power program were engineers, and all of the people who graduated from the <orgName>Naval Academy</orgName> were all engineers, so they were prime people to go in.But at the time, because of the Cold War and the <name type="event">Vietnam War</name>, they were building submarines faster than they could man them up,—</u>
       <u who="MARKOWITZ">Right.</u>
       <u who="KEILLER">—so they needed more people to go in and officers to go in, so I volunteered, thinking there was no way they would pick an accountant [both chuckle], right? And I had my interview with <persName>Rickover</persName>, and sure enough, I got selected. So we—soon—like, two weeks after we got married—we got married. Had a wonderful honeymoon in <placeName>Bermuda</placeName>, came up on temporary duty station to <placeName>Dartmouth</placeName> for about three or four weeks, and then I had to report to nuclear power school in <placeName>San Francisco Bay</placeName> area. So my wife and I drove across the country in about two weeks. We had a second honeymoon,—</u>
       <u who="MARKOWITZ">Right.</u>
@@ -211,7 +212,7 @@
       <u who="MARKOWITZ">Six months?</u>
       <u who="KEILLER">Six months.</u>
       <u who="MARKOWITZ">Oh, wow.</u>
-      <u who="KEILLER">What they call nuclear power school. And most of the people in my class—there were 60 of us—were <orgName>Naval Academy</orgName> graduates. We were all brand-new ensigns. I mean—and over half were just married, just like me. You couldn’t get married until you were commissioned, so everybody is newlywed. [Chuckles.] And you had this school that was—it was 10, 12, hours a day that you had to study. Either you were in class or studying to be able to—And then once—if you passed that, then you went to a prototype. Mine was in <placeName>upstate New York</placeName>, outside of <placeName>Saratoga Springs</placeName>, where <orgName>General Electric</orgName> had a demonstration power plant. Actually, once you got inside the containment area, it looked just like a ship.</u>
+      <u who="KEILLER">What they call nuclear power school. And most of the people in my class—there were 60 of us—were <orgName>Naval Academy</orgName> graduates. We were all brand-new ensigns. I mean—and over half were just married, just like me. You couldn’t get married until you were commissioned, so everybody is newlywed. [Chuckles.] And you had this school that was—it was 10, 12, hours a day that you had to study. Either you were in class or studying to be able to—And then once—if you passed that, then you went to a prototype. Mine was in upstate <placeName>New York</placeName>, outside of <placeName>Saratoga Springs</placeName>, where <orgName>General Electric</orgName> had a demonstration power plant. Actually, once you got inside the containment area, it looked just like a ship.</u>
       <u who="MARKOWITZ">Mm-hm.</u>
       <u who="KEILLER">So you—people like myself, officers and enlisted men, would learn how to operate the nuclear power plant that ran the ship,—</u>
       <u who="MARKOWITZ">Right.</u>
@@ -307,7 +308,7 @@
       <u who="MARKOWITZ">Mm-hm.</u>
       <u who="KEILLER">And they could write up a person if they did something wrong, and then there’d be two sides to the story, and they’d have to go to captain’s mast. The captain would say, “All right, next time you’re in port, you don’t have liberty. You can’t go—you can’t leave the ship.” And that’s normally what the deal was. And that was very painful because people lived to get off the ship. [Chuckles.]</u>
       <u who="MARKOWITZ">How often would you go to port on the <orgName>Truxtun</orgName>?</u>
-      <u who="KEILLER">On the <orgName>Truxtun</orgName>, we would go in—we were off of <placeName>Vietnam</placeName> for six months, and we probably went in four or five times? We went into a place called <placeName>Sasebo [pronounced SASS-uh-boh], Japan</placeName>—no, we went into <placeName>Sasebo, Japan</placeName>. There was a place called <placeName>[Naval Station] Subic Bay, Philippines</placeName>, which is very close to where the <placeName>Bataan</placeName> is, <placeName>the Bataan Peninsula</placeName>?</u>
+      <u who="KEILLER">On the <orgName>Truxtun</orgName>, we would go in—we were off of <placeName>Vietnam</placeName> for six months, and we probably went in four or five times? We went into a place called <placeName>Sasebo [pronounced SASS-uh-boh], Japan</placeName>—no, we went into <placeName>Sasebo, Japan</placeName>. There was a place called <placeName>[Naval Station] Subic Bay, Philippines</placeName>, which is very close to where the <placeName>Bataan</placeName> is, the <placeName>Bataan Peninsula</placeName>?</u>
       <u who="MARKOWITZ">Okay. </u>
       <u who="KEILLER">Have you ever heard of the <name type="event">Bataan [Death] March</name>?</u>
       <u who="MARKOWITZ">Mm-hm.</u>
@@ -621,7 +622,7 @@
       <u who="MARKOWITZ">Okay. </u>
       <u who="KEILLER">So you were only five when <orgName>Anderson</orgName> went under.</u>
       <u who="MARKOWITZ">I have—I have heard of <orgName>Enron</orgName>, though. [Chuckles.]</u>
-      <u who="KEILLER">Yeah. Well, <orgName>Anderson</orgName> were the auditors for <orgName>Enron</orgName>, and it was right after <name type="event">[the] 9/11 [attacks]</name>.</u>
+      <u who="KEILLER">Yeah. Well, <orgName>Anderson</orgName> were the auditors for <orgName>Enron</orgName>, and it was right after [the] <name type="event">9/11 [attacks]</name>.</u>
       <u who="MARKOWITZ">Right.</u>
       <u who="KEILLER">And the chairman of <orgName>Enron</orgName> was good friends with <persName>[President] George [W.] Bush</persName>, and they needed—they needed someone to throw under the bus, and our firm got put out of business, and it was a very tragic event for people like myself who worked—I had been retired for two years, but I was still receiving some pension, and that stopped because of the collapse of the firm, and so it wasn’t a happy—</u>
       <u who="MARKOWITZ">Right.</u>

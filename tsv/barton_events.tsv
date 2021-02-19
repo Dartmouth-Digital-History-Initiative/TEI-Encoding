@@ -1,40 +1,40 @@
-id	name
-dvp_022_event_0	Vietnam
-dvp_022_event_1	war [World War II]
-dvp_022_event_2	World War II
-dvp_022_event_3	Vietnam
-dvp_022_event_4	Vietnam
-dvp_022_event_5	Vietnam War
-dvp_022_event_6	Vietnam
-dvp_022_event_7	the Vietnam War
-dvp_022_event_8	Vietnam
-dvp_022_event_9	Vietnam War
-dvp_022_event_10	Vietnam
-dvp_022_event_11	Vietnam
-dvp_022_event_12	the Gulf of Tonkin [incident]
-dvp_022_event_13	Gulf of Tonkin Resolution
-dvp_022_event_14	Vietnam War
-dvp_022_event_15	Vietnam
-dvp_022_event_16	Vietnam
-dvp_022_event_17	Vietnam
-dvp_022_event_18	civil rights march [the March on Washington for Jobs and Freedom]
-dvp_022_event_19	the civil rights March on Washington
-dvp_022_event_20	March on Washington
-dvp_022_event_21	Vietnam
-dvp_022_event_22	Vietnam
-dvp_022_event_23	Vietnam
-dvp_022_event_24	Vietnam War
-dvp_022_event_25	Democratic National Convention
-dvp_022_event_26	Vietnam
-dvp_022_event_27	Vietnam War
-dvp_022_event_28	Vietnam
-dvp_022_event_29	9/11 [the 9/11/2001, attacks]
-dvp_022_event_30	Vietnam
-dvp_022_event_31	9/11
-dvp_022_event_32	9/11
-dvp_022_event_33	9/11
-dvp_022_event_34	9/11
-dvp_022_event_35	Vietnam
-dvp_022_event_36	9/11
-dvp_022_event_37	9/11
-dvp_022_event_38	9/11
+id	name	QID	dvp_id	start time	end time	point in time
+dvp_022_event_0	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_022_event_1	World War II	Q362		1939-09-01T00:00:00Z	1945-09-02T00:00:00Z	
+dvp_022_event_2	World War II	Q362		1939-09-01T00:00:00Z	1945-09-02T00:00:00Z	
+dvp_022_event_3	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_022_event_4	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_022_event_5	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_022_event_6	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_022_event_7	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_022_event_8	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_022_event_9	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_022_event_10	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_022_event_11	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_022_event_12	Gulf of Tonkin incident	Q482402		1964-08-02T00:00:00Z	1964-08-04T00:00:00Z	
+dvp_022_event_13	Gulf of Tonkin Resolution	Q240352				1964-08-07T00:00:00Z
+dvp_022_event_14	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_022_event_15	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_022_event_16	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_022_event_17	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_022_event_18	March on Washington for Jobs and Freedom	Q1128871				1963-08-28T00:00:00Z
+dvp_022_event_19	March on Washington for Jobs and Freedom	Q1128871				1963-08-28T00:00:00Z
+dvp_022_event_20	March on Washington for Jobs and Freedom	Q1128871				1963-08-28T00:00:00Z
+dvp_022_event_21	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_022_event_22	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_022_event_23	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_022_event_24	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_022_event_25	1968 Democratic National Convention	Q83516				1968-01-01T00:00:00Z
+dvp_022_event_26	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_022_event_27	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_022_event_28	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_022_event_29	September 11 attacks	Q10806				2001-09-11T00:00:00Z
+dvp_022_event_30	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_022_event_31	September 11 attacks	Q10806				2001-09-11T00:00:00Z
+dvp_022_event_32	September 11 attacks	Q10806				2001-09-11T00:00:00Z
+dvp_022_event_33	September 11 attacks	Q10806				2001-09-11T00:00:00Z
+dvp_022_event_34	September 11 attacks	Q10806				2001-09-11T00:00:00Z
+dvp_022_event_35	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_022_event_36	September 11 attacks	Q10806				2001-09-11T00:00:00Z
+dvp_022_event_37	September 11 attacks	Q10806				2001-09-11T00:00:00Z
+dvp_022_event_38	September 11 attacks	Q10806				2001-09-11T00:00:00Z

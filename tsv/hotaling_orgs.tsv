@@ -1,138 +1,138 @@
-id	orgName
-dvp_009_org_0	Yale [University]
-dvp_009_org_1	The Hill School
-dvp_009_org_2	The Hill School
-dvp_009_org_3	Dartmouth
-dvp_009_org_4	Dartmouth
-dvp_009_org_5	Dartmouth
-dvp_009_org_6	Dartmouth
-dvp_009_org_7	SAE [Sigma Alpha Epsilon]
-dvp_009_org_8	Class of ’40
-dvp_009_org_9	’41
-dvp_009_org_10	Dartmouth
-dvp_009_org_11	Dartmouth
-dvp_009_org_12	Princeton [University]
-dvp_009_org_13	Dartmouth
-dvp_009_org_14	Yale [University]
-dvp_009_org_15	Dartmouth
-dvp_009_org_16	Dartmouth
-dvp_009_org_17	Trinity [College]
-dvp_009_org_18	Bowdoin [College]
-dvp_009_org_19	Dartmouth
-dvp_009_org_20	Alpha Chi Alpha
-dvp_009_org_21	NROTC, the Naval Reserve Officer [sic; Officers] Training Corps
-dvp_009_org_22	[U.S.] Navy
-dvp_009_org_23	Navy
-dvp_009_org_24	NROTC
-dvp_009_org_25	NROTC
-dvp_009_org_26	Dartmouth
-dvp_009_org_27	106th [Infantry] Division
-dvp_009_org_28	Red Cross
-dvp_009_org_29	ARF, Army Air Force
-dvp_009_org_30	NROTC
-dvp_009_org_31	Navy
-dvp_009_org_32	Navy
-dvp_009_org_33	Navy
-dvp_009_org_34	Navy
-dvp_009_org_35	Navy
-dvp_009_org_36	NROTC
-dvp_009_org_37	ROTC
-dvp_009_org_38	Naval ROTC
-dvp_009_org_39	Air Force ROTC
-dvp_009_org_40	NROTC
-dvp_009_org_41	Navy
-dvp_009_org_42	[U.S.] Marine Corps
-dvp_009_org_43	Marine Corps
-dvp_009_org_44	Marine Corps
-dvp_009_org_45	[U.S. Army] Special Forces
-dvp_009_org_46	Alpha Chi
-dvp_009_org_47	Special Forces
-dvp_009_org_48	Columbia [University]
-dvp_009_org_49	NROTC
-dvp_009_org_50	ISIS [Islamic State of Iraq and the Levant, also known as ISIL]
-dvp_009_org_51	ISIS
-dvp_009_org_52	Navy
-dvp_009_org_53	Navy
-dvp_009_org_54	New York Times
-dvp_009_org_55	Navy
-dvp_009_org_56	Navy
-dvp_009_org_57	Navy
-dvp_009_org_58	Navy
-dvp_009_org_59	Navy
-dvp_009_org_60	Naval Justice School
-dvp_009_org_61	VA-147, Attack Squadron 147
-dvp_009_org_62	Navy
-dvp_009_org_63	Navy
-dvp_009_org_64	Navy
-dvp_009_org_65	Navy
-dvp_009_org_66	Air Force
-dvp_009_org_67	Navy
-dvp_009_org_68	Air Force
-dvp_009_org_69	VA-147
-dvp_009_org_70	Naval Justice School
-dvp_009_org_71	Navy
-dvp_009_org_72	Marine
-dvp_009_org_73	Air Force
-dvp_009_org_74	Navy
-dvp_009_org_75	Navy
-dvp_009_org_76	North Vietnamese
-dvp_009_org_77	Viet Cong
-dvp_009_org_78	North Vietnamese
-dvp_009_org_79	U.S.
-dvp_009_org_80	North Vietnamese
-dvp_009_org_81	VF-92
-dvp_009_org_82	VF-96
-dvp_009_org_83	VF-92
-dvp_009_org_84	Air Force
-dvp_009_org_85	Navy
-dvp_009_org_86	North Vietnamese
-dvp_009_org_87	Navy
-dvp_009_org_88	North Vietnamese
-dvp_009_org_89	Naval Safety Center
-dvp_009_org_90	Navy
-dvp_009_org_91	VF-96
-dvp_009_org_92	North Vietnamese
-dvp_009_org_93	VF-96
-dvp_009_org_94	VF-92
-dvp_009_org_95	Navy
-dvp_009_org_96	Air Force
-dvp_009_org_97	Navy
-dvp_009_org_98	Coast Guard
-dvp_009_org_99	Navy
-dvp_009_org_100	North Vietnamese
-dvp_009_org_101	Air Force
-dvp_009_org_102	North Vietnamese
-dvp_009_org_103	North Vietnamese air force
-dvp_009_org_104	Navy
-dvp_009_org_105	Navy
-dvp_009_org_106	Navy
-dvp_009_org_107	USC [University of Southern California]
-dvp_009_org_108	Navy
-dvp_009_org_109	Navy
-dvp_009_org_110	Navy
-dvp_009_org_111	Navy
-dvp_009_org_112	South Vietnam
-dvp_009_org_113	Americans
-dvp_009_org_114	Australians
-dvp_009_org_115	North Vietnamese
-dvp_009_org_116	North Vietnamese
-dvp_009_org_117	Air Force
-dvp_009_org_118	Air Force
-dvp_009_org_119	Air Force
-dvp_009_org_120	Air Force
-dvp_009_org_121	Navy
-dvp_009_org_122	ISIS
-dvp_009_org_123	ROTC
-dvp_009_org_124	ROTCs
-dvp_009_org_125	Dartmouth
-dvp_009_org_126	ROTC
-dvp_009_org_127	Army
-dvp_009_org_128	Navy
-dvp_009_org_129	Norwich
-dvp_009_org_130	Navy
-dvp_009_org_131	Dartmouth
-dvp_009_org_132	Dartmouth
-dvp_009_org_133	Class of 1946
-dvp_009_org_134	Navy’s
-dvp_009_org_135	Dartmouth
-dvp_009_org_136	ROTC
+id	orgName	QID	dvp_id
+dvp_009_org_0	Yale University	Q49112	
+dvp_009_org_1	The Hill School	Q7739685	
+dvp_009_org_2	The Hill School	Q7739685	
+dvp_009_org_3	Dartmouth College	Q49116	
+dvp_009_org_4	Dartmouth College	Q49116	
+dvp_009_org_5	Dartmouth College	Q49116	
+dvp_009_org_6	Dartmouth College	Q49116	
+dvp_009_org_7	Sigma Alpha Epsilon	Q7512272	
+dvp_009_org_8	Class of ’40		dvp_0173
+dvp_009_org_9	’41		dvp_0174
+dvp_009_org_10	Dartmouth College	Q49116	
+dvp_009_org_11	Dartmouth College	Q49116	
+dvp_009_org_12	Princeton University	Q21578	
+dvp_009_org_13	Dartmouth College	Q49116	
+dvp_009_org_14	Yale University	Q49112	
+dvp_009_org_15	Dartmouth College	Q49116	
+dvp_009_org_16	Dartmouth College	Q49116	
+dvp_009_org_17	Trinity College	Q73079	
+dvp_009_org_18	Bowdoin College	Q895401	
+dvp_009_org_19	Dartmouth College	Q49116	
+dvp_009_org_20	Alpha Chi Alpha	Q4735004	
+dvp_009_org_21	Naval Reserve Officers Training Corps	Q6981909	
+dvp_009_org_22	United States Navy	Q11220	
+dvp_009_org_23	United States Navy	Q11220	
+dvp_009_org_24	NAVY Reserves Officer Training Corps	Q101243251	
+dvp_009_org_25	NAVY Reserves Officer Training Corps	Q101243251	
+dvp_009_org_26	Dartmouth College	Q49116	
+dvp_009_org_27	106th Infantry Division	Q2662633	
+dvp_009_org_28	American Red Cross	Q470110	
+dvp_009_org_29	United States Army Air Forces	Q741723	
+dvp_009_org_30	NAVY Reserves Officer Training Corps	Q101243251	
+dvp_009_org_31	United States Navy	Q11220	
+dvp_009_org_32	United States Navy	Q11220	
+dvp_009_org_33	United States Navy	Q11220	
+dvp_009_org_34	United States Navy	Q11220	
+dvp_009_org_35	United States Navy	Q11220	
+dvp_009_org_36	NAVY Reserves Officer Training Corps	Q101243251	
+dvp_009_org_37	Reserve Officers' Training Corps	Q489983	
+dvp_009_org_38	NAVY Reserves Officer Training Corps	Q101243251	
+dvp_009_org_39	Air Force Reserve Officer Training Corp	Q101243281	
+dvp_009_org_40	NAVY Reserves Officer Training Corps	Q101243251	
+dvp_009_org_41	United States Navy	Q11220	
+dvp_009_org_42	United States Marine Corps	Q11218	
+dvp_009_org_43	United States Marine Corps	Q11218	
+dvp_009_org_44	United States Marine Corps	Q11218	
+dvp_009_org_45	United States Army Special Forces	Q482421	
+dvp_009_org_46	Alpha Chi Alpha	Q4735004	
+dvp_009_org_47	United States Army Special Forces	Q482421	
+dvp_009_org_48	Columbia University	Q49088	
+dvp_009_org_49	NAVY Reserves Officer Training Corps	Q101243251	
+dvp_009_org_50	Islamic State of Iraq and the Levant	Q2429253	
+dvp_009_org_51	Islamic State of Iraq and the Levant	Q2429253	
+dvp_009_org_52	United States Navy	Q11220	
+dvp_009_org_53	United States Navy	Q11220	
+dvp_009_org_54	The New York Times	Q9684	
+dvp_009_org_55	United States Navy	Q11220	
+dvp_009_org_56	United States Navy	Q11220	
+dvp_009_org_57	United States Navy	Q11220	
+dvp_009_org_58	United States Navy	Q11220	
+dvp_009_org_59	United States Navy	Q11220	
+dvp_009_org_60	Naval Justice School	Q4551367	
+dvp_009_org_61	Strike Fighter Squadron 147	Q7906835	
+dvp_009_org_62	United States Navy	Q11220	
+dvp_009_org_63	United States Navy	Q11220	
+dvp_009_org_64	United States Navy	Q11220	
+dvp_009_org_65	United States Navy	Q11220	
+dvp_009_org_66	air force	Q61883	
+dvp_009_org_67	United States Navy	Q11220	
+dvp_009_org_68	air force	Q61883	
+dvp_009_org_69	Strike Fighter Squadron 147	Q7906835	
+dvp_009_org_70	Naval Justice School	Q4551367	
+dvp_009_org_71	United States Navy	Q11220	
+dvp_009_org_72	United States Marine Corps	Q11218	
+dvp_009_org_73	air force	Q61883	
+dvp_009_org_74	United States Navy	Q11220	
+dvp_009_org_75	United States Navy	Q11220	
+dvp_009_org_76	Vietnamese people	Q216151	
+dvp_009_org_77	National Front for the Liberation of South Vietnam	Q174423	
+dvp_009_org_78	Vietnamese people	Q216151	
+dvp_009_org_79	United States of America	Q30	
+dvp_009_org_80	Vietnamese people	Q216151	
+dvp_009_org_81	VF-92	Q17030328	
+dvp_009_org_82	VF-96	Q23198735	
+dvp_009_org_83	VF-92	Q17030328	
+dvp_009_org_84	air force	Q61883	
+dvp_009_org_85	United States Navy	Q11220	
+dvp_009_org_86	Vietnamese people	Q216151	
+dvp_009_org_87	United States Navy	Q11220	
+dvp_009_org_88	Vietnamese people	Q216151	
+dvp_009_org_89	Navy Occupational Safety & Health	Q6982672	
+dvp_009_org_90	United States Navy	Q11220	
+dvp_009_org_91	VF-96	Q23198735	
+dvp_009_org_92	Vietnamese people	Q216151	
+dvp_009_org_93	VF-96	Q23198735	
+dvp_009_org_94	VF-92	Q17030328	
+dvp_009_org_95	United States Navy	Q11220	
+dvp_009_org_96	air force	Q61883	
+dvp_009_org_97	United States Navy	Q11220	
+dvp_009_org_98	United States Coast Guard	Q11224	
+dvp_009_org_99	United States Navy	Q11220	
+dvp_009_org_100	Vietnamese people	Q216151	
+dvp_009_org_101	air force	Q61883	
+dvp_009_org_102	Vietnamese people	Q216151	
+dvp_009_org_103	Vietnam People's Air Force	Q2735209	
+dvp_009_org_104	United States Navy	Q11220	
+dvp_009_org_105	United States Navy	Q11220	
+dvp_009_org_106	United States Navy	Q11220	
+dvp_009_org_107	University of Southern California	Q4614	
+dvp_009_org_108	United States Navy	Q11220	
+dvp_009_org_109	United States Navy	Q11220	
+dvp_009_org_110	United States Navy	Q11220	
+dvp_009_org_111	United States Navy	Q11220	
+dvp_009_org_112	South Vietnam	Q180573	
+dvp_009_org_113	Americans	Q846570	
+dvp_009_org_114	Australians	Q1318423	
+dvp_009_org_115	Vietnamese people	Q216151	
+dvp_009_org_116	Vietnamese people	Q216151	
+dvp_009_org_117	air force	Q61883	
+dvp_009_org_118	air force	Q61883	
+dvp_009_org_119	air force	Q61883	
+dvp_009_org_120	air force	Q61883	
+dvp_009_org_121	United States Navy	Q11220	
+dvp_009_org_122	Islamic State of Iraq and the Levant	Q2429253	
+dvp_009_org_123	Reserve Officers' Training Corps	Q489983	
+dvp_009_org_124	Reserve Officers' Training Corps	Q489983	
+dvp_009_org_125	Dartmouth College	Q49116	
+dvp_009_org_126	Reserve Officers' Training Corps	Q489983	
+dvp_009_org_127	United States Army	Q9212	
+dvp_009_org_128	United States Navy	Q11220	
+dvp_009_org_129	Norwich University	Q1681928	
+dvp_009_org_130	United States Navy	Q11220	
+dvp_009_org_131	Dartmouth College	Q49116	
+dvp_009_org_132	Dartmouth College	Q49116	
+dvp_009_org_133	Class of 1946		dvp_0175
+dvp_009_org_134	United States Navy	Q11220	
+dvp_009_org_135	Dartmouth College	Q49116	
+dvp_009_org_136	Reserve Officers' Training Corps	Q489983	
