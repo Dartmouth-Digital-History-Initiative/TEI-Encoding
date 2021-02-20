@@ -1,24 +1,24 @@
-id	name
-dvp_048_event_0	World War II
-dvp_048_event_1	World War II
-dvp_048_event_2	Korean War
-dvp_048_event_3	World War II
-dvp_048_event_4	World War II
-dvp_048_event_5	Vietnam [War]
-dvp_048_event_6	Gulf of Tonkin [incident]
-dvp_048_event_7	Vietnam War
-dvp_048_event_8	Vietnam
-dvp_048_event_9	Civil War
-dvp_048_event_10	Bay of Pigs [Invasion]
-dvp_048_event_11	Cuban Missile Crisis
-dvp_048_event_12	Bay of Pigs
-dvp_048_event_13	Vietnam War
-dvp_048_event_14	Vietnam War
-dvp_048_event_15	Tet Offensive of ’68
-dvp_048_event_16	Vietnam War
-dvp_048_event_17	Vietnam
-dvp_048_event_18	Vietnam War
-dvp_048_event_19	Vietnam
-dvp_048_event_20	Vietnam War
-dvp_048_event_21	Vietnam War
-dvp_048_event_22	Vietnam War
+﻿id	name	QID	dvp_id	start time	end time	point in time
+dvp_048_event_0	World War II	Q362		1939-09-01T00:00:00Z	1945-09-02T00:00:00Z	
+dvp_048_event_1	World War II	Q362		1939-09-01T00:00:00Z	1945-09-02T00:00:00Z	
+dvp_048_event_2	Korean War	Q8663		1950-06-25T00:00:00Z	1953-07-27T00:00:00Z	
+dvp_048_event_3	World War II	Q362		1939-09-01T00:00:00Z	1945-09-02T00:00:00Z	
+dvp_048_event_4	World War II	Q362		1939-09-01T00:00:00Z	1945-09-02T00:00:00Z	
+dvp_048_event_5	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_048_event_6	Gulf of Tonkin incident	Q482402		1964-08-02T00:00:00Z	1964-08-04T00:00:00Z	
+dvp_048_event_7	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_048_event_8	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_048_event_9	American Civil War	Q8676		1861-04-11T00:00:00Z	1865-05-10T00:00:00Z	
+dvp_048_event_10	Bay of Pigs invasion	Q191721		1961-04-17T00:00:00Z	1961-04-19T00:00:00Z	
+dvp_048_event_11	Cuban Missile Crisis	Q128160		1962-10-14T00:00:00Z	1962-10-28T00:00:00Z	
+dvp_048_event_12	Bay of Pigs invasion	Q191721		1961-04-17T00:00:00Z	1961-04-19T00:00:00Z	
+dvp_048_event_13	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_048_event_14	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_048_event_15	Tet Offensive	Q82542		1968-01-30T00:00:00Z	1968-09-23T00:00:00Z	
+dvp_048_event_16	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_048_event_17	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_048_event_18	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_048_event_19	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_048_event_20	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_048_event_21	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_048_event_22	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
