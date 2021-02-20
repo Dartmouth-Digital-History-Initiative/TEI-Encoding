@@ -1,85 +1,85 @@
-id	orgName
-dvp_045_org_0	Fort Sill
-dvp_045_org_1	Fort Sill
-dvp_045_org_2	11th Armor Division
-dvp_045_org_3	[U.S.] Army
-dvp_045_org_4	Cub Scouts
-dvp_045_org_5	Boy Scouts
-dvp_045_org_6	Boy Scout
-dvp_045_org_7	Hinsdale Township High School
-dvp_045_org_8	Cub Scouts
-dvp_045_org_9	Boy Scouts
-dvp_045_org_10	Scouts
-dvp_045_org_11	Dartmouth
-dvp_045_org_12	Dartmouth
-dvp_045_org_13	Beloit College
-dvp_045_org_14	Dartmouth
-dvp_045_org_15	Dartmouth
-dvp_045_org_16	Dartmouth
-dvp_045_org_17	ROTC [Reserve Officers’ Training Corps]
-dvp_045_org_18	ROTC
-dvp_045_org_19	Dartmouth
-dvp_045_org_20	ROTC
-dvp_045_org_21	[U.S.] Air Force
-dvp_045_org_22	U.S.] Navy
-dvp_045_org_23	Army
-dvp_045_org_24	Army
-dvp_045_org_25	Dartmouth
-dvp_045_org_26	Class of 1965
-dvp_045_org_27	Dartmouth
-dvp_045_org_28	Dartmouth
-dvp_045_org_29	Dartmouth
-dvp_045_org_30	Dartmouth
-dvp_045_org_31	Dartmouth
-dvp_045_org_32	Alpha Delta Phi [now Alpha Delta] fraternity
-dvp_045_org_33	[Dartmouth] Outing Club
-dvp_045_org_34	AD
-dvp_045_org_35	ROTC
-dvp_045_org_36	Dartmouth
-dvp_045_org_37	ROTC
-dvp_045_org_38	Dartmouth
-dvp_045_org_39	ROTC
-dvp_045_org_40	Army
-dvp_045_org_41	Air Force
-dvp_045_org_42	Navy
-dvp_045_org_43	Dartmouth
-dvp_045_org_44	Dartmouth
-dvp_045_org_45	Army
-dvp_045_org_46	Army
-dvp_045_org_47	ROTC
-dvp_045_org_48	Dartmouth
-dvp_045_org_49	Armor Officer School [sic; U.S. Army Armor School]
-dvp_045_org_50	3rd Infantry Division
-dvp_045_org_51	11th Armored Cavalry Regiment
-dvp_045_org_52	Biên Hòa Air Force Base
-dvp_045_org_53	Air Force
-dvp_045_org_54	The Washington Post
-dvp_045_org_55	Air Force
-dvp_045_org_56	Chicago Tribune
-dvp_045_org_57	Military Assistance Command, Vietnam (MACV)
-dvp_045_org_58	Vietnam Army
-dvp_045_org_59	South Vietnamese Army
-dvp_045_org_60	III Corps
-dvp_045_org_61	101st Airborne [Division
-dvp_045_org_62	Armed Forces Network
-dvp_045_org_63	South Vietnamese Army
-dvp_045_org_64	American
-dvp_045_org_65	University of Colorado
-dvp_045_org_66	American Embassy
-dvp_045_org_67	InterContinental Hotel [InterContinental Asiana Saigon]
-dvp_045_org_68	InterContinental Hotel
-dvp_045_org_69	Michelin
-dvp_045_org_70	Michelin
-dvp_045_org_71	Army
-dvp_045_org_72	Fort Dix
-dvp_045_org_73	Army
-dvp_045_org_74	Continental Illinois National Bank
-dvp_045_org_75	Northwestern University
-dvp_045_org_76	Dartmouth
-dvp_045_org_77	Whitehall
-dvp_045_org_78	Dartmouth
-dvp_045_org_79	Dartmouth
-dvp_045_org_80	Class of ’65
-dvp_045_org_81	Class of ’65
-dvp_045_org_82	Defense Department
-dvp_045_org_83	Defense
+id	orgName	QID	dvp_id
+dvp_045_org_0	Fort Sill	Q1018681	
+dvp_045_org_1	Fort Sill	Q1018681	
+dvp_045_org_2	11th Armored Division	Q4547811	
+dvp_045_org_3	United States Army	Q9212	
+dvp_045_org_4	Cub Scouting	Q5191921	
+dvp_045_org_5	Cub Scouting	Q5191921	
+dvp_045_org_6	Cub Scouting	Q5191921	
+dvp_045_org_7	Hinsdale Township High School District 86	Q24040079	
+dvp_045_org_8	Cub Scouting	Q5191921	
+dvp_045_org_9	Cub Scouting	Q5191921	
+dvp_045_org_10	Cub Scouting	Q5191921	
+dvp_045_org_11	Dartmouth College	Q49116	
+dvp_045_org_12	Dartmouth College	Q49116	
+dvp_045_org_13	Beloit College	Q2904557	
+dvp_045_org_14	Dartmouth College	Q49116	
+dvp_045_org_15	Dartmouth College	Q49116	
+dvp_045_org_16	Dartmouth College	Q49116	
+dvp_045_org_17	Reserve Officers' Training Corps	Q489983	
+dvp_045_org_18	Reserve Officers' Training Corps	Q489983	
+dvp_045_org_19	Dartmouth College	Q49116	
+dvp_045_org_20	Reserve Officers' Training Corps	Q489983	
+dvp_045_org_21	United States Air Force	Q11223	
+dvp_045_org_22	United States Navy	Q11220	
+dvp_045_org_23	United States Army	Q9212	
+dvp_045_org_24	United States Army	Q9212	
+dvp_045_org_25	Dartmouth College	Q49116	
+dvp_045_org_26	Class of 1965		dvp_0166
+dvp_045_org_27	Dartmouth College	Q49116	
+dvp_045_org_28	Dartmouth College	Q49116	
+dvp_045_org_29	Dartmouth College	Q49116	
+dvp_045_org_30	Dartmouth College	Q49116	
+dvp_045_org_31	Dartmouth College	Q49116	
+dvp_045_org_32	Alpha Delta	Q101542150	
+dvp_045_org_33	Dartmouth Outing Club (DOC)	Q101243244	
+dvp_045_org_34	Alpha Delta	Q101542150	
+dvp_045_org_35	Reserve Officers' Training Corps	Q489983	
+dvp_045_org_36	Dartmouth College	Q49116	
+dvp_045_org_37	Reserve Officers' Training Corps	Q489983	
+dvp_045_org_38	Dartmouth College	Q49116	
+dvp_045_org_39	Reserve Officers' Training Corps	Q489983	
+dvp_045_org_40	United States Army	Q9212	
+dvp_045_org_41	United States Air Force	Q11223	
+dvp_045_org_42	United States Navy	Q11220	
+dvp_045_org_43	Dartmouth College	Q49116	
+dvp_045_org_44	Dartmouth College	Q49116	
+dvp_045_org_45	United States Army	Q9212	
+dvp_045_org_46	United States Army	Q9212	
+dvp_045_org_47	Reserve Officers' Training Corps	Q489983	
+dvp_045_org_48	Dartmouth College	Q49116	
+dvp_045_org_49	United States Army Armor School	Q4451227	
+dvp_045_org_50	3rd Infantry Division	Q223551	
+dvp_045_org_51	11th Armored Cavalry Regiment	Q2756475	
+dvp_045_org_52	Bien Hoa Air Base	Q619905	
+dvp_045_org_53	United States Air Force	Q11223	
+dvp_045_org_54	The Washington Post	Q166032	
+dvp_045_org_55	United States Air Force	Q11223	
+dvp_045_org_56	Chicago Tribune	Q47596	
+dvp_045_org_57	Military Assistance Command, Vietnam	Q485921	
+dvp_045_org_58	Army of the Republic of Vietnam	Q18917	
+dvp_045_org_59	Army of the Republic of Vietnam	Q18917	
+dvp_045_org_60	III Corps	Q5971303	
+dvp_045_org_61	101st Airborne Division	Q165256	
+dvp_045_org_62	American Forces Network	Q464570	
+dvp_045_org_63	Army of the Republic of Vietnam	Q18917	
+dvp_045_org_64	United States Armed Forces	Q11211	
+dvp_045_org_65	University of Colorado	Q1206658	
+dvp_045_org_66	Consulate General of the United States, Ho Chi Minh City	Q5164574	
+dvp_045_org_67	InterContinental	Q1825730	
+dvp_045_org_68	InterContinental	Q1825730	
+dvp_045_org_69	Michelin	Q151107	
+dvp_045_org_70	Michelin	Q151107	
+dvp_045_org_71	United States Army	Q9212	
+dvp_045_org_72	Fort Dix	Q1087169	
+dvp_045_org_73	United States Army	Q9212	
+dvp_045_org_74	Continental Illinois	Q5165293	
+dvp_045_org_75	Northwestern University	Q309350	
+dvp_045_org_76	Dartmouth College	Q49116	
+dvp_045_org_77	Whitehall	Q214820	
+dvp_045_org_78	Dartmouth College	Q49116	
+dvp_045_org_79	Dartmouth College	Q49116	
+dvp_045_org_80	Class of ’65		dvp_0166
+dvp_045_org_81	Class of ’65		dvp_0166
+dvp_045_org_82	United States Department of Defense	Q11209	
+dvp_045_org_83	United States Department of Defense	Q11209	
