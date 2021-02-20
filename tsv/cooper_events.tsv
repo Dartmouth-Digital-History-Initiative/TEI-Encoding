@@ -1,19 +1,19 @@
-id	name
-dvp_020_event_0	Newport Jazz Festival
-dvp_020_event_1	Newport Jazz Festival
-dvp_020_event_2	President [John F.] Kennedy was shot
-dvp_020_event_3	9/11 [the September 11, 2001, attacks]
-dvp_020_event_4	Bay of Pigs [Invasion]
-dvp_020_event_5	Cuban Missile Crisis
-dvp_020_event_6	Vietnam
-dvp_020_event_7	Green Key Weekend
-dvp_020_event_8	Vietnam
-dvp_020_event_9	Vietnam War
-dvp_020_event_10	Vietnam
-dvp_020_event_11	Tet Offensive
-dvp_020_event_12	Tet Offensive
-dvp_020_event_13	Tet Offensive
-dvp_020_event_14	Tet Offensive
-dvp_020_event_15	Korea [the Korean War]
-dvp_020_event_16	Prague Spring
-dvp_020_event_17	Prague Spring
+id	name	QID	dvp_id	start time	end time	point in time
+dvp_020_event_0	Newport Jazz Festival	Q105079765		1963-04-04T14:00:00Z	1963-04-07T14:00:00Z	
+dvp_020_event_1	Newport Jazz Festival	Q105079765		1963-04-04T14:00:00Z	1963-04-07T14:00:00Z	
+dvp_020_event_2	assassination of John F. Kennedy	Q193484				1963-11-22T00:00:00Z
+dvp_020_event_3	September 11 attacks	Q10806				2001-09-11T00:00:00Z
+dvp_020_event_4	Bay of Pigs invasion	Q191721		1961-04-17T00:00:00Z	1961-04-19T00:00:00Z	
+dvp_020_event_5	Cuban Missile Crisis	Q128160		1962-10-14T00:00:00Z	1962-10-28T00:00:00Z	
+dvp_020_event_6	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_020_event_7	Green Key Weekend 1965	Q105079503		1965-05-15T00:00:00Z	1965-05-15T00:00:00Z	
+dvp_020_event_8	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_020_event_9	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_020_event_10	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_020_event_11	Tet Offensive	Q82542		1968-01-30T00:00:00Z	1968-09-23T00:00:00Z	
+dvp_020_event_12	Tet Offensive	Q82542		1968-01-30T00:00:00Z	1968-09-23T00:00:00Z	
+dvp_020_event_13	Tet Offensive	Q82542		1968-01-30T00:00:00Z	1968-09-23T00:00:00Z	
+dvp_020_event_14	Tet Offensive	Q82542		1968-01-30T00:00:00Z	1968-09-23T00:00:00Z	
+dvp_020_event_15	Korean War	Q8663		1950-06-25T00:00:00Z	1953-07-27T00:00:00Z	
+dvp_020_event_16	Prague Spring	Q162401				1968-01-01T00:00:00Z
+dvp_020_event_17	Prague Spring	Q162401				1968-01-01T00:00:00Z
