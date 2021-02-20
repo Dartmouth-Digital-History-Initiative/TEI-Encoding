@@ -1,90 +1,90 @@
-id	orgName
-dvp_020_org_0	Phi Bet[a Kappa]
-dvp_020_org_1	Radcliffe [College, now Radcliffe Institute for Advanced Studies, a part of Harvard University]
-dvp_020_org_2	[the University of] Michigan
-dvp_020_org_3	[University of] Michigan Law School
-dvp_020_org_4	Class of ’62
-dvp_020_org_5	Dartmouth
-dvp_020_org_6	[U.S.] Army
-dvp_020_org_7	Michigan
-dvp_020_org_8	Dartmouth
-dvp_020_org_9	University of Michigan
-dvp_020_org_10	Dartmouth
-dvp_020_org_11	Dartmouth
-dvp_020_org_12	Dartmouth
-dvp_020_org_13	[Phillips] Exeter [Academy]
-dvp_020_org_14	Exeter
-dvp_020_org_15	Army
-dvp_020_org_16	Army
-dvp_020_org_17	Dartmouth
-dvp_020_org_18	Dartmouth
-dvp_020_org_19	Exeter
-dvp_020_org_20	Glee Club
-dvp_020_org_21	Dartmouth
-dvp_020_org_22	Michigan
-dvp_020_org_23	Dartmouth
-dvp_020_org_24	Phi Tau
-dvp_020_org_25	Glee Club
-dvp_020_org_26	Dartmouth
-dvp_020_org_27	Phi Tau
-dvp_020_org_28	ROTC [Reserve Officers’ Training Corps]
-dvp_020_org_29	Phi Tau
-dvp_020_org_30	Army
-dvp_020_org_31	Dartmouth
-dvp_020_org_32	’29 [sic; ’30]
-dvp_020_org_33	Dartmouth
-dvp_020_org_34	Dartmouth
-dvp_020_org_35	National Guard [of the United States]
-dvp_020_org_36	Dartmouth
-dvp_020_org_37	’65s
-dvp_020_org_38	Phi Tau
-dvp_020_org_39	Naval [U.S. Naval Reserve Officers Training Corps]
-dvp_020_org_40	Army ROTC
-dvp_020_org_41	’65s
-dvp_020_org_42	ROTC
-dvp_020_org_43	Federal Society [for Law and Public Policy Studies]
-dvp_020_org_44	Dartmouth
-dvp_020_org_45	Dartmouth’s
-dvp_020_org_46	[the University of] Wisconsin
-dvp_020_org_47	Communist Party
-dvp_020_org_48	Army
-dvp_020_org_49	Army
-dvp_020_org_50	Dartmouth
-dvp_020_org_51	Army
-dvp_020_org_52	Dartmouth
-dvp_020_org_53	National Guard
-dvp_020_org_54	National Guard
-dvp_020_org_55	[U.S. Army] Transportation Corps
-dvp_020_org_56	University of Louisville
-dvp_020_org_57	University of Kentucky
-dvp_020_org_58	Army
-dvp_020_org_59	American military
-dvp_020_org_60	3rd Armored Division
-dvp_020_org_61	Army
-dvp_020_org_62	Princeton [University]
-dvp_020_org_63	U.S. European Command
-dvp_020_org_64	Army
-dvp_020_org_65	[U.S.] Navy
-dvp_020_org_66	[U.S.] Air Force
-dvp_020_org_67	3rd Armored Division
-dvp_020_org_68	Army
-dvp_020_org_69	LOOK magazine
-dvp_020_org_70	U.S. EUCOM
-dvp_020_org_71	State Department
-dvp_020_org_72	Dartmouth ’64
-dvp_020_org_73	Smith [College]
-dvp_020_org_74	Episcopal Theological School [now part of the Episcopal Divinity School]
-dvp_020_org_75	Michigan
-dvp_020_org_76	Wayne State [University]
-dvp_020_org_77	Dartmouth
-dvp_020_org_78	Michigan
-dvp_020_org_79	Wayne
-dvp_020_org_80	Class of 1964
-dvp_020_org_81	University of Michigan Law School
-dvp_020_org_82	Penn [University of Pennsylvania]
-dvp_020_org_83	Penn
-dvp_020_org_84	[the College of] William & Mary
-dvp_020_org_85	William & Mary
-dvp_020_org_86	Michigan
-dvp_020_org_87	Dartmouth
-dvp_020_org_88	Dartmouth
+id	orgName	QID	dvp_id
+dvp_020_org_0	Phi Beta Kappa Society	Q1938003	
+dvp_020_org_1	Radcliffe College	Q49124	
+dvp_020_org_2	University of Michigan	Q230492	
+dvp_020_org_3	University of Michigan Law School	Q911830	
+dvp_020_org_4	Class of ’62		dvp_0068
+dvp_020_org_5	Dartmouth College	Q49116	
+dvp_020_org_6	United States Armed Forces	Q11211	
+dvp_020_org_7	University of Michigan	Q230492	
+dvp_020_org_8	Dartmouth College	Q49116	
+dvp_020_org_9	University of Michigan	Q230492	
+dvp_020_org_10	Dartmouth College	Q49116	
+dvp_020_org_11	Dartmouth College	Q49116	
+dvp_020_org_12	Dartmouth College	Q49116	
+dvp_020_org_13	Phillips Exeter Academy	Q1426464	
+dvp_020_org_14	Phillips Exeter Academy	Q1426464	
+dvp_020_org_15	United States Army	Q9212	
+dvp_020_org_16	United States Army	Q9212	
+dvp_020_org_17	Dartmouth College	Q49116	
+dvp_020_org_18	Dartmouth College	Q49116	
+dvp_020_org_19	Phillips Exeter Academy	Q1426464	
+dvp_020_org_20	Glee Club		dvp_0195
+dvp_020_org_21	Dartmouth College	Q49116	
+dvp_020_org_22	University of Michigan	Q230492	
+dvp_020_org_23	Dartmouth College	Q49116	
+dvp_020_org_24	Phi Tau Dartmouth	Q105080014	
+dvp_020_org_25	Glee Club		dvp_0195
+dvp_020_org_26	Dartmouth College	Q49116	
+dvp_020_org_27	Phi Tau Dartmouth	Q105080014	
+dvp_020_org_28	Reserve Officers' Training Corps	Q489983	
+dvp_020_org_29	Phi Tau Dartmouth	Q105080014	
+dvp_020_org_30	United States Army	Q9212	
+dvp_020_org_31	Dartmouth College	Q49116	
+dvp_020_org_32	’29 [sic; ’30]	dvp_0066	
+dvp_020_org_33	Dartmouth College	Q49116	
+dvp_020_org_34	Dartmouth College	Q49116	
+dvp_020_org_35	National Guard of the United States	Q928670	
+dvp_020_org_36	Dartmouth College	Q49116	
+dvp_020_org_37	’65s		dvp_0166
+dvp_020_org_38	Phi Tau Dartmouth	Q105080014	
+dvp_020_org_39	United States Navy Reserve	Q3550750	
+dvp_020_org_40	Army Reserve Officers' Training Corps	Q4794233	
+dvp_020_org_41	’65s		dvp_0166
+dvp_020_org_42	Reserve Officers' Training Corps	Q489983	
+dvp_020_org_43	Federalist Society	Q5440666	
+dvp_020_org_44	Dartmouth College	Q49116	
+dvp_020_org_45	Dartmouth College	Q49116	
+dvp_020_org_46	University of Wisconsin–Madison	Q838330	
+dvp_020_org_47	Communist Party USA	Q308714	
+dvp_020_org_48	United States Army	Q9212	
+dvp_020_org_49	United States Army	Q9212	
+dvp_020_org_50	Dartmouth College	Q49116	
+dvp_020_org_51	United States Army	Q9212	
+dvp_020_org_52	Dartmouth College	Q49116	
+dvp_020_org_53	National Guard of the United States	Q928670	
+dvp_020_org_54	National Guard of the United States	Q928670	
+dvp_020_org_55	Transportation Corps	Q469581	
+dvp_020_org_56	University of Louisville	Q1317143	
+dvp_020_org_57	University of Kentucky	Q1360303	
+dvp_020_org_58	United States Army	Q9212	
+dvp_020_org_59	United States Armed Forces	Q11211	
+dvp_020_org_60	3rd Armored Division	Q223552	
+dvp_020_org_61	United States Army	Q9212	
+dvp_020_org_62	Princeton University	Q21578	
+dvp_020_org_63	United States European Command	Q510610	
+dvp_020_org_64	United States Army	Q9212	
+dvp_020_org_65	United States Navy	Q11220	
+dvp_020_org_66	United States Air Force	Q11223	
+dvp_020_org_67	3rd Armored Division	Q223552	
+dvp_020_org_68	United States Army	Q9212	
+dvp_020_org_69	Look	Q6674963	
+dvp_020_org_70	United States European Command	Q510610	
+dvp_020_org_71	United States Department of State	Q789915	
+dvp_020_org_72	Dartmouth ’64		dvp_0168
+dvp_020_org_73	Smith College	Q49204	
+dvp_020_org_74	Episcopal Divinity School	Q5383462	
+dvp_020_org_75	University of Michigan	Q230492	
+dvp_020_org_76	Wayne State University	Q349055	
+dvp_020_org_77	Dartmouth College	Q49116	
+dvp_020_org_78	University of Michigan	Q230492	
+dvp_020_org_79	Wayne State University	Q349055	
+dvp_020_org_80	Class of 1964		dvp_0168
+dvp_020_org_81	University of Michigan Law School	Q911830	
+dvp_020_org_82	University of Pennsylvania	Q49117	
+dvp_020_org_83	University of Pennsylvania	Q49117	
+dvp_020_org_84	College of William & Mary	Q875637	
+dvp_020_org_85	College of William & Mary	Q875637	
+dvp_020_org_86	University of Michigan	Q230492	
+dvp_020_org_87	Dartmouth College	Q49116	
+dvp_020_org_88	Dartmouth College	Q49116	
