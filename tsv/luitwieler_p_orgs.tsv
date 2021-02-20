@@ -1,109 +1,109 @@
-id	orgName
-dvp_041_org_0	Class of ’24
-dvp_041_org_1	Cornell [University]
-dvp_041_org_2	Dartmouth
-dvp_041_org_3	Winchester High School
-dvp_041_org_4	Dartmouth
-dvp_041_org_5	Harvard [University]
-dvp_041_org_6	Ivy League
-dvp_041_org_7	Boy Scouts
-dvp_041_org_8	Dartmouth
-dvp_041_org_9	Cornell
-dvp_041_org_10	Ivy League
-dvp_041_org_11	Dartmouth
-dvp_041_org_12	Dartmouth
-dvp_041_org_13	Cornell
-dvp_041_org_14	Dartmouth
-dvp_041_org_15	Dartmouth
-dvp_041_org_16	Dartmouth
-dvp_041_org_17	[Amos] Tuck School [of Business]
-dvp_041_org_18	Thayer School [of Engineering]
-dvp_041_org_19	[Phi Delta Alpha] “Phi Delt”
-dvp_041_org_20	Dartmouth
-dvp_041_org_21	Dartmouth
-dvp_041_org_22	Amos Tuck School [of Business]
-dvp_041_org_23	Tuck School
-dvp_041_org_24	Dartmouth
-dvp_041_org_25	Tuck School
-dvp_041_org_26	Tuck School
-dvp_041_org_27	Dartmouth
-dvp_041_org_28	Army ROTC [Reserve Officers’ Training Corps]
-dvp_041_org_29	ROTC
-dvp_041_org_30	ROTC
-dvp_041_org_31	[U.S.] Navy
-dvp_041_org_32	Officer Candidate School
-dvp_041_org_33	ROTC
-dvp_041_org_34	Dartmouth
-dvp_041_org_35	Dartmouth
-dvp_041_org_36	Gulf Oil
-dvp_041_org_37	Officer Candidate School
-dvp_041_org_38	Gulf Oil
-dvp_041_org_39	Gulf Oil
-dvp_041_org_40	OCS [Officer Candidate School]
-dvp_041_org_41	Dartmouth rugby
-dvp_041_org_42	OCS
-dvp_041_org_43	Army
-dvp_041_org_44	93rd Infantry Company at Fort Benning OCS [sic; 93rd Company OCS]
-dvp_041_org_45	Ivy League
-dvp_041_org_46	Harvard
-dvp_041_org_47	Ivy League
-dvp_041_org_48	[the U.S. Military Academy at] West Point
-dvp_041_org_49	Army
-dvp_041_org_50	Army
-dvp_041_org_51	Army
-dvp_041_org_52	Marine
-dvp_041_org_53	Army
-dvp_041_org_54	OCS
-dvp_041_org_55	Gulf Oil
-dvp_041_org_56	Veterans of Vietnam
-dvp_041_org_57	Army
-dvp_041_org_58	Army
-dvp_041_org_59	TWA [Trans World Airlines]
-dvp_041_org_60	Military Intelligence Command
-dvp_041_org_61	MACV
-dvp_041_org_62	Army
-dvp_041_org_63	USAID [U.S. Agency for International Development]
-dvp_041_org_64	USAID
-dvp_041_org_65	MACV
-dvp_041_org_66	National Guard
-dvp_041_org_67	Provincial Reconnaissance Unit
-dvp_041_org_68	1st Cavalry [Division
-dvp_041_org_69	Phoenix Program
-dvp_041_org_70	Phoenix
-dvp_041_org_71	PFC
-dvp_041_org_72	PFC
-dvp_041_org_73	1st Cavalry
-dvp_041_org_74	1st Cav
-dvp_041_org_75	1st Cav
-dvp_041_org_76	Phoenix Program
-dvp_041_org_77	Viet Cong
-dvp_041_org_78	Viet Cong
-dvp_041_org_79	Viet Cong
-dvp_041_org_80	1st Cavalry
-dvp_041_org_81	Viet Cong
-dvp_041_org_82	Phoenix Program
-dvp_041_org_83	Viet Cong
-dvp_041_org_84	U.S. Army
-dvp_041_org_85	Joint Chiefs of Staff
-dvp_041_org_86	Joint Chiefs of Staff
-dvp_041_org_87	[U.S.] Senate
-dvp_041_org_88	C-SPAN
-dvp_041_org_89	C-Span
-dvp_041_org_90	Viet Cong
-dvp_041_org_91	Phoenix
-dvp_041_org_92	CIA [Central Intelligence Agency]
-dvp_041_org_93	CIA
-dvp_041_org_94	Army
-dvp_041_org_95	Army
-dvp_041_org_96	Army
-dvp_041_org_97	OCS
-dvp_041_org_98	Army Intelligence
-dvp_041_org_99	Army
-dvp_041_org_100	U.S. Army
-dvp_041_org_101	Criminal Investigation Division
-dvp_041_org_102	Army
-dvp_041_org_103	Gulf
-dvp_041_org_104	Class of ’64
-dvp_041_org_105	Marine
-dvp_041_org_106	Army
-dvp_041_org_107	Gulf Oil
+id	orgName	QID	dvp_id
+dvp_041_org_0	Class of ’24		dvp_0205
+dvp_041_org_1	Cornell University	Q49115	
+dvp_041_org_2	Dartmouth College	Q49116	
+dvp_041_org_3	Winchester High School	Q14716046	
+dvp_041_org_4	Dartmouth College	Q49116	
+dvp_041_org_5	Harvard University	Q13371	
+dvp_041_org_6	Ivy League	Q49113	
+dvp_041_org_7	Boy Scouts of America	Q608132	
+dvp_041_org_8	Dartmouth College	Q49116	
+dvp_041_org_9	Cornell University	Q49115	
+dvp_041_org_10	Ivy League	Q49113	
+dvp_041_org_11	Dartmouth College	Q49116	
+dvp_041_org_12	Dartmouth College	Q49116	
+dvp_041_org_13	Cornell University	Q49115	
+dvp_041_org_14	Dartmouth College	Q49116	
+dvp_041_org_15	Dartmouth College	Q49116	
+dvp_041_org_16	Dartmouth College	Q49116	
+dvp_041_org_17	Tuck School of Business	Q1263832	
+dvp_041_org_18	Thayer School of Engineering	Q7711553	
+dvp_041_org_19	Phi Delta Alpha	Q101536359	
+dvp_041_org_20	Dartmouth College	Q49116	
+dvp_041_org_21	Dartmouth College	Q49116	
+dvp_041_org_22	Tuck School of Business	Q1263832	
+dvp_041_org_23	Tuck School of Business	Q1263832	
+dvp_041_org_24	Dartmouth College	Q49116	
+dvp_041_org_25	Tuck School of Business	Q1263832	
+dvp_041_org_26	Tuck School of Business	Q1263832	
+dvp_041_org_27	Dartmouth College	Q49116	
+dvp_041_org_28	Army Reserve Officers' Training Corps	Q4794233	
+dvp_041_org_29	Reserve Officers' Training Corps	Q489983	
+dvp_041_org_30	Reserve Officers' Training Corps	Q489983	
+dvp_041_org_31	United States Navy	Q11220	
+dvp_041_org_32	Officer Candidate School	Q12622609	
+dvp_041_org_33	Reserve Officers' Training Corps	Q489983	
+dvp_041_org_34	Dartmouth College	Q49116	
+dvp_041_org_35	Dartmouth College	Q49116	
+dvp_041_org_36	Gulf Oil	Q1296860	
+dvp_041_org_37	Officer Candidate School	Q12622609	
+dvp_041_org_38	Gulf Oil	Q1296860	
+dvp_041_org_39	Gulf Oil	Q1296860	
+dvp_041_org_40	Officer Candidate School	Q14319576	
+dvp_041_org_41	Dartmouth Rugby	Q16989138	
+dvp_041_org_42	Officer Candidate School	Q14319576	
+dvp_041_org_43	United States Army	Q9212	
+dvp_041_org_44	93rd Infantry Company at Fort Benning OCS [sic; 93rd Company OCS]		
+dvp_041_org_45	Ivy League	Q49113	
+dvp_041_org_46	Harvard University	Q13371	
+dvp_041_org_47	Ivy League	Q49113	
+dvp_041_org_48	United States Military Academy	Q9219	
+dvp_041_org_49	United States Army	Q9212	
+dvp_041_org_50	United States Army	Q9212	
+dvp_041_org_51	United States Army	Q9212	
+dvp_041_org_52	United States Military Academy	Q9219	
+dvp_041_org_53	United States Army	Q9212	
+dvp_041_org_54	Officer Candidate School	Q14319576	
+dvp_041_org_55	Gulf Oil	Q1296860	
+dvp_041_org_56	Veterans of Vietnam		
+dvp_041_org_57	United States Army	Q9212	
+dvp_041_org_58	United States Army	Q9212	
+dvp_041_org_59	Trans World Airlines	Q527341	
+dvp_041_org_60	Military Intelligence Readiness Command	Q7889502	
+dvp_041_org_61	Military Assistance Command, Vietnam	Q485921	
+dvp_041_org_62	United States Army	Q9212	
+dvp_041_org_63	United States Agency for International Development	Q217072	
+dvp_041_org_64	United States Agency for International Development	Q217072	
+dvp_041_org_65	Military Assistance Command, Vietnam	Q485921	
+dvp_041_org_66	National Guard of the United States	Q928670	
+dvp_041_org_67	Provincial Reconnaissance Unit	Q96400364	
+dvp_041_org_68	1st Cavalry Division	Q2338	
+dvp_041_org_69	Phoenix Program	Q1755657	
+dvp_041_org_70	Phoenix Program	Q1755657	
+dvp_041_org_71	private first class	Q2352637	
+dvp_041_org_72	private first class	Q2352637	
+dvp_041_org_73	1st Cavalry Division	Q2338	
+dvp_041_org_74	1st Cavalry Division	Q2338	
+dvp_041_org_75	1st Cavalry Division	Q2338	
+dvp_041_org_76	Phoenix Program	Q1755657	
+dvp_041_org_77	National Front for the Liberation of South Vietnam	Q174423	
+dvp_041_org_78	National Front for the Liberation of South Vietnam	Q174423	
+dvp_041_org_79	National Front for the Liberation of South Vietnam	Q174423	
+dvp_041_org_80	1st Cavalry Division	Q2338	
+dvp_041_org_81	National Front for the Liberation of South Vietnam	Q174423	
+dvp_041_org_82	Phoenix Program	Q1755657	
+dvp_041_org_83	National Front for the Liberation of South Vietnam	Q174423	
+dvp_041_org_84	United States Army	Q9212	
+dvp_041_org_85	Joint Chiefs of Staff	Q609474	
+dvp_041_org_86	Joint Chiefs of Staff	Q609474	
+dvp_041_org_87	United States Senate	Q66096	
+dvp_041_org_88	C-SPAN	Q1022311	
+dvp_041_org_89	C-SPAN	Q1022311	
+dvp_041_org_90	National Front for the Liberation of South Vietnam	Q174423	
+dvp_041_org_91	Phoenix Program	Q1755657	
+dvp_041_org_92	Central Intelligence Agency	Q37230	
+dvp_041_org_93	Central Intelligence Agency	Q37230	
+dvp_041_org_94	United States Army	Q9212	
+dvp_041_org_95	United States Army	Q9212	
+dvp_041_org_96	United States Army	Q9212	
+dvp_041_org_97	Officer Candidate School	Q14319576	
+dvp_041_org_98	Military Intelligence Corps	Q367369	
+dvp_041_org_99	United States Army	Q9212	
+dvp_041_org_100	United States Army	Q9212	
+dvp_041_org_101	United States Army Criminal Investigation Command	Q1431587	
+dvp_041_org_102	United States Army	Q9212	
+dvp_041_org_103	Gulf Oil	Q1296860	
+dvp_041_org_104	Class of ’64		dvp_0168
+dvp_041_org_105	United States Military Academy	Q9219	
+dvp_041_org_106	United States Army	Q9212	
+dvp_041_org_107	Gulf Oil	Q1296860	

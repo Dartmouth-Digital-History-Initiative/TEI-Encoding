@@ -1,23 +1,23 @@
-id	name
-dvp_041_event_0	Vietnam
-dvp_041_event_1	Vietnam
-dvp_041_event_2	Kent State [University] event [referring to the shootings]
-dvp_041_event_3	Tet Offensive
-dvp_041_event_4	Tet Offensive
-dvp_041_event_5	Tet Offensive
-dvp_041_event_6	Tet Offensive
-dvp_041_event_7	Tet Offensive
-dvp_041_event_8	Tet Offensive
-dvp_041_event_9	Tet Offensive
-dvp_041_event_10	Tet Offensive
-dvp_041_event_11	Tet Offensive
-dvp_041_event_12	Tet Offensive
-dvp_041_event_13	Tet Offensive
-dvp_041_event_14	Tet
-dvp_041_event_15	Tet Offensive
-dvp_041_event_16	Vietnam
-dvp_041_event_17	Tet Offensive
-dvp_041_event_18	Vietnam
-dvp_041_event_19	Vietnam War
-dvp_041_event_20	Vietnam
-dvp_041_event_21	Vietnam
+id	name	QID	dvp_id	start time	end time	point in time
+dvp_041_event_0	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_041_event_1	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_041_event_2	Kent State shootings	Q482635				1970-05-04T00:00:00Z
+dvp_041_event_3	Tet Offensive	Q82542		1968-01-30T00:00:00Z	1968-09-23T00:00:00Z	
+dvp_041_event_4	Tet Offensive	Q82542		1968-01-30T00:00:00Z	1968-09-23T00:00:00Z	
+dvp_041_event_5	Tet Offensive	Q82542		1968-01-30T00:00:00Z	1968-09-23T00:00:00Z	
+dvp_041_event_6	Tet Offensive	Q82542		1968-01-30T00:00:00Z	1968-09-23T00:00:00Z	
+dvp_041_event_7	Tet Offensive	Q82542		1968-01-30T00:00:00Z	1968-09-23T00:00:00Z	
+dvp_041_event_8	Tet Offensive	Q82542		1968-01-30T00:00:00Z	1968-09-23T00:00:00Z	
+dvp_041_event_9	Tet Offensive	Q82542		1968-01-30T00:00:00Z	1968-09-23T00:00:00Z	
+dvp_041_event_10	Tet Offensive	Q82542		1968-01-30T00:00:00Z	1968-09-23T00:00:00Z	
+dvp_041_event_11	Tet Offensive	Q82542		1968-01-30T00:00:00Z	1968-09-23T00:00:00Z	
+dvp_041_event_12	Tet Offensive	Q82542		1968-01-30T00:00:00Z	1968-09-23T00:00:00Z	
+dvp_041_event_13	Tet Offensive	Q82542		1968-01-30T00:00:00Z	1968-09-23T00:00:00Z	
+dvp_041_event_14	Tet Offensive	Q82542		1968-01-30T00:00:00Z	1968-09-23T00:00:00Z	
+dvp_041_event_15	Tet Offensive	Q82542		1968-01-30T00:00:00Z	1968-09-23T00:00:00Z	
+dvp_041_event_16	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_041_event_17	Tet Offensive	Q82542		1968-01-30T00:00:00Z	1968-09-23T00:00:00Z	
+dvp_041_event_18	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_041_event_19	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_041_event_20	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_041_event_21	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
