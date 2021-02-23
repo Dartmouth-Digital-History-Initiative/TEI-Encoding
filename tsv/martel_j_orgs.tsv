@@ -1,102 +1,102 @@
-id	orgName
-dvp_042_org_0	[U.S.] Navy
-dvp_042_org_1	LST-1067 [USS Nye County]
-dvp_042_org_2	Republican
-dvp_042_org_3	Holy Cross [High School]
-dvp_042_org_4	[College of the] Holy Cross
-dvp_042_org_5	Republicans
-dvp_042_org_6	American Optical Company
-dvp_042_org_7	 University of Detroit
-dvp_042_org_8	University of Detroit
-dvp_042_org_9	Wright-Patterson Air Force Base
-dvp_042_org_10	Air Force Systems Division
-dvp_042_org_11	Air Force
-dvp_042_org_12	Army ROTC [Reserve Officers’ Training Corps]
-dvp_042_org_13	Air Force
-dvp_042_org_14	Army [laughs] ROTC
-dvp_042_org_15	Air Force ROTC
-dvp_042_org_16	ROTCs
-dvp_042_org_17	ROTC
-dvp_042_org_18	ROTC
-dvp_042_org_19	Air Force
-dvp_042_org_20	University of Detroit
-dvp_042_org_21	ROTC
-dvp_042_org_22	ROTC
-dvp_042_org_23	Air Force ROTC
-dvp_042_org_24	Theta Xi fraternity
-dvp_042_org_25	University of Detroit
-dvp_042_org_26	Dartmouth
-dvp_042_org_27	University of Detroit
-dvp_042_org_28	Air Force
-dvp_042_org_29	Democrat
-dvp_042_org_30	Republican
-dvp_042_org_31	ROTC
-dvp_042_org_32	Air Force
-dvp_042_org_33	ROTC
-dvp_042_org_34	ROTC
-dvp_042_org_35	Strategic Air Command
-dvp_042_org_36	Air Force
-dvp_042_org_37	Strategic Air Command
-dvp_042_org_38	USSR [Union of Soviet Socialist Republics]
-dvp_042_org_39	America’s
-dvp_042_org_40	Air Force
-dvp_042_org_41	[Boston] Red Sox
-dvp_042_org_42	USO [United Service Organizations]
-dvp_042_org_43	Air Force
-dvp_042_org_44	North Vietnamese
-dvp_042_org_45	337th Bomb[ardment] Squadron
-dvp_042_org_46	96th Strategic Air [sic; Aerospace] Wing
-dvp_042_org_47	Air Force
-dvp_042_org_48	Air Force
-dvp_042_org_49	Congress
-dvp_042_org_50	America
-dvp_042_org_51	Congress
-dvp_042_org_52	South Vietnamese
-dvp_042_org_53	ARVN
-dvp_042_org_54	Air Force
-dvp_042_org_55	Air Force
-dvp_042_org_56	University of Massachusetts
-dvp_042_org_57	University of Massachusetts
-dvp_042_org_58	Army
-dvp_042_org_59	Air Force
-dvp_042_org_60	Army
-dvp_042_org_61	Army
-dvp_042_org_62	University of Massachusetts
-dvp_042_org_63	U.S. Army Cold Regions [Research and Engineering] Laboratory [CRREL]
-dvp_042_org_64	Thayer School of Engineering
-dvp_042_org_65	CRREL
-dvp_042_org_66	CRREL
-dvp_042_org_67	Dartmouth
-dvp_042_org_68	CRREL
-dvp_042_org_69	Russia
-dvp_042_org_70	U.S.
-dvp_042_org_71	CRREL
-dvp_042_org_72	Mississippi Waterways Experiment [Station]
-dvp_042_org_73	University of Detroit
-dvp_042_org_74	Air Force
-dvp_042_org_75	Moody
-dvp_042_org_76	VA [Veterans Affairs]
-dvp_042_org_77	VA
-dvp_042_org_78	Republican
-dvp_042_org_79	Republican
-dvp_042_org_80	Democrat
-dvp_042_org_81	Republicans
-dvp_042_org_82	[U.S.] Army Corps of Engineers
-dvp_042_org_83	Army
-dvp_042_org_84	U.S. Army
-dvp_042_org_85	CRREL
-dvp_042_org_86	Strategic Air Command
-dvp_042_org_87	American Embassy
-dvp_042_org_88	American Embassy
-dvp_042_org_89	CRREL
-dvp_042_org_90	Army
-dvp_042_org_91	CRREL
-dvp_042_org_92	Army
-dvp_042_org_93	Air Force
-dvp_042_org_94	CRREL
-dvp_042_org_95	Army
-dvp_042_org_96	Dartmouth
-dvp_042_org_97	CRREL
-dvp_042_org_98	Dartmouth
-dvp_042_org_99	Thayer School
-dvp_042_org_100	Thayer
+id	orgName	QID	dvp_id
+dvp_042_org_0	United States Navy	Q11220	
+dvp_042_org_1	USS Nye County	Q7872350	
+dvp_042_org_2	Republican Party	Q29468	
+dvp_042_org_3	Holy Cross High School	Q5885233	
+dvp_042_org_4	College of the Holy Cross	Q2620177	
+dvp_042_org_5	Republican Party	Q29468	
+dvp_042_org_6	American Optical Company	Q85741229	
+dvp_042_org_7	University of Detroit Mercy	Q1320232	
+dvp_042_org_8	University of Detroit Mercy	Q1320232	
+dvp_042_org_9	Wright-Patterson Air Force Base	Q730187	
+dvp_042_org_10	Air Force Systems Command	Q4697969	
+dvp_042_org_11	United States Air Force	Q11223	
+dvp_042_org_12	Army Reserve Officers' Training Corps	Q4794233	
+dvp_042_org_13	United States Air Force	Q11223	
+dvp_042_org_14	Army Reserve Officers' Training Corps	Q4794233	
+dvp_042_org_15	Air Force Reserve Officer Training Corp	Q101243281	
+dvp_042_org_16	Reserve Officers' Training Corps	Q489983	
+dvp_042_org_17	Reserve Officers' Training Corps	Q489983	
+dvp_042_org_18	Reserve Officers' Training Corps	Q489983	
+dvp_042_org_19	United States Air Force	Q11223	
+dvp_042_org_20	University of Detroit Mercy	Q1320232	
+dvp_042_org_21	Reserve Officers' Training Corps	Q489983	
+dvp_042_org_22	Reserve Officers' Training Corps	Q489983	
+dvp_042_org_23	Air Force Reserve Officer Training Corp	Q101243281	
+dvp_042_org_24	Theta Xi	Q629524	
+dvp_042_org_25	University of Detroit Mercy	Q1320232	
+dvp_042_org_26	Dartmouth College	Q49116	
+dvp_042_org_27	University of Detroit Mercy	Q1320232	
+dvp_042_org_28	United States Air Force	Q11223	
+dvp_042_org_29	Democratic Party	Q29552	
+dvp_042_org_30	Republican Party	Q29468	
+dvp_042_org_31	Reserve Officers' Training Corps	Q489983	
+dvp_042_org_32	United States Air Force	Q11223	
+dvp_042_org_33	Reserve Officers' Training Corps	Q489983	
+dvp_042_org_34	Reserve Officers' Training Corps	Q489983	
+dvp_042_org_35	Strategic Air Command	Q937064	
+dvp_042_org_36	United States Air Force	Q11223	
+dvp_042_org_37	Strategic Air Command	Q937064	
+dvp_042_org_38	Soviet Union	Q15180	
+dvp_042_org_39	United States of America	Q30	
+dvp_042_org_40	United States Air Force	Q11223	
+dvp_042_org_41	Boston Red Sox	Q213959	
+dvp_042_org_42	United Service Organizations	Q1972821	
+dvp_042_org_43	United States Air Force	Q11223	
+dvp_042_org_44	North Vietnam	Q172640	
+dvp_042_org_45	337th Test and Evaluation Squadron	Q4635180	
+dvp_042_org_46	96th Test Wing	Q4646120	
+dvp_042_org_47	United States Air Force	Q11223	
+dvp_042_org_48	United States Air Force	Q11223	
+dvp_042_org_49	United States Congress	Q11268	
+dvp_042_org_50	United States of America	Q30	
+dvp_042_org_51	United States Congress	Q11268	
+dvp_042_org_52	South Vietnam	Q180573	
+dvp_042_org_53	Army of the Republic of Vietnam	Q18917	
+dvp_042_org_54	United States Air Force	Q11223	
+dvp_042_org_55	United States Air Force	Q11223	
+dvp_042_org_56	University of Massachusetts Amherst	Q15142	
+dvp_042_org_57	University of Massachusetts Amherst	Q15142	
+dvp_042_org_58	United States Army	Q9212	
+dvp_042_org_59	United States Air Force	Q11223	
+dvp_042_org_60	United States Army	Q9212	
+dvp_042_org_61	United States Army	Q9212	
+dvp_042_org_62	University of Massachusetts Amherst	Q15142	
+dvp_042_org_63	Cold Regions Research and Engineering Laboratory	Q5142318	
+dvp_042_org_64	Thayer School of Engineering	Q7711553	
+dvp_042_org_65	Cold Regions Research and Engineering Laboratory	Q5142318	
+dvp_042_org_66	Cold Regions Research and Engineering Laboratory	Q5142318	
+dvp_042_org_67	Dartmouth College	Q49116	
+dvp_042_org_68	Cold Regions Research and Engineering Laboratory	Q5142318	
+dvp_042_org_69	Russia	Q159	
+dvp_042_org_70	United States of America	Q30	
+dvp_042_org_71	Cold Regions Research and Engineering Laboratory	Q5142318	
+dvp_042_org_72	Waterways Experiment Station Dam	Q34949870	
+dvp_042_org_73	University of Detroit Mercy	Q1320232	
+dvp_042_org_74	United States Air Force	Q11223	
+dvp_042_org_75	Moody Air Force Base	Q2625576	
+dvp_042_org_76	United States Department of Veterans Affairs	Q592576	
+dvp_042_org_77	United States Department of Veterans Affairs	Q592576	
+dvp_042_org_78	Republican Party	Q29468	
+dvp_042_org_79	Republican Party	Q29468	
+dvp_042_org_80	Democratic Party	Q29552	
+dvp_042_org_81	Republican Party	Q29468	
+dvp_042_org_82	United States Army Corps of Engineers	Q1049334	
+dvp_042_org_83	United States Army	Q9212	
+dvp_042_org_84	United States Army	Q9212	
+dvp_042_org_85	Cold Regions Research and Engineering Laboratory	Q5142318	
+dvp_042_org_86	Strategic Air Command	Q937064	
+dvp_042_org_87	Embassy of the United States, Moscow	Q722374	
+dvp_042_org_88	Embassy of the United States, Moscow	Q722374	
+dvp_042_org_89	Cold Regions Research and Engineering Laboratory	Q5142318	
+dvp_042_org_90	United States Army	Q9212	
+dvp_042_org_91	Cold Regions Research and Engineering Laboratory	Q5142318	
+dvp_042_org_92	United States Army	Q9212	
+dvp_042_org_93	United States Air Force	Q11223	
+dvp_042_org_94	Cold Regions Research and Engineering Laboratory	Q5142318	
+dvp_042_org_95	United States Army	Q9212	
+dvp_042_org_96	Dartmouth College	Q49116	
+dvp_042_org_97	Cold Regions Research and Engineering Laboratory	Q5142318	
+dvp_042_org_98	Dartmouth College	Q49116	
+dvp_042_org_99	Thayer School of Engineering	Q7711553	
+dvp_042_org_100	Thayer School of Engineering	Q7711553	
