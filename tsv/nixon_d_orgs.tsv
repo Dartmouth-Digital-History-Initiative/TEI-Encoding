@@ -1,76 +1,76 @@
-id	orgName
-dvp_050_org_0	Dartmouth
-dvp_050_org_1	Dartmouth
-dvp_050_org_2	Dartmouth
-dvp_050_org_3	Warner Bros.
-dvp_050_org_4	Dartmouth
-dvp_050_org_5	Dartmouth
-dvp_050_org_6	Harvard [University]
-dvp_050_org_7	Yale [University]
-dvp_050_org_8	Dartmouth
-dvp_050_org_9	Dartmouth
-dvp_050_org_10	Princeton [University]
-dvp_050_org_11	Dartmouth
-dvp_050_org_12	Dartmouth
-dvp_050_org_13	Class of 1929
-dvp_050_org_14	Pennsylvania Medical Society
-dvp_050_org_15	Dartmouth
-dvp_050_org_16	Dartmouth
-dvp_050_org_17	Dartmouth
-dvp_050_org_18	’55
-dvp_050_org_19	Dartmouth
-dvp_050_org_20	Dartmouth
-dvp_050_org_21	Dartmouth
-dvp_050_org_22	New Castle Senior High School
-dvp_050_org_23	Dartmouth
-dvp_050_org_24	Tau Epsilon Phi
-dvp_050_org_25	Dartmouth
-dvp_050_org_26	Dartmouth
-dvp_050_org_27	Dartmouth
-dvp_050_org_28	Dartmouth
-dvp_050_org_29	TEP
-dvp_050_org_30	University of Pittsburgh
-dvp_050_org_31	University of Pittsburgh
-dvp_050_org_32	Dartmouth
-dvp_050_org_33	University of Pittsburgh
-dvp_050_org_34	University of Pittsburgh
-dvp_050_org_35	AOA [Alpha Omega Alpha]
-dvp_050_org_36	Mount Sinai [Hospital, now Mount Sinai Health System]
-dvp_050_org_37	Sinai
-dvp_050_org_38	Columbia Presbyterian [Hospital, now NewYork-Presbyterian/Columbia University Medical Center]
-dvp_050_org_39	Dartmouth
-dvp_050_org_40	Wellesley [College]
-dvp_050_org_41	Nautilus Hotel [now Nautilus South Beach]
-dvp_050_org_42	Wellesley
-dvp_050_org_43	ROTC [in the Reserve Officers’ Training Corps]
-dvp_050_org_44	Columbia
-dvp_050_org_45	ROTC
-dvp_050_org_46	12th Evac[uation Hospital]
-dvp_050_org_47	12th Evac Hospital
-dvp_050_org_48	21st Evac[uation Hospital]
-dvp_050_org_49	12th Evac
-dvp_050_org_50	the 6th Convalescent Center
-dvp_050_org_51	Army
-dvp_050_org_52	U.S. Army
-dvp_050_org_53	Army
-dvp_050_org_54	Army
-dvp_050_org_55	12th Evac
-dvp_050_org_56	Viet Cong
-dvp_050_org_57	Red Cross
-dvp_050_org_58	12th Evac
-dvp_050_org_59	6th Surgical Hospital
-dvp_050_org_60	Valley Forge [Army Hospital, now Valley Forge General Hospital]
-dvp_050_org_61	Viet Cong
-dvp_050_org_62	Columbia Presbyterian
-dvp_050_org_63	Army
-dvp_050_org_64	Columbia
-dvp_050_org_65	Columbia
-dvp_050_org_66	Americans
-dvp_050_org_67	Chinese
-dvp_050_org_68	Chinese
-dvp_050_org_69	America
-dvp_050_org_70	Americans
-dvp_050_org_71	Marine
-dvp_050_org_72	VA [U.S. Department of Veterans Affairs, also known as the Veterans Administration]
-dvp_050_org_73	Army
-dvp_050_org_74	The New York Times
+id	orgName	QID	dvp_id
+dvp_050_org_0	Dartmouth College	Q49116	
+dvp_050_org_1	Dartmouth College	Q49116	
+dvp_050_org_2	Dartmouth College	Q49116	
+dvp_050_org_3	Warner Bros.	Q126399	
+dvp_050_org_4	Dartmouth College	Q49116	
+dvp_050_org_5	Dartmouth College	Q49116	
+dvp_050_org_6	Harvard University	Q13371	
+dvp_050_org_7	Yale University	Q49112	
+dvp_050_org_8	Dartmouth College	Q49116	
+dvp_050_org_9	Dartmouth College	Q49116	
+dvp_050_org_10	Princeton University	Q21578	
+dvp_050_org_11	Dartmouth College	Q49116	
+dvp_050_org_12	Dartmouth College	Q49116	
+dvp_050_org_13	Class of 1929		dvp_0066
+dvp_050_org_14	Pennsylvania Medical Society	Q7164005	
+dvp_050_org_15	Dartmouth College	Q49116	
+dvp_050_org_16	Dartmouth College	Q49116	
+dvp_050_org_17	Dartmouth College	Q49116	
+dvp_050_org_18	’55		dvp_0171
+dvp_050_org_19	Dartmouth College	Q49116	
+dvp_050_org_20	Dartmouth College	Q49116	
+dvp_050_org_21	Dartmouth College	Q49116	
+dvp_050_org_22	New Castle Junior/Senior High School	Q7006431	
+dvp_050_org_23	Dartmouth College	Q49116	
+dvp_050_org_24	Tau Epsilon Phi	Q7688615	
+dvp_050_org_25	Dartmouth College	Q49116	
+dvp_050_org_26	Dartmouth College	Q49116	
+dvp_050_org_27	Dartmouth College	Q49116	
+dvp_050_org_28	Dartmouth College	Q49116	
+dvp_050_org_29	Tau Epsilon Phi	Q7688615	
+dvp_050_org_30	University of Pittsburgh	Q235034	
+dvp_050_org_31	University of Pittsburgh	Q235034	
+dvp_050_org_32	Dartmouth College	Q49116	
+dvp_050_org_33	University of Pittsburgh	Q235034	
+dvp_050_org_34	University of Pittsburgh	Q235034	
+dvp_050_org_35	Alpha Omega Alpha	Q4735087	
+dvp_050_org_36	Mount Sinai Hospital	Q1476505	
+dvp_050_org_37	Mount Sinai Hospital	Q1476505	
+dvp_050_org_38	NewYork–Presbyterian Hospital	Q975653	
+dvp_050_org_39	Dartmouth College	Q49116	
+dvp_050_org_40	Wellesley College	Q49205	
+dvp_050_org_41	Nautilus Hotel [now Nautilus South Beach]		dvp_0217
+dvp_050_org_42	Wellesley College	Q49205	
+dvp_050_org_43	Reserve Officers' Training Corps	Q489983	
+dvp_050_org_44	Columbia University	Q49088	
+dvp_050_org_45	Reserve Officers' Training Corps	Q489983	
+dvp_050_org_46	12th Evacuation Hospital	Q104883008	
+dvp_050_org_47	12th Evacuation Hospital	Q104883008	
+dvp_050_org_48	21st Evacuation Hospital	Q105569159	
+dvp_050_org_49	12th Evacuation Hospital	Q104883008	
+dvp_050_org_50	6th Convalescent Center	Q105518973	
+dvp_050_org_51	United States Army	Q9212	
+dvp_050_org_52	United States Army	Q9212	
+dvp_050_org_53	United States Army	Q9212	
+dvp_050_org_54	United States Army	Q9212	
+dvp_050_org_55	12th Evacuation Hospital	Q104883008	
+dvp_050_org_56	National Front for the Liberation of South Vietnam	Q174423	
+dvp_050_org_57	American Red Cross	Q470110	
+dvp_050_org_58	12th Evacuation Hospital	Q104883008	
+dvp_050_org_59	6th Convalescent Center	Q105518973	
+dvp_050_org_60	Valley Forge General Hospital	Q7912062	
+dvp_050_org_61	National Front for the Liberation of South Vietnam	Q174423	
+dvp_050_org_62	NewYork–Presbyterian Hospital	Q975653	
+dvp_050_org_63	United States Army	Q9212	
+dvp_050_org_64	Columbia University	Q49088	
+dvp_050_org_65	Columbia University	Q49088	
+dvp_050_org_66	United States Armed Forces	Q11211	
+dvp_050_org_67	Chinese Armed Forces	Q16189636	
+dvp_050_org_68	Chinese Armed Forces	Q16189636	
+dvp_050_org_69	United States of America	Q30	
+dvp_050_org_70	United States Armed Forces	Q11211	
+dvp_050_org_71	United States Marine Corps	Q11218	
+dvp_050_org_72	United States Department of Veterans Affairs	Q592576	
+dvp_050_org_73	United States Army	Q9212	
+dvp_050_org_74	The New York Times	Q9684	
