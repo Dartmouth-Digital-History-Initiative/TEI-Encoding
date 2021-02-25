@@ -1,132 +1,135 @@
-id	placeName
-dvp_052_place_0	Rauner Special Collections Library
-dvp_052_place_1	Portland, Oregon
-dvp_052_place_2	Washington, D.C.
-dvp_052_place_3	Washington, D.C.
-dvp_052_place_4	Bethesda, Maryland
-dvp_052_place_5	Washington, D.C.
-dvp_052_place_6	Maryland
-dvp_052_place_7	D.C.
-dvp_052_place_8	Washington, D.C.
-dvp_052_place_9	Washington
-dvp_052_place_10	Washington
-dvp_052_place_11	Bethesda Elementary [School]
-dvp_052_place_12	District of Columbia
-dvp_052_place_13	Washington
-dvp_052_place_14	Bethesda
-dvp_052_place_15	Washington, D.C.
-dvp_052_place_16	America
-dvp_052_place_17	Soviet Union
-dvp_052_place_18	Washington, D.C.
-dvp_052_place_19	Washington, D.C.
-dvp_052_place_20	Washington
-dvp_052_place_21	Sidwell Friends
-dvp_052_place_22	Washington, D.C.
-dvp_052_place_23	Bethesda Elementary
-dvp_052_place_24	Sidwell Friends
-dvp_052_place_25	D.C.
-dvp_052_place_26	Washington, D.C.
-dvp_052_place_27	Portland, Oregon
-dvp_052_place_28	[Dartmouth] Green
-dvp_052_place_29	Washington
-dvp_052_place_30	Washington
-dvp_052_place_31	Main Street
-dvp_052_place_32	Dartmouth Green
-dvp_052_place_33	Boston
-dvp_052_place_34	Pentagon
-dvp_052_place_35	Hanover
-dvp_052_place_36	America
-dvp_052_place_37	America
-dvp_052_place_38	Da Nang
-dvp_052_place_39	Baker Library [Fisher Ames Baker Library now Baker-Berry Library]
-dvp_052_place_40	Hanover
-dvp_052_place_41	Dartmouth
-dvp_052_place_42	Boston
-dvp_052_place_43	Harvard Medical School
-dvp_052_place_44	Cambridge
-dvp_052_place_45	Boston
-dvp_052_place_46	Vietnam
-dvp_052_place_47	Vietnam
-dvp_052_place_48	Vietnam
-dvp_052_place_49	Vietnam
-dvp_052_place_50	Vietnam
-dvp_052_place_51	Canada
-dvp_052_place_52	Newport, Rhode Island
-dvp_052_place_53	Newport, Rhode Island
-dvp_052_place_54	Dartmouth
-dvp_052_place_55	Harvard Medical School
-dvp_052_place_56	Dartmouth Hall
-dvp_052_place_57	Baker Library
-dvp_052_place_58	Newport
-dvp_052_place_59	Vietnam
-dvp_052_place_60	Vietnam
-dvp_052_place_61	Vietnam
-dvp_052_place_62	Vietnam
-dvp_052_place_63	Vietnam
-dvp_052_place_64	Vietnam
-dvp_052_place_65	Vietnam
-dvp_052_place_66	Hawaii
-dvp_052_place_67	Vietnam
-dvp_052_place_68	Vietnam
-dvp_052_place_69	Vietnam
-dvp_052_place_70	Canada
-dvp_052_place_71	Canada
-dvp_052_place_72	San Diego
-dvp_052_place_73	Vietnam
-dvp_052_place_74	Vietnam
-dvp_052_place_75	Vietnam
-dvp_052_place_76	Vietnam
-dvp_052_place_77	Vietnam
-dvp_052_place_78	Rauner Special Collections Library
-dvp_052_place_79	San Diego
-dvp_052_place_80	Travis Air Force Base
-dvp_052_place_81	San Francisco
-dvp_052_place_82	Vietnam
-dvp_052_place_83	Hawaii
-dvp_052_place_84	Guam
-dvp_052_place_85	Philippines
-dvp_052_place_86	Manila
-dvp_052_place_87	[Naval Base] Subic Bay
-dvp_052_place_88	Subic Bay
-dvp_052_place_89	Subic Bay
-dvp_052_place_90	Da Nang Harbor
-dvp_052_place_91	Vietnam
-dvp_052_place_92	Da Nang
-dvp_052_place_93	Chu Lai
-dvp_052_place_94	 Chu Lai
-dvp_052_place_95	Da Nang
-dvp_052_place_96	Da Nang
-dvp_052_place_97	Da Nang Harbor
-dvp_052_place_98	Vietnam
-dvp_052_place_99	Vietnam
-dvp_052_place_100	Vietnam
-dvp_052_place_101	Vietnam
-dvp_052_place_102	DMZ
-dvp_052_place_103	Da Nang
-dvp_052_place_104	Philippines
-dvp_052_place_105	Da Nang
-dvp_052_place_106	Vietnam
-dvp_052_place_107	U.S.
-dvp_052_place_108	Japan
-dvp_052_place_109	U.S.
-dvp_052_place_110	Pentagon
-dvp_052_place_111	Vietnam
-dvp_052_place_112	Vietnam
-dvp_052_place_113	Vietnam
-dvp_052_place_114	Vietnam
-dvp_052_place_115	Vietnam
-dvp_052_place_116	Portland
-dvp_052_place_117	Vietnam
-dvp_052_place_118	China
-dvp_052_place_119	Vietnam
-dvp_052_place_120	Iraq
-dvp_052_place_121	Vietnam
-dvp_052_place_122	Saigon
-dvp_052_place_123	Saigon
-dvp_052_place_124	Saigon
-dvp_052_place_125	Saigon
-dvp_052_place_126	Saigon
-dvp_052_place_127	Da Nang
-dvp_052_place_128	Khe Sanh
-dvp_052_place_129	America
-dvp_052_place_130	Vietnam
+id	placeName	coordinate location	QID	dvp_id
+dvp_052_place_0	Rauner Special Collections Library	43.70447,-72.28817	Q98544730	
+dvp_052_place_1	Portland	45.516666666667,-122.66666666667	Q6106	
+dvp_052_place_2	Washington, D.C.	38.895,-77.036666666667	Q61	
+dvp_052_place_3	Washington, D.C.	38.895,-77.036666666667	Q61	
+dvp_052_place_4	Bethesda	38.9806658,-77.100256	Q584451	
+dvp_052_place_5	Washington, D.C.	38.895,-77.036666666667	Q61	
+dvp_052_place_6	Maryland	39,-76.7	Q1391	
+dvp_052_place_7	Washington, D.C.	38.895,-77.036666666667	Q61	
+dvp_052_place_8	Washington, D.C.	38.895,-77.036666666667	Q61	
+dvp_052_place_9	Washington, D.C.	38.895,-77.036666666667	Q61	
+dvp_052_place_10	Washington, D.C.	38.895,-77.036666666667	Q61	
+dvp_052_place_11	Bethesda Elementary [School]			
+dvp_052_place_12	Washington, D.C.	38.895,-77.036666666667	Q61	
+dvp_052_place_13	Washington, D.C.	38.895,-77.036666666667	Q61	
+dvp_052_place_14	Bethesda	38.9806658,-77.100256	Q584451	
+dvp_052_place_15	Washington, D.C.	38.895,-77.036666666667	Q61	
+dvp_052_place_16	United States of America	39.828175,-98.5795	Q30	
+dvp_052_place_17	Soviet Union	65,90	Q15180	
+dvp_052_place_18	Washington, D.C.	38.895,-77.036666666667	Q61	
+dvp_052_place_19	Washington, D.C.	38.895,-77.036666666667	Q61	
+dvp_052_place_20	Washington, D.C.	38.895,-77.036666666667	Q61	
+dvp_052_place_21	Sidwell Friends School	38.939217,-77.074628	Q3439758	
+dvp_052_place_22	Washington, D.C.	38.895,-77.036666666667	Q61	
+dvp_052_place_23	Bethesda Elementary			
+dvp_052_place_24	Sidwell Friends School	38.939217,-77.074628	Q3439758	
+dvp_052_place_25	Washington, D.C.	38.895,-77.036666666667	Q61	
+dvp_052_place_26	Washington, D.C.	38.895,-77.036666666667	Q61	
+dvp_052_place_27	Portland	45.516666666667,-122.66666666667	Q6106	
+dvp_052_place_28	The Green	43.7033,-72.2886	Q7738117	
+dvp_052_place_29	Washington, D.C.	38.895,-77.036666666667	Q61	
+dvp_052_place_30	Washington, D.C.	38.895,-77.036666666667	Q61	
+dvp_052_place_31	Strand Theater		Q42667391	
+dvp_052_place_32	The Green	43.7033,-72.2886	Q7738117	
+dvp_052_place_33	Boston	42.358333333333,-71.0625	Q100	
+dvp_052_place_34	The Pentagon	38.871111,-77.055833	Q11208	
+dvp_052_place_35	Hanover	43.70222222,-72.28944444	Q38249825	
+dvp_052_place_36	United States of America	39.828175,-98.5795	Q30	
+dvp_052_place_37	United States of America	39.828175,-98.5795	Q30	
+dvp_052_place_38	Da Nang	16.031944444444445,108.22055555555555	Q25282	
+dvp_052_place_39	Baker Memorial Library	43.705,-72.289166666667	Q4849183	
+dvp_052_place_40	Hanover	43.70222222,-72.28944444	Q38249825	
+dvp_052_place_41	Dartmouth College	43.703333333333,-72.288333333333	Q49116	
+dvp_052_place_42	Boston	42.358333333333,-71.0625	Q100	
+dvp_052_place_43	Harvard Medical School	42.335743,-71.105138	Q49121	
+dvp_052_place_44	Cambridge	42.375,-71.106111111111	Q49111	
+dvp_052_place_45	Boston	42.358333333333,-71.0625	Q100	
+dvp_052_place_46	Vietnam	16,108	Q881	
+dvp_052_place_47	Vietnam	16,108	Q881	
+dvp_052_place_48	Vietnam	16,108	Q881	
+dvp_052_place_49	Vietnam	16,108	Q881	
+dvp_052_place_50	Vietnam	16,108	Q881	
+dvp_052_place_51	Canada	56,-109	Q16	
+dvp_052_place_52	Newport	41.488002,-71.312622	Q54264	
+dvp_052_place_53	Newport	41.488002,-71.312622	Q54264	
+dvp_052_place_54	Dartmouth College	43.703333333333,-72.288333333333	Q49116	
+dvp_052_place_55	Harvard Medical School	42.335743,-71.105138	Q49121	
+dvp_052_place_56	Dartmouth Hall			
+dvp_052_place_57	Baker Memorial Library	43.705,-72.289166666667	Q4849183	
+dvp_052_place_58	Newport	41.488002,-71.312622	Q54264	
+dvp_052_place_59	Vietnam	16,108	Q881	
+dvp_052_place_60	Vietnam	16,108	Q881	
+dvp_052_place_61	Vietnam	16,108	Q881	
+dvp_052_place_62	Vietnam	16,108	Q881	
+dvp_052_place_63	Vietnam	16,108	Q881	
+dvp_052_place_64	Vietnam	16,108	Q881	
+dvp_052_place_65	Vietnam	16,108	Q881	
+dvp_052_place_66	Hawaiian Islands	19.366666666666667,-155.33333333333334	Q192626	
+		20.75,-156.15		
+dvp_052_place_67	Vietnam	16,108	Q881	
+dvp_052_place_68	Vietnam	16,108	Q881	
+dvp_052_place_69	Vietnam	16,108	Q881	
+dvp_052_place_70	Canada	56,-109	Q16	
+dvp_052_place_71	Canada	56,-109	Q16	
+dvp_052_place_72	San Diego	32.715,-117.1625	Q16552	
+dvp_052_place_73	Vietnam	16,108	Q881	
+dvp_052_place_74	Vietnam	16,108	Q881	
+dvp_052_place_75	Vietnam	16,108	Q881	
+dvp_052_place_76	Vietnam	16,108	Q881	
+dvp_052_place_77	Vietnam	16,108	Q881	
+dvp_052_place_78	Rauner Special Collections Library	43.70447,-72.28817	Q98544730	
+dvp_052_place_79	San Diego	32.715,-117.1625	Q16552	
+dvp_052_place_80	Travis Air Force Base	38.262777777778,-121.9275	Q3497425	
+dvp_052_place_81	San Francisco	37.7775,-122.41638888888889	Q62	
+dvp_052_place_82	Vietnam	16,108	Q881	
+dvp_052_place_83	Hawaiian Islands	19.366666666666667,-155.33333333333334	Q192626	
+		20.75,-156.15		
+dvp_052_place_84	Guam	13.5,144.8	Q16635	
+dvp_052_place_85	Philippines	12,123	Q928	
+dvp_052_place_86	Manila	14.6,120.98333333333333	Q1461	
+dvp_052_place_87	Naval Base Subic Bay	14.80777778,120.27805556	Q1458014	
+dvp_052_place_88	Naval Base Subic Bay	14.80777778,120.27805556	Q1458014	
+dvp_052_place_89	Naval Base Subic Bay	14.80777778,120.27805556	Q1458014	
+dvp_052_place_90	Da Nang Harbor			
+dvp_052_place_91	Vietnam	16,108	Q881	
+dvp_052_place_92	Da Nang	16.031944444444445,108.22055555555555	Q25282	
+dvp_052_place_93	Chu Lai	15.412275,108.704478	Q5115146	
+dvp_052_place_94	Chu Lai	15.412275,108.704478	Q5115146	
+dvp_052_place_95	Da Nang	16.031944444444445,108.22055555555555	Q25282	
+dvp_052_place_96	Da Nang	16.031944444444445,108.22055555555555	Q25282	
+dvp_052_place_97	Da Nang Harbor			
+dvp_052_place_98	Vietnam	16,108	Q881	
+dvp_052_place_99	Vietnam	16,108	Q881	
+dvp_052_place_100	Vietnam	16,108	Q881	
+dvp_052_place_101	Vietnam	16,108	Q881	
+dvp_052_place_102	Vietnamese Demilitarized Zone	16.9875,107.0359	Q2349960	
+dvp_052_place_103	Da Nang	16.031944444444445,108.22055555555555	Q25282	
+dvp_052_place_104	Philippines	12,123	Q928	
+dvp_052_place_105	Da Nang	16.031944444444445,108.22055555555555	Q25282	
+dvp_052_place_106	Vietnam	16,108	Q881	
+dvp_052_place_107	United States of America	39.828175,-98.5795	Q30	
+dvp_052_place_108	Japan	35,136	Q17	
+dvp_052_place_109	United States of America	39.828175,-98.5795	Q30	
+dvp_052_place_110	The Pentagon	38.871111,-77.055833	Q11208	
+dvp_052_place_111	Vietnam	16,108	Q881	
+dvp_052_place_112	Vietnam	16,108	Q881	
+dvp_052_place_113	Vietnam	16,108	Q881	
+dvp_052_place_114	Vietnam	16,108	Q881	
+dvp_052_place_115	Vietnam	16,108	Q881	
+dvp_052_place_116	Portland	45.516666666667,-122.66666666667	Q6106	
+dvp_052_place_117	Vietnam	16,108	Q881	
+dvp_052_place_118	People's Republic of China	35.844722222222224,103.45194444444445	Q148	
+dvp_052_place_119	Vietnam	16,108	Q881	
+dvp_052_place_120	Iraq	33,43	Q796	
+dvp_052_place_121	Vietnam	16,108	Q881	
+dvp_052_place_122	Ho Chi Minh City	10.816666666667,106.63333333333	Q1854	
+dvp_052_place_123	Ho Chi Minh City	10.816666666667,106.63333333333	Q1854	
+dvp_052_place_124	Ho Chi Minh City	10.816666666667,106.63333333333	Q1854	
+dvp_052_place_125	Ho Chi Minh City	10.816666666667,106.63333333333	Q1854	
+dvp_052_place_126	Ho Chi Minh City	10.816666666667,106.63333333333	Q1854	
+dvp_052_place_127	Da Nang	16.031944444444445,108.22055555555555	Q25282	
+dvp_052_place_128	Khe Sanh	16.627211111111,106.73733333333	Q1924264	
+		16.631111111111,106.73555555556		
+dvp_052_place_129	United States of America	39.828175,-98.5795	Q30	
+dvp_052_place_130	Vietnam	16,108	Q881	
