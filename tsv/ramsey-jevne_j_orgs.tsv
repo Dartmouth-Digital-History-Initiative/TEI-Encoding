@@ -1,39 +1,39 @@
-id	orgName
-dvp_058_org_0	Marine
-dvp_058_org_1	Marine
-dvp_058_org_2	Marine
-dvp_058_org_3	[U.S.] Air Force
-dvp_058_org_4	Parkwood High School
-dvp_058_org_5	Air Force
-dvp_058_org_6	SCA
-dvp_058_org_7	the Student Conservation Organization
-dvp_058_org_8	Student Conservation Association
-dvp_058_org_9	LinkedIn
-dvp_058_org_10	[National] Park Service
-dvp_058_org_11	Park Service
-dvp_058_org_12	Head Start
-dvp_058_org_13	Head Start
-dvp_058_org_14	Head Start
-dvp_058_org_15	Head Start
-dvp_058_org_16	Head Start
-dvp_058_org_17	Head Start
-dvp_058_org_18	U.S.
-dvp_058_org_19	Dartmouth
-dvp_058_org_20	Head Start
-dvp_058_org_21	Dartmouth
-dvp_058_org_22	Dartmouth
-dvp_058_org_23	Ivy League
-dvp_058_org_24	Ivy League
-dvp_058_org_25	Dartmouth
-dvp_058_org_26	Ivy League
-dvp_058_org_27	Ivy League
-dvp_058_org_28	Ivy League
-dvp_058_org_29	Dartmouth
-dvp_058_org_30	[U.S.] Coast Guard
-dvp_058_org_31	Marines
-dvp_058_org_32	Captain Joseph’s [sic; Joseph] House
-dvp_058_org_33	Marine Corps
-dvp_058_org_34	Dartmouth
-dvp_058_org_35	Dartmouth
-dvp_058_org_36	Dartmouth
-dvp_058_org_37	Dartmouth project
+id	orgName	QID	dvp_id
+dvp_058_org_0	United States Marine Corps	Q11218	
+dvp_058_org_1	United States Marine Corps	Q11218	
+dvp_058_org_2	United States Marine Corps	Q11218	
+dvp_058_org_3	United States Air Force	Q11223	
+dvp_058_org_4	Joplin High School	Q14704333	
+dvp_058_org_5	United States Air Force	Q11223	
+dvp_058_org_6	Student Conservation Association	Q7627660	
+dvp_058_org_7	Student Conservation Association	Q7627660	
+dvp_058_org_8	Student Conservation Association	Q7627660	
+dvp_058_org_9	LinkedIn	Q213660	
+dvp_058_org_10	National Park Service	Q308439	
+dvp_058_org_11	National Park Service	Q308439	
+dvp_058_org_12	Head Start	Q10973208	
+dvp_058_org_13	Head Start	Q10973208	
+dvp_058_org_14	Head Start	Q10973208	
+dvp_058_org_15	Head Start	Q10973208	
+dvp_058_org_16	Head Start	Q10973208	
+dvp_058_org_17	Head Start	Q10973208	
+dvp_058_org_18	United States Air Force	Q11223	
+dvp_058_org_19	Dartmouth College	Q49116	
+dvp_058_org_20	Head Start	Q10973208	
+dvp_058_org_21	Dartmouth College	Q49116	
+dvp_058_org_22	Dartmouth College	Q49116	
+dvp_058_org_23	Ivy League	Q49113	
+dvp_058_org_24	Ivy League	Q49113	
+dvp_058_org_25	Dartmouth College	Q49116	
+dvp_058_org_26	Ivy League	Q49113	
+dvp_058_org_27	Ivy League	Q49113	
+dvp_058_org_28	Ivy League	Q49113	
+dvp_058_org_29	Dartmouth College	Q49116	
+dvp_058_org_30	United States Coast Guard	Q11224	
+dvp_058_org_31	United States Marine Corps	Q11218	
+dvp_058_org_32	Captain Joseph House Foundation	Q105703474	
+dvp_058_org_33	United States Marine Corps	Q11218	
+dvp_058_org_34	Dartmouth College	Q49116	
+dvp_058_org_35	Dartmouth College	Q49116	
+dvp_058_org_36	Dartmouth College	Q49116	
+dvp_058_org_37	Dartmouth Vietnam Project	Q104889683	
