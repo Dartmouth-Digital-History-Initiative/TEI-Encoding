@@ -1,34 +1,34 @@
-id	placeName
-dvp_058_place_0	Rauner Special Collections Library
-dvp_058_place_1	Telluride, Colorado
-dvp_058_place_2	Little Rock, Arkansas
-dvp_058_place_3	Joplin, Missouri
-dvp_058_place_4	Joplin, Missouri
-dvp_058_place_5	Missouri
-dvp_058_place_6	Vietnam
-dvp_058_place_7	America
-dvp_058_place_8	Canada
-dvp_058_place_9	United States
-dvp_058_place_10	Joplin
-dvp_058_place_11	Joplin
-dvp_058_place_12	Missouri
-dvp_058_place_13	Springfield, Missouri
-dvp_058_place_14	Olympic National Park
-dvp_058_place_15	Olympic National Park
-dvp_058_place_16	Olympic National Park
-dvp_058_place_17	Port Angeles, Washington
-dvp_058_place_18	Olympic Peninsula
-dvp_058_place_19	Seattle
-dvp_058_place_20	Washington
-dvp_058_place_21	the Olympic Peninsula
-dvp_058_place_22	Peninsula
-dvp_058_place_23	Olympic Peninsula
-dvp_058_place_24	Minnesota
-dvp_058_place_25	Canada
-dvp_058_place_26	Vietnam
-dvp_058_place_27	Washington, D.C.
-dvp_058_place_28	Commandants House [the Home of the Commandants]
-dvp_058_place_29	Vietnam Wall [the Vietnam Veterans Memorial]
-dvp_058_place_30	Dartmouth
-dvp_058_place_31	Special Collections Library at Rauner
-dvp_058_place_32	Vietnam
+id	placeName	QID	dvp_id	coordinate location
+dvp_058_place_0	Rauner Special Collections Library	Q98544730		43.70447,-72.28817
+dvp_058_place_1	Telluride	Q1641728		37.939153,-107.816317
+dvp_058_place_2	Little Rock	Q33405		34.736111111111,-92.331111111111
+dvp_058_place_3	Joplin	Q317865		37.0842,-94.5131
+dvp_058_place_4	Joplin	Q317865		37.0842,-94.5131
+dvp_058_place_5	Missouri	Q1581		38.5,-92.5
+dvp_058_place_6	Vietnam	Q881		16,108
+dvp_058_place_7	United States of America	Q30		39.828175,-98.5795
+dvp_058_place_8	Canada	Q16		56,-109
+dvp_058_place_9	United States of America	Q30		39.828175,-98.5795
+dvp_058_place_10	Joplin	Q317865		37.0842,-94.5131
+dvp_058_place_11	Joplin	Q317865		37.0842,-94.5131
+dvp_058_place_12	Missouri	Q1581		38.5,-92.5
+dvp_058_place_13	Springfield	Q135615		37.195,-93.286111111111
+dvp_058_place_14	Olympic National Park	Q372093		47.7,-123.75
+dvp_058_place_15	Olympic National Park	Q372093		47.7,-123.75
+dvp_058_place_16	Olympic National Park	Q372093		47.7,-123.75
+dvp_058_place_17	Port Angeles	Q852584		48.1131,-123.441
+dvp_058_place_18	Olympic Peninsula	Q780293		47.798333333333,-123.61805555556
+dvp_058_place_19	Seattle	Q5083		47.60621,-122.33207
+dvp_058_place_20	Washington	Q1223		47.5,-120.5
+dvp_058_place_21	Olympic Peninsula	Q780293		47.798333333333,-123.61805555556
+dvp_058_place_22	Olympic Peninsula	Q780293		47.798333333333,-123.61805555556
+dvp_058_place_23	Olympic Peninsula	Q780293		47.798333333333,-123.61805555556
+dvp_058_place_24	Minnesota	Q1527		46,-94
+dvp_058_place_25	Canada	Q16		56,-109
+dvp_058_place_26	Vietnam	Q881		16,108
+dvp_058_place_27	Washington, D.C.	Q61		38.895,-77.036666666667
+dvp_058_place_28	Marine Barracks, Washington, D.C.	Q1898341		38.88039,-76.99386
+dvp_058_place_29	Vietnam Veterans Memorial	Q713628		38.891111111111,-77.047777777778
+dvp_058_place_30	Dartmouth College	Q49116		43.703333333333,-72.288333333333
+dvp_058_place_31	Rauner Special Collections Library	Q98544730		43.70447,-72.28817
+dvp_058_place_32	Vietnam	Q881		16,108
