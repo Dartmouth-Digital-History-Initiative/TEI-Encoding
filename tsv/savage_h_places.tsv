@@ -1,96 +1,96 @@
-id	placeName
-dvp_051_place_0	Rauner [Special Collections] Library
-dvp_051_place_1	Dartmouth College
-dvp_051_place_2	Hanover, New Hampshire
-dvp_051_place_3	Scarsdale, New York
-dvp_051_place_4	Mediterranean [Sea]
-dvp_051_place_5	Westhampton Beach, Long Island [New York]
-dvp_051_place_6	Scarsdale, New York
-dvp_051_place_7	Mediterranean
-dvp_051_place_8	Galveston, Texas
-dvp_051_place_9	Galveston
-dvp_051_place_10	Scarsdale
-dvp_051_place_11	White Plains
-dvp_051_place_12	Elmsford
-dvp_051_place_13	Long Island
-dvp_051_place_14	[Dartmouth] Green
-dvp_051_place_15	Vietnam
-dvp_051_place_16	Vietnam
-dvp_051_place_17	Vietnam
-dvp_051_place_18	Fort Campbell, Kentucky
-dvp_051_place_19	Governors Island
-dvp_051_place_20	New York City
-dvp_051_place_21	Fort Campbell
-dvp_051_place_22	Fort Campbell
-dvp_051_place_23	Dartmouth
-dvp_051_place_24	Fort Campbell
-dvp_051_place_25	Vietnam
-dvp_051_place_26	Vietnam
-dvp_051_place_27	Vietnam
-dvp_051_place_28	[National] Route 19
-dvp_051_place_29	Vietnam
-dvp_051_place_30	Vietnam
-dvp_051_place_31	Philippines
-dvp_051_place_32	Fort Campbell
-dvp_051_place_33	Oakland [California]
-dvp_051_place_34	Viet
-dvp_051_place_35	Subic Bay
-dvp_051_place_36	Quy Nhơn
-dvp_051_place_37	Saigon
-dvp_051_place_38	[Vietnamese] DMZ [demilitarized zone]
-dvp_051_place_39	An Khê
-dvp_051_place_40	Route 19
-dvp_051_place_41	Route 19
-dvp_051_place_42	An Khê
-dvp_051_place_43	Quy Nhơn
-dvp_051_place_44	An Khê
-dvp_051_place_45	An Khê
-dvp_051_place_46	An Khê
-dvp_051_place_47	An Khê
-dvp_051_place_48	An Khê
-dvp_051_place_49	Korea
-dvp_051_place_50	Saigon
-dvp_051_place_51	Saigon
-dvp_051_place_52	Fort Campbell
-dvp_051_place_53	Vietnam
-dvp_051_place_54	Vietnam
-dvp_051_place_55	Vietnam
-dvp_051_place_56	Vietnam
-dvp_051_place_57	U.S.
-dvp_051_place_58	Canada
-dvp_051_place_59	Canada
-dvp_051_place_60	Hanover
-dvp_051_place_61	Boston
-dvp_051_place_62	Boston
-dvp_051_place_63	New York City
-dvp_051_place_64	New York City
-dvp_051_place_65	Boston
-dvp_051_place_66	Symphony Hall
-dvp_051_place_67	Boston
-dvp_051_place_68	Boston
-dvp_051_place_69	Vietnam
-dvp_051_place_70	Vietnam
-dvp_051_place_71	Vietnam
-dvp_051_place_72	Vietnam
-dvp_051_place_73	Vietnam
-dvp_051_place_74	Fort Campbell
-dvp_051_place_75	Hong Kong
-dvp_051_place_76	Charleston, South Carolina
-dvp_051_place_77	Fort Campbell, Kentucky
-dvp_051_place_78	Vietnam
-dvp_051_place_79	Nashville
-dvp_051_place_80	Fort Campbell
-dvp_051_place_81	Fort Campbell
-dvp_051_place_82	Vietnam
-dvp_051_place_83	Vietnam
-dvp_051_place_84	Vietnam
-dvp_051_place_85	America
-dvp_051_place_86	Khe Sanh
-dvp_051_place_87	Khe Sanh
-dvp_051_place_88	Vietnam
-dvp_051_place_89	Vietnam
-dvp_051_place_90	Vietnam
-dvp_051_place_91	Brunswick
-dvp_051_place_92	Vietnam
-dvp_051_place_93	Quy Nhơn
-dvp_051_place_94	An Khê
+id	placeName	QID	dvp_id	coordinate location
+dvp_051_place_0	Rauner Special Collections Library	Q98544730		43.70447,-72.28817
+dvp_051_place_1	Dartmouth College	Q49116		43.703333333333,-72.288333333333
+dvp_051_place_2	Hanover	Q131908		43.7,-72.28333333333333
+dvp_051_place_3	Scarsdale	Q2300959		40.992222222222,-73.786944444444
+dvp_051_place_4	Mediterranean Sea	Q4918		38,17
+dvp_051_place_5	Westhampton Beach	Q3453197		40.8089,-72.6461
+dvp_051_place_6	Scarsdale	Q2300959		40.992222222222,-73.786944444444
+dvp_051_place_7	Mediterranean Sea	Q4918		38,17
+dvp_051_place_8	Galveston	Q135744		29.3013889,-94.7977778
+dvp_051_place_9	Galveston	Q135744		29.3013889,-94.7977778
+dvp_051_place_10	Scarsdale	Q2300959		40.992222222222,-73.786944444444
+dvp_051_place_11	White Plains	Q462177		41.04,-73.778611111111
+dvp_051_place_12	Elmsford	Q1019259		41.055,-73.82
+dvp_051_place_13	Long Island	Q18438		40.805805,-73.253616
+dvp_051_place_14	The Green	Q7738117		43.7033,-72.2886
+dvp_051_place_15	Vietnam	Q881		16,108
+dvp_051_place_16	Vietnam	Q881		16,108
+dvp_051_place_17	Vietnam	Q881		16,108
+dvp_051_place_18	Fort Campbell	Q1385040		36.65,-87.4667
+dvp_051_place_19	Governors Island	Q1190547		40.691388888889,-74.016111111111
+dvp_051_place_20	New York City	Q60		40.67,-73.94
+dvp_051_place_21	Fort Campbell	Q1385040		36.65,-87.4667
+dvp_051_place_22	Fort Campbell	Q1385040		36.65,-87.4667
+dvp_051_place_23	Dartmouth College	Q49116		43.703333333333,-72.288333333333
+dvp_051_place_24	Fort Campbell	Q1385040		36.65,-87.4667
+dvp_051_place_25	Vietnam	Q881		16,108
+dvp_051_place_26	Vietnam	Q881		16,108
+dvp_051_place_27	Vietnam	Q881		16,108
+dvp_051_place_28	National Route 19	Q10810947		
+dvp_051_place_29	Vietnam	Q881		16,108
+dvp_051_place_30	Vietnam	Q881		16,108
+dvp_051_place_31	Philippines	Q928		12,123
+dvp_051_place_32	Fort Campbell	Q1385040		36.65,-87.4667
+dvp_051_place_33	Oakland	Q17042		37.8,-122.25
+dvp_051_place_34	Vietnam	Q881		16,108
+dvp_051_place_35	Subic Bay	Q1542528		14.8,120.23333333333
+dvp_051_place_36	Qui Nhơn	Q36081		13.769580555555555,109.23137222222222
+dvp_051_place_37	Ho Chi Minh City	Q1854		10.816666666667,106.63333333333
+dvp_051_place_38	Vietnamese Demilitarized Zone	Q2349960		16.9875,107.0359
+dvp_051_place_39	An Khê	Q10733203		16.05222222,108.1855556
+dvp_051_place_40	National Route 19	Q10810947		
+dvp_051_place_41	National Route 19	Q10810947		
+dvp_051_place_42	An Khê	Q10733203		16.05222222,108.1855556
+dvp_051_place_43	Qui Nhơn	Q36081		13.769580555555555,109.23137222222222
+dvp_051_place_44	An Khê	Q10733203		16.05222222,108.1855556
+dvp_051_place_45	An Khê	Q10733203		16.05222222,108.1855556
+dvp_051_place_46	An Khê	Q10733203		16.05222222,108.1855556
+dvp_051_place_47	An Khê	Q10733203		16.05222222,108.1855556
+dvp_051_place_48	An Khê	Q10733203		16.05222222,108.1855556
+dvp_051_place_49	South Korea	Q884		36,128
+dvp_051_place_50	Ho Chi Minh City	Q1854		10.816666666667,106.63333333333
+dvp_051_place_51	Ho Chi Minh City	Q1854		10.816666666667,106.63333333333
+dvp_051_place_52	Fort Campbell	Q1385040		36.65,-87.4667
+dvp_051_place_53	Vietnam	Q881		16,108
+dvp_051_place_54	Vietnam	Q881		16,108
+dvp_051_place_55	Vietnam	Q881		16,108
+dvp_051_place_56	Vietnam	Q881		16,108
+dvp_051_place_57	United States of America	Q30		39.828175,-98.5795
+dvp_051_place_58	Canada	Q16		56,-109
+dvp_051_place_59	Canada	Q16		56,-109
+dvp_051_place_60	Hanover	Q131908		43.7,-72.28333333333333
+dvp_051_place_61	Boston	Q100		42.358333333333,-71.0625
+dvp_051_place_62	Boston	Q100		42.358333333333,-71.0625
+dvp_051_place_63	New York City	Q60		40.67,-73.94
+dvp_051_place_64	New York City	Q60		40.67,-73.94
+dvp_051_place_65	Boston	Q100		42.358333333333,-71.0625
+dvp_051_place_66	Symphony Hall	Q3045309		42.342594,-71.085806
+dvp_051_place_67	Boston	Q100		42.358333333333,-71.0625
+dvp_051_place_68	Boston	Q100		42.358333333333,-71.0625
+dvp_051_place_69	Vietnam	Q881		16,108
+dvp_051_place_70	Vietnam	Q881		16,108
+dvp_051_place_71	Vietnam	Q881		16,108
+dvp_051_place_72	Vietnam	Q881		16,108
+dvp_051_place_73	Vietnam	Q881		16,108
+dvp_051_place_74	Fort Campbell	Q1385040		36.65,-87.4667
+dvp_051_place_75	Hong Kong	Q8646		22.278333333333,114.15861111111
+dvp_051_place_76	Charleston	Q47716		32.776111111111,-79.9325
+dvp_051_place_77	Fort Campbell	Q1385040		36.65,-87.4667
+dvp_051_place_78	Vietnam	Q881		16,108
+dvp_051_place_79	Nashville	Q23197		36.16222222222222,-86.77444444444444
+dvp_051_place_80	Fort Campbell	Q1385040		36.65,-87.4667
+dvp_051_place_81	Fort Campbell	Q1385040		36.65,-87.4667
+dvp_051_place_82	Vietnam	Q881		16,108
+dvp_051_place_83	Vietnam	Q881		16,108
+dvp_051_place_84	Vietnam	Q881		16,108
+dvp_051_place_85	United States of America	Q30		39.828175,-98.5795
+dvp_051_place_86	Khe Sanh	Q1924264		16.627211111111,106.73733333333
+dvp_051_place_87	Khe Sanh	Q1924264		16.627211111111,106.73733333333
+dvp_051_place_88	Vietnam	Q881		16,108
+dvp_051_place_89	Vietnam	Q881		16,108
+dvp_051_place_90	Vietnam	Q881		16,108
+dvp_051_place_91	Brunswick	Q2773		52.269166666667,10.521111111111
+dvp_051_place_92	Vietnam	Q881		16,108
+dvp_051_place_93	Qui Nhơn	Q36081		13.769580555555555,109.23137222222222
+dvp_051_place_94	An Khê	Q10733203		16.05222222,108.1855556
