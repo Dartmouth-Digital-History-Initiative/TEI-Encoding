@@ -1,132 +1,132 @@
-id	placeName
-dvp_056_place_0	Dallas, Texas
-dvp_056_place_1	Ames, Iowa
-dvp_056_place_2	Fort Hood, Texas
-dvp_056_place_3	Iowa
-dvp_056_place_4	Iowa
-dvp_056_place_5	Iowa
-dvp_056_place_6	Texas
-dvp_056_place_7	Texas
-dvp_056_place_8	Texas
-dvp_056_place_9	Texas
-dvp_056_place_10	Iowa
-dvp_056_place_11	Ames
-dvp_056_place_12	Ames, Iowa
-dvp_056_place_13	United States
-dvp_056_place_14	Krakatoa
-dvp_056_place_15	Dartmouth
-dvp_056_place_16	Ames
-dvp_056_place_17	Mississippi
-dvp_056_place_18	Pella, Iowa
-dvp_056_place_19	Chicago
-dvp_056_place_20	Springfield, Massachusetts
-dvp_056_place_21	Hanover
-dvp_056_place_22	Dartmouth
-dvp_056_place_23	Hanover
-dvp_056_place_24	United States
-dvp_056_place_25	Jackson Hole
-dvp_056_place_26	Grand Teton
-dvp_056_place_27	Tetons [the Teton Range]
-dvp_056_place_28	North Massachusetts [Hall]
-dvp_056_place_29	Alumni Gymnasium
-dvp_056_place_30	Iowa
-dvp_056_place_31	Hanover
-dvp_056_place_32	San Francisco
-dvp_056_place_33	Haight-Ashbury [a district in San Francisco]
-dvp_056_place_34	Norfolk [Virginia]
-dvp_056_place_35	Portsmouth Naval Shipyard [sic; Norfolk Naval Shipyard]
-dvp_056_place_36	Norfolk
-dvp_056_place_37	Virginia Beach
-dvp_056_place_38	[the Naval Amphibious Base] Little Creek, Virginia
-dvp_056_place_39	Norfolk
-dvp_056_place_40	Dartmouth
-dvp_056_place_41	Virginia Beach
-dvp_056_place_42	Corpus Christie [Texas]
-dvp_056_place_43	Mexico
-dvp_056_place_44	Tuck
-dvp_056_place_45	Tuck
-dvp_056_place_46	Smith
-dvp_056_place_47	New York
-dvp_056_place_48	Norfolk, Virginia
-dvp_056_place_49	San Francisco
-dvp_056_place_50	Philippines
-dvp_056_place_51	[Naval Station] Pearl Harbor[, Hawaii]
-dvp_056_place_52	Long Bình
-dvp_056_place_53	Charleston [South Carolina]
-dvp_056_place_54	Pearl Harbor
-dvp_056_place_55	Bremerton
-dvp_056_place_56	Bremerton
-dvp_056_place_57	Cam Ranh Bay
-dvp_056_place_58	Vietnam
-dvp_056_place_59	Hawaii
-dvp_056_place_60	Pearl Harbor
-dvp_056_place_61	Korea
-dvp_056_place_62	Operation Sea Dragon
-dvp_056_place_63	North Vietnam
-dvp_056_place_64	DMZ [demilitarized zone]
-dvp_056_place_65	Đồng Hới
-dvp_056_place_66	DMZ
-dvp_056_place_67	Vinh
-dvp_056_place_68	Đồng Hới
-dvp_056_place_69	DMZ
-dvp_056_place_70	[Naval Air Station] Cubi Point
-dvp_056_place_71	Subic Bay
-dvp_056_place_72	Da Nang
-dvp_056_place_73	North Vietnam
-dvp_056_place_74	Da Nang
-dvp_056_place_75	Pearl Harbor
-dvp_056_place_76	South Island Sea
-dvp_056_place_77	Tiger Islands
-dvp_056_place_78	North Vietnam
-dvp_056_place_79	Vinh
-dvp_056_place_80	San Diego
-dvp_056_place_81	San Diego
-dvp_056_place_82	Pearl
-dvp_056_place_83	South Vietnam
-dvp_056_place_84	DMZ
-dvp_056_place_85	South Vietnam
-dvp_056_place_86	South Vietnam
-dvp_056_place_87	Charleston
-dvp_056_place_88	United States
-dvp_056_place_89	Pearl
-dvp_056_place_90	Honolulu
-dvp_056_place_91	Vietnam
-dvp_056_place_92	Hanover
-dvp_056_place_93	Pearl
-dvp_056_place_94	Tuck
-dvp_056_place_95	Tuck
-dvp_056_place_96	Harvard
-dvp_056_place_97	Hanover
-dvp_056_place_98	Hanover
-dvp_056_place_99	Hanover
-dvp_056_place_100	Israel
-dvp_056_place_101	Texas
-dvp_056_place_102	Texas
-dvp_056_place_103	Japan
-dvp_056_place_104	Japan
-dvp_056_place_105	Japan
-dvp_056_place_106	Iraq
-dvp_056_place_107	Afghanistan
-dvp_056_place_108	Vanderbilt [University]
-dvp_056_place_109	Afghanistan
-dvp_056_place_110	Iraq
-dvp_056_place_111	Syria
-dvp_056_place_112	Persian Gulf
-dvp_056_place_113	California
-dvp_056_place_114	China
-dvp_056_place_115	United States
-dvp_056_place_116	America
-dvp_056_place_117	America
-dvp_056_place_118	Israel
-dvp_056_place_119	Dallas
-dvp_056_place_120	Washington
-dvp_056_place_121	Vietnam
-dvp_056_place_122	Iraq
-dvp_056_place_123	Afghanistan
-dvp_056_place_124	United States
-dvp_056_place_125	Texas
-dvp_056_place_126	Australia
-dvp_056_place_127	New Zealand
-dvp_056_place_128	United States
-dvp_056_place_129	China
-dvp_056_place_130	Vietnam
+id	placeName	QID	dvp_id	coordinate location
+dvp_056_place_0	Dallas	Q16557		32.779166666667,-96.808888888889
+dvp_056_place_1	Ames	Q470273		42.027335,-93.631586
+dvp_056_place_2	Fort Hood	Q783854		31.13,-97.78
+dvp_056_place_3	Iowa	Q2238109		30.2375,-93.0142
+dvp_056_place_4	Iowa	Q2238109		30.2375,-93.0142
+dvp_056_place_5	Iowa	Q2238109		30.2375,-93.0142
+dvp_056_place_6	Texas	Q1439		31,-100
+dvp_056_place_7	Texas	Q1439		31,-100
+dvp_056_place_8	Texas	Q1439		31,-100
+dvp_056_place_9	Texas	Q1439		31,-100
+dvp_056_place_10	Iowa	Q2238109		30.2375,-93.0142
+dvp_056_place_11	Ames	Q470273		42.027335,-93.631586
+dvp_056_place_12	Ames	Q470273		42.027335,-93.631586
+dvp_056_place_13	United States of America	Q30		39.828175,-98.5795
+dvp_056_place_14	Krakatoa	Q82613		-6.102,105.423
+dvp_056_place_15	Dartmouth College	Q49116		43.703333333333,-72.288333333333
+dvp_056_place_16	Ames	Q470273		42.027335,-93.631586
+dvp_056_place_17	Mississippi	Q1494		33,-90
+dvp_056_place_18	Pella	Q1778791		41.407222222222,-92.917222222222
+dvp_056_place_19	Chicago	Q1297		41.881944444444,-87.627777777778
+dvp_056_place_20	Springfield	Q49158		42.112411,-72.547455
+dvp_056_place_21	Hanover	Q131908		43.7,-72.28333333333333
+dvp_056_place_22	Dartmouth College	Q49116		43.703333333333,-72.288333333333
+dvp_056_place_23	Hanover	Q131908		43.7,-72.28333333333333
+dvp_056_place_24	United States of America	Q30		39.828175,-98.5795
+dvp_056_place_25	Jackson Hole	Q1677361		43.516666666667,-110.83333333333
+dvp_056_place_26	Grand Teton	Q2078034		43.7412,-110.802
+dvp_056_place_27	Teton Range	Q586241		43.75,-110.83
+dvp_056_place_28	North Massachusetts Hall	Q100952541		43.7041,-72.2906
+dvp_056_place_29	Alumni Gymnasium	Q60752161		42.2744,-71.8087
+dvp_056_place_30	Iowa	Q2238109		30.2375,-93.0142
+dvp_056_place_31	Hanover	Q131908		43.7,-72.28333333333333
+dvp_056_place_32	San Francisco	Q62		37.7775,-122.41638888888889
+dvp_056_place_33	Haight-Ashbury	Q1027700		37.770015,-122.446937
+dvp_056_place_34	Norfolk	Q49231		36.854627777778,-76.274394444444
+dvp_056_place_35	Norfolk Naval Shipyard	Q1999049		36.815277777778,-76.297222222222
+dvp_056_place_36	Norfolk	Q49231		36.854627777778,-76.274394444444
+dvp_056_place_37	Virginia Beach	Q49259		36.8506,-75.9779
+dvp_056_place_38	Naval Amphibious Base Little Creek	Q3337215		36.917,-76.164
+dvp_056_place_39	Norfolk	Q49231		36.854627777778,-76.274394444444
+dvp_056_place_40	Dartmouth College	Q49116		43.703333333333,-72.288333333333
+dvp_056_place_41	Virginia Beach	Q49259		36.8506,-75.9779
+dvp_056_place_42	Corpus Christi	Q49242		27.742777777778,-97.401944444444
+dvp_056_place_43	Mexico	Q96		23,-102
+dvp_056_place_44	Mount Tuck	Q6170103		-78.4833,-84.8333
+dvp_056_place_45	Mount Tuck	Q6170103		-78.4833,-84.8333
+dvp_056_place_46	Smith Airport	Q35303806		33.676666666667,-83.261111111111
+dvp_056_place_47	New York City	Q60		40.67,-73.94
+dvp_056_place_48	Norfolk	Q49231		36.854627777778,-76.274394444444
+dvp_056_place_49	San Francisco	Q62		37.7775,-122.41638888888889
+dvp_056_place_50	Magallanes	Q31810196		12.82917,123.83639
+dvp_056_place_51	Pearl Harbor	Q127091		21.361944,-157.953611
+dvp_056_place_52	Binh Long province	Q1760239		11.694,106.601
+dvp_056_place_53	Charleston	Q47716		32.776111111111,-79.9325
+dvp_056_place_54	Pearl Harbor	Q127091		21.361944,-157.953611
+dvp_056_place_55	Bremerton	Q695417		47.57,-122.6525
+dvp_056_place_56	Bremerton	Q695417		47.57,-122.6525
+dvp_056_place_57	Cam Ranh Bay	Q11072051		11.998153,109.219372
+dvp_056_place_58	Vietnam	Q881		16,108
+dvp_056_place_59	Hawaii	Q782		21.3075,-157.8575
+dvp_056_place_60	Pearl Harbor	Q127091		21.361944,-157.953611
+dvp_056_place_61	Korea	Q18097		38.316666666667,127.23333333333
+dvp_056_place_62	Operation Sea Dragon			
+dvp_056_place_63	North Vietnam	Q172640		21.033333,105.85
+dvp_056_place_64	Vietnamese Demilitarized Zone	Q2349960		16.9875,107.0359
+dvp_056_place_65	Đồng Hới	Q1877		17.483333333333,106.6
+dvp_056_place_66	Vietnamese Demilitarized Zone	Q2349960		16.9875,107.0359
+dvp_056_place_67	Vinh	Q33428		18.673333333333,105.69222222222
+dvp_056_place_68	Đồng Hới	Q1877		17.483333333333,106.6
+dvp_056_place_69	Vietnamese Demilitarized Zone	Q2349960		16.9875,107.0359
+dvp_056_place_70	Cubi Point	Q31833859		14.801666666667,120.26583333333
+dvp_056_place_71	Subic Bay	Q1542528		14.8,120.23333333333
+dvp_056_place_72	Da Nang	Q25282		16.031944444444445,108.22055555555555
+dvp_056_place_73	North Vietnam	Q172640		21.033333,105.85
+dvp_056_place_74	Da Nang	Q25282		16.031944444444445,108.22055555555555
+dvp_056_place_75	Pearl Harbor	Q127091		21.361944,-157.953611
+dvp_056_place_76	South Island Sea	Q37660		12,113
+dvp_056_place_77	Cồn Cò	Q32177251		9.9530555555556,106.39722222222
+dvp_056_place_78	North Vietnam	Q172640		21.033333,105.85
+dvp_056_place_79	Vinh	Q33428		18.673333333333,105.69222222222
+dvp_056_place_80	San Diego	Q16552		32.715,-117.1625
+dvp_056_place_81	San Diego	Q16552		32.715,-117.1625
+dvp_056_place_82	Pearl Harbor	Q127091		21.361944,-157.953611
+dvp_056_place_83	South Vietnam	Q180573		10.75,106.66666666667
+dvp_056_place_84	Vietnamese Demilitarized Zone	Q2349960		16.9875,107.0359
+dvp_056_place_85	South Vietnam	Q180573		10.75,106.66666666667
+dvp_056_place_86	South Vietnam	Q180573		10.75,106.66666666667
+dvp_056_place_87	Charleston	Q44564		38.347222222222,-81.633333333333
+dvp_056_place_88	United States of America	Q30		39.828175,-98.5795
+dvp_056_place_89	Pearl Harbor	Q127091		21.361944,-157.953611
+dvp_056_place_90	Honolulu	Q18094		21.304694444444443,-157.85719444444445
+dvp_056_place_91	Vietnam	Q881		16,108
+dvp_056_place_92	Hanover	Q131908		43.7,-72.28333333333333
+dvp_056_place_93	Pearl Harbor	Q127091		21.361944,-157.953611
+dvp_056_place_94	Mount Tuck	Q6170103		-78.4833,-84.8333
+dvp_056_place_95	Mount Tuck	Q6170103		-78.4833,-84.8333
+dvp_056_place_96	Harvard University	Q13371		42.374443888889,-71.116943888889
+dvp_056_place_97	Hanover	Q131908		43.7,-72.28333333333333
+dvp_056_place_98	Hanover	Q131908		43.7,-72.28333333333333
+dvp_056_place_99	Hanover	Q131908		43.7,-72.28333333333333
+dvp_056_place_100	Israel	Q801		31,35
+dvp_056_place_101	Texas	Q1439		31,-100
+dvp_056_place_102	Texas	Q1439		31,-100
+dvp_056_place_103	Japan	Q17		35,136
+dvp_056_place_104	Japan	Q17		35,136
+dvp_056_place_105	Japan	Q17		35,136
+dvp_056_place_106	Iraq	Q796		33,43
+dvp_056_place_107	Afghanistan	Q889		34,66
+dvp_056_place_108	Vanderbilt University	Q29052		36.148649,-86.804972
+dvp_056_place_109	Afghanistan	Q889		34,66
+dvp_056_place_110	Iraq	Q796		33,43
+dvp_056_place_111	Syria	Q858		35.216667,38.583333
+dvp_056_place_112	Persian Gulf	Q34675		26,52
+dvp_056_place_113	California	Q99		37,-120
+dvp_056_place_114	People's Republic of China	Q148		35.844722222222224,103.45194444444445
+dvp_056_place_115	United States of America	Q30		39.828175,-98.5795
+dvp_056_place_116	United States of America	Q30		39.828175,-98.5795
+dvp_056_place_117	United States of America	Q30		39.828175,-98.5795
+dvp_056_place_118	Israel	Q801		31,35
+dvp_056_place_119	Dallas	Q16557		32.779166666667,-96.808888888889
+dvp_056_place_120	Washington, D.C.	Q61		38.895,-77.036666666667
+dvp_056_place_121	Vietnam	Q881		16,108
+dvp_056_place_122	Iraq	Q796		33,43
+dvp_056_place_123	Afghanistan	Q889		34,66
+dvp_056_place_124	United States of America	Q30		39.828175,-98.5795
+dvp_056_place_125	Texas	Q1439		31,-100
+dvp_056_place_126	Australia	Q3960		-26,141
+dvp_056_place_127	New Zealand	Q664		-41.2,174
+dvp_056_place_128	United States of America	Q30		39.828175,-98.5795
+dvp_056_place_129	People's Republic of China	Q148		35.844722222222224,103.45194444444445
+dvp_056_place_130	Vietnam	Q881		16,108
