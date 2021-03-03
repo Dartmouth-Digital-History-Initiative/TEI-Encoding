@@ -3,7 +3,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Transcript of an Interview with a Narrator</title>
+        <title>Transcript of an Interview with Lewis Stein</title>
       </titleStmt>
       <publicationStmt>
         <authority>
@@ -16,7 +16,7 @@
       </publicationStmt>
       <sourceDesc>
         <recordingStmt>
-          <recording xml:id="primary_recording" type="audio" dur-iso="">
+          <recording xml:id="primary_recording" type="audio" dur-iso="9">
             <!-- https://www.digi.com/resources/documentation/digidocs/90001437-13/reference/r_iso_8601_duration_format.htm -->
             <media url="" mimeType="MIMEaudio/wav"/>
           </recording>
@@ -51,7 +51,7 @@
       </particDesc>
       <settingDesc>
         <setting>
-          <date when-iso=""/>
+          <date when-iso="2016-08-17"/>
           <locale/>
         </setting>
       </settingDesc>
@@ -59,8 +59,8 @@
   </teiHeader>
   <text>
     <body>
-      <u who="BLIEK">Good afternoon. This is <persName>Bryan Bliek</persName> [pronounced BLEEK], and I am on campus at <orgName>Dartmouth College</orgName>, in <orgName>Rauner Special Collections Library</orgName>, located in <placeName>Hanover</placeName>, <placeName>New Hampshire</placeName>. The narrator I’m speaking to <date>today</date> is Mr. <persName>[Lewis J.]</persName> “Lew” Stein, who is phoning in from his residence in <placeName>Vernon</placeName>, <placeName>Connecticut</placeName>. The date is <date>Wednesday, August 17th</date>, 2016.So <placeName>Lew</placeName>, let’s start at the very beginning. So when and where were you born?</u>
-      <u who="STEIN"><placeName>New York City</placeName>, <date>February 2nd, 1947</date>.</u>
+      <u who="BLIEK">Good afternoon. This is <persName>Bryan Bliek</persName> [pronounced BLEEK], and I am on campus at <placeName>Dartmouth College</placeName>, in <placeName>Rauner Special Collections Library</placeName>, located in <placeName>Hanover, New Hampshire</placeName>. The narrator I’m speaking to today is Mr. <persName>[Lewis J.] “Lew” Stein</persName>, who is phoning in from his residence in <placeName>Vernon, Connecticut</placeName>. The date is Wednesday, <date when="2016-08-17">August 17th, 2016</date>.So <persName>Lew</persName>, let’s start at the very beginning. So when and where were you born?</u>
+      <u who="STEIN"><placeName>New York City</placeName>, <date when="1947-02-02">February 2nd, 1947</date>.</u>
       <u who="BLIEK">Okay. And did you have any siblings?</u>
       <u who="STEIN">Two brothers.</u>
       <u who="BLIEK">And where are you in terms of age? Are you the middle, the oldest, the youngest?</u>
@@ -68,13 +68,13 @@
       <u who="BLIEK">All right. And did you—did you all grow up in <placeName>New York</placeName>?</u>
       <u who="STEIN">Yep.</u>
       <u who="BLIEK">Okay. So let’s talk about your parents, quickly. Who—who are your parents?</u>
-      <u who="STEIN">My mother was named <persName>Sarah</persName> [<persName>Stein</persName>], and my father was <persName>Harry [Stein</persName>].</u>
+      <u who="STEIN">My mother was named <persName>Sarah [Stein]</persName>, and my father was <persName>Harry [Stein]</persName>.</u>
       <u who="BLIEK">And what were their occupations?</u>
-      <u who="STEIN">Mother worked for <orgName>Detecto Scales</orgName> [sic; <orgName>Detecto Scale Company]</orgName> in <placeName>Brooklyn</placeName>, and my father was in the garment industry. He set up trimming machines to make various kinds of lace trimming.</u>
+      <u who="STEIN">Mother worked for <orgName>Detecto Scales [sic; Detecto Scale Company]</orgName> in <placeName>Brooklyn</placeName>, and my father was in the garment industry. He set up trimming machines to make various kinds of lace trimming.</u>
       <u who="BLIEK">And this was all in <placeName>New York</placeName>?</u>
       <u who="STEIN">Yes, that was in <placeName>Manhattan</placeName>, in <placeName>the Garment District</placeName>.</u>
       <u who="BLIEK">Okay. So in terms of personality, how would you describe your parents?</u>
-      <u who="STEIN">Oh, my father was fairly outgoing. He belonged to the synagogue and went around the <persName>Bingo</persName> games, and my mother was—for the most part, was a stay-at-home mom until <date>the last few years</date> that she took a job in the office of <orgName>Detecto Scales</orgName>.</u>
+      <u who="STEIN">Oh, my father was fairly outgoing. He belonged to the synagogue and went around the Bingo games, and my mother was—for the most part, was a stay-at-home mom until the last few years that she took a job in the office of <orgName>Detecto Scales</orgName>.</u>
       <u who="BLIEK">Now, you mentioned the synagogue. So they were Jewish?</u>
       <u who="STEIN">Absolutely.</u>
       <u who="BLIEK">And did they raise you and your brothers the same way?</u>
@@ -82,15 +82,15 @@
       <u who="BLIEK">So—so what did that involve? Were you also participating in the synagogue, growing up?</u>
       <u who="STEIN">Yeah, and at 13, of course, I had a Bar Mitzvah, as did both brothers.</u>
       <u who="BLIEK">And which—do you remember the name of the synagogue you went to?</u>
-      <u who="STEIN">Yes, <orgName>Shellbank</orgName> [Jewish Center], in <placeName>Brooklyn</placeName>.</u>
+      <u who="STEIN">Yes, <orgName>Shellbank [Jewish Center]</orgName>, in <placeName>Brooklyn</placeName>.</u>
       <u who="BLIEK">And you were there regularly?</u>
-      <u who="STEIN">Most—mostly, yeah, on <date>Saturdays</date>, until I got—I had my Bar <persName>Mitzvah</persName>, and then, as most people my age, faded away.</u>
+      <u who="STEIN">Most—mostly, yeah, on Saturdays, until I got—I had my Bar Mitzvah, and then, as most people my age, faded away.</u>
       <u who="BLIEK">Okay. So what—what was—so growing up in <placeName>New York City</placeName>, it was, you know, just after <name type="event">World War II</name> ended. What was everyday life like growing up as a child in that environment?</u>
-      <u who="STEIN">We played a lot of ball in the school yard—basketball, softball, stickball—pretty much <date>every day</date>.</u>
+      <u who="STEIN">We played a lot of ball in the school yard—basketball, softball, stickball—pretty much every day.</u>
       <u who="BLIEK">Do you have—did you have a lot of kids in the neighborhood?</u>
       <u who="STEIN">Absolutely.</u>
       <u who="BLIEK">And what—what was sort of the makeup of your neighborhood? And also, if you wouldn’t mind, which—which neighborhood or which street did you live on?</u>
-      <u who="STEIN">Oh, sure. Sheepshead Bay was the neighborhood. Lived on Bragg Street and <persName>Avenue W.</persName> And the makeup in our buildings: a number of Jewish people. In the neighboring neighborhood there were the projects across the street, so you had some lower income, but they were well-kept projects; they weren’t bad or—they were pretty good housing. And on the other side of us, we had small, private homes. A lot of that was Italian.</u>
+      <u who="STEIN">Oh, sure. <placeName>Sheepshead Bay</placeName> was the neighborhood. Lived on Bragg Street and Avenue W. And the makeup in our buildings: a number of Jewish people. In the neighboring neighborhood there were the projects across the street, so you had some lower income, but they were well-kept projects; they weren’t bad or—they were pretty good housing. And on the other side of us, we had small, private homes. A lot of that was Italian.</u>
       <u who="BLIEK">So, were— Okay. So were you in an apartment then or a townhouse or—</u>
       <u who="STEIN">In an apartment.</u>
       <u who="BLIEK">—an individual house? Okay.</u>
@@ -98,8 +98,8 @@
       <u who="BLIEK">So where—where did you end up going to—to school? Was that within the <placeName>Sheepshead Bay</placeName> area?</u>
       <u who="STEIN">Absolutely, <orgName>Sheepshead Bay High School</orgName>.</u>
       <u who="BLIEK">Now, if I understand correctly, <orgName>Sheepshead Bay High School</orgName> is actually a fairly new construction at the time, correct?</u>
-      <u who="STEIN">At the time. That was back in <date>1964</date>. That was back—I graduated in <date>’64</date>.</u>
-      <u who="BLIEK">So, then, you would have entered high school around <date>1960</date>, then?</u>
+      <u who="STEIN">At the time. That was back in <date when="1964">1964</date>. That was back—I graduated in <date when="1964">’64</date>.</u>
+      <u who="BLIEK">So, then, you would have entered high school around <date when="1960">1960</date>, then?</u>
       <u who="STEIN">That is correct.</u>
       <u who="BLIEK">So how would you describe the composition of the student body at the time? Was it similar to the composition of your neighborhood?</u>
       <u who="STEIN">Yep, very mixed. I had friends of all religions.</u>
@@ -117,7 +117,7 @@
       <u who="STEIN">Absolutely.</u>
       <u who="BLIEK">Were you involved in any extracurriculars when you were in high school?</u>
       <u who="STEIN">Not in high school. </u>
-      <u who="BLIEK">While you were in high school, did you start to build an awareness of the things that were going on around you, particularly in terms of the—in terms of <name type="event">the Cold War</name>?</u>
+      <u who="BLIEK">While you were in high school, did you start to build an awareness of the things that were going on around you, particularly in terms of the—in terms of the Cold War?</u>
       <u who="STEIN">Not too much. A lot of that simply didn’t faze me at that point.</u>
       <u who="BLIEK">And—and why do you think that is?</u>
       <u who="STEIN">We didn’t have news stations 24 hours a day. Again, I was more interested in playing ball than what was going on in the world.</u>
@@ -126,7 +126,7 @@
       <u who="BLIEK">And how—how did—you know, how did you and, you know, the kids your age react to that?</u>
       <u who="STEIN">It was just something we did. We were told to do it, and we did it.</u>
       <u who="BLIEK">And—and so do you think for—for most of the—the people your age, it was sort of just a routinized part of—of going to school?</u>
-      <u who="STEIN">Yeah. And it wasn’t often. It might have been once <date>every six months</date>, once a year.</u>
+      <u who="STEIN">Yeah. And it wasn’t often. It might have been once every six months, once a year.</u>
       <u who="BLIEK">Sure. So by the time you graduated, did you have an idea of what you wanted to do next?</u>
       <u who="STEIN">Absolutely not.</u>
       <u who="BLIEK">So what—so what did you end up doing once you graduated?</u>
@@ -142,31 +142,31 @@
       <u who="BLIEK">Were you the first in your family to go to college, or had, you know, your—your parents gone before you?</u>
       <u who="STEIN">No, they had not. But all my cousins went, virtually across the board. We all went. We were just expected to go.</u>
       <u who="BLIEK">So what was the application process like at the time?</u>
-      <u who="STEIN">At the time, it was pretty simple. Very simple. I don’t remember the total details, but, you know, I remember I tried to get into <orgName>Brooklyn College</orgName> and did not have the grades, but <orgName>Hunter College</orgName> accepted me, which was another city school. And at that time, the cost was absolutely minimal for city residents going to a city college. I earned enough money for <date>a whole year</date> of college when I came up and worked in <placeName>Connecticut</placeName> as a waiter in a resort hotel. I made enough money in <date>the summer</date> to support me for <date>the whole year</date>.</u>
+      <u who="STEIN">At the time, it was pretty simple. Very simple. I don’t remember the total details, but, you know, I remember I tried to get into <orgName>Brooklyn College</orgName> and did not have the grades, but <orgName>Hunter College</orgName> accepted me, which was another city school. And at that time, the cost was absolutely minimal for city residents going to a city college. I earned enough money for a whole year of college when I came up and worked in <placeName>Connecticut</placeName> as a waiter in a resort hotel. I made enough money in the summer to support me for the whole year.</u>
       <u who="BLIEK">Do you remember which resort in <placeName>Connecticut</placeName> you were working at?</u>
-      <u who="STEIN">Sure, Grand Lake Lodge, in <placeName>Lebanon</placeName>.</u>
+      <u who="STEIN">Sure, <orgName>Grand Lake Lodge</orgName>, in <placeName>Lebanon</placeName>.</u>
       <u who="BLIEK">And what was that like?</u>
-      <u who="STEIN">Oh, that was great. I started <date>the first year</date> as a busboy, and then <date>the next couple of years</date>, I was a waiter. And by those standards at the time, made an awful lot of money in <date>just ten weeks</date>.</u>
-      <u who="BLIEK">And so it sounds like you had started this before you ended up at—at <persName>Hunter</persName>.</u>
-      <u who="STEIN">No, I think <date>my first year</date>.</u>
+      <u who="STEIN">Oh, that was great. I started the first year as a busboy, and then the next couple of years, I was a waiter. And by those standards at the time, made an awful lot of money in just ten weeks.</u>
+      <u who="BLIEK">And so it sounds like you had started this before you ended up at—at <orgName>Hunter</orgName>.</u>
+      <u who="STEIN">No, I think my first year.</u>
       <u who="BLIEK">Oh, okay. So what—so what’s—what was the premise of the resort? Was it sort of like an outdoor resort?</u>
-      <u who="STEIN">It was like they had in the <orgName>Catskills</orgName> (the Catskill Mountains), a Jewish resort hotel where you threw lots of food at people and they tipped you well.</u>
+      <u who="STEIN">It was like they had in the <placeName>Catskills (the Catskill Mountains)</placeName>, a Jewish resort hotel where you threw lots of food at people and they tipped you well.</u>
       <u who="BLIEK">Was there anything you didn’t like about working there?</u>
-      <u who="STEIN">No, it was—it was great. And it didn’t matter that I worked <date>the entire summer</date> with a couple of—maybe <date>a couple of days</date> off. I don’t even know if we had regular days off. We just worked.</u>
+      <u who="STEIN">No, it was—it was great. And it didn’t matter that I worked the entire summer with a couple of—maybe a couple of days off. I don’t even know if we had regular days off. We just worked.</u>
       <u who="BLIEK">So were you lodged on site?</u>
       <u who="STEIN">Oh, yeah, like in almost chicken coops. I think they were old chicken coops,—</u>
       <u who="BLIEK">[Chuckles.]</u>
       <u who="STEIN">—like, with bunks and—just like a camp.</u>
       <u who="BLIEK">And how did you manage the transportation there?</u>
-      <u who="STEIN">Oh, initially I took the bus from <placeName>New York</placeName> all the way to <persName>Colchester</persName> [<placeName>Connecticut</placeName>], then got picked up in <placeName>Colchester</placeName> and brought to the resort, which was about seven miles away. Then, <date>the last couple of years</date>, I had a car.</u>
-      <u who="BLIEK">And so that was what you did during your summers while you were at <persName>Hunter</persName>?</u>
-      <u who="STEIN">That is correct. Worked <date>the entire summer</date> in order to have money to go to college.</u>
-      <u who="BLIEK">All right. Well, let’s talk about <persName>Hunter</persName>, then. So what was <persName>Hunter</persName> like when you entered as a freshmen in <date>1964</date>?</u>
+      <u who="STEIN">Oh, initially I took the bus from <placeName>New York</placeName> all the way to <placeName>Colchester [Connecticut]</placeName>, then got picked up in <placeName>Colchester</placeName> and brought to the resort, which was about seven miles away. Then, the last couple of years, I had a car.</u>
+      <u who="BLIEK">And so that was what you did during your summers while you were at <placeName>Hunter</placeName>?</u>
+      <u who="STEIN">That is correct. Worked the entire summer in order to have money to go to college.</u>
+      <u who="BLIEK">All right. Well, let’s talk about <orgName>Hunter</orgName>, then. So what was <orgName>Hunter</orgName> like when you entered as a freshmen in <date when="1964">1964</date>?</u>
       <u who="STEIN">Oh, it was—it was very interesting. I was part of the first male class in what had been an all-female college, so it was kind of strange sometimes getting on the elevator and I was the only guy.</u>
       <u who="BLIEK">And how—how did you react to that? Was that, like, a common sentiment among the—among the other men in your class?</u>
       <u who="STEIN">Yeah, it didn’t faze me much, but, you know again, there were far more women at the college than there were men because we were part of the very first male class.</u>
       <u who="BLIEK">So what was your lodging situation like then?</u>
-      <u who="STEIN">[Chuckles.] I lived at home. Got up in the morning, took a bus to the subway, took the subway to college and repeated the process in reverse, you know, let’s say <date>three or four days</date> a week when I had classes. I did not go in when I didn't have classes. It was a long trek.</u>
+      <u who="STEIN">[Chuckles.] I lived at home. Got up in the morning, took a bus to the subway, took the subway to college and repeated the process in reverse, you know, let’s say three or four days a week when I had classes. I did not go in when I didn't have classes. It was a long trek.</u>
       <u who="BLIEK">Would there have been an option for you to live on campus if you had wanted to?</u>
       <u who="STEIN">No. Nope, there was no lodging, no dorms.</u>
       <u who="BLIEK">So did that impact your sense of community on campus?</u>
@@ -182,44 +182,44 @@
       <u who="BLIEK">Was there any sort of Greek presence on campus at the time?</u>
       <u who="STEIN">Yeah. The interesting thing was I joined a fraternity. We had a house in <placeName>Brooklyn</placeName>, with a bunch of the other guys who came from <placeName>Brooklyn</placeName>. So there must have been about 20 of us.</u>
       <u who="BLIEK">And which fraternity was this?</u>
-      <u who="STEIN">AEPi [alpha <persName>Epsilon Pi</persName>]. </u>
-      <u who="BLIEK">And what about—and when did you rush AEPi?</u>
-      <u who="STEIN">Must have been probably <date>my second or third year</date> at school.</u>
+      <u who="STEIN"><orgName>AEPi [alpha Epsilon Pi]</orgName>. </u>
+      <u who="BLIEK">And what about—and when did you rush <orgName>AEPi</orgName>?</u>
+      <u who="STEIN">Must have been probably my second or third year at school.</u>
       <u who="BLIEK">And so did you—did you live there and commute out of that house?</u>
       <u who="STEIN">No, no one lived there. It was just a—literally, like, an upstairs apartment in a two-family, that we’d simply get together and have some parties in.</u>
       <u who="BLIEK">So what was the initial appeal of the fraternity to you?</u>
-      <u who="STEIN">Other guys who were coming from <placeName>Brooklyn</placeName>. All of us lived at home. This was some place to get together. Wasn’t far from where I lived, and the second and third—<date>the last couple of years</date>, I had a car, which—not everybody had one, so I was able to provide transportation to the guys—some of the guys.</u>
+      <u who="STEIN">Other guys who were coming from <placeName>Brooklyn</placeName>. All of us lived at home. This was some place to get together. Wasn’t far from where I lived, and the second and third—the last couple of years, I had a car, which—not everybody had one, so I was able to provide transportation to the guys—some of the guys.</u>
       <u who="BLIEK">And what sort of places did you go to, aside from the apartment?</u>
-      <u who="STEIN">Well, as a group? So we’d to go places like Madison Square Garden. At that time, the New York Rangers hockey team—we would get student discount tickets, which were very, very inexpensive—you know, up in the upper deck? They—</u>
+      <u who="STEIN">Well, as a group? So we’d to go places like <placeName>Madison Square Garden</placeName>. At that time, the <orgName>New York Rangers</orgName> hockey team—we would get student discount tickets, which were very, very inexpensive—you know, up in the upper deck? They—</u>
       <u who="BLIEK">Sure.</u>
-      <u who="STEIN">—they weren’t filling up the—the <placeName>Garden</placeName>, so they brought—you know, they let us students buy in for a minimal amount of money, basically to fill seats. The irony of that is that just this year at the <placeName>UConn</placeName> [<orgName>University of Connecticut</orgName>] Final Four Women’s [Women’s Final Four, <orgName>NCAA</orgName> Division I Women’s Basketball Tournament], the last game at <orgName>Storrs</orgName> [<placeName>Connecticut</placeName>], they gave tickets to the students to fill it up.</u>
-      <u who="BLIEK">I see.So anyway, as a student at <persName>Hunter</persName>, what—what did you come in planning to study?</u>
+      <u who="STEIN">—they weren’t filling up the—the <placeName>Garden</placeName>, so they brought—you know, they let us students buy in for a minimal amount of money, basically to fill seats. The irony of that is that just this year at the <orgName>UConn [University of Connecticut]</orgName> <name type="event">Final Four Women’s [Women’s Final Four, NCAA Division I Women’s Basketball Tournament]</name>, the last game at <placeName>Storrs [Connecticut]</placeName>, they gave tickets to the students to fill it up.</u>
+      <u who="BLIEK">I see.So anyway, as a student at <orgName>Hunter</orgName>, what—what did you come in planning to study?</u>
       <u who="STEIN">Oh, I—I definitely signed up for marine biology.</u>
-      <u who="BLIEK">And did you stick with that <date>the four years</date> you were at <persName>Hunter</persName>?</u>
+      <u who="BLIEK">And did you stick with that the four years you were at <orgName>Hunter</orgName>?</u>
       <u who="STEIN">I did, until I got a D in invertebrate zoology. In other words—</u>
       <u who="BLIEK">And then what happ-</u>
       <u who="STEIN">—I didn’t make the grade. Then I saw the door to the psychology office open and asked if I could take that as a major so I could get out of college, which I did.</u>
-      <u who="BLIEK">So did you graduate in <date>four years</date>, then, as a—as a psych major?</u>
+      <u who="BLIEK">So did you graduate in four years, then, as a—as a psych major?</u>
       <u who="STEIN">That is correct.</u>
       <u who="BLIEK">So initially what had you been planning to do with the marine biology major?</u>
-      <u who="STEIN">Oh, study fisheries. I was thinking of going to <orgName>the University of Miami</orgName>, and we simply didn’t have the resources.</u>
+      <u who="STEIN">Oh, study fisheries. I was thinking of going to the <orgName>University of Miami</orgName>, and we simply didn’t have the resources.</u>
       <u who="BLIEK">And where did that interest in marine biology come from? Was that something—just a personal preference,—</u>
       <u who="STEIN">Yeah.</u>
       <u who="BLIEK">—or did it develop at a certain point?</u>
       <u who="STEIN">Oh, my father was taking me fishing when I was a little kid. I’ve been fishing ever since.</u>
-      <u who="BLIEK">Well, after you, you know, got your D in marine biology [<orgName>sic</orgName>] and then switched to your psych major, did you initially have an idea of what you were going to do with the psych major instead?</u>
+      <u who="BLIEK">Well, after you, you know, got your D in marine biology [sic] and then switched to your psych major, did you initially have an idea of what you were going to do with the psych major instead?</u>
       <u who="STEIN">Not at all.</u>
-      <u who="BLIEK">So what ended up happening once you graduated from <persName>Hunter</persName> with the psych—with the psych major?</u>
-      <u who="STEIN">Ah, one time they brought in a guest speaker from <orgName>the Peace Corps</orgName>, towards the end of <date>my senior year</date>, and that’s when [<persName>John F.] Kennedy</persName> was president, and his famous saying is is the glass half empty or half full? And it sounded like a good idea because I had no idea what to do with the rest of my life. If I didn’t go—go somewhere, I was going to get drafted. I had a low draft number. All my friends went on to graduate school or something. Nobody I know went into the [U.S.] Army. Everybody found some way of continuing their education. And I joined <orgName>the Peace Corps</orgName>, figuring that would keep me out. And give me something to do.</u>
+      <u who="BLIEK">So what ended up happening once you graduated from <orgName>Hunter</orgName> with the psych—with the psych major?</u>
+      <u who="STEIN">Ah, one time they brought in a guest speaker from the <orgName>Peace Corps</orgName>, towards the end of my senior year, and that’s when <persName>[John F.] Kennedy</persName> was president, and his famous saying is is the glass half empty or half full? And it sounded like a good idea because I had no idea what to do with the rest of my life. If I didn’t go—go somewhere, I was going to get drafted. I had a low draft number. All my friends went on to graduate school or something. Nobody I know went into the <orgName>[U.S.] Army</orgName>. Everybody found some way of continuing their education. And I joined the <orgName>Peace Corps</orgName>, figuring that would keep me out. And give me something to do.</u>
       <u who="BLIEK">Now, going back to what you just said: So all of your friends—you said a lot of them, at least, went to graduate school. </u>
       <u who="STEIN">Yes.</u>
       <u who="BLIEK">Now, had they been planning to go to graduate school anyway, or did they do so mostly to avoid the draft?</u>
       <u who="STEIN">Some might have gone to avoid the draft, but others went to simply further their education, in accounting, in architecture. Again, teaching. The people I grew up with, college was an automatic. And almost graduate school was an automatic. This is simply what you did.</u>
-      <u who="BLIEK">So for you, then, was <orgName>the Peace Corps</orgName>, you know, mostly for the—for the sense of purpose and to give you something to do, or were you also, you know, looking to stay out of the <orgName>Army</orgName> as well?</u>
+      <u who="BLIEK">So for you, then, was the <orgName>Peace Corps</orgName>, you know, mostly for the—for the sense of purpose and to give you something to do, or were you also, you know, looking to stay out of the <orgName>Army</orgName> as well?</u>
       <u who="STEIN">No, I think the <orgName>Army</orgName> was secondary. It was a sense of purpose, and at that stage in my life, you’re going to go out there and change the world.</u>
       <u who="BLIEK">What had you heard about the <orgName>Army</orgName> at this—at this point in time? So—</u>
       <u who="STEIN">That was I think the height of <name type="event">the Vietnam War</name>, right? Was—you know, it was pretty gruesome.</u>
-      <u who="BLIEK">And to be clear, what—what year are we referring to here, <date>around 1968</date>?</u>
+      <u who="BLIEK">And to be clear, what—what year are we referring to here, around <date when="1968">1968</date>?</u>
       <u who="STEIN">That’s correct.</u>
       <u who="BLIEK">So what had you heard at this point?</u>
       <u who="STEIN">Just what I saw on the news.</u>
@@ -227,28 +227,28 @@
       <u who="STEIN">Well, the pictures of the bombing and napalm, and I remember the protests. You know, I thought about going to some of the protests. I don’t believe I ever went to anything, quote-unquote, “significant.” But I certainly listened to those people who were protesting.</u>
       <u who="BLIEK">Even though you didn’t go to any of the protests, would you have considered yourself at least sympathetic to some of their—you know, to some of their causes?</u>
       <u who="STEIN">Absolutely.</u>
-      <u who="BLIEK">What things in particular did you not like about <name type="event">the Vietnam War</name> at this point in time?</u>
+      <u who="BLIEK">What things in particular did you not like about the <name type="event">Vietnam War</name> at this point in time?</u>
       <u who="STEIN">Whether we should have been there at all.</u>
       <u who="BLIEK">So what—so what was your position on that issue?</u>
       <u who="STEIN">No, I certainly didn’t think that we should have intervened.</u>
       <u who="BLIEK">And what was—what was your reasoning for that?</u>
       <u who="STEIN">It cost a lot of American lives, and basically when it was all over, you know, what was really accomplished?</u>
-      <u who="BLIEK">So while—while <name type="event">the Vietnam War</name> was going on, like, did you—did you start—when you first became aware of <name type="event">the Vietnam War</name>, was this the initial position you took, that you were opposed to the war?</u>
-      <u who="STEIN">Well, I—you know, as the war was progressing and then when they implemented the draft, and then I got a low enough number, you know, everything started becoming more real. In other words, they could take me into the <orgName>Army</orgName>. I thought of the [<placeName>U.S.</placeName>] Coast Guard.</u>
-      <u who="BLIEK">So—but appar- —it sounds like you didn’t go through with <orgName>the Coast Guard</orgName>.</u>
+      <u who="BLIEK">So while—while the <name type="event">Vietnam War</name> was going on, like, did you—did you start—when you first became aware of the <name type="event">Vietnam War</name>, was this the initial position you took, that you were opposed to the war?</u>
+      <u who="STEIN">Well, I—you know, as the war was progressing and then when they implemented the draft, and then I got a low enough number, you know, everything started becoming more real. In other words, they could take me into the <orgName>Army</orgName>. I thought of the <orgName>[U.S.] Coast Guard</orgName>.</u>
+      <u who="BLIEK">So—but appar- —it sounds like you didn’t go through with the <orgName>Coast Guard</orgName>.</u>
       <u who="STEIN">Nope. I simply thought about it. Didn’t pursue it.</u>
       <u who="BLIEK">Can you—do you—do you remember anything at all about—about what sorts of things you were weighing during that, you know, thought process, however brief it was?</u>
       <u who="STEIN">Yeah, even thinking of going to <placeName>Canada</placeName>. But it was—</u>
       <u who="BLIEK">Did you—I’m sorry, please continue.</u>
-      <u who="STEIN">No, no, I’m thinking that, you know, yeah, that was an option, a long-shot option because I really didn’t want to leave this country, but I wasn’t really—wasn’t really set on going overseas, you know, with a gun in my hand, so <orgName>the Peace Corps</orgName> might have been a convenient, quote-unquote, way to delay, you know, this decision. But then when I got back, I found out I was still ready to be drafted. A lot of people would have thought, Well, you did <date>two years</date> in <orgName>the Peace Corps</orgName>. That should count for something.But by then, after living with another culture for <date>two years</date> in a foreign country and never having locked the door and never fearing for anything, I really didn’t want to go and shoot anybody who was different, because—just because they believed something different. It became pretty evident that I was not going to go into the <orgName>Army</orgName>, no matter what.</u>
-      <u who="BLIEK">Yeah. Well, definitely we—I will come back to that, but just to get a little bit more on <orgName>the Peace Corps</orgName>, do you think that a lot of other—you know, among your peers, at least, there were other people who were in a similar dilemma to you, considering things like going to—you know, avoiding the <orgName>Army</orgName> through, you know, <orgName>the Peace Corps</orgName> or going to—even, you know, going to <placeName>Canada</placeName>?</u>
+      <u who="STEIN">No, no, I’m thinking that, you know, yeah, that was an option, a long-shot option because I really didn’t want to leave this country, but I wasn’t really—wasn’t really set on going overseas, you know, with a gun in my hand, so the <orgName>Peace Corps</orgName> might have been a convenient, quote-unquote, way to delay, you know, this decision. But then when I got back, I found out I was still ready to be drafted. A lot of people would have thought, Well, you did two years in the <orgName>Peace Corps</orgName>. That should count for something.But by then, after living with another culture for two years in a foreign country and never having locked the door and never fearing for anything, I really didn’t want to go and shoot anybody who was different, because—just because they believed something different. It became pretty evident that I was not going to go into the <orgName>Army</orgName>, no matter what.</u>
+      <u who="BLIEK">Yeah. Well, definitely we—I will come back to that, but just to get a little bit more on the <orgName>Peace Corps</orgName>, do you think that a lot of other—you know, among your peers, at least, there were other people who were in a similar dilemma to you, considering things like going to—you know, avoiding the <orgName>Army</orgName> through, you know, the <orgName>Peace Corps</orgName> or going to—even, you know, going to <placeName>Canada</placeName>?</u>
       <u who="STEIN">Oh, yes. A lot of the—a lot of the volunteers were certainly, you know, more anti war than the general population, absolutely.</u>
       <u who="BLIEK">And were—were—do you know if any of them had actively participated in protests or anything like that?</u>
       <u who="STEIN">I believe some had, yeah.</u>
       <u who="BLIEK">Were your brothers also in a similar position to you? Did they receive draft numbers as well?</u>
       <u who="STEIN">No, they were younger. By the time they became eligible, I believe it was—you know, it was winding down.</u>
-      <u who="BLIEK">All right.So let’s talk about how you actually got into <orgName>the Peace Corps</orgName>. So once—once you heard this guest recruiter on campus—do you remember what year that—that was in?</u>
-      <u who="STEIN">Yeah, that was <date>my senior year</date>, which would have been <date>1968</date>. It was probably soon before I graduated. Yeah.</u>
+      <u who="BLIEK">All right.So let’s talk about how you actually got into the <orgName>Peace Corps</orgName>. So once—once you heard this guest recruiter on campus—do you remember what year that—that was in?</u>
+      <u who="STEIN">Yeah, that was my senior year, which would have been <date when="1968">1968</date>. It was probably soon before I graduated. Yeah.</u>
       <u who="BLIEK">And—and what sort of—</u>
       <u who="STEIN">And there were lots of people in the auditorium. I remember that, meaning they draw a big crowd. And I’m pretty sure I—I basically took the paperwork home and signed up right there.</u>
       <u who="BLIEK">So you—so what did your—what did your parents think of that decision? Did you consult them first?</u>
@@ -257,30 +257,30 @@
       <u who="STEIN">Very positively.</u>
       <u who="BLIEK">So did he—did he encourage you to—to go ahead with it?</u>
       <u who="STEIN">Yeah.</u>
-      <u who="BLIEK">So once you had the signed paperwork in—in hand, what was the next step in the application process to go into <orgName>the Peace Corps</orgName>?</u>
-      <u who="STEIN">The next step was going for a physical and interview, and then once I had got—I really was totally accepted, training—for some reason, everything was delayed a little, and I was be- —I remember, behind the eight ball. Had to get on a small plane to <orgName>Dartmouth</orgName> to meet the training, to get there on time. So out of—out of [<persName>John F.]</persName> Kennedy [International] Airport or <persName>LaGuardia</persName> [Airport], whatever it was, got on a little puddle jumper to <placeName>Hanover</placeName>, <placeName>New Hampshire</placeName>.</u>
-      <u who="BLIEK">Let’s take a step back for a second. So more on the application process. Do you—do you remember—so why was there a physical component—a physical evaluation to the—to <orgName>the Peace Corps</orgName>?</u>
+      <u who="BLIEK">So once you had the signed paperwork in—in hand, what was the next step in the application process to go into the <orgName>Peace Corps</orgName>?</u>
+      <u who="STEIN">The next step was going for a physical and interview, and then once I had got—I really was totally accepted, training—for some reason, everything was delayed a little, and I was be- —I remember, behind the eight ball. Had to get on a small plane to <placeName>Dartmouth</placeName> to meet the training, to get there on time. So out of—out of <orgName>[John F.] Kennedy [International] Airport</orgName> or <orgName>LaGuardia [Airport]</orgName>, whatever it was, got on a little puddle jumper to <placeName>Hanover, New Hampshire</placeName>.</u>
+      <u who="BLIEK">Let’s take a step back for a second. So more on the application process. Do you—do you remember—so why was there a physical component—a physical evaluation to the—to the <orgName>Peace Corps</orgName>?</u>
       <u who="STEIN">Yeah, that was part of the procedure.</u>
       <u who="BLIEK">And what did they evaluate you for, just general health?</u>
       <u who="STEIN">Yes, physical—physical health.</u>
       <u who="BLIEK">And then in the interview, what—what sort of things were they asking you about?</u>
       <u who="STEIN">That, I don’t remember.</u>
       <u who="BLIEK">Okay. Well—do you remember how long it took for you—what sort of time span it was between turning in your paperwork and then, as you said, becoming, you know, totally accepted into the program?</u>
-      <u who="STEIN">Not long at all, <date>a couple of weeks</date>. And then I remember I  had to catch up with the class that was already starting training.</u>
-      <u who="BLIEK">Were there a lot of people in—in the sort of recruitment center that you—you would have gone through? Did you notice that there were a lot of other people also applying for <orgName>the Peace Corps</orgName>?</u>
+      <u who="STEIN">Not long at all, a couple of weeks. And then I remember I  had to catch up with the class that was already starting training.</u>
+      <u who="BLIEK">Were there a lot of people in—in the sort of recruitment center that you—you would have gone through? Did you notice that there were a lot of other people also applying for the <orgName>Peace Corps</orgName>?</u>
       <u who="STEIN">At that time, yes. That might have been some of the height of the <orgName>Peace Corps</orgName> popularity.</u>
       <u who="BLIEK">And what do you think their motivations were? Were they similar to yours, do you think?</u>
       <u who="STEIN">Yeah. No, a lot of us really believed we could change the world.</u>
-      <u who="BLIEK">All right, so let’s talk about getting—getting to <orgName>Dartmouth</orgName>. So you did <orgName>Peace Corps</orgName> training at <orgName>Dartmouth College</orgName>.</u>
+      <u who="BLIEK">All right, so let’s talk about getting—getting to <placeName>Dartmouth</placeName>. So you did <orgName>Peace Corps</orgName> training at <placeName>Dartmouth College</placeName>.</u>
       <u who="STEIN">That is correct.</u>
-      <u who="BLIEK">And <date>about what year</date>? So what <date>year</date> is this?</u>
-      <u who="STEIN">Yeah, it was definitely ’68, <date>’68</date>, <date>the summer of 1968</date>.</u>
+      <u who="BLIEK">And about what year? So what year is this?</u>
+      <u who="STEIN">Yeah, it was definitely <date when="1968">’68</date>, <date when="1968">’68</date>, the summer of <date when="1968">1968</date>.</u>
       <u who="BLIEK">And so when—had you ever been to, you know, that part of <placeName>New Hampshire</placeName> before?</u>
       <u who="STEIN">Don’t think so. That might have been my first time up there.</u>
       <u who="BLIEK">And what was your impression when you got to campus?</u>
       <u who="STEIN">It was beautiful, lush and beautiful, absolutely beautiful campus. I remember the fire tower. I used to climb up to take pictures. We were only there—you know, this is a total immersion training program, where we, you know, learned a bit about the culture, but more importantly, we were immersed in the French language because all of us were going to French <placeName>West Africa</placeName>.</u>
       <u who="BLIEK">And so how long were you actually at <orgName>Dartmouth</orgName> for?</u>
-      <u who="STEIN">Probably <date>eight weeks</date>.</u>
+      <u who="STEIN">Probably eight weeks.</u>
       <u who="BLIEK">And so did you have any choice over where you were going to be trained? Was <orgName>Dartmouth</orgName> assigned to you, or did you choose—</u>
       <u who="STEIN">Ah! No, that’s where they were training for French <placeName>West Africa</placeName>.</u>
       <u who="BLIEK">Now, did you have a choice over—over French <placeName>West Africa</placeName>, or was that also assigned?</u>
@@ -294,19 +294,19 @@
       <u who="BLIEK">And do you remember who was in charge of that program?</u>
       <u who="STEIN">Not—not by name. There were numerous teachers, small classes. I mean, they—they did it right. They taught us to speak French.  Now, of course, when we got to French <placeName>West Africa</placeName>, only the government officials spoke French. The town—the people who lived in the towns spoke their own local languages.</u>
       <u who="BLIEK">Yeah, that’s pretty interesting, and certainly I’ll—I’ll come back to that.Just a couple of other things about your time at <orgName>Dartmouth</orgName>. So was—who—who was running the—the program for you guys? So was it <orgName>Dartmouth</orgName> faculty, or was it, like, a representative of the <orgName>Peace Corps</orgName> program?</u>
-      <u who="STEIN">I believe it was <orgName>the Peace Corps</orgName>. They had simply used <orgName>Dartmouth</orgName> as the facility. We used the dorms and the classrooms for our little program.</u>
+      <u who="STEIN">I believe it was the <orgName>Peace Corps</orgName>. They had simply used <orgName>Dartmouth</orgName> as the facility. We used the dorms and the classrooms for our little program.</u>
       <u who="BLIEK">And do you remember any of the specific, you know, dorms or buildings you would have been in?</u>
-      <u who="STEIN">Not specifically. I remember it was—I mean, it was all very pretty. The campus was lovely. Remember, I’m coming from <placeName>New York City</placeName>. [Laughs.] So all that <placeName>green—[Laughs</placeName>.]</u>
+      <u who="STEIN">Not specifically. I remember it was—I mean, it was all very pretty. The campus was lovely. Remember, I’m coming from <placeName>New York City</placeName>. [Laughs.] So all that green—[Laughs.]</u>
       <u who="BLIEK">Did you have any free time while you were doing the training, or you were mostly just busy?</u>
-      <u who="STEIN">Not much. Not much. I think came home <date>a weekend</date> or two during the whole training, or maybe one during and one when we were done. Part of the training, then, after <orgName>Dartmouth</orgName> was going up to <orgName>Quebec</orgName> and leaving with a French family for <date>a few weeks</date>—again, to further learn French.</u>
-      <u who="BLIEK">Does—does the name <persName>John [A.]</persName> Rassias sound familiar to you at all?</u>
+      <u who="STEIN">Not much. Not much. I think came home a weekend or two during the whole training, or maybe one during and one when we were done. Part of the training, then, after <placeName>Dartmouth</placeName> was going up to <placeName>Quebec</placeName> and leaving with a French family for a few weeks—again, to further learn French.</u>
+      <u who="BLIEK">Does—does the name <persName>John [A.] Rassias</persName> sound familiar to you at all?</u>
       <u who="STEIN">No.</u>
-      <u who="BLIEK">Okay. Well, he was—he was a language teacher at <orgName>Dartmouth</orgName> who would have been there around the time that you were there. And he was—he had a relationship with <orgName>the Peace Corps</orgName>, and he was the director of language programs. So I was just curious if he had, you know, any sort of relationship to <orgName>the Peace Corps</orgName>. He very well might have, but apparently you don’t know him.</u>
+      <u who="BLIEK">Okay. Well, he was—he was a language teacher at <orgName>Dartmouth</orgName> who would have been there around the time that you were there. And he was—he had a relationship with the <orgName>Peace Corps</orgName>, and he was the director of language programs. So I was just curious if he had, you know, any sort of relationship to the <orgName>Peace Corps</orgName>. He very well might have, but apparently you don’t know him.</u>
       <u who="STEIN">I don’t know the name.</u>
       <u who="BLIEK">What was the sort of cultural—so you sort of mentioned that total immersion included cultural as well as—as well as language training, so what were some of the cultural things that they were telling you about French <placeName>West Africa</placeName>?</u>
       <u who="STEIN">Well, one of the big things where that was significantly different from the way we were brought up was the fact that in that society, a number of families—the man could have three or four or five wives. And it was—you know, that was the norm in certain villages. I mean, that’s one that stood out. It was interesting: In my village for a long time, I was the only white man, and they had a name for me, [“Anasara”? 45:03], which meant “the white man.”</u>
       <u who="BLIEK">And which language was that?</u>
-      <u who="STEIN"><persName>Kotokoli</persName>. There’d be another language every 20 miles. [Chuckles.]</u>
+      <u who="STEIN">Kotokoli. There’d be another language every 20 miles. [Chuckles.]</u>
       <u who="BLIEK">So when you—</u>
       <u who="STEIN">And nobody spoke French.</u>
       <u who="BLIEK">Right, right. So when they were giving you the cultural training, did they just refer to it sort of as the region of French <placeName>West Africa</placeName> and sort of just generalized your cultural training to that? Or did they—</u>
@@ -314,12 +314,12 @@
       <u who="BLIEK">So you didn’t receive, you know, country-specific—it was more regional based?</u>
       <u who="STEIN">No. More general. Kind of a little bit of what you might expect, what kind of foods they had, what to be aware of—you know, medically, what not to eat. I remember we had to boil all our water. Meat was a luxury.</u>
       <u who="BLIEK">And so at any point during this sort of cultural training, did—did any of those things that they were telling you about where you would be come as a shock to you?</u>
-      <u who="STEIN">There were—I remember there were a lot of teachers from the region who came over, both to teach French and to talk about the culture, so they were Togolese or people from <placeName>the Ivory Coast</placeName>, you know, who lived—and I remember also there were a number of cross marriages—you know, folks who lived from <placeName>Africa</placeName> and married Americans, vice versa. You know, very interesting couples. </u>
-      <u who="BLIEK">So after you received, you know, this cultural training, was there—was there ever a moment where you were, like, you know, <persName>Gee</persName>, I don’t know if this is still for me?</u>
+      <u who="STEIN">There were—I remember there were a lot of teachers from the region who came over, both to teach French and to talk about the culture, so they were Togolese or people from the <placeName>Ivory Coast</placeName>, you know, who lived—and I remember also there were a number of cross marriages—you know, folks who lived from Africa and married Americans, vice versa. You know, very interesting couples. </u>
+      <u who="BLIEK">So after you received, you know, this cultural training, was there—was there ever a moment where you were, like, you know, Gee, I don’t know if this is still for me?</u>
       <u who="STEIN">Not really. I was kind of up for a new adventure. You know, there was—there was nothing earth-shattering that we were told. Remember, this is a different time in history. Things were safe. And Americans were wanted. We were welcome.</u>
       <u who="BLIEK">Do you think, you know, things were actually safe, or was that just the perception—</u>
-      <u who="STEIN">No, they were safe! I never locked the door in <date>two years</date>!</u>
-      <u who="BLIEK">Yeah. I will certainly come back to that as well.My last question about <orgName>Dartmouth</orgName> for you is were there any <orgName>Dartmouth</orgName> students who were also participating in <orgName>the Peace Corps</orgName>?</u>
+      <u who="STEIN">No, they were safe! I never locked the door in two years!</u>
+      <u who="BLIEK">Yeah. I will certainly come back to that as well.My last question about <orgName>Dartmouth</orgName> for you is were there any <orgName>Dartmouth</orgName> students who were also participating in the <orgName>Peace Corps</orgName>?</u>
       <u who="STEIN">Not that I believe. If there would have been one or two, it would have been pure coincidence, you know?</u>
       <u who="BLIEK">Sure.</u>
       <u who="STEIN">All over the country. That, I remember. All over! You know, we came from all walks of life, all parts of the country, and the one common denominator: Most of us were idealists.</u>
@@ -330,17 +330,17 @@
       <u who="BLIEK">Did you—</u>
       <u who="STEIN">We met missionaries and—you know, you meet a whole different group of people that weren’t all out just for themselves.</u>
       <u who="BLIEK">So did you have—was there any interaction between the <orgName>Peace Corps</orgName> trainees and the <orgName>Dartmouth</orgName> students, or were you mostly both just doing your own thing?</u>
-      <u who="STEIN">No. I don’t know if there were any—this was <date>the summer</date>. I don’t know if there were any students hanging around. Or a handful.</u>
-      <u who="BLIEK">All right. So let’s talk about the process of actually getting to <orgName>Togo</orgName>. So when did you find out that you were—were—so when did you actually find out your were being deployed to <orgName>Togo</orgName> specifically?</u>
+      <u who="STEIN">No. I don’t know if there were any—this was the summer. I don’t know if there were any students hanging around. Or a handful.</u>
+      <u who="BLIEK">All right. So let’s talk about the process of actually getting to <placeName>Togo</placeName>. So when did you find out that you were—were—so when did you actually find out your were being deployed to <placeName>Togo</placeName> specifically?</u>
       <u who="STEIN">Well, towards the end of training.</u>
       <u who="BLIEK">And then what happened at the end of training? Did you immediately—you know, were you immediately deployed, or did you have some time off?</u>
-      <u who="STEIN">I had <date>a couple of days</date> back home, maybe <date>a week</date>, let’s say, to wrap up everything. We were all given these big trunks, like you see on the Titanic—you know, the movie?—big steamer trunks, and we were only able to fill up as much as would fit in. And, you know, given a list—you know, toothpaste, whatever—you know?—to bring. And minimal clothing. I mean, you know, really. You only had so much room. And, you know, got on a plane at <persName>JFK</persName>. Went to <placeName>France</placeName>. Spent the night in <placeName>France</placeName>. Got on a plane <date>a day later</date> and went to <orgName>Togo</orgName>.</u>
-      <u who="BLIEK">So let’s talk about that process of wrapping things up at home. So how were you feeling at that point between—you know, you’ve just come off and finished your training, and now you’re about to go for a <date>two-year</date> deployment in French <placeName>West Africa</placeName>.</u>
+      <u who="STEIN">I had a couple of days back home, maybe a week, let’s say, to wrap up everything. We were all given these big trunks, like you see on the Titanic—you know, the movie?—big steamer trunks, and we were only able to fill up as much as would fit in. And, you know, given a list—you know, toothpaste, whatever—you know?—to bring. And minimal clothing. I mean, you know, really. You only had so much room. And, you know, got on a plane at <placeName>JFK</placeName>. Went to <placeName>France</placeName>. Spent the night in <placeName>France</placeName>. Got on a plane a day later and went to <placeName>Togo</placeName>.</u>
+      <u who="BLIEK">So let’s talk about that process of wrapping things up at home. So how were you feeling at that point between—you know, you’ve just come off and finished your training, and now you’re about to go for a two-year deployment in French <placeName>West Africa</placeName>.</u>
       <u who="STEIN">Yeah.</u>
       <u who="BLIEK">So how—how were you feeling at that point?</u>
       <u who="STEIN">Oh, I—looking forward to it, looking forward to it. It was time to break away from home. Turned over the keys to my car ad registration to my brother. Just, “Here, it’s yours. I’ll pick it up when I get home.” Of course, it wasn’t there by then. He rolled it over a few times. But the point is, no, that was the only asset that I owned, so I simply gave it to him. And broke off a relationship. And got on a plane.</u>
       <u who="BLIEK">And how about your dad? How did you wrap things up with him?</u>
-      <u who="STEIN">Simply that I needed to do this. You know, “I’m kind of on my own, and I’ll see you in <date>two years</date>,” which I then did. In other words, I moved back home for a short time.</u>
+      <u who="STEIN">Simply that I needed to do this. You know, “I’m kind of on my own, and I’ll see you in two years,” which I then did. In other words, I moved back home for a short time.</u>
       <u who="BLIEK">And how did your dad handle you going? Was—was he—you know, did he handle it well?</u>
       <u who="STEIN">Yes. I think he realized that, you know, I had graduated college and time to leave the nest.</u>
       <u who="BLIEK">Did you have—did you run into any sort of last-minute hesitations before you left, or what—or were you—you know, just you knew you wanted to go?</u>
@@ -350,70 +350,70 @@
       <u who="BLIEK">Was there—was there room for—</u>
       <u who="STEIN">Yep. Minor clothes, yep.</u>
       <u who="BLIEK">—anything else?</u>
-      <u who="STEIN">Boy, you know, think about it: One steamer trunk, you know, four-foot long, three feet high, whatever. That was it. I had a radio, where I can listen to the ballgames on <orgName>Armed Forces Radio</orgName> [and <orgName>Television Service</orgName>, now <orgName>Armed Forces Network</orgName>]. Not much! Camera. And just some clothes.</u>
-      <u who="BLIEK">And did—so did most of those things last while you were in <placeName>Africa</placeName>, or did you run into—</u>
+      <u who="STEIN">Boy, you know, think about it: One steamer trunk, you know, four-foot long, three feet high, whatever. That was it. I had a radio, where I can listen to the ballgames on <orgName>Armed Forces Radio [and Television Service, now Armed Forces Network]</orgName>. Not much! Camera. And just some clothes.</u>
+      <u who="BLIEK">And did—so did most of those things last while you were in Africa, or did you run into—</u>
       <u who="STEIN">Oh, I then bought—I bought indigenous clothes, clothing, which is much lighter and more comfortable.</u>
       <u who="BLIEK">And what about the radio? Were you able to keep—keep batteries?</u>
-      <u who="STEIN">Yeah, you could buy batteries. They had, like, little general stores where you could buy batteries, you could buy cans of tuna fish, you know, sardines. Minimal stuff. You know, minimal variety, but enough to survive. You know—and what <orgName>the Peace Corps</orgName> paid us was basically a small fortune by their standards—you know, the local people, because they paid us in real money. And most people there—it was a subsistence economy. Most of the people were farmers. They sold what they grew at the market, and they just had enough to get by. So <orgName>Peace Corps</orgName>—let’s—let’s say it was a hundred dollars a month at the time. That was a fortune.</u>
+      <u who="STEIN">Yeah, you could buy batteries. They had, like, little general stores where you could buy batteries, you could buy cans of tuna fish, you know, sardines. Minimal stuff. You know, minimal variety, but enough to survive. You know—and what the <orgName>Peace Corps</orgName> paid us was basically a small fortune by their standards—you know, the local people, because they paid us in real money. And most people there—it was a subsistence economy. Most of the people were farmers. They sold what they grew at the market, and they just had enough to get by. So <orgName>Peace Corps</orgName>—let’s—let’s say it was a hundred dollars a month at the time. That was a fortune.</u>
       <u who="BLIEK">So what—what did you—what would you do with that money? Did—would—did—</u>
       <u who="STEIN">Oh, buy great food. I had a motorcycle. Buy gas. Do some traveling on my vacations.</u>
-      <u who="BLIEK">So were you paid in <placeName>U.S.</placeName> dollars, or were you paid in the local currency?</u>
-      <u who="STEIN"><orgName>Francs</orgName>, French Francs.</u>
+      <u who="BLIEK">So were you paid in U.S. dollars, or were you paid in the local currency?</u>
+      <u who="STEIN">Francs, French Francs.</u>
       <u who="BLIEK">And—and that’s what they used locally?</u>
       <u who="STEIN">Right.</u>
-      <u who="BLIEK">And—and—and the motorcycle. You were able to afford that on <orgName>the Peace Corps</orgName> salary?</u>
-      <u who="STEIN">Yeah. I kind of think of where I might have had some of my own money. I don’t think they gave it to me. I think I had to purchase it. That, I don’t remember, whether it was given to me or was purchased. A little 50 cc <orgName>DKW</orgName> [Dampf-Kraft-Wagen]—you know, like here it would be almost considered a mobilette, but there was—perfectly sufficient to get me around.</u>
-      <u who="BLIEK">And did it last you the—the whole time you were in <orgName>Togo</orgName>?</u>
+      <u who="BLIEK">And—and—and the motorcycle. You were able to afford that on the <orgName>Peace Corps</orgName> salary?</u>
+      <u who="STEIN">Yeah. I kind of think of where I might have had some of my own money. I don’t think they gave it to me. I think I had to purchase it. That, I don’t remember, whether it was given to me or was purchased. A little 50 cc DKW [Dampf-Kraft-Wagen]—you know, like here it would be almost considered a mobilette, but there was—perfectly sufficient to get me around.</u>
+      <u who="BLIEK">And did it last you the—the whole time you were in <placeName>Togo</placeName>?</u>
       <u who="STEIN">Oh, yeah. Absolutely.</u>
       <u who="BLIEK">Did you—so what sort of things did you use the motorcycle for?</u>
-      <u who="STEIN">Oh, to get to—visit the other volunteers in different towns, because for a long time I was the only volunteer in my town. And the next town might have been 12 miles away and another one, 20 miles away. And none of the roads were paved, so you’re using a motorcycle on washboard roads. And it needed gas, you know, to keep it running. <date>The work week</date> was very light. You taught for a couple of hours in the morning, had a siesta, taught for two more hours in the afternoon, and that was it. In other words, the amount of work time was fairly light compared to off time.</u>
+      <u who="STEIN">Oh, to get to—visit the other volunteers in different towns, because for a long time I was the only volunteer in my town. And the next town might have been 12 miles away and another one, 20 miles away. And none of the roads were paved, so you’re using a motorcycle on washboard roads. And it needed gas, you know, to keep it running. The work week was very light. You taught for a couple of hours in the morning, had a siesta, taught for two more hours in the afternoon, and that was it. In other words, the amount of work time was fairly light compared to off time.</u>
       <u who="BLIEK">How did you acquire that motorcycle in the first place in a town that you said, you know, the biggest commerce is really in the form of a couple general stores?</u>
-      <u who="STEIN">Yeah. I must—I got it in the capital city. I just don’t remember whether I paid for it or <orgName>the Peace Corps</orgName> actually gave it to me. I don’t think they would have given it to me. I’m trying to th- —all the bunch of us had motorcycles. And these are small motorbikes, by the way.</u>
+      <u who="STEIN">Yeah. I must—I got it in the capital city. I just don’t remember whether I paid for it or the <orgName>Peace Corps</orgName> actually gave it to me. I don’t think they would have given it to me. I’m trying to th- —all the bunch of us had motorcycles. And these are small motorbikes, by the way.</u>
       <u who="BLIEK">Yeah.</u>
       <u who="STEIN">They were not expensive machines, so I could have just as well paid for it with one paycheck, you know?</u>
       <u who="BLIEK">Sure.</u>
       <u who="STEIN">And that’s what—</u>
       <u who="BLIEK">So—</u>
       <u who="STEIN">—we used to get around.</u>
-      <u who="BLIEK">Yeah. So let’s backtrack for a second. So let’s—let’s go back to first arriving in <orgName>Togo</orgName>.</u>
+      <u who="BLIEK">Yeah. So let’s backtrack for a second. So let’s—let’s go back to first arriving in <placeName>Togo</placeName>.</u>
       <u who="STEIN">Yes.</u>
       <u who="BLIEK">So what—what was your first—first of all, where did you land?</u>
-      <u who="STEIN">Lomé, which is the capital.</u>
-      <u who="BLIEK">And—and what—what was your first impression when you landed in <orgName>Togo</orgName>?</u>
+      <u who="STEIN"><placeName>Lomé</placeName>, which is the capital.</u>
+      <u who="BLIEK">And—and what—what was your first impression when you landed in <placeName>Togo</placeName>?</u>
       <u who="STEIN">It was war- —it was hot. There were palm trees. It was lush. There were virtually no tall buildings at all. The government center might have been three stories high. That was it!</u>
       <u who="BLIEK">And ostensibly you didn’t stay in the capital too long because you mentioned you were deployed to—</u>
-      <u who="STEIN">They—yeah. Did some more—did some training right outside of the capital, let’s say an hour away. Did some more training for <date>another couple of weeks</date> before we were assigned the cities. And I think I might have had some say in what type of environment. I certainly wanted to be in the country, which I was.</u>
+      <u who="STEIN">They—yeah. Did some more—did some training right outside of the capital, let’s say an hour away. Did some more training for another couple of weeks before we were assigned the cities. And I think I might have had some say in what type of environment. I certainly wanted to be in the country, which I was.</u>
       <u who="BLIEK">What sort of training was going on at that time?</u>
       <u who="STEIN">I remember we were—we were taught gardening. That, I remember distinctly. More language, of course. Hmm. And probably some more cultural stuff. It wasn’t very intense. More relaxing.</u>
       <u who="BLIEK">So where did you end up being deployed? So you said the countryside, </u>
       <u who="STEIN">Yeah.</u>
       <u who="BLIEK">—so after the training, where did you eventually end up?</u>
-      <u who="STEIN">Bafilo [pronounced BAH-fee-low], which is a small town, oh, a couple of hours up country.</u>
-      <u who="BLIEK">And is that where you stayed <date>the entire two years</date>?</u>
+      <u who="STEIN"><placeName>Bafilo</placeName> [pronounced BAH-fee-low], which is a small town, oh, a couple of hours up country.</u>
+      <u who="BLIEK">And is that where you stayed the entire two years?</u>
       <u who="STEIN">Yes.</u>
       <u who="BLIEK">Okay. Well, so when you arrived in that—so tell me a little bit more about that town. Like, how many—how many people were living there, roughly?</u>
-      <u who="STEIN">Oh, maybe a couple of thousand. And I remember they first showed me a house with a tin roof. That was a status symbol. And for whatever reason, I said, you know, “I’d like a mud hut with a thatch roof.” I might have been told that those are more comfortable. The tin roofs heat up during the daytime. Duh. And when it pours in the monsoons, the rain pounds on them. So they took me up—it might have been a former volunteer’s house. You know, I’m saying I don’t know how <orgName>the Peace Corps</orgName> acquired these houses. But it was literally a little mud hut with a kitchen and a bedroom, and a thatched roof.</u>
+      <u who="STEIN">Oh, maybe a couple of thousand. And I remember they first showed me a house with a tin roof. That was a status symbol. And for whatever reason, I said, you know, “I’d like a mud hut with a thatch roof.” I might have been told that those are more comfortable. The tin roofs heat up during the daytime. Duh. And when it pours in the monsoons, the rain pounds on them. So they took me up—it might have been a former volunteer’s house. You know, I’m saying I don’t know how the <orgName>Peace Corps</orgName> acquired these houses. But it was literally a little mud hut with a kitchen and a bedroom, and a thatched roof.</u>
       <u who="BLIEK">And so what was your—what was your first impression on seeing that sort of lodging for you?</u>
-      <u who="STEIN">Oh, that’s exactly what I would like to think, you know, <placeName>Africa</placeName> was all about. And it’s just like you see on TV sometimes, these compounds of mud huts that are encircled, that all come together. You know, a family compound. So different members of the family would have their own little hut—you know, huts, but they’d all be attached and encircled by, let’s say, a wall. And mine was, oh, about half a mile from the school, so I needed that motorbike, yeah, to get back and forth.</u>
+      <u who="STEIN">Oh, that’s exactly what I would like to think, you know, Africa was all about. And it’s just like you see on TV sometimes, these compounds of mud huts that are encircled, that all come together. You know, a family compound. So different members of the family would have their own little hut—you know, huts, but they’d all be attached and encircled by, let’s say, a wall. And mine was, oh, about half a mile from the school, so I needed that motorbike, yeah, to get back and forth.</u>
       <u who="BLIEK">Sure.So who—who actually was in charge of putting you in the lodging? Was it some sort of local, you know, official?</u>
-      <u who="STEIN">No, <orgName>the Peace Corps</orgName>.</u>
+      <u who="STEIN">No, the <orgName>Peace Corps</orgName>.</u>
       <u who="BLIEK">Okay.</u>
-      <u who="STEIN"><orgName>The Peace Corps</orgName>—a local—the country director and his, you know, regional people. They drove you up, set you up in your lodging, helped you move in your trunk, and you’re on your own. [Laughs.]</u>
+      <u who="STEIN">The <orgName>Peace Corps</orgName>—a local—the country director and his, you know, regional people. They drove you up, set you up in your lodging, helped you move in your trunk, and you’re on your own. [Laughs.]</u>
       <u who="BLIEK">And—and so I’m—I’m guessing that they were not deployed in the same place you were.</u>
       <u who="STEIN">No. No one. There were no other Americans at the time.</u>
       <u who="BLIEK">Were there other foreigners, or were you the only foreigner?</u>
       <u who="STEIN">In my village? Mine was a small village, a couple of thousand people at best. I don’t know if there were any other—not in my village. In neighboring vil- —you know, towns, some of the bigger towns, there were French, Israeli, maybe some German, various other types of <orgName>Peace Corps</orgName> and missionaries. Agricultural people. That, I remember. Some from <placeName>Israel</placeName>. A lot those involved in agriculture.</u>
       <u who="BLIEK">But in your—But in—in your village, it was just you.</u>
-      <u who="STEIN">In my village, for <date>the first six months</date>. Then another health volunteer moved in, a lady who was married to a guy in the next village, another <orgName>Peace Corps</orgName> volunteer, who ran a fisheries program to raise tilapia. Very interesting. This was long before we saw tilapia in the stores.</u>
+      <u who="STEIN">In my village, for the first six months. Then another health volunteer moved in, a lady who was married to a guy in the next village, another <orgName>Peace Corps</orgName> volunteer, who ran a fisheries program to raise tilapia. Very interesting. This was long before we saw tilapia in the stores.</u>
       <u who="BLIEK">And what—what’s the—what was the—why—why tilapia, of all the things you could grow?</u>
       <u who="STEIN">They grow very fast.</u>
-      <u who="BLIEK">All right. Let’s—let’s talk about, you know,—again, let’s talk a little bit about <date>the first couple months</date> you—you were in <orgName>Togo</orgName>.</u>
+      <u who="BLIEK">All right. Let’s—let’s talk about, you know,—again, let’s talk a little bit about the first couple months you—you were in <placeName>Togo</placeName>.</u>
       <u who="STEIN">Yeah.</u>
-      <u who="BLIEK">So what—what was <orgName>the Peace Corps</orgName>—so <orgName>the Peace Corps</orgName> deployed you alone to this village of a couple thousand people. </u>
+      <u who="BLIEK">So what—what was the <orgName>Peace Corps</orgName>—so the <orgName>Peace Corps</orgName> deployed you alone to this village of a couple thousand people. </u>
       <u who="STEIN">Right.</u>
       <u who="BLIEK">What were they expecting you to achieve?</u>
       <u who="STEIN">I was a teacher at the local high school, and I was assigned to teach English and math.</u>
-      <u who="BLIEK">And what was the—what was—what was <orgName>the Peace Corps</orgName> hoping the end result would be? Or was that the end result?</u>
+      <u who="BLIEK">And what was the—what was—what was the <orgName>Peace Corps</orgName> hoping the end result would be? Or was that the end result?</u>
       <u who="STEIN">I believe—other than imparting a bit of knowledge, you know, general relations. A lot of it was PR. You know, you’re showing that Americans were capable of being not all bad and overruling and that they could do something positive. Remember, you had other countries offering services also, in agriculture, engineering, building bridges. So it wasn’t just <placeName>America</placeName>. But they took people like me, who didn’t have any, quote-unquote, “mechanical skills” or technical skills, and I’d be, you know, a teacher. Anybody could have been a teacher. You know, really. Because I speak English; therefore, I can teach English.</u>
       <u who="BLIEK">So despite not having, you know, a formalized degree in education,—</u>
       <u who="STEIN">Right.</u>
