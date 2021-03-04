@@ -38,7 +38,7 @@ dvp_053_place_35	Collis Center for Student Involvement	Q100725367		43.70277,-72.
 dvp_053_place_36	Vietnam	Q881		16,108
 dvp_053_place_37	Shaker Heights	Q1065497		41.476388888889,-81.551666666667
 dvp_053_place_38	Shaker Heights High School	Q7462725		41.4733,-81.5692
-dvp_053_place_39	Bartlett Hall		dvp_0223	43.7030455,-72.2956269
+dvp_053_place_39	Bartlett Hall	Q105755150		43.7030455,-72.2956269
 dvp_053_place_40	Spaulding Auditorium	Q104881588		43.70164,-72.28816
 dvp_053_place_41	1902 Room [of the Baker Library, now the Baker-Berry Library]		dvp_0222	43.7054744,-72.2934546
 dvp_053_place_42	New York City	Q60		40.67,-73.94
@@ -105,11 +105,9 @@ dvp_053_place_102	Andrews Air Force Base Census Designated Place	Q34647933		38.8
 dvp_053_place_103	Udorn Royal Thai Air Force Base	Q7877292		17.3864,102.788
 dvp_053_place_104	United States of America	Q30		39.828175,-98.5795
 dvp_053_place_105	Andrews Field	Q768542		38.810833333333,-76.866944444444
-				38.81022,-76.86713
 dvp_053_place_106	Maryland	Q1391		39,-76.7
 dvp_053_place_107	Washington, D.C.	Q61		38.895,-77.036666666667
 dvp_053_place_108	Andrews Field	Q768542		38.810833333333,-76.866944444444
-				38.81022,-76.86713
 dvp_053_place_109	Randolph Air Force Base	Q980034		29.529675,-98.2789
 dvp_053_place_110	Texas	Q1439		31,-100
 dvp_053_place_111	Westover Air Reserve Base	Q1636887		42.1939,-72.5347
@@ -122,29 +120,21 @@ dvp_053_place_117	Westover Air Reserve Base	Q1636887		42.1939,-72.5347
 dvp_053_place_118	Randolph Air Force Base	Q980034		29.529675,-98.2789
 dvp_053_place_119	Westover Air Reserve Base	Q1636887		42.1939,-72.5347
 dvp_053_place_120	Andrews Field	Q768542		38.810833333333,-76.866944444444
-				38.81022,-76.86713
 dvp_053_place_121	Andrews Field	Q768542		38.810833333333,-76.866944444444
-				38.81022,-76.86713
 dvp_053_place_122	Westover Air Reserve Base	Q1636887		42.1939,-72.5347
 dvp_053_place_123	Thailand	Q869		14,101
 dvp_053_place_124	Hiroshima	Q34664		34.385277777778,132.45527777778
 dvp_053_place_125	Nagasaki	Q38234		32.783333333333,129.86666666667
 dvp_053_place_126	Andrews Field	Q768542		38.810833333333,-76.866944444444
-				38.81022,-76.86713
 dvp_053_place_127	Thailand	Q869		14,101
 dvp_053_place_128	Andrews Field	Q768542		38.810833333333,-76.866944444444
-				38.81022,-76.86713
 dvp_053_place_129	Andrews Field	Q768542		38.810833333333,-76.866944444444
-				38.81022,-76.86713
 dvp_053_place_130	Udorn Royal Thai Air Force Base	Q7877292		17.3864,102.788
 dvp_053_place_131	Andrews Field	Q768542		38.810833333333,-76.866944444444
-				38.81022,-76.86713
 dvp_053_place_132	Thailand	Q869		14,101
 dvp_053_place_133	Andrews Field	Q768542		38.810833333333,-76.866944444444
-				38.81022,-76.86713
 dvp_053_place_134	United States of America	Q30		39.828175,-98.5795
 dvp_053_place_135	Andrews Field	Q768542		38.810833333333,-76.866944444444
-				38.81022,-76.86713
 dvp_053_place_136	Vietnam	Q881		16,108
 dvp_053_place_137	Thailand	Q869		14,101
 dvp_053_place_138	Udorn Royal Thai Air Force Base	Q7877292		17.3864,102.788
@@ -158,7 +148,7 @@ dvp_053_place_145	Iran	Q794		32,53
 dvp_053_place_146	Alabama	Q173		32.7,-86.7
 dvp_053_place_147	Thailand	Q869		14,101
 dvp_053_place_148	Vietnam	Q881		16,108
-dvp_053_place_149	Doc			15.1822947,120.5310336
+dvp_053_place_149	Doc			
 dvp_053_place_150	Timbuktu	Q9427		16.773333055556,-2.9994438888889
 dvp_053_place_151	Thailand	Q869		14,101
 dvp_053_place_152	Thailand	Q869		14,101
@@ -170,26 +160,20 @@ dvp_053_place_157	Thailand	Q869		14,101
 dvp_053_place_158	Thailand	Q869		14,101
 dvp_053_place_159	United States of America	Q30		39.828175,-98.5795
 dvp_053_place_160	Andrews Field	Q768542		38.810833333333,-76.866944444444
-				38.81022,-76.86713
 dvp_053_place_161	Vietnam	Q881		16,108
 dvp_053_place_162	Vietnam	Q881		16,108
 dvp_053_place_163	United States of America	Q30		39.828175,-98.5795
 dvp_053_place_164	Andrews Field	Q768542		38.810833333333,-76.866944444444
-				38.81022,-76.86713
 dvp_053_place_165	Udorn Royal Thai Air Force Base	Q7877292		17.3864,102.788
 dvp_053_place_166	United States of America	Q30		39.828175,-98.5795
 dvp_053_place_167	Andrews Field	Q768542		38.810833333333,-76.866944444444
-				38.81022,-76.86713
 dvp_053_place_168	Andrews Field	Q768542		38.810833333333,-76.866944444444
-				38.81022,-76.86713
 dvp_053_place_169	New Hampshire	Q759		44,-71.5
 dvp_053_place_170	Iraq	Q796		33,43
 dvp_053_place_171	Iran	Q794		32,53
 dvp_053_place_172	Pease Air National Guard Base	Q7158431		43.0781,-70.8233
-				43.07891,-70.81736
 dvp_053_place_173	Portsmouth	Q49191		43.07572,-70.76075
 dvp_053_place_174	Pease Air National Guard Base	Q7158431		43.0781,-70.8233
-				43.07891,-70.81736
 dvp_053_place_175	Vietnam	Q881		16,108
 dvp_053_place_176	Thailand	Q869		14,101
 dvp_053_place_177	Thailand	Q869		14,101
