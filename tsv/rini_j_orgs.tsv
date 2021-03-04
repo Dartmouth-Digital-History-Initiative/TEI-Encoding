@@ -1,12 +1,11 @@
 id	orgName	QID	dvp_id
 dvp_053_org_0	Dartmouth Vietnam Project	Q104889683	
-dvp_053_org_1	Lomond [Elementary School]		"dvp_0221
-"
+dvp_053_org_1	Lomond Elementary School	Q105755256	
 dvp_053_org_2	Gilmour Academy	Q5562547	
 dvp_053_org_3	Dartmouth College	Q49116	
 dvp_053_org_4	Geisel School of Medicine	Q5530214	
 dvp_053_org_5	Harvard Medical School	Q49121	
-dvp_053_org_6	Lomond Elementary		dvp_0221
+dvp_053_org_6	Lomond Elementary School	Q105755256	
 dvp_053_org_7	University of Notre Dame	Q178848	
 dvp_053_org_8	Case Western Reserve University	Q1047060	
 dvp_053_org_9	Dartmouth College	Q49116	
@@ -45,7 +44,7 @@ dvp_053_org_41	Georgetown University	Q333886
 dvp_053_org_42	Dartmouth College	Q49116	
 dvp_053_org_43	Dartmouth College	Q49116	
 dvp_053_org_44	Dartmouth College	Q49116	
-dvp_053_org_45	Prospect State Airport	Q7250816	
+dvp_053_org_45	’64s		"dvp_0168																"
 dvp_053_org_46	Geisel School of Medicine	Q5530214	
 dvp_053_org_47	Dartmouth College	Q49116	
 dvp_053_org_48	Dartmouth College	Q49116	
@@ -59,15 +58,15 @@ dvp_053_org_55	Weill Cornell Medicine	Q3567094
 dvp_053_org_56	Weill Cornell Medicine	Q3567094	
 dvp_053_org_57	University of Minnesota Medical Center	Q7895801	
 dvp_053_org_58	Harvard Medical School	Q49121	
-dvp_053_org_59	air force	Q61883	
-dvp_053_org_60	air force	Q61883	
-dvp_053_org_61	air force	Q61883	
-dvp_053_org_62	air force	Q61883	
+dvp_053_org_59	The U.S. Air Force	Q61883	
+dvp_053_org_60	United States Air Force	Q61883	
+dvp_053_org_61	United States Air Force	Q61883	
+dvp_053_org_62	United States Air Force	Q61883	
 dvp_053_org_63	Dartmouth Vietnam Project	Q104889683	
 dvp_053_org_64	Regular Army	Q4992216	
-dvp_053_org_65	marines	Q1898583	
-dvp_053_org_66	air force	Q61883	
-dvp_053_org_67	air force	Q61883	
+dvp_053_org_65	United States Marine Corps	Q1898583	
+dvp_053_org_66	United States Air Force	Q61883	
+dvp_053_org_67	United States Air Force	Q61883	
 dvp_053_org_68	New York Hospital	Q7013596	
 dvp_053_org_69	New York Hospital	Q7013596	
 dvp_053_org_70	Royal Thai Armed Forces	Q947702	
@@ -85,21 +84,21 @@ dvp_053_org_81	Reserve Officers' Training Corps	Q489983
 dvp_053_org_82	Dartmouth College	Q49116	
 dvp_053_org_83	United States Armed Forces	Q11211	
 dvp_053_org_84	United States Armed Forces	Q11211	
-dvp_053_org_85	air force	Q61883	
-dvp_053_org_86	air force	Q61883	
+dvp_053_org_85	United States Air Force	Q61883	
+dvp_053_org_86	United States Air Force	Q61883	
 dvp_053_org_87	Veterans Count	Q105701670	
 dvp_053_org_88	Pease Greeters	Q105701069	
 dvp_053_org_89	United States Marine Corps	Q11218	
-dvp_053_org_90	air force	Q61883	
+dvp_053_org_90	United States Air Force	Q61883	
 dvp_053_org_91	Class of ’64		dvp_0168
 dvp_053_org_92	Reserve Officers' Training Corps	Q489983	
-dvp_053_org_93	air force	Q61883	
-dvp_053_org_94	air force	Q61883	
-dvp_053_org_95	air force	Q61883	
-dvp_053_org_96	air force	Q61883	
-dvp_053_org_97	Officer Candidate School	Q12622609	
-dvp_053_org_98	air force	Q61883	
-dvp_053_org_99	Officer Candidate School	Q12622609	
-dvp_053_org_100	Officer Candidate School	Q12622609	
-dvp_053_org_101	air force	Q61883	
+dvp_053_org_93	United States Air Force	Q61883	
+dvp_053_org_94	United States Air Force	Q61883	
+dvp_053_org_95	United States Air Force	Q61883	
+dvp_053_org_96	United States Air Force	Q61883	
+dvp_053_org_97	OCS		
+dvp_053_org_98	United States Air Force	Q61883	
+dvp_053_org_99	OCS		
+dvp_053_org_100	OCS		
+dvp_053_org_101	United States Air Force	Q61883	
 dvp_053_org_102	Hill Air Force Base	Q3105846	
