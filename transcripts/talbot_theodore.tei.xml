@@ -16,7 +16,7 @@
       </publicationStmt>
       <sourceDesc>
         <recordingStmt>
-          <recording xml:id="primary_recording" type="audio" dur-iso="">
+          <recording xml:id="primary_recording" type="audio" dur-iso="9">
             <!-- https://www.digi.com/resources/documentation/digidocs/90001437-13/reference/r_iso_8601_duration_format.htm -->
             <media url="" mimeType="MIMEaudio/wav"/>
           </recording>
@@ -51,7 +51,7 @@
       </particDesc>
       <settingDesc>
         <setting>
-          <date when-iso=""/>
+          <date when-iso="2017-03-06"/>
           <locale/>
         </setting>
       </settingDesc>
@@ -685,7 +685,7 @@
       <u who="WEINSTOCK">Sure.</u>
       <u who="TALBOT">I was a counselor for several of the banks for holdup victims or robbery victims. Different clients. So employee assistance programs and critical incident management. That’s what I did a lot of within my counseling career.</u>
       <u who="WEINSTOCK">And do you still do that today?</u>
-      <u who="TALBOT">No, I’m retired now. For the last ten years, I’ve been semi-retired. I fully retired February of last year.</u>
+      <u who="TALBOT">No, I’m retired now. For the last ten years, I’ve been semi-retired. I fully retired <date when="2016-02">February of last year</date>.</u>
       <u who="WEINSTOCK">Congratulations.</u>
       <u who="TALBOT">For the last ten years I worked on the telephone help lines.</u>
       <u who="WEINSTOCK">Okay. </u>
