@@ -1,125 +1,125 @@
-id	placeName
-dvp_057_place_0	Boston, Massachusetts
-dvp_057_place_1	Brookline, Massachusetts
-dvp_057_place_2	Brookline
-dvp_057_place_3	Brookline, Massachusetts
-dvp_057_place_4	Los Angeles, California
-dvp_057_place_5	Russia
-dvp_057_place_6	California
-dvp_057_place_7	United States
-dvp_057_place_8	L.A.
-dvp_057_place_9	Brentwood
-dvp_057_place_10	Los Angeles
-dvp_057_place_11	Los Angeles
-dvp_057_place_12	Los Angeles
-dvp_057_place_13	New York City
-dvp_057_place_14	Switzerland
-dvp_057_place_15	London
-dvp_057_place_16	New York
-dvp_057_place_17	New York City
-dvp_057_place_18	New York City
-dvp_057_place_19	Los Angeles
-dvp_057_place_20	New York
-dvp_057_place_21	Vietnam
-dvp_057_place_22	L.A.
-dvp_057_place_23	L.A.
-dvp_057_place_24	UCLA [University of California, Los Angeles]
-dvp_057_place_25	Russia
-dvp_057_place_26	U.S.
-dvp_057_place_27	New York City
-dvp_057_place_28	Philadelphia
-dvp_057_place_29	Hanover
-dvp_057_place_30	Green
-dvp_057_place_31	Green
-dvp_057_place_32	New York City
-dvp_057_place_33	South Africa
-dvp_057_place_34	South Africa
-dvp_057_place_35	South Africa
-dvp_057_place_36	Cohen [Hall]
-dvp_057_place_37	Cohen
-dvp_057_place_38	Cohen Hall
-dvp_057_place_39	Cohen
-dvp_057_place_40	Madagascar
-dvp_057_place_41	Madagascar
-dvp_057_place_42	Nugget theater
-dvp_057_place_43	Saratoga
-dvp_057_place_44	Saratoga
-dvp_057_place_45	Vermont
-dvp_057_place_46	Vietnam
-dvp_057_place_47	United States
-dvp_057_place_48	United States
-dvp_057_place_49	Vietnam
-dvp_057_place_50	China
-dvp_057_place_51	U.S.
-dvp_057_place_52	United States
-dvp_057_place_53	U.S.
-dvp_057_place_54	U.S.
-dvp_057_place_55	Japan
-dvp_057_place_56	China
-dvp_057_place_57	U.S.
-dvp_057_place_58	Vermont
-dvp_057_place_59	Parkhurst [Hall]
-dvp_057_place_60	McNutt [Hall]
-dvp_057_place_61	McNutt
-dvp_057_place_62	Collis
-dvp_057_place_63	Collis Center
-dvp_057_place_64	Robinson Hall
-dvp_057_place_65	Robinson Hall
-dvp_057_place_66	Washington, D.C.
-dvp_057_place_67	Dien Bien Phu
-dvp_057_place_68	Vietnam
-dvp_057_place_69	North
-dvp_057_place_70	South Vietnam
-dvp_057_place_71	Dien Bien Phu
-dvp_057_place_72	French
-dvp_057_place_73	U.S.
-dvp_057_place_74	Green
-dvp_057_place_75	Hop
-dvp_057_place_76	Hop
-dvp_057_place_77	Hopkins Center [for the Arts]
-dvp_057_place_78	Hopkins Center
-dvp_057_place_79	Parkhurst
-dvp_057_place_80	Vietnam
-dvp_057_place_81	Boston
-dvp_057_place_82	Green
-dvp_057_place_83	Green
-dvp_057_place_84	South Africa
-dvp_057_place_85	North Vietnam
-dvp_057_place_86	Green
-dvp_057_place_87	Green
-dvp_057_place_88	Parkhurst
-dvp_057_place_89	Parkhurst
-dvp_057_place_90	Parkhurst
-dvp_057_place_91	United States
-dvp_057_place_92	Wheelock [Street]
-dvp_057_place_93	Main
-dvp_057_place_94	Green
-dvp_057_place_95	Robinson building
-dvp_057_place_96	Robinson
-dvp_057_place_97	Robinson
-dvp_057_place_98	Robinson
-dvp_057_place_99	Vietnam
-dvp_057_place_100	Ann Arbor
-dvp_057_place_101	Los Angeles
-dvp_057_place_102	American
-dvp_057_place_103	Connecticut
-dvp_057_place_104	Buffalo, New York
-dvp_057_place_105	Erie County Penitentiary
-dvp_057_place_106	Buffalo
-dvp_057_place_107	China
-dvp_057_place_108	Hollywood
-dvp_057_place_109	Los Angeles
-dvp_057_place_110	Boston
-dvp_057_place_111	Boston
-dvp_057_place_112	Hanover
-dvp_057_place_113	Boston
-dvp_057_place_114	Lake Erie
-dvp_057_place_115	Boston
-dvp_057_place_116	Buffalo
-dvp_057_place_117	Boston
-dvp_057_place_118	Boston
-dvp_057_place_119	Boston
-dvp_057_place_120	Boston
-dvp_057_place_121	U.S.
-dvp_057_place_122	Boston
-dvp_057_place_123	Jamaica Plain
+id	placeName	QID	dvp_id	coordinate location
+dvp_057_place_0	Boston	Q100		42.358333333333,-71.0625
+dvp_057_place_1	Brookline	Q49142		42.331666666667,-71.121666666667
+dvp_057_place_2	Brookline	Q49142		42.331666666667,-71.121666666667
+dvp_057_place_3	Brookline	Q49142		42.331666666667,-71.121666666667
+dvp_057_place_4	Los Angeles	Q65		34.05223,-118.24368
+dvp_057_place_5	Russia	Q159		66.41666666666667,94.25
+dvp_057_place_6	California	Q99		37,-120
+dvp_057_place_7	United States of America	Q30		39.828175,-98.5795
+dvp_057_place_8	Los Angeles	Q65		34.05223,-118.24368
+dvp_057_place_9	Brentwood	Q846426		37.931944444444,-121.69583333333
+dvp_057_place_10	Los Angeles	Q65		34.05223,-118.24368
+dvp_057_place_11	Los Angeles	Q65		34.05223,-118.24368
+dvp_057_place_12	Los Angeles	Q65		34.05223,-118.24368
+dvp_057_place_13	New York City	Q60		40.67,-73.94
+dvp_057_place_14	Switzerland	Q39		46.798562,8.231973
+dvp_057_place_15	London	Q84		51.507222222222,-0.1275
+dvp_057_place_16	New York City	Q60		40.67,-73.94
+dvp_057_place_17	New York City	Q60		40.67,-73.94
+dvp_057_place_18	New York City	Q60		40.67,-73.94
+dvp_057_place_19	Los Angeles	Q65		34.05223,-118.24368
+dvp_057_place_20	New York City	Q60		40.67,-73.94
+dvp_057_place_21	Vietnam	Q881		16,108
+dvp_057_place_22	Los Angeles	Q65		34.05223,-118.24368
+dvp_057_place_23	Los Angeles	Q65		34.05223,-118.24368
+dvp_057_place_24	University of California, Los Angeles	Q174710		34.07222222222222,-118.44416666666666
+dvp_057_place_25	Russia	Q159		66.41666666666667,94.25
+dvp_057_place_26	United States of America	Q30		39.828175,-98.5795
+dvp_057_place_27	New York City	Q60		40.67,-73.94
+dvp_057_place_28	Philadelphia	Q1345		39.952777777778,-75.163611111111
+dvp_057_place_29	Hanover	Q131908		43.7,-72.28333333333333
+dvp_057_place_30	The Green	Q7738117		43.7033,-72.2886
+dvp_057_place_31	The Green	Q7738117		43.7033,-72.2886
+dvp_057_place_32	New York City	Q60		40.67,-73.94
+dvp_057_place_33	South Africa	Q258		-29,24
+dvp_057_place_34	South Africa	Q258		-29,24
+dvp_057_place_35	South Africa	Q258		-29,24
+dvp_057_place_36	Choate Cluster	Q101445656		43.7073705,-72.2905446
+dvp_057_place_37	Choate Cluster	Q101445656		43.7073705,-72.2905446
+dvp_057_place_38	Choate Cluster	Q101445656		43.7073705,-72.2905446
+dvp_057_place_39	Choate Cluster	Q101445656		43.7073705,-72.2905446
+dvp_057_place_40	Madagascar	Q1019		-20,47
+dvp_057_place_41	Madagascar	Q1019		-20,47
+dvp_057_place_42	Nugget Theater	Q43005631		43.7021685,-72.2897175
+dvp_057_place_43	Saratoga County	Q487605		43.11,-73.87
+dvp_057_place_44	Saratoga County	Q487605		43.11,-73.87
+dvp_057_place_45	Vermont	Q16551		44,-72.7
+dvp_057_place_46	Vietnam	Q881		16,108
+dvp_057_place_47	United States of America	Q30		39.828175,-98.5795
+dvp_057_place_48	United States of America	Q30		39.828175,-98.5795
+dvp_057_place_49	Vietnam	Q881		16,108
+dvp_057_place_50	People's Republic of China	Q148		35.844722222222224,103.45194444444445
+dvp_057_place_51	United States of America	Q30		39.828175,-98.5795
+dvp_057_place_52	United States of America	Q30		39.828175,-98.5795
+dvp_057_place_53	United States of America	Q30		39.828175,-98.5795
+dvp_057_place_54	United States of America	Q30		39.828175,-98.5795
+dvp_057_place_55	Japan	Q17		35,136
+dvp_057_place_56	People's Republic of China	Q148		35.844722222222224,103.45194444444445
+dvp_057_place_57	United States of America	Q30		39.828175,-98.5795
+dvp_057_place_58	Vermont	Q16551		44,-72.7
+dvp_057_place_59	Parkhurst Hall	Q100952777		43.70404,-72.28995
+dvp_057_place_60	McNutt Hall	Q105715821		43.70356,-72.28991
+dvp_057_place_61	McNutt Hall	Q105715821		43.70356,-72.28991
+dvp_057_place_62	Collis Center for Student Involvement	Q100725367		43.70277,-72.28991
+dvp_057_place_63	Collis Center for Student Involvement	Q100725367		43.70277,-72.28991
+dvp_057_place_64	Robinson Hall	Q101445665		43.703119,-72.290959
+dvp_057_place_65	Robinson Hall	Q101445665		43.703119,-72.290959
+dvp_057_place_66	Washington, D.C.	Q61		38.895,-77.036666666667
+dvp_057_place_67	Điện Biên Phủ	Q36027		21.383333333333,103.01694444444
+dvp_057_place_68	Vietnam	Q881		16,108
+dvp_057_place_69	North Vietnam	Q172640		21.033333,105.85
+dvp_057_place_70	South Vietnam	Q180573		10.75,106.66666666667
+dvp_057_place_71	Điện Biên Phủ	Q36027		21.383333333333,103.01694444444
+dvp_057_place_72	France	Q142		47,2
+dvp_057_place_73	United States of America	Q30		39.828175,-98.5795
+dvp_057_place_74	The Green	Q7738117		43.7033,-72.2886
+dvp_057_place_75	Hopkins Center for the Arts	Q3140375		43.701666666667,-72.288611111111
+dvp_057_place_76	Hopkins Center for the Arts	Q3140375		43.701666666667,-72.288611111111
+dvp_057_place_77	Hopkins Center for the Arts	Q3140375		43.701666666667,-72.288611111111
+dvp_057_place_78	Hopkins Center for the Arts	Q3140375		43.701666666667,-72.288611111111
+dvp_057_place_79	Parkhurst Hall	Q100952777		43.70404,-72.28995
+dvp_057_place_80	Vietnam	Q881		16,108
+dvp_057_place_81	Boston	Q100		42.358333333333,-71.0625
+dvp_057_place_82	The Green	Q7738117		43.7033,-72.2886
+dvp_057_place_83	The Green	Q7738117		43.7033,-72.2886
+dvp_057_place_84	South Africa	Q258		-29,24
+dvp_057_place_85	North Vietnam	Q172640		21.033333,105.85
+dvp_057_place_86	The Green	Q7738117		43.7033,-72.2886
+dvp_057_place_87	The Green	Q7738117		43.7033,-72.2886
+dvp_057_place_88	Parkhurst Hall	Q100952777		43.70404,-72.28995
+dvp_057_place_89	Parkhurst Hall	Q100952777		43.70404,-72.28995
+dvp_057_place_90	Parkhurst Hall	Q100952777		43.70404,-72.28995
+dvp_057_place_91	United States of America	Q30		39.828175,-98.5795
+dvp_057_place_92	West Wheelock Street	Q104906195		43.7030386,-72.2996561
+dvp_057_place_93	Main Street	Q104906192		43.70167,-72.28942
+dvp_057_place_94	The Green	Q7738117		43.7033,-72.2886
+dvp_057_place_95	Robinson Hall	Q101445665		43.703119,-72.290959
+dvp_057_place_96	Robinson Hall	Q101445665		43.703119,-72.290959
+dvp_057_place_97	Robinson Hall	Q101445665		43.703119,-72.290959
+dvp_057_place_98	Robinson Hall	Q101445665		43.703119,-72.290959
+dvp_057_place_99	Vietnam	Q881		16,108
+dvp_057_place_100	Ann Arbor	Q485172		42.28138889,-83.74833333
+dvp_057_place_101	Los Angeles	Q65		34.05223,-118.24368
+dvp_057_place_102	United States of America	Q30		39.828175,-98.5795
+dvp_057_place_103	Connecticut	Q779		41.6,-72.7
+dvp_057_place_104	Buffalo	Q40435		42.904722222222,-78.849444444444
+dvp_057_place_105	Erie County Penitentiary	Q105715680		43.2443,-78.2163
+dvp_057_place_106	Buffalo	Q40435		42.904722222222,-78.849444444444
+dvp_057_place_107	People's Republic of China	Q148		35.844722222222224,103.45194444444445
+dvp_057_place_108	Hollywood	Q34006		34.10166666666667,-118.32666666666667
+dvp_057_place_109	Los Angeles	Q65		34.05223,-118.24368
+dvp_057_place_110	Boston	Q100		42.358333333333,-71.0625
+dvp_057_place_111	Boston	Q100		42.358333333333,-71.0625
+dvp_057_place_112	Hanover	Q131908		43.7,-72.28333333333333
+dvp_057_place_113	Boston	Q100		42.358333333333,-71.0625
+dvp_057_place_114	Lake Erie	Q5492		42.149115,-81.24101
+dvp_057_place_115	Boston	Q100		42.358333333333,-71.0625
+dvp_057_place_116	Buffalo	Q40435		42.904722222222,-78.849444444444
+dvp_057_place_117	Boston	Q100		42.358333333333,-71.0625
+dvp_057_place_118	Boston	Q100		42.358333333333,-71.0625
+dvp_057_place_119	Boston	Q100		42.358333333333,-71.0625
+dvp_057_place_120	Boston	Q100		42.358333333333,-71.0625
+dvp_057_place_121	United States of America	Q30		39.828175,-98.5795
+dvp_057_place_122	Boston	Q100		42.358333333333,-71.0625
+dvp_057_place_123	Jamaica Plain	Q985993		42.3075,-71.113055555556
