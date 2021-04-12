@@ -1,50 +1,50 @@
-id	persName
-dvp_053_person_0	Riley Carbone
-dvp_053_person_1	Dr. [James M.] “Jim” Rini
-dvp_053_person_2	Martin August Rini
-dvp_053_person_3	Mary Jo [Rini]
-dvp_053_person_4	Terry Ann [Rini Patton]
-dvp_053_person_5	[Martine] “Marty K.,”
-dvp_053_person_6	JFK [John F. Kennedy]
-dvp_053_person_7	Kennedy
-dvp_053_person_8	Mr. Rini
-dvp_053_person_9	Father [William L.] Nolan
-dvp_053_person_10	Father Nolan
-dvp_053_person_11	Captain [Elmer W. B.] Hassett
-dvp_053_person_12	[John G.] Kemeny
-dvp_053_person_13	Dean of Freshman Students [Albert] Dickerson
-dvp_053_person_14	Capt. Hassett
-dvp_053_person_15	Capt. Hassett
-dvp_053_person_16	Capt. Hassett
-dvp_053_person_17	Professor [Douglas M.] Bowen
-dvp_053_person_18	Francis Weston Sears
-dvp_053_person_19	Sears
-dvp_053_person_20	[Mark W.] Zemansky
-dvp_053_person_21	Sears
-dvp_053_person_22	Sears
-dvp_053_person_23	Sears
-dvp_053_person_24	Sears
-dvp_053_person_25	[Donald] Bartlett [Class of 1924]
-dvp_053_person_26	Bartlett
-dvp_053_person_27	Bartlett
-dvp_053_person_28	[Lewis L.] “Buddy” Bruggeman [Class of 1963, DMS ’65]
-dvp_053_person_29	Colonel [William T.] Kemmerer
-dvp_053_person_30	[President Richard M.] Nixon
-dvp_053_person_31	Nixon
-dvp_053_person_32	Kemmerer
-dvp_053_person_33	Kemmerer
-dvp_053_person_34	Doc
-dvp_053_person_35	[Robert] Bob Bauer
-dvp_053_person_36	Richard Nixon
-dvp_053_person_37	Nixon
-dvp_053_person_38	[President William J.] “Bill” Clinton
-dvp_053_person_39	Nixon
-dvp_053_person_40	Hillary [Rodham Clinton]
-dvp_053_person_41	Professor [Edward G.] Miller
-dvp_053_person_42	Hugh [P.] Savage [Class of 1964]
-dvp_053_person_43	Lee [A.] Chilcote [Class of 1964]
-dvp_053_person_44	Ed Miller
-dvp_053_person_45	[Johann Sebastian] Bach
-dvp_053_person_46	[Ludwig van] Beethoven
-dvp_053_person_47	[Johannes] Brahms
-dvp_053_person_48	[President Franklin D.] Roosevelt
+id	persName	QID	dvp_id
+dvp_053_person_0	Riley Carbone		dvp_0076
+dvp_053_person_1	Dr. [James M.] “Jim” Rini		dvp_0400
+dvp_053_person_2	Martin August Rini		dvp_0401
+dvp_053_person_3	Mary Jo [Rini]		dvp_0402
+dvp_053_person_4	Terry Ann [Rini Patton]		dvp_0403
+dvp_053_person_5	[Martine] “Marty K.,”		dvp_0404
+dvp_053_person_6	John F. Kennedy	Q9696	
+dvp_053_person_7	John F. Kennedy	Q9696	
+dvp_053_person_8	Mr. Rini		dvp_0400
+dvp_053_person_9	Father [William L.] Nolan		dvp_0405
+dvp_053_person_10	Father Nolan		dvp_0405
+dvp_053_person_11	Captain [Elmer W. B.] Hassett		dvp_0399
+dvp_053_person_12	John George Kemeny	Q28900	
+dvp_053_person_13	Dean of Freshman Students [Albert] Dickerson		dvp_0124
+dvp_053_person_14	Capt. Hassett		dvp_0399
+dvp_053_person_15	Capt. Hassett		dvp_0399
+dvp_053_person_16	Capt. Hassett		dvp_0399
+dvp_053_person_17	Professor [Douglas M.] Bowen		dvp_0406
+dvp_053_person_18	Francis Sears	Q1427451	
+dvp_053_person_19	Francis Sears	Q1427451	
+dvp_053_person_20	Mark Zemansky	Q6770490	
+dvp_053_person_21	Francis Sears	Q1427451	
+dvp_053_person_22	Francis Sears	Q1427451	
+dvp_053_person_23	Francis Sears	Q1427451	
+dvp_053_person_24	Francis Sears	Q1427451	
+dvp_053_person_25	[Donald] Bartlett [Class of 1924]		dvp_0407
+dvp_053_person_26	Bartlett		dvp_0407
+dvp_053_person_27	Bartlett		dvp_0407
+dvp_053_person_28	[Lewis L.] “Buddy” Bruggeman [Class of 1963, DMS ’65]		dvp_0408
+dvp_053_person_29	Colonel [William T.] Kemmerer		dvp_0398
+dvp_053_person_30	Richard Nixon	Q9588	
+dvp_053_person_31	Richard Nixon	Q9588	
+dvp_053_person_32	Kemmerer		dvp_0398
+dvp_053_person_33	Kemmerer		dvp_0398
+dvp_053_person_34	Doc		dvp_0400
+dvp_053_person_35	[Robert] Bob Bauer		dvp_0409
+dvp_053_person_36	Richard Nixon	Q9588	
+dvp_053_person_37	Richard Nixon	Q9588	
+dvp_053_person_38	Bill Clinton	Q1124	
+dvp_053_person_39	Richard Nixon	Q9588	
+dvp_053_person_40	Hillary Clinton	Q6294	
+dvp_053_person_41	Professor [Edward G.] Miller		dvp_0039
+dvp_053_person_42	Hugh [P.] Savage [Class of 1964]		dvp_0410
+dvp_053_person_43	Lee [A.] Chilcote [Class of 1964]		dvp_0411
+dvp_053_person_44	Ed Miller		dvp_0039
+dvp_053_person_45	Johann Sebastian Bach	Q1339	
+dvp_053_person_46	Ludwig van Beethoven	Q255	
+dvp_053_person_47	Johannes Brahms	Q7294	
+dvp_053_person_48	President Franklin D Roosevelt (1882-1945) and Doctor Frank Howard Lahey's (1880-1953) dilemma: The complexities of medical confidentiality with World Leaders.	Q47888375	
