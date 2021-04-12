@@ -1,36 +1,36 @@
-id	persName
-dvp_042_person_0	Benjamin Weinstock
-dvp_042_person_1	Jim Martel
-dvp_042_person_2	Jim
-dvp_042_person_3	Courtland James Martel
-dvp_042_person_4	Courtland
-dvp_042_person_5	James
-dvp_042_person_6	James
-dvp_042_person_7	Rita [P. Gatineau] Martel
-dvp_042_person_8	Eisenhower
-dvp_042_person_9	Ike
-dvp_042_person_10	[President John F.] Kennedy
-dvp_042_person_11	John Kennedy
-dvp_042_person_12	JFK
-dvp_042_person_13	Jack
-dvp_042_person_14	Jackie [Jacqueline L. (Bouvier) Kennedy Onassis]
-dvp_042_person_15	Jackie
-dvp_042_person_16	Jackie
-dvp_042_person_17	[President Lyndon B.]Johnson
-dvp_042_person_18	Lt. Martel
-dvp_042_person_19	Lt. Martel
-dvp_042_person_20	Lt. Martel
-dvp_042_person_21	Patty
-dvp_042_person_22	Patty
-dvp_042_person_23	Lynn
-dvp_042_person_24	[Senator Robert F.] “Bobby” Kennedy
-dvp_042_person_25	Tammy Wynette
-dvp_042_person_26	Chet Thurman
-dvp_042_person_27	Chet Thurman
-dvp_042_person_28	Don Emmons
-dvp_042_person_29	Dr. [D. D.] Adrian
-dvp_042_person_30	[President Richard M.] Nixon
-dvp_042_person_31	Dr. Adrian
-dvp_042_person_32	[President James E.] “Jimmy” Carter [Jr.]
-dvp_042_person_33	Johnson
-dvp_042_person_34	[Vladimir V.] Putin
+id	persName	QID	dvp_id
+dvp_042_person_0	Benjamin Weinstock		dvp_0417
+dvp_042_person_1	Jim Martel		dvp_0413
+dvp_042_person_2	Jim		dvp_0413
+dvp_042_person_3	Courtland James Martel		dvp_0412
+dvp_042_person_4	Courtland		dvp_0412
+dvp_042_person_5	James		dvp_0413
+dvp_042_person_6	James		dvp_0413
+dvp_042_person_7	Rita [P. Gatineau] Martel		dvp_0414
+dvp_042_person_8	Dwight D. Eisenhower	Q9916	
+dvp_042_person_9	Dwight D. Eisenhower	Q9916	
+dvp_042_person_10	President John F. Kennedy	Q79472968	
+dvp_042_person_11	John F. Kennedy	Q9696	
+dvp_042_person_12	John F. Kennedy	Q9696	
+dvp_042_person_13	John F. Kennedy	Q9696	
+dvp_042_person_14	Jacqueline Kennedy Onassis	Q165421	
+dvp_042_person_15	Jacqueline Kennedy Onassis	Q165421	
+dvp_042_person_16	Jacqueline Kennedy Onassis	Q165421	
+dvp_042_person_17	Lyndon B. Johnson	Q9640	
+dvp_042_person_18	Lt. Martel		dvp_0413
+dvp_042_person_19	Lt. Martel		dvp_0413
+dvp_042_person_20	Lt. Martel		dvp_0413
+dvp_042_person_21	Patty		dvp_0415
+dvp_042_person_22	Patty		dvp_0415
+dvp_042_person_23	Lynn		dvp_0416
+dvp_042_person_24	Robert F. Kennedy	Q25310	
+dvp_042_person_25	Tammy Wynette	Q234017	
+dvp_042_person_26	Chet Thurman		dvp_0418
+dvp_042_person_27	Chet Thurman		dvp_0418
+dvp_042_person_28	Don Emmons		dvp_0419
+dvp_042_person_29	Dr. [D. D.] Adrian		dvp_0420
+dvp_042_person_30	Richard Nixon	Q9588	
+dvp_042_person_31	Dr. Adrian		dvp_0420
+dvp_042_person_32	Jimmy Carter	Q23685	
+dvp_042_person_33	Roy L. Johnson	Q7373050	
+dvp_042_person_34	Vladimir Putin	Q7747	
