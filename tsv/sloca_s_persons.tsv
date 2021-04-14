@@ -1,96 +1,96 @@
-id	persName
-dvp_059_person_0	Benjamin Weinstock
-dvp_059_person_1	Mr. Steven Sloca
-dvp_059_person_2	Steven Sloca
-dvp_059_person_3	Mr. Sloca
-dvp_059_person_4	Charles Sloca
-dvp_059_person_5	Maureen Rushmore
-dvp_059_person_6	Adlai [E.] Stevenson [II]
-dvp_059_person_7	[Dwight D.] Eisenhower
-dvp_059_person_8	Stevenson
-dvp_059_person_9	[Joseph R.] McCarthy
-dvp_059_person_10	Joe McCarthy
-dvp_059_person_11	McCarthy
-dvp_059_person_12	McCarthy
-dvp_059_person_13	McCarthy
-dvp_059_person_14	McCarthy
-dvp_059_person_15	Raymond [W. S.] Burr
-dvp_059_person_16	Erle Stanley Gardner
-dvp_059_person_17	Molière
-dvp_059_person_18	[President] John F. Kennedy
-dvp_059_person_19	Kennedy
-dvp_059_person_20	Kennedy
-dvp_059_person_21	[President Richard M.] Nixon
-dvp_059_person_22	Nixon
-dvp_059_person_23	Kennedy
-dvp_059_person_24	Kennedy
-dvp_059_person_25	Kennedy
-dvp_059_person_26	[President Lyndon B.] Johnson
-dvp_059_person_27	John F. Kennedy
-dvp_059_person_28	Jack [L.] Ruby
-dvp_059_person_29	[Lee Harvey] Oswald
-dvp_059_person_30	Ruby
-dvp_059_person_31	Ruby
-dvp_059_person_32	Oswald
-dvp_059_person_33	Johnson
-dvp_059_person_34	Kennedy
-dvp_059_person_35	Johnson’s
-dvp_059_person_36	[the Rev. Dr.] Martin Luther King [Jr.]
-dvp_059_person_37	Malcolm X
-dvp_059_person_38	Clarence Goodrow
-dvp_059_person_39	Martin Luther King
-dvp_059_person_40	Johnson
-dvp_059_person_41	Johnson
-dvp_059_person_42	William Sloane Coffin [Jr.]
-dvp_059_person_43	William Sloane Coffin
-dvp_059_person_44	Coffin’s
-dvp_059_person_45	Coffin’s
-dvp_059_person_46	John [S.] McCain [III]
-dvp_059_person_47	Nixon
-dvp_059_person_48	Hồ Chí Minh
-dvp_059_person_49	George Washington
-dvp_059_person_50	Hồ Chí Minh
-dvp_059_person_51	Hồ Chí Minh
-dvp_059_person_52	Hồ Chí Minh
-dvp_059_person_53	Hồ Chí Minh
-dvp_059_person_54	Điện
-dvp_059_person_55	Kennedy
-dvp_059_person_56	[Nguyễn Văn] Thiệu
-dvp_059_person_57	[Nguyễn Chánh] Thi
-dvp_059_person_58	[William C.] Westmoreland
-dvp_059_person_59	Kim
-dvp_059_person_60	Kim Anh Huang [Sloca]
-dvp_059_person_61	Huang P Kim Anh
-dvp_059_person_62	Kim
-dvp_059_person_63	Hồ Chí Minh
-dvp_059_person_64	Hồ Chí Minh
-dvp_059_person_65	Hồ Chí Minh
-dvp_059_person_66	Hồ Chí Minh
-dvp_059_person_67	Điện
-dvp_059_person_68	Madame Nhu
-dvp_059_person_69	Madame Nhu
-dvp_059_person_70	Điện
-dvp_059_person_71	Chiang Kai-shek
-dvp_059_person_72	Hồ Chí Minh
-dvp_059_person_73	Hồ Chí Minh
-dvp_059_person_74	Hồi Chí Minh
-dvp_059_person_75	Hồ Chí Minh
-dvp_059_person_76	Hồ Chí Minh
-dvp_059_person_77	Ngô Đình Diệm
-dvp_059_person_78	Nguyễn Khánh
-dvp_059_person_79	General [Dương Văn] Minh
-dvp_059_person_80	Minh
-dvp_059_person_81	Lee [M]
-dvp_059_person_82	Andrew [C. Sloca]
-dvp_059_person_83	Lee
-dvp_059_person_84	Andy
-dvp_059_person_85	Nixon’s
-dvp_059_person_86	Johnson
-dvp_059_person_87	Lyndon Johnson
-dvp_059_person_88	Lyndon Johnson
-dvp_059_person_89	Richard Nixon
-dvp_059_person_90	[Hubert H.] Humphrey
-dvp_059_person_91	[Claire Lee] Chennault
-dvp_059_person_92	[Anna] Chennault
-dvp_059_person_93	Nixon
-dvp_059_person_94	Madame Chennault
+id	persName	QID	dvp_id
+dvp_059_person_0	Benjamin Weinstock		dvp_0448
+dvp_059_person_1	Mr. Steven Sloca		dvp_0449
+dvp_059_person_2	Steven Sloca		dvp_0449
+dvp_059_person_3	Mr. Sloca		dvp_0449
+dvp_059_person_4	Charles Sloca		dvp_0450
+dvp_059_person_5	Maureen Rushmore		dvp_0451
+dvp_059_person_6	Adlai Stevenson II	Q311719	
+dvp_059_person_7	Dwight D. Eisenhower	Q9916	
+dvp_059_person_8	Adlai Stevenson II	Q311719	
+dvp_059_person_9	Joseph McCarthy	Q189197	
+dvp_059_person_10	Joseph McCarthy	Q189197	
+dvp_059_person_11	Joseph McCarthy	Q189197	
+dvp_059_person_12	Joseph McCarthy	Q189197	
+dvp_059_person_13	Joseph McCarthy	Q189197	
+dvp_059_person_14	Joseph McCarthy	Q189197	
+dvp_059_person_15	Raymond Burr	Q336877	
+dvp_059_person_16	Erle Stanley Gardner	Q357065	
+dvp_059_person_17	Molière	Q687	
+dvp_059_person_18	John F. Kennedy	Q9696	
+dvp_059_person_19	John F. Kennedy	Q9696	
+dvp_059_person_20	John F. Kennedy	Q9696	
+dvp_059_person_21	Richard Nixon	Q9588	
+dvp_059_person_22	Richard Nixon	Q9588	
+dvp_059_person_23	John F. Kennedy	Q9696	
+dvp_059_person_24	John F. Kennedy	Q9696	
+dvp_059_person_25	John F. Kennedy	Q9696	
+dvp_059_person_26	Lyndon B. Johnson	Q9640	
+dvp_059_person_27	John F. Kennedy	Q9696	
+dvp_059_person_28	Jack Ruby	Q192519	
+dvp_059_person_29	Lee Harvey Oswald	Q48745	
+dvp_059_person_30	Jack Ruby	Q192519	
+dvp_059_person_31	Jack Ruby	Q192519	
+dvp_059_person_32	Lee Harvey Oswald	Q48745	
+dvp_059_person_33	Lyndon B. Johnson	Q9640	
+dvp_059_person_34	John F. Kennedy	Q9696	
+dvp_059_person_35	Lyndon B. Johnson	Q9640	
+dvp_059_person_36	Martin Luther King Jr.	Q8027	
+dvp_059_person_37	Malcolm X	Q43303	
+dvp_059_person_38	Clarence M. Mitchell, Jr.	Q5126651	
+dvp_059_person_39	Martin Luther King Jr.	Q8027	
+dvp_059_person_40	Lyndon B. Johnson	Q9640	
+dvp_059_person_41	Lyndon B. Johnson	Q9640	
+dvp_059_person_42	William Sloane Coffin	Q332963	
+dvp_059_person_43	William Sloane Coffin	Q332963	
+dvp_059_person_44	William Sloane Coffin	Q332963	
+dvp_059_person_45	William Sloane Coffin	Q332963	
+dvp_059_person_46	John McCain	Q10390	
+dvp_059_person_47	Richard Nixon	Q9588	
+dvp_059_person_48	Ho Chi Minh	Q36014	
+dvp_059_person_49	George Washington	Q23	
+dvp_059_person_50	Ho Chi Minh	Q36014	
+dvp_059_person_51	Ho Chi Minh	Q36014	
+dvp_059_person_52	Ho Chi Minh	Q36014	
+dvp_059_person_53	Ho Chi Minh	Q36014	
+dvp_059_person_54	Ngo Dinh Diem	Q192502	
+dvp_059_person_55	John F. Kennedy	Q9696	
+dvp_059_person_56	Nguyen Van Thieu	Q313707	
+dvp_059_person_57	Nguyễn Chánh Thi	Q10799000	
+dvp_059_person_58	William Westmoreland	Q298793	
+dvp_059_person_59	Kim		dvp_0452
+dvp_059_person_60	Kim Anh Huang [Sloca]		dvp_0452
+dvp_059_person_61	Huang P Kim Anh		dvp_0452
+dvp_059_person_62	Kim		dvp_0452
+dvp_059_person_63	Ho Chi Minh	Q36014	
+dvp_059_person_64	Ho Chi Minh	Q36014	
+dvp_059_person_65	Ho Chi Minh	Q36014	
+dvp_059_person_66	Ho Chi Minh	Q36014	
+dvp_059_person_67	Ngo Dinh Diem	Q192502	
+dvp_059_person_68	Madame Nhu	Q699241	
+dvp_059_person_69	Madame Nhu	Q699241	
+dvp_059_person_70	Ngo Dinh Diem	Q192502	
+dvp_059_person_71	Chiang Kai-shek	Q16574	
+dvp_059_person_72	Ho Chi Minh	Q36014	
+dvp_059_person_73	Ho Chi Minh	Q36014	
+dvp_059_person_74	Ho Chi Minh	Q36014	
+dvp_059_person_75	Ho Chi Minh	Q36014	
+dvp_059_person_76	Ho Chi Minh	Q36014	
+dvp_059_person_77	Ngo Dinh Diem	Q192502	
+dvp_059_person_78	Nguyễn Khánh	Q10799217	
+dvp_059_person_79	Duong Van Minh	Q334419	
+dvp_059_person_80	Duong Van Minh	Q334419	
+dvp_059_person_81	Lee [M]		dvp_0453
+dvp_059_person_82	Andrew [C. Sloca]		dvp_0454
+dvp_059_person_83	Lee		dvp_0453
+dvp_059_person_84	Andy		dvp_0454
+dvp_059_person_85	Richard Nixon	Q9588	
+dvp_059_person_86	Lyndon B. Johnson	Q9640	
+dvp_059_person_87	Lyndon B. Johnson	Q9640	
+dvp_059_person_88	Lyndon B. Johnson	Q9640	
+dvp_059_person_89	Richard Nixon	Q9588	
+dvp_059_person_90	Hubert Humphrey	Q209989	
+dvp_059_person_91	Claire Lee Chennault	Q468716	
+dvp_059_person_92	Anna Chennault	Q545822	
+dvp_059_person_93	Richard Nixon	Q9588	
+dvp_059_person_94	Anna Chennault	Q545822	
