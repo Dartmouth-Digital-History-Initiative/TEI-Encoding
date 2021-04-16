@@ -1,36 +1,36 @@
-id	persName
-dvp_020_person_0	Emily Burack
-dvp_020_person_1	Mr. [William L.] “Bill” Cooper
-dvp_020_person_2	Mr. Cooper
-dvp_020_person_3	Emily
-dvp_020_person_4	Frank
-dvp_020_person_5	Margaret
-dvp_020_person_6	Frank
-dvp_020_person_7	[Edwin H.] “Ed”
-dvp_020_person_8	Kennedy’s
-dvp_020_person_9	Walter [L.] Cronkite [Jr.]
-dvp_020_person_10	Skip
-dvp_020_person_11	Nelson [A.] Rockefeller
-dvp_020_person_12	Bart [D.] Ehrman
-dvp_020_person_13	Ehrman
-dvp_020_person_14	Constantine [the Great]
-dvp_020_person_15	Paul
-dvp_020_person_16	Areopagus
-dvp_020_person_17	Michel Benamou
-dvp_020_person_18	[Alfred] Adlerian
-dvp_020_person_19	Governor [George C.] Wallace [Jr.]
-dvp_020_person_20	Gov. Wallace
-dvp_020_person_21	Wallace
-dvp_020_person_22	Wallace
-dvp_020_person_23	Napoleon [Bonaparte]
-dvp_020_person_24	General [Douglas] MacArthur
-dvp_020_person_25	Father Tom
-dvp_020_person_26	David [A.] Burchinal
-dvp_020_person_27	Bob
-dvp_020_person_28	Sophie Oakes
-dvp_020_person_29	Fellini
-dvp_020_person_30	Peter [C.] Steck
-dvp_020_person_31	Bonnie
-dvp_020_person_32	Bonnie
-dvp_020_person_33	Bonnie’s
-dvp_020_person_34	Emily
+id	persName	QID	dvp_id
+dvp_020_person_0	Emily Burack		dvp_0116
+dvp_020_person_1	Mr. [William L.] “Bill” Cooper		dvp_0478
+dvp_020_person_2	Mr. Cooper		dvp_0478
+dvp_020_person_3	Emily		dvp_0116
+dvp_020_person_4	Frank		dvp_0479
+dvp_020_person_5	Margaret		dvp_0480
+dvp_020_person_6	Frank		dvp_0479
+dvp_020_person_7	[Edwin H.] “Ed”		dvp_0481
+dvp_020_person_8	John F. Kennedy	Q9696	
+dvp_020_person_9	Walter Cronkite	Q31073	
+dvp_020_person_10	Skip		dvp_0482
+dvp_020_person_11	Nelson Rockefeller	Q11237	
+dvp_020_person_12	Bart D. Ehrman	Q127876	
+dvp_020_person_13	Bart D. Ehrman	Q127876	
+dvp_020_person_14	Constantine the Great	Q8413	
+dvp_020_person_15	Paul	Q9200	
+dvp_020_person_16	Areopagus		
+dvp_020_person_17	Michel Benamou		dvp_0483
+dvp_020_person_18	Alfred Adler	Q152393	
+dvp_020_person_19	George Wallace	Q313776	
+dvp_020_person_20	George Wallace	Q313776	
+dvp_020_person_21	George Wallace	Q313776	
+dvp_020_person_22	George Wallace	Q313776	
+dvp_020_person_23	Napoleon	Q517	
+dvp_020_person_24	Douglas MacArthur	Q127417	
+dvp_020_person_25	Father Tom		
+dvp_020_person_26	David A. Burchinal	Q5230443	
+dvp_020_person_27	Bob		
+dvp_020_person_28	Sophie Oakes		dvp_0484
+dvp_020_person_29	Federico Fellini	Q7371	
+dvp_020_person_30	Peter [C.] Steck		dvp_0485
+dvp_020_person_31	Bonnie		dvp_0486
+dvp_020_person_32	Bonnie		dvp_0486
+dvp_020_person_33	Bonnie’s		dvp_0486
+dvp_020_person_34	Emily		dvp_0116
