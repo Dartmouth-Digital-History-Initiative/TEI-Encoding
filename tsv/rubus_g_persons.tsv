@@ -1,50 +1,50 @@
-id	persName
-dvp_054_person_0	Sandor Farkas
-dvp_054_person_1	Gary [M.] Rubus
-dvp_054_person_2	Rubus
-dvp_054_person_3	James William Rubus
-dvp_054_person_4	Shirley Miriam Zook Rubus
-dvp_054_person_5	[President Franklin D.] Roosevelt
-dvp_054_person_6	Bush, W.
-dvp_054_person_7	[Charles B.] McLane
-dvp_054_person_8	[Basil] Milovsoroff
-dvp_054_person_9	[Dmitri] von Mohrenschildt
-dvp_054_person_10	[Kenneth M.] “Ken” McConnochie
-dvp_054_person_11	Ken
-dvp_054_person_12	President [John S.] Dickey [Class of 1929]
-dvp_054_person_13	Dickey
-dvp_054_person_14	Dickey
-dvp_054_person_15	Dickey
-dvp_054_person_16	"[Robert E.] ""Bob” Fisher [Class of 1967]"
-dvp_054_person_17	[President John F.] Kennedy
-dvp_054_person_18	Napoleon [Bonaparte]
-dvp_054_person_19	Ted Morgan
-dvp_054_person_20	Stanley Karnow
-dvp_054_person_21	Sandor Farkas
-dvp_054_person_22	Gary Rubus
-dvp_054_person_23	Jack Schullenberger
-dvp_054_person_24	Farkas
-dvp_054_person_25	Sandor
-dvp_054_person_26	Jack
-dvp_054_person_27	Jack
-dvp_054_person_28	Jack
-dvp_054_person_29	Jack
-dvp_054_person_30	President [John G.] Kemeny
-dvp_054_person_31	Ted Morgan
-dvp_054_person_32	Ambassador [Thomas R.] Pickering
-dvp_054_person_33	Tom Pickering
-dvp_054_person_34	[Mikhail] Kolesnikov
-dvp_054_person_35	Harshenko
-dvp_054_person_36	Harshenko
-dvp_054_person_37	Harshenko
-dvp_054_person_38	Harshenko
-dvp_054_person_39	Harshenko
-dvp_054_person_40	Harshenko
-dvp_054_person_41	Kolesnikov
-dvp_054_person_42	Kolesnikov
-dvp_054_person_43	[John M. D.] Shalikashvili
-dvp_054_person_44	Shalikashvili
-dvp_054_person_45	Kolesnikov
-dvp_054_person_46	Shali
-dvp_054_person_47	Thomas [E.] Ricks
-dvp_054_person_48	Ted Morgan
+id	persName	QID	dvp_id
+dvp_054_person_0	Sandor Farkas		dvp_0501
+dvp_054_person_1	Gary [M.] Rubus		dvp_0502
+dvp_054_person_2	Rubus		dvp_0502
+dvp_054_person_3	James William Rubus		dvp_0503
+dvp_054_person_4	Shirley Miriam Zook Rubus		dvp_0504
+dvp_054_person_5	Franklin Delano Roosevelt	Q8007	
+dvp_054_person_6	George W. Bush	Q94496272	
+dvp_054_person_7	[Charles B.] McLane		dvp_0505
+dvp_054_person_8	Basil Milovsoroff	Q4867219	
+dvp_054_person_9	[Dmitri] von Mohrenschildt		dvp_0506
+dvp_054_person_10	[Kenneth M.] “Ken” McConnochie		dvp_0507
+dvp_054_person_11	Ken		dvp_0507
+dvp_054_person_12	John Sloan Dickey	Q3182471	
+dvp_054_person_13	John Sloan Dickey	Q3182471	
+dvp_054_person_14	John Sloan Dickey	Q3182471	
+dvp_054_person_15	John Sloan Dickey	Q3182471	
+dvp_054_person_16	"[Robert E.] ""Bob” Fisher [Class of 1967]"		dvp_0508
+dvp_054_person_17	John F. Kennedy	Q9696	
+dvp_054_person_18	Napoleon	Q517	
+dvp_054_person_19	Ted Morgan	Q2399828	
+dvp_054_person_20	Stanley Karnow	Q3543703	
+dvp_054_person_21	Sandor Farkas		dvp_0501
+dvp_054_person_22	Gary Rubus		dvp_0502
+dvp_054_person_23	Jack Schullenberger		dvp_0509
+dvp_054_person_24	Farkas		dvp_0501
+dvp_054_person_25	Sandor		dvp_0501
+dvp_054_person_26	Jack		dvp_0509
+dvp_054_person_27	Jack		dvp_0509
+dvp_054_person_28	Jack		dvp_0509
+dvp_054_person_29	Jack		dvp_0509
+dvp_054_person_30	John George Kemeny	Q28900	
+dvp_054_person_31	Ted Morgan	Q2399828	
+dvp_054_person_32	Thomas R. Pickering	Q968268	
+dvp_054_person_33	Thomas R. Pickering	Q968268	
+dvp_054_person_34	Mikhail Kolesnikov	Q2033621	
+dvp_054_person_35	Harshenko		dvp_0510
+dvp_054_person_36	Harshenko		dvp_0510
+dvp_054_person_37	Harshenko		dvp_0510
+dvp_054_person_38	Harshenko		dvp_0510
+dvp_054_person_39	Harshenko		dvp_0510
+dvp_054_person_40	Harshenko		dvp_0510
+dvp_054_person_41	Mikhail Kolesnikov	Q2033621	
+dvp_054_person_42	Mikhail Kolesnikov	Q2033621	
+dvp_054_person_43	John Shalikashvili	Q471428	
+dvp_054_person_44	John Shalikashvili	Q471428	
+dvp_054_person_45	Mikhail Kolesnikov	Q2033621	
+dvp_054_person_46	John Shalikashvili	Q471428	
+dvp_054_person_47	Thomas E. Ricks	Q7789191	
+dvp_054_person_48	Ted Morgan	Q2399828	
