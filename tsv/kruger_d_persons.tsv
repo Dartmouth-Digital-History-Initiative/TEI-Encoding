@@ -1,23 +1,23 @@
-id	persName
-dvp_032_person_0	President John Adams
-dvp_032_person_1	John Irving
-dvp_032_person_2	[Professor John A.] Rassias
-dvp_032_person_3	Ephraim [N.] Aniebona [Class of 1964]
-dvp_032_person_4	Melvin M.] “Mick” Shiramizu
-dvp_032_person_5	[Generalissimo Francisco Franco Bahamonde] Franco
-dvp_032_person_6	Franco
-dvp_032_person_7	Franco
-dvp_032_person_8	Franco
-dvp_032_person_9	Franco
-dvp_032_person_10	KRUGER
-dvp_032_person_11	Dave
-dvp_032_person_12	Jean
-dvp_032_person_13	Bangkok
-dvp_032_person_14	Jean
-dvp_032_person_15	Col. Bussey
-dvp_032_person_16	Jean
-dvp_032_person_17	Jean
-dvp_032_person_18	Pol Pot
-dvp_032_person_19	Pol Pot
-dvp_032_person_20	Kruger
-dvp_032_person_21	Hồ Chí Minh
+id	persName	QID	dvp_id
+dvp_032_person_0	John Adams	Q11806	
+dvp_032_person_1	John Irving	Q310379	
+dvp_032_person_2	John Rassias	Q6254272	
+dvp_032_person_3	Ephraim [N.] Aniebona [Class of 1964]		dvp_0256
+dvp_032_person_4	Melvin M.] “Mick” Shiramizu		dvp_0255
+dvp_032_person_5	Francisco Franco	Q29179	
+dvp_032_person_6	Francisco Franco	Q29179	
+dvp_032_person_7	Francisco Franco	Q29179	
+dvp_032_person_8	Francisco Franco	Q29179	
+dvp_032_person_9	Francisco Franco	Q29179	
+dvp_032_person_10	KRUGER		
+dvp_032_person_11	Dave		dvp_0253
+dvp_032_person_12	Jean		dvp_0254
+dvp_032_person_13	Bangkok		
+dvp_032_person_14	Jean		dvp_0254
+dvp_032_person_15	Charles M. Bussey	Q47110485	
+dvp_032_person_16	Jean		dvp_0254
+dvp_032_person_17	Jean		dvp_0254
+dvp_032_person_18	Pol Pot	Q39464	
+dvp_032_person_19	Pol Pot	Q39464	
+dvp_032_person_20	Kruger		dvp_0253
+dvp_032_person_21	Ho Chi Minh	Q36014	
