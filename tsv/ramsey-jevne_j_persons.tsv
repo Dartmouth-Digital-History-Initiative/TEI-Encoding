@@ -1,68 +1,68 @@
-id	persName
-dvp_058_person_0	Emily Cummings
-dvp_058_person_1	Juanita [F.] Ramsey-Jevne
-dvp_058_person_2	Charles Ralph Ramsey
-dvp_058_person_3	Waneta Mae [Vieritz] Ramsey
-dvp_058_person_4	[James Earl “Jimmy”] Carter [Jr.]
-dvp_058_person_5	Jimmy Carter
-dvp_058_person_6	Bill
-dvp_058_person_7	Edward [P.] Abbey
-dvp_058_person_8	Rachel [Carson, author of Silent Spring]
-dvp_058_person_9	John Denver
-dvp_058_person_10	Bill
-dvp_058_person_11	President [Lyndon B.] Johnson
-dvp_058_person_12	Bill
-dvp_058_person_13	Bill
-dvp_058_person_14	Bill
-dvp_058_person_15	Bill
-dvp_058_person_16	Bill
-dvp_058_person_17	Bill
-dvp_058_person_18	Bill
-dvp_058_person_19	Bill
-dvp_058_person_20	Bill
-dvp_058_person_21	Bill
-dvp_058_person_22	Bill
-dvp_058_person_23	Bill
-dvp_058_person_24	Bill
-dvp_058_person_25	Bill’s
-dvp_058_person_26	Bill
-dvp_058_person_27	Bill
-dvp_058_person_28	Bill
-dvp_058_person_29	Bill
-dvp_058_person_30	Bill’s
-dvp_058_person_31	Bill
-dvp_058_person_32	Bill
-dvp_058_person_33	Bill
-dvp_058_person_34	Bill
-dvp_058_person_35	Bill
-dvp_058_person_36	Bill
-dvp_058_person_37	Bill
-dvp_058_person_38	Bill
-dvp_058_person_39	Bill’s
-dvp_058_person_40	Bill’s
-dvp_058_person_41	Bill
-dvp_058_person_42	Bill
-dvp_058_person_43	Bill
-dvp_058_person_44	Bill
-dvp_058_person_45	Bill
-dvp_058_person_46	Bill
-dvp_058_person_47	Bill
-dvp_058_person_48	Bill
-dvp_058_person_49	Bill
-dvp_058_person_50	Bill’s
-dvp_058_person_51	Bill
-dvp_058_person_52	Bill
-dvp_058_person_53	Bill’s
-dvp_058_person_54	Bill
-dvp_058_person_55	Bill
-dvp_058_person_56	Bill’s
-dvp_058_person_57	Bill’s
-dvp_058_person_58	Bill
-dvp_058_person_59	Bill
-dvp_058_person_60	Bill
-dvp_058_person_61	Bill
-dvp_058_person_62	Bill
-dvp_058_person_63	Bill
-dvp_058_person_64	Bill
-dvp_058_person_65	Bill
-dvp_058_person_66	Bill
+id	persName	QID	dvp_id
+dvp_058_person_0	Emily Cummings		dvp_0239
+dvp_058_person_1	Juanita [F.] Ramsey-Jevne		dvp_0497
+dvp_058_person_2	Charles Ralph Ramsey		dvp_0498
+dvp_058_person_3	Waneta Mae [Vieritz] Ramsey		dvp_0499
+dvp_058_person_4	Jimmy Carter	Q23685	
+dvp_058_person_5	Jimmy Carter	Q23685	
+dvp_058_person_6	Bill		dvp_0500
+dvp_058_person_7	Edward Abbey	Q937610	
+dvp_058_person_8	Rachel Carson	Q100948	
+dvp_058_person_9	John Denver	Q105460	
+dvp_058_person_10	Bill		dvp_0500
+dvp_058_person_11	Lyndon B. Johnson	Q9640	
+dvp_058_person_12	Bill		dvp_0500
+dvp_058_person_13	Bill		dvp_0500
+dvp_058_person_14	Bill		dvp_0500
+dvp_058_person_15	Bill		dvp_0500
+dvp_058_person_16	Bill		dvp_0500
+dvp_058_person_17	Bill		dvp_0500
+dvp_058_person_18	Bill		dvp_0500
+dvp_058_person_19	Bill		dvp_0500
+dvp_058_person_20	Bill		dvp_0500
+dvp_058_person_21	Bill		dvp_0500
+dvp_058_person_22	Bill		dvp_0500
+dvp_058_person_23	Bill		dvp_0500
+dvp_058_person_24	Bill		dvp_0500
+dvp_058_person_25	Bill’s		dvp_0500
+dvp_058_person_26	Bill		dvp_0500
+dvp_058_person_27	Bill		dvp_0500
+dvp_058_person_28	Bill		dvp_0500
+dvp_058_person_29	Bill		dvp_0500
+dvp_058_person_30	Bill’s		dvp_0500
+dvp_058_person_31	Bill		dvp_0500
+dvp_058_person_32	Bill		dvp_0500
+dvp_058_person_33	Bill		dvp_0500
+dvp_058_person_34	Bill		dvp_0500
+dvp_058_person_35	Bill		dvp_0500
+dvp_058_person_36	Bill		dvp_0500
+dvp_058_person_37	Bill		dvp_0500
+dvp_058_person_38	Bill		dvp_0500
+dvp_058_person_39	Bill’s		dvp_0500
+dvp_058_person_40	Bill’s		dvp_0500
+dvp_058_person_41	Bill		dvp_0500
+dvp_058_person_42	Bill		dvp_0500
+dvp_058_person_43	Bill		dvp_0500
+dvp_058_person_44	Bill		dvp_0500
+dvp_058_person_45	Bill		dvp_0500
+dvp_058_person_46	Bill		dvp_0500
+dvp_058_person_47	Bill		dvp_0500
+dvp_058_person_48	Bill		dvp_0500
+dvp_058_person_49	Bill		dvp_0500
+dvp_058_person_50	Bill’s		dvp_0500
+dvp_058_person_51	Bill		dvp_0500
+dvp_058_person_52	Bill		dvp_0500
+dvp_058_person_53	Bill’s		dvp_0500
+dvp_058_person_54	Bill		dvp_0500
+dvp_058_person_55	Bill		dvp_0500
+dvp_058_person_56	Bill’s		dvp_0500
+dvp_058_person_57	Bill’s		dvp_0500
+dvp_058_person_58	Bill		dvp_0500
+dvp_058_person_59	Bill		dvp_0500
+dvp_058_person_60	Bill		dvp_0500
+dvp_058_person_61	Bill		dvp_0500
+dvp_058_person_62	Bill		dvp_0500
+dvp_058_person_63	Bill		dvp_0500
+dvp_058_person_64	Bill		dvp_0500
+dvp_058_person_65	Bill		dvp_0500
+dvp_058_person_66	Bill		dvp_0500
