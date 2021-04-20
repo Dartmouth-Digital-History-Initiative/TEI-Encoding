@@ -1,102 +1,102 @@
-id	persName
-dvp_027_person_0	Emily Cummings
-dvp_027_person_1	Matthew [J.] Friedman
-dvp_027_person_2	Harry Friedman
-dvp_027_person_3	Gertrude Plain
-dvp_027_person_4	Gertrude Plain Friedman
-dvp_027_person_5	[Senator Joseph R.] McCarthy
-dvp_027_person_6	"[Robert Z.] ""Bob"" Norman"
-dvp_027_person_7	Bob
-dvp_027_person_8	Bob
-dvp_027_person_9	Thomas [C.] Wolfe?
-dvp_027_person_10	Thomas Wolfe
-dvp_027_person_11	[Albert H.] “Al” Hastorf
-dvp_027_person_12	Al
-dvp_027_person_13	John [G.] Kemeny
-dvp_027_person_14	John
-dvp_027_person_15	Kemeny
-dvp_027_person_16	Hastorf
-dvp_027_person_17	Al Hastorf
-dvp_027_person_18	“Herb” [Herbert G.] Birch
-dvp_027_person_19	Herb
-dvp_027_person_20	Herb
-dvp_027_person_21	Herb
-dvp_027_person_22	president [Richard M.] Nixon
-dvp_027_person_23	Leon Eisenberg
-dvp_027_person_24	[Adolf] Hitler
-dvp_027_person_25	Hitler
-dvp_027_person_26	Ehrlichman
-dvp_027_person_27	Haldeman
-dvp_027_person_28	Nixon
-dvp_027_person_29	Nixon
-dvp_027_person_30	"[Joseph J.] ""Joe” Schildkraut"
-dvp_027_person_31	Alan [I.] Green
-dvp_027_person_32	Schildkraut
-dvp_027_person_33	[Sigmund] Freud
-dvp_027_person_34	[Sándor] Ferenczi
-dvp_027_person_35	[Gen. Ulysses S.] Grant
-dvp_027_person_36	Homer
-dvp_027_person_37	Homer
-dvp_027_person_38	Jonathan Shay
-dvp_027_person_39	Jonathan
-dvp_027_person_40	Homer
-dvp_027_person_41	[William] Shakespeare
-dvp_027_person_42	Charles Dickens
-dvp_027_person_43	Erich Marie [sic; Maria] Remarque
-dvp_027_person_44	Charles Dickens
-dvp_027_person_45	Dickens
-dvp_027_person_46	Henry Krystal
-dvp_027_person_47	Victor [E.] Frankl
-dvp_027_person_48	Ann [Wolbert] Burgess
-dvp_027_person_49	Susan [Levitt] Stamberg
-dvp_027_person_50	Susan
-dvp_027_person_51	Gayle [M. Smith]
-dvp_027_person_52	Gayle
-dvp_027_person_53	Gayle
-dvp_027_person_54	[Dr.] Robert Lifton
-dvp_027_person_55	[Dr. Chaim F.] “Hi” Shatan
-dvp_027_person_56	Doris Brown
-dvp_027_person_57	Gayle
-dvp_027_person_58	Gayle
-dvp_027_person_59	Gary [J.] Tucker
-dvp_027_person_60	[Terence M.] “Terry” Keane
-dvp_027_person_61	Fred [D.] Gusman
-dvp_027_person_62	Pat Bedwins
-dvp_027_person_63	[Jeffrey H.] “Jeff” Hinman
-dvp_027_person_64	Gary Tucker
-dvp_027_person_65	Gary
-dvp_027_person_66	[Stanley D.] “Stan” Rosenberg
-dvp_027_person_67	Stan
-dvp_027_person_68	Stan
-dvp_027_person_69	Stan
-dvp_027_person_70	Stan
-dvp_027_person_71	Chauncey [N.] Allen
-dvp_027_person_72	Stan
-dvp_027_person_73	Paula [P.] Schnurr
-dvp_027_person_74	Stan
-dvp_027_person_75	Paula
-dvp_027_person_76	Paula
-dvp_027_person_77	Gayle
-dvp_027_person_78	Matt Friedman
-dvp_027_person_79	Paula Schnurr
-dvp_027_person_80	Matt Friedman
-dvp_027_person_81	Paula
-dvp_027_person_82	Jeff
-dvp_027_person_83	Stan
-dvp_027_person_84	Jeff
-dvp_027_person_85	Terry
-dvp_027_person_86	Dennis [S.] Charney
-dvp_027_person_87	Fred
-dvp_027_person_88	[Albert] Einstein
-dvp_027_person_89	Einstein
-dvp_027_person_90	Einstein
-dvp_027_person_91	[Radovan] Karadžić
-dvp_027_person_92	Karadžić
-dvp_027_person_93	Friedman
-dvp_027_person_94	Laurie [B.] Slone
-dvp_027_person_95	[President George W.] Bush
-dvp_027_person_96	Bush
-dvp_027_person_97	Bush
-dvp_027_person_98	Bush
-dvp_027_person_99	Bush
-dvp_027_person_100	Sen. [Patrick J.] Leahy
+id	persName	QID	dvp_id
+dvp_027_person_0	Emily Cummings		dvp_0239
+dvp_027_person_1	Matthew J Friedman	Q88821140	
+dvp_027_person_2	Harry Friedman		dvp_0240
+dvp_027_person_3	Gertrude Plain		dvp_0241
+dvp_027_person_4	Gertrude Plain Friedman		dvp_0241
+dvp_027_person_5	Joseph McCarthy	Q189197	
+dvp_027_person_6	"[Robert Z.] ""Bob"" Norman"		dvp_0242
+dvp_027_person_7	Bob		dvp_0242
+dvp_027_person_8	Bob		dvp_0242
+dvp_027_person_9	Thomas Wolfe	Q314256	
+dvp_027_person_10	Thomas Wolfe	Q314256	
+dvp_027_person_11	[Albert H.] “Al” Hastorf		dvp_0243
+dvp_027_person_12	Al		dvp_0243
+dvp_027_person_13	John George Kemeny	Q28900	
+dvp_027_person_14	John George Kemeny	Q28900	
+dvp_027_person_15	John George Kemeny	Q28900	
+dvp_027_person_16	Hastorf		dvp_0243
+dvp_027_person_17	Al Hastorf		dvp_0243
+dvp_027_person_18	Herbert G. Birch	Q65211746	
+dvp_027_person_19	Herbert G. Birch	Q65211746	
+dvp_027_person_20	Herbert G. Birch	Q65211746	
+dvp_027_person_21	Herbert G. Birch	Q65211746	
+dvp_027_person_22	Richard Nixon	Q9588	
+dvp_027_person_23	Leon Eisenberg	Q773605	
+dvp_027_person_24	Adolf Hitler	Q352	
+dvp_027_person_25	Adolf Hitler	Q352	
+dvp_027_person_26	John Ehrlichman	Q1699957	
+dvp_027_person_27	Harry Robbins Haldeman	Q958413	
+dvp_027_person_28	Richard Nixon	Q9588	
+dvp_027_person_29	Richard Nixon	Q9588	
+dvp_027_person_30	Joseph Schildkraut	Q16025221	
+dvp_027_person_31	Alan I Green	Q90149464	
+dvp_027_person_32	Joseph Schildkraut	Q93632	
+dvp_027_person_33	Sigmund Freud	Q9215	
+dvp_027_person_34	Sándor Ferenczi	Q335466	
+dvp_027_person_35	Ulysses S. Grant	Q34836	
+dvp_027_person_36	Homer	Q6691	
+dvp_027_person_37	Homer	Q6691	
+dvp_027_person_38	Jonathan Shay	Q1390098	
+dvp_027_person_39	Jonathan Shay	Q1390098	
+dvp_027_person_40	Homer	Q6691	
+dvp_027_person_41	William Shakespeare	Q692	
+dvp_027_person_42	Charles Dickens	Q5686	
+dvp_027_person_43	Erich Maria Remarque	Q47293	
+dvp_027_person_44	Charles Dickens	Q5686	
+dvp_027_person_45	Charles Dickens	Q5686	
+dvp_027_person_46	Henry Krystal	Q21175646	
+dvp_027_person_47	Viktor Frankl	Q154723	
+dvp_027_person_48	Ann Burgess	Q47544060	
+dvp_027_person_49	Susan Stamberg	Q7648413	
+dvp_027_person_50	Susan Stamberg	Q7648413	
+dvp_027_person_51	Gayle [M. Smith]		dvp_0244
+dvp_027_person_52	Gayle		dvp_0244
+dvp_027_person_53	Gayle		dvp_0244
+dvp_027_person_54	Robert Jay Lifton	Q711066	
+dvp_027_person_55	Chaim F. Shatan	Q5067806	
+dvp_027_person_56	Doris Brown		dvp_0245
+dvp_027_person_57	Gayle		dvp_0244
+dvp_027_person_58	Gayle		dvp_0244
+dvp_027_person_59	Gary [J.] Tucker		dvp_0246
+dvp_027_person_60	Terence Keane	Q58149576	
+dvp_027_person_61	Fred [D.] Gusman		dvp_0247
+dvp_027_person_62	Pat Bedwins		dvp_0248
+dvp_027_person_63	[Jeffrey H.] “Jeff” Hinman		dvp_0249
+dvp_027_person_64	Gary Tucker		dvp_0246
+dvp_027_person_65	Gary		dvp_0246
+dvp_027_person_66	[Stanley D.] “Stan” Rosenberg		dvp_0250
+dvp_027_person_67	Stan		dvp_0250
+dvp_027_person_68	Stan		dvp_0250
+dvp_027_person_69	Stan		dvp_0250
+dvp_027_person_70	Stan		dvp_0250
+dvp_027_person_71	Chauncey [N.] Allen		dvp_0251
+dvp_027_person_72	Stan		dvp_0250
+dvp_027_person_73	Paula P Schnurr	Q90696774	
+dvp_027_person_74	Stan		dvp_0250
+dvp_027_person_75	Paula P Schnurr	Q90696774	
+dvp_027_person_76	Paula P Schnurr	Q90696774	
+dvp_027_person_77	Gayle		dvp_0244
+dvp_027_person_78	Matthew J Friedman	Q88821140	
+dvp_027_person_79	Paula P Schnurr	Q90696774	
+dvp_027_person_80	Matthew J Friedman	Q88821140	
+dvp_027_person_81	Paula P Schnurr	Q90696774	
+dvp_027_person_82	Jeff		dvp_0249
+dvp_027_person_83	Stan		dvp_0250
+dvp_027_person_84	Jeff		dvp_0249
+dvp_027_person_85	Terence Keane	Q58149576	
+dvp_027_person_86	Dennis S. Charney	Q5258920	
+dvp_027_person_87	Fred		dvp_0247
+dvp_027_person_88	Albert Einstein	Q937	
+dvp_027_person_89	Albert Einstein	Q937	
+dvp_027_person_90	Albert Einstein	Q937	
+dvp_027_person_91	Radovan Karadžić	Q123923	
+dvp_027_person_92	Radovan Karadžić	Q123923	
+dvp_027_person_93	Matthew J Friedman	Q88821140	
+dvp_027_person_94	Laurie [B.] Slone		dvp_0252
+dvp_027_person_95	George W. Bush	Q207	
+dvp_027_person_96	George W. Bush	Q207	
+dvp_027_person_97	George W. Bush	Q207	
+dvp_027_person_98	George W. Bush	Q207	
+dvp_027_person_99	George W. Bush	Q207	
+dvp_027_person_100	Patrick Leahy	Q59315	
