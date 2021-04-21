@@ -1,4 +1,4 @@
-id	persName	qid	dvp_id
+id	persName	QID	dvp_id
 dvp_043_person_0	Emily Everhard		dvp_0558
 dvp_043_person_1	Francis [C.] “Bud” McGrath		dvp_0391
 dvp_043_person_2	Thaddeus Seymour	Q19594809	
@@ -12,5 +12,5 @@ dvp_043_person_9	John F. Kennedy	Q9696
 dvp_043_person_10	Ted Kennedy	Q134549	
 dvp_043_person_11	Mary Jo Kopechne	Q4959515	
 dvp_043_person_12	Lyndon B. Johnson	Q9640	
-dvp_043_person_13	Ed Miller’s		
-dvp_043_person_14	Professor Miller		
+dvp_043_person_13	Ed Miller’s		dvp_0039		
+dvp_043_person_14	Professor Miller		dvp_0039		
