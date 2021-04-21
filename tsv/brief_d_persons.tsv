@@ -1,26 +1,26 @@
-id	persName
-dvp_029_person_0	Angela Noppenberger
-dvp_029_person_1	Dr. Donald [K.] Brief
-dvp_029_person_2	Dr. Brief
-dvp_029_person_3	Pauline
-dvp_029_person_4	Philip Brief
-dvp_029_person_5	[President Dwight D.] Eisenhower
-dvp_029_person_6	[President John F.] Kennedy
-dvp_029_person_7	[Julia E.] “Julie” Andrews
-dvp_029_person_8	[Cornelius M.] “Neil” Sheehan
-dvp_029_person_9	Mr. Moui
-dvp_029_person_10	Barbara
-dvp_029_person_11	Rodriguez
-dvp_029_person_12	Barbara
-dvp_029_person_13	Barbara Rodriguez
-dvp_029_person_14	Rodriguez
-dvp_029_person_15	Barbara
-dvp_029_person_16	Rodriguez
-dvp_029_person_17	Dr. Norman [M.] Rich
-dvp_029_person_18	[J. Judson] “Judd” McNamara
-dvp_029_person_19	Hồ Chí Minh
-dvp_029_person_20	Hồ Chí Minh
-dvp_029_person_21	Hồ Chí Minh
-dvp_029_person_22	[E.] Floyd Robinson [Jr., Class of 1958, DMS class of 1959]
-dvp_029_person_23	Professor [James E.] Wright
-dvp_029_person_24	Dr. Brief
+id	persName	qid	dvp_id
+dvp_029_person_0	Angela Noppenberger		dvp_0262
+dvp_029_person_1	Dr. Donald [K.] Brief		dvp_0549
+dvp_029_person_2	Dr. Brief		dvp_0549
+dvp_029_person_3	Pauline		dvp_0550
+dvp_029_person_4	Philip Brief		dvp_0551
+dvp_029_person_5	Dwight D. Eisenhower	Q9916	
+dvp_029_person_6	John F. Kennedy	Q9696	
+dvp_029_person_7	Julie Andrews	Q161819	
+dvp_029_person_8	Neil Sheehan	Q1238740	
+dvp_029_person_9	Mr. Moui		dvp_0552
+dvp_029_person_10	Barbara		dvp_0553
+dvp_029_person_11	Rodriguez		dvp_0554
+dvp_029_person_12	Barbara		dvp_0553
+dvp_029_person_13	Barbara Rodriguez		dvp_0553
+dvp_029_person_14	Rodriguez		dvp_0554
+dvp_029_person_15	Barbara		dvp_0553
+dvp_029_person_16	Rodriguez		dvp_0554
+dvp_029_person_17	Dr. Norman [M.] Rich		dvp_0555
+dvp_029_person_18	[J. Judson] “Judd” McNamara		dvp_0556
+dvp_029_person_19	Ho Chi Minh	Q36014	
+dvp_029_person_20	Ho Chi Minh	Q36014	
+dvp_029_person_21	Ho Chi Minh	Q36014	
+dvp_029_person_22	[E.] Floyd Robinson [Jr., Class of 1958, DMS class of 1959]		dvp_0557
+dvp_029_person_23	James Wright	Q3161056	
+dvp_029_person_24	Dr. Brief		dvp_0549
