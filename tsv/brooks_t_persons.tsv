@@ -1,68 +1,68 @@
-id	persName
-dvp_024_person_0	Sandor Farkas
-dvp_024_person_1	[Timothy H.] “Tim” Brooks
-dvp_024_person_2	John [ W. R.]
-dvp_024_person_3	Olive [Bradbury] Brooks
-dvp_024_person_4	Peter [G. Brooks]
-dvp_024_person_5	[John B.] “Jack”
-dvp_024_person_6	ROTC
-dvp_024_person_7	President [John S.] Dickey [Class of 1929]
-dvp_024_person_8	[singer/songwriter] Johnny Cash
-dvp_024_person_9	Patti Page
-dvp_024_person_10	Jo [E.] Stafford
-dvp_024_person_11	[William J. C.] “Bill” Haley
-dvp_024_person_12	Elvis [Presley]
-dvp_024_person_13	[Charles E. A.] “Chuck” Berry
-dvp_024_person_14	[Philip H.] “Phil” Spector
-dvp_024_person_15	[Anthony Dominick Benedetto, more commonly known as] “Tony” Bennett
-dvp_024_person_16	[Pierino R.] “Perry” Como
-dvp_024_person_17	[Robert R.] “Bob” Gitt [Class of 1963]
-dvp_024_person_18	Johnny Cash
-dvp_024_person_19	[Frederick W., Jr.] “Ted” Gerbracht
-dvp_024_person_20	Johnny Cash
-dvp_024_person_21	June Carter
-dvp_024_person_22	Dean [Thaddeus] Seymour
-dvp_024_person_23	Mr. Brooks
-dvp_024_person_24	[Alabama Governor George [C.] Wallace [Jr.]
-dvp_024_person_25	Peter
-dvp_024_person_26	Jack
-dvp_024_person_27	Aunt Muriel [F. Bradbury]
-dvp_024_person_28	[President Lyndon B.] Johnson
-dvp_024_person_29	[CBS TV journalist] Walter Cronkite
-dvp_024_person_30	“Cookie” [Thi-Bé Lieu]
-dvp_024_person_31	Guy
-dvp_024_person_32	[Alan R.] “Al” McKee [Class of 1964]
-dvp_024_person_33	Al McKee
-dvp_024_person_34	Brooks
-dvp_024_person_35	Jo Stafford
-dvp_024_person_36	[Peter] “Pete” Seeger
-dvp_024_person_37	Alan
-dvp_024_person_38	[Ngô Đình] Diệm
-dvp_024_person_39	Binh Long
-dvp_024_person_40	“Cookie,” Miss B
-dvp_024_person_41	Miss B
-dvp_024_person_42	Cookie
-dvp_024_person_43	Brooks
-dvp_024_person_44	Brooks
-dvp_024_person_45	Thi-Bé
-dvp_024_person_46	Miss B
-dvp_024_person_47	[Edward G.] “Ed” Miller
-dvp_024_person_48	Professor Miller
-dvp_024_person_49	Professor Miller
-dvp_024_person_50	[Vietnam President Ngô Đình] Diệm
-dvp_024_person_51	Brooks
-dvp_024_person_52	Johnson
-dvp_024_person_53	Johnson
-dvp_024_person_54	Frank
-dvp_024_person_55	[John F.] “Jack” Welch [Jr.]
-dvp_024_person_56	Professor Miller
-dvp_024_person_57	[W.] Oliver Stone
-dvp_024_person_58	John Wayne
-dvp_024_person_59	[Armed Forces Radio DJ] Adrian Cronauer
-dvp_024_person_60	Al McKee
-dvp_024_person_61	Professor Edward Miller
-dvp_024_person_62	Professor Edward Miller
-dvp_024_person_63	[Philip C.] “Phil” Schaefer [Class of 1964]
-dvp_024_person_64	Edward Miller
-dvp_024_person_65	Diệm
-dvp_024_person_66	Hồ Chí Minh
+id	persName	QID	dvp_id
+dvp_024_person_0	Sandor Farkas		dvp_0501
+dvp_024_person_1	[Timothy H.] “Tim” Brooks		dvp_0383
+dvp_024_person_2	John [ W. R.]		dvp_0607
+dvp_024_person_3	Olive [Bradbury] Brooks		dvp_0608
+dvp_024_person_4	Peter [G. Brooks]		dvp_0609
+dvp_024_person_5	[John B.] “Jack”		dvp_0610
+dvp_024_person_6	ROTC		
+dvp_024_person_7	John Sloan Dickey	Q3182471	
+dvp_024_person_8	Johnny Cash	Q42775	
+dvp_024_person_9	Patti Page	Q175759	
+dvp_024_person_10	Jo Stafford	Q254748	
+dvp_024_person_11	Bill Haley	Q202319	
+dvp_024_person_12	Elvis Presley	Q303	
+dvp_024_person_13	Chuck Berry	Q5921	
+dvp_024_person_14	Phil Spector	Q213793	
+dvp_024_person_15	Tony Bennett	Q296729	
+dvp_024_person_16	Perry Como	Q333405	
+dvp_024_person_17	[Robert R.] “Bob” Gitt [Class of 1963]		dvp_0611
+dvp_024_person_18	Johnny Cash	Q42775	
+dvp_024_person_19	[Frederick W., Jr.] “Ted” Gerbracht		dvp_0617
+dvp_024_person_20	Johnny Cash	Q42775	
+dvp_024_person_21	June Carter Cash	Q233253	
+dvp_024_person_22	Thaddeus Seymour	Q19594809	
+dvp_024_person_23	Mr. Brooks		dvp_0383
+dvp_024_person_24	George Wallace	Q313776	
+dvp_024_person_25	Peter		dvp_0609
+dvp_024_person_26	Jack		dvp_0610
+dvp_024_person_27	Aunt Muriel [F. Bradbury]		dvp_0612
+dvp_024_person_28	Lyndon B. Johnson	Q9640	
+dvp_024_person_29	Walter Cronkite	Q31073	
+dvp_024_person_30	“Cookie” [Thi-Bé Lieu]		dvp_0613
+dvp_024_person_31	Guy		dvp_0614
+dvp_024_person_32	[Alan R.] “Al” McKee [Class of 1964]		dvp_0615
+dvp_024_person_33	Al McKee		dvp_0615
+dvp_024_person_34	Brooks		dvp_0383
+dvp_024_person_35	Jo Stafford	Q254748	
+dvp_024_person_36	Pete Seeger	Q244441	
+dvp_024_person_37	Alan		dvp_0615
+dvp_024_person_38	Ngo Dinh Diem	Q192502	
+dvp_024_person_39	Binh Long		
+dvp_024_person_40	“Cookie,” Miss B		dvp_0613
+dvp_024_person_41	Miss B		dvp_0613
+dvp_024_person_42	Cookie		dvp_0613
+dvp_024_person_43	Brooks		dvp_0383
+dvp_024_person_44	Brooks		dvp_0383
+dvp_024_person_45	Thi-Bé		dvp_0613
+dvp_024_person_46	Miss B		dvp_0613
+dvp_024_person_47	[Edward G.] “Ed” Miller		dvp_0039
+dvp_024_person_48	Professor Miller		dvp_0039
+dvp_024_person_49	Professor Miller		dvp_0039
+dvp_024_person_50	Ngo Dinh Diem	Q192502	
+dvp_024_person_51	Brooks		dvp_0383
+dvp_024_person_52	Lyndon B. Johnson	Q9640	
+dvp_024_person_53	Lyndon B. Johnson	Q9640	
+dvp_024_person_54	Frank		dvp_0616
+dvp_024_person_55	Jack Welch	Q355314	
+dvp_024_person_56	Professor Miller		dvp_0039
+dvp_024_person_57	Oliver Stone	Q179497	
+dvp_024_person_58	John Wayne	Q40531	
+dvp_024_person_59	Adrian Cronauer	Q372783	
+dvp_024_person_60	Al McKee		dvp_0615
+dvp_024_person_61	Professor Edward Miller		dvp_0039
+dvp_024_person_62	Professor Edward Miller		dvp_0039
+dvp_024_person_63	[Philip C.] “Phil” Schaefer [Class of 1964]		dvp_0038
+dvp_024_person_64	Edward Miller		dvp_0039
+dvp_024_person_65	Ngo Dinh Diem	Q192502	
+dvp_024_person_66	Ho Chi Minh	Q36014	
