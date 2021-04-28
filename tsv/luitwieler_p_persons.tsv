@@ -1,21 +1,21 @@
-id	persName
-dvp_041_person_0	Angela Noppenberger
-dvp_041_person_1	Peter Luitwieler
-dvp_041_person_2	Mr. Luitwieler
-dvp_041_person_3	Peter Edward Luitwieler
-dvp_041_person_4	Mr. Luitwieler
-dvp_041_person_5	Clarence Seward Luitwieler [Jr.]
-dvp_041_person_6	Sarah Louise Holcomb Luitwieler
-dvp_041_person_7	[Harold H.] “Hal”—H-a-l— Weiler
-dvp_041_person_8	[David E.] “Dave” Larson
-dvp_041_person_9	[Robert M.] “Bob” Freeman
-dvp_041_person_10	Bob Freeman
-dvp_041_person_11	Muhammad Ali
-dvp_041_person_12	Cassius Clay
-dvp_041_person_13	Capt. Paris
-dvp_041_person_14	John [M. D.] Shalikashvili
-dvp_041_person_15	John Shalikashvili
-dvp_041_person_16	[President William J. “Bill”] Clinton
-dvp_041_person_17	Major Shalikashvili
-dvp_041_person_18	Hillary [Rodham Clinton]
-dvp_041_person_19	Hillary Clinton
+id	persName	QID	dvp_id
+dvp_041_person_0	Angela Noppenberger		dvp_0262
+dvp_041_person_1	Peter Luitwieler		dvp_0601
+dvp_041_person_2	Mr. Luitwieler		dvp_0601
+dvp_041_person_3	Peter Edward Luitwieler		dvp_0601
+dvp_041_person_4	Mr. Luitwieler		dvp_0601
+dvp_041_person_5	Clarence Seward Luitwieler [Jr.]		dvp_0602
+dvp_041_person_6	Sarah Louise Holcomb Luitwieler		dvp_0603
+dvp_041_person_7	[Harold H.] “Hal”—H-a-l— Weiler		dvp_0604
+dvp_041_person_8	[David E.] “Dave” Larson		dvp_0605
+dvp_041_person_9	Robert M. Freeman	Q16241768	
+dvp_041_person_10	Robert M. Freeman	Q16241768	
+dvp_041_person_11	Muhammad Ali	Q36107	
+dvp_041_person_12	Muhammad Ali	Q36107	
+dvp_041_person_13	Capt. Paris		dvp_0606
+dvp_041_person_14	John Shalikashvili	Q471428	
+dvp_041_person_15	John Shalikashvili	Q471428	
+dvp_041_person_16	Bill Clinton	Q1124	
+dvp_041_person_17	John Shalikashvili	Q471428	
+dvp_041_person_18	Hillary Clinton	Q6294	
+dvp_041_person_19	Hillary Clinton	Q6294	

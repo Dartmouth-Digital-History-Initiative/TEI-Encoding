@@ -1,62 +1,62 @@
-id	persName
-dvp_022_person_0	Riley Carbone
-dvp_022_person_1	David [P.] Barton
-dvp_022_person_2	President [John S.] Dickey [Class of 1929]
-dvp_022_person_3	[Edward G.] “Red” Hoehn [Jr.]
-dvp_022_person_4	Adlai [E.] Stevenson [II]
-dvp_022_person_5	[President Dwight D.] Eisenhower
-dvp_022_person_6	Eisenhower
-dvp_022_person_7	Eisenhower
-dvp_022_person_8	Eisenhower
-dvp_022_person_9	Eisenhower
-dvp_022_person_10	Eisenhower
-dvp_022_person_11	President [John F.] Kennedy
-dvp_022_person_12	[the Rev. George H.] Kalbfleisch
-dvp_022_person_13	Santiago Álvarez [Román]
-dvp_022_person_14	President Kennedy
-dvp_022_person_15	[President Lyndon B.] Johnson
-dvp_022_person_16	Kennedy
-dvp_022_person_17	Johnson
-dvp_022_person_18	Johnson
-dvp_022_person_19	Johnson
-dvp_022_person_20	Kennedy
-dvp_022_person_21	Kennedy
-dvp_022_person_22	Kennedy
-dvp_022_person_23	Malcolm X
-dvp_022_person_24	Malcolm X
-dvp_022_person_25	Malcolm X
-dvp_022_person_26	Kennedy
-dvp_022_person_27	Malcolm X
-dvp_022_person_28	[the Rev. Dr.] Martin Luther King [Jr.]
-dvp_022_person_29	Robert [F.] Kennedy
-dvp_022_person_30	[William S.] Bill Smoyer [Class of 1967]
-dvp_022_person_31	Martin Luther King
-dvp_022_person_32	Robert Kennedy
-dvp_022_person_33	Martin Luther King
-dvp_022_person_34	JFK
-dvp_022_person_35	Kennedy
-dvp_022_person_36	Robert Kennedy
-dvp_022_person_37	Kennedy
-dvp_022_person_38	Robert Kennedy
-dvp_022_person_39	Robert Kennedy
-dvp_022_person_40	Bill Smoyer
-dvp_022_person_41	Kennedy brothers
-dvp_022_person_42	Malcolm X
-dvp_022_person_43	Martin Luther King
-dvp_022_person_44	Robert Kennedy
-dvp_022_person_45	Robert Kennedy
-dvp_022_person_46	Jane [Couser] Barton
-dvp_022_person_47	Lee [H.] Hamilton
-dvp_022_person_48	Chairman Lee [H.] Hamilton
-dvp_022_person_49	Congressman Hamilton
-dvp_022_person_50	Congressman Hamilton
-dvp_022_person_51	Congressman Hamilton
-dvp_022_person_52	Congressman Hamilton
-dvp_022_person_53	Congressman Hamilton
-dvp_022_person_54	Congressman Hamilton
-dvp_022_person_55	Congressman Hamilton
-dvp_022_person_56	congressman Hamilton
-dvp_022_person_57	Senator [John F.] Kerry
-dvp_022_person_58	Mr. [Henry A.] Kissinger
-dvp_022_person_59	[Angus S.] “Gus” King [Jr., Class of 1966]
-dvp_022_person_60	[William S.] “Bill” Smoyer [Class of 1967]
+id	persName	QID	dvp_id
+dvp_022_person_0	Riley Carbone		dvp_0076
+dvp_022_person_1	David [P.] Barton		dvp_0598
+dvp_022_person_2	John Sloan Dickey	Q3182471	
+dvp_022_person_3	[Edward G.] “Red” Hoehn [Jr.]		dvp_599
+dvp_022_person_4	Adlai Stevenson II	Q311719	
+dvp_022_person_5	Dwight D. Eisenhower	Q9916	
+dvp_022_person_6	Dwight D. Eisenhower	Q9916	
+dvp_022_person_7	Dwight D. Eisenhower	Q9916	
+dvp_022_person_8	Dwight D. Eisenhower	Q9916	
+dvp_022_person_9	Dwight D. Eisenhower	Q9916	
+dvp_022_person_10	Dwight D. Eisenhower	Q9916	
+dvp_022_person_11	John F. Kennedy	Q9696	
+dvp_022_person_12	[the Rev. George H.] Kalbfleisch		dvp_0440
+dvp_022_person_13	Santiago Álvarez	Q1484780	
+dvp_022_person_14	John F. Kennedy	Q9696	
+dvp_022_person_15	Lyndon B. Johnson	Q9640	
+dvp_022_person_16	John F. Kennedy	Q9696	
+dvp_022_person_17	Lyndon B. Johnson	Q9640	
+dvp_022_person_18	Lyndon B. Johnson	Q9640	
+dvp_022_person_19	Lyndon B. Johnson	Q9640	
+dvp_022_person_20	John F. Kennedy	Q9696	
+dvp_022_person_21	John F. Kennedy	Q9696	
+dvp_022_person_22	John F. Kennedy	Q9696	
+dvp_022_person_23	Malcolm X	Q43303	
+dvp_022_person_24	Malcolm X	Q43303	
+dvp_022_person_25	Malcolm X	Q43303	
+dvp_022_person_26	John F. Kennedy	Q9696	
+dvp_022_person_27	Malcolm X	Q43303	
+dvp_022_person_28	Martin Luther King Jr.	Q8027	
+dvp_022_person_29	Robert F. Kennedy	Q25310	
+dvp_022_person_30	[William S.] Bill Smoyer [Class of 1967]		dvp_0081
+dvp_022_person_31	Martin Luther King Jr.	Q8027	
+dvp_022_person_32	Robert F. Kennedy	Q25310	
+dvp_022_person_33	Martin Luther King Jr.	Q8027	
+dvp_022_person_34	John F. Kennedy	Q9696	
+dvp_022_person_35	John F. Kennedy	Q9696	
+dvp_022_person_36	Robert F. Kennedy	Q25310	
+dvp_022_person_37	John F. Kennedy	Q9696	
+dvp_022_person_38	Robert F. Kennedy	Q25310	
+dvp_022_person_39	Robert F. Kennedy	Q25310	
+dvp_022_person_40	Bill Smoyer		dvp_0081
+dvp_022_person_41	Kennedy family	Q34821	
+dvp_022_person_42	Malcolm X	Q43303	
+dvp_022_person_43	Martin Luther King Jr.	Q8027	
+dvp_022_person_44	Robert F. Kennedy	Q25310	
+dvp_022_person_45	Robert F. Kennedy	Q25310	
+dvp_022_person_46	Jane [Couser] Barton		dvp_0600
+dvp_022_person_47	Lee H. Hamilton	Q984174	
+dvp_022_person_48	Lee H. Hamilton	Q984174	
+dvp_022_person_49	Lee H. Hamilton	Q984174	
+dvp_022_person_50	Lee H. Hamilton	Q984174	
+dvp_022_person_51	Lee H. Hamilton	Q984174	
+dvp_022_person_52	Lee H. Hamilton	Q984174	
+dvp_022_person_53	Lee H. Hamilton	Q984174	
+dvp_022_person_54	Lee H. Hamilton	Q984174	
+dvp_022_person_55	Lee H. Hamilton	Q984174	
+dvp_022_person_56	Lee H. Hamilton	Q984174	
+dvp_022_person_57	John Kerry	Q22316	
+dvp_022_person_58	Henry Kissinger	Q66107	
+dvp_022_person_59	Angus King	Q544464	
+dvp_022_person_60	[William S.] “Bill” Smoyer [Class of 1967]		dvp_0081
