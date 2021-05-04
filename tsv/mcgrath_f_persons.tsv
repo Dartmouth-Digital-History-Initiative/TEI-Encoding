@@ -1,16 +1,16 @@
-id	persName
-dvp_043_person_0	Emily Everhard
-dvp_043_person_1	Francis [C.] “Bud” McGrath
-dvp_043_person_2	Dean [Thaddeus] Seymour
-dvp_043_person_3	[President] Lyndon [B.] Johnson
-dvp_043_person_4	Lee Harvey Oswald
-dvp_043_person_5	[President Dwight D.] Eisenhower
-dvp_043_person_6	Professor [Edward G.] Miller’s
-dvp_043_person_7	[President Richard M.] Nixon
-dvp_043_person_8	[Senator Joseph R.] McCarthy
-dvp_043_person_9	Kennedy
-dvp_043_person_10	[Edward M. “Ted”] “Teddy” Kennedy
-dvp_043_person_11	girl [Mary Jo Kopechne]
-dvp_043_person_12	Lyndon Johnson
-dvp_043_person_13	Ed Miller’s
-dvp_043_person_14	Professor Miller
+id	persName	QID	dvp_id
+dvp_043_person_0	Emily Everhard		dvp_0558
+dvp_043_person_1	Francis [C.] “Bud” McGrath		dvp_0391
+dvp_043_person_2	Thaddeus Seymour	Q19594809	
+dvp_043_person_3	Lyndon B. Johnson	Q9640	
+dvp_043_person_4	Lee Harvey Oswald	Q48745	
+dvp_043_person_5	Dwight D. Eisenhower	Q9916	
+dvp_043_person_6	Professor [Edward G.] Miller’s		dvp_0039
+dvp_043_person_7	Richard Nixon	Q9588	
+dvp_043_person_8	Joseph McCarthy	Q189197	
+dvp_043_person_9	John F. Kennedy	Q9696	
+dvp_043_person_10	Ted Kennedy	Q134549	
+dvp_043_person_11	Mary Jo Kopechne	Q4959515	
+dvp_043_person_12	Lyndon B. Johnson	Q9640	
+dvp_043_person_13	Ed Miller’s		dvp_0039		
+dvp_043_person_14	Professor Miller		dvp_0039		
