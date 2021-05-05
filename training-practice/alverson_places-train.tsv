@@ -1,15 +1,17 @@
-id	placeName
-dvp_001_place_0	Rauner Special Collections Library
-dvp_001_place_1	"Washington, D.C."
-dvp_001_place_2	"Washington, D.C."
-dvp_001_place_3	Anacostia
-dvp_001_place_4	"Washington, D.C."
-dvp_001_place_5	Anacostia River
-dvp_001_place_6	Washington Navy Yard
-dvp_001_place_7	United States of America
-dvp_001_place_8	Pennsylvania
-dvp_001_place_9	Erie
-dvp_001_place_10	Virginia
-dvp_001_place_11	North Carolina
-dvp_001_place_12	"Washington, D.C."
-dvp_001_place_13	"Washington, D.C."
+id	placeName	coordinate location	Qid
+dvp_001_place_0	Rauner Special Collections Library	43.70447,-72.28817	Q98544730
+dvp_001_place_1	Washington, D.C.	38.895,-77.036666666667	Q61
+dvp_001_place_2	Washington, D.C.	38.895,-77.036666666667	Q61
+dvp_001_place_3	Anacostia River	38.9425,-76.9439	Q483607
+		38.8536,-77.0203	
+dvp_001_place_4	Washington, D.C.	38.895,-77.036666666667	Q61
+dvp_001_place_5	Anacostia River	38.9425,-76.9439	Q483607
+		38.8536,-77.0203	
+dvp_001_place_6	Washington Navy Yard	38.87388888888889,-76.995	Q1637241
+dvp_001_place_7	United States of America	39.828175,-98.5795	Q30
+dvp_001_place_8	Pennsylvania	41,-77.5	Q1400
+dvp_001_place_9	Lake Erie	42.149115,-81.24101	Q5492
+dvp_001_place_10	Virginia	37.5,-79	Q1370
+dvp_001_place_11	North Carolina	35.5,-80	Q1454
+dvp_001_place_12	Washington, D.C.	38.895,-77.036666666667	Q61
+dvp_001_place_13	Washington, D.C.	38.895,-77.036666666667	Q61

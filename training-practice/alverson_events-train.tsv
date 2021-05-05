@@ -1,14 +1,14 @@
-id	name
-dvp_001_event_0	American Civil War
-dvp_001_event_1	World War I
-dvp_001_event_2	World War I
-dvp_001_event_3	American Civil War
-dvp_001_event_4	World War I
-dvp_001_event_5	Sputnik 1
-dvp_001_event_6	World War I
-dvp_001_event_7	World War II
-dvp_001_event_8	Sputnik 1
-dvp_001_event_9	Vietnam War
-dvp_001_event_10	Cuban Missile Crisis
-dvp_001_event_11	Tet Offensive
-dvp_001_event_12	assassination of Martin Luther King Jr.
+id	name	point in time	QID
+dvp_001_event_0	American Civil War	1861-04-12T00:00:00Z	Q8676
+dvp_001_event_1	World War I		Q361
+dvp_001_event_2	World War I		Q361
+dvp_001_event_3	American Civil War	1861-04-12T00:00:00Z	Q8676
+dvp_001_event_4	World War I		Q361
+dvp_001_event_5	Sputnik		Q1393751
+dvp_001_event_6	World War I		Q361
+dvp_001_event_7	World War II		Q362
+dvp_001_event_8	Sputnik		Q1393751
+dvp_001_event_9	Vietnam War		Q8740
+dvp_001_event_10	Cuban Missile Crisis	1962-01-01T00:00:00Z	Q128160
+dvp_001_event_11	Tet Offensive	1968-09-23T00:00:00Z	Q82542
+dvp_001_event_12	assassination of Martin Luther King Jr.	1968-04-04T00:00:00Z	Q757963
