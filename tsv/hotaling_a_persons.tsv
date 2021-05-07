@@ -1,42 +1,42 @@
-id	persName
-dvp_009_person_0	Paul F. Danyow
-dvp_009_person_1	Dr. Andy Hotaling [pronounced hoe-TAIL-ing], Dartmouth Class of 1968
-dvp_009_person_2	Dr. Hotaling
-dvp_009_person_3	Jean [P.]
-dvp_009_person_4	[William E.] “Bill.”
-dvp_009_person_5	[James W.] “Jamie” Newton [Class of 1968]
-dvp_009_person_6	Jamie
-dvp_009_person_7	[Secretary of State Henry A.] Kissinger
-dvp_009_person_8	[President Richard M.] Nixon
-dvp_009_person_9	Nixon
-dvp_009_person_10	Nixon
-dvp_009_person_11	Kissinger
-dvp_009_person_12	[President Lyndon B.] Johnson
-dvp_009_person_13	[Representative Randall H. “Duke”] “Randy” Cunningham
-dvp_009_person_14	[William P.] “Willy [Irish]” Driscoll
-dvp_009_person_15	Nixon
-dvp_009_person_16	Kissinger
-dvp_009_person_17	Nixon
-dvp_009_person_18	Cunningham’s
-dvp_009_person_19	Cunningham
-dvp_009_person_20	Driscoll
-dvp_009_person_21	Nixon
-dvp_009_person_22	Cunningham
-dvp_009_person_23	Driscoll
-dvp_009_person_24	[Curtis R.] “Curt” Dosé
-dvp_009_person_25	Cunningham
-dvp_009_person_26	Driscoll
-dvp_009_person_27	Cunningham
-dvp_009_person_28	Johnson
-dvp_009_person_29	Nixon
-dvp_009_person_30	Johnson
-dvp_009_person_31	Johnson
-dvp_009_person_32	Johnson
-dvp_009_person_33	[President Dwight D.] Eisenhower
-dvp_009_person_34	[John F.] Kennedy
-dvp_009_person_35	Johnson
-dvp_009_person_36	Nixon
-dvp_009_person_37	[Douglas B.] “Pete” Peterson
-dvp_009_person_38	Pete Peterson
-dvp_009_person_39	Pete Peterson
-dvp_009_person_40	Dr. Hotaling
+id	persName	QID	dvp_id
+dvp_009_person_0	Paul F. Danyow		dvp_0033
+dvp_009_person_1	Dr. Andy Hotaling [pronounced hoe-TAIL-ing], Dartmouth Class of 1968		dvp_0560
+dvp_009_person_2	Dr. Hotaling		dvp_0560
+dvp_009_person_3	Jean [P.]		dvp_0561
+dvp_009_person_4	[William E.] “Bill.”		dvp_0562
+dvp_009_person_5	[James W.] “Jamie” Newton [Class of 1968]		dvp_0563
+dvp_009_person_6	Jamie		dvp_0563
+dvp_009_person_7	Henry Kissinger	Q66107	
+dvp_009_person_8	Richard Nixon	Q9588	
+dvp_009_person_9	Richard Nixon	Q9588	
+dvp_009_person_10	Richard Nixon	Q9588	
+dvp_009_person_11	Henry Kissinger	Q66107	
+dvp_009_person_12	Lyndon B. Johnson	Q9640	
+dvp_009_person_13	Duke Cunningham	Q946106	
+dvp_009_person_14	William P. Driscoll	Q8016451	
+dvp_009_person_15	Richard Nixon	Q9588	
+dvp_009_person_16	Henry Kissinger	Q66107	
+dvp_009_person_17	Richard Nixon	Q9588	
+dvp_009_person_18	Duke Cunningham	Q946106	
+dvp_009_person_19	Duke Cunningham	Q946106	
+dvp_009_person_20	William P. Driscoll	Q8016451	
+dvp_009_person_21	Richard Nixon	Q9588	
+dvp_009_person_22	Duke Cunningham	Q946106	
+dvp_009_person_23	William P. Driscoll	Q8016451	
+dvp_009_person_24	[Curtis R.] “Curt” Dosé		dvp_0564
+dvp_009_person_25	Duke Cunningham	Q946106	
+dvp_009_person_26	William P. Driscoll	Q8016451	
+dvp_009_person_27	Duke Cunningham	Q946106	
+dvp_009_person_28	Lyndon B. Johnson	Q9640	
+dvp_009_person_29	Richard Nixon	Q9588	
+dvp_009_person_30	Lyndon B. Johnson	Q9640	
+dvp_009_person_31	Lyndon B. Johnson	Q9640	
+dvp_009_person_32	Lyndon B. Johnson	Q9640	
+dvp_009_person_33	Dwight D. Eisenhower	Q9916	
+dvp_009_person_34	John F. Kennedy	Q9696	
+dvp_009_person_35	Lyndon B. Johnson	Q9640	
+dvp_009_person_36	Richard Nixon	Q9588	
+dvp_009_person_37	Pete Peterson	Q532342	
+dvp_009_person_38	Pete Peterson	Q532342	
+dvp_009_person_39	Pete Peterson	Q532342	
+dvp_009_person_40	Dr. Hotaling		dvp_0560
