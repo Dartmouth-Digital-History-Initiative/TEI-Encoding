@@ -1,20 +1,20 @@
-id	persName
-dvp_034_person_0	Hannah Markowitz
-dvp_034_person_1	[Alan C.] “Al” Keiller
-dvp_034_person_2	[President Lyndon B.] Johnson’s
-dvp_034_person_3	Admiral [Hyman G.] Rickover
-dvp_034_person_4	Admiral Rickover
-dvp_034_person_5	Rickover
-dvp_034_person_6	Hyman Rickover
-dvp_034_person_7	Rickover
-dvp_034_person_8	Rickover’s
-dvp_034_person_9	Rickover’s
-dvp_034_person_10	Rickover
-dvp_034_person_11	Rickover
-dvp_034_person_12	Rickover
-dvp_034_person_13	Rickover
-dvp_034_person_14	[President Donald J.] Trump
-dvp_034_person_15	Secretary [of State] [John F.] Kerry
-dvp_034_person_16	Rickover
-dvp_034_person_17	Rickover
-dvp_034_person_18	[President] George [W.] Bush
+id	persName	QID	dvp_id
+dvp_034_person_0	Hannah Markowitz		dvp_0257
+dvp_034_person_1	[Alan C.] “Al” Keiller		dvp_0619
+dvp_034_person_2	Lyndon B. Johnson	Q9640	
+dvp_034_person_3	Hyman G. Rickover	Q541637	
+dvp_034_person_4	Hyman G. Rickover	Q541637	
+dvp_034_person_5	Hyman G. Rickover	Q541637	
+dvp_034_person_6	Hyman G. Rickover	Q541637	
+dvp_034_person_7	Hyman G. Rickover	Q541637	
+dvp_034_person_8	Hyman G. Rickover	Q541637	
+dvp_034_person_9	Hyman G. Rickover	Q541637	
+dvp_034_person_10	Hyman G. Rickover	Q541637	
+dvp_034_person_11	Hyman G. Rickover	Q541637	
+dvp_034_person_12	Hyman G. Rickover	Q541637	
+dvp_034_person_13	Hyman G. Rickover	Q541637	
+dvp_034_person_14	Donald Trump	Q22686	
+dvp_034_person_15	John Kerry	Q22316	
+dvp_034_person_16	Hyman G. Rickover	Q541637	
+dvp_034_person_17	Hyman G. Rickover	Q541637	
+dvp_034_person_18	George W. Bush	Q207	
