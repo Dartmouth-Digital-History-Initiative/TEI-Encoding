@@ -1,10 +1,10 @@
-id	orgName	QID	dip_id
+id	orgName	QID	dvp_id
 dvp_037_org_0	St. Olaf College	Q1515763	
 dvp_037_org_1	Reserve Officers' Training Corps	Q489983	
 dvp_037_org_2	Air Force Reserve Officer Training Corp	Q101243281	
-dvp_037_org_3	air force	Q61883	
+dvp_037_org_3	United States Airforce	Q11223	
 dvp_037_org_4	Soviet Union	Q15180	
-dvp_037_org_5	air force	Q61883	
+dvp_037_org_5	United States Airforce	Q11223	
 dvp_037_org_6	University of Chicago	Q131252	
 dvp_037_org_7	Mayo Clinic	Q1130172	
 dvp_037_org_8	St. Olaf College	Q1515763	
@@ -16,7 +16,7 @@ dvp_037_org_13	Reserve Officers' Training Corps	Q489983
 dvp_037_org_14	St. Olaf College	Q1515763	
 dvp_037_org_15	Air Force Reserve Officer Training Corp	Q101243281	
 dvp_037_org_16	Air Force Reserve Officer Training Corp	Q101243281	
-dvp_037_org_17	air force	Q61883	
+dvp_037_org_17	United States Airforce	Q11223	
 dvp_037_org_18	Reserve Officers' Training Corps	Q489983	
 dvp_037_org_19	Reserve Officers' Training Corps	Q489983	
 dvp_037_org_20	Reserve Officers' Training Corps	Q489983	
@@ -34,9 +34,9 @@ dvp_037_org_31	St. Olaf College	Q1515763
 dvp_037_org_32	Reserve Officers' Training Corps	Q489983	
 dvp_037_org_33	St. Olaf College	Q1515763	
 dvp_037_org_34	St. Olaf College	Q1515763	
-dvp_037_org_35	air force	Q61883	
-dvp_037_org_36	air force	Q61883	
-dvp_037_org_37	air force	Q61883	
+dvp_037_org_35	United States Airforce	Q11223	
+dvp_037_org_36	United States Airforce	Q11223	
+dvp_037_org_37	United States Airforce	Q11223	
 dvp_037_org_38	Dartmouth College	Q49116	
 dvp_037_org_39	United States Congress	Q11268	
 dvp_037_org_40	University of Chicago	Q131252	
@@ -44,16 +44,16 @@ dvp_037_org_41	University of Minnesota	Q238101
 dvp_037_org_42	University of Chicago	Q131252	
 dvp_037_org_43	University of Chicago	Q131252	
 dvp_037_org_44	University of Minnesota	Q238101	
-dvp_037_org_45	The Iranian Prehistoric Project: New problems arise as more is learned of the first attempts at food production and settled village life	Q80947997	
+dvp_037_org_45	The Iranian Prehistoric Project		dvp_0635
 dvp_037_org_46	Oregon State University	Q861888	
 dvp_037_org_47	University of Tehran	Q737835	
-dvp_037_org_48	air force	Q61883	
+dvp_037_org_48	United States Airforce	Q11223	
 dvp_037_org_49	Aerojet Rocketdyne	Q16970526	
-dvp_037_org_50	air force	Q61883	
+dvp_037_org_50	United States Airforce	Q11223	
 dvp_037_org_51	University of California, Los Angeles	Q174710	
 dvp_037_org_52	University of California, Los Angeles	Q174710	
 dvp_037_org_53	University of California, Los Angeles	Q174710	
-dvp_037_org_54	air force	Q61883	
+dvp_037_org_54	United States Airforce	Q11223	
 dvp_037_org_55	St. Olaf College	Q1515763	
 dvp_037_org_56	University of California, Los Angeles	Q174710	
 dvp_037_org_57	University of California, Los Angeles	Q174710	
@@ -129,7 +129,7 @@ dvp_037_org_126	Students for a Democratic Society	Q2250103
 dvp_037_org_127	Students for a Democratic Society	Q2250103	
 dvp_037_org_128	Reserve Officers' Training Corps	Q489983	
 dvp_037_org_129	Reserve Officers' Training Corps	Q489983	
-dvp_037_org_130	air force	Q61883	
+dvp_037_org_130	United States Airforce	Q11223	
 dvp_037_org_131	Reserve Officers' Training Corps	Q489983	
 dvp_037_org_132	Reserve Officers' Training Corps	Q489983	
 dvp_037_org_133	Reserve Officers' Training Corps	Q489983	
