@@ -1,0 +1,2650 @@
+<?xml-model href="../schemas/ddhi.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="dvp_049">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Transcript of an Interview with Richard Parker</title>
+      </titleStmt>
+      <publicationStmt>
+        <authority>
+          <orgName>Dartmouth Digital History Initiative</orgName>
+        </authority>
+        <date>
+          <!--  Date of publication, e.g. for citation purposes  -->
+        </date>
+        <idno type="DDHI">dvp_049</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <recordingStmt>
+          <recording xml:id="primary_recording" type="audio" dur-iso="9">
+            <!-- https://www.digi.com/resources/documentation/digidocs/90001437-13/reference/r_iso_8601_duration_format.htm -->
+            <media url="" mimeType="MIMEaudio/wav"/>
+          </recording>
+        </recordingStmt>
+        <bibl xml:id="primary_transcription">
+          <respStmt>
+            <persName>Mimi Eisenberg</persName>
+            <orgName>Wordcraft</orgName>
+            <resp ref="http://id.loc.gov/vocabulary/relators/trc.html">Transcriber</resp>
+          </respStmt>
+          <ref target="path_to_file">Primary transcription</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>The Dartmouth Vietnam Project</p>
+      </projectDesc>
+      <appInfo>
+        <application ident="DDHIEncoder" version="1.0">
+          <desc>Conversion from Word docx to TEI xml.</desc>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en-us">English</language>
+      </langUsage>
+      <particDesc>
+        <person xml:id="PARKER"/>
+        <person xml:id="HARRISON"/>
+      </particDesc>
+      <settingDesc>
+        <setting>
+          <date when-iso="2015-05-18"/>
+          <locale/>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <u who="HARRISON">This is <persName ref="#dvp_049_person_0">Tim Harrison</persName>. I’m on the phone with <persName ref="#dvp_049_person_1">Professor Richard Parker</persName>, a <orgName ref="#dvp_049_org_0">Dartmouth ’68</orgName>. Today is <date when="2015-05-18">May 18th, 2015</date>, and it’s just after 10 a.m. <persName ref="#dvp_049_person_2">Professor Parker</persName>, thank you for speaking with me. Can you tell me where were you born and what were your parents’ names?</u>
+      <u who="PARKER"><placeName ref="#dvp_049_place_0">Los Angeles, California</placeName>. My mother’s name was <persName ref="#dvp_049_person_3">Margaret Lambertson [Parker]</persName>. My father’s name was <persName ref="#dvp_049_person_4">[the Rev. Dr.] Richard Parker</persName>.</u>
+      <u who="HARRISON">And what day were you born?</u>
+      <u who="PARKER"><date when="1946-11-05">November 5th, 1946</date>, the day that <persName ref="#dvp_049_person_5">Richard [M.] Nixon</persName> and <persName ref="#dvp_049_person_6">John F. Kennedy</persName> and <persName ref="#dvp_049_person_7">[U.S. Senator Joseph R.] “Joe” McCarthy</persName> were all elected to the <orgName ref="#dvp_049_org_1">U.S. Congress</orgName>.</u>
+      <u who="HARRISON">Okay. And can you tell me what you remember from growing up? What was it like growing up in <placeName ref="#dvp_049_place_1">Los Angeles</placeName>?</u>
+      <u who="PARKER">So what I remember about growing up was that it was a lovely place to grow up. I was three blocks from the Pacific Ocean, and I grew up in a town that had neither poor nor rich people in it, and I thought that everything about <placeName ref="#dvp_049_place_2">America</placeName> was a reflection of that constrained middle class, which is that I didn’t imagine that there were poor or rich people in <placeName ref="#dvp_049_place_3">America</placeName> beyond southern <placeName ref="#dvp_049_place_4">California</placeName> because I thought southern <placeName ref="#dvp_049_place_5">California</placeName> was representative of the nation as a whole. So when I came to <orgName ref="#dvp_049_org_2">Dartmouth</orgName> in <date when="1964">1964</date>, I came with no real purpose. I came because one of my teachers was a <orgName ref="#dvp_049_org_3">Dartmouth</orgName> graduate, a guy named <persName ref="#dvp_049_person_8">John [H.] Sigler [Class of 1953]</persName>. And <persName ref="#dvp_049_person_9">Sigler</persName> was so outstanding that when I got into line with <persName ref="#dvp_049_person_10">John Sloan Dickey [Class of 1929]</persName>, who was the president of <orgName ref="#dvp_049_org_4">Dartmouth</orgName> in <date when="1964">1964</date>, when he asked me, “How did you come to <orgName ref="#dvp_049_org_5">Dartmouth</orgName>?” and I mentioned <persName ref="#dvp_049_person_11">Sigler</persName>’s name, he went rhapsodic for about four or five minutes because <persName ref="#dvp_049_person_12">Sigler</persName> 10 or 15 years earlier had been class valedictorian and one of the best men ever to graduate from <orgName ref="#dvp_049_org_6">Dartmouth</orgName>. So that’s how I got recruited to <orgName ref="#dvp_049_org_7">Dartmouth</orgName>.And my confusion was, when I arrived at <placeName ref="#dvp_049_place_6">Dartmouth</placeName>, was I didn’t realize that it was an all-male school, nor did I realize how cold it was. So I’d come from the Southwest to the Northeast, and when I got—I had [chuckles]—so <orgName ref="#dvp_049_org_8">Dartmouth</orgName> was wonderful. They put me with a Panamanian roommate, so they thought temperate-climate people ought to be together.So what I remember about my first year at <orgName ref="#dvp_049_org_9">Dartmouth</orgName> was that I crossed <placeName ref="#dvp_049_place_7">the Green</placeName> in my freshman year, and the snow was higher than I was as I walked across <placeName ref="#dvp_049_place_8">the Green</placeName> to <persName ref="#dvp_049_person_13">John [G.] Kemeny</persName>’s computer class. It was a remarkable freshman year. And I think about two-thirds of my <placeName ref="#dvp_049_place_9">California</placeName> classmates dropped out after that freshman year. They went to <orgName ref="#dvp_049_org_10">Stanford [University]</orgName>, the went to <orgName ref="#dvp_049_org_11">[University of California,] Berkeley</orgName>, they went to <orgName ref="#dvp_049_org_12">UCLA [University of California, Los Angeles]</orgName>, but they got the hell out of <placeName ref="#dvp_049_place_10">Hanover, New Hampshire</placeName>.So I stayed on. I became friends with <persName ref="#dvp_049_person_14">[Robert B.] Reich</persName>, <persName ref="#dvp_049_person_15">John [M.] Isaacson</persName>, <persName ref="#dvp_049_person_16">[Thomas J.] “Tom” Brewer</persName> [all Class of 1968].Do you want this or is this answering your question?</u>
+      <u who="HARRISON">Absolutely. Oh, yes. Yes, please con- —yes, absolutely.</u>
+      <u who="PARKER">Oh, okay. So the thing that I loved about <orgName ref="#dvp_049_org_13">Dartmouth</orgName> was that it was very rich, and I was very poor. My father was a clergyman, a minister, and <orgName ref="#dvp_049_org_14">Dartmouth</orgName> cost much more than my father made, and I had two younger brothers behind me, so I was very fretful about what the cost of college looked like. And what I know is that I signed a loan in my freshman year, what’s called an NDEA loan, a National Defense Education Act loan, in which—this was very weird, <persName ref="#dvp_049_person_17">Tim</persName>. You don’t understand this. I had to sign a clause that said I would not participate in the overthrow or the advocacy of the overthrow of the government of the <placeName ref="#dvp_049_place_11">United States</placeName> by force or violence. It seems to me this is so weird in the context of the 21st century, I can’t tell you. But it was very relevant to the people who were worried about who was admitted to <orgName ref="#dvp_049_org_15">Dartmouth</orgName> in the 1960s. So I had to swear allegiance to the state, which was a kind of unusual thing to do if you were swearing allegiance to be intellectually serious, but there it was.</u>
+      <u who="HARRISON">Can you tell me what that would have made you feel in <date when="1964">1964</date>? Because you did have the experience of growing up in the 1950s, and I do think that’s when you came of age.</u>
+      <u who="PARKER">Sure.</u>
+      <u who="HARRISON">Were there mixed emotions for you about this clause?</u>
+      <u who="PARKER">Of course there were mixed emotions, because, I mean, I was—and I thought to myself, Why should I come to a university or a college where I have to confess my political beliefs and reassure the funder that my political beliefs wouldn’t upset him or her? I mean, that was awful to me.</u>
+      <u who="HARRISON">Mm-hm. Did you feel, on the flip side of that, some of the anxieties that many people felt, growing up at the time that you did, the sort of Cold War anxiety?</u>
+      <u who="PARKER">Such as, what?</u>
+      <u who="HARRISON">Well, the sort of Cold War anxieties about spreading communism in Europe or a potential nuclear war. Was there anxiety that you can remember in your early life?</u>
+      <u who="PARKER">No, actually I don’t. I don’t remember anxiety about it because it seemed to remote and so ridiculous, fundamentally, that the—</u>
+      <u who="HARRISON">Explain that to me.</u>
+      <u who="PARKER">—idea that I would go from <placeName ref="#dvp_049_place_12">Los Angeles</placeName> to <placeName ref="#dvp_049_place_13">New Hampshire</placeName> and think about overthrowing the <orgName ref="#dvp_049_org_16">U.S. government</orgName> by force or violence is just ridiculous, ridiculous.</u>
+      <u who="HARRISON">Yeah.</u>
+      <u who="PARKER">So the idea that there was a <orgName ref="#dvp_049_org_17">Congress</orgName> that had passed legislation that made me take a loyalty oath to do this or to not do this offended me more than the idea that I might do it, so—</u>
+      <u who="HARRISON">Can you tell me, when you were in high school, when you were growing up in <placeName ref="#dvp_049_place_14">Los Angeles</placeName>—are there events that you can remember from the late 1950s or early 1960s that got you interested in current events?</u>
+      <u who="PARKER">Are you kidding me? I mean, really! Think about the early 1960s. It was—I mean, <persName ref="#dvp_049_person_18">Tim</persName>, thank you, but, I mean, really? Fifty years back? I mean, <persName ref="#dvp_049_person_19">John F. Kennedy</persName> was elected president when I was a freshman, and I worked for the <persName ref="#dvp_049_person_20">Kennedy</persName> campaign. I actually shook hands with <persName ref="#dvp_049_person_21">JFK</persName> on the rope line at the <name type="event" ref="#dvp_049_event_0">Los Angeles convention of the Democratic Party in the summer of 1960</name>. So I was deeply wedded to the idea that there was a <orgName ref="#dvp_049_org_18">Democratic Party</orgName> that would make deep and profound change in <placeName ref="#dvp_049_place_15">America</placeName>.</u>
+      <u who="HARRISON">Can you tell me how you came to that and—as a second que- —I mean, these are really separate, but how you came into that, I imagine in high school—</u>
+      <u who="PARKER">Of course.</u>
+      <u who="HARRISON">—and what—</u>
+      <u who="PARKER">Sure.</u>
+      <u who="HARRISON">—and then what you believed the <orgName ref="#dvp_049_org_19">Democratic Party</orgName> could achieve? Can you tell me both those things?</u>
+      <u who="PARKER">Of course. Sure. So my father was born at the beginning of the 20th century. His parents and grandparents were all <orgName ref="#dvp_049_org_20">Republicans</orgName>. They were all <persName ref="#dvp_049_person_22">[President Abraham] Lincoln</persName> <orgName ref="#dvp_049_org_21">Republicans</orgName>. And what I remember about both of my grandfathers, one of whom died before I was born and the other of whom died six or seven years after I was born—but about my grandparents was that they were <orgName ref="#dvp_049_org_22">Republicans</orgName> of what we think of now as a moderate sort, but they thought of themselves as a progressive sort. They were Lincolnian, <persName ref="#dvp_049_person_23">[President Theodore] “Teddy” Roosevelt [Jr.]</persName> <orgName ref="#dvp_049_org_23">Republicans</orgName> who thought that the <orgName ref="#dvp_049_org_24">Republican Party</orgName> was about increasing liberty and equality. And so in the 1930s, when <persName ref="#dvp_049_person_24">[President Herbert C.] Hoover</persName> had failed and the <orgName ref="#dvp_049_org_25">Republican Party</orgName> had failed, my father had crossed over from the <orgName ref="#dvp_049_org_26">Republican Party</orgName> to the <orgName ref="#dvp_049_org_27">Democratic Party</orgName>. And so when I was born in <date when="1946">1946</date>, my father was a <orgName ref="#dvp_049_org_28">Democrat</orgName>. But I know that in <date when="1948">1948</date>, when <persName ref="#dvp_049_person_25">[Harry S.] Truman</persName> and <persName ref="#dvp_049_person_26">[Thomas E.] Dewey</persName> were running, that my grandmother inculcated me a belief that <orgName ref="#dvp_049_org_29">Republicans</orgName> were better so that when my dad came home one evening in the summer of <date when="1948">’48</date> and he said, “How’s my little boy?”—I was two years old—I said, “<persName ref="#dvp_049_person_27">Dewey</persName>, Daddy, <persName ref="#dvp_049_person_28">Dewey</persName>,” thinking about <persName ref="#dvp_049_person_29">Thomas Dewey</persName>, who was the <date when="1948">’48</date> candidate. And my father said, in mock alarm, “Who has taught my son to swear in this house?”</u>
+      <u who="HARRISON">[Chuckles.]</u>
+      <u who="PARKER">So there was always a kind of wonderful respect for a specific <orgName ref="#dvp_049_org_30">Republican Party</orgName> and an idea that the <orgName ref="#dvp_049_org_31">Democrats</orgName> had overtaken them at some point in the 1930s in their larger national project. And so when I got to <placeName ref="#dvp_049_place_16">Hanover</placeName> in <date when="1964">’64</date>, what was I presented with? I was presented with <persName ref="#dvp_049_person_30">[President] Lyndon [B.] Johnson</persName>, who inherited the party of the assassinated president who I thought was an enormous figure <persName ref="#dvp_049_person_31">(JFK)</persName>, and his opponent was this person from <placeName ref="#dvp_049_place_17">Arizona</placeName>, <persName ref="#dvp_049_person_32">Barry [M.] Goldwater</persName>, whose values and views seemed to me very extreme by definition in terms of the <orgName ref="#dvp_049_org_32">Republican Party</orgName> that my grandparents had raised me to believe in. So I’ve been prejudiced ever since then. I’ve been prejudiced for half a century about this idea that this <orgName ref="#dvp_049_org_33">Republican Party</orgName> that you, <persName ref="#dvp_049_person_33">Tim</persName>, and your generation have grown up with is representative of <orgName ref="#dvp_049_org_34">Republican</orgName> values. It isn’t, from my point of view. It’s a hideous distortion of <orgName ref="#dvp_049_org_35">Republican Party</orgName> values. But that’s another story, so go ahead with your question.</u>
+      <u who="HARRISON">What do you remember thinking the <orgName ref="#dvp_049_org_36">Democratic Party</orgName> stood for when you got to college?</u>
+      <u who="PARKER">Well, several things, one of which was more equality, and in the early ’60s, equality mattered a lot because I had seen on black-and-white television, watching <orgName ref="#dvp_049_org_37">CBS</orgName> and <orgName ref="#dvp_049_org_38">NBC</orgName> and <orgName ref="#dvp_049_org_39">ABC news</orgName>, because we only got five or six channels in <placeName ref="#dvp_049_place_18">Los Angeles</placeName>, the beatings that African-Americans had taken in the South. And I thought that was so horrible, so immoral, so un-American that there was only one direction I could go in, right? It was I had to go toward a party that would create equality for them. And when <persName ref="#dvp_049_person_34">Barry Goldwater</persName> ran in <date when="1964">1964</date> and said that the civil rights bill was a travesty of states’ rights, I thought to myself, Oh, no, this is not my grandparents’ <orgName ref="#dvp_049_org_40">Republican Party</orgName>; this is a kooky, right-wing version of the party, and it will die away. And, of course, in <date when="1964">’64</date> it died such a horrible death, it looked like <persName ref="#dvp_049_person_35">[Michael S.] Dukakis</persName> in, what was it, <date when="1988">’88</date>. I mean, they won <placeName ref="#dvp_049_place_19">Arizona</placeName> and half a dozen Southern states, and it was a shameful thing that the <orgName ref="#dvp_049_org_41">Republicans</orgName> had won Southern states, to me, at least.This is the funny thing: I had become a <orgName ref="#dvp_049_org_42">Democrat</orgName> over the years, but I was inclined to be a <orgName ref="#dvp_049_org_43">Republican</orgName> for the first 20 years of my life because I thought of the <orgName ref="#dvp_049_org_44">Republican Party</orgName> as being about things that they had been for 40 years.</u>
+      <u who="HARRISON">Was there a foreign policy component when you thought about the <orgName ref="#dvp_049_org_45">Democratic Party</orgName>?</u>
+      <u who="PARKER">Well, it was emerging in <date when="1964">’64</date> because, again, you have to think that <date when="1964">’64</date> was about the <name type="event" ref="#dvp_049_event_1">Cuban Missile Crisis</name> and the nascent question of <placeName ref="#dvp_049_place_20">Vietnam</placeName>, but <date when="1964">’64</date> was not about <placeName ref="#dvp_049_place_21">Vietnam</placeName> because there were only 15,000 <placeName ref="#dvp_049_place_22">U.S.</placeName> advisers in <placeName ref="#dvp_049_place_23">Vietnam</placeName>.</u>
+      <u who="HARRISON">Yeah. So it really was, in <date when="1964">’64</date>, a domestic—the concern was about domestic politics.</u>
+      <u who="PARKER">Yeah, but it was domestic moral issues. It wasn’t domestic politics.</u>
+      <u who="HARRISON">I see.</u>
+      <u who="PARKER">It was you cannot show me television in black and white where these white people are beating up on these black people and tell me that this is the <placeName ref="#dvp_049_place_24">America</placeName> that I want, so it was a totally polarizing experience.</u>
+      <u who="HARRISON">I know that we’re before—in chronological terms, before the <name type="event" ref="#dvp_049_event_2">Watts riots</name>, but would you have experienced some of the tensions—</u>
+      <u who="PARKER">Of course, that’s the summer of <date when="1965">’65</date>.</u>
+      <u who="HARRISON">Yes. Would you have experienced some of the tensions that would have produced those riots, growing up in <placeName ref="#dvp_049_place_25">Los Angeles</placeName>?</u>
+      <u who="PARKER">No, no. Well, <persName ref="#dvp_049_person_36">Tim</persName>, here’s the thing: I went back after my freshman year in <placeName ref="#dvp_049_place_26">Hanover</placeName> to <placeName ref="#dvp_049_place_27">Los Angeles</placeName> and was a tutor in <placeName ref="#dvp_049_place_28">Watts</placeName> when it exploded.</u>
+      <u who="HARRISON">Oh, tell me about that.</u>
+      <u who="PARKER">So my father was an Episcopal clergyman, and he recruited me into working at an Episcopal church run by an African-American Episcopal clergyman, [unintelligible] in <placeName ref="#dvp_049_place_29">South Central</placeName>. And it seemed to me the most natural thing to do because in <date when="1962">1962</date>, when I was, I don’t know, a sophomore? The progressive clergy of southern <placeName ref="#dvp_049_place_30">California</placeName> had invited <persName ref="#dvp_049_person_37">[the Rev. Dr.] Martin Luther King [Jr.]</persName> to come and talk. And my father was one of the key people, and I had actually been the crucifer, the guy who had held the cross and led <persName ref="#dvp_049_person_38">Martin Luther King</persName>, immediately behind me, into the stadium at <placeName ref="#dvp_049_place_31">USC [University of Southern California]</placeName>, where 40,000 people waited for him. And he shook my hand, and he thanked me. I mean, I was transformed. I was 15, 16 years—I don’t remember, 16 maybe, 15 years old. And I thought to myself, This is a person like my ancestor that my parents had told me about, <persName ref="#dvp_049_person_39">Theodore Parker</persName>, who had been one of the abolitionists, right?—in the 1840s and ’50s. And so this was a direct continuation. There was no racial divide. It wasn’t that black people wanted freedom or equality; it was that we Americans wanted equality and justice for all Americans, and slavery was an abomination. That was what I had grown up with. It wasn’t the spoken understanding; it was just an understanding. You could not treat black men and women the way that they were being treated, as we saw it on television in the late ’50s and early ’60s, and call yourself part of <placeName ref="#dvp_049_place_32">America</placeName>. That was just forbidden. In my circles, it was.So in <date when="1964">’64</date>, when I was freshman at <orgName ref="#dvp_049_org_46">Dartmouth</orgName>, when <persName ref="#dvp_049_person_40">Johnson</persName> swept over <persName ref="#dvp_049_person_41">Goldwater</persName>, I thought to myself, Well, this is about the <placeName ref="#dvp_049_place_33">America</placeName> that I love. This is about what I think <placeName ref="#dvp_049_place_34">America</placeName> is.</u>
+      <u who="HARRISON">What was the circle like at <orgName ref="#dvp_049_org_47">Dartmouth</orgName> when you came here? Were people generally on the same footing as you were regarding the moral issues of race? Was it a very progressive place?</u>
+      <u who="PARKER">No, I don’t think so. I mean, again, I mean, you know, we were 17—I was 17 when I came in—17- or 18-year-olds. We didn’t say, “Oh, let’s have a conversation about race.” I mean, that wasn’t what you did. But, you know, most of the—and <orgName ref="#dvp_049_org_48">Dartmouth</orgName> at that point was overwhelmingly white. I mean, I had a couple of friends who were not white, not American, but, you know, they were real minorities at <orgName ref="#dvp_049_org_49">Dartmouth</orgName>. But it didn’t occur to me to have a conversation with my crew friends. I rowed crew. Or my—oh, what was the name of that? I’m trying to remember the fraternity—<orgName ref="#dvp_049_org_50">Bones Gate</orgName>. I joined <orgName ref="#dvp_049_org_51">Bones Gate</orgName> for a year, right?—on <placeName ref="#dvp_049_place_35">Fraternity Row</placeName>. And it was the crew house, so that’s what I joined. And I chatted with a bunch of people, and I realized, Wow, there aren’t a lot of you who think about the things that I do. And that surprised me. The thing about <orgName ref="#dvp_049_org_52">Dartmouth</orgName> that was interesting to me was that I met people my age who were moderate <orgName ref="#dvp_049_org_53">Republicans</orgName>, <persName ref="#dvp_049_person_42">[Nelson A.] Rockefeller</persName> <orgName ref="#dvp_049_org_54">Republicans</orgName>, <persName ref="#dvp_049_person_43">[Jacob K.] Javits</persName> <orgName ref="#dvp_049_org_55">Republicans</orgName>, and the speaker at our graduation in <date when="1968">’68</date> was <persName ref="#dvp_049_person_44">Jacob Javits</persName>. And <persName ref="#dvp_049_person_45">Jacob Javits</persName> couldn’t get himself elected in the current <orgName ref="#dvp_049_org_56">Republican Party</orgName>. He would be a left-wing—he and <persName ref="#dvp_049_person_46">Hillary [Rodham Clinton]</persName> would compete for left-wing <orgName ref="#dvp_049_org_57">Democratic</orgName> stat[us]. He would be to the left of <persName ref="#dvp_049_person_47">[New York Senator Charles E.] “Chuck” Schumer</persName>, right? Hmm.And so that’s what’s changed so enormously. I mean, your generation has been born and raised in a period that is, to my generation, kind of shameful. I mean, I can’t imagine that you actually think this is representative of what <placeName ref="#dvp_049_place_36">America</placeName> is or what <placeName ref="#dvp_049_place_37">America</placeName> wants to be. But that’s—again, you’re asking me about my experience, so I’m telling you.</u>
+      <u who="HARRISON">When you got to <orgName ref="#dvp_049_org_58">Dartmouth</orgName> as a freshman, you found that people weren’t thinking quite as deeply about these issues as you were. Were there any outlets in your early experience at <orgName ref="#dvp_049_org_59">Dartmouth</orgName> where you were able to discuss these or any sort of—</u>
+      <u who="PARKER">Sure.</u>
+      <u who="HARRISON">—volunteering or activism?</u>
+      <u who="PARKER">Yeah, <orgName ref="#dvp_049_org_60">DCU</orgName>, the <orgName ref="#dvp_049_org_61">Dartmouth Christian Union</orgName> was kind of a remarkable place. There was a guy named <persName ref="#dvp_049_person_48">“Doc” Dey [pronounced DYE], Charles [F.] D-e-y [Class of 1952]</persName>. And he was very—I mean, he left <orgName ref="#dvp_049_org_62">Dartmouth</orgName> to become the head of <orgName ref="#dvp_049_org_63">Choate</orgName>. Do you remember <orgName ref="#dvp_049_org_64">Choate School</orgName> in—</u>
+      <u who="HARRISON">Yes.</u>
+      <u who="PARKER">—<placeName ref="#dvp_049_place_38">Connecticut</placeName>. Yeah, <orgName ref="#dvp_049_org_65">Choate Rosemary Hall</orgName> or whatever it is [now]. And <persName ref="#dvp_049_person_49">Doc</persName> was this wonderful character—I mean, not my person, but he was, you know, a WASP [White Anglo-Saxon Protestant] like me, but the idea was that he actually thought there were deep moral obligations that came with being a recipient of privilege. And I didn’t think of myself as a recipient of privilege. I was kind of a mericratic [sic; meritocratic] public school kid, and I sort of looked around me and saw all the <orgName ref="#dvp_049_org_66">St. Paul’s [School]</orgName> graduates and the <orgName ref="#dvp_049_org_67">Groton [School]</orgName> Graduates and the <orgName ref="#dvp_049_org_68">Choate</orgName> graduates and the <orgName ref="#dvp_049_org_69">{Phillips Academy] Andover</orgName> graduates and the <orgName ref="#dvp_049_org_70">Phillips [Exeter Academy]</orgName> graduates, and I thought, Wow! I’m competing up against these guys, but that was <orgName ref="#dvp_049_org_71">Dartmouth</orgName> in the mid-’60s. </u>
+      <u who="HARRISON">Did <persName ref="#dvp_049_person_50">Doc</persName> convince you otherwise?</u>
+      <u who="PARKER">He did, because he was one of their people, not one of my people, and he was so plain about the ethical issues that I identified with him, you know, in terms of ethical terms, in ethical terms. So the end of my freshman year, I went off to tutor in <placeName ref="#dvp_049_place_39">Watts</placeName>. The end of my sophomore year, he had a program called the <orgName ref="#dvp_049_org_72">Dartmouth-Talladega Program [sic; Dartmouth-Talladega Upward Bound]</orgName> with <orgName ref="#dvp_049_org_73">Talladega College</orgName> in <placeName ref="#dvp_049_place_40">Alabama</placeName>, which was a historically black college. And he recruited, like, 10 or 15 of us to go south to <placeName ref="#dvp_049_place_41">Talladega</placeName>.And I’d never spent ti- —I mean, you know, I’d traveled across the South, but I never spent time in the South, so that was, like, a huge, huge—that was the summer of <date when="1965">’65</date>, so you can imagine what the summer of <date when="1965">’65</date> looked like, right? No, it was <date when="1966">’66</date>, sorry.</u>
+      <u who="HARRISON">Yes.</u>
+      <u who="PARKER"><date when="1965">Sixty-five</date> was the <name type="event" ref="#dvp_049_event_3">Watts riots</name>, and I was in <placeName ref="#dvp_049_place_42">Watts</placeName> for the riots. <date when="1966">Sixty-six</date>, I went to <placeName ref="#dvp_049_place_43">Talladega</placeName> and trained with African-Americans in the South who had never met Yankee whites, either, you know?</u>
+      <u who="HARRISON">Mm-hm.</u>
+      <u who="PARKER">And I got along well with them because I was a western white. We had no prep school experience. And they thought I was kind of nice. Anyway,—</u>
+      <u who="HARRISON">What were the <orgName ref="#dvp_049_org_74">DCU</orgName>—</u>
+      <u who="PARKER">Go ahead.</u>
+      <u who="HARRISON">I’m sorry. No, I’m sorry, you continue.</u>
+      <u who="PARKER">No, go ahead.</u>
+      <u who="HARRISON">Well, can you tell me what the <orgName ref="#dvp_049_org_75">DCU</orgName> did on campus? But if there was something else you wanted to say about being in the South, I can—</u>
+      <u who="PARKER">Yeah. So the two driving things in the ’60s were <name type="event" ref="#dvp_049_event_4">Vietnam</name> and civil rights, and so <persName ref="#dvp_049_person_51">Doc</persName> and the <orgName ref="#dvp_049_org_76">DCU</orgName> were always raising questions, in the context of <orgName ref="#dvp_049_org_77">Dartmouth</orgName>, about those two issues. And I felt completely at home, right?—completely at home with raising those issues.</u>
+      <u who="HARRISON">What did this club look like? It was a series of meetings?</u>
+      <u who="PARKER">No. Club what? <orgName ref="#dvp_049_org_78">DCU</orgName> or what?</u>
+      <u who="HARRISON">The <orgName ref="#dvp_049_org_79">DCU</orgName>, yes, the organization.</u>
+      <u who="PARKER">No, it was, like,—what’s the hall that used to be—so there was—so my senior year I was in <orgName ref="#dvp_049_org_80">Casque and Gauntlet [C&amp;G]</orgName>, and if you went across the street on the corner there was a hall.</u>
+      <u who="HARRISON"><placeName ref="#dvp_049_place_44">Collis Hall [the Collis Center for Student Involvement]</placeName>.</u>
+      <u who="PARKER">Okay. </u>
+      <u who="HARRISON">Either <placeName ref="#dvp_049_place_45">Collis</placeName> or <placeName ref="#dvp_049_place_46">Collis Hall</placeName>.</u>
+      <u who="PARKER">Yeah. So <orgName ref="#dvp_049_org_81">DCU</orgName> was in there, and it was just—you know, the fact that it was a DC—I’m sure it’s been abolished with the C—but it was so representative of what <orgName ref="#dvp_049_org_82">Dartmouth</orgName> was 50 years ago, which was that whatever moral center the college had that wanted to communicate to younger people, it was in this Protestant New England culture in which <orgName ref="#dvp_049_org_83">Dartmouth</orgName> had been created in the 18th century, so it must have been offensive to Jews, it must have been offensive to agnostics, it must have been offensive to people of other faiths. It might have been offensive to Catholics; I don’t know. Because it was so Protestant. But I was, you know, tenth generation Protestant, so it was, like, Okay, yeah, I get it. This is my people. These are the values we all want to approximate. And, you know, we did lots of things. We met about civil rights. Ultimately, I was through <orgName ref="#dvp_049_org_84">DCU</orgName> recruited to go to <orgName ref="#dvp_049_org_85">Miles College</orgName> my senior year because of <persName ref="#dvp_049_person_52">John [U.] Monro</persName>, whom <persName ref="#dvp_049_person_53">Doc Dey</persName> knew. Do you know the story, or that’s later?</u>
+      <u who="HARRISON">No, but I would be happy to hear it now, even if it’s later.</u>
+      <u who="PARKER">Okay. So the summer—now, so let’s move ahead. So go to <placeName ref="#dvp_049_place_47">Talladega</placeName>, and <persName ref="#dvp_049_person_54">Butch Watkins</persName> and I, an African-American from <orgName ref="#dvp_049_org_86">Talladega</orgName>, who’d never been north of <placeName ref="#dvp_049_place_48">Tennessee</placeName>, and I then get shifted back to rural <placeName ref="#dvp_049_place_49">Vermont</placeName>. I mean, there were about—I don’t know, you could find <persName ref="#dvp_049_person_55">Dey</persName> at <placeName ref="#dvp_049_place_50">Choate</placeName>—he’s retired, but you could find him. But he recruited maybe 15 of us from <orgName ref="#dvp_049_org_87">Dartmouth</orgName> and 15 from <orgName ref="#dvp_049_org_88">Talladega</orgName>. We went south to <placeName ref="#dvp_049_place_51">Talladega</placeName> and did a training in community organizing, and then half stayed in <placeName ref="#dvp_049_place_52">Alabama</placeName> and half were sent back to New England.Butch and I came back to New England, and we were put in <placeName ref="#dvp_049_place_53">West Bridgewater, Vermont</placeName>. And we did summer tutoring and social work in this impoverished town west of <placeName ref="#dvp_049_place_54">Woodstock, Vermont</placeName>, which was a very affluent, very <persName ref="#dvp_049_person_56">Rockefeller</persName> town. And we lived with this kind of wonderful, crazy <placeName ref="#dvp_049_place_55">New York</placeName> artist and his sons, who had moved to <placeName ref="#dvp_049_place_56">Bridgewater</placeName> and were living in a semi-abandoned house. And <persName ref="#dvp_049_person_57">Butch</persName> and I would run this summer program for poor, impoverished whites, which was a mind-blowing experience for <persName ref="#dvp_049_person_58">Butch</persName>, as you can imagine, for an African-American from the South who didn’t understand that white people lived in poverty. And it was a mind-blowing experience for me as a Californian to see these rural New Englanders living in poverty, because they were about four or five generations removed from my ancestors. So it was, like, Wow! So each of us had, like, a whole experience.And about halfway or two-thirds of the way through the summer, a bunch of girls—I don’t know, 12-, 15-year-olds—invited us to a birthday party, and the fact that <persName ref="#dvp_049_person_59">Butch</persName> and I went in the middle of the afternoon to share a cake with these girls excited some number of elders in this small <placeName ref="#dvp_049_place_57">Vermont</placeName> town to have us removed. I don’t know whether it was, you know, because we were sexual molesters or whether it was that we were mixed race, but, you know, we were pulled out and brought back to <placeName ref="#dvp_049_place_58">Hanover</placeName> because there was a huge controversy in the summer of <date when="1966">’66</date> about why a white guy and a black guy should be tutoring young white girls in rural <placeName ref="#dvp_049_place_59">Vermont</placeName>.So that was educational, too, and made me think about race and power and class and region in new ways that informed me, so I thought it was terrific. And <persName ref="#dvp_049_person_60">Doc Dey</persName> was—you know, he understood why we had to be removed, and I ended up for two weeks with <persName ref="#dvp_049_person_61">Butch</persName>, learning how to play soccer, which I’d never played before. Your generation plays soccer all the time, but that was a new and foreign sport for us because they had to something with us in terms of this program, and they had to leave us at <placeName ref="#dvp_049_place_60">Hanover</placeName>, so we played soccer for two weeks, and then he got shipped back to <placeName ref="#dvp_049_place_61">Alabama</placeName>, and I then started my junior year.</u>
+      <u who="HARRISON">After this experience, was—I mean, I imagine you took a lot from it. Was one of the things you took away from it this racelessness of class issues, or poverty, that black people and white people were affected by poverty and that something needed to be done to affect all of the poverty that you had noticed?</u>
+      <u who="PARKER">Uh-huh. Right. Well, I mean, again, I mean, the spring of my sophomore year I had gone with the <orgName ref="#dvp_049_org_89">DCU</orgName> crew down to—the spring break of my sophomore year—we’d gone down to eastern <placeName ref="#dvp_049_place_62">Kentucky</placeName> to do a work project in <placeName ref="#dvp_049_place_63">Hindman County [sic; Hindman is a town], Kentucky</placeName>, and to be brought face to face with the poverty that, again, I had not seen in growing up in suburban southern <placeName ref="#dvp_049_place_64">California</placeName>, was stark and powerful and very moving and very angering. And it was all white poverty. The stuff I saw in <placeName ref="#dvp_049_place_65">Hindman County [sic]</placeName> had not—there were no blacks living in <placeName ref="#dvp_049_place_66">Hindman County [sic]</placeName>. This was rural, Appalachian poverty, you know?But I bonded with those people there. I mean, I went to their churches. I mean, <persName ref="#dvp_049_person_62">Tim</persName>, you can’t understand. I was at that point 18 or 19 years old, and I was an Episcopalian, and I showed up in this Pentecostal church, and they were doing rattlesnake handling as part of their worship service. So if you don’t understand how that blew me away, I can’t begin to describe it.</u>
+      <u who="HARRISON">I’m sure. What struck you as the solution to this mass poverty that you witnessed? What, if anything, could make it better?</u>
+      <u who="PARKER">Well, it was, you know, deep, structural change that would have been very Rooseveltian, which was a more progressive slope to the tax structure and stronger unions and the integration of whites and blacks who—we didn’t think about Hispanics or Asians in those days—but the integration of whites and blacks that would overcome the legacy of slavery.</u>
+      <u who="PARKER">Did <persName ref="#dvp_049_person_63">Johnson</persName>, at his best, stand for this sort of structural change?</u>
+      <u who="PARKER">We thought he did in <date when="1964">’64</date> and <date when="1965">’65</date>.</u>
+      <u who="HARRISON">His rhetoric?</u>
+      <u who="PARKER">The war just came—the war just showed up in the latter part of <date when="1965">’65</date> in this horrifying way, where we thought this crude, weird Texan, whom we didn’t personally like but told us he was the legatee of <persName ref="#dvp_049_person_64">JFK</persName>, whom we adored, was going to live through the <persName ref="#dvp_049_person_65">JFK</persName>, <persName ref="#dvp_049_person_66">FDR</persName> legacy. And so we bought into that, right? Again, because <persName ref="#dvp_049_person_67">Goldwater</persName> was such, by the standards of the ’60s, a kook. Now he’s just one of—[Laughs.] He’s a left-wing candidate among these guys right now. I mean,—</u>
+      <u who="HARRISON">Yeah. [Chuckles.]</u>
+      <u who="PARKER">It’s a comment. I mean, that’s a whole other story. Anyway—So, really, I mean, it’s just you guys—your generation has been handed a legacy of just insane people on the right and timorous people on the left. That’s what’s so hard—anyway. So go ahead.</u>
+      <u who="HARRISON"><persName ref="#dvp_049_person_68">Johnson</persName>—</u>
+      <u who="PARKER">Is this useful? <persName ref="#dvp_049_person_69">Tim</persName>, is this useful to you? I mean, I don’t know—I don’t have any idea.</u>
+      <u who="HARRISON">This is extremely useful.</u>
+      <u who="PARKER">Okay. All right.</u>
+      <u who="HARRISON">Extremely useful, yes. It is extremely useful. He claimed to be this inheritor of a—</u>
+      <u who="PARKER">Of the <persName ref="#dvp_049_person_70">Roosevelt</persName>—</u>
+      <u who="HARRISON"><persName ref="#dvp_049_person_71">Kennedy</persName> and <persName ref="#dvp_049_person_72">Roosevelt</persName> ideal. </u>
+      <u who="PARKER">Oh, of course, [unintelligible] <persName ref="#dvp_049_person_73">Kennedy</persName>. Of course he did. Right.</u>
+      <u who="HARRISON">Yes. And so—I want to go back to something you just mentioned. In <date when="1965">1965</date>, the <name type="event" ref="#dvp_049_event_5">Vietnam War</name> came on the screen in a cruel way, in a sudden way. It was no doubt the sudden presence of ground troops in <placeName ref="#dvp_049_place_67">Vietnam</placeName>, right? <placeName ref="#dvp_049_place_68">American</placeName> ground troops.</u>
+      <u who="PARKER">Yeah, of course.</u>
+      <u who="HARRISON">You might not remember the first time you heard about that, but can you remember early times when you heard about that and what you would have thought about it?</u>
+      <u who="PARKER">[Sighs.] I would have been at <orgName ref="#dvp_049_org_90">Dartmouth</orgName>—</u>
+      <u who="HARRISON">Was it really a surprise?</u>
+      <u who="PARKER">—in the fall of <date when="1964">’64</date>, and I can remember sitting, watching the television returns in <date when="1964-11">November ’64</date> as <persName ref="#dvp_049_person_74">Johnson</persName> swept the nation and thinking, This is good for the country, because, you know, the <date when="1963-11">November</date> before, when I was a high school senior, I had been sitting in a classroom when this disembodied voice came on the loud speaker, and it was the principal, and he said, “<persName ref="#dvp_049_person_75">President Kennedy</persName> has been shot in <placeName ref="#dvp_049_place_69">Dallas</placeName>.” That was my introduction to being a 16-year-old.</u>
+      <u who="HARRISON">Mmm.</u>
+      <u who="PARKER">I mean, it was just—I can’t tell you, because we had no, as a generation, any precedent for thinking a leader would be assassinated, right? And so we had this experience—you know, in my generation—I was a 16-year-old. And so we were being asked to go to college and be faithful and respectful of all the values our fathers and mothers taught us, and we were, and then suddenly this kind of world unfolded.</u>
+      <u who="HARRISON">Even to declare loyalty.</u>
+      <u who="PARKER">Huh?</u>
+      <u who="HARRISON">Even to declare loyalty to the state.</u>
+      <u who="PARKER">Oh, of course, of course.</u>
+      <u who="HARRISON">Yeah.</u>
+      <u who="PARKER">Look, we weren’t rebellious in <date when="1963">’63</date>, <date when="1964">’64</date> against the state. The state was, in our view, rebellious against us. It did two things: It went forward on civil rights and then hesitated after passing legislation, because those were the legal solutions, and collapsing on the economic issues. I mean, that was what—it didn’t seem that—we didn’t understand it in <date when="1964">’64</date>, but that’s what we came to conclude by <date when="1968">’68</date>, which was the first order of business was to abolish this racist nonsense that excluded African-Americans from equality in statutory ways. Done. Right? That was <date when="1964">’64</date>, <date when="1965">’65</date>.But then after that, are you kidding me? That’s the only explanation for black impoverishment? It can’t be. This is an economic and social issue, so we have to address those. And that became the struggle, and it became the struggle simultaneous with this issue of <name type="event" ref="#dvp_049_event_6">Vietnam</name>, because all of us had grown up with fathers and uncles and cousins who had fought in the <name type="event" ref="#dvp_049_event_7">Second World War</name>, and all we knew growing up was that <orgName ref="#dvp_049_org_91">America</orgName> fought only good wars. And suddenly there was no explanation for what the hell we were doing in <placeName ref="#dvp_049_place_70">Vietnam</placeName>. It wasn’t a good war. We weren’t fighting fascism. We weren’t defeating <persName ref="#dvp_049_person_76">[Adolf] Hitler</persName> in <placeName ref="#dvp_049_place_71">Vietnam</placeName>. <persName ref="#dvp_049_person_77">Hồ Chí Minh</persName> wasn’t <persName ref="#dvp_049_person_78">[Benito] Mussolini</persName>. He wasn’t, you know, <orgName ref="#dvp_049_org_92">Japan</orgName>. And so we were confronted not with this kind of opportunity to be leftist, because none of wanted to b a leftist—or most of us didn’t; I mean, I didn’t. But it was, like, you know, “Why are you putting us in this position? This is not a war that you asked us to be loyal to. This is not a war about defending <placeName ref="#dvp_049_place_72">America</placeName> from hugely morally destructive and globally destructive forces.”And your generation has faced this with <name type="event" ref="#dvp_049_event_8">Iraq</name> and <name type="event" ref="#dvp_049_event_9">Afghanistan</name>, but you haven’t been led to a point where you’re willing to act on that understanding. My generation, for a variety of reasons, was so angry about being disillusioned in the way we were that we acted.</u>
+      <u who="HARRISON">I’m sure in one sense it was the looming draft.</u>
+      <u who="PARKER">No, it wasn’t, actually. Draft wasn’t, actually, a big part of it. That’s a trope that developed after. It was kind of a cynical trope. I didn’t think about the draft. I actually had applied for CO status when I turned 18, when I was a freshman in college.</u>
+      <u who="HARRISON">And can you tell us, what is CO?</u>
+      <u who="PARKER">Conscientious objector. It’s conscientious objector.</u>
+      <u who="HARRISON">I see.</u>
+      <u who="PARKER">So I had said, “I don’t want to fight in wars with weapons.” But there were two categories of COs, one of which was I was a total CO and you had to put me to work in stateside work or, second, you could make me a medic in <placeName ref="#dvp_049_place_73">Vietnam</placeName>. And I said, “No, I’ll be a medic.” I wasn’t afraid to go to the front, but I didn’t want to kill people in that war.</u>
+      <u who="HARRISON">Tell me what motivated—</u>
+      <u who="PARKER">That would later become a huge factor in my senior year because I handed in my draft card. That’s a story later.</u>
+      <u who="HARRISON">Tell me what you do think, if not that trope, what motivated the opposition, the huge opposition that you talked about.</u>
+      <u who="PARKER">Well, actually—we were actually a generation that was mobilized not by fear or self-interest, but the people who were mobilized at the frontlines were mobilized by moral vision. I mean, again, you have to understand: We had come out a 25-year-long period where we had been told that the state was good. It had done what? It had addressed the poverty and the collapse of the economy in the 1930s, and then it had led us through the 1940s to a victory over fascism, and then in the ’50s it had checked communism and created a vibrant, large middle class, which <orgName ref="#dvp_049_org_93">America</orgName> had not had before. So one, two, three—these were victory after victory after victory.So you get to the 1960s, and what happens? Several things, one of which is that suburbanization of <placeName ref="#dvp_049_place_74">America</placeName> had created the opportunity to break down all of the ethnic, racial barriers that had divided <placeName ref="#dvp_049_place_75">America</placeName> before. The second was that the [oral contraception/birth control] pill, which had shown up in <date when="1964">’64</date>, meant that what we called “boys and girls”—you call “men and women”—boys and girls had an opportunity to have sexual experiences that were prohibited to our parents’ generation. They weren’t prohibited, but they were much less frequent for our parents’ generation, and so there was a lot of joy that went with sexual celebration.And then the third was that there was this combination of music and then gradually drugs that infiltrated up from the lower classes to the upper and middle classes, and even the upper classes, where you could smoke dope [marijuana] and have a girlfriend with whom you had sexual congress, and you could be, in a way, a different person from the generation of your parents.It felt like an American dream realized because it was the story about liberty and about equality, so men and women were equal, blacks and whites were equal. It was dawning us that straights and gays were equal, but that was not a subject that would be discussed at <orgName ref="#dvp_049_org_94">Dartmouth</orgName> for a long, long time. But it felt like—not a conclusion but a step forward at a quantum level in the American dream. And so <name type="event" ref="#dvp_049_event_10">Vietnam</name> and civil rights were these dark sides that were delaying the realization of the American dream, so you went to war about that.</u>
+      <u who="HARRISON">Did you feel these elements of change, these generational omens?</u>
+      <u who="PARKER">Of course we did. Oh, of course. Oh, yeah, of course you did.</u>
+      <u who="HARRISON">Can you remember specific conversations?</u>
+      <u who="PARKER"><orgName ref="#dvp_049_org_95">Dartmouth</orgName> was pretty remote. <orgName ref="#dvp_049_org_96">Dartmouth</orgName> was pretty remote. </u>
+      <u who="HARRISON">Yeah.</u>
+      <u who="PARKER">But, I mean, you felt it in dozens of ways, which was there was a deep divide in the campus between the more cautious and conservative and conventional students and the students willing to embrace being different. And what was so interesting was that the kids who were willing to be different were predominantly—[Phone rings.] Hold on a sec. I gotta get the other phone.</u>
+      <u who="HARRISON">Sure. [Recorder was not turned off. Nothing was transcribed from 38:08 to 38:33]. </u>
+      <u who="PARKER">Sorry, it’s a reporter. So what were we doing?</u>
+      <u who="HARRISON">We were talking about the difference between more  conservative <orgName ref="#dvp_049_org_97">Dartmouth</orgName> students and <orgName ref="#dvp_049_org_98">Dartmouth</orgName> students who were willing to embrace change and be a little different.</u>
+      <u who="PARKER">Right, right, right. </u>
+      <u who="HARRISON">You were saying, “Being different meant…”</u>
+      <u who="PARKER">So by—gosh, I mean, you could—have you talked to <persName ref="#dvp_049_person_79">Bob Reich</persName>? I mean, you should. </u>
+      <u who="HARRISON">No.</u>
+      <u who="PARKER">Okay. So he’s one of my classmates. What I remember is that our junior and senior years we started an alternative college within <orgName ref="#dvp_049_org_99">Dartmouth</orgName>.</u>
+      <u who="HARRISON">Oh, wow.</u>
+      <u who="PARKER">This could be dug up. This is actually quite interesting, because what we did was we began to teach on a peer-to-peer basis classes to one another. And so I remember doing, you know, contemporary politics and also the contemporary novel, because literature was hugely important to us. So we had been down—you don’t even know these books, but it’s Been Down So Long It Looks Up to Me, by <persName ref="#dvp_049_person_80">Richard Fariña</persName>, and it’s all—A Confederate General in [sic; from] Big Sur—what’s his name, the novelist who—oh, God!—<persName ref="#dvp_049_person_81">Richard Brautigan</persName>. <persName ref="#dvp_049_person_82">James Baldwin</persName>. And so what was happening was that we were redefining, on our own terms, both literature and politics in the middle of this whole experience. <persName ref="#dvp_049_person_83">Bob</persName> taught—I think I—I mean, this may be wrong, but I think I actually taught a class on cinema as well, too, so we did <persName ref="#dvp_049_person_84">[François] Truffaut</persName>, Nouvelle Vague cinema of the 1960s. It all would have exploded in these powerful ways in the early, mid-‘60s in ways that would have been totally disruptive to the culture.It was predominantly secular Jews and a few of us who were liberal Protestants, and then sort of more conservative Protestants, who were the greater majority held back. They stuck with sports, they stuck with fraternities, and we were doing something else. And it was fabulous, right?</u>
+      <u who="HARRISON">Can you tell me about this school, what you called it?</u>
+      <u who="PARKER">Oh, no, it was an alternative college within the college, and, I mean, I don’t think I kept any syllabi, but I remember teaching these classes, and there must have been, I don’t know, 20 to 40 classes being offered. <orgName ref="#dvp_049_org_100">Dartmouth</orgName> must have some record of this if you went back to <date when="1966">’66</date>, <date when="1967">’67</date>, early <date when="1967">’67</date>. They would have reported on this at some point, I think. But <persName ref="#dvp_049_person_85">Reich</persName>, <persName ref="#dvp_049_person_86">John Isaacson</persName>, other people in my class would have taught in these courses, where we were doing peer-to-peer teaching, because that seemed to us a way of breaking out of what seemed sterile about being taught by elders, right?</u>
+      <u who="HARRISON">Whose idea was this? Was it you who founded this?</u>
+      <u who="PARKER">Oh, I don’t know. It was <persName ref="#dvp_049_person_87">Karl Marx</persName>.</u>
+      <u who="HARRISON">[Chuckles.]</u>
+      <u who="PARKER">I have no effing idea, really. Really, <persName ref="#dvp_049_person_88">Tim</persName>. I mean—</u>
+      <u who="HARRISON">What classes, what class—</u>
+      <u who="PARKER">How can you remember from 50 years ago right away? You know—uch! I don’t know. I can’t remember.</u>
+      <u who="HARRISON">Well, can you tell me which class <persName ref="#dvp_049_person_89">Mr. Marx</persName> was in? (That’s just a joke.) [Chuckles.]</u>
+      <u who="PARKER">I got it. I get it. I get it. I get it. Right.</u>
+      <u who="HARRISON">Okay, so someone founded it.</u>
+      <u who="PARKER">My old [unintelligible] roommate, <persName ref="#dvp_049_person_90">[Christopher E.] “Chris” Hitchens</persName> used to refer to him as the 19th-century German-Jewish intellectual who shall remain nameless, so—</u>
+      <u who="HARRISON">[Chuckles.] Well, that’s an interesting story on at least two levels.</u>
+      <u who="PARKER">Yeah.</u>
+      <u who="HARRISON">But interesting as that is, back to <orgName ref="#dvp_049_org_101">Dartmouth</orgName>. So this school—this was a factor on campus, you said, <date when="1966">’66</date> through <date when="1968">’68</date>?</u>
+      <u who="PARKER">Yeah, it must have been <date when="1966">’66</date> where we started, and it was this college within a college, and we were trying to pioneer the idea that we could teach one another important things, right?</u>
+      <u who="HARRISON">What was it about the status quo college system, the status quo <orgName ref="#dvp_049_org_102">Dartmouth</orgName> system that was so inadequate? You used the word “sterile” before, but I wonder if you could flesh that out a little bit.</u>
+      <u who="PARKER">Well, so it wasn’t sterile, it was just preparing us for the wrong period. It was preparing us for the past, not for the future.</u>
+      <u who="HARRISON">Mmm. In what way, do you think? It was geared toward what?</u>
+      <u who="PARKER">Well, so, again, what you have to think about is—when I think about my class, it’s that—here’s the story that’s relevant, which is when <persName ref="#dvp_049_person_91">Reich</persName> and I graduated, we were talking about getting ready to go to <orgName ref="#dvp_049_org_103">Oxford [University]</orgName>, and he said something about <persName ref="#dvp_049_person_92">[Henry M.] “Hank” Paulson [Jr., Class of 1968]</persName>, and I said, “Yeah, you know, I feel bad for <persName ref="#dvp_049_person_93">Hank</persName>. He didn’t get into graduate school. He’s going to <orgName ref="#dvp_049_org_104">Harvard Business School</orgName>. Because we thought that business schools—and <orgName ref="#dvp_049_org_105">Harvard Business School</orgName> was the preeminent example—were trade schools. We didn’t think of them as graduate schools.And there was a contingent—we don’t know—I don’t remember—we thought it was at large, but it was a substantial minority, larger than the minority that <persName ref="#dvp_049_person_94">Reich</persName> and I represented, that were going to do these kind of conventional, dull things, which was go to make money and, you know, re-create the corporate world and advance corporations at a time when the state was at war in Asia and race and ge- —gradually gender; we didn’t think a lot about gender, as you can understand, at <orgName ref="#dvp_049_org_106">Dartmouth</orgName> in the ’60s. But we thought about race. You know, it just seemed to us that everything that <persName ref="#dvp_049_person_95">Hank</persName> represented was the ‘50s. And when I heard a couple of years later on the rumor mill that after the business school he’d gone to work for the <persName ref="#dvp_049_person_96">Nixon</persName> administration, this just confirmed to me how horrifyingly conventional he was. I mean, to be 22 or 23 and go to work for <persName ref="#dvp_049_person_97">Richard Nixon</persName> in the ‘70s? Are you kidding me?</u>
+      <u who="HARRISON">Mmm. Can you take me back to late <date when="1967">1967</date> and early <date when="1968">1968</date>, when you would have first started to hear about <persName ref="#dvp_049_person_98">[U.S. Representative] Eugene [J.] McCarthy</persName> as an alternative to <persName ref="#dvp_049_person_99">Lyndon Johnson</persName> in that election?</u>
+      <u who="PARKER">Oh, sure. Sure, sure, sure. So the summer of <date when="1967">’67</date>, I was—I don’t know if they still have them—there was something called the Class of 26 Scholars or 28 Scholars—I can’t remember. And it was they picked, like, 10 kids out of our class and give them special internships in public service that—is that recognizable to you?</u>
+      <u who="HARRISON">You know, not by name but in terms of what the program does, yes.</u>
+      <u who="PARKER">So <persName ref="#dvp_049_person_100">Reich</persName> gets sent to work for <persName ref="#dvp_049_person_101">[U.S. Senator Robert F.] “Bobby” Kennedy</persName>, and I get sent to work of the <orgName ref="#dvp_049_org_107">United Nations Development Programme</orgName> that summer. And then the fall of my senior year, I transit straight from <placeName ref="#dvp_049_place_76">New York</placeName> to <placeName ref="#dvp_049_place_77">France</placeName>, where I spend the fall semester studying in the south of <placeName ref="#dvp_049_place_78">France</placeName>, in one of the two <orgName ref="#dvp_049_org_108">Dartmouth</orgName> programs in <placeName ref="#dvp_049_place_79">France</placeName>, which was at <placeName ref="#dvp_049_place_80">Montpellier</placeName> in the south of <placeName ref="#dvp_049_place_81">France</placeName>. And within two weeks of being in <placeName ref="#dvp_049_place_82">France</placeName>, I acquired a Japanese motorcycle and a French girlfriend. And I spent the fall of my senior year—no, wait a minute. Is that right? Yeah, it’s fall of my junior year. Let me—oh, let me go back over—sorry, sorry, I got to roll this back. I got to get the chronology right.So—I got to think about this for a second. Okay, so it’s the fall of my junior year that I go to <placeName ref="#dvp_049_place_83">France</placeName>. I come back. I’m at <orgName ref="#dvp_049_org_109">Dartmouth</orgName> my spring, junior year. Then I go to the <orgName ref="#dvp_049_org_110">UNDP</orgName>. Then I go to <orgName ref="#dvp_049_org_111">Miles College</orgName> the fall of my senior year. That’s what it is. I got the sequence wrong. Do you have the right? Is that okay?</u>
+      <u who="HARRISON">Yeah, that’s fine.</u>
+      <u who="PARKER">Okay, so come from <placeName ref="#dvp_049_place_84">California</placeName> in <date when="1964">’64</date>. Summer of <date when="1965">’65</date>, go back to <placeName ref="#dvp_049_place_85">California</placeName> and teach in <placeName ref="#dvp_049_place_86">Watts</placeName>. Come back to <placeName ref="#dvp_049_place_87">Dartmouth</placeName>. Then summer of <date when="1966">’66</date> go to <placeName ref="#dvp_049_place_88">Alabama</placeName> and then in rural <placeName ref="#dvp_049_place_89">Vermont</placeName>, then come back in the fall of <date when="1966">’66</date>, go to <placeName ref="#dvp_049_place_90">Montpellier</placeName>, come back for a semester, then go to the <orgName ref="#dvp_049_org_112">United Nations</orgName>, then go to <orgName ref="#dvp_049_org_113">Miles College</orgName>, then come back and finish my spring in <placeName ref="#dvp_049_place_91">Hanover</placeName>, in <orgName ref="#dvp_049_org_114">C&amp;G</orgName>. Does that all make sense now?</u>
+      <u who="HARRISON">That makes sense. So let’s see. Where would have been in the fall of <date when="1967">1967</date> and winter of <date when="1968">1968</date>?</u>
+      <u who="PARKER">So <date when="1967">’67</date> would have been my senior year. I would have been at <orgName ref="#dvp_049_org_115">Miles College</orgName> in <placeName ref="#dvp_049_place_92">Birmingham, Alabama</placeName>. So this was another <orgName ref="#dvp_049_org_116">Dartmouth Christian Union</orgName> experience. I had signed up to teach at <orgName ref="#dvp_049_org_117">Miles College</orgName>. I was teaching there because a guy named <persName ref="#dvp_049_person_102">John Monro</persName> here at <orgName ref="#dvp_049_org_118">Harvard</orgName> had been a dean and was a total WASP and had resigned his deanship at <orgName ref="#dvp_049_org_119">Harvard</orgName> to become a dean at <orgName ref="#dvp_049_org_120">Miles College</orgName>, which was an historic black college that had been founded in the <name type="event" ref="#dvp_049_event_11">Reconstruction period</name>, and it was in suburban <placeName ref="#dvp_049_place_93">Birmingham</placeName>.<persName ref="#dvp_049_person_103">Doc Dey</persName> had recruited two of us: me and one of the—it must have been one of the two or three African students at <orgName ref="#dvp_049_org_121">Dartmouth</orgName> at that point, a guy named <persName ref="#dvp_049_person_104">[Christopher Z.] “Guy” Mhone [pronounced muh-HOE-nee; Class of 1968], M-h-o-n-e</persName>. And we got shipped south to <placeName ref="#dvp_049_place_94">Birmingham</placeName>. So this is my second time in <placeName ref="#dvp_049_place_95">Alabama</placeName>.And this time, it was that even though we were just 20-year-old, 21-year-old seniors, our job was to teach freshman and sophomore African-American students at <persName ref="#dvp_049_person_105">Miles</persName> because the academic level was so different. In economics, philosophy and political science. That’s what I remember <persName ref="#dvp_049_person_106">Guy</persName> and I were doing.So I moved in with <persName ref="#dvp_049_person_107">Guy</persName> to the home of an African-American dentist and his wife, an upper middle-class African-American, who was coincidentally the head of the <orgName ref="#dvp_049_org_122">Abraham Lincoln Club of Alabama</orgName>. [Chuckles.] It was an exclusively African-American club. But he and his wife were wonderful, and we lived in suburban <placeName ref="#dvp_049_place_96">Birmingham</placeName>, and I would walk and <persName ref="#dvp_049_person_108">Guy</persName> would walk to <placeName ref="#dvp_049_place_97">Miles</placeName>. And we would teach. And then I signed up at some point for the <orgName ref="#dvp_049_org_123">Miles College</orgName> marching band. So I was the only white guy in marching band of, I don’t know, a hundred kids. And we had a whole bunch of great experiences. And that’s one story.The other was that <persName ref="#dvp_049_person_109">Guy</persName> and I got involved with students from <placeName ref="#dvp_049_place_98">Miles</placeName> in the—you got to remember, this is <date when="1967">’67</date>. This is two years after the Civil Rights Act, three years after the Civil Rights Act, both—the two. And parts of <placeName ref="#dvp_049_place_99">Alabama</placeName> were still segregated. So we would be part of an integrated team that went down to try to force integration of restaurants in downtown <placeName ref="#dvp_049_place_100">Alabama</placeName> [sic]. I remember sitting in in <placeName ref="#dvp_049_place_101">Catfish King</placeName> in the fall of <date when="1967">1967</date> as if this were the <placeName ref="#dvp_049_place_102">Woolworth</placeName>’s in goddamn <date when="1959">1959</date> or <date when="1960">’60</date>, when kids were trying to—black kids were trying to break down segregation in <placeName ref="#dvp_049_place_103">North Carolina</placeName>.Now, this was, like, bullshit, frankly. I mean, it was <date when="1967">’67</date>. Federal law prohibited this. But, like,—you know, <placeName ref="#dvp_049_place_104">Alabama</placeName> didn’t care. So we would sit in, and we got, you know, whacked on the head, and I remember having beer cans and bricks thrown at us. [Chuckles.] And <persName ref="#dvp_049_person_110">Guy</persName> and I made a point of gathering up the beer cans because they were still full—</u>
+      <u who="HARRISON">[Chuckles.]</u>
+      <u who="PARKER">—and dodging the bricks. And so that was my fall, right?So then I go home to <placeName ref="#dvp_049_place_105">California</placeName> at Christmas, and then I come back at the end of Christmas to <placeName ref="#dvp_049_place_106">Dartmouth</placeName>, and I move into <orgName ref="#dvp_049_org_124">C&amp;G</orgName>, and that was a very, very lonely period in <date when="1968">’68</date> because that was the spring of <date when="1968">’68</date>, and you can imagine all the things that were happening then, so—</u>
+      <u who="HARRISON">So you have this—there’s this election coming up. There’s this primary in <placeName ref="#dvp_049_place_107">New Hampshire</placeName> on <date when="1968-03-12">March 12th</date>.</u>
+      <u who="PARKER">Yeah.</u>
+      <u who="HARRISON">And you move back after Christmas.</u>
+      <u who="PARKER">Yeah.</u>
+      <u who="HARRISON">Now, <persName ref="#dvp_049_person_111">McCarthy</persName> announced in early <date when="1968-01">January</date> that he would put his name into the <name type="event" ref="#dvp_049_event_12">New Hampshire primary</name> race.</u>
+      <u who="PARKER">Yeah.</u>
+      <u who="HARRISON">When can you remember hearing about <persName ref="#dvp_049_person_112">McCarthy</persName>?</u>
+      <u who="PARKER">So I would have been reading about <persName ref="#dvp_049_person_113">McCarthy</persName>—oh, we didn’t have the Internet, but I would have read newspaper accounts in the <orgName ref="#dvp_049_org_125">Birmingham News</orgName> or other places, about <persName ref="#dvp_049_person_114">McCarthy</persName> challenging <persName ref="#dvp_049_person_115">Johnson</persName>. We were all challenging <persName ref="#dvp_049_person_116">Johnson</persName>. “We all.” But, I mean, people like me who were in a minority in <placeName ref="#dvp_049_place_108">America</placeName> and a minority at <orgName ref="#dvp_049_org_126">Dartmouth</orgName>, an even smaller minority at <orgName ref="#dvp_049_org_127">Dartmouth</orgName>—we just thought it was, you know, what you ought to do, was challenge <persName ref="#dvp_049_person_117">Johnson</persName>’s war. We didn’t differentiate really clearly between <persName ref="#dvp_049_person_118">Johnson</persName> and <name type="event" ref="#dvp_049_event_13">Johnson’s war</name>. But it was <name type="event" ref="#dvp_049_event_14">Johnson’s war</name> that we were horrified by.And so I would have been back on campus for, I don’t know, a week at most, moved into <orgName ref="#dvp_049_org_128">C&amp;G</orgName> and would have heard about <persName ref="#dvp_049_person_119">McCarthy</persName>’s candidacy and, you know, its practicality in <placeName ref="#dvp_049_place_109">New Hampshire</placeName> terms, because, I mean, I knew about it abstractly. And I thought, Well, hell, I’m gonna go out and campaign for <persName ref="#dvp_049_person_120">McCarthy</persName>. So that’s when I signed up with—this is where it gets sort of vague, it’s so many years ago.</u>
+      <u who="HARRISON">If I could suggest a name, it could be—does the name <persName ref="#dvp_049_person_121">David [C.] Hoeh</persName>—he worked at <orgName ref="#dvp_049_org_129">Dartmouth</orgName>, does that ring a bell?</u>
+      <u who="PARKER">Yeah, it could be. It could be. Yeah, yeah. It could well be. All I remember was that the local <orgName ref="#dvp_049_org_130">Democratic Party</orgName> office was representing <persName ref="#dvp_049_person_122">Johnson</persName>, but there were people, including, you know, faculty wives and others, who were working there, and, you know, we—it was easy to sign up. So I did petitions, signatures in <placeName ref="#dvp_049_place_110">Hanover</placeName> and <placeName ref="#dvp_049_place_111">West Leb [West Lebanon]</placeName> and <placeName ref="#dvp_049_place_112">White River Junction [Vermont]</placeName> in <date when="1968-01">January</date> and <date when="1968-02">February</date> or in early <date when="1968-03">March</date>, right?</u>
+      <u who="HARRISON">That timeline makes sense, yes. And so can you remember the sort of response you would have gotten from any of the—you went door to door.</u>
+      <u who="PARKER">Well, in <placeName ref="#dvp_049_place_113">Hanover</placeName> it was kind of mixed. In <placeName ref="#dvp_049_place_114">West Leb</placeName> and <placeName ref="#dvp_049_place_115">White River</placeName>, it was mixed in a different way in that people didn’t know who the hell <persName ref="#dvp_049_person_123">McCarthy</persName> was, and there were, you know, some number of people who thought it was <persName ref="#dvp_049_person_124">Joe McCarthy</persName>, and they thought that was a good thing.</u>
+      <u who="HARRISON">Right.</u>
+      <u who="PARKER">So that kind of surprised me, right? That was, like, Whoa! The early ‘50s still alive in the late ’60s in <placeName ref="#dvp_049_place_116">New Hampshire</placeName>. But, of course, that was right.</u>
+      <u who="HARRISON">Do you think it was <persName ref="#dvp_049_person_125">McCarthy</persName>, himself, who motivated you to do this volunteer work and to support his campaign?</u>
+      <u who="PARKER">No, no. No, no, no, no, no.</u>
+      <u who="HARRISON">Was it opposition to <persName ref="#dvp_049_person_126">Johnson</persName>?</u>
+      <u who="PARKER">No, no. I mean, the arc of history had bent to <persName ref="#dvp_049_person_127">McCarthy</persName>. <persName ref="#dvp_049_person_128">McCarthy</persName> hadn’t shaped the arc of history.</u>
+      <u who="HARRISON">Uh-huh. So it really was opposition to <persName ref="#dvp_049_person_129">Johnson</persName> by that time.</u>
+      <u who="PARKER">Well, but I mean, look, it was that—it was <name type="event" ref="#dvp_049_event_15">Kennedy’s assassination</name>, it was <name type="event" ref="#dvp_049_event_16">Vietnam</name>, it was <name type="event" ref="#dvp_049_event_17">Selma</name>, it was the <placeName ref="#dvp_049_place_117">Birmingham</placeName> Jail, it was earlier than that. I mean, I was born in <date when="1946">1946</date>, so I can remember watching on television when I was 11 years old these African-American kids being beaten in <placeName ref="#dvp_049_place_118">Little Rock, Arkansas</placeName>, trying to integrate a school and being both horrified and completely disoriented by it. And I can also remember, as a personal experience about the same time, one summer crossing the <placeName ref="#dvp_049_place_119">United States</placeName> with my parents in a car and stopping at a filling station in <placeName ref="#dvp_049_place_120">Oklahoma</placeName> or the panhandle of <placeName ref="#dvp_049_place_121">Texas</placeName> and coming, racing back to my mother after going to the bathroom and hauling her out of the car and to have her explain to me, as, I don’t know, a 10-year-old, why the hell the fountain that said “Colored Water” didn’t produce colored water. It was just clear water, like the other fountain. I did not understand, as a <placeName ref="#dvp_049_place_122">Californian</placeName>, what the hell this “color” was about. I mean, I understood that there had been a race fight in <placeName ref="#dvp_049_place_123">America</placeName>, but I thought of it as something about the 19th century, not about what was happening. I vaguely understood, as a consequence of <name type="event" ref="#dvp_049_event_18">Brown v. Board of Education</name>, the <placeName ref="#dvp_049_place_124">Arkansas</placeName> fight, that it was still going on, but it took a while to crystallize while I was in middle school and high school, to understand that it really was vivid and large and real, that African-Americans were still being treated in a way that was, to me once I thought about it, incomprehensible.</u>
+      <u who="HARRISON">Was the <name type="event" ref="#dvp_049_event_19">Vietnam War</name> a distraction from fighting structural racism and—</u>
+      <u who="PARKER">No, no, it was a distraction, it was a whole new cha- —no, it was a whole new challenge, whole new challenge.</u>
+      <u who="HARRISON">Can you explain what you mean?</u>
+      <u who="PARKER">When you’re 18 years old, I mean, you have the appetite for a lot of challenges. I mean, that’s the thing about being an invincible young person. You’re, what, 21 or whatever it is. But, I mean, invincibility is one of the great gifts that you have at your age. And so handed one issue, to be handed a second issue was, Good! Let’s do this, too. And when it was explained to us that these were interconnected, somehow—I mean, this is so crude, but as people explained to us that racism and imperialism were somehow related, I didn’t fully buy into it because it wasn’t a structural explanation that was powerful to me, but the moral indignation I felt about both was so commensurate that, you know, I jumped in.</u>
+      <u who="HARRISON">Okay. And so that makes sense for me. And so can you remember these experiences with <persName ref="#dvp_049_person_130">McCarthy</persName> as they related on <placeName ref="#dvp_049_place_125">Dartmouth</placeName>’s campus? My understanding is it’s pretty rare to have had a <orgName ref="#dvp_049_org_131">Dartmouth</orgName> student volunteering for <persName ref="#dvp_049_person_131">McCarthy</persName> before the <date when="1968-03-12">March</date> primary. People didn’t really know about him.</u>
+      <u who="PARKER">Sure.</u>
+      <u who="HARRISON">Is that—</u>
+      <u who="PARKER">I mean, I don’t know. You can go back to <orgName ref="#dvp_049_org_132">The [Dartmouth] D</orgName> or whatever. I mean, I don’t know what was being reported, but, I mean, I knew. I was reading <orgName ref="#dvp_049_org_133">The [New York] Times</orgName>, and so we knew that there was this insurgent campaign forming and that we vaguely understood, I mean, that <placeName ref="#dvp_049_place_126">New Hampshire</placeName> was really critical. So, yeah, we knew. I mean, but, again, I mean, you know, I was—so, again, you got to remember—God, I don’t remember the exact time, but I remember that <persName ref="#dvp_049_person_132">[Alabama Governor and presidential candidate] George [C.] Wallace [Jr.]</persName> was invited to campus I think the spring of my soph- —no, my junior year, which would have been spring <date when="1967">’67</date>. And the small handful of black students and about an equal-sized number of us who were white protested <persName ref="#dvp_049_person_133">Wallace</persName> being invited on campus. We, you know, thought that it was just horrific. And so we did a demonstration that caused the school, the college to say that we all had to turn ourselves in and be prepared to be expelled from the summer term. Now, in those days, summer term meant nothing. You guys think of it as a real term, but it was just a non-term for us.And the idea that Southern racism had come to campus, to <placeName ref="#dvp_049_place_127">New Hampshire</placeName> was by itself appalling to us, and the second was that the administration tried to punish us for protesting <persName ref="#dvp_049_person_134">Wallace</persName>’s presence on campus. It was, like, “Are you kidding me?” And I don’t recall that any of us turned ourselves in.And so that sort of set up senior year, right?—for us. And so when I got back to campus after the <orgName ref="#dvp_049_org_134">United Nations</orgName> and then <placeName ref="#dvp_049_place_128">Alabama</placeName>, it was, like,—okay, this is the beginning of <date when="1968">’68</date>, so <date when="1968-01">January of ’68</date> the <name type="event" ref="#dvp_049_event_20">Tet Offensive</name> would have begun at the end of <date when="1968-01">January</date>.</u>
+      <u who="HARRISON">Right.</u>
+      <u who="PARKER">You know, you would have had a whole ser- —I mean, you could go through the chronology of that spring, but just think about what happened in that spring. I mean, really. I mean, <persName ref="#dvp_049_person_135">King</persName> was going to be killed. <persName ref="#dvp_049_person_136">Bobby Kennedy</persName> after we graduated was going to be killed. <persName ref="#dvp_049_person_137">Nixon</persName> was going to be elected. That summer, the <orgName ref="#dvp_049_org_135">Soviets</orgName> were going to invade <placeName ref="#dvp_049_place_129">Czechoslovakia</placeName>. There was going to be a run on gold that threatened to overturn the American global financial system. I mean, what else—it was kind of, like, you know, an interesting spring, an interesting time to be a senior.</u>
+      <u who="HARRISON">Absolutely.</u>
+      <u who="PARKER">And then they invited <persName ref="#dvp_049_person_138">Jake Javits</persName> to speak, and what I remember is that I and a couple of other people organized a protest so that we passed out white armbands to any senior in the graduation class who wanted to wear them. My recollection is that about a third of the class chose to wear white armbands.</u>
+      <u who="HARRISON">And what did those symbolize?</u>
+      <u who="PARKER">Huh? Protest against the war. Protest against the war. And against <placeName ref="#dvp_049_place_130">America</placeName> in general at that point.</u>
+      <u who="HARRISON">Can you remember a catch phrase from the <persName ref="#dvp_049_person_139">McCarthy</persName> campaign, “Clean for Gene”?</u>
+      <u who="PARKER">Oh, sure, yeah.</u>
+      <u who="HARRISON">Does that still have any meaning to you?</u>
+      <u who="PARKER">No. Uh-uh. No, I mean, because I don’t—you know, again, maybe it’s all—I mean, it’s the intervening years, but I don’t think of being given the opportunity to think that there was a kind of clean or innocent place from which we choose to protest the corruption of politics. It is just that we have to choose to protest the specific corruption of politics and the specific damage it does, but I don’t want to claim a kind of ingénue status for us who want to protest it.</u>
+      <u who="HARRISON">Can you remember, did it have that same meaning to you, do you think, in <date when="1968">1968</date>?</u>
+      <u who="PARKER">No, because I was beyond that. I mean, quickly enough—I mean, I had—you know, again, I mean, by the winter or spring of <date when="1968">’68</date>, what was horrific about the <name type="event" ref="#dvp_049_event_21">Vietnam War</name> was clear. What was horrific about civil rights was clear. The sense that <placeName ref="#dvp_049_place_131">America</placeName> was moving away from the values that we had been raised with was clear. And we had this—what was innocent, what was naïve, what was utopian was that somehow that we could, through a combination of music and sexual freedom and egalitarian treatment of one another, create a kind of utopian world immediately, generationally, if we just made the effort. That was our lack of innocence. We thought that you could actually resolve these problems through will and mass protests. That’s what we didn’t understand.</u>
+      <u who="HARRISON">At the same time, though, you and a number of other people became more involved in the electoral process by volunteering for a real candidate.</u>
+      <u who="PARKER">Yeah.</u>
+      <u who="HARRISON">So it wasn’t all—I mean would you label that the same way? Or would you call that—</u>
+      <u who="PARKER">Sure, of course. I mean, look, again, there’s a kind of a stupid binary here, which was you only did one or the other, and all of us—I mean, not all of us, but people—so there’s a continuum. Think about a stochastic understanding of this and think about a bell curve, and think about tails So there are always social movements that begin with the far tails because people are so crazy that they will do things that protest the normative, high part of the bell curve. And then you have to figure out whether that extreme tail is going to move toward the bell median.And so I was never one of the extreme tails. I was part of the slope, the shoulder. I was not the median, but I was not the tail. And so the question is: Could the tail persuade those of us who were on the shoulder, who were many more than on the tail but fewer than at the median, that something needed change? That was who we were. That was why it didn’t seem to me a contradiction to protest—I mean, that spring of my senior year, I was going to hitchhike down to <placeName ref="#dvp_049_place_132">Boston</placeName> and hand in my draft card, which I did. And yet it didn’t seem to me a contradiction with, you know, working for <persName ref="#dvp_049_person_140">McCarthy</persName>. It was just like one more avenue for trying to make change.</u>
+      <u who="HARRISON">And so going back to something I asked you before—this is a very interesting point, what you’re saying, and I think I’m understanding it, but the ideas that <persName ref="#dvp_049_person_141">McCarthy</persName>’s personality, <persName ref="#dvp_049_person_142">McCarthy</persName>’s campaign platform—it didn’t really matter beyond, in your words, another avenue toward the structural change and policy change you wanted to see. Is that right?</u>
+      <u who="PARKER">Sure. Yeah. I mean, again, you got to remember, it was—I mean, “again,”—I’m a little vague on this, but there were two big antiwar movements. There was the <orgName ref="#dvp_049_org_136">Mobe</orgName>. [Transcriber’s note: The Spring Mobilization Committee to End the War in Vietnam, which became the National Mobilization Committee to End the War in Vietnam, was a coalition of antiwar activists formed in 1967 to organize large demonstrations in &lt;a href="http://en.wikipedia.org/wiki/Opposition_to_U.S._involvement_in_the_Vietnam_War"&gt;opposition to the Vietnam War&lt;/a&gt;. The organizations were informally known as “the Mobe.”] And there was something else. I can’t remember the name of it. But one was led by <persName ref="#dvp_049_person_143">Sam [W.] Brown [Jr.]</persName>, which was the more moderate group. And then there was a more radical group. And, you know, I moved back and forth between the two groups. And it didn’t seem to me that there was anything wrong between [sic] moving back and forth. I think if I thought about my ancestor, <persName ref="#dvp_049_person_144">Theodore Parker</persName>, who was a Unitarian minister in the period of the 1940s and ’50s, that he both preached in a nonviolent way against slavery and then was one of the so-called <orgName ref="#dvp_049_org_137">Secret Six</orgName>, who helped finance <name type="event" ref="#dvp_049_event_22">John Brown’s raid on Harpers Ferry</name>. You did both, right?</u>
+      <u who="HARRISON">Yeah.</u>
+      <u who="PARKER">You did both, so you were pushing limits in both ways, trying to find out what would make historic change, so if some of it was more radical and it was less supported by more people—it was supported by fewer people—that didn’t mean that it was prohibited, you just had to weigh the two and think about—you know, you push on the left, you push on the right. These are levers that you push to try to move toward something, not defined by one or the other lever.</u>
+      <u who="HARRISON">What were some of the things that you would have done, that you did outside of the support and volunteering for <persName ref="#dvp_049_person_145">Eugene McCarthy</persName>, similar avenues toward creating this sort of change?</u>
+      <u who="PARKER">In the spring of my senior year, or what are you talking about?</u>
+      <u who="HARRISON">Yeah, I mean—</u>
+      <u who="PARKER">I mean, there was a point in the spring of junior year where  we did—I mean, Christ! I think it was about <placeName ref="#dvp_049_place_133">South Africa</placeName>. I just don’t remember anymore. <persName ref="#dvp_049_person_146">Reich</persName> was part of it. But we were protest- —we were calling for divestment. I think it was—I think it was <placeName ref="#dvp_049_place_134">South Africa</placeName>. There must be, again, a <orgName ref="#dvp_049_org_138">D</orgName> record of this. But what’s the administration hall that got occupied? Here it’s <placeName ref="#dvp_049_place_135">Mass Hall [Massachusetts Hall]</placeName>, but I don’t remember what it’s called at <orgName ref="#dvp_049_org_139">Dartmouth</orgName> anymore.</u>
+      <u who="HARRISON"><placeName ref="#dvp_049_place_136">Parkhurst Hall</placeName>, and that was in <date when="1969">1969</date>.</u>
+      <u who="PARKER">Yeah. Yeah, yeah, yeah. And so <persName ref="#dvp_049_person_147">Reich</persName> would have been our negotiator, and I would have been the lead person on the people outside, and I want to say it was, like, <placeName ref="#dvp_049_place_137">South Africa</placeName> because—I don’t if the <persName ref="#dvp_049_person_148">Sullivan</persName> principle is pushed. I mean, somehow—somehow <placeName ref="#dvp_049_place_138">South Africa</placeName> had come onto our radar screen as one more issue that we were concerned about.And, again, there was no discontinuity between what <persName ref="#dvp_049_person_149">Reich</persName> was doing, negotiating with—[Sighs.] God, what was his name? I’m drawing a blank. <persName ref="#dvp_049_person_150">Seymour</persName>. <persName ref="#dvp_049_person_151">Thad Seymour</persName>.</u>
+      <u who="HARRISON"><persName ref="#dvp_049_person_152">Thaddeus Seymour</persName>, the dean.</u>
+      <u who="PARKER">Yeah, <persName ref="#dvp_049_person_153">Thad</persName>. Or <persName ref="#dvp_049_person_154">[Dartmouth president] John Sloan Dickey [Class of 1929]</persName>, right? There was no discontinuity, and it was just sort of: “Yeah, okay, <persName ref="#dvp_049_person_155">Bob</persName>’s inside negotiating, and we’re outside here, keeping up the pressure.” You know, you didn’t think of it as differentiated.</u>
+      <u who="HARRISON">Any other protest activities? You’ve told me about two. You’ve told me about this <name type="event" ref="#dvp_049_event_23">Parkhurst incident</name>, and you told me about the white bands at commencement.</u>
+      <u who="PARKER">Yeah.</u>
+      <u who="HARRISON">Any other—oh, and a third, you’ve told me about the—</u>
+      <u who="PARKER">The <name type="event" ref="#dvp_049_event_24">George Wallace protests</name>.</u>
+      <u who="HARRISON">Right, that’s the third one.</u>
+      <u who="PARKER"><persName ref="#dvp_049_person_156">George Wallace</persName>, and then I think it was the <placeName ref="#dvp_049_place_139">South Africa</placeName> stuff. Those had both been big in my junior year. I would have gone down for antiwar protests at the <placeName ref="#dvp_049_place_140">Pentagon</placeName>. I remember getting—[Chuckles.] I remember getting in trouble because several of us took a car owned by I think it was the <orgName ref="#dvp_049_org_140">DCU</orgName> or <orgName ref="#dvp_049_org_141">Dartmouth</orgName> and drove it, without clear permission, down to <placeName ref="#dvp_049_place_141">Washington</placeName> in order to protest. I think it was the <date when="1965">’65</date> or <date when="1966">’66</date> antiwar protest. I can’t remember. So we got ourselves in a wee bit of trouble for that, but not big.</u>
+      <u who="HARRISON">Who was it who was able to think this way, who was able to move beyond the superficial contradiction between protest and volunteering? What do you think allowed you to move beyond that superficial contradiction?</u>
+      <u who="PARKER">Oh, I’m sure that it was being raised in a ministerial environment. I mean, I was free of a desire to make money. I was deeply committed to the idea of learning and the belief that a society that is best is one that encourages learning and equality, which is, you know, what the collegial idea of scholarship is. And I had grown up in southern <placeName ref="#dvp_049_place_142">California</placeName> that was, by the terms of <placeName ref="#dvp_049_place_143">America</placeName> in the ’50s, pretty radically egalitarian in the sense that it was, you know, pre-middle class. I mean, when left protestors today kind of weakly talk about, you know, the broad middle class, that was what I grew up in in the ’50s, you know, where there was an upper middle class that consisted of doctors and lawyers, there was a lower middle class that wasn’t very “lower,” that consisted of skilled machinists, and my dad was by status upper middle class but by income lower middle class. And it just felt natural to navigate that broad middle class. But I didn’t see stark poverty, and I never saw stark wealth growing up, and so I thought both of them had somehow been abolished in the <persName ref="#dvp_049_person_157">Roosevelt</persName> period. So you get to <orgName ref="#dvp_049_org_142">Dartmouth</orgName> and you discover wealth, and then you go to <placeName ref="#dvp_049_place_144">Alabama</placeName> and you discover poverty, and you go, Whoa! What the hell just happened here? Whose <placeName ref="#dvp_049_place_145">America</placeName> is this?</u>
+      <u who="HARRISON">Hmm. At the same time, was this common at <orgName ref="#dvp_049_org_143">Dartmouth</orgName> in <date when="1968">1968</date>?</u>
+      <u who="PARKER">You mean, am I representative of my class? No, I don’t think so. I think I’m probably 10 percent, 15 percent of my class.</u>
+      <u who="HARRISON">Okay. All right.</u>
+      <u who="PARKER">It doesn’t mean that larger percentages of my class didn’t understand. It was touching to me when you and I met that three of my classmates had shown up to hear me talk. I mean, I knew one of them vaguely. I didn’t even remember the other two. And they didn’t just show up because, you know, I was a classmate, but they thought, Wow! You know, <persName ref="#dvp_049_person_158">Reich</persName>, <persName ref="#dvp_049_person_159">Parker</persName>—you know, they’re talking about stuff that matters to us. And they were pretty, you know, middle-of-the- road, even conservative business types. I mean, one’s a real[tor], a former real[tor]. I mean, they were all retired, but it was, like, realtor, business, lawyer. And that was what was so nice about, you know, the period, which was the broad middle class of my generation was not as fearful nor as acquisitive as it is in yours.</u>
+      <u who="HARRISON">Hmm. All right, Professor. Well, I’ve taken about an hour and 15 minutes of your time.</u>
+      <u who="PARKER">I’m sorry if this is more than you wanted. I apologize.</u>
+      <u who="HARRISON">Oh, no. No, no, no. This has been a very interesting interview, and you have added a great deal of definition to the project I’m working on, so I’m very grateful. But I do feel like—well, I know you had said about half an hour, about a half an hour ago, so I want to respect that—</u>
+      <u who="PARKER">All right.</u>
+      <u who="HARRISON">—and let you get back to work.</u>
+      <u who="PARKER">Good.</u>
+      <u who="HARRISON">But thank you very much for—</u>
+      <u who="PARKER">I hope it’s helpful.</u>
+      <u who="HARRISON">—taking the time to talk to me.[End of interview.]</u>
+    </body>
+  </text>
+  <standOff>
+    <listPlace>
+      <place xml:id="dvp_049_place_0">
+        <placeName>Los Angeles</placeName>
+        <location>
+          <geo>34.05223 -118.24368</geo>
+        </location>
+        <idno type="WD">Q65</idno>
+      </place>
+      <place xml:id="dvp_049_place_1">
+        <placeName>Los Angeles</placeName>
+        <location>
+          <geo>34.05223 -118.24368</geo>
+        </location>
+        <idno type="WD">Q65</idno>
+      </place>
+      <place xml:id="dvp_049_place_2">
+        <placeName>United States of America</placeName>
+        <location>
+          <geo>39.828175 -98.5795</geo>
+        </location>
+        <idno type="WD">Q30</idno>
+      </place>
+      <place xml:id="dvp_049_place_3">
+        <placeName>United States of America</placeName>
+        <location>
+          <geo>39.828175 -98.5795</geo>
+        </location>
+        <idno type="WD">Q30</idno>
+      </place>
+      <place xml:id="dvp_049_place_4">
+        <placeName>California</placeName>
+        <location>
+          <geo>37 -120</geo>
+        </location>
+        <idno type="WD">Q99</idno>
+      </place>
+      <place xml:id="dvp_049_place_5">
+        <placeName>California</placeName>
+        <location>
+          <geo>37 -120</geo>
+        </location>
+        <idno type="WD">Q99</idno>
+      </place>
+      <place xml:id="dvp_049_place_6">
+        <placeName>Dartmouth College</placeName>
+        <location>
+          <geo>43.703333333333 -72.288333333333</geo>
+        </location>
+        <idno type="WD">Q49116</idno>
+      </place>
+      <place xml:id="dvp_049_place_7">
+        <placeName>The Green</placeName>
+        <location>
+          <geo>43.7033 -72.2886</geo>
+        </location>
+        <idno type="WD">Q7738117</idno>
+      </place>
+      <place xml:id="dvp_049_place_8">
+        <placeName>The Green</placeName>
+        <location>
+          <geo>43.7033 -72.2886</geo>
+        </location>
+        <idno type="WD">Q7738117</idno>
+      </place>
+      <place xml:id="dvp_049_place_9">
+        <placeName>California</placeName>
+        <location>
+          <geo>37 -120</geo>
+        </location>
+        <idno type="WD">Q99</idno>
+      </place>
+      <place xml:id="dvp_049_place_10">
+        <placeName>Hanover</placeName>
+        <location>
+          <geo>43.7 -72.28333333333333</geo>
+        </location>
+        <idno type="WD">Q131908</idno>
+      </place>
+      <place xml:id="dvp_049_place_11">
+        <placeName>United States of America</placeName>
+        <location>
+          <geo>39.828175 -98.5795</geo>
+        </location>
+        <idno type="WD">Q30</idno>
+      </place>
+      <place xml:id="dvp_049_place_12">
+        <placeName>Los Angeles</placeName>
+        <location>
+          <geo>34.05223 -118.24368</geo>
+        </location>
+        <idno type="WD">Q65</idno>
+      </place>
+      <place xml:id="dvp_049_place_13">
+        <placeName>New Hampshire</placeName>
+        <location>
+          <geo>44 -71.5</geo>
+        </location>
+        <idno type="WD">Q759</idno>
+      </place>
+      <place xml:id="dvp_049_place_14">
+        <placeName>Los Angeles</placeName>
+        <location>
+          <geo>34.05223 -118.24368</geo>
+        </location>
+        <idno type="WD">Q65</idno>
+      </place>
+      <place xml:id="dvp_049_place_15">
+        <placeName>United States of America</placeName>
+        <location>
+          <geo>39.828175 -98.5795</geo>
+        </location>
+        <idno type="WD">Q30</idno>
+      </place>
+      <place xml:id="dvp_049_place_16">
+        <placeName>Hanover</placeName>
+        <location>
+          <geo>43.7 -72.28333333333333</geo>
+        </location>
+        <idno type="WD">Q131908</idno>
+      </place>
+      <place xml:id="dvp_049_place_17">
+        <placeName>Arizona</placeName>
+        <location>
+          <geo>34.286667 -111.656944</geo>
+        </location>
+        <idno type="WD">Q816</idno>
+      </place>
+      <place xml:id="dvp_049_place_18">
+        <placeName>Los Angeles</placeName>
+        <location>
+          <geo>34.05223 -118.24368</geo>
+        </location>
+        <idno type="WD">Q65</idno>
+      </place>
+      <place xml:id="dvp_049_place_19">
+        <placeName>Arizona</placeName>
+        <location>
+          <geo>34.286667 -111.656944</geo>
+        </location>
+        <idno type="WD">Q816</idno>
+      </place>
+      <place xml:id="dvp_049_place_20">
+        <placeName>Vietnam</placeName>
+        <location>
+          <geo>16 108</geo>
+        </location>
+        <idno type="WD">Q881</idno>
+      </place>
+      <place xml:id="dvp_049_place_21">
+        <placeName>Vietnam</placeName>
+        <location>
+          <geo>16 108</geo>
+        </location>
+        <idno type="WD">Q881</idno>
+      </place>
+      <place xml:id="dvp_049_place_22">
+        <placeName>United States of America</placeName>
+        <location>
+          <geo>39.828175 -98.5795</geo>
+        </location>
+        <idno type="WD">Q30</idno>
+      </place>
+      <place xml:id="dvp_049_place_23">
+        <placeName>Vietnam</placeName>
+        <location>
+          <geo>16 108</geo>
+        </location>
+        <idno type="WD">Q881</idno>
+      </place>
+      <place xml:id="dvp_049_place_24">
+        <placeName>United States of America</placeName>
+        <location>
+          <geo>39.828175 -98.5795</geo>
+        </location>
+        <idno type="WD">Q30</idno>
+      </place>
+      <place xml:id="dvp_049_place_25">
+        <placeName>Los Angeles</placeName>
+        <location>
+          <geo>34.05223 -118.24368</geo>
+        </location>
+        <idno type="WD">Q65</idno>
+      </place>
+      <place xml:id="dvp_049_place_26">
+        <placeName>Hanover</placeName>
+        <location>
+          <geo>43.7 -72.28333333333333</geo>
+        </location>
+        <idno type="WD">Q131908</idno>
+      </place>
+      <place xml:id="dvp_049_place_27">
+        <placeName>Los Angeles</placeName>
+        <location>
+          <geo>34.05223 -118.24368</geo>
+        </location>
+        <idno type="WD">Q65</idno>
+      </place>
+      <place xml:id="dvp_049_place_28">
+        <placeName>Watts</placeName>
+        <location>
+          <geo>33.941666666667 -118.24166666667</geo>
+        </location>
+        <idno type="WD">Q1687279</idno>
+      </place>
+      <place xml:id="dvp_049_place_29">
+        <placeName>South Los Angeles</placeName>
+        <location>
+          <geo>33.982 -118.24</geo>
+        </location>
+        <idno type="WD">Q587064</idno>
+      </place>
+      <place xml:id="dvp_049_place_30">
+        <placeName>California</placeName>
+        <location>
+          <geo>37 -120</geo>
+        </location>
+        <idno type="WD">Q99</idno>
+      </place>
+      <place xml:id="dvp_049_place_31">
+        <placeName>University of Southern California</placeName>
+        <location>
+          <geo>34.021667 -118.285278</geo>
+        </location>
+        <idno type="WD">Q4614</idno>
+      </place>
+      <place xml:id="dvp_049_place_32">
+        <placeName>United States of America</placeName>
+        <location>
+          <geo>39.828175 -98.5795</geo>
+        </location>
+        <idno type="WD">Q30</idno>
+      </place>
+      <place xml:id="dvp_049_place_33">
+        <placeName>United States of America</placeName>
+        <location>
+          <geo>39.828175 -98.5795</geo>
+        </location>
+        <idno type="WD">Q30</idno>
+      </place>
+      <place xml:id="dvp_049_place_34">
+        <placeName>United States of America</placeName>
+        <location>
+          <geo>39.828175 -98.5795</geo>
+        </location>
+        <idno type="WD">Q30</idno>
+      </place>
+      <place xml:id="dvp_049_place_35">
+        <placeName>Webster Avenue</placeName>
+        <location>
+          <geo>43.70652 -72.29225</geo>
+        </location>
+        <idno type="WD">Q105454005</idno>
+      </place>
+      <place xml:id="dvp_049_place_36">
+        <placeName>United States of America</placeName>
+        <location>
+          <geo>39.828175 -98.5795</geo>
+        </location>
+        <idno type="WD">Q30</idno>
+      </place>
+      <place xml:id="dvp_049_place_37">
+        <placeName>United States of America</placeName>
+        <location>
+          <geo>39.828175 -98.5795</geo>
+        </location>
+        <idno type="WD">Q30</idno>
+      </place>
+      <place xml:id="dvp_049_place_38">
+        <placeName>Connecticut</placeName>
+        <location>
+          <geo>41.6 -72.7</geo>
+        </location>
+        <idno type="WD">Q779</idno>
+      </place>
+      <place xml:id="dvp_049_place_39">
+        <placeName>Watts</placeName>
+        <location>
+          <geo>33.941666666667 -118.24166666667</geo>
+        </location>
+        <idno type="WD">Q1687279</idno>
+      </place>
+      <place xml:id="dvp_049_place_40">
+        <placeName>Alabama</placeName>
+        <location>
+          <geo>32.7 -86.7</geo>
+        </location>
+        <idno type="WD">Q173</idno>
+      </place>
+      <place xml:id="dvp_049_place_41">
+        <placeName>Talladega</placeName>
+        <location>
+          <geo>33.434728 -86.101299</geo>
+        </location>
+        <idno type="WD">Q79975</idno>
+      </place>
+      <place xml:id="dvp_049_place_42">
+        <placeName>Watts</placeName>
+        <location>
+          <geo>33.941666666667 -118.24166666667</geo>
+        </location>
+        <idno type="WD">Q1687279</idno>
+      </place>
+      <place xml:id="dvp_049_place_43">
+        <placeName>Talladega</placeName>
+        <location>
+          <geo>33.434728 -86.101299</geo>
+        </location>
+        <idno type="WD">Q79975</idno>
+      </place>
+      <place xml:id="dvp_049_place_44">
+        <placeName>Collis Center for Student Involvement</placeName>
+        <location>
+          <geo>43.70277 -72.28991</geo>
+        </location>
+        <idno type="WD">Q100725367</idno>
+      </place>
+      <place xml:id="dvp_049_place_45">
+        <placeName>Collis Center for Student Involvement</placeName>
+        <location>
+          <geo>43.70277 -72.28991</geo>
+        </location>
+        <idno type="WD">Q100725367</idno>
+      </place>
+      <place xml:id="dvp_049_place_46">
+        <placeName>Collis Center for Student Involvement</placeName>
+        <location>
+          <geo>43.70277 -72.28991</geo>
+        </location>
+        <idno type="WD">Q100725367</idno>
+      </place>
+      <place xml:id="dvp_049_place_47">
+        <placeName>Talladega College</placeName>
+        <location>
+          <geo>33.4321 -86.1133</geo>
+        </location>
+        <idno type="WD">Q7680006</idno>
+      </place>
+      <place xml:id="dvp_049_place_48">
+        <placeName>Tennessee</placeName>
+        <location>
+          <geo>36 -86</geo>
+        </location>
+        <idno type="WD">Q1509</idno>
+      </place>
+      <place xml:id="dvp_049_place_49">
+        <placeName>Vermont</placeName>
+        <location>
+          <geo>44 -72.7</geo>
+        </location>
+        <idno type="WD">Q16551</idno>
+      </place>
+      <place xml:id="dvp_049_place_50">
+        <placeName>Choate Rosemary Hall</placeName>
+        <location>
+          <geo>41.4577 -72.8097</geo>
+        </location>
+        <idno type="WD">Q5103452</idno>
+      </place>
+      <place xml:id="dvp_049_place_51">
+        <placeName>Talladega</placeName>
+        <location>
+          <geo>33.434728 -86.101299</geo>
+        </location>
+        <idno type="WD">Q79975</idno>
+      </place>
+      <place xml:id="dvp_049_place_52">
+        <placeName>Alabama</placeName>
+        <location>
+          <geo>32.7 -86.7</geo>
+        </location>
+        <idno type="WD">Q173</idno>
+      </place>
+      <place xml:id="dvp_049_place_53">
+        <placeName>Bridgewater</placeName>
+        <location>
+          <geo>43.619444444444 -72.671944444444</geo>
+        </location>
+        <idno type="WD">Q3447795</idno>
+      </place>
+      <place xml:id="dvp_049_place_54">
+        <placeName>Woodstock</placeName>
+        <location>
+          <geo>43.62416666666667 -72.51833333333333</geo>
+        </location>
+        <idno type="WD">Q1012397</idno>
+      </place>
+      <place xml:id="dvp_049_place_55">
+        <placeName>New York City</placeName>
+        <location>
+          <geo>40.67 -73.94</geo>
+        </location>
+        <idno type="WD">Q60</idno>
+      </place>
+      <place xml:id="dvp_049_place_56">
+        <placeName>Bridgewater</placeName>
+        <location>
+          <geo>43.619444444444 -72.671944444444</geo>
+        </location>
+        <idno type="WD">Q3447795</idno>
+      </place>
+      <place xml:id="dvp_049_place_57">
+        <placeName>Vermont</placeName>
+        <location>
+          <geo>44 -72.7</geo>
+        </location>
+        <idno type="WD">Q16551</idno>
+      </place>
+      <place xml:id="dvp_049_place_58">
+        <placeName>Hanover</placeName>
+        <location>
+          <geo>43.7 -72.28333333333333</geo>
+        </location>
+        <idno type="WD">Q131908</idno>
+      </place>
+      <place xml:id="dvp_049_place_59">
+        <placeName>Vermont</placeName>
+        <location>
+          <geo>44 -72.7</geo>
+        </location>
+        <idno type="WD">Q16551</idno>
+      </place>
+      <place xml:id="dvp_049_place_60">
+        <placeName>Hanover</placeName>
+        <location>
+          <geo>43.7 -72.28333333333333</geo>
+        </location>
+        <idno type="WD">Q131908</idno>
+      </place>
+      <place xml:id="dvp_049_place_61">
+        <placeName>Alabama</placeName>
+        <location>
+          <geo>32.7 -86.7</geo>
+        </location>
+        <idno type="WD">Q173</idno>
+      </place>
+      <place xml:id="dvp_049_place_62">
+        <placeName>Kentucky</placeName>
+        <location>
+          <geo>37.5 -85</geo>
+        </location>
+        <idno type="WD">Q1603</idno>
+      </place>
+      <place xml:id="dvp_049_place_63">
+        <placeName>Hindman</placeName>
+        <location>
+          <geo>37.3372 -82.9811</geo>
+        </location>
+        <idno type="WD">Q2298938</idno>
+      </place>
+      <place xml:id="dvp_049_place_64">
+        <placeName>California</placeName>
+        <location>
+          <geo>37 -120</geo>
+        </location>
+        <idno type="WD">Q99</idno>
+      </place>
+      <place xml:id="dvp_049_place_65">
+        <placeName>Hindman</placeName>
+        <location>
+          <geo>37.3372 -82.9811</geo>
+        </location>
+        <idno type="WD">Q2298938</idno>
+      </place>
+      <place xml:id="dvp_049_place_66">
+        <placeName>Hindman</placeName>
+        <location>
+          <geo>37.3372 -82.9811</geo>
+        </location>
+        <idno type="WD">Q2298938</idno>
+      </place>
+      <place xml:id="dvp_049_place_67">
+        <placeName>Vietnam</placeName>
+        <location>
+          <geo>16 108</geo>
+        </location>
+        <idno type="WD">Q881</idno>
+      </place>
+      <place xml:id="dvp_049_place_68">
+        <placeName>United States of America</placeName>
+        <location>
+          <geo>39.828175 -98.5795</geo>
+        </location>
+        <idno type="WD">Q30</idno>
+      </place>
+      <place xml:id="dvp_049_place_69">
+        <placeName>Dallas</placeName>
+        <location>
+          <geo>32.779166666667 -96.808888888889</geo>
+        </location>
+        <idno type="WD">Q16557</idno>
+      </place>
+      <place xml:id="dvp_049_place_70">
+        <placeName>Vietnam</placeName>
+        <location>
+          <geo>16 108</geo>
+        </location>
+        <idno type="WD">Q881</idno>
+      </place>
+      <place xml:id="dvp_049_place_71">
+        <placeName>Vietnam</placeName>
+        <location>
+          <geo>16 108</geo>
+        </location>
+        <idno type="WD">Q881</idno>
+      </place>
+      <place xml:id="dvp_049_place_72">
+        <placeName>United States of America</placeName>
+        <location>
+          <geo>39.828175 -98.5795</geo>
+        </location>
+        <idno type="WD">Q30</idno>
+      </place>
+      <place xml:id="dvp_049_place_73">
+        <placeName>Vietnam</placeName>
+        <location>
+          <geo>16 108</geo>
+        </location>
+        <idno type="WD">Q881</idno>
+      </place>
+      <place xml:id="dvp_049_place_74">
+        <placeName>United States of America</placeName>
+        <location>
+          <geo>39.828175 -98.5795</geo>
+        </location>
+        <idno type="WD">Q30</idno>
+      </place>
+      <place xml:id="dvp_049_place_75">
+        <placeName>United States of America</placeName>
+        <location>
+          <geo>39.828175 -98.5795</geo>
+        </location>
+        <idno type="WD">Q30</idno>
+      </place>
+      <place xml:id="dvp_049_place_76">
+        <placeName>New York City</placeName>
+        <location>
+          <geo>40.67 -73.94</geo>
+        </location>
+        <idno type="WD">Q60</idno>
+      </place>
+      <place xml:id="dvp_049_place_77">
+        <placeName>France</placeName>
+        <location>
+          <geo>47 2</geo>
+        </location>
+        <idno type="WD">Q142</idno>
+      </place>
+      <place xml:id="dvp_049_place_78">
+        <placeName>France</placeName>
+        <location>
+          <geo>47 2</geo>
+        </location>
+        <idno type="WD">Q142</idno>
+      </place>
+      <place xml:id="dvp_049_place_79">
+        <placeName>France</placeName>
+        <location>
+          <geo>47 2</geo>
+        </location>
+        <idno type="WD">Q142</idno>
+      </place>
+      <place xml:id="dvp_049_place_80">
+        <placeName>Montpellier</placeName>
+        <location>
+          <geo>43.610919444444 3.8772305555556</geo>
+        </location>
+        <idno type="WD">Q6441</idno>
+      </place>
+      <place xml:id="dvp_049_place_81">
+        <placeName>France</placeName>
+        <location>
+          <geo>47 2</geo>
+        </location>
+        <idno type="WD">Q142</idno>
+      </place>
+      <place xml:id="dvp_049_place_82">
+        <placeName>France</placeName>
+        <location>
+          <geo>47 2</geo>
+        </location>
+        <idno type="WD">Q142</idno>
+      </place>
+      <place xml:id="dvp_049_place_83">
+        <placeName>France</placeName>
+        <location>
+          <geo>47 2</geo>
+        </location>
+        <idno type="WD">Q142</idno>
+      </place>
+      <place xml:id="dvp_049_place_84">
+        <placeName>California</placeName>
+        <location>
+          <geo>37 -120</geo>
+        </location>
+        <idno type="WD">Q99</idno>
+      </place>
+      <place xml:id="dvp_049_place_85">
+        <placeName>California</placeName>
+        <location>
+          <geo>37 -120</geo>
+        </location>
+        <idno type="WD">Q99</idno>
+      </place>
+      <place xml:id="dvp_049_place_86">
+        <placeName>Watts</placeName>
+        <location>
+          <geo>33.941666666667 -118.24166666667</geo>
+        </location>
+        <idno type="WD">Q1687279</idno>
+      </place>
+      <place xml:id="dvp_049_place_87">
+        <placeName>Dartmouth College</placeName>
+        <location>
+          <geo>43.703333333333 -72.288333333333</geo>
+        </location>
+        <idno type="WD">Q49116</idno>
+      </place>
+      <place xml:id="dvp_049_place_88">
+        <placeName>Alabama</placeName>
+        <location>
+          <geo>32.7 -86.7</geo>
+        </location>
+        <idno type="WD">Q173</idno>
+      </place>
+      <place xml:id="dvp_049_place_89">
+        <placeName>Vermont</placeName>
+        <location>
+          <geo>44 -72.7</geo>
+        </location>
+        <idno type="WD">Q16551</idno>
+      </place>
+      <place xml:id="dvp_049_place_90">
+        <placeName>Montpellier</placeName>
+        <location>
+          <geo>43.610919444444 3.8772305555556</geo>
+        </location>
+        <idno type="WD">Q6441</idno>
+      </place>
+      <place xml:id="dvp_049_place_91">
+        <placeName>Hanover</placeName>
+        <location>
+          <geo>43.7 -72.28333333333333</geo>
+        </location>
+        <idno type="WD">Q131908</idno>
+      </place>
+      <place xml:id="dvp_049_place_92">
+        <placeName>Birmingham</placeName>
+        <location>
+          <geo>33.524755 -86.81274</geo>
+        </location>
+        <idno type="WD">Q79867</idno>
+      </place>
+      <place xml:id="dvp_049_place_93">
+        <placeName>Birmingham</placeName>
+        <location>
+          <geo>33.524755 -86.81274</geo>
+        </location>
+        <idno type="WD">Q79867</idno>
+      </place>
+      <place xml:id="dvp_049_place_94">
+        <placeName>Birmingham</placeName>
+        <location>
+          <geo>33.524755 -86.81274</geo>
+        </location>
+        <idno type="WD">Q79867</idno>
+      </place>
+      <place xml:id="dvp_049_place_95">
+        <placeName>Alabama</placeName>
+        <location>
+          <geo>32.7 -86.7</geo>
+        </location>
+        <idno type="WD">Q173</idno>
+      </place>
+      <place xml:id="dvp_049_place_96">
+        <placeName>Birmingham</placeName>
+        <location>
+          <geo>33.524755 -86.81274</geo>
+        </location>
+        <idno type="WD">Q79867</idno>
+      </place>
+      <place xml:id="dvp_049_place_97">
+        <placeName>Miles College</placeName>
+        <location>
+          <geo>33.4806 -86.9089</geo>
+        </location>
+        <idno type="WD">Q2272814</idno>
+      </place>
+      <place xml:id="dvp_049_place_98">
+        <placeName>Miles College</placeName>
+        <location>
+          <geo>33.4806 -86.9089</geo>
+        </location>
+        <idno type="WD">Q2272814</idno>
+      </place>
+      <place xml:id="dvp_049_place_99">
+        <placeName>Alabama</placeName>
+        <location>
+          <geo>32.7 -86.7</geo>
+        </location>
+        <idno type="WD">Q173</idno>
+      </place>
+      <place xml:id="dvp_049_place_100">
+        <placeName>Alabama</placeName>
+        <location>
+          <geo>32.7 -86.7</geo>
+        </location>
+        <idno type="WD">Q173</idno>
+      </place>
+      <place xml:id="dvp_049_place_101">
+        <placeName>Catfish King</placeName>
+        <location>
+          <geo>33.4962198 -86.9211034</geo>
+        </location>
+        <idno type="WD">Q105463922</idno>
+      </place>
+      <place xml:id="dvp_049_place_102">
+        <placeName>Greensboro sit-ins</placeName>
+        <location>
+          <geo>36.0716667 -79.7927443</geo>
+        </location>
+        <idno type="WD">Q5604469</idno>
+      </place>
+      <place xml:id="dvp_049_place_103">
+        <placeName>North Carolina</placeName>
+        <location>
+          <geo>35.5 -80</geo>
+        </location>
+        <idno type="WD">Q1454</idno>
+      </place>
+      <place xml:id="dvp_049_place_104">
+        <placeName>Alabama</placeName>
+        <location>
+          <geo>32.7 -86.7</geo>
+        </location>
+        <idno type="WD">Q173</idno>
+      </place>
+      <place xml:id="dvp_049_place_105">
+        <placeName>California</placeName>
+        <location>
+          <geo>37 -120</geo>
+        </location>
+        <idno type="WD">Q99</idno>
+      </place>
+      <place xml:id="dvp_049_place_106">
+        <placeName>Dartmouth College</placeName>
+        <location>
+          <geo>43.703333333333 -72.288333333333</geo>
+        </location>
+        <idno type="WD">Q49116</idno>
+      </place>
+      <place xml:id="dvp_049_place_107">
+        <placeName>New Hampshire</placeName>
+        <location>
+          <geo>44 -71.5</geo>
+        </location>
+        <idno type="WD">Q759</idno>
+      </place>
+      <place xml:id="dvp_049_place_108">
+        <placeName>United States of America</placeName>
+        <location>
+          <geo>39.828175 -98.5795</geo>
+        </location>
+        <idno type="WD">Q30</idno>
+      </place>
+      <place xml:id="dvp_049_place_109">
+        <placeName>New Hampshire</placeName>
+        <location>
+          <geo>44 -71.5</geo>
+        </location>
+        <idno type="WD">Q759</idno>
+      </place>
+      <place xml:id="dvp_049_place_110">
+        <placeName>Hanover</placeName>
+        <location>
+          <geo>43.7 -72.28333333333333</geo>
+        </location>
+        <idno type="WD">Q131908</idno>
+      </place>
+      <place xml:id="dvp_049_place_111">
+        <placeName>West Lebanon</placeName>
+        <location>
+          <geo>43.649166666667 -72.310277777778</geo>
+        </location>
+        <idno type="WD">Q7985727</idno>
+      </place>
+      <place xml:id="dvp_049_place_112">
+        <placeName>White River Junction</placeName>
+        <location>
+          <geo>43.6503 -72.3214</geo>
+        </location>
+        <idno type="WD">Q1898562</idno>
+      </place>
+      <place xml:id="dvp_049_place_113">
+        <placeName>Hanover</placeName>
+        <location>
+          <geo>43.7 -72.28333333333333</geo>
+        </location>
+        <idno type="WD">Q131908</idno>
+      </place>
+      <place xml:id="dvp_049_place_114">
+        <placeName>West Lebanon</placeName>
+        <location>
+          <geo>43.649166666667 -72.310277777778</geo>
+        </location>
+        <idno type="WD">Q7985727</idno>
+      </place>
+      <place xml:id="dvp_049_place_115">
+        <placeName>White River Junction</placeName>
+        <location>
+          <geo>43.6503 -72.3214</geo>
+        </location>
+        <idno type="WD">Q1898562</idno>
+      </place>
+      <place xml:id="dvp_049_place_116">
+        <placeName>New Hampshire</placeName>
+        <location>
+          <geo>44 -71.5</geo>
+        </location>
+        <idno type="WD">Q759</idno>
+      </place>
+      <place xml:id="dvp_049_place_117">
+        <placeName>Birmingham</placeName>
+        <location>
+          <geo>33.524755 -86.81274</geo>
+        </location>
+        <idno type="WD">Q79867</idno>
+      </place>
+      <place xml:id="dvp_049_place_118">
+        <placeName>Little Rock</placeName>
+        <location>
+          <geo>34.736111111111 -92.331111111111</geo>
+        </location>
+        <idno type="WD">Q33405</idno>
+      </place>
+      <place xml:id="dvp_049_place_119">
+        <placeName>United States of America</placeName>
+        <location>
+          <geo>39.828175 -98.5795</geo>
+        </location>
+        <idno type="WD">Q30</idno>
+      </place>
+      <place xml:id="dvp_049_place_120">
+        <placeName>Oklahoma</placeName>
+        <location>
+          <geo>35.5 -98</geo>
+        </location>
+        <idno type="WD">Q1649</idno>
+      </place>
+      <place xml:id="dvp_049_place_121">
+        <placeName>Texas</placeName>
+        <location>
+          <geo>31 -100</geo>
+        </location>
+        <idno type="WD">Q1439</idno>
+      </place>
+      <place xml:id="dvp_049_place_122">
+        <placeName>California</placeName>
+        <location>
+          <geo>37 -120</geo>
+        </location>
+        <idno type="WD">Q99</idno>
+      </place>
+      <place xml:id="dvp_049_place_123">
+        <placeName>United States of America</placeName>
+        <location>
+          <geo>39.828175 -98.5795</geo>
+        </location>
+        <idno type="WD">Q30</idno>
+      </place>
+      <place xml:id="dvp_049_place_124">
+        <placeName>Arkansas</placeName>
+        <location>
+          <geo>34.8 -92.2</geo>
+        </location>
+        <idno type="WD">Q1612</idno>
+      </place>
+      <place xml:id="dvp_049_place_125">
+        <placeName>Dartmouth College</placeName>
+        <location>
+          <geo>43.703333333333 -72.288333333333</geo>
+        </location>
+        <idno type="WD">Q49116</idno>
+      </place>
+      <place xml:id="dvp_049_place_126">
+        <placeName>New Hampshire</placeName>
+        <location>
+          <geo>44 -71.5</geo>
+        </location>
+        <idno type="WD">Q759</idno>
+      </place>
+      <place xml:id="dvp_049_place_127">
+        <placeName>New Hampshire</placeName>
+        <location>
+          <geo>44 -71.5</geo>
+        </location>
+        <idno type="WD">Q759</idno>
+      </place>
+      <place xml:id="dvp_049_place_128">
+        <placeName>Alabama</placeName>
+        <location>
+          <geo>32.7 -86.7</geo>
+        </location>
+        <idno type="WD">Q173</idno>
+      </place>
+      <place xml:id="dvp_049_place_129">
+        <placeName>Czechoslovakia</placeName>
+        <location>
+          <geo>50.083333333333 14.416666666667</geo>
+        </location>
+        <idno type="WD">Q33946</idno>
+      </place>
+      <place xml:id="dvp_049_place_130">
+        <placeName>United States of America</placeName>
+        <location>
+          <geo>39.828175 -98.5795</geo>
+        </location>
+        <idno type="WD">Q30</idno>
+      </place>
+      <place xml:id="dvp_049_place_131">
+        <placeName>United States of America</placeName>
+        <location>
+          <geo>39.828175 -98.5795</geo>
+        </location>
+        <idno type="WD">Q30</idno>
+      </place>
+      <place xml:id="dvp_049_place_132">
+        <placeName>Boston</placeName>
+        <location>
+          <geo>42.358333333333 -71.0625</geo>
+        </location>
+        <idno type="WD">Q100</idno>
+      </place>
+      <place xml:id="dvp_049_place_133">
+        <placeName>South Africa</placeName>
+        <location>
+          <geo>-29 24</geo>
+        </location>
+        <idno type="WD">Q258</idno>
+      </place>
+      <place xml:id="dvp_049_place_134">
+        <placeName>South Africa</placeName>
+        <location>
+          <geo>-29 24</geo>
+        </location>
+        <idno type="WD">Q258</idno>
+      </place>
+      <place xml:id="dvp_049_place_135">
+        <placeName>Massachusetts Hall</placeName>
+        <location>
+          <geo>43.70379 -72.29041</geo>
+        </location>
+        <idno type="WD">Q100997539</idno>
+      </place>
+      <place xml:id="dvp_049_place_136">
+        <placeName>Parkhurst Hall</placeName>
+        <location>
+          <geo>43.70404 -72.28995</geo>
+        </location>
+        <idno type="WD">Q100952777</idno>
+      </place>
+      <place xml:id="dvp_049_place_137">
+        <placeName>South Africa</placeName>
+        <location>
+          <geo>-29 24</geo>
+        </location>
+        <idno type="WD">Q258</idno>
+      </place>
+      <place xml:id="dvp_049_place_138">
+        <placeName>South Africa</placeName>
+        <location>
+          <geo>-29 24</geo>
+        </location>
+        <idno type="WD">Q258</idno>
+      </place>
+      <place xml:id="dvp_049_place_139">
+        <placeName>South Africa</placeName>
+        <location>
+          <geo>-29 24</geo>
+        </location>
+        <idno type="WD">Q258</idno>
+      </place>
+      <place xml:id="dvp_049_place_140">
+        <placeName>The Pentagon</placeName>
+        <location>
+          <geo>38.871111 -77.055833</geo>
+        </location>
+        <idno type="WD">Q11208</idno>
+      </place>
+      <place xml:id="dvp_049_place_141">
+        <placeName>Washington, D.C.</placeName>
+        <location>
+          <geo>38.895 -77.036666666667</geo>
+        </location>
+        <idno type="WD">Q61</idno>
+      </place>
+      <place xml:id="dvp_049_place_142">
+        <placeName>California</placeName>
+        <location>
+          <geo>37 -120</geo>
+        </location>
+        <idno type="WD">Q99</idno>
+      </place>
+      <place xml:id="dvp_049_place_143">
+        <placeName>United States of America</placeName>
+        <location>
+          <geo>39.828175 -98.5795</geo>
+        </location>
+        <idno type="WD">Q30</idno>
+      </place>
+      <place xml:id="dvp_049_place_144">
+        <placeName>Alabama</placeName>
+        <location>
+          <geo>32.7 -86.7</geo>
+        </location>
+        <idno type="WD">Q173</idno>
+      </place>
+      <place xml:id="dvp_049_place_145">
+        <placeName>United States of America</placeName>
+        <location>
+          <geo>39.828175 -98.5795</geo>
+        </location>
+        <idno type="WD">Q30</idno>
+      </place>
+    </listPlace>
+    <listEvent>
+      <event xml:id="dvp_049_event_0" from-iso="1960-07-11T00:00:00Z" to-iso="1960-07-15T00:00:00Z">
+        <desc>1960 Democratic National Convention</desc>
+        <idno type="WD">Q4569935</idno>
+      </event>
+      <event xml:id="dvp_049_event_1" from-iso="1962-10-14T00:00:00Z" to-iso="1962-10-28T00:00:00Z">
+        <desc>Cuban Missile Crisis</desc>
+        <idno type="WD">Q128160</idno>
+      </event>
+      <event xml:id="dvp_049_event_2" from-iso="1965-08-11T00:00:00Z" to-iso="1965-08-16T00:00:00Z">
+        <desc>Watts riots</desc>
+        <idno type="WD">Q377682</idno>
+      </event>
+      <event xml:id="dvp_049_event_3" from-iso="1965-08-11T00:00:00Z" to-iso="1965-08-16T00:00:00Z">
+        <desc>Watts riots</desc>
+        <idno type="WD">Q377682</idno>
+      </event>
+      <event xml:id="dvp_049_event_4" from-iso="1959-01-01T00:00:00Z" to-iso="1975-04-30T00:00:00Z">
+        <desc>Vietnam War</desc>
+        <idno type="WD">Q8740</idno>
+      </event>
+      <event xml:id="dvp_049_event_5" from-iso="1959-01-01T00:00:00Z" to-iso="1975-04-30T00:00:00Z">
+        <desc>Vietnam War</desc>
+        <idno type="WD">Q8740</idno>
+      </event>
+      <event xml:id="dvp_049_event_6" from-iso="1959-01-01T00:00:00Z" to-iso="1975-04-30T00:00:00Z">
+        <desc>Vietnam War</desc>
+        <idno type="WD">Q8740</idno>
+      </event>
+      <event xml:id="dvp_049_event_7" from-iso="1939-09-01T00:00:00Z" to-iso="1945-09-02T00:00:00Z">
+        <desc>World War II</desc>
+        <idno type="WD">Q362</idno>
+      </event>
+      <event xml:id="dvp_049_event_8" from-iso="2003-03-20T00:00:00Z" to-iso="2011-12-15T00:00:00Z">
+        <desc>Iraq War</desc>
+        <idno type="WD">Q545449</idno>
+      </event>
+      <event xml:id="dvp_049_event_9" from-iso="2001-10-07T00:00:00Z" to-iso="2014-12-28T00:00:00Z">
+        <desc>Afghanistan War</desc>
+        <idno type="WD">Q182865</idno>
+      </event>
+      <event xml:id="dvp_049_event_10" from-iso="1959-01-01T00:00:00Z" to-iso="1975-04-30T00:00:00Z">
+        <desc>Vietnam War</desc>
+        <idno type="WD">Q8740</idno>
+      </event>
+      <event xml:id="dvp_049_event_11" from-iso="1863-12-08T00:00:00Z" to-iso="1877-03-31T00:00:00Z">
+        <desc>Reconstruction Era</desc>
+        <idno type="WD">Q623429</idno>
+      </event>
+      <event xml:id="dvp_049_event_12" when-iso="1968-03-12T00:00:00Z">
+        <desc>1968 New Hampshire presidential primaries</desc>
+        <idno type="WD">Q2899221</idno>
+      </event>
+      <event xml:id="dvp_049_event_13" from-iso="1959-01-01T00:00:00Z" to-iso="1975-04-30T00:00:00Z">
+        <desc>Vietnam War</desc>
+        <idno type="WD">Q8740</idno>
+      </event>
+      <event xml:id="dvp_049_event_14" from-iso="1959-01-01T00:00:00Z" to-iso="1975-04-30T00:00:00Z">
+        <desc>Vietnam War</desc>
+        <idno type="WD">Q8740</idno>
+      </event>
+      <event xml:id="dvp_049_event_15" when-iso="1963-11-22T00:00:00Z">
+        <desc>assassination of John F. Kennedy</desc>
+        <idno type="WD">Q193484</idno>
+      </event>
+      <event xml:id="dvp_049_event_16" from-iso="1959-01-01T00:00:00Z" to-iso="1975-04-30T00:00:00Z">
+        <desc>Vietnam War</desc>
+        <idno type="WD">Q8740</idno>
+      </event>
+      <event xml:id="dvp_049_event_17" when-iso="1965-01-01T00:00:00Z">
+        <desc>Selma to Montgomery marches</desc>
+        <idno type="WD">Q1061891</idno>
+      </event>
+      <event xml:id="dvp_049_event_18" when-iso="1954-05-17T00:00:00Z">
+        <desc>Brown v. Board of Education</desc>
+        <idno type="WD">Q875738</idno>
+      </event>
+      <event xml:id="dvp_049_event_19" from-iso="1959-01-01T00:00:00Z" to-iso="1975-04-30T00:00:00Z">
+        <desc>Vietnam War</desc>
+        <idno type="WD">Q8740</idno>
+      </event>
+      <event xml:id="dvp_049_event_20" from-iso="1968-01-30T00:00:00Z" to-iso="1968-09-23T00:00:00Z">
+        <desc>Tet Offensive</desc>
+        <idno type="WD">Q82542</idno>
+      </event>
+      <event xml:id="dvp_049_event_21" from-iso="1959-01-01T00:00:00Z" to-iso="1975-04-30T00:00:00Z">
+        <desc>Vietnam War</desc>
+        <idno type="WD">Q8740</idno>
+      </event>
+      <event xml:id="dvp_049_event_22" from-iso="1859-10-16T00:00:00Z" to-iso="1859-10-18T00:00:00Z">
+        <desc>John Brown's raid on Harpers Ferry</desc>
+        <idno type="WD">Q6223430</idno>
+      </event>
+      <event xml:id="dvp_049_event_23" when-iso="1969-05-06T00:00:00Z">
+        <desc>Parkhurst Hall Takeover</desc>
+        <idno type="WD">Q101424872</idno>
+      </event>
+      <event xml:id="dvp_049_event_24" when-iso="1967-05-03T00:00:00Z">
+        <desc>George Wallace protests</desc>
+        <idno type="project">dvp_0208</idno>
+      </event>
+    </listEvent>
+    <listPerson>
+      <person xml:id="dvp_049_person_0">
+        <persName>Tim Harrison</persName>
+        <idno type="project">dvp_0006</idno>
+      </person>
+      <person xml:id="dvp_049_person_1">
+        <persName>Professor Richard Parker</persName>
+        <idno type="project">dvp_0538</idno>
+      </person>
+      <person xml:id="dvp_049_person_2">
+        <persName>Professor Parker</persName>
+        <idno type="project">dvp_0538</idno>
+      </person>
+      <person xml:id="dvp_049_person_3">
+        <persName>Margaret Lambertson [Parker]</persName>
+        <idno type="project">dvp_0539</idno>
+      </person>
+      <person xml:id="dvp_049_person_4">
+        <persName>[the Rev. Dr.] Richard Parker</persName>
+        <idno type="project">dvp_0540</idno>
+      </person>
+      <person xml:id="dvp_049_person_5">
+        <persName>Richard Nixon</persName>
+        <idno type="WD">Q9588</idno>
+      </person>
+      <person xml:id="dvp_049_person_6">
+        <persName>John F. Kennedy</persName>
+        <idno type="WD">Q9696</idno>
+      </person>
+      <person xml:id="dvp_049_person_7">
+        <persName>Joseph McCarthy</persName>
+        <idno type="WD">Q189197</idno>
+      </person>
+      <person xml:id="dvp_049_person_8">
+        <persName>John [H.] Sigler [Class of 1953]</persName>
+        <idno type="project">dvp_0541</idno>
+      </person>
+      <person xml:id="dvp_049_person_9">
+        <persName>Sigler</persName>
+        <idno type="project">dvp_0541</idno>
+      </person>
+      <person xml:id="dvp_049_person_10">
+        <persName>John Sloan Dickey</persName>
+        <idno type="WD">Q3182471</idno>
+      </person>
+      <person xml:id="dvp_049_person_11">
+        <persName>Sigler</persName>
+        <idno type="project">dvp_0541</idno>
+      </person>
+      <person xml:id="dvp_049_person_12">
+        <persName>Sigler</persName>
+        <idno type="project">dvp_0541</idno>
+      </person>
+      <person xml:id="dvp_049_person_13">
+        <persName>John George Kemeny</persName>
+        <idno type="WD">Q28900</idno>
+      </person>
+      <person xml:id="dvp_049_person_14">
+        <persName>[Robert B.] Reich</persName>
+        <idno type="project">dvp_0524</idno>
+      </person>
+      <person xml:id="dvp_049_person_15">
+        <persName>John [M.] Isaacson</persName>
+        <idno type="project">dvp_0542</idno>
+      </person>
+      <person xml:id="dvp_049_person_16">
+        <persName>[Thomas J.] “Tom” Brewer</persName>
+        <idno type="project">dvp_0543</idno>
+      </person>
+      <person xml:id="dvp_049_person_17">
+        <persName>Tim</persName>
+        <idno type="project">dvp_0006</idno>
+      </person>
+      <person xml:id="dvp_049_person_18">
+        <persName>Tim</persName>
+        <idno type="project">dvp_0006</idno>
+      </person>
+      <person xml:id="dvp_049_person_19">
+        <persName>John F. Kennedy</persName>
+        <idno type="WD">Q9696</idno>
+      </person>
+      <person xml:id="dvp_049_person_20">
+        <persName>John F. Kennedy</persName>
+        <idno type="WD">Q9696</idno>
+      </person>
+      <person xml:id="dvp_049_person_21">
+        <persName>John F. Kennedy</persName>
+        <idno type="WD">Q9696</idno>
+      </person>
+      <person xml:id="dvp_049_person_22">
+        <persName>Abraham Lincoln</persName>
+        <idno type="WD">Q91</idno>
+      </person>
+      <person xml:id="dvp_049_person_23">
+        <persName>Theodore Roosevelt</persName>
+        <idno type="WD">Q33866</idno>
+      </person>
+      <person xml:id="dvp_049_person_24">
+        <persName>Herbert Hoover</persName>
+        <idno type="WD">Q35236</idno>
+      </person>
+      <person xml:id="dvp_049_person_25">
+        <persName>Harry S. Truman</persName>
+        <idno type="WD">Q11613</idno>
+      </person>
+      <person xml:id="dvp_049_person_26">
+        <persName>Thomas E. Dewey</persName>
+        <idno type="WD">Q320061</idno>
+      </person>
+      <person xml:id="dvp_049_person_27">
+        <persName>Thomas E. Dewey</persName>
+        <idno type="WD">Q320061</idno>
+      </person>
+      <person xml:id="dvp_049_person_28">
+        <persName>Thomas E. Dewey</persName>
+        <idno type="WD">Q320061</idno>
+      </person>
+      <person xml:id="dvp_049_person_29">
+        <persName>Thomas E. Dewey</persName>
+        <idno type="WD">Q320061</idno>
+      </person>
+      <person xml:id="dvp_049_person_30">
+        <persName>Lyndon B. Johnson</persName>
+        <idno type="WD">Q9640</idno>
+      </person>
+      <person xml:id="dvp_049_person_31">
+        <persName>John F. Kennedy</persName>
+        <idno type="WD">Q9696</idno>
+      </person>
+      <person xml:id="dvp_049_person_32">
+        <persName>Barry Goldwater</persName>
+        <idno type="WD">Q319129</idno>
+      </person>
+      <person xml:id="dvp_049_person_33">
+        <persName>Tim</persName>
+        <idno type="project">dvp_0006</idno>
+      </person>
+      <person xml:id="dvp_049_person_34">
+        <persName>Barry Goldwater</persName>
+        <idno type="WD">Q319129</idno>
+      </person>
+      <person xml:id="dvp_049_person_35">
+        <persName>Michael Dukakis</persName>
+        <idno type="WD">Q319099</idno>
+      </person>
+      <person xml:id="dvp_049_person_36">
+        <persName>Tim</persName>
+        <idno type="project">dvp_0006</idno>
+      </person>
+      <person xml:id="dvp_049_person_37">
+        <persName>Martin Luther King Jr.</persName>
+        <idno type="WD">Q8027</idno>
+      </person>
+      <person xml:id="dvp_049_person_38">
+        <persName>Martin Luther King Jr.</persName>
+        <idno type="WD">Q8027</idno>
+      </person>
+      <person xml:id="dvp_049_person_39">
+        <persName>Theodore Parker</persName>
+        <idno type="WD">Q709002</idno>
+      </person>
+      <person xml:id="dvp_049_person_40">
+        <persName>Lyndon B. Johnson</persName>
+        <idno type="WD">Q9640</idno>
+      </person>
+      <person xml:id="dvp_049_person_41">
+        <persName>Barry Goldwater</persName>
+        <idno type="WD">Q319129</idno>
+      </person>
+      <person xml:id="dvp_049_person_42">
+        <persName>Nelson Rockefeller</persName>
+        <idno type="WD">Q11237</idno>
+      </person>
+      <person xml:id="dvp_049_person_43">
+        <persName>Jacob Koppel Javits</persName>
+        <idno type="WD">Q1875906</idno>
+      </person>
+      <person xml:id="dvp_049_person_44">
+        <persName>Jacob Koppel Javits</persName>
+        <idno type="WD">Q1875906</idno>
+      </person>
+      <person xml:id="dvp_049_person_45">
+        <persName>Jacob Koppel Javits</persName>
+        <idno type="WD">Q1875906</idno>
+      </person>
+      <person xml:id="dvp_049_person_46">
+        <persName>Hillary Clinton</persName>
+        <idno type="WD">Q6294</idno>
+      </person>
+      <person xml:id="dvp_049_person_47">
+        <persName>Chuck Schumer</persName>
+        <idno type="WD">Q380900</idno>
+      </person>
+      <person xml:id="dvp_049_person_48">
+        <persName>“Doc” Dey [pronounced DYE], Charles [F.] D-e-y [Class of 1952]</persName>
+        <idno type="project">dvp_0515</idno>
+      </person>
+      <person xml:id="dvp_049_person_49">
+        <persName>Doc</persName>
+        <idno type="project">dvp_0515</idno>
+      </person>
+      <person xml:id="dvp_049_person_50">
+        <persName>Doc</persName>
+        <idno type="project">dvp_0515</idno>
+      </person>
+      <person xml:id="dvp_049_person_51">
+        <persName>Doc</persName>
+        <idno type="project">dvp_0515</idno>
+      </person>
+      <person xml:id="dvp_049_person_52">
+        <persName>John [U.] Monro</persName>
+        <idno type="project">dvp_0544</idno>
+      </person>
+      <person xml:id="dvp_049_person_53">
+        <persName>Doc Dey</persName>
+        <idno type="project">dvp_0515</idno>
+      </person>
+      <person xml:id="dvp_049_person_54">
+        <persName>Butch Watkins</persName>
+        <idno type="project">dvp_0545</idno>
+      </person>
+      <person xml:id="dvp_049_person_55">
+        <persName>Dey</persName>
+        <idno type="project">dvp_0515</idno>
+      </person>
+      <person xml:id="dvp_049_person_56">
+        <persName>John D. Rockefeller</persName>
+        <idno type="WD">Q160278</idno>
+      </person>
+      <person xml:id="dvp_049_person_57">
+        <persName>Butch</persName>
+        <idno type="project">dvp_0545</idno>
+      </person>
+      <person xml:id="dvp_049_person_58">
+        <persName>Butch</persName>
+        <idno type="project">dvp_0545</idno>
+      </person>
+      <person xml:id="dvp_049_person_59">
+        <persName>Butch</persName>
+        <idno type="project">dvp_0545</idno>
+      </person>
+      <person xml:id="dvp_049_person_60">
+        <persName>Doc Dey</persName>
+        <idno type="project">dvp_0515</idno>
+      </person>
+      <person xml:id="dvp_049_person_61">
+        <persName>Butch</persName>
+        <idno type="project">dvp_0545</idno>
+      </person>
+      <person xml:id="dvp_049_person_62">
+        <persName>Tim</persName>
+        <idno type="project">dvp_0006</idno>
+      </person>
+      <person xml:id="dvp_049_person_63">
+        <persName>Lyndon B. Johnson</persName>
+        <idno type="WD">Q9640</idno>
+      </person>
+      <person xml:id="dvp_049_person_64">
+        <persName>John F. Kennedy</persName>
+        <idno type="WD">Q9696</idno>
+      </person>
+      <person xml:id="dvp_049_person_65">
+        <persName>John F. Kennedy</persName>
+        <idno type="WD">Q9696</idno>
+      </person>
+      <person xml:id="dvp_049_person_66">
+        <persName>Franklin Delano Roosevelt</persName>
+        <idno type="WD">Q8007</idno>
+      </person>
+      <person xml:id="dvp_049_person_67">
+        <persName>Barry Goldwater</persName>
+        <idno type="WD">Q319129</idno>
+      </person>
+      <person xml:id="dvp_049_person_68">
+        <persName>Lyndon B. Johnson</persName>
+        <idno type="WD">Q9640</idno>
+      </person>
+      <person xml:id="dvp_049_person_69">
+        <persName>Tim</persName>
+        <idno type="project">dvp_0006</idno>
+      </person>
+      <person xml:id="dvp_049_person_70">
+        <persName>Theodore Roosevelt</persName>
+        <idno type="WD">Q33866</idno>
+      </person>
+      <person xml:id="dvp_049_person_71">
+        <persName>John F. Kennedy</persName>
+        <idno type="WD">Q9696</idno>
+      </person>
+      <person xml:id="dvp_049_person_72">
+        <persName>Theodore Roosevelt</persName>
+        <idno type="WD">Q33866</idno>
+      </person>
+      <person xml:id="dvp_049_person_73">
+        <persName>John F. Kennedy</persName>
+        <idno type="WD">Q9696</idno>
+      </person>
+      <person xml:id="dvp_049_person_74">
+        <persName>Lyndon B. Johnson</persName>
+        <idno type="WD">Q9640</idno>
+      </person>
+      <person xml:id="dvp_049_person_75">
+        <persName>John F. Kennedy</persName>
+        <idno type="WD">Q9696</idno>
+      </person>
+      <person xml:id="dvp_049_person_76">
+        <persName>Adolf Hitler</persName>
+        <idno type="WD">Q352</idno>
+      </person>
+      <person xml:id="dvp_049_person_77">
+        <persName>Hồ Chí Minh</persName>
+        <idno type="WD">Q36014</idno>
+      </person>
+      <person xml:id="dvp_049_person_78">
+        <persName>Benito Mussolini</persName>
+        <idno type="WD">Q23559</idno>
+      </person>
+      <person xml:id="dvp_049_person_79">
+        <persName>Bob Reich</persName>
+        <idno type="project">dvp_0524</idno>
+      </person>
+      <person xml:id="dvp_049_person_80">
+        <persName>Richard Fariña</persName>
+        <idno type="WD">Q1931654</idno>
+      </person>
+      <person xml:id="dvp_049_person_81">
+        <persName>Richard Brautigan</persName>
+        <idno type="WD">Q357114</idno>
+      </person>
+      <person xml:id="dvp_049_person_82">
+        <persName>James Baldwin</persName>
+        <idno type="WD">Q273210</idno>
+      </person>
+      <person xml:id="dvp_049_person_83">
+        <persName>Bob</persName>
+        <idno type="project">dvp_0524</idno>
+      </person>
+      <person xml:id="dvp_049_person_84">
+        <persName>François Truffaut</persName>
+        <idno type="WD">Q53002</idno>
+      </person>
+      <person xml:id="dvp_049_person_85">
+        <persName>Reich</persName>
+        <idno type="project">dvp_0524</idno>
+      </person>
+      <person xml:id="dvp_049_person_86">
+        <persName>John Isaacson</persName>
+        <idno type="project">dvp_0542</idno>
+      </person>
+      <person xml:id="dvp_049_person_87">
+        <persName>Karl Marx</persName>
+        <idno type="WD">Q9061</idno>
+      </person>
+      <person xml:id="dvp_049_person_88">
+        <persName>Tim</persName>
+        <idno type="project">dvp_0006</idno>
+      </person>
+      <person xml:id="dvp_049_person_89">
+        <persName>Karl Marx</persName>
+        <idno type="WD">Q9061</idno>
+      </person>
+      <person xml:id="dvp_049_person_90">
+        <persName>[Christopher E.] “Chris” Hitchens</persName>
+        <idno type="project">dvp_0546</idno>
+      </person>
+      <person xml:id="dvp_049_person_91">
+        <persName>Reich</persName>
+        <idno type="project">dvp_0524</idno>
+      </person>
+      <person xml:id="dvp_049_person_92">
+        <persName>[Henry M.] “Hank” Paulson [Jr., Class of 1968]</persName>
+        <idno type="project">dvp_0547</idno>
+      </person>
+      <person xml:id="dvp_049_person_93">
+        <persName>Hank</persName>
+        <idno type="project">dvp_0547</idno>
+      </person>
+      <person xml:id="dvp_049_person_94">
+        <persName>Reich</persName>
+        <idno type="project">dvp_0524</idno>
+      </person>
+      <person xml:id="dvp_049_person_95">
+        <persName>Hank</persName>
+        <idno type="project">dvp_0547</idno>
+      </person>
+      <person xml:id="dvp_049_person_96">
+        <persName>Richard Nixon</persName>
+        <idno type="WD">Q9588</idno>
+      </person>
+      <person xml:id="dvp_049_person_97">
+        <persName>Richard Nixon</persName>
+        <idno type="WD">Q9588</idno>
+      </person>
+      <person xml:id="dvp_049_person_98">
+        <persName>Eugene McCarthy</persName>
+        <idno type="WD">Q380550</idno>
+      </person>
+      <person xml:id="dvp_049_person_99">
+        <persName>Lyndon B. Johnson</persName>
+        <idno type="WD">Q9640</idno>
+      </person>
+      <person xml:id="dvp_049_person_100">
+        <persName>Reich</persName>
+        <idno type="project">dvp_0524</idno>
+      </person>
+      <person xml:id="dvp_049_person_101">
+        <persName>Robert F. Kennedy</persName>
+        <idno type="WD">Q25310</idno>
+      </person>
+      <person xml:id="dvp_049_person_102">
+        <persName>John Monro</persName>
+        <idno type="project">dvp_0544</idno>
+      </person>
+      <person xml:id="dvp_049_person_103">
+        <persName>Doc Dey</persName>
+        <idno type="project">dvp_0515</idno>
+      </person>
+      <person xml:id="dvp_049_person_104">
+        <persName>[Christopher Z.] “Guy” Mhone [pronounced muh-HOE-nee; Class of 1968], M-h-o-n-e</persName>
+        <idno type="project">dvp_0548</idno>
+      </person>
+      <person xml:id="dvp_049_person_105">
+        <persName>Miles</persName>
+      </person>
+      <person xml:id="dvp_049_person_106">
+        <persName>Guy</persName>
+        <idno type="project">dvp_0548</idno>
+      </person>
+      <person xml:id="dvp_049_person_107">
+        <persName>Guy</persName>
+        <idno type="project">dvp_0548</idno>
+      </person>
+      <person xml:id="dvp_049_person_108">
+        <persName>Guy</persName>
+        <idno type="project">dvp_0548</idno>
+      </person>
+      <person xml:id="dvp_049_person_109">
+        <persName>Guy</persName>
+        <idno type="project">dvp_0548</idno>
+      </person>
+      <person xml:id="dvp_049_person_110">
+        <persName>Guy</persName>
+        <idno type="project">dvp_0548</idno>
+      </person>
+      <person xml:id="dvp_049_person_111">
+        <persName>Joseph McCarthy</persName>
+        <idno type="WD">Q189197</idno>
+      </person>
+      <person xml:id="dvp_049_person_112">
+        <persName>Joseph McCarthy</persName>
+        <idno type="WD">Q189197</idno>
+      </person>
+      <person xml:id="dvp_049_person_113">
+        <persName>Joseph McCarthy</persName>
+        <idno type="WD">Q189197</idno>
+      </person>
+      <person xml:id="dvp_049_person_114">
+        <persName>Joseph McCarthy</persName>
+        <idno type="WD">Q189197</idno>
+      </person>
+      <person xml:id="dvp_049_person_115">
+        <persName>Lyndon B. Johnson</persName>
+        <idno type="WD">Q9640</idno>
+      </person>
+      <person xml:id="dvp_049_person_116">
+        <persName>Lyndon B. Johnson</persName>
+        <idno type="WD">Q9640</idno>
+      </person>
+      <person xml:id="dvp_049_person_117">
+        <persName>Lyndon B. Johnson</persName>
+        <idno type="WD">Q9640</idno>
+      </person>
+      <person xml:id="dvp_049_person_118">
+        <persName>Lyndon B. Johnson</persName>
+        <idno type="WD">Q9640</idno>
+      </person>
+      <person xml:id="dvp_049_person_119">
+        <persName>Joseph McCarthy</persName>
+        <idno type="WD">Q189197</idno>
+      </person>
+      <person xml:id="dvp_049_person_120">
+        <persName>Joseph McCarthy</persName>
+        <idno type="WD">Q189197</idno>
+      </person>
+      <person xml:id="dvp_049_person_121">
+        <persName>David [C.] Hoeh</persName>
+        <idno type="project">dvp_0618</idno>
+      </person>
+      <person xml:id="dvp_049_person_122">
+        <persName>Lyndon B. Johnson</persName>
+        <idno type="WD">Q9640</idno>
+      </person>
+      <person xml:id="dvp_049_person_123">
+        <persName>Joseph McCarthy</persName>
+        <idno type="WD">Q189197</idno>
+      </person>
+      <person xml:id="dvp_049_person_124">
+        <persName>Joseph McCarthy</persName>
+        <idno type="WD">Q189197</idno>
+      </person>
+      <person xml:id="dvp_049_person_125">
+        <persName>Joseph McCarthy</persName>
+        <idno type="WD">Q189197</idno>
+      </person>
+      <person xml:id="dvp_049_person_126">
+        <persName>Lyndon B. Johnson</persName>
+        <idno type="WD">Q9640</idno>
+      </person>
+      <person xml:id="dvp_049_person_127">
+        <persName>Joseph McCarthy</persName>
+        <idno type="WD">Q189197</idno>
+      </person>
+      <person xml:id="dvp_049_person_128">
+        <persName>Joseph McCarthy</persName>
+        <idno type="WD">Q189197</idno>
+      </person>
+      <person xml:id="dvp_049_person_129">
+        <persName>Lyndon B. Johnson</persName>
+        <idno type="WD">Q9640</idno>
+      </person>
+      <person xml:id="dvp_049_person_130">
+        <persName>Joseph McCarthy</persName>
+        <idno type="WD">Q189197</idno>
+      </person>
+      <person xml:id="dvp_049_person_131">
+        <persName>Joseph McCarthy</persName>
+        <idno type="WD">Q189197</idno>
+      </person>
+      <person xml:id="dvp_049_person_132">
+        <persName>George Wallace</persName>
+        <idno type="WD">Q313776</idno>
+      </person>
+      <person xml:id="dvp_049_person_133">
+        <persName>George Wallace</persName>
+        <idno type="WD">Q313776</idno>
+      </person>
+      <person xml:id="dvp_049_person_134">
+        <persName>George Wallace</persName>
+        <idno type="WD">Q313776</idno>
+      </person>
+      <person xml:id="dvp_049_person_135">
+        <persName>Martin Luther King Jr.</persName>
+        <idno type="WD">Q8027</idno>
+      </person>
+      <person xml:id="dvp_049_person_136">
+        <persName>Robert F. Kennedy</persName>
+        <idno type="WD">Q25310</idno>
+      </person>
+      <person xml:id="dvp_049_person_137">
+        <persName>Richard Nixon</persName>
+        <idno type="WD">Q9588</idno>
+      </person>
+      <person xml:id="dvp_049_person_138">
+        <persName>Jake Javits</persName>
+        <idno type="WD">Q1875906</idno>
+      </person>
+      <person xml:id="dvp_049_person_139">
+        <persName>Joseph McCarthy</persName>
+        <idno type="WD">Q189197</idno>
+      </person>
+      <person xml:id="dvp_049_person_140">
+        <persName>Joseph McCarthy</persName>
+        <idno type="WD">Q189197</idno>
+      </person>
+      <person xml:id="dvp_049_person_141">
+        <persName>Joseph McCarthy</persName>
+        <idno type="WD">Q189197</idno>
+      </person>
+      <person xml:id="dvp_049_person_142">
+        <persName>Joseph McCarthy</persName>
+        <idno type="WD">Q189197</idno>
+      </person>
+      <person xml:id="dvp_049_person_143">
+        <persName>Sam [W.] Brown [Jr.]</persName>
+        <idno type="WD">Q7407266</idno>
+      </person>
+      <person xml:id="dvp_049_person_144">
+        <persName>Theodore Parker</persName>
+        <idno type="WD">Q709002</idno>
+      </person>
+      <person xml:id="dvp_049_person_145">
+        <persName>Eugene McCarthy</persName>
+        <idno type="WD">Q380550</idno>
+      </person>
+      <person xml:id="dvp_049_person_146">
+        <persName>Reich</persName>
+        <idno type="project">dvp_0524</idno>
+      </person>
+      <person xml:id="dvp_049_person_147">
+        <persName>Reich</persName>
+        <idno type="project">dvp_0524</idno>
+      </person>
+      <person xml:id="dvp_049_person_148">
+        <persName>Leon Sullivan</persName>
+        <idno type="WD">Q2460277</idno>
+      </person>
+      <person xml:id="dvp_049_person_149">
+        <persName>Reich</persName>
+        <idno type="project">dvp_0524</idno>
+      </person>
+      <person xml:id="dvp_049_person_150">
+        <persName>Thaddeus Seymour</persName>
+        <idno type="WD">Q19594809</idno>
+      </person>
+      <person xml:id="dvp_049_person_151">
+        <persName>Thaddeus Seymour</persName>
+        <idno type="WD">Q19594809</idno>
+      </person>
+      <person xml:id="dvp_049_person_152">
+        <persName>Thaddeus Seymour</persName>
+        <idno type="WD">Q19594809</idno>
+      </person>
+      <person xml:id="dvp_049_person_153">
+        <persName>Thaddeus Seymour</persName>
+        <idno type="WD">Q19594809</idno>
+      </person>
+      <person xml:id="dvp_049_person_154">
+        <persName>John Sloan Dickey</persName>
+        <idno type="WD">Q3182471</idno>
+      </person>
+      <person xml:id="dvp_049_person_155">
+        <persName>Bob</persName>
+        <idno type="project">dvp_0524</idno>
+      </person>
+      <person xml:id="dvp_049_person_156">
+        <persName>George Wallace</persName>
+        <idno type="WD">Q313776</idno>
+      </person>
+      <person xml:id="dvp_049_person_157">
+        <persName>Franklin Delano Roosevelt</persName>
+        <idno type="WD">Q8007</idno>
+      </person>
+      <person xml:id="dvp_049_person_158">
+        <persName>Reich</persName>
+        <idno type="project">dvp_0524</idno>
+      </person>
+      <person xml:id="dvp_049_person_159">
+        <persName>Parker</persName>
+        <idno type="project">dvp_0538</idno>
+      </person>
+    </listPerson>
+    <listOrg>
+      <org xml:id="dvp_049_org_0">
+        <orgName>Dartmouth ’68</orgName>
+        <idno type="project">dvp_0184</idno>
+      </org>
+      <org xml:id="dvp_049_org_1">
+        <orgName>United States Congress</orgName>
+        <idno type="WD">Q11268</idno>
+      </org>
+      <org xml:id="dvp_049_org_2">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dvp_049_org_3">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dvp_049_org_4">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dvp_049_org_5">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dvp_049_org_6">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dvp_049_org_7">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dvp_049_org_8">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dvp_049_org_9">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dvp_049_org_10">
+        <orgName>Stanford University</orgName>
+        <idno type="WD">Q41506</idno>
+      </org>
+      <org xml:id="dvp_049_org_11">
+        <orgName>University of California, Berkeley</orgName>
+        <idno type="WD">Q168756</idno>
+      </org>
+      <org xml:id="dvp_049_org_12">
+        <orgName>University of California, Los Angeles</orgName>
+        <idno type="WD">Q174710</idno>
+      </org>
+      <org xml:id="dvp_049_org_13">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dvp_049_org_14">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dvp_049_org_15">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dvp_049_org_16">
+        <orgName>Federal Government of the United States of America</orgName>
+        <idno type="WD">Q48525</idno>
+      </org>
+      <org xml:id="dvp_049_org_17">
+        <orgName>United States Congress</orgName>
+        <idno type="WD">Q11268</idno>
+      </org>
+      <org xml:id="dvp_049_org_18">
+        <orgName>Democratic Party</orgName>
+        <idno type="WD">Q29552</idno>
+      </org>
+      <org xml:id="dvp_049_org_19">
+        <orgName>Democratic Party</orgName>
+        <idno type="WD">Q29552</idno>
+      </org>
+      <org xml:id="dvp_049_org_20">
+        <orgName>Republican Party</orgName>
+        <idno type="WD">Q29468</idno>
+      </org>
+      <org xml:id="dvp_049_org_21">
+        <orgName>Republican Party</orgName>
+        <idno type="WD">Q29468</idno>
+      </org>
+      <org xml:id="dvp_049_org_22">
+        <orgName>Republican Party</orgName>
+        <idno type="WD">Q29468</idno>
+      </org>
+      <org xml:id="dvp_049_org_23">
+        <orgName>Republican Party</orgName>
+        <idno type="WD">Q29468</idno>
+      </org>
+      <org xml:id="dvp_049_org_24">
+        <orgName>Republican Party</orgName>
+        <idno type="WD">Q29468</idno>
+      </org>
+      <org xml:id="dvp_049_org_25">
+        <orgName>Republican Party</orgName>
+        <idno type="WD">Q29468</idno>
+      </org>
+      <org xml:id="dvp_049_org_26">
+        <orgName>Republican Party</orgName>
+        <idno type="WD">Q29468</idno>
+      </org>
+      <org xml:id="dvp_049_org_27">
+        <orgName>Democratic Party</orgName>
+        <idno type="WD">Q29552</idno>
+      </org>
+      <org xml:id="dvp_049_org_28">
+        <orgName>Democratic Party</orgName>
+        <idno type="WD">Q29552</idno>
+      </org>
+      <org xml:id="dvp_049_org_29">
+        <orgName>Republican Party</orgName>
+        <idno type="WD">Q29468</idno>
+      </org>
+      <org xml:id="dvp_049_org_30">
+        <orgName>Republican Party</orgName>
+        <idno type="WD">Q29468</idno>
+      </org>
+      <org xml:id="dvp_049_org_31">
+        <orgName>Democratic Party</orgName>
+        <idno type="WD">Q29552</idno>
+      </org>
+      <org xml:id="dvp_049_org_32">
+        <orgName>Republican Party</orgName>
+        <idno type="WD">Q29468</idno>
+      </org>
+      <org xml:id="dvp_049_org_33">
+        <orgName>Republican Party</orgName>
+        <idno type="WD">Q29468</idno>
+      </org>
+      <org xml:id="dvp_049_org_34">
+        <orgName>Republican Party</orgName>
+        <idno type="WD">Q29468</idno>
+      </org>
+      <org xml:id="dvp_049_org_35">
+        <orgName>Republican Party</orgName>
+        <idno type="WD">Q29468</idno>
+      </org>
+      <org xml:id="dvp_049_org_36">
+        <orgName>Democratic Party</orgName>
+        <idno type="WD">Q29552</idno>
+      </org>
+      <org xml:id="dvp_049_org_37">
+        <orgName>CBS</orgName>
+        <idno type="WD">Q43380</idno>
+      </org>
+      <org xml:id="dvp_049_org_38">
+        <orgName>NBC</orgName>
+        <idno type="WD">Q13974</idno>
+      </org>
+      <org xml:id="dvp_049_org_39">
+        <orgName>ABC News</orgName>
+        <idno type="WD">Q287171</idno>
+      </org>
+      <org xml:id="dvp_049_org_40">
+        <orgName>Republican Party</orgName>
+        <idno type="WD">Q29468</idno>
+      </org>
+      <org xml:id="dvp_049_org_41">
+        <orgName>Republican Party</orgName>
+        <idno type="WD">Q29468</idno>
+      </org>
+      <org xml:id="dvp_049_org_42">
+        <orgName>Democratic Party</orgName>
+        <idno type="WD">Q29552</idno>
+      </org>
+      <org xml:id="dvp_049_org_43">
+        <orgName>Republican Party</orgName>
+        <idno type="WD">Q29468</idno>
+      </org>
+      <org xml:id="dvp_049_org_44">
+        <orgName>Republican Party</orgName>
+        <idno type="WD">Q29468</idno>
+      </org>
+      <org xml:id="dvp_049_org_45">
+        <orgName>Democratic Party</orgName>
+        <idno type="WD">Q29552</idno>
+      </org>
+      <org xml:id="dvp_049_org_46">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dvp_049_org_47">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dvp_049_org_48">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dvp_049_org_49">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dvp_049_org_50">
+        <orgName>Bones Gate</orgName>
+        <idno type="WD">Q105465949</idno>
+      </org>
+      <org xml:id="dvp_049_org_51">
+        <orgName>Bones Gate</orgName>
+        <idno type="WD">Q105465949</idno>
+      </org>
+      <org xml:id="dvp_049_org_52">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dvp_049_org_53">
+        <orgName>Republican Party</orgName>
+        <idno type="WD">Q29468</idno>
+      </org>
+      <org xml:id="dvp_049_org_54">
+        <orgName>Republican Party</orgName>
+        <idno type="WD">Q29468</idno>
+      </org>
+      <org xml:id="dvp_049_org_55">
+        <orgName>Republican Party</orgName>
+        <idno type="WD">Q29468</idno>
+      </org>
+      <org xml:id="dvp_049_org_56">
+        <orgName>Republican Party</orgName>
+        <idno type="WD">Q29468</idno>
+      </org>
+      <org xml:id="dvp_049_org_57">
+        <orgName>Democratic Party</orgName>
+        <idno type="WD">Q29552</idno>
+      </org>
+      <org xml:id="dvp_049_org_58">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dvp_049_org_59">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dvp_049_org_60">
+        <orgName>Dartmouth Christian Union</orgName>
+        <idno type="WD">Q105077047</idno>
+      </org>
+      <org xml:id="dvp_049_org_61">
+        <orgName>Dartmouth Christian Union</orgName>
+        <idno type="WD">Q105077047</idno>
+      </org>
+      <org xml:id="dvp_049_org_62">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dvp_049_org_63">
+        <orgName>Choate Rosemary Hall</orgName>
+        <idno type="WD">Q5103452</idno>
+      </org>
+      <org xml:id="dvp_049_org_64">
+        <orgName>Choate Rosemary Hall</orgName>
+        <idno type="WD">Q5103452</idno>
+      </org>
+      <org xml:id="dvp_049_org_65">
+        <orgName>Choate Rosemary Hall</orgName>
+        <idno type="WD">Q5103452</idno>
+      </org>
+      <org xml:id="dvp_049_org_66">
+        <orgName>St. Paul's School</orgName>
+        <idno type="WD">Q906930</idno>
+      </org>
+      <org xml:id="dvp_049_org_67">
+        <orgName>Groton School</orgName>
+        <idno type="WD">Q872541</idno>
+      </org>
+      <org xml:id="dvp_049_org_68">
+        <orgName>Choate Rosemary Hall</orgName>
+        <idno type="WD">Q5103452</idno>
+      </org>
+      <org xml:id="dvp_049_org_69">
+        <orgName>Phillips Academy</orgName>
+        <idno type="WD">Q1432645</idno>
+      </org>
+      <org xml:id="dvp_049_org_70">
+        <orgName>Phillips Exeter Academy</orgName>
+        <idno type="WD">Q1426464</idno>
+      </org>
+      <org xml:id="dvp_049_org_71">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dvp_049_org_72">
+        <orgName>Dartmouth-Talladega Program [sic; Dartmouth-Talladega Upward Bound]</orgName>
+        <idno type="project">dvp_0216</idno>
+      </org>
+      <org xml:id="dvp_049_org_73">
+        <orgName>Talladega College</orgName>
+        <idno type="WD">Q7680006</idno>
+      </org>
+      <org xml:id="dvp_049_org_74">
+        <orgName>Dartmouth Christian Union</orgName>
+        <idno type="WD">Q105077047</idno>
+      </org>
+      <org xml:id="dvp_049_org_75">
+        <orgName>Dartmouth Christian Union</orgName>
+        <idno type="WD">Q105077047</idno>
+      </org>
+      <org xml:id="dvp_049_org_76">
+        <orgName>Dartmouth Christian Union</orgName>
+        <idno type="WD">Q105077047</idno>
+      </org>
+      <org xml:id="dvp_049_org_77">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dvp_049_org_78">
+        <orgName>Dartmouth Christian Union</orgName>
+        <idno type="WD">Q105077047</idno>
+      </org>
+      <org xml:id="dvp_049_org_79">
+        <orgName>Dartmouth Christian Union</orgName>
+        <idno type="WD">Q105077047</idno>
+      </org>
+      <org xml:id="dvp_049_org_80">
+        <orgName>Casque and Gauntlet</orgName>
+        <idno type="WD">Q5049130</idno>
+      </org>
+      <org xml:id="dvp_049_org_81">
+        <orgName>Dartmouth Christian Union</orgName>
+        <idno type="WD">Q105077047</idno>
+      </org>
+      <org xml:id="dvp_049_org_82">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dvp_049_org_83">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dvp_049_org_84">
+        <orgName>Dartmouth Christian Union</orgName>
+        <idno type="WD">Q105077047</idno>
+      </org>
+      <org xml:id="dvp_049_org_85">
+        <orgName>Miles College</orgName>
+        <idno type="WD">Q2272814</idno>
+      </org>
+      <org xml:id="dvp_049_org_86">
+        <orgName>Talladega College</orgName>
+        <idno type="WD">Q7680006</idno>
+      </org>
+      <org xml:id="dvp_049_org_87">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dvp_049_org_88">
+        <orgName>Talladega College</orgName>
+        <idno type="WD">Q7680006</idno>
+      </org>
+      <org xml:id="dvp_049_org_89">
+        <orgName>Dartmouth Christian Union</orgName>
+        <idno type="WD">Q105077047</idno>
+      </org>
+      <org xml:id="dvp_049_org_90">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dvp_049_org_91">
+        <orgName>United States of America</orgName>
+        <idno type="WD">Q30</idno>
+      </org>
+      <org xml:id="dvp_049_org_92">
+        <orgName>Japan</orgName>
+        <idno type="WD">Q17</idno>
+      </org>
+      <org xml:id="dvp_049_org_93">
+        <orgName>United States of America</orgName>
+        <idno type="WD">Q30</idno>
+      </org>
+      <org xml:id="dvp_049_org_94">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dvp_049_org_95">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dvp_049_org_96">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dvp_049_org_97">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dvp_049_org_98">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dvp_049_org_99">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dvp_049_org_100">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dvp_049_org_101">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dvp_049_org_102">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dvp_049_org_103">
+        <orgName>University of Oxford</orgName>
+        <idno type="WD">Q34433</idno>
+      </org>
+      <org xml:id="dvp_049_org_104">
+        <orgName>Harvard Business School</orgName>
+        <idno type="WD">Q49126</idno>
+      </org>
+      <org xml:id="dvp_049_org_105">
+        <orgName>Harvard Business School</orgName>
+        <idno type="WD">Q49126</idno>
+      </org>
+      <org xml:id="dvp_049_org_106">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dvp_049_org_107">
+        <orgName>United Nations Development Programme</orgName>
+        <idno type="WD">Q161718</idno>
+      </org>
+      <org xml:id="dvp_049_org_108">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dvp_049_org_109">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dvp_049_org_110">
+        <orgName>United Nations Development Programme</orgName>
+        <idno type="WD">Q161718</idno>
+      </org>
+      <org xml:id="dvp_049_org_111">
+        <orgName>Miles College</orgName>
+        <idno type="WD">Q2272814</idno>
+      </org>
+      <org xml:id="dvp_049_org_112">
+        <orgName>United Nations</orgName>
+        <idno type="WD">Q1065</idno>
+      </org>
+      <org xml:id="dvp_049_org_113">
+        <orgName>Miles College</orgName>
+        <idno type="WD">Q2272814</idno>
+      </org>
+      <org xml:id="dvp_049_org_114">
+        <orgName>Casque and Gauntlet</orgName>
+        <idno type="WD">Q5049130</idno>
+      </org>
+      <org xml:id="dvp_049_org_115">
+        <orgName>Miles College</orgName>
+        <idno type="WD">Q2272814</idno>
+      </org>
+      <org xml:id="dvp_049_org_116">
+        <orgName>Dartmouth Christian Union</orgName>
+        <idno type="WD">Q105077047</idno>
+      </org>
+      <org xml:id="dvp_049_org_117">
+        <orgName>Miles College</orgName>
+        <idno type="WD">Q2272814</idno>
+      </org>
+      <org xml:id="dvp_049_org_118">
+        <orgName>Harvard University</orgName>
+        <idno type="WD">Q13371</idno>
+      </org>
+      <org xml:id="dvp_049_org_119">
+        <orgName>Harvard University</orgName>
+        <idno type="WD">Q13371</idno>
+      </org>
+      <org xml:id="dvp_049_org_120">
+        <orgName>Miles College</orgName>
+        <idno type="WD">Q2272814</idno>
+      </org>
+      <org xml:id="dvp_049_org_121">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dvp_049_org_122">
+        <orgName>Abraham Lincoln Club of Alabama</orgName>
+        <idno type="WD">Q105565255</idno>
+      </org>
+      <org xml:id="dvp_049_org_123">
+        <orgName>Miles College</orgName>
+        <idno type="WD">Q2272814</idno>
+      </org>
+      <org xml:id="dvp_049_org_124">
+        <orgName>Casque and Gauntlet</orgName>
+        <idno type="WD">Q5049130</idno>
+      </org>
+      <org xml:id="dvp_049_org_125">
+        <orgName>Birmingham News</orgName>
+        <idno type="WD">Q7718111</idno>
+      </org>
+      <org xml:id="dvp_049_org_126">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dvp_049_org_127">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dvp_049_org_128">
+        <orgName>Casque and Gauntlet</orgName>
+        <idno type="WD">Q5049130</idno>
+      </org>
+      <org xml:id="dvp_049_org_129">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dvp_049_org_130">
+        <orgName>Democratic Party</orgName>
+        <idno type="WD">Q29552</idno>
+      </org>
+      <org xml:id="dvp_049_org_131">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dvp_049_org_132">
+        <orgName>The Dartmouth [D.]</orgName>
+        <idno type="WD">Q102322299</idno>
+      </org>
+      <org xml:id="dvp_049_org_133">
+        <orgName>The New York Times</orgName>
+        <idno type="WD">Q9684</idno>
+      </org>
+      <org xml:id="dvp_049_org_134">
+        <orgName>United Nations</orgName>
+        <idno type="WD">Q1065</idno>
+      </org>
+      <org xml:id="dvp_049_org_135">
+        <orgName>Soviet Union</orgName>
+        <idno type="WD">Q15180</idno>
+      </org>
+      <org xml:id="dvp_049_org_136">
+        <orgName>National Mobilization Committee to End the War in Vietnam</orgName>
+        <idno type="WD">Q6974373</idno>
+      </org>
+      <org xml:id="dvp_049_org_137">
+        <orgName>Secret Six</orgName>
+        <idno type="WD">Q3954090</idno>
+      </org>
+      <org xml:id="dvp_049_org_138">
+        <orgName>The Dartmouth</orgName>
+        <idno type="WD">Q7729068</idno>
+      </org>
+      <org xml:id="dvp_049_org_139">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dvp_049_org_140">
+        <orgName>Dartmouth Christian Union</orgName>
+        <idno type="WD">Q105077047</idno>
+      </org>
+      <org xml:id="dvp_049_org_141">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dvp_049_org_142">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dvp_049_org_143">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+    </listOrg>
+  </standOff>
+</TEI>
