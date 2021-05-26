@@ -1,72 +1,72 @@
-id	name
-dvp_038_event_0	World War II
-dvp_038_event_1	World War II
-dvp_038_event_2	World War II
-dvp_038_event_3	Martin Luther King [Jr.] “I Have a Dream” speech in Washington, D.C.
-dvp_038_event_4	Vietnam War
-dvp_038_event_5	Vietnam War
-dvp_038_event_6	Vietnam
-dvp_038_event_7	Tonkin Gulf resolu- [the Gulf of Tonkin incident]
-dvp_038_event_8	Tonkin Gulf incident
-dvp_038_event_9	Vietnam War
-dvp_038_event_10	Kennedy assassination
-dvp_038_event_11	9/11
-dvp_038_event_12	[President] Franklin [D.] Roosevelt’s death
-dvp_038_event_13	The Gulf of Tonkin
-dvp_038_event_14	Vietnam
-dvp_038_event_15	Vietnam War
-dvp_038_event_16	Vietnam War
-dvp_038_event_17	Vietnam War
-dvp_038_event_18	Vietnam War
-dvp_038_event_19	Gulf of Tonkin incident
-dvp_038_event_20	Vietnam War
-dvp_038_event_21	Vietnam War
-dvp_038_event_22	Vietnam War
-dvp_038_event_23	My Lai Massacre
-dvp_038_event_24	Vietnam War
-dvp_038_event_25	[President Richard M.] Nixon’s election
-dvp_038_event_26	Martin Luther King assassination
-dvp_038_event_27	Martin Luther King assassination
-dvp_038_event_28	Robert Kennedy assassination
-dvp_038_event_29	Martin Luther King was assassinated
-dvp_038_event_30	Robert Kennedy was assassinated
-dvp_038_event_31	Kennedy assassination
-dvp_038_event_32	King was assassinated
-dvp_038_event_33	Kennedy was assassinated
-dvp_038_event_34	Vietnam War
-dvp_038_event_35	Vietnam
-dvp_038_event_36	Vietnam
-dvp_038_event_37	Tet Offensive
-dvp_038_event_38	Tet Offensive
-dvp_038_event_39	Vietnam War
-dvp_038_event_40	Vietnam War
-dvp_038_event_41	World War I
-dvp_038_event_42	World War II
-dvp_038_event_43	Vietnam War
-dvp_038_event_44	Vietnam
-dvp_038_event_45	Vietnam War
-dvp_038_event_46	World War II
-dvp_038_event_47	Vietnam War
-dvp_038_event_48	Vietnam
-dvp_038_event_49	Vietnam War
-dvp_038_event_50	Vietnam War
-dvp_038_event_51	Vietnam War
-dvp_038_event_52	Vietnam War
-dvp_038_event_53	Vietnam War
-dvp_038_event_54	Vietnam War
-dvp_038_event_55	Vietnam War
-dvp_038_event_56	9/11
-dvp_038_event_57	Vietnam
-dvp_038_event_58	World War II
-dvp_038_event_59	World War I
-dvp_038_event_60	World War II
-dvp_038_event_61	Vietnam
-dvp_038_event_62	Iraq
-dvp_038_event_63	Afghanistan
-dvp_038_event_64	Vietnam
-dvp_038_event_65	Iraq
-dvp_038_event_66	Afghanistan
-dvp_038_event_67	Vietnam
-dvp_038_event_68	Vietnam War
-dvp_038_event_69	Vietnam War
-dvp_038_event_70	Vietnam
+id	name	QID	dvp_id	start time	end time	point in time
+dvp_038_event_0	World War II	Q362		1939-09-01T00:00:00Z	1945-09-02T00:00:00Z	
+dvp_038_event_1	World War II	Q362		1939-09-01T00:00:00Z	1945-09-02T00:00:00Z	
+dvp_038_event_2	World War II	Q362		1939-09-01T00:00:00Z	1945-09-02T00:00:00Z	
+dvp_038_event_3	March on Washington for Jobs and Freedom	Q1128871				1963-08-28T00:00:00Z
+dvp_038_event_4	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_038_event_5	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_038_event_6	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_038_event_7	Gulf of Tonkin incident	Q482402		1964-08-02T00:00:00Z	1964-08-04T00:00:00Z	
+dvp_038_event_8	Gulf of Tonkin incident	Q482402		1964-08-02T00:00:00Z	1964-08-04T00:00:00Z	
+dvp_038_event_9	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_038_event_10	Assassination of John F. Kennedy	Q193484				1963-11-22T00:00:00Z
+dvp_038_event_11	September 11 attack	Q10806				2001-09-11T00:00:00Z
+dvp_038_event_12	ANNOUNCEMENT OF THE DEATH OF FRANKLIN D. ROOSEVELT (NAID 106473)	Q67526657				1945-04-11T20:00:00Z
+dvp_038_event_13	Gulf of Tonkin incident	Q482402		1964-08-02T00:00:00Z	1964-08-04T00:00:00Z	
+dvp_038_event_14	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_038_event_15	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_038_event_16	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_038_event_17	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_038_event_18	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_038_event_19	Gulf of Tonkin incident	Q482402		1964-08-02T00:00:00Z	1964-08-04T00:00:00Z	
+dvp_038_event_20	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_038_event_21	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_038_event_22	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_038_event_23	My Lai Massacre	Q183421				1968-03-16T00:00:00Z
+dvp_038_event_24	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_038_event_25	1968 presidential election	Q4573330				1968-11-04T19:00:00Z
+dvp_038_event_26	assassination of Martin Luther King Jr.	Q757963				1968-04-04T00:00:00Z
+dvp_038_event_27	assassination of Martin Luther King Jr.	Q757963				1968-04-04T00:00:00Z
+dvp_038_event_28	assassination of Robert F. Kennedy	Q1187550				1968-06-05T00:00:00Z
+dvp_038_event_29	assassination of Martin Luther King Jr.	Q757963				1968-04-04T00:00:00Z
+dvp_038_event_30	assassination of Robert F. Kennedy	Q1187550				1968-06-05T00:00:00Z
+dvp_038_event_31	assassination of Robert F. Kennedy	Q1187550				1968-06-05T00:00:00Z
+dvp_038_event_32	assassination of Martin Luther King Jr.	Q757963				1968-04-04T00:00:00Z
+dvp_038_event_33	Assassination of John F. Kennedy	Q193484				1963-11-22T00:00:00Z
+dvp_038_event_34	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_038_event_35	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_038_event_36	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_038_event_37	Tet Offensive	Q82542		1968-01-30T00:00:00Z	1968-09-23T00:00:00Z	
+dvp_038_event_38	Tet Offensive	Q82542		1968-01-30T00:00:00Z	1968-09-23T00:00:00Z	
+dvp_038_event_39	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_038_event_40	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_038_event_41	World War I	Q361		1914-07-28T00:00:00Z	1918-11-11T00:00:00Z	
+dvp_038_event_42	World War II	Q362		1939-09-01T00:00:00Z	1945-09-02T00:00:00Z	
+dvp_038_event_43	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_038_event_44	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_038_event_45	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_038_event_46	World War II	Q362		1939-09-01T00:00:00Z	1945-09-02T00:00:00Z	
+dvp_038_event_47	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_038_event_48	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_038_event_49	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_038_event_50	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_038_event_51	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_038_event_52	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_038_event_53	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_038_event_54	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_038_event_55	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_038_event_56	September 11 attack	Q10806				2001-09-11T00:00:00Z
+dvp_038_event_57	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_038_event_58	World War II	Q362		1939-09-01T00:00:00Z	1945-09-02T00:00:00Z	
+dvp_038_event_59	World War I	Q361		1914-07-28T00:00:00Z	1918-11-11T00:00:00Z	
+dvp_038_event_60	World War II	Q362		1939-09-01T00:00:00Z	1945-09-02T00:00:00Z	
+dvp_038_event_61	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_038_event_62	Iraq War	Q545449		2003-03-20T00:00:00Z	2011-12-15T00:00:00Z	
+dvp_038_event_63	Afghanistan War	Q182865		2001-10-07T00:00:00Z	2014-12-28T00:00:00Z	
+dvp_038_event_64	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_038_event_65	Iraq War	Q545449		2003-03-20T00:00:00Z	2011-12-15T00:00:00Z	
+dvp_038_event_66	Afghanistan War	Q182865		2001-10-07T00:00:00Z	2014-12-28T00:00:00Z	
+dvp_038_event_67	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_038_event_68	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_038_event_69	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_038_event_70	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
