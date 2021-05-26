@@ -1,81 +1,81 @@
-id	persName
-dvp_038_person_0	Andrew [T.] Carothers
-dvp_038_person_1	John [D.] Isaacs
-dvp_038_person_2	John
-dvp_038_person_3	John
-dvp_038_person_4	[Joseph] “Buzzie” Bavasi
-dvp_038_person_5	Horace [C.] Stoneham
-dvp_038_person_6	[Theodore] “Teddy” Roosevelt
-dvp_038_person_7	Teddy Roosevelt
-dvp_038_person_8	Jacob [J.] Javits
-dvp_038_person_9	[Senator] Joseph [C.] McCarthy
-dvp_038_person_10	[President Harry S.] Truman
-dvp_038_person_11	[President Dwight D.] Eisenhower
-dvp_038_person_12	Joseph McCarthy
-dvp_038_person_13	Congressman [Thomas B.] Curtis
-dvp_038_person_14	Larry [K.] Smith
-dvp_038_person_15	Sen. Gary [W.] Hart
-dvp_038_person_16	[Vincent E.] Starzinger’s
-dvp_038_person_17	Ngô Đình Diệm
-dvp_038_person_18	[President John F.] Kennedy
-dvp_038_person_19	Gen. Lewis B. Hershey
-dvp_038_person_20	Hershey
-dvp_038_person_21	[Adolf] Hitler
-dvp_038_person_22	[Heinrich] Himmler
-dvp_038_person_23	[Joseph] Goebbels
-dvp_038_person_24	Gov. George [C.] Wallace
-dvp_038_person_25	Kennedy
-dvp_038_person_26	[President Lyndon B.] Johnson
-dvp_038_person_27	Sen. Jacob Javits
-dvp_038_person_28	Javits
-dvp_038_person_29	Martin Luther King Jr.
-dvp_038_person_30	[Senator Robert F.] “Bobby” Kennedy
-dvp_038_person_31	Robert Kennedy
-dvp_038_person_32	[Sen.] Eugene [J.] McCarthy
-dvp_038_person_33	McCarthy
-dvp_038_person_34	[President Lyndon B.] Johnson
-dvp_038_person_35	Robert Kennedy
-dvp_038_person_36	Kennedy
-dvp_038_person_37	Charles [A.] de Gaulle
-dvp_038_person_38	Eugene McCarthy
-dvp_038_person_39	President Richard Nixon
-dvp_038_person_40	Nixon
-dvp_038_person_41	William [E.]  Colby
-dvp_038_person_42	Robert [W.] Komer
-dvp_038_person_43	Nixon
-dvp_038_person_44	[Secretary of Defense] Robert [S.] McNamara
-dvp_038_person_45	[Edward] Snowden
-dvp_038_person_46	Snowden
-dvp_038_person_47	[Gen.] William [C.] Westmoreland
-dvp_038_person_48	William Westmoreland
-dvp_038_person_49	Lyndon Johnson
-dvp_038_person_50	Gen. [David H.] Petraeus
-dvp_038_person_51	George W. Bush
-dvp_038_person_52	Premier [Nguyen Van] Thieu
-dvp_038_person_53	Prime Minister Thieu
-dvp_038_person_54	Prime Minister Thieu
-dvp_038_person_55	Thieu
-dvp_038_person_56	President Ngô Đình Diệm
-dvp_038_person_57	Senators George [S.] McGovern
-dvp_038_person_58	Mark [O.] Hatfield
-dvp_038_person_59	Gerald [R.] Ford [Jr.]
-dvp_038_person_60	Nixon
-dvp_038_person_61	Richard Nixon
-dvp_038_person_62	Sen. J. William Fulbright
-dvp_038_person_63	Ronald [W.] Reagan
-dvp_038_person_64	President George W. Bush
-dvp_038_person_65	Colin [L.] Powell
-dvp_038_person_66	[Vice President Richard B. “Dick”] Cheney
-dvp_038_person_67	[Paul D.] Wolfowitz
-dvp_038_person_68	Matthew [P.] Hoh
-dvp_038_person_69	Matthew Hoh
-dvp_038_person_70	Dwight Eisenhower
-dvp_038_person_71	John F. Kennedy
-dvp_038_person_72	Lyndon Johnson
-dvp_038_person_73	[Randal H.] “Rand” Paul
-dvp_038_person_74	[John F.] Kerry
-dvp_038_person_75	George W. Bush
-dvp_038_person_76	William Colby
-dvp_038_person_77	Robert McNamara
-dvp_038_person_78	McGeorge Bundy
-dvp_038_person_79	Robert McNamara
+id	persName	QID	dvp_id
+dvp_038_person_0	Andrew [T.] Carothers		dvp_0455
+dvp_038_person_1	John [D.] Isaacs		dvp_0623
+dvp_038_person_2	John		dvp_0623
+dvp_038_person_3	John		dvp_0623
+dvp_038_person_4	Buzzie Bavasi	Q5003586	
+dvp_038_person_5	Horace Stoneham	Q5902157	
+dvp_038_person_6	Theodore Roosevelt	Q33866	
+dvp_038_person_7	Theodore Roosevelt	Q33866	
+dvp_038_person_8	Jacob Koppel Javits	Q1875906	
+dvp_038_person_9	Joseph McCarthy	Q189197	
+dvp_038_person_10	Harry S. Truman	Q11613	
+dvp_038_person_11	Dwight D. Eisenhower	Q9916	
+dvp_038_person_12	Joseph McCarthy	Q189197	
+dvp_038_person_13	Thomas B. Curtis	Q378524	
+dvp_038_person_14	Larry [K.] Smith		dvp_0624
+dvp_038_person_15	Gary Hart	Q919448	
+dvp_038_person_16	[Vincent E.] Starzinger’s		dvp_0625
+dvp_038_person_17	Ngo Dinh Diem	Q192502	
+dvp_038_person_18	John F. Kennedy	Q9696	
+dvp_038_person_19	Lewis Blaine Hershey	Q6536326	
+dvp_038_person_20	Lewis Blaine Hershey	Q6536326	
+dvp_038_person_21	Adolf Hitler	Q352	
+dvp_038_person_22	Heinrich Himmler	Q43067	
+dvp_038_person_23	Joseph Goebbels	Q41749	
+dvp_038_person_24	George Wallace	Q313776	
+dvp_038_person_25	Robert F. Kennedy	Q25310	
+dvp_038_person_26	Lyndon B. Johnson	Q9640	
+dvp_038_person_27	Jacob Koppel Javits	Q1875906	
+dvp_038_person_28	Jacob Koppel Javits	Q1875906	
+dvp_038_person_29	Martin Luther King Jr.	Q8027	
+dvp_038_person_30	Robert F. Kennedy	Q25310	
+dvp_038_person_31	Robert F. Kennedy	Q25310	
+dvp_038_person_32	Eugene McCarthy	Q380550	
+dvp_038_person_33	Eugene McCarthy	Q380550	
+dvp_038_person_34	Lyndon B. Johnson	Q9640	
+dvp_038_person_35	Robert F. Kennedy	Q25310	
+dvp_038_person_36	Robert F. Kennedy	Q25310	
+dvp_038_person_37	Charles de Gaulle	Q2042	
+dvp_038_person_38	Eugene McCarthy	Q380550	
+dvp_038_person_39	Richard Nixon	Q9588	
+dvp_038_person_40	Richard Nixon	Q9588	
+dvp_038_person_41	William Colby	Q482827	
+dvp_038_person_42	Robert Komer	Q4826645	
+dvp_038_person_43	Richard Nixon	Q9588	
+dvp_038_person_44	Robert McNamara	Q191999	
+dvp_038_person_45	Edward Snowden	Q13424289	
+dvp_038_person_46	Edward Snowden	Q13424289	
+dvp_038_person_47	William Westmoreland	Q298793	
+dvp_038_person_48	William Westmoreland	Q298793	
+dvp_038_person_49	Lyndon B. Johnson	Q9640	
+dvp_038_person_50	David Petraeus	Q28591	
+dvp_038_person_51	George W. Bush	Q207	
+dvp_038_person_52	Nguyen Van Thieu	Q313707	
+dvp_038_person_53	Nguyen Van Thieu	Q313707	
+dvp_038_person_54	Nguyen Van Thieu	Q313707	
+dvp_038_person_55	Nguyen Van Thieu	Q313707	
+dvp_038_person_56	Ngo Dinh Diem	Q192502	
+dvp_038_person_57	George McGovern	Q331742	
+dvp_038_person_58	Mark Hatfield	Q879921	
+dvp_038_person_59	Gerald Ford	Q9582	
+dvp_038_person_60	Richard Nixon	Q9588	
+dvp_038_person_61	Richard Nixon	Q9588	
+dvp_038_person_62	J. William Fulbright	Q550255	
+dvp_038_person_63	Ronald Reagan	Q9960	
+dvp_038_person_64	George W. Bush	Q207	
+dvp_038_person_65	Colin Powell	Q150851	
+dvp_038_person_66	Dick Cheney	Q48259	
+dvp_038_person_67	Paul Wolfowitz	Q219861	
+dvp_038_person_68	Matthew Hoh	Q106811918	
+dvp_038_person_69	Matthew Hoh	Q106811918	
+dvp_038_person_70	Dwight D. Eisenhower	Q9916	
+dvp_038_person_71	John F. Kennedy	Q9696	
+dvp_038_person_72	Lyndon B. Johnson	Q9640	
+dvp_038_person_73	Rand Paul	Q463557	
+dvp_038_person_74	John Kerry	Q22316	
+dvp_038_person_75	George W. Bush	Q207	
+dvp_038_person_76	William Colby	Q482827	
+dvp_038_person_77	Robert McNamara	Q191999	
+dvp_038_person_78	McGeorge Bundy	Q1575845	
+dvp_038_person_79	Robert McNamara	Q191999	
