@@ -1,4 +1,4 @@
-id	placeName	Qid	dvp_id	coordinate location
+id	placeName	QID	dvp_id	coordinate location
 dvp_053_place_0	Rauner Special Collections Library	Q98544730		43.70447,-72.28817
 dvp_053_place_1	Dartmouth College	Q49116		43.703333333333,-72.288333333333
 dvp_053_place_2	Hanover	Q131908		43.7,-72.28333333333333
@@ -148,7 +148,7 @@ dvp_053_place_145	Iran	Q794		32,53
 dvp_053_place_146	Alabama	Q173		32.7,-86.7
 dvp_053_place_147	Thailand	Q869		14,101
 dvp_053_place_148	Vietnam	Q881		16,108
-dvp_053_place_149	Doc			
+dvp_053_place_149	Doc
 dvp_053_place_150	Timbuktu	Q9427		16.773333055556,-2.9994438888889
 dvp_053_place_151	Thailand	Q869		14,101
 dvp_053_place_152	Thailand	Q869		14,101

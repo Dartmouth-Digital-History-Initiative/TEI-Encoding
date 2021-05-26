@@ -1,4 +1,4 @@
-id	placeName	QID	dvp_id	coordinates
+id	placeName	QID	dvp_id	coordinate location
 dvp_014_place_0	Rauner Special Collections Library	Q98544730		43.70447,-72.28817
 dvp_014_place_1	Dartmouth College	Q49116		43.703333333333,-72.288333333333
 dvp_014_place_2	Hanover	Q38249825		43.70222222,-72.28944444
@@ -109,7 +109,7 @@ dvp_014_place_106	Cần Thơ	Q216075		10.033333333333,105.78333333333
 dvp_014_place_107	Ho Chi Minh City	Q1854		10.816666666667,106.63333333333
 dvp_014_place_108	Ho Chi Minh trail	Q695916		18.6852,104.8373
 dvp_014_place_109	Ho Chi Minh trail	Q695916		18.6852,104.8373
-dvp_014_place_110	western border of Vietnam and Laos and Cambodia			
+dvp_014_place_110	western border of Vietnam and Laos and Cambodia
 dvp_014_place_111	U Minh Forest	Q1536917		9.58333,105.083
 dvp_014_place_112	Cambodia–Vietnam border	Q3089036		14.686106481482,107.54443981481
 dvp_014_place_113	U Minh Forest	Q1536917		9.58333,105.083
