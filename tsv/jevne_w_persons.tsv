@@ -1,88 +1,88 @@
-id	persName
-dvp_036_person_0	Emily [B.] Cummings
-dvp_036_person_1	[William R.] “Bill” Jevne
-dvp_036_person_2	Mr. Jevne
-dvp_036_person_3	Franz [P.] Jevne [Jr.]
-dvp_036_person_4	Helen Patricia Atcheson
-dvp_036_person_5	“Pat” Jevne
-dvp_036_person_6	[Edward J.] “Eddie” Jeremiah
-dvp_036_person_7	Eddie Jeremiah
-dvp_036_person_8	George [C.] Wallace [Jr.]
-dvp_036_person_9	[William S.] “Bill” Smoyer
-dvp_036_person_10	Smoyer
-dvp_036_person_11	Sergeant Jones
-dvp_036_person_12	Hagerty
-dvp_036_person_13	Sgt. Jones
-dvp_036_person_14	Hagerty
-dvp_036_person_15	Hagerty
-dvp_036_person_16	Bill Smoyer
-dvp_036_person_17	Bill Smoyer
-dvp_036_person_18	Bill Smoyer
-dvp_036_person_19	[Robert C.] “Bob” Coury
-dvp_036_person_20	Bob
-dvp_036_person_21	Bob
-dvp_036_person_22	Bill Smoyer
-dvp_036_person_23	Bill
-dvp_036_person_24	Major Steele
-dvp_036_person_25	Bob Hope
-dvp_036_person_26	Sergeant Elliot
-dvp_036_person_27	Sgt. Elliot
-dvp_036_person_28	Sgt. Elliot
-dvp_036_person_29	Sgt. Elliot
-dvp_036_person_30	Bill Smoyer
-dvp_036_person_31	Corporal Bear
-dvp_036_person_32	Corporal Bear
-dvp_036_person_33	Cpl. Bear
-dvp_036_person_34	Cpl. Bear
-dvp_036_person_35	Cpl. Bear
-dvp_036_person_36	Bob Marsh
-dvp_036_person_37	Michael Floy
-dvp_036_person_38	Mike
-dvp_036_person_39	Paul Ferrante
-dvp_036_person_40	Jimmy Leeks’
-dvp_036_person_41	Alberto Beso [“Taco”]
-dvp_036_person_42	Taco
-dvp_036_person_43	Taco
-dvp_036_person_44	Taco
-dvp_036_person_45	Taco
-dvp_036_person_46	Bill Smoyer
-dvp_036_person_47	[Matthew A.] “Matt” Ruden
-dvp_036_person_48	[President] Lyndon [B.] Johnson
-dvp_036_person_49	Lt. Jevne
-dvp_036_person_50	Matt Ruden
-dvp_036_person_51	Matt Ruden
-dvp_036_person_52	John[F.] Schrom
-dvp_036_person_53	[John B.] “Doc” Thornton
-dvp_036_person_54	Mike Floy
-dvp_036_person_55	Matt
-dvp_036_person_56	John Schrom
-dvp_036_person_57	Doc Thornton
-dvp_036_person_58	[Joseph E.] “Joe” Davis [Jr.]
-dvp_036_person_59	Joe Davis
-dvp_036_person_60	Matt
-dvp_036_person_61	Bill Finn
-dvp_036_person_62	[Robert] “Bob” Corey
-dvp_036_person_63	Bob
-dvp_036_person_64	Bob
-dvp_036_person_65	“Donald T. L.] “Don” Ho?
-dvp_036_person_66	Don Ho
-dvp_036_person_67	Ray [W.] Hesterlee
-dvp_036_person_68	Dave DuBlue
-dvp_036_person_69	Ray
-dvp_036_person_70	Dave
-dvp_036_person_71	Ray
-dvp_036_person_72	Ray
-dvp_036_person_73	Ray
-dvp_036_person_74	Ray
-dvp_036_person_75	Emily
-dvp_036_person_76	[Peter] “Pete” Pace
-dvp_036_person_77	Pete
-dvp_036_person_78	[Adolf] Hitler
-dvp_036_person_79	Juanita [F. Ramsey-Jevne]
-dvp_036_person_80	Juanita
-dvp_036_person_81	Emily
-dvp_036_person_82	[James E.] “Jim” Wright
-dvp_036_person_83	Bill Smoyer
-dvp_036_person_84	Duncan [B.] Sleigh
-dvp_036_person_85	Bill
-dvp_036_person_86	Jim
+id	persName	QID	dvp_id
+dvp_036_person_0	Emily [B.] Cummings		dvp_0239
+dvp_036_person_1	[William R.] “Bill” Jevne		dvp_0500
+dvp_036_person_2	Mr. Jevne		dvp_0500
+dvp_036_person_3	Franz [P.] Jevne [Jr.]		dvp_0636
+dvp_036_person_4	Helen Patricia Atcheson		dvp_0637
+dvp_036_person_5	“Pat” Jevne		dvp_0637
+dvp_036_person_6	Eddie Jeremiah	Q5336162	
+dvp_036_person_7	Eddie Jeremiah	Q5336162	
+dvp_036_person_8	George Wallace	Q313776	
+dvp_036_person_9	[William S.] “Bill” Smoyer		dvp_0081
+dvp_036_person_10	Smoyer		dvp_0081
+dvp_036_person_11	Sergeant Jones		dvp_0638
+dvp_036_person_12	Hagerty		dvp_0639
+dvp_036_person_13	Sgt. Jones		dvp_0638
+dvp_036_person_14	Hagerty		dvp_0639
+dvp_036_person_15	Hagerty		dvp_0639
+dvp_036_person_16	Bill Smoyer		dvp_0081
+dvp_036_person_17	Bill Smoyer		dvp_0081
+dvp_036_person_18	Bill Smoyer		dvp_0081
+dvp_036_person_19	[Robert C.] “Bob” Coury		dvp_0640
+dvp_036_person_20	Bob		dvp_0640
+dvp_036_person_21	Bob		dvp_0640
+dvp_036_person_22	Bill Smoyer		dvp_0081
+dvp_036_person_23	Bill		dvp_0081
+dvp_036_person_24	Major Steele		dvp_0641
+dvp_036_person_25	Bob Hope	Q94081	
+dvp_036_person_26	Sergeant Elliot		dvp_0642
+dvp_036_person_27	Sgt. Elliot		dvp_0642
+dvp_036_person_28	Sgt. Elliot		dvp_0642
+dvp_036_person_29	Sgt. Elliot		dvp_0642
+dvp_036_person_30	Bill Smoyer		dvp_0081
+dvp_036_person_31	Corporal Bear		dvp_0643
+dvp_036_person_32	Corporal Bear		dvp_0643
+dvp_036_person_33	Cpl. Bear		dvp_0643
+dvp_036_person_34	Cpl. Bear		dvp_0643
+dvp_036_person_35	Cpl. Bear		dvp_0643
+dvp_036_person_36	Bob Marsh		dvp_0644
+dvp_036_person_37	Michael Floy		dvp_0645
+dvp_036_person_38	Mike		dvp_0645
+dvp_036_person_39	Paul Ferrante		dvp_0646
+dvp_036_person_40	Jimmy Leeks’		dvp_0647
+dvp_036_person_41	Alberto Beso [“Taco”]		dvp_0648
+dvp_036_person_42	Taco		dvp_0648
+dvp_036_person_43	Taco		dvp_0648
+dvp_036_person_44	Taco		dvp_0648
+dvp_036_person_45	Taco		dvp_0648
+dvp_036_person_46	Bill Smoyer		dvp_0081
+dvp_036_person_47	[Matthew A.] “Matt” Ruden		dvp_0649
+dvp_036_person_48	Lyndon B. Johnson	Q9640	
+dvp_036_person_49	Lt. Jevne		dvp_0500
+dvp_036_person_50	Matt Ruden		dvp_0649
+dvp_036_person_51	Matt Ruden		dvp_0649
+dvp_036_person_52	John[F.] Schrom		dvp_0650
+dvp_036_person_53	[John B.] “Doc” Thornton		dvp_0650
+dvp_036_person_54	Mike Floy		dvp_0645
+dvp_036_person_55	Matt		dvp_0649
+dvp_036_person_56	John Schrom		dvp_0650
+dvp_036_person_57	Doc Thornton		dvp_0651
+dvp_036_person_58	[Joseph E.] “Joe” Davis [Jr.]		dvp_0652
+dvp_036_person_59	Joe Davis		dvp_0652
+dvp_036_person_60	Matt		dvp_0649
+dvp_036_person_61	Bill Finn		dvp_0652
+dvp_036_person_62	[Robert] “Bob” Corey		dvp_0654
+dvp_036_person_63	Bob		dvp_0654
+dvp_036_person_64	Bob		dvp_0654
+dvp_036_person_65	Don Ho	Q1320894	
+dvp_036_person_66	Don Ho	Q1320894	
+dvp_036_person_67	Ray [W.] Hesterlee		dvp_0655
+dvp_036_person_68	Dave DuBlue		dvp_0656
+dvp_036_person_69	Ray		dvp_0655
+dvp_036_person_70	Dave		dvp_0656
+dvp_036_person_71	Ray		dvp_0655
+dvp_036_person_72	Ray		dvp_0655
+dvp_036_person_73	Ray		dvp_0655
+dvp_036_person_74	Ray		dvp_0655
+dvp_036_person_75	Emily		dvp_0239
+dvp_036_person_76	Peter Pace	Q540453	
+dvp_036_person_77	Peter Pace	Q540453	
+dvp_036_person_78	Adolf Hitler	Q352	
+dvp_036_person_79	Juanita [F. Ramsey-Jevne]		dvp_0497
+dvp_036_person_80	Juanita		dvp_0497
+dvp_036_person_81	Emily		dvp_0239
+dvp_036_person_82	James Wright	Q3161056	
+dvp_036_person_83	Bill Smoyer		dvp_0081
+dvp_036_person_84	Duncan [B.] Sleigh		dvp_0657
+dvp_036_person_85	Bill		dvp_0081
+dvp_036_person_86	James Wright	Q3161056	
