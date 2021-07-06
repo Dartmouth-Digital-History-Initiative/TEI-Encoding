@@ -59,36 +59,36 @@
   </teiHeader>
   <text>
     <body>
-      <u who="RIDKER">This is <persName>Elena Ridker</persName> with the <orgName>Dartmouth Vietnam Project</orgName>. Today is Thursday, <date when="2015-05-21">May 21st, 2015</date>. It’s about 10 a.m., and I’m in <placeName>Rauner [Special Collections] Library</placeName>, and I have <persName>Dan Walden</persName> from the <orgName>Class of 1965</orgName> on the other line for a phone interview.So, <persName>Dan</persName>, thank you so much for participating in the project. It’s really great to have you.</u>
-      <u who="WALDEN"><persName>Elena</persName>, thank you so much for your courtesy that you’ve shown me so far, and I think the project is terrific, and I look forward to the interview.</u>
+      <u who="RIDKER">This is <persName ref="#dvp_067_person_0">Elena Ridker</persName> with the <orgName ref="#dvp_067_org_0">Dartmouth Vietnam Project</orgName>. Today is Thursday, <date when="2015-05-21">May 21st, 2015</date>. It’s about 10 a.m., and I’m in <placeName ref="#dvp_067_place_0">Rauner [Special Collections] Library</placeName>, and I have <persName ref="#dvp_067_person_1">Dan Walden</persName> from the <orgName ref="#dvp_067_org_1">Class of 1965</orgName> on the other line for a phone interview.So, <persName ref="#dvp_067_person_2">Dan</persName>, thank you so much for participating in the project. It’s really great to have you.</u>
+      <u who="WALDEN"><persName ref="#dvp_067_person_3">Elena</persName>, thank you so much for your courtesy that you’ve shown me so far, and I think the project is terrific, and I look forward to the interview.</u>
       <u who="RIDKER">Great, as do I, and so let’s get started and just with some biographical information up front. So where were you born, and what were your parents’ names?</u>
-      <u who="WALDEN">I was born in <placeName>Boston, Massachusetts</placeName>. My parents were <persName>John [A.]</persName> and <persName>Grace [C.] Walden</persName>. We lived in the suburb of <placeName>Watertown</placeName> for a number of years, and when I was halfway through high school, my father got transferred to <placeName>Los Angeles</placeName>, so we lived out there, and that’s where I lived when I matriculated to <orgName>Dartmouth [College]</orgName> then.</u>
+      <u who="WALDEN">I was born in <placeName ref="#dvp_067_place_1">Boston, Massachusetts</placeName>. My parents were <persName ref="#dvp_067_person_4">John [A.]</persName> and <persName ref="#dvp_067_person_5">Grace [C.] Walden</persName>. We lived in the suburb of <placeName ref="#dvp_067_place_2">Watertown</placeName> for a number of years, and when I was halfway through high school, my father got transferred to <placeName ref="#dvp_067_place_3">Los Angeles</placeName>, so we lived out there, and that’s where I lived when I matriculated to <orgName ref="#dvp_067_org_2">Dartmouth [College]</orgName> then.</u>
       <u who="RIDKER">Do you have any memories of your childhood? Anything specific stand out?</u>
-      <u who="WALDEN">Yes, as a matter of fact. We lived on the banks of the <placeName>Charles River</placeName>, not the genteel <placeName>Charles</placeName> down by <placeName>Cambridge</placeName> and <placeName>Brighton</placeName> and that area, but up where it was fairly wild. And along with my boyhood chums, we took great delight in going down to the <placeName>Charles River</placeName> and doing all kinds of things, some of which were not so praiseworthy. For example, on occasion we’d go down there and light grass fires and sit on the bank of a hill and wait for the fire department to show up, and they would dutifully extinguish the fire. We found out after quite a while that the fire department members really liked this activity because it broke the boredom of sitting around the firehouse.In any event, that was—I mention that to introduce you to my heavy criminal involvement along the way of my life, and also to hint at the fact that later on in life, I kind of became an adrenaline freak. Adrenaline became my drug of choice, so to speak. I managed to find my way into various activities that satisfied that perceived need.Along the way, by the way, I played three sports in high school: football, basketball, baseball. I managed to scramble my way to becoming an Eagle Scout. Love scouting and that whole routine. It also positioned me for an escape to <placeName>Dartmouth</placeName> later, after we moved to <placeName>Los Angeles</placeName>. My family and I—I’m an only child. I believe—I was never told, but I believe that was a result of my father’s injuries after being wounded in <name type="event">World War II</name>. As I say, it was never discussed. In fact, my father’s experience in the war, other than a typhoon that I mentioned to you in our conversations—he never described his combat experiences in the war. He had, I recognize now, the early version of post-traumatic stress disorder, PTSD, a condition I came back from <placeName>Vietnam</placeName> with, oh, several decades later.In any event, we spent a good deal of time climbing the mountains in <placeName>New Hampshire</placeName> and in that general area when I was a child, before we moved to <placeName>Los Angeles</placeName>, and so I was familiar with the state, and it was only natural that I took at look at <orgName>Dartmouth</orgName> when it was time to matriculate for college.</u>
+      <u who="WALDEN">Yes, as a matter of fact. We lived on the banks of the <placeName ref="#dvp_067_place_4">Charles River</placeName>, not the genteel <placeName ref="#dvp_067_place_5">Charles</placeName> down by <placeName ref="#dvp_067_place_6">Cambridge</placeName> and <placeName ref="#dvp_067_place_7">Brighton</placeName> and that area, but up where it was fairly wild. And along with my boyhood chums, we took great delight in going down to the <placeName ref="#dvp_067_place_8">Charles River</placeName> and doing all kinds of things, some of which were not so praiseworthy. For example, on occasion we’d go down there and light grass fires and sit on the bank of a hill and wait for the fire department to show up, and they would dutifully extinguish the fire. We found out after quite a while that the fire department members really liked this activity because it broke the boredom of sitting around the firehouse.In any event, that was—I mention that to introduce you to my heavy criminal involvement along the way of my life, and also to hint at the fact that later on in life, I kind of became an adrenaline freak. Adrenaline became my drug of choice, so to speak. I managed to find my way into various activities that satisfied that perceived need.Along the way, by the way, I played three sports in high school: football, basketball, baseball. I managed to scramble my way to becoming an Eagle Scout. Love scouting and that whole routine. It also positioned me for an escape to <placeName ref="#dvp_067_place_9">Dartmouth</placeName> later, after we moved to <placeName ref="#dvp_067_place_10">Los Angeles</placeName>. My family and I—I’m an only child. I believe—I was never told, but I believe that was a result of my father’s injuries after being wounded in <name type="event" ref="#dvp_067_event_0">World War II</name>. As I say, it was never discussed. In fact, my father’s experience in the war, other than a typhoon that I mentioned to you in our conversations—he never described his combat experiences in the war. He had, I recognize now, the early version of post-traumatic stress disorder, PTSD, a condition I came back from <placeName ref="#dvp_067_place_11">Vietnam</placeName> with, oh, several decades later.In any event, we spent a good deal of time climbing the mountains in <placeName ref="#dvp_067_place_12">New Hampshire</placeName> and in that general area when I was a child, before we moved to <placeName ref="#dvp_067_place_13">Los Angeles</placeName>, and so I was familiar with the state, and it was only natural that I took at look at <orgName ref="#dvp_067_org_3">Dartmouth</orgName> when it was time to matriculate for college.</u>
       <u who="RIDKER">Mm-hm. And so you mentioned your father. I’m wondering, did you have a close relationship with him?</u>
-      <u who="WALDEN">Absolutely, yes. He was—among other things, he was a devoted father, an excellent teacher and a complete gentleman. He and my mother insisted on—that I develop decent manner, and I try to honor that teaching to this day, sometimes not perfectly. But he was a terrific tower of example. Among other things, he started a stamp club, a stamp collecting club at the <placeName>Connecticut</placeName>—<placeName>Connecticut</placeName>!—the <orgName>Concord, Massachusetts, state penitentiary [Massachusetts Correctional Institute at Concord]</orgName>. Philately was his hobby, and I had the example of one of my parents being a very, very good public servant, so to speak, in a quite unusual way: a stamp club at a prison.My mother was a prototype housewife at that point, not a helicopter mom, really, but fairly stern but with an absolutely great sense of humor. That sense of humor, I like to think, has penetrated down for a couple of generations, first to me and then to our children, but I let others be the judge of that.</u>
-      <u who="RIDKER">[Chuckles.]And so how did you eventually end up at <orgName>Dartmouth</orgName>? What made you decide to go back to the East Coast?</u>
-      <u who="WALDEN">As I mentioned, the outdoors life, so to speak, really appealed to me, and I had experience in <placeName>New Hampshire</placeName>, <placeName>New Hampshire</placeName>’s out-of-doors attractions, and it felt like a natural place for me to attempt to go back to school, so I applied to <orgName>Dartmouth</orgName>, among others, other schools. And when I was admitted, that was my first choice, and bingo: I wound up matriculating.</u>
+      <u who="WALDEN">Absolutely, yes. He was—among other things, he was a devoted father, an excellent teacher and a complete gentleman. He and my mother insisted on—that I develop decent manner, and I try to honor that teaching to this day, sometimes not perfectly. But he was a terrific tower of example. Among other things, he started a stamp club, a stamp collecting club at the <placeName ref="#dvp_067_place_14">Connecticut</placeName>—<placeName ref="#dvp_067_place_15">Connecticut</placeName>!—the <orgName ref="#dvp_067_org_4">Concord, Massachusetts, state penitentiary [Massachusetts Correctional Institute at Concord]</orgName>. Philately was his hobby, and I had the example of one of my parents being a very, very good public servant, so to speak, in a quite unusual way: a stamp club at a prison.My mother was a prototype housewife at that point, not a helicopter mom, really, but fairly stern but with an absolutely great sense of humor. That sense of humor, I like to think, has penetrated down for a couple of generations, first to me and then to our children, but I let others be the judge of that.</u>
+      <u who="RIDKER">[Chuckles.]And so how did you eventually end up at <orgName ref="#dvp_067_org_5">Dartmouth</orgName>? What made you decide to go back to the East Coast?</u>
+      <u who="WALDEN">As I mentioned, the outdoors life, so to speak, really appealed to me, and I had experience in <placeName ref="#dvp_067_place_16">New Hampshire</placeName>, <placeName ref="#dvp_067_place_17">New Hampshire</placeName>’s out-of-doors attractions, and it felt like a natural place for me to attempt to go back to school, so I applied to <orgName ref="#dvp_067_org_6">Dartmouth</orgName>, among others, other schools. And when I was admitted, that was my first choice, and bingo: I wound up matriculating.</u>
       <u who="RIDKER">And what kind of things were you involved in on campus?</u>
-      <u who="WALDEN">I’m sorry, say that again, <persName>Elena</persName>?</u>
+      <u who="WALDEN">I’m sorry, say that again, <persName ref="#dvp_067_person_6">Elena</persName>?</u>
       <u who="RIDKER">What kinds of activities were you involved with on campus?</u>
-      <u who="WALDEN">Well, the principal one that was notable for our discussion was <orgName>ROTC</orgName>, <orgName>Army ROTC [Army Reserve Officers’ Training Corps]</orgName> specifically. In those days, in the mid-’60s, it was, among other things, common for students to have some sense of feeling that they ought to get involved in, oh, public service of some kind. There was also the impetus that you could get drafted and wind up involuntarily serving in the armed services. I thought it would be a good idea because, among other things, there was a small stipend that came with it—I don’t know, fifty bucks a month or something like that, not a great inducement, but a little bit of spending cash. But mostly at <orgName>Dartmouth</orgName>, I found out that <orgName>Army ROTC</orgName> had a mountain and winter warfare unit, which was semi-unique. I believe there was one other such unit in the continental <placeName>United States</placeName> at that point. And mountain and winter warfare provided its members free skis, free snowshoes, free rock climbing equipment and free passes to the <placeName>[Dartmouth] Skiway</placeName> and so forth, so it was just a—<orgName>ROTC</orgName> was an absolute natural for me, given that I was already familiar with <placeName>New Hampshire</placeName> terrain and liked the idea of getting exercise in that fashion.I became a member of <orgName>Alpha Delta Phi</orgName>, the actual Animal House [depicted in the movie, National Lampoon’s Animal House]. And during the time, as a matter of fact, that the episodes, at least some of the episodes portrayed in the film were taking place, I, of course, had absolutely nothing to do whatsoever with any of those escapades.</u>
+      <u who="WALDEN">Well, the principal one that was notable for our discussion was <orgName ref="#dvp_067_org_7">ROTC</orgName>, <orgName ref="#dvp_067_org_8">Army ROTC [Army Reserve Officers’ Training Corps]</orgName> specifically. In those days, in the mid-’60s, it was, among other things, common for students to have some sense of feeling that they ought to get involved in, oh, public service of some kind. There was also the impetus that you could get drafted and wind up involuntarily serving in the armed services. I thought it would be a good idea because, among other things, there was a small stipend that came with it—I don’t know, fifty bucks a month or something like that, not a great inducement, but a little bit of spending cash. But mostly at <orgName ref="#dvp_067_org_9">Dartmouth</orgName>, I found out that <orgName ref="#dvp_067_org_10">Army ROTC</orgName> had a mountain and winter warfare unit, which was semi-unique. I believe there was one other such unit in the continental <placeName ref="#dvp_067_place_18">United States</placeName> at that point. And mountain and winter warfare provided its members free skis, free snowshoes, free rock climbing equipment and free passes to the <placeName ref="#dvp_067_place_19">[Dartmouth] Skiway</placeName> and so forth, so it was just a—<orgName ref="#dvp_067_org_11">ROTC</orgName> was an absolute natural for me, given that I was already familiar with <placeName ref="#dvp_067_place_20">New Hampshire</placeName> terrain and liked the idea of getting exercise in that fashion.I became a member of <orgName ref="#dvp_067_org_12">Alpha Delta Phi</orgName>, the actual Animal House [depicted in the movie, National Lampoon’s Animal House]. And during the time, as a matter of fact, that the episodes, at least some of the episodes portrayed in the film were taking place, I, of course, had absolutely nothing to do whatsoever with any of those escapades.</u>
       <u who="RIDKER">[Chuckles.]</u>
-      <u who="WALDEN">And I will always tell you the truth. [Chuckles.] Or most of it.And my other campus activity was courting a young lady by the name of <persName>Joann North</persName>, who was a student at <orgName>Wheelock College</orgName> in <placeName>Boston</placeName> with my roommate. We had descended in <date when="1966-10">October 1966</date> to <placeName>Cambridge</placeName> for the <orgName>Harvard [University]</orgName> football game, and afterwards didn’t know what we were going to do. There was a period of hours before our ride back to <placeName>Hanover</placeName> was to take place, so we found a mixer that was going on at one of the dormitories.And the two of us had shinnied up a drain pipe into a second-story open window in a lavatory at this dormitory and, you know, walked downstairs, and I said to <persName>Harry</persName>, my roommate, “Who do you think I should ask to dance?” And he said, “Why don’t you try the tall blonde?” I did, and we’ve been together ever since.</u>
+      <u who="WALDEN">And I will always tell you the truth. [Chuckles.] Or most of it.And my other campus activity was courting a young lady by the name of <persName ref="#dvp_067_person_7">Joann North</persName>, who was a student at <orgName ref="#dvp_067_org_13">Wheelock College</orgName> in <placeName ref="#dvp_067_place_21">Boston</placeName> with my roommate. We had descended in <date when="1966-10">October 1966</date> to <placeName ref="#dvp_067_place_22">Cambridge</placeName> for the <orgName ref="#dvp_067_org_14">Harvard [University]</orgName> football game, and afterwards didn’t know what we were going to do. There was a period of hours before our ride back to <placeName ref="#dvp_067_place_23">Hanover</placeName> was to take place, so we found a mixer that was going on at one of the dormitories.And the two of us had shinnied up a drain pipe into a second-story open window in a lavatory at this dormitory and, you know, walked downstairs, and I said to <persName ref="#dvp_067_person_8">Harry</persName>, my roommate, “Who do you think I should ask to dance?” And he said, “Why don’t you try the tall blonde?” I did, and we’ve been together ever since.</u>
       <u who="RIDKER">[Chuckles.]</u>
-      <u who="WALDEN">It’s one of my best stories. <persName>Joann</persName> was—when another year elapses, we will have hit our 50th wedding anniversary, and a few years more than that, courting. But she keeps my nature suppressed a little bit, which is desperately needed sometimes.What else did I do in that college? Occasionally I studied.</u>
+      <u who="WALDEN">It’s one of my best stories. <persName ref="#dvp_067_person_9">Joann</persName> was—when another year elapses, we will have hit our 50th wedding anniversary, and a few years more than that, courting. But she keeps my nature suppressed a little bit, which is desperately needed sometimes.What else did I do in that college? Occasionally I studied.</u>
       <u who="RIDKER">[Chuckles.]</u>
-      <u who="WALDEN">I managed to scrape by by getting every grade that was possible to get in the <orgName>Dartmouth</orgName> of those days and had a great time. I had an enormously good feel for the college.</u>
-      <u who="RIDKER">And so at the time, you know, during your senior year, I know the <name type="event">war in Vietnam</name> was just starting to become Americanized with the introduction of ground troops, and I’m wondering if there was much talk on campus about the war and if you were involved in that at all.</u>
-      <u who="WALDEN">I don’t remember a whole lot. My notion was that, you know, there had been stirrings of dissent about the <name type="event">Vietnam War</name> had begun, of course, at that time. But when I graduated in <date when="1965-06">June of 1965</date>, there had not yet developed the kind of furor that occurred later. And we had a few troops over there, but nothing approaching the heavy-duty assignments that came later. And it wasn’t an everyday travelogue, so to speak, in the nightly news.The <orgName>Army</orgName> offered me a <orgName>Regular Army</orgName> commission, and I decided to take it for a number of reasons, one of which was that I really didn’t know what I wanted to do for the rest of my life, and secondly it seemed to proffer the prospect of some favorable assignments, like, for example, <placeName>Germany</placeName> or some nice overseas post. So I accepted the <orgName>RA</orgName> commission. That committed me to three years instead of two as a <orgName>Reserve</orgName> officer. And so off I went.Whether that was a mistake or not is, you know, a question of debate that has occurred throughout the years ever since, but instead of <placeName>Germany</placeName> or some nice soft post like that or [unintelligible]. In <placeName>Germany</placeName>, for example, I could have continued skiing and things of that nature, and rock climbing. By that time, I had developed an affinity for rock climbing and some skills, and when I got home to the <placeName>Los Angeles</placeName> area for vacations, spent some time with that kind of activity. And for a while, I had an affiliation with the <orgName>Sierra Madre Search and Rescue Team</orgName>, which was headquartered in one of the—you know, just to the east of <placeName>Los Angeles</placeName> and had then, and still does, a reputation for some pretty good mountain and rescue operations.In any event, courting <persName>Joann</persName> was a heavy-duty responsibility. [Chuckles.] And still is, for that matter. But I did my best with it. She may be listening to this. I’m not sure. If so, I will suffer for it later.What’s your next question, please?</u>
-      <u who="RIDKER">[Chuckles.] So, yeah, just in kind of going back to when you were graduating from <orgName>Dartmouth</orgName>, did you have any other friends from <orgName>Dartmouth</orgName> who had also decided that they were going to join the military as well?</u>
-      <u who="WALDEN">Yes, as a matter of fact. My two senior year roommates [coughs] were both in <orgName>Army ROTC</orgName>, and both served in <placeName>Vietnam</placeName> at the same time as I did, although in different units and different specialties. <persName>[Thomas L.] “Tommy” Miller [Class of 1965]</persName> was a commander in an armored personnel unit. <persName>[Donald McK.] “Don” Boardman [Class of 1965]</persName> was a staff officer in a—basically, a finance outfit headquartered out of the <placeName>Saigon</placeName> area.I have a photograph—I don’t think I sent you one, but it occurred to—we just got some additional prints of the three of us. When I came back—I was the first to leave the country—I met <persName>Don</persName> and <persName>Tom</persName>, you know, just the day before leaving, and we had a nice little mini-reunion down at—down at the airport near <placeName>Saigon</placeName> before coming back. So the three of us were, you know, compatriots, and our 50th reunion is about to start in about two and a half weeks, and I really look forward to seeing both of those guys and others as well.</u>
+      <u who="WALDEN">I managed to scrape by by getting every grade that was possible to get in the <orgName ref="#dvp_067_org_15">Dartmouth</orgName> of those days and had a great time. I had an enormously good feel for the college.</u>
+      <u who="RIDKER">And so at the time, you know, during your senior year, I know the <name type="event" ref="#dvp_067_event_1">war in Vietnam</name> was just starting to become Americanized with the introduction of ground troops, and I’m wondering if there was much talk on campus about the war and if you were involved in that at all.</u>
+      <u who="WALDEN">I don’t remember a whole lot. My notion was that, you know, there had been stirrings of dissent about the <name type="event" ref="#dvp_067_event_2">Vietnam War</name> had begun, of course, at that time. But when I graduated in <date when="1965-06">June of 1965</date>, there had not yet developed the kind of furor that occurred later. And we had a few troops over there, but nothing approaching the heavy-duty assignments that came later. And it wasn’t an everyday travelogue, so to speak, in the nightly news.The <orgName ref="#dvp_067_org_16">Army</orgName> offered me a <orgName ref="#dvp_067_org_17">Regular Army</orgName> commission, and I decided to take it for a number of reasons, one of which was that I really didn’t know what I wanted to do for the rest of my life, and secondly it seemed to proffer the prospect of some favorable assignments, like, for example, <placeName ref="#dvp_067_place_24">Germany</placeName> or some nice overseas post. So I accepted the <orgName ref="#dvp_067_org_18">RA</orgName> commission. That committed me to three years instead of two as a <orgName ref="#dvp_067_org_19">Reserve</orgName> officer. And so off I went.Whether that was a mistake or not is, you know, a question of debate that has occurred throughout the years ever since, but instead of <placeName ref="#dvp_067_place_25">Germany</placeName> or some nice soft post like that or [unintelligible]. In <placeName ref="#dvp_067_place_26">Germany</placeName>, for example, I could have continued skiing and things of that nature, and rock climbing. By that time, I had developed an affinity for rock climbing and some skills, and when I got home to the <placeName ref="#dvp_067_place_27">Los Angeles</placeName> area for vacations, spent some time with that kind of activity. And for a while, I had an affiliation with the <orgName ref="#dvp_067_org_20">Sierra Madre Search and Rescue Team</orgName>, which was headquartered in one of the—you know, just to the east of <placeName ref="#dvp_067_place_28">Los Angeles</placeName> and had then, and still does, a reputation for some pretty good mountain and rescue operations.In any event, courting <persName ref="#dvp_067_person_10">Joann</persName> was a heavy-duty responsibility. [Chuckles.] And still is, for that matter. But I did my best with it. She may be listening to this. I’m not sure. If so, I will suffer for it later.What’s your next question, please?</u>
+      <u who="RIDKER">[Chuckles.] So, yeah, just in kind of going back to when you were graduating from <orgName ref="#dvp_067_org_21">Dartmouth</orgName>, did you have any other friends from <orgName ref="#dvp_067_org_22">Dartmouth</orgName> who had also decided that they were going to join the military as well?</u>
+      <u who="WALDEN">Yes, as a matter of fact. My two senior year roommates [coughs] were both in <orgName ref="#dvp_067_org_23">Army ROTC</orgName>, and both served in <placeName ref="#dvp_067_place_29">Vietnam</placeName> at the same time as I did, although in different units and different specialties. <persName ref="#dvp_067_person_11">[Thomas L.] “Tommy” Miller [Class of 1965]</persName> was a commander in an armored personnel unit. <persName ref="#dvp_067_person_12">[Donald McK.] “Don” Boardman [Class of 1965]</persName> was a staff officer in a—basically, a finance outfit headquartered out of the <placeName ref="#dvp_067_place_30">Saigon</placeName> area.I have a photograph—I don’t think I sent you one, but it occurred to—we just got some additional prints of the three of us. When I came back—I was the first to leave the country—I met <persName ref="#dvp_067_person_13">Don</persName> and <persName ref="#dvp_067_person_14">Tom</persName>, you know, just the day before leaving, and we had a nice little mini-reunion down at—down at the airport near <placeName ref="#dvp_067_place_31">Saigon</placeName> before coming back. So the three of us were, you know, compatriots, and our 50th reunion is about to start in about two and a half weeks, and I really look forward to seeing both of those guys and others as well.</u>
       <u who="RIDKER">Mm-hm.</u>
-      <u who="WALDEN">So it was commonplace for the people I associated with at <orgName>Dartmouth</orgName> to participate in <orgName>ROTC</orgName>. Not all of them did. Not all my friends and associates did but enough of them that, you know, it was—set my standards, let’s say.</u>
+      <u who="WALDEN">So it was commonplace for the people I associated with at <orgName ref="#dvp_067_org_24">Dartmouth</orgName> to participate in <orgName ref="#dvp_067_org_25">ROTC</orgName>. Not all of them did. Not all my friends and associates did but enough of them that, you know, it was—set my standards, let’s say.</u>
       <u who="RIDKER">Mm-hm. And then so what was the first thing you did after graduating?</u>
-      <u who="WALDEN">Well, by that time, I was enrolled in the <orgName>Army</orgName>, and it was time for some training. There was an arbitrary—I didn’t particularly want to become an infantry officer, or armored or any of those straight combat branches, which—which was fine in a way, but I knew nothing about electronics, so they shipped me off first to <placeName>Fort Gordon, Georgia</placeName>, for basic signal officer training, then to <placeName>Fort Sill, Oklahoma</placeName>, for advanced communications officer training, then to <placeName>Fort Benning, Georgia</placeName>, for airborne training, a three-week jump school experience.I have a great story about that. In jump week, which is the third week, when you actually start jumping out of aircraft and so forth, the first phase of jump week is a 34-foot tower, and you take practice jumps off of that, using all the appropriate techniques and so forth. <persName>Joann</persName> decided she was going to come out and watch us on this particular morning. So I’m out there with the rest of the people in my training platoon, and the drill sergeant, who was a real hard ass—they had to be, and that was a good thing, I know—all of a sudden, he said, “Whose wife is that out there?”</u>
+      <u who="WALDEN">Well, by that time, I was enrolled in the <orgName ref="#dvp_067_org_26">Army</orgName>, and it was time for some training. There was an arbitrary—I didn’t particularly want to become an infantry officer, or armored or any of those straight combat branches, which—which was fine in a way, but I knew nothing about electronics, so they shipped me off first to <placeName ref="#dvp_067_place_32">Fort Gordon, Georgia</placeName>, for basic signal officer training, then to <placeName ref="#dvp_067_place_33">Fort Sill, Oklahoma</placeName>, for advanced communications officer training, then to <placeName ref="#dvp_067_place_34">Fort Benning, Georgia</placeName>, for airborne training, a three-week jump school experience.I have a great story about that. In jump week, which is the third week, when you actually start jumping out of aircraft and so forth, the first phase of jump week is a 34-foot tower, and you take practice jumps off of that, using all the appropriate techniques and so forth. <persName ref="#dvp_067_person_15">Joann</persName> decided she was going to come out and watch us on this particular morning. So I’m out there with the rest of the people in my training platoon, and the drill sergeant, who was a real hard ass—they had to be, and that was a good thing, I know—all of a sudden, he said, “Whose wife is that out there?”</u>
       <u who="RIDKER">[Chuckles.]</u>
-      <u who="WALDEN">And, of course, it was <persName>Joann</persName>, and she was watching—one of the guys who was tending the ropes associated with the tower exercise had run right into a communications pole and knocked himself out. So he was sprawled on the ground, and <persName>Jo</persName> was gasping at this spectacle. So the sarge said, “Whose wife is that?” There was no one answering. He said, “Well, if nobody’s gonna tell me whose wife that is, you’re all gonna pay for it.” So I raised my hand.</u>
+      <u who="WALDEN">And, of course, it was <persName ref="#dvp_067_person_16">Joann</persName>, and she was watching—one of the guys who was tending the ropes associated with the tower exercise had run right into a communications pole and knocked himself out. So he was sprawled on the ground, and <persName ref="#dvp_067_person_17">Jo</persName> was gasping at this spectacle. So the sarge said, “Whose wife is that?” There was no one answering. He said, “Well, if nobody’s gonna tell me whose wife that is, you’re all gonna pay for it.” So I raised my hand.</u>
       <u who="RIDKER">[Chuckles.]</u>
       <u who="WALDEN">He said, “Give me 50 pushups.”</u>
       <u who="RIDKER">[Chuckles.]</u>
@@ -96,59 +96,909 @@
       <u who="RIDKER">[Chuckles.]</u>
       <u who="WALDEN">We had this spectacle. This, by the way—there may have been two or three other officers in this platoon, but mostly it was enlisted men, so they got a great chuckle out of this, and I’m sure the sergeant got a charge out of it as well.I saw—actually saw—as I was doing the pushups, I actually saw the humor in the whole situation, and I started chuckling, but that was a mistake because that cost me another 50 pushups.</u>
       <u who="RIDKER">[Chuckles.]</u>
-      <u who="WALDEN">In any event, one has—whether in the <orgName>Army</orgName> or elsewhere in life, one has to keep up a sense of humor.Continue, please.</u>
-      <u who="RIDKER">Okay. One sec. All right. So that was <placeName>Fort Benning</placeName> when you were doing jump school?</u>
+      <u who="WALDEN">In any event, one has—whether in the <orgName ref="#dvp_067_org_27">Army</orgName> or elsewhere in life, one has to keep up a sense of humor.Continue, please.</u>
+      <u who="RIDKER">Okay. One sec. All right. So that was <placeName ref="#dvp_067_place_35">Fort Benning</placeName> when you were doing jump school?</u>
       <u who="WALDEN">Yes, it was.</u>
-      <u who="RIDKER">And so do you have any other sort of memories like that that stand out to you in particular about training, either at <placeName>Fort Gordon</placeName> for basic or at <placeName>Fort Benning</placeName>?</u>
-      <u who="WALDEN">Well, my next assignment after jump school was to join my first duty unit, which was—my assignment was to be the signal officer, brigade signal officer for the  <orgName>3rd Brigade of the 82nd Airborne Division</orgName> at <placeName>Fort Bragg [North Carolina]</placeName>. The most notable experience during that was we—the brigade got detailed to go—to fly up to <placeName>Detroit</placeName> and suppress the riots that were occurring there that particular summer. So off we went.And it was interesting. The signal unit, when <orgName>Army</orgName> units are moving around, generally is in the forefront because they have to set up communications, obviously, which is an important task. You can’t carry out missions without that—those circuits.In any events, so I was in what turned out to be the first airplane that landed outside of <placeName>Detroit</placeName>. The command aircraft, which included the brigade commander, a full colonel, was delayed because of mechanical problems. So I wound up unexpectedly being the—as a first lieutenant, being the senior officer available to lead the brigade into <placeName>Detroit</placeName> to suppress this riot. So I got to ride in the first vehicle along with the state police commander and <orgName>National Guard</orgName> commander until <persName>Col. [Alexander R.] Bolling [Jr.]</persName> and his staff catch up with us. That was an interesting little experience.We spent a week in <placeName>Detroit</placeName>. After the first couple of days, things quieted down. Among other things, we would get up in the morning and run around the streets of <placeName>Detroit</placeName>, chanting our war cries and so forth, and that seemed to have an impact on people first paying attention and then behaving themselves.In any event, one little, great story that I remember is that we wound up after the riot was suppressed—we relocated to a place called Chandler Park, which was kind of on the outskirts of the whole riot area. We were ready to go back in if need be. The young women of the <placeName>Detroit</placeName> area had found out that these smart, lean, very fit paratroopers were hanging out at this park, so we got surrounded by young lovelies.</u>
+      <u who="RIDKER">And so do you have any other sort of memories like that that stand out to you in particular about training, either at <placeName ref="#dvp_067_place_36">Fort Gordon</placeName> for basic or at <placeName ref="#dvp_067_place_37">Fort Benning</placeName>?</u>
+      <u who="WALDEN">Well, my next assignment after jump school was to join my first duty unit, which was—my assignment was to be the signal officer, brigade signal officer for the  <orgName ref="#dvp_067_org_28">3rd Brigade of the 82nd Airborne Division</orgName> at <placeName ref="#dvp_067_place_38">Fort Bragg [North Carolina]</placeName>. The most notable experience during that was we—the brigade got detailed to go—to fly up to <placeName ref="#dvp_067_place_39">Detroit</placeName> and suppress the riots that were occurring there that particular summer. So off we went.And it was interesting. The signal unit, when <orgName ref="#dvp_067_org_29">Army</orgName> units are moving around, generally is in the forefront because they have to set up communications, obviously, which is an important task. You can’t carry out missions without that—those circuits.In any events, so I was in what turned out to be the first airplane that landed outside of <placeName ref="#dvp_067_place_40">Detroit</placeName>. The command aircraft, which included the brigade commander, a full colonel, was delayed because of mechanical problems. So I wound up unexpectedly being the—as a first lieutenant, being the senior officer available to lead the brigade into <placeName ref="#dvp_067_place_41">Detroit</placeName> to suppress this riot. So I got to ride in the first vehicle along with the state police commander and <orgName ref="#dvp_067_org_30">National Guard</orgName> commander until <persName ref="#dvp_067_person_18">Col. [Alexander R.] Bolling [Jr.]</persName> and his staff catch up with us. That was an interesting little experience.We spent a week in <placeName ref="#dvp_067_place_42">Detroit</placeName>. After the first couple of days, things quieted down. Among other things, we would get up in the morning and run around the streets of <placeName ref="#dvp_067_place_43">Detroit</placeName>, chanting our war cries and so forth, and that seemed to have an impact on people first paying attention and then behaving themselves.In any event, one little, great story that I remember is that we wound up after the riot was suppressed—we relocated to a place called Chandler Park, which was kind of on the outskirts of the whole riot area. We were ready to go back in if need be. The young women of the <placeName ref="#dvp_067_place_44">Detroit</placeName> area had found out that these smart, lean, very fit paratroopers were hanging out at this park, so we got surrounded by young lovelies.</u>
       <u who="RIDKER">[Chuckles.]</u>
       <u who="WALDEN">And I got detailed by the brigade commander to ride around the perimeter at night, warding these young ladies off and interrupting their various would-be trysts by the troops and so forth. It was both hilarious in its way and painful. [Laughs.]</u>
       <u who="RIDKER">[Chuckles.]</u>
-      <u who="WALDEN">As you might imagine. Eventually, after a week or so of first putting down the riots and then resisting the young lovelies, we came back to <placeName>Fort Bragg</placeName>.</u>
-      <u who="RIDKER">And so you mentioned that was the <orgName>82nd</orgName>?</u>
+      <u who="WALDEN">As you might imagine. Eventually, after a week or so of first putting down the riots and then resisting the young lovelies, we came back to <placeName ref="#dvp_067_place_45">Fort Bragg</placeName>.</u>
+      <u who="RIDKER">And so you mentioned that was the <orgName ref="#dvp_067_org_31">82nd</orgName>?</u>
       <u who="WALDEN">Yes.</u>
-      <u who="RIDKER"><orgName>Airborne Brigade</orgName>. And so how were you feeling at that time about kind of your rising military career? And were you nervous about the prospect of being deployed to <placeName>Vietnam</placeName>?</u>
-      <u who="WALDEN">The answer is yes. By that time, I knew it was coming because the war had heated up, and friends of mine had been deployed to <placeName>Nam</placeName>, and I had this <orgName>Regular Army</orgName> commission, which was kind of dumb at that point. By that time, I knew that—I didn’t think that this was going to be my career. I didn’t like the strictures, if you will, of <orgName>Army</orgName> life. And <persName>Joann</persName> couldn’t see—she was in training to be a schoolteacher, and she couldn't see most—as you probably know, most, if not many—many, if not most of the <orgName>Army</orgName> posts are in the <placeName>South</placeName>, and we didn’t fancy living in that kind of environment. But it was coming no matter what.So I had made up my mind that I would get out as soon as possible, but I would have to serve in year in <date>Nam</date>. And sure enough, the orders came down assigning me to the <orgName>101st Airborne</orgName> in <placeName>Nam</placeName>, and off we went. Or off I went. <persName>Joann</persName> went home to stay with her parents for the year, along with our Irish setter dog, who we had picked up. His name was Patrick, and when he arrived at <persName>Jo</persName>’s parents’ home, the first thing he did was defecate on their rugs, so it wasn’t a delightful first experience.Meanwhile, <persName>[President] Lyndon Baines Johnson</persName> came along, and he issued an order saying that anybody who was a <orgName>Regular Army</orgName> officer who accepted a <orgName>Regular Army</orgName> commission and therefore was committed to a three-year term, so to speak—he extended everybody for an additional 18 months. So I wound up with four and a half years before I was able to get out of the service.We skipped over <name type="event">Vietnam</name> for the moment, and we certainly need to get back there because I understand the nature of your project. But let me skip to after <name type="event">Vietnam</name> for a moment. When I got back, I was assigned as information officer for the <orgName>Signal Center and School</orgName> at <placeName>Fort Monmouth [New Jersey]</placeName>. And that was a very interesting assignment because it wound up preparing me for what I did in civilian life for pretty much the rest of my career, which was special communications.In any event, we probably should return back to <placeName>Vietnam</placeName>. In <date when="1967-11">November of 1967</date>, I gave <persName>Jo</persName> a hug and a kiss and got on the plane, stopped in <placeName>Los Angeles</placeName> to see my parents, and then flew off to <placeName>Nam</placeName>. It was actually on <date when="1968-11-11">Veterans Day in November 1968</date>—<date when="1967-11-13">’67</date>, rather, that I arrived there. And stepped off the plane there and got the typical familiarization training—you know, vaccinations, that kind of stuff, and then shipped up north to my posting with the <orgName>2nd Battalion</orgName>, <orgName>11th Artillery</orgName> as communications officer.Now, here I am, a signal officer, and I’m posted to an artillery outfit and I know exactly zero about artillery. But I’m the communications officer, so that’s okay. I, you know, started doing what I knew needed to be done from the communications end of things.We were first—when I first arrived with the unit, we were stationed at a place called <placeName>Duc Pho</placeName>, D-u-c—new word—P-h-o, up in <placeName>I Corps [I is pronounced like eye], Vietnam</placeName>, in the northern part of the country, and operated there for a number of months.Then as <date when="1967">1967</date> was closing and <date when="1968">1968</date> was beginning—I forget the exact timing, but there was planning for what would have been the first and only airborne drop in <placeName>Vietnam</placeName>. And we got detailed to transship via LST, a <orgName>Navy</orgName> ship, from <placeName>Da Nang</placeName> down to the <placeName>III [pronounced three] Corps</placeName> area outside of <placeName>Saigon</placeName>. The air drop was supposed to be to the [unintelligible] from there in an area that was notoriously hostile. Let’s put it that way.Along came the <name type="event">Tet Offensive</name>. This now early <date when='1968'>1968</date>. And the <name type="event">Tet Offensive</name> put an end to the airborne drop planning. By the way, the way I found out the <name type="event">Tet Offensive</name> had started was that one night all hell broke loose, and all of a sudden, one of the communications lines that our troops had strung across the area where we were bivouacked got severed by a <orgName>Viet Cong</orgName> or an <orgName>North Vietnamese Army [North Vietnamese Army]</orgName> bullet right over my head. I had issued orders that when we strung lines, they would be positioned in a way that they would clear the tallest man in the battery. I was not the tallest, but I was among them. And bingo! All of a sudden, this line is down on my shoulders, and that’s how I found out the <name type="event">Tet Offensive</name> had started.We then got reassigned to go back to the <orgName>I Corps</orgName> area and did a road march all the way up <placeName>Route 1 [National Route 1A]</placeName> in <placeName>Nam</placeName> from the <placeName>Biên Hòa</placeName> area all the way up to <placeName>Camp Eagle</placeName>, which was going to be the new headquarters, if you will, of <orgName>the 101st Airborne Division</orgName>. <placeName>Phu Bai [Combat Base]</placeName> is north of <placeName>Da Nang</placeName> and south of—a little bit south of <placeName>Hué</placeName> and maybe 50 miles or thereabouts south of the <placeName>DMZ [Demilitarized Zone]</placeName>, the border with <placeName>North Vietnam</placeName>.We were a 155 mm towed unit; that is, to move around our trucks towed the [155 mm] Howitzers. They were not self-propelled. That was both good and bad in the sense that we were the heaviest artillery at that time that could be airlifted by helicopter. And from the infantry’s perspective, we were in hot demand because we could lay down some pretty effective artillery barrages on short order.The smaller artillery piece is a 105 mm, and the next jump-off is the 155 that we had, and the impact of them when they hit the ground is—it’s not arithmetic, it’s geometric. You know 1-5-5 sounds only slightly more powerful than 1-0-5, but it’s at least double.So we could be moved around, and were. We picked up—the Howitzers would be picked up by flying cranes, helicopters, and we would send out scouting parties who would be looking for the highest peak we could find that could be cleared, because altitude increases the range of the artillery piece. In any event, we would go from hilltop to hilltop—mountaintop, actually. The engineers would go in, clear the area with explosives or machetes or whatever. Our troops would go in.My policy was that our guys would be in bunkers the first night we got there to a new post, no matter what. It wasn’t a popular order, because they were all usually pretty exhausted by the time we got to the new place. And now they had to dig in and find bunkering material.We had some interesting forays to get bunkering material and our other supplies. We typically operated at the very end of the <orgName>Army</orgName> supply line, and it was sort of a bastard unit; that is, we were attached to the <orgName>101st</orgName>. We were not a mechanical unit of the <orgName>101</orgName>, although the unit’s home base was at <placeName>Fort Campbell, Kentucky</placeName>. In any event, this caused us to be scratching around for supplies of one kind or another.My favorite story is when we were operating out of <placeName>Phu Bai</placeName>, the <orgName>Navy Seabees</orgName> were rebuilding the <placeName>Vietnam</placeName> nation’s railroad up there in <placeName>I Corps</placeName>, using very nice cross ties and rails and so forth. The <orgName>Seabees</orgName> would go through there during the day, in daylight hours, and build or rebuild railroads. And my supply sergeant, a guy by the name of <persName>Larry Miracle</persName>—yes, M-i-r-a-c-l-e—would go out and night and disassemble what the <orgName>Seabees</orgName> had just built and bring it back to our unit to be used to build bunkers. And the next morning, there would be a report from the intelligence community, noting that the <orgName>Viet Cong</orgName> or <orgName>NVA</orgName> had swooped down in the middle of the night and ruined the <orgName>Seabees’</orgName> railroad activities. So there came a night when our guys nearly got ambushed. [Both chuckle.] Which was no surprise. So that was the end of our thievery in that way.But being a pretty entrepreneurial group, as it turned out, we stole all kinds of stuff along the way, including a 1,000- kilowatt generator. I mentioned the LST that took us from <placeName>Da Nang</placeName> down to the <placeName>Saigon</placeName> area. There was an engineering unit on the ship as well, and they had this very attractive generator, and as we were sailing down on the overnight, my friend <persName>Miracle</persName> took a 5-ton wrecker and repositioned these various trucks and equipment, so the next morning, when we arrived in the port of <placeName>Saigon</placeName>, we were first off the ship, towing the engineer’s generator, which was much bigger than anything we had. But it was a curse in its way because when we got it up and operating, we couldn’t put enough load on it to make it work properly, so it usually tripped off, and the battalion commander would get on the phone and say, “Hey, <persName>Walden</persName>, you get that unit back up now!” Well, in any event, that was kind of a messed up lesson from our illegal activities.</u>
+      <u who="RIDKER"><orgName ref="#dvp_067_org_32">Airborne Brigade</orgName>. And so how were you feeling at that time about kind of your rising military career? And were you nervous about the prospect of being deployed to <placeName ref="#dvp_067_place_46">Vietnam</placeName>?</u>
+      <u who="WALDEN">The answer is yes. By that time, I knew it was coming because the war had heated up, and friends of mine had been deployed to <placeName ref="#dvp_067_place_47">Nam</placeName>, and I had this <orgName ref="#dvp_067_org_33">Regular Army</orgName> commission, which was kind of dumb at that point. By that time, I knew that—I didn’t think that this was going to be my career. I didn’t like the strictures, if you will, of <orgName ref="#dvp_067_org_34">Army</orgName> life. And <persName ref="#dvp_067_person_19">Joann</persName> couldn’t see—she was in training to be a schoolteacher, and she couldn't see most—as you probably know, most, if not many—many, if not most of the <orgName ref="#dvp_067_org_35">Army</orgName> posts are in the <placeName ref="#dvp_067_place_48">South</placeName>, and we didn’t fancy living in that kind of environment. But it was coming no matter what.So I had made up my mind that I would get out as soon as possible, but I would have to serve in year in <date>Nam</date>. And sure enough, the orders came down assigning me to the <orgName ref="#dvp_067_org_36">101st Airborne</orgName> in <placeName ref="#dvp_067_place_49">Nam</placeName>, and off we went. Or off I went. <persName ref="#dvp_067_person_20">Joann</persName> went home to stay with her parents for the year, along with our Irish setter dog, who we had picked up. His name was Patrick, and when he arrived at <persName ref="#dvp_067_person_21">Jo</persName>’s parents’ home, the first thing he did was defecate on their rugs, so it wasn’t a delightful first experience.Meanwhile, <persName ref="#dvp_067_person_22">[President] Lyndon Baines Johnson</persName> came along, and he issued an order saying that anybody who was a <orgName ref="#dvp_067_org_37">Regular Army</orgName> officer who accepted a <orgName ref="#dvp_067_org_38">Regular Army</orgName> commission and therefore was committed to a three-year term, so to speak—he extended everybody for an additional 18 months. So I wound up with four and a half years before I was able to get out of the service.We skipped over <name type="event" ref="#dvp_067_event_3">Vietnam</name> for the moment, and we certainly need to get back there because I understand the nature of your project. But let me skip to after <name type="event" ref="#dvp_067_event_4">Vietnam</name> for a moment. When I got back, I was assigned as information officer for the <orgName ref="#dvp_067_org_39">Signal Center and School</orgName> at <placeName ref="#dvp_067_place_50">Fort Monmouth [New Jersey]</placeName>. And that was a very interesting assignment because it wound up preparing me for what I did in civilian life for pretty much the rest of my career, which was special communications.In any event, we probably should return back to <placeName ref="#dvp_067_place_51">Vietnam</placeName>. In <date when="1967-11">November of 1967</date>, I gave <persName ref="#dvp_067_person_23">Jo</persName> a hug and a kiss and got on the plane, stopped in <placeName ref="#dvp_067_place_52">Los Angeles</placeName> to see my parents, and then flew off to <placeName ref="#dvp_067_place_53">Nam</placeName>. It was actually on <date when="1968-11-11">Veterans Day in November 1968</date>—<date when="1967-11-13">’67</date>, rather, that I arrived there. And stepped off the plane there and got the typical familiarization training—you know, vaccinations, that kind of stuff, and then shipped up north to my posting with the <orgName ref="#dvp_067_org_40">2nd Battalion</orgName>, <orgName ref="#dvp_067_org_41">11th Artillery</orgName> as communications officer.Now, here I am, a signal officer, and I’m posted to an artillery outfit and I know exactly zero about artillery. But I’m the communications officer, so that’s okay. I, you know, started doing what I knew needed to be done from the communications end of things.We were first—when I first arrived with the unit, we were stationed at a place called <placeName ref="#dvp_067_place_54">Duc Pho</placeName>, D-u-c—new word—P-h-o, up in <placeName ref="#dvp_067_place_55">I Corps [I is pronounced like eye], Vietnam</placeName>, in the northern part of the country, and operated there for a number of months.Then as <date when="1967">1967</date> was closing and <date when="1968">1968</date> was beginning—I forget the exact timing, but there was planning for what would have been the first and only airborne drop in <placeName ref="#dvp_067_place_56">Vietnam</placeName>. And we got detailed to transship via LST, a <orgName ref="#dvp_067_org_42">Navy</orgName> ship, from <placeName ref="#dvp_067_place_57">Da Nang</placeName> down to the <placeName ref="#dvp_067_place_58">III [pronounced three] Corps</placeName> area outside of <placeName ref="#dvp_067_place_59">Saigon</placeName>. The air drop was supposed to be to the [unintelligible] from there in an area that was notoriously hostile. Let’s put it that way.Along came the <name type="event" ref="#dvp_067_event_5">Tet Offensive</name>. This now early <date when="1968">1968</date>. And the <name type="event" ref="#dvp_067_event_6">Tet Offensive</name> put an end to the airborne drop planning. By the way, the way I found out the <name type="event" ref="#dvp_067_event_7">Tet Offensive</name> had started was that one night all hell broke loose, and all of a sudden, one of the communications lines that our troops had strung across the area where we were bivouacked got severed by a <orgName ref="#dvp_067_org_43">Viet Cong</orgName> or an <orgName ref="#dvp_067_org_44">North Vietnamese Army [North Vietnamese Army]</orgName> bullet right over my head. I had issued orders that when we strung lines, they would be positioned in a way that they would clear the tallest man in the battery. I was not the tallest, but I was among them. And bingo! All of a sudden, this line is down on my shoulders, and that’s how I found out the <name type="event" ref="#dvp_067_event_8">Tet Offensive</name> had started.We then got reassigned to go back to the <orgName ref="#dvp_067_org_45">I Corps</orgName> area and did a road march all the way up <placeName ref="#dvp_067_place_60">Route 1 [National Route 1A]</placeName> in <placeName ref="#dvp_067_place_61">Nam</placeName> from the <placeName ref="#dvp_067_place_62">Biên Hòa</placeName> area all the way up to <placeName ref="#dvp_067_place_63">Camp Eagle</placeName>, which was going to be the new headquarters, if you will, of <orgName ref="#dvp_067_org_46">the 101st Airborne Division</orgName>. <placeName ref="#dvp_067_place_64">Phu Bai [Combat Base]</placeName> is north of <placeName ref="#dvp_067_place_65">Da Nang</placeName> and south of—a little bit south of <placeName ref="#dvp_067_place_66">Hué</placeName> and maybe 50 miles or thereabouts south of the <placeName ref="#dvp_067_place_67">DMZ [Demilitarized Zone]</placeName>, the border with <placeName ref="#dvp_067_place_68">North Vietnam</placeName>.We were a 155 mm towed unit; that is, to move around our trucks towed the [155 mm] Howitzers. They were not self-propelled. That was both good and bad in the sense that we were the heaviest artillery at that time that could be airlifted by helicopter. And from the infantry’s perspective, we were in hot demand because we could lay down some pretty effective artillery barrages on short order.The smaller artillery piece is a 105 mm, and the next jump-off is the 155 that we had, and the impact of them when they hit the ground is—it’s not arithmetic, it’s geometric. You know 1-5-5 sounds only slightly more powerful than 1-0-5, but it’s at least double.So we could be moved around, and were. We picked up—the Howitzers would be picked up by flying cranes, helicopters, and we would send out scouting parties who would be looking for the highest peak we could find that could be cleared, because altitude increases the range of the artillery piece. In any event, we would go from hilltop to hilltop—mountaintop, actually. The engineers would go in, clear the area with explosives or machetes or whatever. Our troops would go in.My policy was that our guys would be in bunkers the first night we got there to a new post, no matter what. It wasn’t a popular order, because they were all usually pretty exhausted by the time we got to the new place. And now they had to dig in and find bunkering material.We had some interesting forays to get bunkering material and our other supplies. We typically operated at the very end of the <orgName ref="#dvp_067_org_47">Army</orgName> supply line, and it was sort of a bastard unit; that is, we were attached to the <orgName ref="#dvp_067_org_48">101st</orgName>. We were not a mechanical unit of the <orgName ref="#dvp_067_org_49">101</orgName>, although the unit’s home base was at <placeName ref="#dvp_067_place_69">Fort Campbell, Kentucky</placeName>. In any event, this caused us to be scratching around for supplies of one kind or another.My favorite story is when we were operating out of <placeName ref="#dvp_067_place_70">Phu Bai</placeName>, the <orgName ref="#dvp_067_org_50">Navy Seabees</orgName> were rebuilding the <placeName ref="#dvp_067_place_71">Vietnam</placeName> nation’s railroad up there in <placeName ref="#dvp_067_place_72">I Corps</placeName>, using very nice cross ties and rails and so forth. The <orgName ref="#dvp_067_org_51">Seabees</orgName> would go through there during the day, in daylight hours, and build or rebuild railroads. And my supply sergeant, a guy by the name of <persName ref="#dvp_067_person_24">Larry Miracle</persName>—yes, M-i-r-a-c-l-e—would go out and night and disassemble what the <orgName ref="#dvp_067_org_52">Seabees</orgName> had just built and bring it back to our unit to be used to build bunkers. And the next morning, there would be a report from the intelligence community, noting that the <orgName ref="#dvp_067_org_53">Viet Cong</orgName> or <orgName ref="#dvp_067_org_54">NVA</orgName> had swooped down in the middle of the night and ruined the <orgName ref="#dvp_067_org_55">Seabees’</orgName> railroad activities. So there came a night when our guys nearly got ambushed. [Both chuckle.] Which was no surprise. So that was the end of our thievery in that way.But being a pretty entrepreneurial group, as it turned out, we stole all kinds of stuff along the way, including a 1,000- kilowatt generator. I mentioned the LST that took us from <placeName ref="#dvp_067_place_73">Da Nang</placeName> down to the <placeName ref="#dvp_067_place_74">Saigon</placeName> area. There was an engineering unit on the ship as well, and they had this very attractive generator, and as we were sailing down on the overnight, my friend <persName ref="#dvp_067_person_25">Miracle</persName> took a 5-ton wrecker and repositioned these various trucks and equipment, so the next morning, when we arrived in the port of <placeName ref="#dvp_067_place_75">Saigon</placeName>, we were first off the ship, towing the engineer’s generator, which was much bigger than anything we had. But it was a curse in its way because when we got it up and operating, we couldn’t put enough load on it to make it work properly, so it usually tripped off, and the battalion commander would get on the phone and say, “Hey, <persName ref="#dvp_067_person_26">Walden</persName>, you get that unit back up now!” Well, in any event, that was kind of a messed up lesson from our illegal activities.</u>
       <u who="RIDKER">[Chuckles.]</u>
       <u who="WALDEN">It remains what I regard as an interesting [chuckles]—interesting episode.</u>
       <u who="RIDKER">Mmm. [Chuckles.]</u>
-      <u who="WALDEN">And I mention it because guys in combat need to—need to have a sense of humor, have some diversion, so to speak. We were not under constant combat conditions, but we did get ambushed from time to time, particularly when we were on road marches, and we did get shelled with mortars and 106 mm rockets. One time, I was walking between—early evening—between the fire direction center (FDC) and the next bunker, and a 106 mm rocket landed, oh, 20 yards away from me or so. Fortunately, it turned out to be a dud, and that was one of the closest calls I had along the way. It was clearly powerful enough to do severe damage to some of us, but it proved the value of us bunkering in, you know, quickly. Not popular among the troops, but that kind of thing, when it happened, demonstrated that we were doing the right thing.Another policy was that we would—the guys would wear their flak vests whenever they were outside our perimeter wire, and that was not popular. Flak vests in those days were extremely bulky, uncomfortable, hot as hell, would retain moisture—sweat and so forth—and the guys hated wearing them, but I insisted that we would do that—you know, got a lot of criticism and feedback on that issue.But one day, one of my ammo humpers—one of the ammunition truck drivers—took a slug right in his chest on the [unintelligible], and it would have killed him had he not had his flak vest on. After that, I heard no more complaints about wearing them.The perimeter wire. Another unpopular policy was that we would—most units, when they relocated, would string up triple concertina wire—the three rolls of a barbed wire, two on the ground and one on the top. Our policy was that we would put up two rolls of triple concertina with fougasse [pronounced and often spelled foo gas]—I’ll get back to that word in a moment—and [unintelligible] along the way. Fougasse is jellied gasoline, which can be triggered in a way that it showers burning propellant on attackers.The virtue of that was that it gets fairly obvious if you had a double row of triple concertina with the kind of stuff, fougasse and Claymores [M18A1 Claymore mines]—the <orgName>Viet Cong</orgName> and <orgName>NVA</orgName> were no dummies. They were very, very good combat soldiers, and they would figure out that hey, we better maybe attack somewhere else. And that worked—that worked well. Our division area was attacked fairly frequently. We were approached, but when the enemy saw what they were looking at, they generally skirted off to either side of us.In any event, I’m not giving you these war stories to in any way portray myself or my decisions as being heroic. The heroes didn’t come back. But there came a time, after a few months in <placeName>Vietnam</placeName>, that my personal policy became: The last thing I want to do is write a letter back home to somebody’s parents or spouse. By the grace of God, I never had to do that, which was pretty unusual in the circumstances where we were—we were posted. But I just knew that I would not handle that very well at all.And I diverted you here, and I’m sorry, but—</u>
-      <u who="RIDKER">Do you mind—would you mind speaking a little bit more about what your experiences were like during the <name type="event">Tet Offensive</name> on your road march?</u>
-      <u who="WALDEN">Say it again, <persName>Elena</persName>, please?</u>
-      <u who="WALDEN">Do you mind speaking a little bit more about your specific experiences on your road march back up to <placeName>I Corps</placeName> during the <name type="event">Tet Offensive</name>?</u>
-      <u who="WALDEN">No, not at all. It took us about three days to get up there. We would—this was during the dry season, which was a blessing because the roads were typically washed out during the monsoon season. But, I mean, the dust was impenetrable from the heavy vehicles we were using. So it was both exhausting and enervating in a way that you could not tell what might be on the road beside you, awaiting you, so to speak.We got through it okay. We were able to call in air support in the form of Huey gunship helicopters [Bell UH-1 Iroquois helicopters] a couple of times when snipers opened up on us. And nobody got killed or wounded, but it was basically a long mental ordeal in that here, we have three, three and a half days, whatever it was of constant stress. Once we got to an area where we could fortify ourselves, we were in pretty good shape with the measures we took to protect the troops. Once again, the enemy was not stupid, and they watched very carefully who was doing what, and that dictated their tactics.Which leads me to the typhoon, if I may add—I’m trying to remember about the timing of that. That was toward the end of my tour. First of all, I think I told you that my father was involved in a typhoon in <name type="event">World War II</name>. When he was—after he recovered from his wounds in <placeName>England</placeName>, he was transshipped to the Pacific theater and was on an LST, another common denominator between <persName>John Walden</persName> and <persName>Daniel Walden</persName>, waiting to invade <placeName>Japan</placeName> when the Japanese surrendered, thank God. That would have been an extraordinarily bloody operation.We’re now in <date when="1968-09">September of 1968</date>. We had—attached to my unit, we had the weather unit for <orgName>I Corps</orgName>, which was great in that we could get, you know, daily forecasts of oncoming weather. One day the weather guys told me that, “Hey, listen, there’s a typhoon comin’ this way, and it’s going to—it’s probably going to impact us pretty harshly.” So sure enough, that night the typhoon showed up. It wound up—one of the guys measures wind gusts of 80 miles an hour or more, and the thing dropped 20 inches of rain before it stopped. So in the middle of the night, I issued an order, “Get out of the bunkers and set up the tents.” [Laughs.] And you can imagine how popular that order was.</u>
+      <u who="WALDEN">And I mention it because guys in combat need to—need to have a sense of humor, have some diversion, so to speak. We were not under constant combat conditions, but we did get ambushed from time to time, particularly when we were on road marches, and we did get shelled with mortars and 106 mm rockets. One time, I was walking between—early evening—between the fire direction center (FDC) and the next bunker, and a 106 mm rocket landed, oh, 20 yards away from me or so. Fortunately, it turned out to be a dud, and that was one of the closest calls I had along the way. It was clearly powerful enough to do severe damage to some of us, but it proved the value of us bunkering in, you know, quickly. Not popular among the troops, but that kind of thing, when it happened, demonstrated that we were doing the right thing.Another policy was that we would—the guys would wear their flak vests whenever they were outside our perimeter wire, and that was not popular. Flak vests in those days were extremely bulky, uncomfortable, hot as hell, would retain moisture—sweat and so forth—and the guys hated wearing them, but I insisted that we would do that—you know, got a lot of criticism and feedback on that issue.But one day, one of my ammo humpers—one of the ammunition truck drivers—took a slug right in his chest on the [unintelligible], and it would have killed him had he not had his flak vest on. After that, I heard no more complaints about wearing them.The perimeter wire. Another unpopular policy was that we would—most units, when they relocated, would string up triple concertina wire—the three rolls of a barbed wire, two on the ground and one on the top. Our policy was that we would put up two rolls of triple concertina with fougasse [pronounced and often spelled foo gas]—I’ll get back to that word in a moment—and [unintelligible] along the way. Fougasse is jellied gasoline, which can be triggered in a way that it showers burning propellant on attackers.The virtue of that was that it gets fairly obvious if you had a double row of triple concertina with the kind of stuff, fougasse and Claymores [M18A1 Claymore mines]—the <orgName ref="#dvp_067_org_56">Viet Cong</orgName> and <orgName ref="#dvp_067_org_57">NVA</orgName> were no dummies. They were very, very good combat soldiers, and they would figure out that hey, we better maybe attack somewhere else. And that worked—that worked well. Our division area was attacked fairly frequently. We were approached, but when the enemy saw what they were looking at, they generally skirted off to either side of us.In any event, I’m not giving you these war stories to in any way portray myself or my decisions as being heroic. The heroes didn’t come back. But there came a time, after a few months in <placeName ref="#dvp_067_place_76">Vietnam</placeName>, that my personal policy became: The last thing I want to do is write a letter back home to somebody’s parents or spouse. By the grace of God, I never had to do that, which was pretty unusual in the circumstances where we were—we were posted. But I just knew that I would not handle that very well at all.And I diverted you here, and I’m sorry, but—</u>
+      <u who="RIDKER">Do you mind—would you mind speaking a little bit more about what your experiences were like during the <name type="event" ref="#dvp_067_event_9">Tet Offensive</name> on your road march?</u>
+      <u who="WALDEN">Say it again, <persName ref="#dvp_067_person_27">Elena</persName>, please?</u>
+      <u who="WALDEN">Do you mind speaking a little bit more about your specific experiences on your road march back up to <placeName ref="#dvp_067_place_77">I Corps</placeName> during the <name type="event" ref="#dvp_067_event_10">Tet Offensive</name>?</u>
+      <u who="WALDEN">No, not at all. It took us about three days to get up there. We would—this was during the dry season, which was a blessing because the roads were typically washed out during the monsoon season. But, I mean, the dust was impenetrable from the heavy vehicles we were using. So it was both exhausting and enervating in a way that you could not tell what might be on the road beside you, awaiting you, so to speak.We got through it okay. We were able to call in air support in the form of Huey gunship helicopters [Bell UH-1 Iroquois helicopters] a couple of times when snipers opened up on us. And nobody got killed or wounded, but it was basically a long mental ordeal in that here, we have three, three and a half days, whatever it was of constant stress. Once we got to an area where we could fortify ourselves, we were in pretty good shape with the measures we took to protect the troops. Once again, the enemy was not stupid, and they watched very carefully who was doing what, and that dictated their tactics.Which leads me to the typhoon, if I may add—I’m trying to remember about the timing of that. That was toward the end of my tour. First of all, I think I told you that my father was involved in a typhoon in <name type="event" ref="#dvp_067_event_11">World War II</name>. When he was—after he recovered from his wounds in <placeName ref="#dvp_067_place_78">England</placeName>, he was transshipped to the Pacific theater and was on an LST, another common denominator between <persName ref="#dvp_067_person_28">John Walden</persName> and <persName ref="#dvp_067_person_29">Daniel Walden</persName>, waiting to invade <placeName ref="#dvp_067_place_79">Japan</placeName> when the Japanese surrendered, thank God. That would have been an extraordinarily bloody operation.We’re now in <date when="1968-09">September of 1968</date>. We had—attached to my unit, we had the weather unit for <orgName ref="#dvp_067_org_58">I Corps</orgName>, which was great in that we could get, you know, daily forecasts of oncoming weather. One day the weather guys told me that, “Hey, listen, there’s a typhoon comin’ this way, and it’s going to—it’s probably going to impact us pretty harshly.” So sure enough, that night the typhoon showed up. It wound up—one of the guys measures wind gusts of 80 miles an hour or more, and the thing dropped 20 inches of rain before it stopped. So in the middle of the night, I issued an order, “Get out of the bunkers and set up the tents.” [Laughs.] And you can imagine how popular that order was.</u>
       <u who="RIDKER">[Chuckles.]</u>
       <u who="WALDEN">But they did it. And the reason for doing that was the bunkers typically in heavy rain became insecure from the amount of wind. Sure enough, the unit next to us, on the fire base, had one of its bunkers—actually, several of its bunkers collapse. The one in question buried one of their troops, and we helped dig him out, but he was dead. [Pause. Clears throat.] Again, I’m not suggesting that anything I did along those lines was heroic; it was just reasonably smart, and I had the advantage of having those weather guys literally talking face to face to me, and not everybody had that advantage. By the grace of God, I got through the year without having to write a letter to anybody along the lines I feared.</u>
-      <u who="RIDKER">So you mentioned kind of the mental burden of your march during the <name type="event">Tet offensive</name> and other, similar events, and I’m just wondering: How did you cope with stress and with kind of that fear?</u>
-      <u who="WALDEN">In several ways. I mentioned <persName>Larry Miracle</persName>, my supply sergeant. He was extraordinarily ingenious, and he would—every once in a while we came across captured weapons, small arms, and they were in heavy demand in the base areas. People in base areas—we called them REMFs (R-E-M-F), the first two words of which are Rear Echelon. [Transcriber’s note: M-F stands for Mother Fucker.] And it was a term of disdain, as you can imagine. <persName>Miracle</persName> would take the captured weapons and go down to the base, the <orgName>Marine</orgName> base at <placeName>Da Nang</placeName>, for example, and trade them in for stuff that we needed, including alcohol. We ran out of virtually everything in my year in <placeName>Vietnam</placeName>, but we never ran out of ammunition, and we never ran out of alcohol.So that was one way of dealing inappropriately with stress. Some of the troops managed to come across some marijuana along the way. My policy became “as long as it’s not—doesn’t appear to be interfering with our mission responsibilities,” I would treat it with benign neglect. So it became known that if the guys, when nothing else was going on—that is, we weren’t under attack or expecting to be attacked or had some other mission going on—if they wanted to smoke a little pot, then they wouldn’t suffer punishment from the battery commander.So there was reading—we had a unit fund that—the <orgName>Army</orgName> gave everybody, not just us, but a sum of money every—every month to buy our reading materials—books and hymnals and things of that nature that might improve morale. We used that money for other purposes, including rides to people who had equipment we wanted but didn’t have our own, that kind of thing.But the hidden agenda—and not so hidden agenda, I should say, since I’ve been fairly open with it—was that you do what you have to do to keep your troops supplied and alive, and that becomes the primary mission of a commander in those kinds of circumstances. The traditional <orgName>Army</orgName> or military policy is that the mission always comes first, and if people get killed or wounded in the process of doing that, that’s a necessary result of getting the job done.But there came a time in my thinking, as I realized that this was—a stupid proposition? Is that—yeah, I can live with that. The war was a stupid proposition. It wasn’t going anywhere. It didn’t seem as though we could win it. And the objective became get our job done but get everybody home. That became the primary objective. And, as I say, by the grace of God, that happened in my tenure as battery commander.Maybe it was in part because of the way I tended to do things, but if I look back at it, it principally was because the Deity knew what an impact it would have no me and others in the unit if we started losing people. I say that with great emotion, by the way, in case you haven’t detected that.</u>
+      <u who="RIDKER">So you mentioned kind of the mental burden of your march during the <name type="event" ref="#dvp_067_event_12">Tet offensive</name> and other, similar events, and I’m just wondering: How did you cope with stress and with kind of that fear?</u>
+      <u who="WALDEN">In several ways. I mentioned <persName ref="#dvp_067_person_30">Larry Miracle</persName>, my supply sergeant. He was extraordinarily ingenious, and he would—every once in a while we came across captured weapons, small arms, and they were in heavy demand in the base areas. People in base areas—we called them REMFs (R-E-M-F), the first two words of which are Rear Echelon. [Transcriber’s note: M-F stands for Mother Fucker.] And it was a term of disdain, as you can imagine. <persName ref="#dvp_067_person_31">Miracle</persName> would take the captured weapons and go down to the base, the <orgName ref="#dvp_067_org_59">Marine</orgName> base at <placeName ref="#dvp_067_place_80">Da Nang</placeName>, for example, and trade them in for stuff that we needed, including alcohol. We ran out of virtually everything in my year in <placeName ref="#dvp_067_place_81">Vietnam</placeName>, but we never ran out of ammunition, and we never ran out of alcohol.So that was one way of dealing inappropriately with stress. Some of the troops managed to come across some marijuana along the way. My policy became “as long as it’s not—doesn’t appear to be interfering with our mission responsibilities,” I would treat it with benign neglect. So it became known that if the guys, when nothing else was going on—that is, we weren’t under attack or expecting to be attacked or had some other mission going on—if they wanted to smoke a little pot, then they wouldn’t suffer punishment from the battery commander.So there was reading—we had a unit fund that—the <orgName ref="#dvp_067_org_60">Army</orgName> gave everybody, not just us, but a sum of money every—every month to buy our reading materials—books and hymnals and things of that nature that might improve morale. We used that money for other purposes, including rides to people who had equipment we wanted but didn’t have our own, that kind of thing.But the hidden agenda—and not so hidden agenda, I should say, since I’ve been fairly open with it—was that you do what you have to do to keep your troops supplied and alive, and that becomes the primary mission of a commander in those kinds of circumstances. The traditional <orgName ref="#dvp_067_org_61">Army</orgName> or military policy is that the mission always comes first, and if people get killed or wounded in the process of doing that, that’s a necessary result of getting the job done.But there came a time in my thinking, as I realized that this was—a stupid proposition? Is that—yeah, I can live with that. The war was a stupid proposition. It wasn’t going anywhere. It didn’t seem as though we could win it. And the objective became get our job done but get everybody home. That became the primary objective. And, as I say, by the grace of God, that happened in my tenure as battery commander.Maybe it was in part because of the way I tended to do things, but if I look back at it, it principally was because the Deity knew what an impact it would have no me and others in the unit if we started losing people. I say that with great emotion, by the way, in case you haven’t detected that.</u>
       <u who="RIDKER">Mmm. Did you have—you mentioned that there were no casualties in your own unit, but were there any close friends of yours that were wounded or killed in action?</u>
-      <u who="WALDEN">Yes, in—four days from now, on the <date when="2015-05-25">25th</date>, that will be the anniversary of <persName>[James H.] “Hunter” Shotwell’s</persName> death. He was killed in action. This was <persName>Hunter’s</persName> second tour in <placeName>Vietnam</placeName>. He was a <orgName>[U.S.] Military Academy [at West Point]</orgName> graduate, close friend of me from—now, his wife, <persName>Jean Barker Shotwell</persName>, was the daughter of the doctor, who delivered <persName>Jo</persName> when <persName>Jo</persName> was born. And the <persName>Barker</persName> family and the <persName>North</persName> family, <persName>Jo’s</persName> family, were closely tied as friends and so forth, for generations.<persName>Hunter</persName> was killed. It took a period of a few weeks before I found out about it. <persName>Jo</persName> was reluctant to tell me, and rightly so. But my view was then, and has been ever since, that <persName>Joann</persName> had a tougher proposition dealing with the <name type="event">Vietnam War</name> than I did because at least I knew what was going on, and she did not, and I wasn’t about to tell her. So <persName>Jo</persName>—<persName>Jean</persName> called <persName>Joann</persName> and let her know that <persName>Hunter</persName> had been killed.The Shotwells had a young son at that point, about three years old. <persName>Joann</persName> went over to <persName>Jean</persName>’s house, picked up their son for the Memorial Day parade. This was in <placeName>Fairfield, Connecticut</placeName>, their hometown. Took him to the parade, and he did a <persName>John F. Kennedy Jr.</persName> salute on the—as the parade went by, which brought the entire town to tears, or all those who were witnessing this. To this day—<persName>Jo</persName> and <persName>Jean</persName> have a birthday that’s only a couple of days apart—they get to[gether] once a year, no matter what, to celebrate their birthdays and memory of old times.So <persName>Hunter</persName> was the—that was a huge blow. He was an absolutely wonderful man and a good commander.A couple of other friends were killed along the way, notably after <name type="event">Vietnam</name>, for me and for them, in a couple of road accidents, traffic accidents when they were driving at night, perhaps impaired by alcohol. Don’t know. We’ll never know. But it was—and they left children as well.I associate now with—I came back with post-traumatic stress disorder, which went undiagnosed for decades, actually, because I kept myself in a state of denial on that and other medical issues. Let me spell my given name for you: D-e-n-i-a-l. Same letters as Daniel except jumbled up. And I need to remember that because I was in denial about the <name type='event'>Vietnam</name> experience and other aspects of my life for a long time. My father never talked about his actual combat experiences to me or anybody else, and I followed the same policy, not because I wanted to protect somebody else but because I feared—or actually, that probably was true, that I wanted not to harm somebody else, but I wanted to protect myself.To his day, it’s not easy to disclose these experiences, the difficult ones I’ve mentioned. The funny ones are, you know, pretty easy, but—but I had to break out of denial on PTSD and other things. I mentioned we never ran out of alcohol. And by the time I got back from <placeName>Vietnam</placeName>, I was a daily user of alcohol. There came a time 34 years ago when <persName>Joann</persName> said to me, “If you don’t stop using alcohol now, get into <orgName>Alcohol Anonymous [sic; Alcoholics Anonymous]</orgName> and stay there, you’re not gonna see your kids anymore.” And this came after several attempts by me to stop drinking failed miserably.So as of <date when="1981-06-06">June 6th, 1981</date>—I’ve been sober since then, and I have to say, particularly when I say to <persName>Joann</persName>, “You saved my life that day.” And she did. Yet more proof that I thought she had the more difficult time dealing with the war than I did. She caught the brunt of what was going on in the country with war protests and so forth.I knew from news reports in <placeName>Vietnam</placeName> that a lot of this was happening, but while I was there, we couldn’t allow that to affect our—what we were doing. It was, let’s say, an annoyance and a—a—what appeared to be a disloyal, nasty attitude kind of action. That’s how I felt about it then, and to some extent I still do. We were assigned to go fight a war. Our job was to fight it as best we could, and we did. Or at least some of us. I mean, there were some outrageous activities.The <name type="event">Mỹ Lai Massacre</name>, for example, had a heavy impact on veterans of all kinds, and me too. That was an act of complete disloyalty that you could not have your troops do, much less lead them into it. So that’s a remaining blot on the <orgName>Army’s</orgName> record in <placeName>Vietnam</placeName>. We were not—in my experience, we were not baby killers. We were extremely careful to avoid civilian casualties and accepted responsibility for that. Not everyone did. But everyone paid the price for that, everyone who served.The guys I hang around with now in my PTSD support group, which is sponsored by the <orgName>Veterans Administration</orgName>, one of the good things the <orgName>VA [Department of Veterans Affairs]</orgName> does—I’m not a big fan of the <orgName>VA</orgName>. I try to stay away from that lest I go into a huge diversion.But after getting back, you know, I just—I closed up, not being willing or able to disclose to anybody my experiences and certainly not my feelings. The feelings part of it is really the most dangerous because that influenced my behavior, and, as I mentioned a minute or so ago, my behavior, while it didn’t necessarily physically harm anybody, created a lot of mayhem in other ways. And that poor woman who suffered through the war, not knowing what was going on and probably fearing that—reading all the things that <persName>[CBS broadcast journalist] Walter Cronkite</persName> and others were reporting—probably suffered more than she should have. And I need to be thankful for her every day.[Unintelligible.]</u>
-      <u who="RIDKER">So I’m also wondering—so you mentioned that your wife <persName>Joann</persName> kind of was dealing with a lot of the stress at home, so back when you were in <placeName>Vietnam</placeName>, I can imagine camaraderie must have been a big aspect of kind of just, like, keeping—something that kept you going. I’m wondering if there—if you made any close friendships that stick out in your memory when you were over in <placeName>Vietnam</placeName>.</u>
-      <u who="WALDEN">Yes, I had an executive officer who was quite effective, and we joined arms as long as I was there. I have continued affection for some of the non-commissioned officers who served with me. My first sergeant, a man by the name of <persName>Johnny Qualls</persName>, came right out of <placeName>Kentucky</placeName>, and he was a hick, but he was a very, very skilled and diligent soldier and an excellent teacher and leader of troops. <persName>Larry Miracle</persName>, who I mentioned a couple of times—<persName>Miracle</persName> was an interesting case. He—as I mentioned, we never ran out of ammunition or alcohol. <persName>Miracle</persName> would bring back all this booze from his trips to <placeName>Da Nang</placeName> and other supply bases, and he would get loaded up and insult the battalion commander or some other senior officer, and I would have to bust him; that is, relieve him of a stripe after a period of time. But after a few weeks or a month or so, at last I would quietly restore it to him before his next foray.When I get back—I came back <placeName>Stateside</placeName> before he did. I found out later where he was stationed when he came back to the <placeName>States</placeName>, and I happened to be traveling through that area and tried to look him up, but he had already been transferred somewhere else across the country somewhere, so I haven’t seen him.And I had my driver, for example—was a young black man out of <placeName>Brooklyn</placeName>, and he was—I was close to him.My battery clerk, the guy who did—secured all the records, a young Jewish man from the outskirts of <placeName>New York</placeName>. Was close to him.But when I got back, consciously or otherwise, I decided I was leaving all that behind me as best I could, and I’ve never succeeded in looking any of them up. Some units and some of the guys in my PTSD group go to reunions from time to time. In fact, a couple of them have even gone back to <placeName>Vietnam</placeName>. I have absolutely no intention of ever going to <placeName>Vietnam</placeName> again. It has nothing to do with the population there. I wish them a good life. But I just don’t want to come in visceral contact with that situation again.I haven’t gone to reunions. I haven’t looked up—I sometimes become a complete civilian—anybody in my old unit, and I’m comfortable with that. They haven’t looked me up, either, so, you know, it’s—</u>
+      <u who="WALDEN">Yes, in—four days from now, on the <date when="2015-05-25">25th</date>, that will be the anniversary of <persName ref="#dvp_067_person_32">[James H.] “Hunter” Shotwell’s</persName> death. He was killed in action. This was <persName ref="#dvp_067_person_33">Hunter’s</persName> second tour in <placeName ref="#dvp_067_place_82">Vietnam</placeName>. He was a <orgName ref="#dvp_067_org_62">[U.S.] Military Academy [at West Point]</orgName> graduate, close friend of me from—now, his wife, <persName ref="#dvp_067_person_34">Jean Barker Shotwell</persName>, was the daughter of the doctor, who delivered <persName ref="#dvp_067_person_35">Jo</persName> when <persName ref="#dvp_067_person_36">Jo</persName> was born. And the <persName ref="#dvp_067_person_37">Barker</persName> family and the <persName ref="#dvp_067_person_38">North</persName> family, <persName ref="#dvp_067_person_39">Jo’s</persName> family, were closely tied as friends and so forth, for generations.<persName ref="#dvp_067_person_40">Hunter</persName> was killed. It took a period of a few weeks before I found out about it. <persName ref="#dvp_067_person_41">Jo</persName> was reluctant to tell me, and rightly so. But my view was then, and has been ever since, that <persName ref="#dvp_067_person_42">Joann</persName> had a tougher proposition dealing with the <name type="event" ref="#dvp_067_event_13">Vietnam War</name> than I did because at least I knew what was going on, and she did not, and I wasn’t about to tell her. So <persName ref="#dvp_067_person_43">Jo</persName>—<persName ref="#dvp_067_person_44">Jean</persName> called <persName ref="#dvp_067_person_45">Joann</persName> and let her know that <persName ref="#dvp_067_person_46">Hunter</persName> had been killed.The Shotwells had a young son at that point, about three years old. <persName ref="#dvp_067_person_47">Joann</persName> went over to <persName ref="#dvp_067_person_48">Jean</persName>’s house, picked up their son for the Memorial Day parade. This was in <placeName ref="#dvp_067_place_83">Fairfield, Connecticut</placeName>, their hometown. Took him to the parade, and he did a <persName ref="#dvp_067_person_49">John F. Kennedy Jr.</persName> salute on the—as the parade went by, which brought the entire town to tears, or all those who were witnessing this. To this day—<persName ref="#dvp_067_person_50">Jo</persName> and <persName ref="#dvp_067_person_51">Jean</persName> have a birthday that’s only a couple of days apart—they get to[gether] once a year, no matter what, to celebrate their birthdays and memory of old times.So <persName ref="#dvp_067_person_52">Hunter</persName> was the—that was a huge blow. He was an absolutely wonderful man and a good commander.A couple of other friends were killed along the way, notably after <name type="event" ref="#dvp_067_event_14">Vietnam</name>, for me and for them, in a couple of road accidents, traffic accidents when they were driving at night, perhaps impaired by alcohol. Don’t know. We’ll never know. But it was—and they left children as well.I associate now with—I came back with post-traumatic stress disorder, which went undiagnosed for decades, actually, because I kept myself in a state of denial on that and other medical issues. Let me spell my given name for you: D-e-n-i-a-l. Same letters as Daniel except jumbled up. And I need to remember that because I was in denial about the <name type="event" ref="#dvp_067_event_15">Vietnam</name> experience and other aspects of my life for a long time. My father never talked about his actual combat experiences to me or anybody else, and I followed the same policy, not because I wanted to protect somebody else but because I feared—or actually, that probably was true, that I wanted not to harm somebody else, but I wanted to protect myself.To his day, it’s not easy to disclose these experiences, the difficult ones I’ve mentioned. The funny ones are, you know, pretty easy, but—but I had to break out of denial on PTSD and other things. I mentioned we never ran out of alcohol. And by the time I got back from <placeName ref="#dvp_067_place_84">Vietnam</placeName>, I was a daily user of alcohol. There came a time 34 years ago when <persName ref="#dvp_067_person_53">Joann</persName> said to me, “If you don’t stop using alcohol now, get into <orgName ref="#dvp_067_org_63">Alcohol Anonymous [sic; Alcoholics Anonymous]</orgName> and stay there, you’re not gonna see your kids anymore.” And this came after several attempts by me to stop drinking failed miserably.So as of <date when="1981-06-06">June 6th, 1981</date>—I’ve been sober since then, and I have to say, particularly when I say to <persName ref="#dvp_067_person_54">Joann</persName>, “You saved my life that day.” And she did. Yet more proof that I thought she had the more difficult time dealing with the war than I did. She caught the brunt of what was going on in the country with war protests and so forth.I knew from news reports in <placeName ref="#dvp_067_place_85">Vietnam</placeName> that a lot of this was happening, but while I was there, we couldn’t allow that to affect our—what we were doing. It was, let’s say, an annoyance and a—a—what appeared to be a disloyal, nasty attitude kind of action. That’s how I felt about it then, and to some extent I still do. We were assigned to go fight a war. Our job was to fight it as best we could, and we did. Or at least some of us. I mean, there were some outrageous activities.The <name type="event" ref="#dvp_067_event_16">Mỹ Lai Massacre</name>, for example, had a heavy impact on veterans of all kinds, and me too. That was an act of complete disloyalty that you could not have your troops do, much less lead them into it. So that’s a remaining blot on the <orgName ref="#dvp_067_org_64">Army’s</orgName> record in <placeName ref="#dvp_067_place_86">Vietnam</placeName>. We were not—in my experience, we were not baby killers. We were extremely careful to avoid civilian casualties and accepted responsibility for that. Not everyone did. But everyone paid the price for that, everyone who served.The guys I hang around with now in my PTSD support group, which is sponsored by the <orgName ref="#dvp_067_org_65">Veterans Administration</orgName>, one of the good things the <orgName ref="#dvp_067_org_66">VA [Department of Veterans Affairs]</orgName> does—I’m not a big fan of the <orgName ref="#dvp_067_org_67">VA</orgName>. I try to stay away from that lest I go into a huge diversion.But after getting back, you know, I just—I closed up, not being willing or able to disclose to anybody my experiences and certainly not my feelings. The feelings part of it is really the most dangerous because that influenced my behavior, and, as I mentioned a minute or so ago, my behavior, while it didn’t necessarily physically harm anybody, created a lot of mayhem in other ways. And that poor woman who suffered through the war, not knowing what was going on and probably fearing that—reading all the things that <persName ref="#dvp_067_person_55">[CBS broadcast journalist] Walter Cronkite</persName> and others were reporting—probably suffered more than she should have. And I need to be thankful for her every day.[Unintelligible.]</u>
+      <u who="RIDKER">So I’m also wondering—so you mentioned that your wife <persName ref="#dvp_067_person_56">Joann</persName> kind of was dealing with a lot of the stress at home, so back when you were in <placeName ref="#dvp_067_place_87">Vietnam</placeName>, I can imagine camaraderie must have been a big aspect of kind of just, like, keeping—something that kept you going. I’m wondering if there—if you made any close friendships that stick out in your memory when you were over in <placeName ref="#dvp_067_place_88">Vietnam</placeName>.</u>
+      <u who="WALDEN">Yes, I had an executive officer who was quite effective, and we joined arms as long as I was there. I have continued affection for some of the non-commissioned officers who served with me. My first sergeant, a man by the name of <persName ref="#dvp_067_person_57">Johnny Qualls</persName>, came right out of <placeName ref="#dvp_067_place_89">Kentucky</placeName>, and he was a hick, but he was a very, very skilled and diligent soldier and an excellent teacher and leader of troops. <persName ref="#dvp_067_person_58">Larry Miracle</persName>, who I mentioned a couple of times—<persName ref="#dvp_067_person_59">Miracle</persName> was an interesting case. He—as I mentioned, we never ran out of ammunition or alcohol. <persName ref="#dvp_067_person_60">Miracle</persName> would bring back all this booze from his trips to <placeName ref="#dvp_067_place_90">Da Nang</placeName> and other supply bases, and he would get loaded up and insult the battalion commander or some other senior officer, and I would have to bust him; that is, relieve him of a stripe after a period of time. But after a few weeks or a month or so, at last I would quietly restore it to him before his next foray.When I get back—I came back <placeName ref="#dvp_067_place_91">Stateside</placeName> before he did. I found out later where he was stationed when he came back to the <placeName ref="#dvp_067_place_92">States</placeName>, and I happened to be traveling through that area and tried to look him up, but he had already been transferred somewhere else across the country somewhere, so I haven’t seen him.And I had my driver, for example—was a young black man out of <placeName ref="#dvp_067_place_93">Brooklyn</placeName>, and he was—I was close to him.My battery clerk, the guy who did—secured all the records, a young Jewish man from the outskirts of <placeName ref="#dvp_067_place_94">New York</placeName>. Was close to him.But when I got back, consciously or otherwise, I decided I was leaving all that behind me as best I could, and I’ve never succeeded in looking any of them up. Some units and some of the guys in my PTSD group go to reunions from time to time. In fact, a couple of them have even gone back to <placeName ref="#dvp_067_place_95">Vietnam</placeName>. I have absolutely no intention of ever going to <placeName ref="#dvp_067_place_96">Vietnam</placeName> again. It has nothing to do with the population there. I wish them a good life. But I just don’t want to come in visceral contact with that situation again.I haven’t gone to reunions. I haven’t looked up—I sometimes become a complete civilian—anybody in my old unit, and I’m comfortable with that. They haven’t looked me up, either, so, you know, it’s—</u>
       <u who="RIDKER">[Chuckles.]</u>
       <u who="WALDEN">—it’s the kind of feeling that—it’s fairly widespread among the veterans I know.</u>
-      <u who="RIDKER">Was there anything that you would do for good luck when you were in <placeName>Vietnam</placeName>?</u>
-      <u who="WALDEN">Yes. Good question. Before I flew over there, <persName>Joann</persName> and I went down to our beach in <placeName>Fairfield</placeName>, and we each picked up a pure white stone, round, smooth. And I carried mine in my pocket the entire time I was in <placeName>Nam</placeName>, and <persName>Jo</persName> carried hers consistently here. And that was—that was our physical tie during that year. Some years later, we went to the <placeName>Wall [Vietnam Veterans Memorial]</placeName> in <placeName>Washington</placeName>, and among other things, I did a rubbing of <persName>Hunter Shotwell’s</persName> name on the <placeName>Wall</placeName> and presented that to his widow. And also <persName>Jo</persName> and I took the two white stones, and, as you know, I think, there’s a bronze statue of three soldiers there, and we quietly went over near the statue of the three soldiers—[He begins to weep.]—and buried the stones in the ground next to them. [He continues to weep.] Excuse me. [Pause.] And that was our tribute to all the—all the men and women whose names are on the Wall.</u>
-      <u who="RIDKER">Thanks for sharing that. That’s really nice. Have you gone back to the <placeName>Memorial</placeName> there since?</u>
+      <u who="RIDKER">Was there anything that you would do for good luck when you were in <placeName ref="#dvp_067_place_97">Vietnam</placeName>?</u>
+      <u who="WALDEN">Yes. Good question. Before I flew over there, <persName ref="#dvp_067_person_61">Joann</persName> and I went down to our beach in <placeName ref="#dvp_067_place_98">Fairfield</placeName>, and we each picked up a pure white stone, round, smooth. And I carried mine in my pocket the entire time I was in <placeName ref="#dvp_067_place_99">Nam</placeName>, and <persName ref="#dvp_067_person_62">Jo</persName> carried hers consistently here. And that was—that was our physical tie during that year. Some years later, we went to the <placeName ref="#dvp_067_place_100">Wall [Vietnam Veterans Memorial]</placeName> in <placeName ref="#dvp_067_place_101">Washington</placeName>, and among other things, I did a rubbing of <persName ref="#dvp_067_person_63">Hunter Shotwell’s</persName> name on the <placeName ref="#dvp_067_place_102">Wall</placeName> and presented that to his widow. And also <persName ref="#dvp_067_person_64">Jo</persName> and I took the two white stones, and, as you know, I think, there’s a bronze statue of three soldiers there, and we quietly went over near the statue of the three soldiers—[He begins to weep.]—and buried the stones in the ground next to them. [He continues to weep.] Excuse me. [Pause.] And that was our tribute to all the—all the men and women whose names are on the Wall.</u>
+      <u who="RIDKER">Thanks for sharing that. That’s really nice. Have you gone back to the <placeName ref="#dvp_067_place_103">Memorial</placeName> there since?</u>
       <u who="WALDEN">Mm-hm. Yes.</u>
       <u who="RIDKER">And then—did your receive any war medals for your service?</u>
-      <u who="WALDEN">Yes, I received a Bronze Star and an <orgName>Army</orgName> Commendation Medal, and the usual campaign ribbons.</u>
-      <u who="RIDKER">And you’ve mentioned a little bit about hearing about the antiwar movement from, like, news reports when you were in <placeName>Vietnam</placeName>, and I’m just wondering if you were keeping up at all with campus climate over at <orgName>Dartmouth</orgName> and sort of some of the protests that were happening there about the <orgName>ROTC</orgName> program and things of that sort.</u>
-      <u who="WALDEN">Ah, yes. When I got back, I was quite upset with the continuing agitation on campus over the <orgName>ROTC</orgName> programs. My experience in <placeName>Nam</placeName> taught me that what the <orgName>Army</orgName> needed was the kind of well-rounded, thinking, caring officers that <orgName>Dartmouth</orgName> could and did produce. So I wrote a letter to <persName>John Sloan Dickey</persName>, who then was the president of the college, expressing my views and urging that the college not abolish <orgName>ROTC</orgName>. After a period of time, I got a letter back from one of his minions expressing the view that I had no idea what I was talking about and that the protest movement on campus [was] a far more intelligent and valid viewpoint on the <orgName>ROTC</orgName> issue. That put an end to my contributions to the alumni fund [sic; Dartmouth College Fund] for a period of many years, actually.I came out of the woods a little bit a few years ago, when <persName>James [E.] Wright</persName> took over as president of the college, [unintelligible]. And he started doing some remarkable things with the soldiers and the veterans community. So that brought me back into the fold, so to speak.</u>
+      <u who="WALDEN">Yes, I received a Bronze Star and an <orgName ref="#dvp_067_org_68">Army</orgName> Commendation Medal, and the usual campaign ribbons.</u>
+      <u who="RIDKER">And you’ve mentioned a little bit about hearing about the antiwar movement from, like, news reports when you were in <placeName ref="#dvp_067_place_104">Vietnam</placeName>, and I’m just wondering if you were keeping up at all with campus climate over at <orgName ref="#dvp_067_org_69">Dartmouth</orgName> and sort of some of the protests that were happening there about the <orgName ref="#dvp_067_org_70">ROTC</orgName> program and things of that sort.</u>
+      <u who="WALDEN">Ah, yes. When I got back, I was quite upset with the continuing agitation on campus over the <orgName ref="#dvp_067_org_71">ROTC</orgName> programs. My experience in <placeName ref="#dvp_067_place_105">Nam</placeName> taught me that what the <orgName ref="#dvp_067_org_72">Army</orgName> needed was the kind of well-rounded, thinking, caring officers that <orgName ref="#dvp_067_org_73">Dartmouth</orgName> could and did produce. So I wrote a letter to <persName ref="#dvp_067_person_65">John Sloan Dickey</persName>, who then was the president of the college, expressing my views and urging that the college not abolish <orgName ref="#dvp_067_org_74">ROTC</orgName>. After a period of time, I got a letter back from one of his minions expressing the view that I had no idea what I was talking about and that the protest movement on campus [was] a far more intelligent and valid viewpoint on the <orgName ref="#dvp_067_org_75">ROTC</orgName> issue. That put an end to my contributions to the alumni fund [sic; Dartmouth College Fund] for a period of many years, actually.I came out of the woods a little bit a few years ago, when <persName ref="#dvp_067_person_66">James [E.] Wright</persName> took over as president of the college, [unintelligible]. And he started doing some remarkable things with the soldiers and the veterans community. So that brought me back into the fold, so to speak.</u>
       <u who="RIDKER">Mm-hm. </u>
-      <u who="WALDEN">But I—I thought the whole <orgName>ROTC</orgName> episode was poisonous, that at a time when the country and the troops that the country had sent into danger were being not led as well as they should be and not cared for as properly as they should be, that the college needed to be taking a leadership role, as it had for generations. So I was—the letter I got from <placeName>Dickey’s</placeName> office was—it absolutely closed me down in my relationship with <orgName>Dartmouth</orgName>, with one exception—two exceptions: I still had friends that I was and still am in contact with and will be again in a couple of weeks in reunion, and I still had a great affinity for the outdoor programs offered by the college and continue to take advantage of the <orgName>[Dartmouth] Outing Club’s</orgName> cabins up in the <placeName>Second College Grant</placeName> and so forth. We couldn’t get there this past year because of medical considerations, but I think that was an absolutely marvelous opportunity for <orgName>Dartmouth</orgName> students and alumni. Oh, and I’m back in the alumni fund, by the way.</u>
+      <u who="WALDEN">But I—I thought the whole <orgName ref="#dvp_067_org_76">ROTC</orgName> episode was poisonous, that at a time when the country and the troops that the country had sent into danger were being not led as well as they should be and not cared for as properly as they should be, that the college needed to be taking a leadership role, as it had for generations. So I was—the letter I got from <placeName ref="#dvp_067_place_106">Dickey’s</placeName> office was—it absolutely closed me down in my relationship with <orgName ref="#dvp_067_org_77">Dartmouth</orgName>, with one exception—two exceptions: I still had friends that I was and still am in contact with and will be again in a couple of weeks in reunion, and I still had a great affinity for the outdoor programs offered by the college and continue to take advantage of the <orgName ref="#dvp_067_org_78">[Dartmouth] Outing Club’s</orgName> cabins up in the <placeName ref="#dvp_067_place_107">Second College Grant</placeName> and so forth. We couldn’t get there this past year because of medical considerations, but I think that was an absolutely marvelous opportunity for <orgName ref="#dvp_067_org_79">Dartmouth</orgName> students and alumni. Oh, and I’m back in the alumni fund, by the way.</u>
       <u who="RIDKER">There's a—</u>
       <u who="WALDEN">I’m sorry?</u>
-      <u who="RIDKER">Sorry. There’s a cabin down at the <placeName>Mooselauke Ravine Lodge</placeName> being dedicated to the <orgName>Class of 1965</orgName>.</u>
+      <u who="RIDKER">Sorry. There’s a cabin down at the <placeName ref="#dvp_067_place_108">Mooselauke Ravine Lodge</placeName> being dedicated to the <orgName ref="#dvp_067_org_80">Class of 1965</orgName>.</u>
       <u who="WALDEN">I know, yup.</u>
       <u who="RIDKER">Yeah, it looks great. I recently saw it, so—</u>
       <u who="WALDEN">Oh, you did. Great! I hear it’s pretty good.</u>
-      <u who="RIDKER">Yeah, it’s great. I think it’s going to be a good one.So I guess just kind of as one more, like, reflective kind of question before we can wrap things up, I’m wondering—so I know you’ve spoken about PTSD a little bit, but I’m wondering if there’s anything else, in thinking about other ways that your military service in general, your four years and also your service in <placeName>Vietnam</placeName> has shaped the rest of your life or if there’s anything you’ve learned from your military service that you think has helped you along in the years since you’ve been back.</u>
-      <u who="WALDEN">I think it helped solidify, inculcate, whatever the right set of words is, a set of values for me that started from what I was taught by my parents and I continued to learn in other ways. The military experience, while it had many things about it that were unpleasant, distasteful, unfortunate, negative—it taught me the value of human life and my obligation to, if given responsibility, to safeguard that human life and to give people with whom I have any influence an opportunity to succeed. I’m thinking specifically of our children here but not necessarily only that narrow scope.I work a lot with people in—you know I went through eight and a half hours of brain surgery about 15 years ago. Every day is a gift. I’m lucky to be alive, and I need to remember those notions every day. The neurosurgeon who performed the work—I guess it’s 16 years ago now—was at the time one of three or four in the entire world who could perform the necessary procedures, and five years earlier, nobody could have done it. So when you go through an experience like that, you question some things, built on some things you’ve learned along the way in your childhood, in your education, notably included <orgName>Dartmouth</orgName> and its liberal arts values, in the <orgName>Army</orgName> and associations with other people who are in recovery from difficult medical, mental conditions. You take that as a base of a serious obligation.And the basic reason I was willing and even eager to participate in the <orgName>Dartmouth Vietnam experience program [sic; The Dartmouth Vietnam Project]</orgName> that you and I have discussed is the notion that it might be helpful to somebody else along the way. That is a—<orgName>Dartmouth</orgName> helped teach me that. It hasn’t been the only teacher, as discussed, but it has been a prominent—the values that got reinforced and parked there were then instrumental in my life, and I’m grateful for it.</u>
+      <u who="RIDKER">Yeah, it’s great. I think it’s going to be a good one.So I guess just kind of as one more, like, reflective kind of question before we can wrap things up, I’m wondering—so I know you’ve spoken about PTSD a little bit, but I’m wondering if there’s anything else, in thinking about other ways that your military service in general, your four years and also your service in <placeName ref="#dvp_067_place_109">Vietnam</placeName> has shaped the rest of your life or if there’s anything you’ve learned from your military service that you think has helped you along in the years since you’ve been back.</u>
+      <u who="WALDEN">I think it helped solidify, inculcate, whatever the right set of words is, a set of values for me that started from what I was taught by my parents and I continued to learn in other ways. The military experience, while it had many things about it that were unpleasant, distasteful, unfortunate, negative—it taught me the value of human life and my obligation to, if given responsibility, to safeguard that human life and to give people with whom I have any influence an opportunity to succeed. I’m thinking specifically of our children here but not necessarily only that narrow scope.I work a lot with people in—you know I went through eight and a half hours of brain surgery about 15 years ago. Every day is a gift. I’m lucky to be alive, and I need to remember those notions every day. The neurosurgeon who performed the work—I guess it’s 16 years ago now—was at the time one of three or four in the entire world who could perform the necessary procedures, and five years earlier, nobody could have done it. So when you go through an experience like that, you question some things, built on some things you’ve learned along the way in your childhood, in your education, notably included <orgName ref="#dvp_067_org_81">Dartmouth</orgName> and its liberal arts values, in the <orgName ref="#dvp_067_org_82">Army</orgName> and associations with other people who are in recovery from difficult medical, mental conditions. You take that as a base of a serious obligation.And the basic reason I was willing and even eager to participate in the <orgName ref="#dvp_067_org_83">Dartmouth Vietnam experience program [sic; The Dartmouth Vietnam Project]</orgName> that you and I have discussed is the notion that it might be helpful to somebody else along the way. That is a—<orgName ref="#dvp_067_org_84">Dartmouth</orgName> helped teach me that. It hasn’t been the only teacher, as discussed, but it has been a prominent—the values that got reinforced and parked there were then instrumental in my life, and I’m grateful for it.</u>
       <u who="RIDKER">Mm-hm. </u>
       <u who="WALDEN">And, by the way, young lady, I’m very grateful for what you’ve been doing, it is a—this is a valuable relationship we have. Thank you.</u>
-      <u who="RIDKER">Mm-hm, yeah. <persName>Dan</persName>, thank you so much. Thank you, you know, for your participation in this project and your willingness to share your stories. It’s been really wonderful for me to have an opportunity to speak with you and get to know you, so thank you so much again.</u>
+      <u who="RIDKER">Mm-hm, yeah. <persName ref="#dvp_067_person_67">Dan</persName>, thank you so much. Thank you, you know, for your participation in this project and your willingness to share your stories. It’s been really wonderful for me to have an opportunity to speak with you and get to know you, so thank you so much again.</u>
       <u who="WALDEN">You’re most welcome.</u>
     </body>
   </text>
+  <standOff>
+    <listPlace>
+      <place xml:id="dvp_067_place_0">
+        <placeName>Rauner [Special Collections] Library</placeName>
+      </place>
+      <place xml:id="dvp_067_place_1">
+        <placeName>Boston, Massachusetts</placeName>
+      </place>
+      <place xml:id="dvp_067_place_2">
+        <placeName>Watertown</placeName>
+      </place>
+      <place xml:id="dvp_067_place_3">
+        <placeName>Los Angeles</placeName>
+      </place>
+      <place xml:id="dvp_067_place_4">
+        <placeName>Charles River</placeName>
+      </place>
+      <place xml:id="dvp_067_place_5">
+        <placeName>Charles</placeName>
+      </place>
+      <place xml:id="dvp_067_place_6">
+        <placeName>Cambridge</placeName>
+      </place>
+      <place xml:id="dvp_067_place_7">
+        <placeName>Brighton</placeName>
+      </place>
+      <place xml:id="dvp_067_place_8">
+        <placeName>Charles River</placeName>
+      </place>
+      <place xml:id="dvp_067_place_9">
+        <placeName>Dartmouth</placeName>
+      </place>
+      <place xml:id="dvp_067_place_10">
+        <placeName>Los Angeles</placeName>
+      </place>
+      <place xml:id="dvp_067_place_11">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="dvp_067_place_12">
+        <placeName>New Hampshire</placeName>
+      </place>
+      <place xml:id="dvp_067_place_13">
+        <placeName>Los Angeles</placeName>
+      </place>
+      <place xml:id="dvp_067_place_14">
+        <placeName>Connecticut</placeName>
+      </place>
+      <place xml:id="dvp_067_place_15">
+        <placeName>Connecticut</placeName>
+      </place>
+      <place xml:id="dvp_067_place_16">
+        <placeName>New Hampshire</placeName>
+      </place>
+      <place xml:id="dvp_067_place_17">
+        <placeName>New Hampshire</placeName>
+      </place>
+      <place xml:id="dvp_067_place_18">
+        <placeName>United States</placeName>
+      </place>
+      <place xml:id="dvp_067_place_19">
+        <placeName>[Dartmouth] Skiway</placeName>
+      </place>
+      <place xml:id="dvp_067_place_20">
+        <placeName>New Hampshire</placeName>
+      </place>
+      <place xml:id="dvp_067_place_21">
+        <placeName>Boston</placeName>
+      </place>
+      <place xml:id="dvp_067_place_22">
+        <placeName>Cambridge</placeName>
+      </place>
+      <place xml:id="dvp_067_place_23">
+        <placeName>Hanover</placeName>
+      </place>
+      <place xml:id="dvp_067_place_24">
+        <placeName>Germany</placeName>
+      </place>
+      <place xml:id="dvp_067_place_25">
+        <placeName>Germany</placeName>
+      </place>
+      <place xml:id="dvp_067_place_26">
+        <placeName>Germany</placeName>
+      </place>
+      <place xml:id="dvp_067_place_27">
+        <placeName>Los Angeles</placeName>
+      </place>
+      <place xml:id="dvp_067_place_28">
+        <placeName>Los Angeles</placeName>
+      </place>
+      <place xml:id="dvp_067_place_29">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="dvp_067_place_30">
+        <placeName>Saigon</placeName>
+      </place>
+      <place xml:id="dvp_067_place_31">
+        <placeName>Saigon</placeName>
+      </place>
+      <place xml:id="dvp_067_place_32">
+        <placeName>Fort Gordon, Georgia</placeName>
+      </place>
+      <place xml:id="dvp_067_place_33">
+        <placeName>Fort Sill, Oklahoma</placeName>
+      </place>
+      <place xml:id="dvp_067_place_34">
+        <placeName>Fort Benning, Georgia</placeName>
+      </place>
+      <place xml:id="dvp_067_place_35">
+        <placeName>Fort Benning</placeName>
+      </place>
+      <place xml:id="dvp_067_place_36">
+        <placeName>Fort Gordon</placeName>
+      </place>
+      <place xml:id="dvp_067_place_37">
+        <placeName>Fort Benning</placeName>
+      </place>
+      <place xml:id="dvp_067_place_38">
+        <placeName>Fort Bragg [North Carolina]</placeName>
+      </place>
+      <place xml:id="dvp_067_place_39">
+        <placeName>Detroit</placeName>
+      </place>
+      <place xml:id="dvp_067_place_40">
+        <placeName>Detroit</placeName>
+      </place>
+      <place xml:id="dvp_067_place_41">
+        <placeName>Detroit</placeName>
+      </place>
+      <place xml:id="dvp_067_place_42">
+        <placeName>Detroit</placeName>
+      </place>
+      <place xml:id="dvp_067_place_43">
+        <placeName>Detroit</placeName>
+      </place>
+      <place xml:id="dvp_067_place_44">
+        <placeName>Detroit</placeName>
+      </place>
+      <place xml:id="dvp_067_place_45">
+        <placeName>Fort Bragg</placeName>
+      </place>
+      <place xml:id="dvp_067_place_46">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="dvp_067_place_47">
+        <placeName>Nam</placeName>
+      </place>
+      <place xml:id="dvp_067_place_48">
+        <placeName>South</placeName>
+      </place>
+      <place xml:id="dvp_067_place_49">
+        <placeName>Nam</placeName>
+      </place>
+      <place xml:id="dvp_067_place_50">
+        <placeName>Fort Monmouth [New Jersey]</placeName>
+      </place>
+      <place xml:id="dvp_067_place_51">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="dvp_067_place_52">
+        <placeName>Los Angeles</placeName>
+      </place>
+      <place xml:id="dvp_067_place_53">
+        <placeName>Nam</placeName>
+      </place>
+      <place xml:id="dvp_067_place_54">
+        <placeName>Duc Pho</placeName>
+      </place>
+      <place xml:id="dvp_067_place_55">
+        <placeName>I Corps [I is pronounced like eye], Vietnam</placeName>
+      </place>
+      <place xml:id="dvp_067_place_56">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="dvp_067_place_57">
+        <placeName>Da Nang</placeName>
+      </place>
+      <place xml:id="dvp_067_place_58">
+        <placeName>III [pronounced three] Corps</placeName>
+      </place>
+      <place xml:id="dvp_067_place_59">
+        <placeName>Saigon</placeName>
+      </place>
+      <place xml:id="dvp_067_place_60">
+        <placeName>Route 1 [National Route 1A]</placeName>
+      </place>
+      <place xml:id="dvp_067_place_61">
+        <placeName>Nam</placeName>
+      </place>
+      <place xml:id="dvp_067_place_62">
+        <placeName>Biên Hòa</placeName>
+      </place>
+      <place xml:id="dvp_067_place_63">
+        <placeName>Camp Eagle</placeName>
+      </place>
+      <place xml:id="dvp_067_place_64">
+        <placeName>Phu Bai [Combat Base]</placeName>
+      </place>
+      <place xml:id="dvp_067_place_65">
+        <placeName>Da Nang</placeName>
+      </place>
+      <place xml:id="dvp_067_place_66">
+        <placeName>Hué</placeName>
+      </place>
+      <place xml:id="dvp_067_place_67">
+        <placeName>DMZ [Demilitarized Zone]</placeName>
+      </place>
+      <place xml:id="dvp_067_place_68">
+        <placeName>North Vietnam</placeName>
+      </place>
+      <place xml:id="dvp_067_place_69">
+        <placeName>Fort Campbell, Kentucky</placeName>
+      </place>
+      <place xml:id="dvp_067_place_70">
+        <placeName>Phu Bai</placeName>
+      </place>
+      <place xml:id="dvp_067_place_71">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="dvp_067_place_72">
+        <placeName>I Corps</placeName>
+      </place>
+      <place xml:id="dvp_067_place_73">
+        <placeName>Da Nang</placeName>
+      </place>
+      <place xml:id="dvp_067_place_74">
+        <placeName>Saigon</placeName>
+      </place>
+      <place xml:id="dvp_067_place_75">
+        <placeName>Saigon</placeName>
+      </place>
+      <place xml:id="dvp_067_place_76">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="dvp_067_place_77">
+        <placeName>I Corps</placeName>
+      </place>
+      <place xml:id="dvp_067_place_78">
+        <placeName>England</placeName>
+      </place>
+      <place xml:id="dvp_067_place_79">
+        <placeName>Japan</placeName>
+      </place>
+      <place xml:id="dvp_067_place_80">
+        <placeName>Da Nang</placeName>
+      </place>
+      <place xml:id="dvp_067_place_81">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="dvp_067_place_82">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="dvp_067_place_83">
+        <placeName>Fairfield, Connecticut</placeName>
+      </place>
+      <place xml:id="dvp_067_place_84">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="dvp_067_place_85">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="dvp_067_place_86">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="dvp_067_place_87">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="dvp_067_place_88">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="dvp_067_place_89">
+        <placeName>Kentucky</placeName>
+      </place>
+      <place xml:id="dvp_067_place_90">
+        <placeName>Da Nang</placeName>
+      </place>
+      <place xml:id="dvp_067_place_91">
+        <placeName>Stateside</placeName>
+      </place>
+      <place xml:id="dvp_067_place_92">
+        <placeName>States</placeName>
+      </place>
+      <place xml:id="dvp_067_place_93">
+        <placeName>Brooklyn</placeName>
+      </place>
+      <place xml:id="dvp_067_place_94">
+        <placeName>New York</placeName>
+      </place>
+      <place xml:id="dvp_067_place_95">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="dvp_067_place_96">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="dvp_067_place_97">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="dvp_067_place_98">
+        <placeName>Fairfield</placeName>
+      </place>
+      <place xml:id="dvp_067_place_99">
+        <placeName>Nam</placeName>
+      </place>
+      <place xml:id="dvp_067_place_100">
+        <placeName>Wall [Vietnam Veterans Memorial]</placeName>
+      </place>
+      <place xml:id="dvp_067_place_101">
+        <placeName>Washington</placeName>
+      </place>
+      <place xml:id="dvp_067_place_102">
+        <placeName>Wall</placeName>
+      </place>
+      <place xml:id="dvp_067_place_103">
+        <placeName>Memorial</placeName>
+      </place>
+      <place xml:id="dvp_067_place_104">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="dvp_067_place_105">
+        <placeName>Nam</placeName>
+      </place>
+      <place xml:id="dvp_067_place_106">
+        <placeName>Dickey’s</placeName>
+      </place>
+      <place xml:id="dvp_067_place_107">
+        <placeName>Second College Grant</placeName>
+      </place>
+      <place xml:id="dvp_067_place_108">
+        <placeName>Mooselauke Ravine Lodge</placeName>
+      </place>
+      <place xml:id="dvp_067_place_109">
+        <placeName>Vietnam</placeName>
+      </place>
+    </listPlace>
+    <listEvent>
+      <event xml:id="dvp_067_event_0">
+        <desc>World War II</desc>
+      </event>
+      <event xml:id="dvp_067_event_1">
+        <desc>war in Vietnam</desc>
+      </event>
+      <event xml:id="dvp_067_event_2">
+        <desc>Vietnam War</desc>
+      </event>
+      <event xml:id="dvp_067_event_3">
+        <desc>Vietnam</desc>
+      </event>
+      <event xml:id="dvp_067_event_4">
+        <desc>Vietnam</desc>
+      </event>
+      <event xml:id="dvp_067_event_5">
+        <desc>Tet Offensive</desc>
+      </event>
+      <event xml:id="dvp_067_event_6">
+        <desc>Tet Offensive</desc>
+      </event>
+      <event xml:id="dvp_067_event_7">
+        <desc>Tet Offensive</desc>
+      </event>
+      <event xml:id="dvp_067_event_8">
+        <desc>Tet Offensive</desc>
+      </event>
+      <event xml:id="dvp_067_event_9">
+        <desc>Tet Offensive</desc>
+      </event>
+      <event xml:id="dvp_067_event_10">
+        <desc>Tet Offensive</desc>
+      </event>
+      <event xml:id="dvp_067_event_11">
+        <desc>World War II</desc>
+      </event>
+      <event xml:id="dvp_067_event_12">
+        <desc>Tet offensive</desc>
+      </event>
+      <event xml:id="dvp_067_event_13">
+        <desc>Vietnam War</desc>
+      </event>
+      <event xml:id="dvp_067_event_14">
+        <desc>Vietnam</desc>
+      </event>
+      <event xml:id="dvp_067_event_15">
+        <desc>Vietnam</desc>
+      </event>
+      <event xml:id="dvp_067_event_16">
+        <desc>Mỹ Lai Massacre</desc>
+      </event>
+    </listEvent>
+    <listPerson>
+      <person xml:id="dvp_067_person_0">
+        <persName>Elena Ridker</persName>
+      </person>
+      <person xml:id="dvp_067_person_1">
+        <persName>Dan Walden</persName>
+      </person>
+      <person xml:id="dvp_067_person_2">
+        <persName>Dan</persName>
+      </person>
+      <person xml:id="dvp_067_person_3">
+        <persName>Elena</persName>
+      </person>
+      <person xml:id="dvp_067_person_4">
+        <persName>John [A.]</persName>
+      </person>
+      <person xml:id="dvp_067_person_5">
+        <persName>Grace [C.] Walden</persName>
+      </person>
+      <person xml:id="dvp_067_person_6">
+        <persName>Elena</persName>
+      </person>
+      <person xml:id="dvp_067_person_7">
+        <persName>Joann North</persName>
+      </person>
+      <person xml:id="dvp_067_person_8">
+        <persName>Harry</persName>
+      </person>
+      <person xml:id="dvp_067_person_9">
+        <persName>Joann</persName>
+      </person>
+      <person xml:id="dvp_067_person_10">
+        <persName>Joann</persName>
+      </person>
+      <person xml:id="dvp_067_person_11">
+        <persName>[Thomas L.] “Tommy” Miller [Class of 1965]</persName>
+      </person>
+      <person xml:id="dvp_067_person_12">
+        <persName>[Donald McK.] “Don” Boardman [Class of 1965]</persName>
+      </person>
+      <person xml:id="dvp_067_person_13">
+        <persName>Don</persName>
+      </person>
+      <person xml:id="dvp_067_person_14">
+        <persName>Tom</persName>
+      </person>
+      <person xml:id="dvp_067_person_15">
+        <persName>Joann</persName>
+      </person>
+      <person xml:id="dvp_067_person_16">
+        <persName>Joann</persName>
+      </person>
+      <person xml:id="dvp_067_person_17">
+        <persName>Jo</persName>
+      </person>
+      <person xml:id="dvp_067_person_18">
+        <persName>Col. [Alexander R.] Bolling [Jr.]</persName>
+      </person>
+      <person xml:id="dvp_067_person_19">
+        <persName>Joann</persName>
+      </person>
+      <person xml:id="dvp_067_person_20">
+        <persName>Joann</persName>
+      </person>
+      <person xml:id="dvp_067_person_21">
+        <persName>Jo</persName>
+      </person>
+      <person xml:id="dvp_067_person_22">
+        <persName>[President] Lyndon Baines Johnson</persName>
+      </person>
+      <person xml:id="dvp_067_person_23">
+        <persName>Jo</persName>
+      </person>
+      <person xml:id="dvp_067_person_24">
+        <persName>Larry Miracle</persName>
+      </person>
+      <person xml:id="dvp_067_person_25">
+        <persName>Miracle</persName>
+      </person>
+      <person xml:id="dvp_067_person_26">
+        <persName>Walden</persName>
+      </person>
+      <person xml:id="dvp_067_person_27">
+        <persName>Elena</persName>
+      </person>
+      <person xml:id="dvp_067_person_28">
+        <persName>John Walden</persName>
+      </person>
+      <person xml:id="dvp_067_person_29">
+        <persName>Daniel Walden</persName>
+      </person>
+      <person xml:id="dvp_067_person_30">
+        <persName>Larry Miracle</persName>
+      </person>
+      <person xml:id="dvp_067_person_31">
+        <persName>Miracle</persName>
+      </person>
+      <person xml:id="dvp_067_person_32">
+        <persName>[James H.] “Hunter” Shotwell’s</persName>
+      </person>
+      <person xml:id="dvp_067_person_33">
+        <persName>Hunter’s</persName>
+      </person>
+      <person xml:id="dvp_067_person_34">
+        <persName>Jean Barker Shotwell</persName>
+      </person>
+      <person xml:id="dvp_067_person_35">
+        <persName>Jo</persName>
+      </person>
+      <person xml:id="dvp_067_person_36">
+        <persName>Jo</persName>
+      </person>
+      <person xml:id="dvp_067_person_37">
+        <persName>Barker</persName>
+      </person>
+      <person xml:id="dvp_067_person_38">
+        <persName>North</persName>
+      </person>
+      <person xml:id="dvp_067_person_39">
+        <persName>Jo’s</persName>
+      </person>
+      <person xml:id="dvp_067_person_40">
+        <persName>Hunter</persName>
+      </person>
+      <person xml:id="dvp_067_person_41">
+        <persName>Jo</persName>
+      </person>
+      <person xml:id="dvp_067_person_42">
+        <persName>Joann</persName>
+      </person>
+      <person xml:id="dvp_067_person_43">
+        <persName>Jo</persName>
+      </person>
+      <person xml:id="dvp_067_person_44">
+        <persName>Jean</persName>
+      </person>
+      <person xml:id="dvp_067_person_45">
+        <persName>Joann</persName>
+      </person>
+      <person xml:id="dvp_067_person_46">
+        <persName>Hunter</persName>
+      </person>
+      <person xml:id="dvp_067_person_47">
+        <persName>Joann</persName>
+      </person>
+      <person xml:id="dvp_067_person_48">
+        <persName>Jean</persName>
+      </person>
+      <person xml:id="dvp_067_person_49">
+        <persName>John F. Kennedy Jr.</persName>
+      </person>
+      <person xml:id="dvp_067_person_50">
+        <persName>Jo</persName>
+      </person>
+      <person xml:id="dvp_067_person_51">
+        <persName>Jean</persName>
+      </person>
+      <person xml:id="dvp_067_person_52">
+        <persName>Hunter</persName>
+      </person>
+      <person xml:id="dvp_067_person_53">
+        <persName>Joann</persName>
+      </person>
+      <person xml:id="dvp_067_person_54">
+        <persName>Joann</persName>
+      </person>
+      <person xml:id="dvp_067_person_55">
+        <persName>[CBS broadcast journalist] Walter Cronkite</persName>
+      </person>
+      <person xml:id="dvp_067_person_56">
+        <persName>Joann</persName>
+      </person>
+      <person xml:id="dvp_067_person_57">
+        <persName>Johnny Qualls</persName>
+      </person>
+      <person xml:id="dvp_067_person_58">
+        <persName>Larry Miracle</persName>
+      </person>
+      <person xml:id="dvp_067_person_59">
+        <persName>Miracle</persName>
+      </person>
+      <person xml:id="dvp_067_person_60">
+        <persName>Miracle</persName>
+      </person>
+      <person xml:id="dvp_067_person_61">
+        <persName>Joann</persName>
+      </person>
+      <person xml:id="dvp_067_person_62">
+        <persName>Jo</persName>
+      </person>
+      <person xml:id="dvp_067_person_63">
+        <persName>Hunter Shotwell’s</persName>
+      </person>
+      <person xml:id="dvp_067_person_64">
+        <persName>Jo</persName>
+      </person>
+      <person xml:id="dvp_067_person_65">
+        <persName>John Sloan Dickey</persName>
+      </person>
+      <person xml:id="dvp_067_person_66">
+        <persName>James [E.] Wright</persName>
+      </person>
+      <person xml:id="dvp_067_person_67">
+        <persName>Dan</persName>
+      </person>
+    </listPerson>
+    <listOrg>
+      <org xml:id="dvp_067_org_0">
+        <orgName>Dartmouth Vietnam Project</orgName>
+      </org>
+      <org xml:id="dvp_067_org_1">
+        <orgName>Class of 1965</orgName>
+      </org>
+      <org xml:id="dvp_067_org_2">
+        <orgName>Dartmouth [College]</orgName>
+      </org>
+      <org xml:id="dvp_067_org_3">
+        <orgName>Dartmouth</orgName>
+      </org>
+      <org xml:id="dvp_067_org_4">
+        <orgName>Concord, Massachusetts, state penitentiary [Massachusetts Correctional Institute at Concord]</orgName>
+      </org>
+      <org xml:id="dvp_067_org_5">
+        <orgName>Dartmouth</orgName>
+      </org>
+      <org xml:id="dvp_067_org_6">
+        <orgName>Dartmouth</orgName>
+      </org>
+      <org xml:id="dvp_067_org_7">
+        <orgName>ROTC</orgName>
+      </org>
+      <org xml:id="dvp_067_org_8">
+        <orgName>Army ROTC [Army Reserve Officers’ Training Corps]</orgName>
+      </org>
+      <org xml:id="dvp_067_org_9">
+        <orgName>Dartmouth</orgName>
+      </org>
+      <org xml:id="dvp_067_org_10">
+        <orgName>Army ROTC</orgName>
+      </org>
+      <org xml:id="dvp_067_org_11">
+        <orgName>ROTC</orgName>
+      </org>
+      <org xml:id="dvp_067_org_12">
+        <orgName>Alpha Delta Phi</orgName>
+      </org>
+      <org xml:id="dvp_067_org_13">
+        <orgName>Wheelock College</orgName>
+      </org>
+      <org xml:id="dvp_067_org_14">
+        <orgName>Harvard [University]</orgName>
+      </org>
+      <org xml:id="dvp_067_org_15">
+        <orgName>Dartmouth</orgName>
+      </org>
+      <org xml:id="dvp_067_org_16">
+        <orgName>Army</orgName>
+      </org>
+      <org xml:id="dvp_067_org_17">
+        <orgName>Regular Army</orgName>
+      </org>
+      <org xml:id="dvp_067_org_18">
+        <orgName>RA</orgName>
+      </org>
+      <org xml:id="dvp_067_org_19">
+        <orgName>Reserve</orgName>
+      </org>
+      <org xml:id="dvp_067_org_20">
+        <orgName>Sierra Madre Search and Rescue Team</orgName>
+      </org>
+      <org xml:id="dvp_067_org_21">
+        <orgName>Dartmouth</orgName>
+      </org>
+      <org xml:id="dvp_067_org_22">
+        <orgName>Dartmouth</orgName>
+      </org>
+      <org xml:id="dvp_067_org_23">
+        <orgName>Army ROTC</orgName>
+      </org>
+      <org xml:id="dvp_067_org_24">
+        <orgName>Dartmouth</orgName>
+      </org>
+      <org xml:id="dvp_067_org_25">
+        <orgName>ROTC</orgName>
+      </org>
+      <org xml:id="dvp_067_org_26">
+        <orgName>Army</orgName>
+      </org>
+      <org xml:id="dvp_067_org_27">
+        <orgName>Army</orgName>
+      </org>
+      <org xml:id="dvp_067_org_28">
+        <orgName>3rd Brigade of the 82nd Airborne Division</orgName>
+      </org>
+      <org xml:id="dvp_067_org_29">
+        <orgName>Army</orgName>
+      </org>
+      <org xml:id="dvp_067_org_30">
+        <orgName>National Guard</orgName>
+      </org>
+      <org xml:id="dvp_067_org_31">
+        <orgName>82nd</orgName>
+      </org>
+      <org xml:id="dvp_067_org_32">
+        <orgName>Airborne Brigade</orgName>
+      </org>
+      <org xml:id="dvp_067_org_33">
+        <orgName>Regular Army</orgName>
+      </org>
+      <org xml:id="dvp_067_org_34">
+        <orgName>Army</orgName>
+      </org>
+      <org xml:id="dvp_067_org_35">
+        <orgName>Army</orgName>
+      </org>
+      <org xml:id="dvp_067_org_36">
+        <orgName>101st Airborne</orgName>
+      </org>
+      <org xml:id="dvp_067_org_37">
+        <orgName>Regular Army</orgName>
+      </org>
+      <org xml:id="dvp_067_org_38">
+        <orgName>Regular Army</orgName>
+      </org>
+      <org xml:id="dvp_067_org_39">
+        <orgName>Signal Center and School</orgName>
+      </org>
+      <org xml:id="dvp_067_org_40">
+        <orgName>2nd Battalion</orgName>
+      </org>
+      <org xml:id="dvp_067_org_41">
+        <orgName>11th Artillery</orgName>
+      </org>
+      <org xml:id="dvp_067_org_42">
+        <orgName>Navy</orgName>
+      </org>
+      <org xml:id="dvp_067_org_43">
+        <orgName>Viet Cong</orgName>
+      </org>
+      <org xml:id="dvp_067_org_44">
+        <orgName>North Vietnamese Army [North Vietnamese Army]</orgName>
+      </org>
+      <org xml:id="dvp_067_org_45">
+        <orgName>I Corps</orgName>
+      </org>
+      <org xml:id="dvp_067_org_46">
+        <orgName>the 101st Airborne Division</orgName>
+      </org>
+      <org xml:id="dvp_067_org_47">
+        <orgName>Army</orgName>
+      </org>
+      <org xml:id="dvp_067_org_48">
+        <orgName>101st</orgName>
+      </org>
+      <org xml:id="dvp_067_org_49">
+        <orgName>101</orgName>
+      </org>
+      <org xml:id="dvp_067_org_50">
+        <orgName>Navy Seabees</orgName>
+      </org>
+      <org xml:id="dvp_067_org_51">
+        <orgName>Seabees</orgName>
+      </org>
+      <org xml:id="dvp_067_org_52">
+        <orgName>Seabees</orgName>
+      </org>
+      <org xml:id="dvp_067_org_53">
+        <orgName>Viet Cong</orgName>
+      </org>
+      <org xml:id="dvp_067_org_54">
+        <orgName>NVA</orgName>
+      </org>
+      <org xml:id="dvp_067_org_55">
+        <orgName>Seabees’</orgName>
+      </org>
+      <org xml:id="dvp_067_org_56">
+        <orgName>Viet Cong</orgName>
+      </org>
+      <org xml:id="dvp_067_org_57">
+        <orgName>NVA</orgName>
+      </org>
+      <org xml:id="dvp_067_org_58">
+        <orgName>I Corps</orgName>
+      </org>
+      <org xml:id="dvp_067_org_59">
+        <orgName>Marine</orgName>
+      </org>
+      <org xml:id="dvp_067_org_60">
+        <orgName>Army</orgName>
+      </org>
+      <org xml:id="dvp_067_org_61">
+        <orgName>Army</orgName>
+      </org>
+      <org xml:id="dvp_067_org_62">
+        <orgName>[U.S.] Military Academy [at West Point]</orgName>
+      </org>
+      <org xml:id="dvp_067_org_63">
+        <orgName>Alcohol Anonymous [sic; Alcoholics Anonymous]</orgName>
+      </org>
+      <org xml:id="dvp_067_org_64">
+        <orgName>Army’s</orgName>
+      </org>
+      <org xml:id="dvp_067_org_65">
+        <orgName>Veterans Administration</orgName>
+      </org>
+      <org xml:id="dvp_067_org_66">
+        <orgName>VA [Department of Veterans Affairs]</orgName>
+      </org>
+      <org xml:id="dvp_067_org_67">
+        <orgName>VA</orgName>
+      </org>
+      <org xml:id="dvp_067_org_68">
+        <orgName>Army</orgName>
+      </org>
+      <org xml:id="dvp_067_org_69">
+        <orgName>Dartmouth</orgName>
+      </org>
+      <org xml:id="dvp_067_org_70">
+        <orgName>ROTC</orgName>
+      </org>
+      <org xml:id="dvp_067_org_71">
+        <orgName>ROTC</orgName>
+      </org>
+      <org xml:id="dvp_067_org_72">
+        <orgName>Army</orgName>
+      </org>
+      <org xml:id="dvp_067_org_73">
+        <orgName>Dartmouth</orgName>
+      </org>
+      <org xml:id="dvp_067_org_74">
+        <orgName>ROTC</orgName>
+      </org>
+      <org xml:id="dvp_067_org_75">
+        <orgName>ROTC</orgName>
+      </org>
+      <org xml:id="dvp_067_org_76">
+        <orgName>ROTC</orgName>
+      </org>
+      <org xml:id="dvp_067_org_77">
+        <orgName>Dartmouth</orgName>
+      </org>
+      <org xml:id="dvp_067_org_78">
+        <orgName>[Dartmouth] Outing Club’s</orgName>
+      </org>
+      <org xml:id="dvp_067_org_79">
+        <orgName>Dartmouth</orgName>
+      </org>
+      <org xml:id="dvp_067_org_80">
+        <orgName>Class of 1965</orgName>
+      </org>
+      <org xml:id="dvp_067_org_81">
+        <orgName>Dartmouth</orgName>
+      </org>
+      <org xml:id="dvp_067_org_82">
+        <orgName>Army</orgName>
+      </org>
+      <org xml:id="dvp_067_org_83">
+        <orgName>Dartmouth Vietnam experience program [sic; The Dartmouth Vietnam Project]</orgName>
+      </org>
+      <org xml:id="dvp_067_org_84">
+        <orgName>Dartmouth</orgName>
+      </org>
+    </listOrg>
+  </standOff>
 </TEI>
