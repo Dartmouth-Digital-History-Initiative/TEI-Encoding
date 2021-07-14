@@ -1,106 +1,109 @@
-id	placeName
-dvp_076_place_0	Rauner Special Collections Library
-dvp_076_place_1	Dartmouth 
-dvp_076_place_2	Sunnyside, Queens, New York City
-dvp_076_place_3	New York
-dvp_076_place_4	New York
-dvp_076_place_5	New York
-dvp_076_place_6	Carnegie Hall
-dvp_076_place_7	Carnegie Hall
-dvp_076_place_8	City College [of New York] football stadium
-dvp_076_place_9	New York City
-dvp_076_place_10	New York
-dvp_076_place_11	LaGuardia Field [New York Municipal Airport–LaGuardia Field, now LaGuardia Airport]
-dvp_076_place_12	Queens Boulevard
-dvp_076_place_13	Manhattan
-dvp_076_place_14	New York City
-dvp_076_place_15	New York City
-dvp_076_place_16	Deerfield
-dvp_076_place_17	Pennsylvania
-dvp_076_place_18	England
-dvp_076_place_19	Haverford
-dvp_076_place_20	Philadelphia
-dvp_076_place_21	Harvard
-dvp_076_place_22	Haverford
-dvp_076_place_23	Haverford
-dvp_076_place_24	Haverford
-dvp_076_place_25	Philadelphia
-dvp_076_place_26	Haverford
-dvp_076_place_27	Holland
-dvp_076_place_28	Rotterdam
-dvp_076_place_29	Rotterdam
-dvp_076_place_30	Holland
-dvp_076_place_31	England
-dvp_076_place_32	United States
-dvp_076_place_33	Philadelphia
-dvp_076_place_34	Manhattan
-dvp_076_place_35	Rochester, New York
-dvp_076_place_36	Dartmouth
-dvp_076_place_37	Dartmouth
-dvp_076_place_38	Philadelphia
-dvp_076_place_39	Birmingham
-dvp_076_place_40	Birmingham, England
-dvp_076_place_41	Bournville
-dvp_076_place_42	Greece
-dvp_076_place_43	Birmingham
-dvp_076_place_44	Paris
-dvp_076_place_45	Thessaloniki, Greece
-dvp_076_place_46	Birmingham
-dvp_076_place_47	London
-dvp_076_place_48	London
-dvp_076_place_49	Greece
-dvp_076_place_50	New York
-dvp_076_place_51	Greece
-dvp_076_place_52	England
-dvp_076_place_53	Hanover Inn
-dvp_076_place_54	Columbia
-dvp_076_place_55	Adirondacks [Adirondack Mountains]
-dvp_076_place_56	Dartmouth
-dvp_076_place_57	Hudson River
-dvp_076_place_58	Connecticut [River]
-dvp_076_place_59	Hudson [River]
-dvp_076_place_60	Rockefeller Center in New York City
-dvp_076_place_61	Mexican
-dvp_076_place_62	Sanborn [House]
-dvp_076_place_63	Baker [Fisher Ames Baker Memorial Library, now Baker-Berry Library]
-dvp_076_place_64	Rockefeller Center
-dvp_076_place_65	Rockefeller Center
-dvp_076_place_66	New York
-dvp_076_place_67	Rockefeller Center
-dvp_076_place_68	Orozco mural
-dvp_076_place_69	[Dartmouth] Green
-dvp_076_place_70	Green
-dvp_076_place_71	Parkhurst Hall
-dvp_076_place_72	Green
-dvp_076_place_73	Hanover
-dvp_076_place_74	[University of California,] Berkeley
-dvp_076_place_75	Columbia
-dvp_076_place_76	Berkeley
-dvp_076_place_77	Columbia
-dvp_076_place_78	Montana
-dvp_076_place_79	Oregon
-dvp_076_place_80	Parkhurst
-dvp_076_place_81	Parkhurst
-dvp_076_place_82	New Hampshire
-dvp_076_place_83	[Room] 105, Dartmouth [Hall]
-dvp_076_place_84	Columbia
-dvp_076_place_85	Berkeley
-dvp_076_place_86	United States
-dvp_076_place_87	United States
-dvp_076_place_88	Canada
-dvp_076_place_89	Montreal [Canada]
-dvp_076_place_90	Montreal
-dvp_076_place_91	Montreal
-dvp_076_place_92	Canada
-dvp_076_place_93	Dartmouth Green
-dvp_076_place_94	Lebanon [New Hampshire]
-dvp_076_place_95	Green
-dvp_076_place_96	Green
-dvp_076_place_97	Main Street
-dvp_076_place_98	West Lebanon [New Hampshire]
-dvp_076_place_99	New Hampshire
-dvp_076_place_100	Vermont
-dvp_076_place_101	Arizona
-dvp_076_place_102	Kendal [at Hanover]
-dvp_076_place_103	Rauner Special Collections Library
-dvp_076_place_104	Dartmouth College
+id	placeName	QID	dvp_id	coordinate location
+dvp_076_place_0	Rauner Special Collections Library	Q98544730		43.70447,-72.28817
+dvp_076_place_1	Dartmouth College	Q49116		43.703333333333,-72.288333333333
+dvp_076_place_2	Sunnyside	Q7523819		40.742880555556,-73.9188
+dvp_076_place_3	New York City	Q60		40.67,-73.94
+dvp_076_place_4	New York City	Q60		40.67,-73.94
+dvp_076_place_5	New York City	Q60		40.67,-73.94
+dvp_076_place_6	Carnegie Hall	Q200959		40.765,-73.98
+dvp_076_place_7	Carnegie Hall	Q200959		40.765,-73.98
+dvp_076_place_8	Lewisohn Stadium	Q6537369		40.8191,-73.9512
+dvp_076_place_9	New York City	Q60		40.67,-73.94
+dvp_076_place_10	New York City	Q60		40.67,-73.94
+dvp_076_place_11	LaGuardia Airport	Q319654		40.775,-73.875
+dvp_076_place_12	Queens Boulevard	Q3660813		40.735555555556,-73.875833333333
+dvp_076_place_13	Manhattan	Q11299		40.728333333333,-73.994166666667
+dvp_076_place_14	New York City	Q60		40.67,-73.94
+dvp_076_place_15	New York City	Q60		40.67,-73.94
+dvp_076_place_16	Deerfield Academy	Q5250893		42.5464,-72.6053
+dvp_076_place_17	Pennsylvania	Q1400		41,-77.5
+dvp_076_place_18	England	Q21		53,-1
+dvp_076_place_19	Haverford College	Q579611		40.00972222222222,-75.30722222222222
+dvp_076_place_20	Philadelphia	Q1345		39.952777777778,-75.163611111111
+dvp_076_place_21	Harvard College	Q49123		42.374,-71.117
+dvp_076_place_22	Haverford College	Q579611		40.00972222222222,-75.30722222222222
+dvp_076_place_23	Haverford College	Q579611		40.00972222222222,-75.30722222222222
+dvp_076_place_24	Haverford College	Q579611		40.00972222222222,-75.30722222222222
+dvp_076_place_25	Philadelphia	Q1345		39.952777777778,-75.163611111111
+dvp_076_place_26	Haverford College	Q579611		40.00972222222222,-75.30722222222222
+dvp_076_place_27	Netherlands	Q55		52.316666666667,5.55
+dvp_076_place_28	Rotterdam	Q34370		51.9225,4.47917
+dvp_076_place_29	Rotterdam	Q34370		51.9225,4.47917
+dvp_076_place_30	Netherlands	Q55		52.316666666667,5.55
+dvp_076_place_31	England	Q21		53,-1
+dvp_076_place_32	United States of America	Q30		39.828175,-98.5795
+dvp_076_place_33	Philadelphia	Q1345		39.952777777778,-75.163611111111
+dvp_076_place_34	Manhattan	Q11299		40.728333333333,-73.994166666667
+dvp_076_place_35	Rochester	Q49218		43.165555555556,-77.611388888889
+dvp_076_place_36	Dartmouth College	Q49116		43.703333333333,-72.288333333333
+dvp_076_place_37	Dartmouth College	Q49116		43.703333333333,-72.288333333333
+dvp_076_place_38	Philadelphia	Q1345		39.952777777778,-75.163611111111
+dvp_076_place_39	Birmingham	Q2256		52.48,-1.9025
+dvp_076_place_40	Birmingham	Q2256		52.48,-1.9025
+dvp_076_place_41	Bournville	Q4950318		52.4299,-1.9355
+dvp_076_place_42	Greece	Q41		38.5,23
+dvp_076_place_43	Birmingham	Q2256		52.48,-1.9025
+dvp_076_place_44	Paris	Q90		48.856944444444,2.3513888888889
+dvp_076_place_45	Thessaloniki	Q17151		40.640277777777776,22.935555555555556
+dvp_076_place_46	Birmingham	Q2256		52.48,-1.9025
+dvp_076_place_47	London	Q84		51.507222222222,-0.1275
+dvp_076_place_48	London	Q84		51.507222222222,-0.1275
+dvp_076_place_49	Greece	Q41		38.5,23
+dvp_076_place_50	New York City	Q60		40.67,-73.94
+dvp_076_place_51	Greece	Q41		38.5,23
+dvp_076_place_52	England	Q21		53,-1
+dvp_076_place_53	The Hanover Public House	Q26483062		51.945524,1.288893
+dvp_076_place_54	Columbia University	Q49088		40.8075,-73.961944444444
+dvp_076_place_55	Adirondack Mountains	Q357546		44.1125,-73.9239
+dvp_076_place_56	Dartmouth College	Q49116		43.703333333333,-72.288333333333
+dvp_076_place_57	Hudson River	Q3140		44.1067,-73.9358
+				40.6001,-74.042
+dvp_076_place_58	Connecticut River	Q379648		45.2375,-71.2
+				41.272222222222,-72.333055555556
+dvp_076_place_59	Hudson River	Q3140		44.1067,-73.9358
+				40.6001,-74.042
+dvp_076_place_60	Rockefeller Center	Q11277		40.758611111111,-73.979194444444
+dvp_076_place_61	Mexican			
+dvp_076_place_62	Sanborn House	Q7415589		42.445556,-71.156667
+dvp_076_place_63	Baker Memorial Library	Q4849183		43.705,-72.289166666667
+dvp_076_place_64	Rockefeller Center	Q11277		40.758611111111,-73.979194444444
+dvp_076_place_65	Rockefeller Center	Q11277		40.758611111111,-73.979194444444
+dvp_076_place_66	New York City	Q60		40.67,-73.94
+dvp_076_place_67	Rockefeller Center	Q11277		40.758611111111,-73.979194444444
+dvp_076_place_68	Orozco Mural Room	Q98615173		43.7051989,-72.2889742
+dvp_076_place_69	The Green	Q7738117		43.7033,-72.2886
+dvp_076_place_70	The Green	Q7738117		43.7033,-72.2886
+dvp_076_place_71	Parkhurst Hall	Q100952777		43.70404,-72.28995
+dvp_076_place_72	The Green	Q7738117		43.7033,-72.2886
+dvp_076_place_73	Hanover	Q131908		43.7,-72.28333333333333
+dvp_076_place_74	University of California, Berkeley	Q168756		37.87,-122.259
+dvp_076_place_75	Columbia University	Q49088		40.8075,-73.961944444444
+dvp_076_place_76	University of California, Berkeley	Q168756		37.87,-122.259
+dvp_076_place_77	Columbia University	Q49088		40.8075,-73.961944444444
+dvp_076_place_78	Montana	Q1212		47,-110
+dvp_076_place_79	Oregon	Q824		43.935833,-120.575
+dvp_076_place_80	Parkhurst Hall	Q100952777		43.70404,-72.28995
+dvp_076_place_81	Parkhurst Hall	Q100952777		43.70404,-72.28995
+dvp_076_place_82	New Hampshire	Q759		44,-71.5
+dvp_076_place_83	[Room] 105, Dartmouth [Hall]		dvp_0661	43.703742, -72.287257
+dvp_076_place_84	Columbia University	Q49088		40.8075,-73.961944444444
+dvp_076_place_85	University of California, Berkeley	Q168756		37.87,-122.259
+dvp_076_place_86	United States of America	Q30		39.828175,-98.5795
+dvp_076_place_87	United States of America	Q30		39.828175,-98.5795
+dvp_076_place_88	Canada	Q16		56,-109
+dvp_076_place_89	Montreal	Q340		45.508888888889,-73.561666666667
+dvp_076_place_90	Montreal	Q340		45.508888888889,-73.561666666667
+dvp_076_place_91	Montreal	Q340		45.508888888889,-73.561666666667
+dvp_076_place_92	Canada	Q16		56,-109
+dvp_076_place_93	The Green	Q7738117		43.7033,-72.2886
+dvp_076_place_94	Lebanon	Q993523		43.6422,-72.2517
+dvp_076_place_95	The Green	Q7738117		43.7033,-72.2886
+dvp_076_place_96	The Green	Q7738117		43.7033,-72.2886
+dvp_076_place_97	Main Street	Q107523326		43.701133,-72.28946
+dvp_076_place_98	West Lebanon	Q7985727		43.649166666667,-72.310277777778
+dvp_076_place_99	New Hampshire	Q759		44,-71.5
+dvp_076_place_100	Vermont	Q16551		44,-72.7
+dvp_076_place_101	Arizona	Q816		34.286667,-111.656944
+dvp_076_place_102	Kendal at Hanover	Q107523289		43.729325,-72.267853
+dvp_076_place_103	Rauner Special Collections Library	Q98544730		43.70447,-72.28817
+dvp_076_place_104	Dartmouth College	Q49116		43.703333333333,-72.288333333333
