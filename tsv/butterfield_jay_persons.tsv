@@ -1,32 +1,32 @@
-id	persName
-dvp_072_person_0	Paulina Calcaterra ['19]
-dvp_072_person_1	Jay Butterfield
-dvp_072_person_2	Butterfield
-dvp_072_person_3	Elwin T. Butterfield
-dvp_072_person_4	Carolyn McCauley Butterfield
-dvp_072_person_5	Truman
-dvp_072_person_6	Roosevelt
-dvp_072_person_7	[Francisco Vásquez de] Coronado
-dvp_072_person_8	Janet Pilgrim
-dvp_072_person_9	Fred Berthold [Jr.]
-dvp_072_person_10	[Edgar M.] “Pop” Buell
-dvp_072_person_11	[General] Maxwell [D.] Taylor
-dvp_072_person_12	[General William C.] Westmoreland
-dvp_072_person_13	[Richard M.] Nixon
-dvp_072_person_14	General [John L.] Throckmorton
-dvp_072_person_15	Mrs. [Katherine S.] Westmoreland
-dvp_072_person_16	Mrs. [Regina T.] Throckmorton
-dvp_072_person_17	Teddy Roosevelt
-dvp_072_person_18	Big Minh [General Duong Van Minh]
-dvp_072_person_19	Little Minh [General Tran Van Minh]
-dvp_072_person_20	[Nguyen Van] Thieu
-dvp_072_person_21	Big Minh
-dvp_072_person_22	Sergeant Danny Clover
-dvp_072_person_23	[William] Somerset Maugham
-dvp_072_person_24	Sergeant Ho
-dvp_072_person_25	Sergeant Ho
-dvp_072_person_26	General Kong Le
-dvp_072_person_27	Kong Lee
-dvp_072_person_28	Kong Le
-dvp_072_person_29	Kong Le
-dvp_072_person_30	General [James W.] Harrison, [Jr.]
+id	persName	QID	dvp_id
+dvp_072_person_0	Paulina Calcaterra ['19]		dvp_0662
+dvp_072_person_1	Jay Butterfield		dvp_0663
+dvp_072_person_2	Butterfield		dvp_0663
+dvp_072_person_3	Elwin T. Butterfield		dvp_0664
+dvp_072_person_4	Carolyn McCauley Butterfield		dvp_0665
+dvp_072_person_5	Harry S Truman	Q11613	
+dvp_072_person_6	Franklin Delano Roosevelt	Q8007	
+dvp_072_person_7	Francisco Vázquez de Coronado	Q271974	
+dvp_072_person_8	Janet Pilgrim	Q3138492	
+dvp_072_person_9	Fred Berthold [Jr.]		dvp_0666
+dvp_072_person_10	Pop Buell	Q7228986	
+dvp_072_person_11	Maxwell Davenport Taylor	Q313972	
+dvp_072_person_12	William Westmoreland	Q298793	
+dvp_072_person_13	Richard Nixon	Q9588	
+dvp_072_person_14	John L. Throckmorton	Q6243716	
+dvp_072_person_15	Mrs. [Katherine S.] Westmoreland		dvp_0668
+dvp_072_person_16	Mrs. [Regina T.] Throckmorton		dvp_0669
+dvp_072_person_17	Theodore Roosevelt	Q33866	
+dvp_072_person_18	Duong Van Minh	Q334419	
+dvp_072_person_19	Tran Van Minh	Q7833340	
+dvp_072_person_20	Nguyen Van Thieu	Q313707	
+dvp_072_person_21	Duong Van Minh	Q334419	
+dvp_072_person_22	Sergeant Danny Clover		dvp_0670
+dvp_072_person_23	William Somerset Maugham	Q134942	
+dvp_072_person_24	Sergeant Ho		dvp_0667
+dvp_072_person_25	Sergeant Ho		dvp_0667
+dvp_072_person_26	Kong Le	Q3917260	
+dvp_072_person_27	Kong Le	Q3917260	
+dvp_072_person_28	Kong Le	Q3917260	
+dvp_072_person_29	Kong Le	Q3917260	
+dvp_072_person_30	General [James W.] Harrison, [Jr.]		dvp_0671
