@@ -1,123 +1,123 @@
-id	orgName
-dvp_077_org_0	New England Telephone
-dvp_077_org_1	South Weymouth High School
-dvp_077_org_2	Weymouth North [High School]
-dvp_077_org_3	Weymouth South High School
-dvp_077_org_4	Berkeley
-dvp_077_org_5	Broadway
-dvp_077_org_6	Volkswagen
-dvp_077_org_7	Marine
-dvp_077_org_8	Navy
-dvp_077_org_9	Navy
-dvp_077_org_10	Navy
-dvp_077_org_11	Navy
-dvp_077_org_12	Viet Cong
-dvp_077_org_13	Navy
-dvp_077_org_14	Navy
-dvp_077_org_15	Navy
-dvp_077_org_16	Navy
-dvp_077_org_17	NATTC, Naval Air Technical Training [Center] Command
-dvp_077_org_18	Navy
-dvp_077_org_19	Navy
-dvp_077_org_20	Navy
-dvp_077_org_21	Air Force
-dvp_077_org_22	Air Force
-dvp_077_org_23	Navy
-dvp_077_org_24	Navy
-dvp_077_org_25	Dartmouth
-dvp_077_org_26	Navy
-dvp_077_org_27	[USS] Nimitz
-dvp_077_org_28	Navy
-dvp_077_org_29	Navy
-dvp_077_org_30	Navy
-dvp_077_org_31	Air Force
-dvp_077_org_32	Army
-dvp_077_org_33	Navy
-dvp_077_org_34	Army
-dvp_077_org_35	Guard
-dvp_077_org_36	National Guard
-dvp_077_org_37	Navy
-dvp_077_org_38	the University of Maryland
-dvp_077_org_39	University of Maryland
-dvp_077_org_40	University of Maryland
-dvp_077_org_41	Navy
-dvp_077_org_42	Air Force
-dvp_077_org_43	Army
-dvp_077_org_44	Air Force
-dvp_077_org_45	Air Force
-dvp_077_org_46	Navy
-dvp_077_org_47	Alvin Group
-dvp_077_org_48	Alvin
-dvp_077_org_49	Navy
-dvp_077_org_50	Army
-dvp_077_org_51	Navy
-dvp_077_org_52	Navy
-dvp_077_org_53	CompuServe
-dvp_077_org_54	CompuServe
-dvp_077_org_55	AOL
-dvp_077_org_56	America Online
-dvp_077_org_57	CompuServe
-dvp_077_org_58	Alvin Group
-dvp_077_org_59	Sierra On-Line
-dvp_077_org_60	AAA games
-dvp_077_org_61	Best Buy
-dvp_077_org_62	Dynamics
-dvp_077_org_63	Sierra On-Line
-dvp_077_org_64	Apple
-dvp_077_org_65	Sony Bend
-dvp_077_org_66	Sony
-dvp_077_org_67	HP, Hewlett-Packard
-dvp_077_org_68	Sharp Labs of America
-dvp_077_org_69	HP
-dvp_077_org_70	Sharp Labs
-dvp_077_org_71	Navy
-dvp_077_org_72	Navy
-dvp_077_org_73	Navy
-dvp_077_org_74	Navy
-dvp_077_org_75	Navy
-dvp_077_org_76	Navy
-dvp_077_org_77	Navy
-dvp_077_org_78	Navy
-dvp_077_org_79	Navy
-dvp_077_org_80	Navy
-dvp_077_org_81	Navy
-dvp_077_org_82	Dartmouth
-dvp_077_org_83	Dartmouth
-dvp_077_org_84	HP
-dvp_077_org_85	HP
-dvp_077_org_86	Sharp Labs
-dvp_077_org_87	HP
-dvp_077_org_88	Sharp Labs
-dvp_077_org_89	Sharp Labs
-dvp_077_org_90	Trimble Navigation
-dvp_077_org_91	University of Canterbury
-dvp_077_org_92	Woods Hole
-dvp_077_org_93	University of Canterbury
-dvp_077_org_94	Gifford
-dvp_077_org_95	Applied Research Associates
-dvp_077_org_96	The Neukom Institute [for Computational Science]
-dvp_077_org_97	Neukom
-dvp_077_org_98	Neukom Institute
-dvp_077_org_99	Dartmouth
-dvp_077_org_100	Dartmouth
-dvp_077_org_101	Newcomb Institute
-dvp_077_org_102	Dartmouth
-dvp_077_org_103	Stanford
-dvp_077_org_104	Microsoft
-dvp_077_org_105	Neukom Institute
-dvp_077_org_106	Neukom Institute
-dvp_077_org_107	Newcomb Institute
-dvp_077_org_108	Dartmouth
-dvp_077_org_109	Dartmouth
-dvp_077_org_110	Dartmouth
-dvp_077_org_111	Dartmouth
-dvp_077_org_112	Canterbury
-dvp_077_org_113	Dartmouth College
-dvp_077_org_114	MIT
-dvp_077_org_115	Sony Bend
-dvp_077_org_116	Facebook
-dvp_077_org_117	Facebook
-dvp_077_org_118	MIT
-dvp_077_org_119	Albert Einstein College of Medicine
-dvp_077_org_120	MIT
-dvp_077_org_121	Dartmouth
+id	orgName	QID	dvp_id
+dvp_077_org_0	New England Telephone and Telegraph Company	Q7007413	
+dvp_077_org_1	Weymouth High School	Q14716022	
+dvp_077_org_2	Weymouth High School	Q14716022	
+dvp_077_org_3	Weymouth High School	Q14716022	
+dvp_077_org_4	University of California, Berkeley	Q168756	
+dvp_077_org_5	Broadway	Q11260	
+dvp_077_org_6	Volkswagen	Q246	
+dvp_077_org_7	US Marines	Q2471656	
+dvp_077_org_8	United States Navy	Q11220	
+dvp_077_org_9	United States Navy	Q11220	
+dvp_077_org_10	United States Navy	Q11220	
+dvp_077_org_11	United States Navy	Q11220	
+dvp_077_org_12	National Front for the Liberation of South Vietnam	Q174423	
+dvp_077_org_13	United States Navy	Q11220	
+dvp_077_org_14	United States Navy	Q11220	
+dvp_077_org_15	United States Navy	Q11220	
+dvp_077_org_16	United States Navy	Q11220	
+dvp_077_org_17	Naval Air Technical Training Center	Q98686944	
+dvp_077_org_18	United States Navy	Q11220	
+dvp_077_org_19	United States Navy	Q11220	
+dvp_077_org_20	United States Navy	Q11220	
+dvp_077_org_21	United States Air Force	Q11223	
+dvp_077_org_22	United States Air Force	Q11223	
+dvp_077_org_23	United States Navy	Q11220	
+dvp_077_org_24	United States Navy	Q11220	
+dvp_077_org_25	Dartmouth College	Q49116	
+dvp_077_org_26	United States Navy	Q11220	
+dvp_077_org_27	USS Nimitz	Q463161	
+dvp_077_org_28	United States Navy	Q11220	
+dvp_077_org_29	United States Navy	Q11220	
+dvp_077_org_30	United States Navy	Q11220	
+dvp_077_org_31	United States Air Force	Q11223	
+dvp_077_org_32	United States Army	Q9212	
+dvp_077_org_33	United States Navy	Q11220	
+dvp_077_org_34	United States Army	Q9212	
+dvp_077_org_35	National Guard of the United States	Q928670	
+dvp_077_org_36	National Guard of the United States	Q928670	
+dvp_077_org_37	United States Navy	Q11220	
+dvp_077_org_38	University of Maryland	Q503415	
+dvp_077_org_39	University of Maryland	Q503415	
+dvp_077_org_40	University of Maryland	Q503415	
+dvp_077_org_41	United States Navy	Q11220	
+dvp_077_org_42	United States Air Force	Q11223	
+dvp_077_org_43	United States Army	Q9212	
+dvp_077_org_44	United States Air Force	Q11223	
+dvp_077_org_45	United States Air Force	Q11223	
+dvp_077_org_46	United States Navy	Q11220	
+dvp_077_org_47	Alvin Operations Group	Q107590158	
+dvp_077_org_48	Alvin Operations Group	Q107590158	
+dvp_077_org_49	United States Navy	Q11220	
+dvp_077_org_50	United States Army	Q9212	
+dvp_077_org_51	United States Navy	Q11220	
+dvp_077_org_52	United States Navy	Q11220	
+dvp_077_org_53	CompuServe	Q1122074	
+dvp_077_org_54	CompuServe	Q1122074	
+dvp_077_org_55	AOL	Q27585	
+dvp_077_org_56	AOL	Q27585	
+dvp_077_org_57	CompuServe	Q1122074	
+dvp_077_org_58	Alvin Operations Group	Q107590158	
+dvp_077_org_59	Sierra Entertainment	Q494614	
+dvp_077_org_60	AAA	Q16245021	
+dvp_077_org_61	Best Buy	Q533415	
+dvp_077_org_62	Microsoft Dynamics	Q856705	
+dvp_077_org_63	Sierra Entertainment	Q494614	
+dvp_077_org_64	Apple Inc.	Q312	
+dvp_077_org_65	SIE Bend Studio	Q727701	
+dvp_077_org_66	Sony	Q41187	
+dvp_077_org_67	Hewlett-Packard	Q80978	
+dvp_077_org_68	Sharp Edge Labs (United States)	Q30264432	
+dvp_077_org_69	Hewlett-Packard	Q80978	
+dvp_077_org_70	Sharp Edge Labs (United States)	Q30264432	
+dvp_077_org_71	United States Navy	Q11220	
+dvp_077_org_72	United States Navy	Q11220	
+dvp_077_org_73	United States Navy	Q11220	
+dvp_077_org_74	United States Navy	Q11220	
+dvp_077_org_75	United States Navy	Q11220	
+dvp_077_org_76	United States Navy	Q11220	
+dvp_077_org_77	United States Navy	Q11220	
+dvp_077_org_78	United States Navy	Q11220	
+dvp_077_org_79	United States Navy	Q11220	
+dvp_077_org_80	United States Navy	Q11220	
+dvp_077_org_81	United States Navy	Q11220	
+dvp_077_org_82	Dartmouth College	Q49116	
+dvp_077_org_83	Dartmouth College	Q49116	
+dvp_077_org_84	Hewlett-Packard	Q80978	
+dvp_077_org_85	Hewlett-Packard	Q80978	
+dvp_077_org_86	Sharp Edge Labs (United States)	Q30264432	
+dvp_077_org_87	Hewlett-Packard	Q80978	
+dvp_077_org_88	Sharp Edge Labs (United States)	Q30264432	
+dvp_077_org_89	Sharp Edge Labs (United States)	Q30264432	
+dvp_077_org_90	Trimble Navigation	Q2297063	
+dvp_077_org_91	University of Canterbury	Q432475	
+dvp_077_org_92	Woods Hole Oceanographic Institution	Q1404053	
+dvp_077_org_93	University of Canterbury	Q432475	
+dvp_077_org_94	Gifford Health Care	Q107590561	
+dvp_077_org_95	Applied Research Associates (United States)	Q30283909	
+dvp_077_org_96	Neukom Institute for Computational Science	Q65074993	
+dvp_077_org_97	Neukom Institute for Computational Science	Q65074993	
+dvp_077_org_98	Neukom Institute for Computational Science	Q65074993	
+dvp_077_org_99	Dartmouth College	Q49116	
+dvp_077_org_100	Dartmouth College	Q49116	
+dvp_077_org_101	Neukom Institute for Computational Science	Q65074993	
+dvp_077_org_102	Dartmouth College	Q49116	
+dvp_077_org_103	Stanford University	Q41506	
+dvp_077_org_104	Microsoft	Q2283	
+dvp_077_org_105	Neukom Institute for Computational Science	Q65074993	
+dvp_077_org_106	Neukom Institute for Computational Science	Q65074993	
+dvp_077_org_107	Neukom Institute for Computational Science	Q65074993	
+dvp_077_org_108	Dartmouth College	Q49116	
+dvp_077_org_109	Dartmouth College	Q49116	
+dvp_077_org_110	Dartmouth College	Q49116	
+dvp_077_org_111	Dartmouth College	Q49116	
+dvp_077_org_112	Canterbury	Q29303	
+dvp_077_org_113	Dartmouth College	Q49116	
+dvp_077_org_114	Massachusetts Institute of Technology	Q49108	
+dvp_077_org_115	SIE Bend Studio	Q727701	
+dvp_077_org_116	Facebook	Q355	
+dvp_077_org_117	Facebook	Q355	
+dvp_077_org_118	Massachusetts Institute of Technology	Q49108	
+dvp_077_org_119	Albert Einstein College of Medicine	Q2030894	
+dvp_077_org_120	Massachusetts Institute of Technology	Q49108	
+dvp_077_org_121	Dartmouth College	Q49116	
