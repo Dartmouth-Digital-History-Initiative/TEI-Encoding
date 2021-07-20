@@ -1,132 +1,132 @@
-id	placeName
-dvp_077_place_0	Rauner [Special Collections] Library
-dvp_077_place_1	Dartmouth College
-dvp_077_place_2	Hanover, New Hampshire
-dvp_077_place_3	Weymouth, Massachusetts
-dvp_077_place_4	Boston
-dvp_077_place_5	Boston
-dvp_077_place_6	 Weymouth, Massachusetts
-dvp_077_place_7	South Weymouth
-dvp_077_place_8	North Weymouth
-dvp_077_place_9	Weymouth
-dvp_077_place_10	New York City
-dvp_077_place_11	New York City
-dvp_077_place_12	Washington State
-dvp_077_place_13	New Zealand
-dvp_077_place_14	New Hampshire
-dvp_077_place_15	Vermont
-dvp_077_place_16	Mount Washington
-dvp_077_place_17	Mount Washington
-dvp_077_place_18	Horse and Hound Inn
-dvp_077_place_19	Franconia, New Hampshire
-dvp_077_place_20	New Hampshire
-dvp_077_place_21	Boston
-dvp_077_place_22	Boston
-dvp_077_place_23	Combat Zone
-dvp_077_place_24	Combat Zone
-dvp_077_place_25	Harvard Square
-dvp_077_place_26	[Boston] Common
-dvp_077_place_27	Vietnam
-dvp_077_place_28	Franconia
-dvp_077_place_29	Boston Whaler
-dvp_077_place_30	Canada
-dvp_077_place_31	New Hampshire
-dvp_077_place_32	Canada
-dvp_077_place_33	Canada
-dvp_077_place_34	Millington, Tennessee
-dvp_077_place_35	Memphis, Tennessee
-dvp_077_place_36	Memphis
-dvp_077_place_37	Brunswick, Maine
-dvp_077_place_38	Weymouth, Massachusetts
-dvp_077_place_39	Brunswick, Maine
-dvp_077_place_40	Brunswick, Maine
-dvp_077_place_41	Bermuda
-dvp_077_place_42	Maine
-dvp_077_place_43	Spain
-dvp_077_place_44	Portugal
-dvp_077_place_45	Spain
-dvp_077_place_46	Rota, Spain
-dvp_077_place_47	Spain
-dvp_077_place_48	Bermuda
-dvp_077_place_49	Pax River, Maryland
-dvp_077_place_50	Patuxent River, Maryland
-dvp_077_place_51	the Pax River
-dvp_077_place_52	Brunswick, Maine
-dvp_077_place_53	Brunswick, Maine
-dvp_077_place_54	Brunswick
-dvp_077_place_55	Bermuda
-dvp_077_place_56	St. George
-dvp_077_place_57	Hamilton, Bermuda
-dvp_077_place_58	Spain
-dvp_077_place_59	Brunswick, Maine
-dvp_077_place_60	Brunswick
-dvp_077_place_61	Brunswick, Maine
-dvp_077_place_62	Bermuda
-dvp_077_place_63	Bermuda
-dvp_077_place_64	Sigonella, Sicily
-dvp_077_place_65	Rota, Spain
-dvp_077_place_66	Memphis
-dvp_077_place_67	Mildenhall, England,
-dvp_077_place_68	Mildenhall’s
-dvp_077_place_69	London
-dvp_077_place_70	London
-dvp_077_place_71	Vietnam
-dvp_077_place_72	Brunswick, Maine
-dvp_077_place_73	Vietnam
-dvp_077_place_74	America
-dvp_077_place_75	South Vietnam
-dvp_077_place_76	Vietnam
-dvp_077_place_77	Vietnam
-dvp_077_place_78	Iraq
-dvp_077_place_79	Mildenhall, England
-dvp_077_place_80	England
-dvp_077_place_81	England
-dvp_077_place_82	England
-dvp_077_place_83	Heidelberg, Germany
-dvp_077_place_84	Cambridge, England
-dvp_077_place_85	Sigonella, Sicily
-dvp_077_place_86	Sigonella, Sicily
-dvp_077_place_87	Sicily
-dvp_077_place_88	Weymouth
-dvp_077_place_89	Mildenhall, England
-dvp_077_place_90	Sigonella, Sicily
-dvp_077_place_91	United States
-dvp_077_place_92	Cape Cod
-dvp_077_place_93	Plymouth
-dvp_077_place_94	Sicily
-dvp_077_place_95	England
-dvp_077_place_96	Texas
-dvp_077_place_97	Sicily
-dvp_077_place_98	Iraq
-dvp_077_place_99	Orlando, Florida
-dvp_077_place_100	East Falmouth, Massachusetts
-dvp_077_place_101	Woods Hole
-dvp_077_place_102	Guatemala City
-dvp_077_place_103	Scripps
-dvp_077_place_104	U Mass
-dvp_077_place_105	Brunswick, Maine
-dvp_077_place_106	Woods Hole
-dvp_077_place_107	New York
-dvp_077_place_108	Chicago
-dvp_077_place_109	Eugene, Oregon
-dvp_077_place_110	Seattle
-dvp_077_place_111	Eugene, Oregon
-dvp_077_place_112	Bend, Oregon
-dvp_077_place_113	Bend, Oregon
-dvp_077_place_114	Oregon
-dvp_077_place_115	Portland, Oregon
-dvp_077_place_116	Vancouver, Washington
-dvp_077_place_117	Portland
-dvp_077_place_118	Barcelona, Spain
-dvp_077_place_119	Barcelona
-dvp_077_place_120	Barcelona
-dvp_077_place_121	New Zealand
-dvp_077_place_122	New Zealand
-dvp_077_place_123	Australia
-dvp_077_place_124	Australia
-dvp_077_place_125	Australia
-dvp_077_place_126	New Zealand
-dvp_077_place_127	Vermont
-dvp_077_place_128	Randolph, Vermont
-dvp_077_place_129	Vermont
-dvp_077_place_130	Randolph
+id	placeName	QID
+dvp_077_place_0	Rauner Special Collections Library	Q98544730
+dvp_077_place_1	Dartmouth College	Q49116
+dvp_077_place_2	Hanover	Q131908
+dvp_077_place_3	Weymouth	Q54195
+dvp_077_place_4	Boston	Q100
+dvp_077_place_5	Boston	Q100
+dvp_077_place_6	Weymouth	Q54195
+dvp_077_place_7	South Weymouth	Q7568925
+dvp_077_place_8	North Weymouth	Q107589418
+dvp_077_place_9	Weymouth	Q54195
+dvp_077_place_10	New York City	Q60
+dvp_077_place_11	New York City	Q60
+dvp_077_place_12	Washington	Q1223
+dvp_077_place_13	New Zealand	Q664
+dvp_077_place_14	New Hampshire	Q759
+dvp_077_place_15	Vermont	Q16551
+dvp_077_place_16	Mount Washington	Q572801
+dvp_077_place_17	Mount Washington	Q572801
+dvp_077_place_18	Horse and Hound Inn	Q107589463
+dvp_077_place_19	Franconia	Q2323254
+dvp_077_place_20	New Hampshire	Q759
+dvp_077_place_21	Boston	Q100
+dvp_077_place_22	Boston	Q100
+dvp_077_place_23	Combat Zone	Q5150692
+dvp_077_place_24	Combat Zone	Q5150692
+dvp_077_place_25	Harvard Square	Q1587858
+dvp_077_place_26	Boston Common	Q49132
+dvp_077_place_27	Vietnam	Q881
+dvp_077_place_28	Franconia	Q2323254
+dvp_077_place_29	Boston Whaler	Q894602
+dvp_077_place_30	Canada	Q16
+dvp_077_place_31	New Hampshire	Q759
+dvp_077_place_32	Canada	Q16
+dvp_077_place_33	Canada	Q16
+dvp_077_place_34	Millington	Q2218105
+dvp_077_place_35	Memphis	Q16563
+dvp_077_place_36	Memphis	Q16563
+dvp_077_place_37	Brunswick	Q518466
+dvp_077_place_38	Weymouth	Q54195
+dvp_077_place_39	Brunswick	Q518466
+dvp_077_place_40	Brunswick	Q518466
+dvp_077_place_41	Bermuda	Q23635
+dvp_077_place_42	Maine	Q724
+dvp_077_place_43	Spain	Q29
+dvp_077_place_44	Portugal	Q45
+dvp_077_place_45	Spain	Q29
+dvp_077_place_46	Rota	Q15907
+dvp_077_place_47	Spain	Q29
+dvp_077_place_48	Bermuda	Q23635
+dvp_077_place_49	Patuxent River	Q432641
+dvp_077_place_50	Patuxent River	Q432641
+dvp_077_place_51	Patuxent River	Q432641
+dvp_077_place_52	Brunswick	Q518466
+dvp_077_place_53	Brunswick	Q518466
+dvp_077_place_54	Brunswick	Q518466
+dvp_077_place_55	Bermuda	Q23635
+dvp_077_place_56	St. George's	Q41547
+dvp_077_place_57	Hamilton	Q30985
+dvp_077_place_58	Spain	Q29
+dvp_077_place_59	Brunswick	Q518466
+dvp_077_place_60	Brunswick	Q518466
+dvp_077_place_61	Brunswick	Q518466
+dvp_077_place_62	Bermuda	Q23635
+dvp_077_place_63	Bermuda	Q23635
+dvp_077_place_64	Sigonella	Q3960436
+dvp_077_place_65	Rota	Q15907
+dvp_077_place_66	Memphis	Q16563
+dvp_077_place_67	Mildenhall	Q1016878
+dvp_077_place_68	Mildenhall	Q1016878
+dvp_077_place_69	London	Q84
+dvp_077_place_70	London	Q84
+dvp_077_place_71	Vietnam	Q881
+dvp_077_place_72	Brunswick	Q518466
+dvp_077_place_73	Vietnam	Q881
+dvp_077_place_74	United States of America	Q30
+dvp_077_place_75	South Vietnam	Q180573
+dvp_077_place_76	Vietnam	Q881
+dvp_077_place_77	Vietnam	Q881
+dvp_077_place_78	Iraq	Q796
+dvp_077_place_79	Mildenhall	Q1016878
+dvp_077_place_80	England	Q21
+dvp_077_place_81	England	Q21
+dvp_077_place_82	England	Q21
+dvp_077_place_83	Heidelberg	Q2966
+dvp_077_place_84	Cambridge	Q350
+dvp_077_place_85	Sigonella	Q3960436
+dvp_077_place_86	Sigonella	Q3960436
+dvp_077_place_87	Sicily	Q1460
+dvp_077_place_88	Weymouth	Q54195
+dvp_077_place_89	Mildenhall	Q1016878
+dvp_077_place_90	Sigonella	Q3960436
+dvp_077_place_91	United States of America	Q30
+dvp_077_place_92	Cape Cod	Q49152
+dvp_077_place_93	Plymouth	Q43382
+dvp_077_place_94	Sicily	Q1460
+dvp_077_place_95	England	Q21
+dvp_077_place_96	Texas	Q1439
+dvp_077_place_97	Sicily	Q1460
+dvp_077_place_98	Iraq	Q796
+dvp_077_place_99	Orlando	Q49233
+dvp_077_place_100	East Falmouth	Q5328334
+dvp_077_place_101	Woods Hole Oceanographic Institution	Q1404053
+dvp_077_place_102	Guatemala City	Q1555
+dvp_077_place_103	Scripps College	Q10664609
+dvp_077_place_104	University of Massachusetts	Q1061122
+dvp_077_place_105	Brunswick	Q518466
+dvp_077_place_106	Woods Hole Oceanographic Institution	Q1404053
+dvp_077_place_107	New York City	Q60
+dvp_077_place_108	Chicago	Q1297
+dvp_077_place_109	Eugene	Q171224
+dvp_077_place_110	Seattle	Q5083
+dvp_077_place_111	Eugene	Q171224
+dvp_077_place_112	Bend	Q671288
+dvp_077_place_113	Bend	Q671288
+dvp_077_place_114	Oregon	Q824
+dvp_077_place_115	Portland	Q6106
+dvp_077_place_116	Vancouver	Q234053
+dvp_077_place_117	Portland	Q6106
+dvp_077_place_118	Barcelona	Q1492
+dvp_077_place_119	Barcelona	Q1492
+dvp_077_place_120	Barcelona	Q1492
+dvp_077_place_121	New Zealand	Q664
+dvp_077_place_122	New Zealand	Q664
+dvp_077_place_123	Australia	Q408
+dvp_077_place_124	Australia	Q408
+dvp_077_place_125	Australia	Q408
+dvp_077_place_126	New Zealand	Q664
+dvp_077_place_127	Vermont	Q16551
+dvp_077_place_128	Randolph	Q1441076
+dvp_077_place_129	Vermont	Q16551
+dvp_077_place_130	Randolph	Q54191
