@@ -1,95 +1,96 @@
-id	name
-dvp_074_event_0	the Second World War
-dvp_074_event_1	the Second World War
-dvp_074_event_2	the Second World War
-dvp_074_event_3	World War II
-dvp_074_event_4	the Cold War
-dvp_074_event_5	the Korean War
-dvp_074_event_6	the Korean War
-dvp_074_event_7	the Korean War
-dvp_074_event_8	’52 election
-dvp_074_event_9	the Korean War
-dvp_074_event_10	the Second World War
-dvp_074_event_11	the Cold War
-dvp_074_event_12	the Cold War
-dvp_074_event_13	Cold War
-dvp_074_event_14	’56 election
-dvp_074_event_15	the Second World War
-dvp_074_event_16	’56 Democratic Convention
-dvp_074_event_17	the Vietnam War
-dvp_074_event_18	’60 election
-dvp_074_event_19	’60 election
-dvp_074_event_20	’64 election
-dvp_074_event_21	’64
-dvp_074_event_22	the Viet Cong
-dvp_074_event_23	Indian Wars
-dvp_074_event_24	Cold War
-dvp_074_event_25	first battle of Khe Sanh
-dvp_074_event_26	noteworthy battle of Khe Sanh
-dvp_074_event_27	the Cold War
-dvp_074_event_28	the Cold War
-dvp_074_event_29	Tet [Offensive]
-dvp_074_event_30	Tet Offensive
-dvp_074_event_31	New Hampshire primary
-dvp_074_event_32	the Chicago Convention
-dvp_074_event_33	’68 election
-dvp_074_event_34	Tet
-dvp_074_event_35	Watergate
-dvp_074_event_36	START [II] talks
-dvp_074_event_37	the hostage crisis
-dvp_074_event_38	Soviet invasion of Afghanistan
-dvp_074_event_39	Cuban Missile Crisis
-dvp_074_event_40	World War III
-dvp_074_event_41	World War III
-dvp_074_event_42	the Vietnam War
-dvp_074_event_43	World War II
-dvp_074_event_44	World War I
-dvp_074_event_45	the Second World War
-dvp_074_event_46	Vice-Presidential debate
-dvp_074_event_47	’68 election
-dvp_074_event_48	the Vietnam War
-dvp_074_event_49	invasion of Grenada
-dvp_074_event_50	Marine barracks bombing
-dvp_074_event_51	Camp David peace
-dvp_074_event_52	Jordanian peace agreement
-dvp_074_event_53	 first Iraq War 
-dvp_074_event_54	Iraq War
-dvp_074_event_55	The Afghan War
-dvp_074_event_56	 first Iraq War
-dvp_074_event_57	first Gulf War
-dvp_074_event_58	first Gulf War
-dvp_074_event_59	second Gulf War
-dvp_074_event_60	second Gulf War
-dvp_074_event_61	9/11,
-dvp_074_event_62	 9/11
-dvp_074_event_63	the Iraq War
-dvp_074_event_64	9/11
-dvp_074_event_65	9/11
-dvp_074_event_66	Plan Colombia
-dvp_074_event_67	9/11
-dvp_074_event_68	Kennedy assassination
-dvp_074_event_69	Vietnam War
-dvp_074_event_70	the Second World War
-dvp_074_event_71	Pearl Harbor
-dvp_074_event_72	 U.S. Cole attack
-dvp_074_event_73	9/11
-dvp_074_event_74	9/11
-dvp_074_event_75	first Gulf War
-dvp_074_event_76	9/11
-dvp_074_event_77	the Iraq War
-dvp_074_event_78	the Vietnam War
-dvp_074_event_79	the Gulf of Tonkin Resolution
-dvp_074_event_80	the Iraq War
-dvp_074_event_81	2000 election
-dvp_074_event_82	Gulf War
-dvp_074_event_83	the Iraq War
-dvp_074_event_84	the Iraq War
-dvp_074_event_85	the Iraq War
-dvp_074_event_86	the Iraq War
-dvp_074_event_87	the Vietnam War
-dvp_074_event_88	the Iraq War
-dvp_074_event_89	the Iraq War
-dvp_074_event_90	Oklahoma City bombing trial
-dvp_074_event_91	9/11?
-dvp_074_event_92	9/11
-dvp_074_event_93	9/11 
+id	name	QID	dvp_id	start time	end time	point in time
+dvp_074_event_0	World War II	Q362		1939-09-01T00:00:00Z	1945-09-02T00:00:00Z	
+dvp_074_event_1	World War II	Q362		1939-09-01T00:00:00Z	1945-09-02T00:00:00Z	
+dvp_074_event_2	World War II	Q362		1939-09-01T00:00:00Z	1945-09-02T00:00:00Z	
+dvp_074_event_3	World War II	Q362		1939-09-01T00:00:00Z	1945-09-02T00:00:00Z	
+dvp_074_event_4	Cold War	Q8683		1947-01-01T00:00:00Z	1991-01-01T00:00:00Z	
+dvp_074_event_5	Korean War	Q8663		1950-06-25T00:00:00Z	1953-07-27T00:00:00Z	
+dvp_074_event_6	Korean War	Q8663		1950-06-25T00:00:00Z	1953-07-27T00:00:00Z	
+dvp_074_event_7	Korean War	Q8663		1950-06-25T00:00:00Z	1953-07-27T00:00:00Z	
+dvp_074_event_8	1952 United States elections	Q7892432				1952-11-04T00:00:00Z
+dvp_074_event_9	Korean War	Q8663		1950-06-25T00:00:00Z	1953-07-27T00:00:00Z	
+dvp_074_event_10	World War II	Q362		1939-09-01T00:00:00Z	1945-09-02T00:00:00Z	
+dvp_074_event_11	Cold War	Q8683		1947-01-01T00:00:00Z	1991-01-01T00:00:00Z	
+dvp_074_event_12	Cold War	Q8683		1947-01-01T00:00:00Z	1991-01-01T00:00:00Z	
+dvp_074_event_13	Cold War	Q8683		1947-01-01T00:00:00Z	1991-01-01T00:00:00Z	
+dvp_074_event_14	1956 United States elections	Q7892434				1956-11-06T00:00:00Z
+dvp_074_event_15	World War II	Q362		1939-09-01T00:00:00Z	1945-09-02T00:00:00Z	
+dvp_074_event_16	1956 Democratic National Convention	Q4568685		1956-08-13T00:00:00Z	1956-08-17T00:00:00Z	1956-01-01T00:00:00Z
+dvp_074_event_17	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_074_event_18	1960 United States elections	Q7892436				1960-11-08T00:00:00Z
+dvp_074_event_19	1960 United States elections	Q7892436				1960-11-08T00:00:00Z
+dvp_074_event_20	1964 United States elections	Q7892438				1964-11-03T00:00:00Z
+dvp_074_event_21	1964 United States elections	Q7892438				1964-11-03T00:00:00Z
+dvp_074_event_22	the Viet Cong					
+dvp_074_event_23	American Indian Wars	Q849680		1609-01-01T00:00:00Z	1924-01-01T00:00:00Z	
+dvp_074_event_24	Cold War	Q8683		1947-01-01T00:00:00Z	1991-01-01T00:00:00Z	
+dvp_074_event_25	Battle of Hill 881	Q1230358		1967-04-24T00:00:00Z	1967-05-11T00:00:00Z	1967-05-11T00:00:00Z
+dvp_074_event_26	Battle of Khe Sanh	Q247253		1968-01-21T00:00:00Z	1968-04-08T00:00:00Z	1968-07-09T00:00:00Z
+dvp_074_event_27	Cold War	Q8683		1947-01-01T00:00:00Z	1991-01-01T00:00:00Z	
+dvp_074_event_28	Cold War	Q8683		1947-01-01T00:00:00Z	1991-01-01T00:00:00Z	
+dvp_074_event_29	Tet Offensive	Q82542		1968-01-30T00:00:00Z	1968-09-23T00:00:00Z	1968-09-23T00:00:00Z
+dvp_074_event_30	Tet Offensive	Q82542		1968-01-30T00:00:00Z	1968-09-23T00:00:00Z	1968-09-23T00:00:00Z
+dvp_074_event_31	New Hampshire primary	Q2899221				
+dvp_074_event_32	1968 Democratic National Convention	Q83516				1968-01-01T00:00:00Z
+dvp_074_event_33	1968 United States elections	Q7892440				1968-11-05T00:00:00Z
+dvp_074_event_34	Tet Offensive	Q82542		1968-01-30T00:00:00Z	1968-09-23T00:00:00Z	1968-09-23T00:00:00Z
+dvp_074_event_35	Watergate scandal	Q42761				1972-06-17T00:00:00Z
+dvp_074_event_36	START [II] talks					
+dvp_074_event_37	Iran hostage crisis	Q589673		1979-11-04T00:00:00Z	1981-01-20T00:00:00Z	1979-11-04T00:00:00Z
+dvp_074_event_38	Soviet–Afghan War	Q83085		1979-12-25T00:00:00Z	1989-02-15T00:00:00Z	1979-12-24T00:00:00Z
+dvp_074_event_39	Cuban Missile Crisis	Q128160		1962-10-14T00:00:00Z	1962-10-28T00:00:00Z	1962-01-01T00:00:00Z
+dvp_074_event_40	World War III					
+dvp_074_event_41	World War III					
+dvp_074_event_42	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_074_event_43	World War II	Q362		1939-09-01T00:00:00Z	1945-09-02T00:00:00Z	
+dvp_074_event_44	World War I	Q361		1914-07-28T00:00:00Z	1918-11-11T00:00:00Z	
+dvp_074_event_45	World War II	Q362		1939-09-01T00:00:00Z	1945-09-02T00:00:00Z	
+dvp_074_event_46	United States vice-presidential debate, 1976	Q7893534				1976-10-15T00:00:00Z
+dvp_074_event_47	1968 United States elections	Q7892440				1968-11-05T00:00:00Z
+dvp_074_event_48	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_074_event_49	1983 Invasion of Grenada	Q501866		1983-10-25T00:00:00Z	1983-12-15T00:00:00Z	1983-10-29T00:00:00Z
+dvp_074_event_50	Marine barracks bombing					
+dvp_074_event_51	Camp David Accords	Q309204				1978-09-17T00:00:00Z
+dvp_074_event_52	Jordanian peace agreement					
+dvp_074_event_53	Gulf War	Q37643		1990-08-02T00:00:00Z	1991-02-28T00:00:00Z	
+dvp_074_event_54	Iraq War	Q545449		2003-03-20T00:00:00Z	2011-12-15T00:00:00Z	
+dvp_074_event_55	The Afghan War	Q19077572				
+dvp_074_event_56	Gulf War	Q37643		1990-08-02T00:00:00Z	1991-02-28T00:00:00Z	
+dvp_074_event_57	Gulf War	Q37643		1990-08-02T00:00:00Z	1991-02-28T00:00:00Z	
+dvp_074_event_58	Gulf War	Q37643		1990-08-02T00:00:00Z	1991-02-28T00:00:00Z	
+dvp_074_event_59	Iraq War	Q545449		2003-03-20T00:00:00Z	2011-12-15T00:00:00Z	
+dvp_074_event_60	Iraq War	Q545449		2003-03-20T00:00:00Z	2011-12-15T00:00:00Z	
+dvp_074_event_61	September 11 attack	Q10806				2001-09-11T00:00:00Z
+dvp_074_event_62	September 11 attack	Q10806				2001-09-11T00:00:00Z
+dvp_074_event_63	Iraq War	Q545449		2003-03-20T00:00:00Z	2011-12-15T00:00:00Z	
+dvp_074_event_64	September 11 attack	Q10806				2001-09-11T00:00:00Z
+dvp_074_event_65	September 11 attack	Q10806				2001-09-11T00:00:00Z
+dvp_074_event_66	Plan Colombia	Q1702988				
+dvp_074_event_67	September 11 attack	Q10806				2001-09-11T00:00:00Z
+dvp_074_event_68	assassination of John F. Kennedy	Q193484				1963-11-22T00:00:00Z
+dvp_074_event_69	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_074_event_70	World War II	Q362		1939-09-01T00:00:00Z	1945-09-02T00:00:00Z	
+dvp_074_event_71	Attack on Pearl Harbor	Q52418				1941-12-07T00:00:00Z
+dvp_074_event_72	USS Cole bombing	Q612086				"2000-10-12T00:00:00Z
+"
+dvp_074_event_73	September 11 attack	Q10806				2001-09-11T00:00:00Z
+dvp_074_event_74	September 11 attack	Q10806				2001-09-11T00:00:00Z
+dvp_074_event_75	Gulf War	Q37643		1990-08-02T00:00:00Z	1991-02-28T00:00:00Z	
+dvp_074_event_76	September 11 attack	Q10806				2001-09-11T00:00:00Z
+dvp_074_event_77	Iraq War	Q545449		2003-03-20T00:00:00Z	2011-12-15T00:00:00Z	
+dvp_074_event_78	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_074_event_79	Gulf of Tonkin Resolution	Q240352		1964-08-07T00:00:00Z	1964-08-07T00:00:00Z	1964-08-07T00:00:00Z
+dvp_074_event_80	Iraq War	Q545449		2003-03-20T00:00:00Z	2011-12-15T00:00:00Z	
+dvp_074_event_81	2000 United States presidential election	Q327959				2000-11-07T00:00:00Z
+dvp_074_event_82	Gulf War	Q37643		1990-08-02T00:00:00Z	1991-02-28T00:00:00Z	
+dvp_074_event_83	Iraq War	Q545449		2003-03-20T00:00:00Z	2011-12-15T00:00:00Z	
+dvp_074_event_84	Iraq War	Q545449		2003-03-20T00:00:00Z	2011-12-15T00:00:00Z	
+dvp_074_event_85	Iraq War	Q545449		2003-03-20T00:00:00Z	2011-12-15T00:00:00Z	
+dvp_074_event_86	Iraq War	Q545449		2003-03-20T00:00:00Z	2011-12-15T00:00:00Z	
+dvp_074_event_87	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_074_event_88	Iraq War	Q545449		2003-03-20T00:00:00Z	2011-12-15T00:00:00Z	
+dvp_074_event_89	Iraq War	Q545449		2003-03-20T00:00:00Z	2011-12-15T00:00:00Z	
+dvp_074_event_90	Oklahoma City bombing	Q217528				1995-04-19T00:00:00Z
+dvp_074_event_91	September 11 attack	Q10806				2001-09-11T00:00:00Z
+dvp_074_event_92	September 11 attack	Q10806				2001-09-11T00:00:00Z
+dvp_074_event_93	September 11 attack	Q10806				2001-09-11T00:00:00Z
