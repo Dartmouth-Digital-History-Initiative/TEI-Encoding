@@ -1,16 +1,17 @@
-id	placeName
-dvp_001_place_0	Rauner Special Collections Library
-dvp_001_place_1	"Washington, D.C."
-dvp_001_place_2	"Washington, D.C."
-dvp_001_place_3	Anacostia
-dvp_001_place_4	"Washington, D.C."
-dvp_001_place_5	Anacostia River
-dvp_001_place_6	Washington Navy Yard
-dvp_001_place_7	United States of America
-dvp_001_place_8	Pennsylvania
-dvp_001_place_9	Erie
-dvp_001_place_10	Virginia
-dvp_001_place_11	North Carolina
-dvp_001_place_12	"Washington, D.C."
-dvp_001_place_13	"Washington, D.C."
-dvp_001_place_14	Dartmouth College
+id	placeName	QID	dvp_id	coordinate location
+dvp_001_place_0	Rauner Special Collections Library	Q98544730		43.70447,-72.28817
+dvp_001_place_1	Washington, D.C.	Q61		38.895,-77.036666666667
+dvp_001_place_2	Washington, D.C.	Q61		38.895,-77.036666666667
+dvp_001_place_3	Anacostia	Q4579829		38.8654418,-76.9842531
+dvp_001_place_4	Washington, D.C.	Q61		38.895,-77.036666666667
+dvp_001_place_5	Anacostia River	Q483607		38.9425,-76.9439
+				
+dvp_001_place_6	Washington Navy Yard	Q1637241		38.87388888888889,-76.995
+dvp_001_place_7	United States of America	Q30		39.828175,-98.5795
+dvp_001_place_8	Pennsylvania	Q1400		41,-77.5
+dvp_001_place_9	Erie	Q234061		42.129561111111,-80.085213888889
+dvp_001_place_10	Virginia	Q1370		37.5,-79
+dvp_001_place_11	North Carolina	Q1454		35.5,-80
+dvp_001_place_12	Washington, D.C.	Q61		38.895,-77.036666666667
+dvp_001_place_13	Washington, D.C.	Q61		38.895,-77.036666666667
+dvp_001_place_14	Dartmouth College	Q49116		43.703333333333,-72.288333333333
