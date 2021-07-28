@@ -1,139 +1,145 @@
-id	placeName
-dvp_075_place_0	Jones Media Center
-dvp_075_place_1	Bethesda, Maryland
-dvp_075_place_2	Bethesda, Maryland
-dvp_075_place_3	Chicago, Illinois
-dvp_075_place_4	Chicago
-dvp_075_place_5	New Orleans
-dvp_075_place_6	Baltimore
-dvp_075_place_7	Indiana
-dvp_075_place_8	Chicago
-dvp_075_place_9	Chicago
-dvp_075_place_10	Chicago
-dvp_075_place_11	New Hampshire
-dvp_075_place_12	Chicago
-dvp_075_place_13	Chicago
-dvp_075_place_14	Chicago
-dvp_075_place_15	Topliff Hall
-dvp_075_place_16	Topliff
-dvp_075_place_17	Vietnam
-dvp_075_place_18	Fort Augusta, Georgia
-dvp_075_place_19	Fort Gordon in Augusta, Georgia
-dvp_075_place_20	Fort Monmouth [New Jersey]
-dvp_075_place_21	Fort Huachuca
-dvp_075_place_22	Arizona
-dvp_075_place_23	New York City
-dvp_075_place_24	Sachem Village [a housing community in Lebanon, New Hampshire]
-dvp_075_place_25	Sachem Village
-dvp_075_place_26	Vietnam
-dvp_075_place_27	Boston
-dvp_075_place_28	Fort Gordon
-dvp_075_place_29	Vietnam
-dvp_075_place_30	Augusta, Georgia
-dvp_075_place_31	New Jersey
-dvp_075_place_32	Fort Monmouth
-dvp_075_place_33	Red Bank
-dvp_075_place_34	Fort Huachuca
-dvp_075_place_35	New Jersey
-dvp_075_place_36	New Jersey
-dvp_075_place_37	Fort Huachuca
-dvp_075_place_38	Vietnam
-dvp_075_place_39	Arizona
-dvp_075_place_40	Tucson
-dvp_075_place_41	Tucson
-dvp_075_place_42	Fort Huachuca
-dvp_075_place_43	Vietnam
-dvp_075_place_44	Vietnam
-dvp_075_place_45	Vietnam
-dvp_075_place_46	Logan [International] Airport
-dvp_075_place_47	Travis
-dvp_075_place_48	San Francisco
-dvp_075_place_49	Travis Air Force Base [California]
-dvp_075_place_50	Vietnam
-dvp_075_place_51	Travis Air Force Base
-dvp_075_place_52	San Francisco
-dvp_075_place_53	Guam
-dvp_075_place_54	Bien Hoa [Air Base]
-dvp_075_place_55	Bien Hoa
-dvp_075_place_56	Vietnam
-dvp_075_place_57	U.S.
-dvp_075_place_58	Long Binh
-dvp_075_place_59	Long Binh
-dvp_075_place_60	Bien Hoa
-dvp_075_place_61	Bien Hoa
-dvp_075_place_62	Bien Hoa Army
-dvp_075_place_63	Bien Hoa
-dvp_075_place_64	Bien Hoa
-dvp_075_place_65	Bien Hoa
-dvp_075_place_66	Bien Hoa
-dvp_075_place_67	Bien Hoa
-dvp_075_place_68	Long Binh
-dvp_075_place_69	Bien Hoa
-dvp_075_place_70	Long Binh
-dvp_075_place_71	Saigon
-dvp_075_place_72	Bien Hoa
-dvp_075_place_73	Vietnam
-dvp_075_place_74	South China Sea
-dvp_075_place_75	Saigon
-dvp_075_place_76	Xuân Lộc
-dvp_075_place_77	Hill 886
-dvp_075_place_78	South China Sea
-dvp_075_place_79	Hàm Tân
-dvp_075_place_80	South China Sea
-dvp_075_place_81	Saigon
-dvp_075_place_82	Bien Hoa
-dvp_075_place_83	Saigon River
-dvp_075_place_84	Vietnam
-dvp_075_place_85	Bien Hoa
-dvp_075_place_86	Cape Cod [Massachusetts]
-dvp_075_place_87	Otis Air [Force] Base [now Otis Air National Guard Base]
-dvp_075_place_88	Vietnam
-dvp_075_place_89	Bien Hoa City
-dvp_075_place_90	Bien Hoa
-dvp_075_place_91	South China Sea
-dvp_075_place_92	Diệms
-dvp_075_place_93	Vietnam
-dvp_075_place_94	Cam Ran Bay
-dvp_075_place_95	Seattle
-dvp_075_place_96	Chicago
-dvp_075_place_97	Boston
-dvp_075_place_98	Chicago
-dvp_075_place_99	Boston
-dvp_075_place_100	Vietnam
-dvp_075_place_101	Vietnam
-dvp_075_place_102	Bien Hoa
-dvp_075_place_103	Vietnam
-dvp_075_place_104	VA [U.S. Department of Veterans Affairs]
-dvp_075_place_105	U.S.
-dvp_075_place_106	Vietnam
-dvp_075_place_107	London
-dvp_075_place_108	London
-dvp_075_place_109	Vietnamese Wall [sic; Vietnam Veterans Memorial]
-dvp_075_place_110	U.S.
-dvp_075_place_111	U.S.
-dvp_075_place_112	Vietnam
-dvp_075_place_113	[Second] College Grant up on the Maine border
-dvp_075_place_114	Boston
-dvp_075_place_115	Boston
-dvp_075_place_116	Sudbury, Massachusetts
-dvp_075_place_117	Vietnam
-dvp_075_place_118	Vietnam
-dvp_075_place_119	Vietnam
-dvp_075_place_120	Laos
-dvp_075_place_121	Cambodia
-dvp_075_place_122	Vietnam
-dvp_075_place_123	Cambodia
-dvp_075_place_124	Chinese
-dvp_075_place_125	French
-dvp_075_place_126	U.S.
-dvp_075_place_127	Chinese
-dvp_075_place_128	Vietnamese
-dvp_075_place_129	Vietnamese
-dvp_075_place_130	Bien Hoa
-dvp_075_place_131	Saigon
-dvp_075_place_132	Bien Hoa
-dvp_075_place_133	Bien Hoa
-dvp_075_place_134	America
-dvp_075_place_135	Vietnam
-dvp_075_place_136	Vietnam
-dvp_075_place_137	Rauner [Special Collections] Library
+id	placeName	QID	dvp_id	coordinate location
+dvp_075_place_0	Jones Media Center	Q104923550		43.70537,-72.28895
+dvp_075_place_1	Bethesda	Q584451		38.9806658,-77.100256
+dvp_075_place_2	Bethesda	Q584451		38.9806658,-77.100256
+dvp_075_place_3	Chicago	Q1297		41.881944444444,-87.627777777778
+dvp_075_place_4	Chicago	Q1297		41.881944444444,-87.627777777778
+dvp_075_place_5	New Orleans	Q34404		29.95465,-90.07507
+dvp_075_place_6	Baltimore	Q5092		39.286388888889,-76.615
+dvp_075_place_7	Indiana	Q1415		39.933333333333,-86.216666666667
+dvp_075_place_8	Chicago	Q1297		41.881944444444,-87.627777777778
+dvp_075_place_9	Chicago	Q1297		41.881944444444,-87.627777777778
+dvp_075_place_10	Chicago	Q1297		41.881944444444,-87.627777777778
+dvp_075_place_11	New Hampshire	Q759		44,-71.5
+dvp_075_place_12	Chicago	Q1297		41.881944444444,-87.627777777778
+dvp_075_place_13	Chicago	Q1297		41.881944444444,-87.627777777778
+dvp_075_place_14	Chicago	Q1297		41.881944444444,-87.627777777778
+dvp_075_place_15	Topliff Hall	Q105076922		43.70257,-72.28603
+dvp_075_place_16	Topliff Hall	Q105076922		43.70257,-72.28603
+dvp_075_place_17	Vietnam	Q881		16,108
+dvp_075_place_18	Fort Augusta, Georgia	Q107689386		
+dvp_075_place_19	Fort Gordon	Q1368958		33.413333333333,-82.135277777778
+dvp_075_place_20	Fort Monmouth	Q5471699		40.314,-74.045
+dvp_075_place_21	Fort Huachuca	Q1327004		31.5554,-110.35
+dvp_075_place_22	Arizona	Q816		34.286667,-111.656944
+dvp_075_place_23	New York City	Q60		40.67,-73.94
+dvp_075_place_24	Sachem Village	Q107644946		43.683388,-72.285689
+dvp_075_place_25	Sachem Village	Q107644946		43.683388,-72.285689
+dvp_075_place_26	Vietnam	Q881		16,108
+dvp_075_place_27	Boston	Q100		42.358333333333,-71.0625
+dvp_075_place_28	Fort Gordon	Q1368958		33.413333333333,-82.135277777778
+dvp_075_place_29	Vietnam	Q881		16,108
+dvp_075_place_30	Augusta	Q181962		33.47,-81.975
+dvp_075_place_31	New Jersey	Q1408		40,-74.5
+dvp_075_place_32	Fort Monmouth	Q5471699		40.314,-74.045
+dvp_075_place_33	Red Bank	Q1010539		40.3487,-74.0665
+dvp_075_place_34	Fort Huachuca	Q1327004		31.5554,-110.35
+dvp_075_place_35	New Jersey	Q1408		40,-74.5
+dvp_075_place_36	New Jersey	Q1408		40,-74.5
+dvp_075_place_37	Fort Huachuca	Q1327004		31.5554,-110.35
+dvp_075_place_38	Vietnam	Q881		16,108
+dvp_075_place_39	Arizona	Q816		34.286667,-111.656944
+dvp_075_place_40	Tucson	Q18575		32.221666666667,-110.92638888889
+dvp_075_place_41	Tucson	Q18575		32.221666666667,-110.92638888889
+dvp_075_place_42	Fort Huachuca	Q1327004		31.5554,-110.35
+dvp_075_place_43	Vietnam	Q881		16,108
+dvp_075_place_44	Vietnam	Q881		16,108
+dvp_075_place_45	Vietnam	Q881		16,108
+dvp_075_place_46	Logan International Airport	Q671475		42.363056,-71.006389
+dvp_075_place_47	Travis County	Q110426		30.33,-97.78
+dvp_075_place_48	San Francisco	Q62		37.7775,-122.41638888888889
+dvp_075_place_49	Travis Air Force Base	Q3497425		38.262777777778,-121.9275
+dvp_075_place_50	Vietnam	Q881		16,108
+dvp_075_place_51	Travis Air Force Base	Q3497425		38.262777777778,-121.9275
+dvp_075_place_52	San Francisco	Q62		37.7775,-122.41638888888889
+dvp_075_place_53	Guam	Q16635		13.5,144.8
+dvp_075_place_54	Bien Hoa Air Base	Q619905		10.976944444444,106.81833333333
+dvp_075_place_55	Biên Hòa	Q19316		10.927686,106.868067
+dvp_075_place_56	Vietnam	Q881		16,108
+dvp_075_place_57	United States of America	Q30		39.828175,-98.5795
+dvp_075_place_58	Bình Long	Q733426		11.6869462,106.5964026
+				
+dvp_075_place_59	Bình Long	Q733426		11.6869462,106.5964026
+				
+dvp_075_place_60	Biên Hòa	Q19316		10.927686,106.868067
+dvp_075_place_61	Biên Hòa	Q19316		10.927686,106.868067
+dvp_075_place_62	Bien Hoa Air Base	Q619905		
+dvp_075_place_63	Biên Hòa	Q19316		10.927686,106.868067
+dvp_075_place_64	Biên Hòa	Q19316		10.927686,106.868067
+dvp_075_place_65	Biên Hòa	Q19316		10.927686,106.868067
+dvp_075_place_66	Biên Hòa	Q19316		10.927686,106.868067
+dvp_075_place_67	Biên Hòa	Q19316		10.927686,106.868067
+dvp_075_place_68	Bình Long	Q733426		11.6869462,106.5964026
+				11.678888888889,106.60416666667
+dvp_075_place_69	Biên Hòa	Q19316		10.927686,106.868067
+dvp_075_place_70	Bình Long	Q733426		11.6869462,106.5964026
+				
+dvp_075_place_71	Ho Chi Minh City	Q1854		10.816666666667,106.63333333333
+dvp_075_place_72	Biên Hòa	Q19316		10.927686,106.868067
+dvp_075_place_73	Vietnam	Q881		16,108
+dvp_075_place_74	South China Sea	Q37660		12,113
+dvp_075_place_75	Ho Chi Minh City	Q1854		10.816666666667,106.63333333333
+dvp_075_place_76	Xuân Lộc	Q5258599		10.926348,107.402681
+dvp_075_place_77	Hill 886		dvp_0710	
+dvp_075_place_78	South China Sea	Q37660		12,113
+dvp_075_place_79	Hàm Tân	Q5643878		10.770833333333,107.64166666667
+dvp_075_place_80	South China Sea	Q37660		12,113
+dvp_075_place_81	Ho Chi Minh City	Q1854		10.816666666667,106.63333333333
+dvp_075_place_82	Biên Hòa	Q19316		10.927686,106.868067
+dvp_075_place_83	Saigon River	Q1060805		10.75,106.75
+				
+				
+dvp_075_place_84	Vietnam	Q881		16,108
+dvp_075_place_85	Biên Hòa	Q19316		10.927686,106.868067
+dvp_075_place_86	Cape Cod	Q49152		41.688889,-70.296944
+dvp_075_place_87	Otis Air National Guard Base	Q3357652		41.658611111111,-70.521388888889
+dvp_075_place_88	Vietnam	Q881		16,108
+dvp_075_place_89	Biên Hòa	Q19316		10.927686,106.868067
+dvp_075_place_90	Biên Hòa	Q19316		10.927686,106.868067
+dvp_075_place_91	South China Sea	Q37660		12,113
+dvp_075_place_92	Diệms			
+dvp_075_place_93	Vietnam	Q881		16,108
+dvp_075_place_94	Cam Ranh Bay	Q11072051		11.998153,109.219372
+dvp_075_place_95	Seattle	Q5083		47.60621,-122.33207
+dvp_075_place_96	Chicago	Q1297		41.881944444444,-87.627777777778
+dvp_075_place_97	Boston	Q100		42.358333333333,-71.0625
+dvp_075_place_98	Chicago	Q1297		41.881944444444,-87.627777777778
+dvp_075_place_99	Boston	Q100		42.358333333333,-71.0625
+dvp_075_place_100	Vietnam	Q881		16,108
+dvp_075_place_101	Vietnam	Q881		16,108
+dvp_075_place_102	Biên Hòa	Q19316		10.927686,106.868067
+dvp_075_place_103	Vietnam	Q881		16,108
+dvp_075_place_104	United States Department of Veterans Affairs	Q592576		
+dvp_075_place_105	United States of America	Q30		39.828175,-98.5795
+dvp_075_place_106	Vietnam	Q881		16,108
+dvp_075_place_107	London	Q84		51.507222222222,-0.1275
+dvp_075_place_108	London	Q84		51.507222222222,-0.1275
+dvp_075_place_109	Vietnam Veterans Memorial	Q713628		38.891111111111,-77.047777777778
+dvp_075_place_110	United States of America	Q30		39.828175,-98.5795
+dvp_075_place_111	United States of America	Q30		39.828175,-98.5795
+dvp_075_place_112	Vietnam	Q881		16,108
+dvp_075_place_113	Second College Grant	Q7443207		
+dvp_075_place_114	Boston	Q100		42.358333333333,-71.0625
+dvp_075_place_115	Boston	Q100		42.358333333333,-71.0625
+dvp_075_place_116	Sudbury	Q591591		42.383333333333,-71.416666666667
+dvp_075_place_117	Vietnam	Q881		16,108
+dvp_075_place_118	Vietnam	Q881		16,108
+dvp_075_place_119	Vietnam	Q881		16,108
+dvp_075_place_120	Laos	Q819		18.2,104
+dvp_075_place_121	Cambodia	Q424		12.6,105
+dvp_075_place_122	Vietnam	Q881		16,108
+dvp_075_place_123	Cambodia	Q424		12.6,105
+dvp_075_place_124	China	Q29520		35,105
+dvp_075_place_125	France	Q142		47,2
+dvp_075_place_126	United States of America	Q30		39.828175,-98.5795
+dvp_075_place_127	China	Q29520		35,105
+dvp_075_place_128	Vietnam	Q881		16,108
+dvp_075_place_129	Vietnam	Q881		16,108
+dvp_075_place_130	Biên Hòa	Q19316		10.927686,106.868067
+dvp_075_place_131	Ho Chi Minh City	Q1854		10.816666666667,106.63333333333
+dvp_075_place_132	Biên Hòa	Q19316		10.927686,106.868067
+dvp_075_place_133	Biên Hòa	Q19316		10.927686,106.868067
+dvp_075_place_134	United States of America	Q30		39.828175,-98.5795
+dvp_075_place_135	Vietnam	Q881		16,108
+dvp_075_place_136	Vietnam	Q881		16,108
+dvp_075_place_137	Rauner Special Collections Library	Q98544730		43.70447,-72.28817
