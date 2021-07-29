@@ -1,38 +1,38 @@
-id	persName
-dvp_075_person_0	Chileta [J.] Dim
-dvp_075_person_1	Donald [M.] Boardman
-dvp_075_person_2	Donald
-dvp_075_person_3	Donald
-dvp_075_person_4	William [K.] Boardman [Sr.]
-dvp_075_person_5	Ellen [McKee] Boardman
-dvp_075_person_6	JFK [President John F. Kennedy]
-dvp_075_person_7	Everett [M.] Dirksen
-dvp_075_person_8	John Kennedy
-dvp_075_person_9	Everett Dirksen
-dvp_075_person_10	John Kennedy
-dvp_075_person_11	Janet
-dvp_075_person_12	McNeilly
-dvp_075_person_13	Wallace
-dvp_075_person_14	Dick Wallace
-dvp_075_person_15	Captain Wallace
-dvp_075_person_16	[Thomas L.] “Tommy” Miller
-dvp_075_person_17	Tommy Miller
-dvp_075_person_18	[Daniel J.] “Dan” Walden
-dvp_075_person_19	Dan
-dvp_075_person_20	Tommy
-dvp_075_person_21	Dan
-dvp_075_person_22	Tom Miller
-dvp_075_person_23	Tom Miller
-dvp_075_person_24	Dan
-dvp_075_person_25	John [C.] Seel [Class of 1965]
-dvp_075_person_26	John Seel
-dvp_075_person_27	Dan Walden
-dvp_075_person_28	Diệm
-dvp_075_person_29	Professor [Edward G.] Miller
-dvp_075_person_30	John Paul Vann
-dvp_075_person_31	John Paul Vann
-dvp_075_person_32	[Secretary of Defense Robert S.] McNamara
-dvp_075_person_33	[General William C.] Westmoreland
-dvp_075_person_34	[President Richard M.] Nixon
-dvp_075_person_35	[President Lyndon B.] Johnson
-dvp_075_person_36	Don
+id	persName	QID	dvp_id
+dvp_075_person_0	Chileta [J.] Dim		dvp_0711
+dvp_075_person_1	Donald [M.] Boardman		dvp_0712
+dvp_075_person_2	Donald		dvp_0712
+dvp_075_person_3	Donald		dvp_0712
+dvp_075_person_4	William [K.] Boardman [Sr.]		dvp_0713
+dvp_075_person_5	Ellen [McKee] Boardman		dvp_0717
+dvp_075_person_6	John F. Kennedy	Q9696	
+dvp_075_person_7	Everett McKinley Dirksen	Q1382002	
+dvp_075_person_8	John F. Kennedy	Q9696	
+dvp_075_person_9	Everett McKinley Dirksen	Q1382002	
+dvp_075_person_10	John F. Kennedy	Q9696	
+dvp_075_person_11	Janet		dvp_0714
+dvp_075_person_12	McNeilly		dvp_0714
+dvp_075_person_13	Wallace		dvp_0715
+dvp_075_person_14	Dick Wallace		dvp_0715
+dvp_075_person_15	Captain Wallace		dvp_0715
+dvp_075_person_16	[Thomas L.] “Tommy” Miller		dvp_0716
+dvp_075_person_17	Tommy Miller		dvp_0716
+dvp_075_person_18	[Daniel J.] “Dan” Walden		dvp_0718
+dvp_075_person_19	Dan		dvp_0718
+dvp_075_person_20	Tommy		dvp_0716
+dvp_075_person_21	Dan		dvp_0718
+dvp_075_person_22	Tom Miller		dvp_0716
+dvp_075_person_23	Tom Miller		dvp_0716
+dvp_075_person_24	Dan		dvp_0718
+dvp_075_person_25	John [C.] Seel [Class of 1965]	Q107704457	
+dvp_075_person_26	John Seel	Q107704457	
+dvp_075_person_27	Dan Walden		dvp_0718
+dvp_075_person_28	Ngo Dinh Diem	Q192502	
+dvp_075_person_29	Professor [Edward G.] Miller		dvp_0039
+dvp_075_person_30	John Paul Vann	Q6252282	
+dvp_075_person_31	John Paul Vann	Q6252282	
+dvp_075_person_32	Robert McNamara	Q191999	
+dvp_075_person_33	William Westmoreland	Q298793	
+dvp_075_person_34	Richard Nixon	Q9588	
+dvp_075_person_35	Lyndon B. Johnson	Q9640	
+dvp_075_person_36	Don		dvp_0712
