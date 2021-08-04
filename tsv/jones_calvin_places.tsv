@@ -4,21 +4,17 @@ dvp_011_place_1	Dartmouth College	Q49116		43.703333333333,-72.288333333333
 dvp_011_place_2	Providence	Q18383		41.82399,-71.41283
 dvp_011_place_3	Pawtucket	Q49200		41.875555555556,-71.376111111111
 dvp_011_place_4	Cumberland	Q1143667		41.966666666667,-71.432777777778
-				
 dvp_011_place_5	Hanover	Q131908		43.7,-72.28333333333333
 dvp_011_place_6	Kentucky	Q1603		37.5,-85
 dvp_011_place_7	United States of America	Q30		39.828175,-98.5795
 dvp_011_place_8	Providence	Q18383		41.82399,-71.41283
 dvp_011_place_9	Pawtucket	Q49200		41.875555555556,-71.376111111111
 dvp_011_place_10	Cumberland	Q1143667		41.966666666667,-71.432777777778
-				41.96677,-71.43284
 dvp_011_place_11	Rhode Island	Q1387		41.7,-71.5
 dvp_011_place_12	Massachusetts	Q771		42.3,-71.8
 dvp_011_place_13	Hanover	Q131908		43.7,-72.28333333333333
-dvp_011_place_14	American			
 dvp_011_place_15	Vietnam	Q881		16,108
 dvp_011_place_16	Cumberland	Q1143667		41.966666666667,-71.432777777778
-				41.96677,-71.43284
 dvp_011_place_17	Rhode Island	Q1387		41.7,-71.5
 dvp_011_place_18	Woonsocket	Q54276		42.008333333333,-71.516111111111
 dvp_011_place_19	Rhode Island	Q1387		41.7,-71.5
@@ -78,7 +74,6 @@ dvp_011_place_72	Vietnam	Q881		16,108
 dvp_011_place_73	III Corps	Q1515252		
 dvp_011_place_74	Vietnam	Q881		16,108
 dvp_011_place_75	Vietnam	Q881		16,108
-dvp_011_place_76	American			
 dvp_011_place_77	Vietnam	Q881		16,108
 dvp_011_place_78	Vietnam	Q881		16,108
 dvp_011_place_79	Hawaii	Q782		21.3075,-157.8575
@@ -87,12 +82,8 @@ dvp_011_place_81	United States of America	Q30		39.828175,-98.5795
 dvp_011_place_82	United States of America	Q30		39.828175,-98.5795
 dvp_011_place_83	Vũng Tàu	Q21194		10.404166666667,107.14166666667
 dvp_011_place_84	California	Q99		37,-120
-dvp_011_place_85	Vietnamese	Q3275151		
-dvp_011_place_86	Mekong Delta	Q1052867		10.009,105.824
-				10.333333333333,106.66666666667
-dvp_011_place_87	Vietnamese	Q3275151		
+dvp_011_place_86	Mekong Delta	Q8177459		10.242323,106.633923
 dvp_011_place_88	Vietnam	Q881		16,108
-dvp_011_place_89	South Vietnamese Popular Force	Q7568737		
 dvp_011_place_90	Vietnam	Q881		16,108
 dvp_011_place_91	United States of America	Q30		39.828175,-98.5795
 dvp_011_place_92	Boston	Q100		42.358333333333,-71.0625
@@ -104,9 +95,6 @@ dvp_011_place_97	Fort Belvoir	Q1375761		38.7197,-77.1546
 dvp_011_place_98	Washington, D.C.	Q61		38.895,-77.036666666667
 dvp_011_place_99	Washington, D.C.	Q61		38.895,-77.036666666667
 dvp_011_place_100	Washington, D.C.	Q61		38.895,-77.036666666667
-dvp_011_place_101	American			
-dvp_011_place_102	Iraq	Q796		33,43
-dvp_011_place_103	Afghanistan			
 dvp_011_place_104	White River Junction	Q1898562		43.6503,-72.3214
 dvp_011_place_105	Massachusetts	Q771		42.3,-71.8
 dvp_011_place_106	United States of America	Q30		39.828175,-98.5795
@@ -119,11 +107,7 @@ dvp_011_place_112	Ho Chi Minh City	Q1854		10.816666666667,106.63333333333
 dvp_011_place_113	United States of America	Q30		39.828175,-98.5795
 dvp_011_place_114	Vietnam Veterans Memorial	Q713628		38.891111111111,-77.047777777778
 dvp_011_place_115	Vietnam	Q881		16,108
-dvp_011_place_116	Iraq	Q796		33,43
 dvp_011_place_117	Vietnam	Q881		16,108
-dvp_011_place_118	Iraq	Q796		33,43
-dvp_011_place_119	Iraq	Q796		33,43
-dvp_011_place_120	Afghanistan			
 dvp_011_place_121	United States of America	Q30		39.828175,-98.5795
 dvp_011_place_122	Vietnam	Q881		16,108
 dvp_011_place_123	Vietnam	Q881		16,108
