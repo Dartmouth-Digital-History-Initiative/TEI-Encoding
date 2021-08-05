@@ -2,7 +2,7 @@ id	placeName	QID	dvp_id	coordinate location
 dvp_072_place_0	Rauner Special Collections Library	Q98544730		43.70447,-72.28817
 dvp_072_place_1	Hanover	Q131908		43.7,-72.28333333333333
 dvp_072_place_2	San Diego	Q16552		32.715,-117.1625
-dvp_072_place_3	San Diego General			
+dvp_072_place_3	San Diego General
 dvp_072_place_4	San Diego	Q16552		32.715,-117.1625
 dvp_072_place_5	Iowa	Q1546		42,-93
 dvp_072_place_6	Iowa	Q1546		42,-93
@@ -20,7 +20,7 @@ dvp_072_place_17	New Mexico	Q1522		34,-106
 dvp_072_place_18	Lovelace Clinic Foundation Research	Q30282093		35.056638,-106.624727
 dvp_072_place_19	Las Vegas	Q676171		35.596944444444,-105.2225
 dvp_072_place_20	Rutland	Q25893		43.6089,-72.9797
-dvp_072_place_21	Long Trail Lodge			
+dvp_072_place_21	Long Trail Lodge
 dvp_072_place_22	Fort Dix	Q1087169		40.019166666667,-74.522777777778
 dvp_072_place_23	Fort Dix	Q1087169		40.019166666667,-74.522777777778
 dvp_072_place_24	Fort Dix	Q1087169		40.019166666667,-74.522777777778
@@ -55,7 +55,7 @@ dvp_072_place_52	Las Vegas	Q676171		35.596944444444,-105.2225
 dvp_072_place_53	Las Vegas	Q676171		35.596944444444,-105.2225
 dvp_072_place_54	Mississippi	Q1494		33,-90
 dvp_072_place_55	New Orleans	Q34404		29.95465,-90.07507
-dvp_072_place_56	Princeton			
+dvp_072_place_56	Princeton
 dvp_072_place_57	Albuquerque	Q34804		35.116666666667,-106.61666666667
 dvp_072_place_58	Albuquerque	Q34804		35.116666666667,-106.61666666667
 dvp_072_place_59	Webster Hall	Q105045865		43.704469,72.288169
@@ -80,16 +80,13 @@ dvp_072_place_77	North Vietnam	Q172640		21.033333,105.85
 dvp_072_place_78	Laos	Q819		18.2,104
 dvp_072_place_79	Laos	Q819		18.2,104
 dvp_072_place_80	Laos	Q819		18.2,104
-dvp_072_place_81	North Vietnamese/Chinese border			
+dvp_072_place_81	North Vietnamese/Chinese border
 dvp_072_place_82	Udorn Royal Thai Air Force Base	Q7877292		17.3864,102.788
 dvp_072_place_83	Thailand	Q869		14,101
 dvp_072_place_84	Vientiane	Q9326		17.966666666667,102.6
 dvp_072_place_85	Plain of Jars	Q870258		19.46,103.18
-				
 dvp_072_place_86	Plain of Jars	Q870258		19.46,103.18
-				19.42952,103.15192
 dvp_072_place_87	Plain of Jars	Q870258		19.46,103.18
-				
 dvp_072_place_88	Bangkok	Q1861		13.75,100.51666666667
 dvp_072_place_89	Bangkok	Q1861		13.75,100.51666666667
 dvp_072_place_90	Ho Chi Minh City	Q1854		10.816666666667,106.63333333333
@@ -107,7 +104,7 @@ dvp_072_place_101	Vietnam	Q881		16,108
 dvp_072_place_102	Cam Ranh Bay	Q11072051		11.998153,109.219372
 dvp_072_place_103	Cam Ranh Bay	Q11072051		11.998153,109.219372
 dvp_072_place_104	Laos	Q819		18.2,104
-dvp_072_place_105	Rung Sat Special Zone	Q7379847		
+dvp_072_place_105	Rung Sat Special Zone	Q7379847
 dvp_072_place_106	Ho Chi Minh City	Q1854		10.816666666667,106.63333333333
 dvp_072_place_107	Ho Chi Minh City	Q1854		10.816666666667,106.63333333333
 dvp_072_place_108	Vietnam	Q881		16,108
@@ -132,15 +129,12 @@ dvp_072_place_126	New Jersey	Q1408		40,-74.5
 dvp_072_place_127	Fort Sill	Q1018681		34.704166666667,-98.508333333333
 dvp_072_place_128	Fort Rucker	Q1292067		31.34,-85.71
 dvp_072_place_129	Fort Knox	Q983650		37.915972222222,-85.95625
-				
 dvp_072_place_130	Fort Knox	Q983650		37.915972222222,-85.95625
-				
 dvp_072_place_131	Washington, D.C.	Q61		38.895,-77.036666666667
 dvp_072_place_132	Oakland	Q17042		37.8,-122.25
 dvp_072_place_133	Georgia	Q1428		33,-83.5
 dvp_072_place_134	Vietnam	Q881		16,108
 dvp_072_place_135	Fort Knox	Q983650		37.915972222222,-85.95625
-				
 dvp_072_place_136	Vietnam	Q881		16,108
 dvp_072_place_137	Oakland	Q17042		37.8,-122.25
 dvp_072_place_138	Vietnam	Q881		16,108
@@ -148,7 +142,6 @@ dvp_072_place_139	Oakland	Q17042		37.8,-122.25
 dvp_072_place_140	Vietnam	Q881		16,108
 dvp_072_place_141	Vietnam	Q881		16,108
 dvp_072_place_142	Dĩ An	Q1320364		10.9038708,106.7678954
-				
 dvp_072_place_143	Black Virgin Mountain	Q4922113		11.36666667,106.16666667
 dvp_072_place_144	Black Virgin Mountain	Q4922113		11.36666667,106.16666667
 dvp_072_place_145	Cambodia	Q424		12.6,105
@@ -161,20 +154,15 @@ dvp_072_place_151	Cambodia	Q424		12.6,105
 dvp_072_place_152	Vietnam	Q881		16,108
 dvp_072_place_153	Plain of Reeds	Q8079972		10.605486,105.831668
 dvp_072_place_154	Mekong River	Q41179		33.152722222222,94.064027777778
-				
 dvp_072_place_155	Mekong River	Q41179		33.152722222222,94.064027777778
-				10.194805555556,106.74316666667
 dvp_072_place_156	Ho Chi Minh City	Q1854		10.816666666667,106.63333333333
 dvp_072_place_157	Hóc Môn	Q5875294		10.883333333333,106.5875
-				10.88359,106.58799
 dvp_072_place_158	Mekong River	Q41179		33.152722222222,94.064027777778
-				10.194805555556,106.74316666667
 dvp_072_place_159	Ho Chi Minh City	Q1854		10.816666666667,106.63333333333
 dvp_072_place_160	Tan Son Nhat International Airport	Q478595		10.818888888889,106.65194444444
 dvp_072_place_161	Cholon	Q2405555		10.7514918,106.6604732
 dvp_072_place_162	Ho Chi Minh City	Q1854		10.816666666667,106.63333333333
 dvp_072_place_163	Hóc Môn	Q5875294		10.883333333333,106.5875
-				10.88359,106.58799
 dvp_072_place_164	Cambodia	Q424		12.6,105
 dvp_072_place_165	Laos	Q819		18.2,104
 dvp_072_place_166	Bình Tân	Q610254		10.77111111111111,106.59055555555555
@@ -255,7 +243,7 @@ dvp_072_place_240	Hong Kong	Q8646		22.278333333333,114.15861111111
 dvp_072_place_241	Kennedy Space Center	Q48821		28.585278,-80.650833
 dvp_072_place_242	Miami	Q8652		25.783333333333,-80.216666666667
 dvp_072_place_243	Port St. Lucie	Q667749		27.275833333333,-80.355
-dvp_072_place_244	Penn			
+dvp_072_place_244	Penn
 dvp_072_place_245	Vietnam	Q881		16,108
 dvp_072_place_246	Vietnam	Q881		16,108
 dvp_072_place_247	Southeast Asia	Q11708		12,105.1
