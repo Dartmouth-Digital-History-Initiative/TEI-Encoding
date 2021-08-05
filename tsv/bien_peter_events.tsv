@@ -1,16 +1,16 @@
-id	name
-dvp_076_event_0	[Great] Depression
-dvp_076_event_1	Korean War
-dvp_076_event_2	Second World War
-dvp_076_event_3	the Depression
-dvp_076_event_4	Second World War
-dvp_076_event_5	Vietnam
-dvp_076_event_6	takeover of Parkhurst [Hall]
-dvp_076_event_7	Vietnam War
-dvp_076_event_8	the big reaction in Paris
-dvp_076_event_9	the Paris business
-dvp_076_event_10	Parkhurst incident
-dvp_076_event_11	Second World War
-dvp_076_event_12	Vietnam
-dvp_076_event_13	Korean War
-dvp_076_event_14	Parkhurst incident
+id	name	QID	dvp_id	start time	point in time	end time
+dvp_076_event_0	[Great] Depression					
+dvp_076_event_1	Korean War	Q8663		1950-06-25T00:00:00Z		1953-07-27T00:00:00Z
+dvp_076_event_2	World War II	Q362		1939-09-01T00:00:00Z		1945-09-02T00:00:00Z
+dvp_076_event_3	the Depression	Q20001351				
+dvp_076_event_4	World War II	Q362		1939-09-01T00:00:00Z		1945-09-02T00:00:00Z
+dvp_076_event_5	Vietnam War	Q8740		1959-01-01T00:00:00Z		1975-04-30T00:00:00Z
+dvp_076_event_6	Parkhurst Hall Takeover	Q101424872			1969-05-06T00:00:00Z	
+dvp_076_event_7	Vietnam War	Q8740		1959-01-01T00:00:00Z		1975-04-30T00:00:00Z
+dvp_076_event_8	May 1968 protests in France	Q6743		1968-05-02T00:00:00Z	1968-01-01T00:00:00Z	1968-06-23T00:00:00Z
+dvp_076_event_9	May 1968 protests in France	Q6743		1968-05-02T00:00:00Z	1968-01-01T00:00:00Z	1968-06-23T00:00:00Z
+dvp_076_event_10	Parkhurst Hall Takeover	Q101424872			1969-05-06T00:00:00Z	
+dvp_076_event_11	World War II	Q362		1939-09-01T00:00:00Z		1945-09-02T00:00:00Z
+dvp_076_event_12	Vietnam War	Q8740		1959-01-01T00:00:00Z		1975-04-30T00:00:00Z
+dvp_076_event_13	Korean War	Q8663		1950-06-25T00:00:00Z		1953-07-27T00:00:00Z
+dvp_076_event_14	Parkhurst Hall Takeover	Q101424872			1969-05-06T00:00:00Z	
