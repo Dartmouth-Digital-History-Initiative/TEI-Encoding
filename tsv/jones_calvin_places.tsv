@@ -4,21 +4,18 @@ dvp_011_place_1	Dartmouth College	Q49116		43.703333333333,-72.288333333333
 dvp_011_place_2	Providence	Q18383		41.82399,-71.41283
 dvp_011_place_3	Pawtucket	Q49200		41.875555555556,-71.376111111111
 dvp_011_place_4	Cumberland	Q1143667		41.966666666667,-71.432777777778
-				
 dvp_011_place_5	Hanover	Q131908		43.7,-72.28333333333333
 dvp_011_place_6	Kentucky	Q1603		37.5,-85
 dvp_011_place_7	United States of America	Q30		39.828175,-98.5795
 dvp_011_place_8	Providence	Q18383		41.82399,-71.41283
 dvp_011_place_9	Pawtucket	Q49200		41.875555555556,-71.376111111111
 dvp_011_place_10	Cumberland	Q1143667		41.966666666667,-71.432777777778
-				
 dvp_011_place_11	Rhode Island	Q1387		41.7,-71.5
 dvp_011_place_12	Massachusetts	Q771		42.3,-71.8
 dvp_011_place_13	Hanover	Q131908		43.7,-72.28333333333333
 dvp_011_place_14	American			
 dvp_011_place_15	Vietnam	Q881		16,108
 dvp_011_place_16	Cumberland	Q1143667		41.966666666667,-71.432777777778
-				
 dvp_011_place_17	Rhode Island	Q1387		41.7,-71.5
 dvp_011_place_18	Woonsocket	Q54276		42.008333333333,-71.516111111111
 dvp_011_place_19	Rhode Island	Q1387		41.7,-71.5
@@ -75,8 +72,7 @@ dvp_011_place_69	Ho Chi Minh City	Q1854		10.816666666667,106.63333333333
 dvp_011_place_70	III Corps	Q1515252		10.976944,106.818333
 dvp_011_place_71	Black Virgin Mountain	Q4922113		11.36666667,106.16666667
 dvp_011_place_72	Vietnam	Q881		16,108
-dvp_011_place_73	III Corps	Q1515252		"10.976944,106.818333
-"
+dvp_011_place_73	III Corps	Q1515252		10.976944,106.818333
 dvp_011_place_74	Vietnam	Q881		16,108
 dvp_011_place_75	Vietnam	Q881		16,108
 dvp_011_place_76	American			
@@ -90,7 +86,7 @@ dvp_011_place_83	Vũng Tàu	Q21194		10.404166666667,107.14166666667
 dvp_011_place_84	California	Q99		37,-120
 dvp_011_place_85	Vietnamese			
 dvp_011_place_86	Mekong Delta	Q1052867		10.009,105.824
-				10.333333333333,106.66666666667
+				
 dvp_011_place_87	Vietnamese			
 dvp_011_place_88	Vietnam	Q881		16,108
 dvp_011_place_89	South Vietnamese			
