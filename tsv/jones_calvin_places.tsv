@@ -1,125 +1,126 @@
-id	placeName
-dvp_011_place_0	Ticknor Room at Rauner [Special Collections] Library
-dvp_011_place_1	Dartmouth College
-dvp_011_place_2	Providence, Rhode Island
-dvp_011_place_3	Pawtucket, Rhode Island
-dvp_011_place_4	Cumberland
-dvp_011_place_5	Hanover
-dvp_011_place_6	Kentucky
-dvp_011_place_7	U.S.
-dvp_011_place_8	Providence
-dvp_011_place_9	Pawtucket
-dvp_011_place_10	Cumberland
-dvp_011_place_11	Rhode Island
-dvp_011_place_12	Massachusetts
-dvp_011_place_13	Hanover
-dvp_011_place_14	American
-dvp_011_place_15	Vietnam
-dvp_011_place_16	Cumberland
-dvp_011_place_17	Rhode Island
-dvp_011_place_18	Woonsocket, Rhode Island
-dvp_011_place_19	Rhode Island
-dvp_011_place_20	New Jersey
-dvp_011_place_21	Fort Dix
-dvp_011_place_22	Providence
-dvp_011_place_23	Fort Jackson, South Carolina
-dvp_011_place_24	South Carolina
-dvp_011_place_25	Missouri
-dvp_011_place_26	Ozarks [Ozark Mountains]
-dvp_011_place_27	Fort Leonard Wood
-dvp_011_place_28	South Carolina
-dvp_011_place_29	Missouri
-dvp_011_place_30	Ozarks [Ozark Mountains]
-dvp_011_place_31	Fort Leonard Wood
-dvp_011_place_32	South Carolina
-dvp_011_place_33	Missouri
-dvp_011_place_34	Ozarks [Ozark Mountains]
-dvp_011_place_35	Fort Leonard Wood
-dvp_011_place_36	Virginia
-dvp_011_place_37	Virginia
-dvp_011_place_38	Vietnam
-dvp_011_place_39	Vietnam
-dvp_011_place_40	Fort Belvoir
-dvp_011_place_41	Fort Wolters, Texas
-dvp_011_place_42	Texas
-dvp_011_place_43	Fort Wolters
-dvp_011_place_44	Mineral Wells, Texas
-dvp_011_place_45	Fort Rucker, Alabama
-dvp_011_place_46	Hunter Army Airfield
-dvp_011_place_47	Savannah, Georgia
-dvp_011_place_48	Savannah
-dvp_011_place_49	Vietnam
-dvp_011_place_50	United States
-dvp_011_place_51	Vietnam
-dvp_011_place_52	Bien Hoa Air Base
-dvp_011_place_53	Vietnam
-dvp_011_place_54	Vietnam
-dvp_011_place_55	Vietnam
-dvp_011_place_56	Rhode Island
-dvp_011_place_57	Vietnam
-dvp_011_place_58	Oakland
-dvp_011_place_59	Guam
-dvp_011_place_60	Bien Hoa
-dvp_011_place_61	South Vietnam
-dvp_011_place_62	Vietnam
-dvp_011_place_63	Bien Hoa
-dvp_011_place_64	South Vietnam
-dvp_011_place_65	I Corps
-dvp_011_place_66	DMZ [Demilitarized Zone]
-dvp_011_place_67	III Corps
-dvp_011_place_68	Bien Hoa
-dvp_011_place_69	Saigon
-dvp_011_place_70	III Corps
-dvp_011_place_71	Nui Ba Den
-dvp_011_place_72	Vietnam
-dvp_011_place_73	III Corps
-dvp_011_place_74	Vietnam
-dvp_011_place_75	Vietnam
-dvp_011_place_76	American
-dvp_011_place_77	Vietnam
-dvp_011_place_78	Vietnam
-dvp_011_place_79	Hawaii
-dvp_011_place_80	Hawaii
-dvp_011_place_81	U.S.
-dvp_011_place_82	States
-dvp_011_place_83	Vung Tau
-dvp_011_place_84	California
-dvp_011_place_85	Vietnamese
-dvp_011_place_86	Mekong
-dvp_011_place_87	Vietnamese
-dvp_011_place_88	Vietnam
-dvp_011_place_89	South Vietnamese
-dvp_011_place_90	Vietnam
-dvp_011_place_91	U.S.
-dvp_011_place_92	Boston
-dvp_011_place_93	Fort Leonard Wood
-dvp_011_place_94	Missouri
-dvp_011_place_95	Fort Belvoir, Virginia
-dvp_011_place_96	Providence
-dvp_011_place_97	Fort Belvoir
-dvp_011_place_98	[Washington] D.C.
-dvp_011_place_99	Washington
-dvp_011_place_100	D.C.
-dvp_011_place_101	American
-dvp_011_place_102	Iraq
-dvp_011_place_103	Afghanistan
-dvp_011_place_104	White River Junction
-dvp_011_place_105	Mass.
-dvp_011_place_106	U.S.
-dvp_011_place_107	D.C.
-dvp_011_place_108	Chicago
-dvp_011_place_109	Chicago
-dvp_011_place_110	Denver
-dvp_011_place_111	Vietnam
-dvp_011_place_112	Saigon
-dvp_011_place_113	U.S.
-dvp_011_place_114	Vietnamese War Memorial [sic; Vietnam Veterans Memorial] in Washington
-dvp_011_place_115	Vietnam
-dvp_011_place_116	Iraq
-dvp_011_place_117	Vietnam
-dvp_011_place_118	Iraq
-dvp_011_place_119	Iraq
-dvp_011_place_120	Afghanistan
-dvp_011_place_121	U.S.
-dvp_011_place_122	Vietnam
-dvp_011_place_123	Vietnam
+id	placeName	QID	dvp_id	coordinate location
+dvp_011_place_0	Ticknor Room	Q101096820		43.70446944444444,-72.28816944444445
+dvp_011_place_1	Dartmouth College	Q49116		43.703333333333,-72.288333333333
+dvp_011_place_2	Providence	Q18383		41.82399,-71.41283
+dvp_011_place_3	Pawtucket	Q49200		41.875555555556,-71.376111111111
+dvp_011_place_4	Cumberland	Q1143667		41.966666666667,-71.432777777778
+dvp_011_place_5	Hanover	Q131908		43.7,-72.28333333333333
+dvp_011_place_6	Kentucky	Q1603		37.5,-85
+dvp_011_place_7	United States of America	Q30		39.828175,-98.5795
+dvp_011_place_8	Providence	Q18383		41.82399,-71.41283
+dvp_011_place_9	Pawtucket	Q49200		41.875555555556,-71.376111111111
+dvp_011_place_10	Cumberland	Q1143667		41.966666666667,-71.432777777778
+dvp_011_place_11	Rhode Island	Q1387		41.7,-71.5
+dvp_011_place_12	Massachusetts	Q771		42.3,-71.8
+dvp_011_place_13	Hanover	Q131908		43.7,-72.28333333333333
+dvp_011_place_14	American			
+dvp_011_place_15	Vietnam	Q881		16,108
+dvp_011_place_16	Cumberland	Q1143667		41.966666666667,-71.432777777778
+dvp_011_place_17	Rhode Island	Q1387		41.7,-71.5
+dvp_011_place_18	Woonsocket	Q54276		42.008333333333,-71.516111111111
+dvp_011_place_19	Rhode Island	Q1387		41.7,-71.5
+dvp_011_place_20	New Jersey	Q1408		40,-74.5
+dvp_011_place_21	Fort Dix	Q1087169		40.019166666667,-74.522777777778
+dvp_011_place_22	Providence	Q18383		41.82399,-71.41283
+dvp_011_place_23	Fort Jackson	Q5471392		34.039166666667,-80.822222222222
+dvp_011_place_24	South Carolina	Q1456		34,-81
+dvp_011_place_25	Missouri	Q1581		38.5,-92.5
+dvp_011_place_26	Ozarks	Q1321468		37.1822,-92.5159
+dvp_011_place_27	Fort Leonard Wood	Q964399		37.7117044,-92.1458075
+dvp_011_place_28	South Carolina	Q1456		34,-81
+dvp_011_place_29	Missouri	Q1581		38.5,-92.5
+dvp_011_place_30	Ozarks	Q1321468		37.1822,-92.5159
+dvp_011_place_31	Fort Leonard Wood	Q964399		37.7117044,-92.1458075
+dvp_011_place_32	South Carolina	Q1456		34,-81
+dvp_011_place_33	Missouri	Q1581		38.5,-92.5
+dvp_011_place_34	Ozarks	Q1321468		37.1822,-92.5159
+dvp_011_place_35	Fort Leonard Wood	Q964399		37.7117044,-92.1458075
+dvp_011_place_36	Virginia	Q1370		37.5,-79
+dvp_011_place_37	Virginia	Q1370		37.5,-79
+dvp_011_place_38	Vietnam	Q881		16,108
+dvp_011_place_39	Vietnam	Q881		16,108
+dvp_011_place_40	Fort Belvoir	Q1375761		38.7197,-77.1546
+dvp_011_place_41	Fort Wolters	Q5472364		32.8525,-98.0311
+dvp_011_place_42	Texas	Q1439		31,-100
+dvp_011_place_43	Fort Wolters	Q5472364		32.8525,-98.0311
+dvp_011_place_44	Mineral Wells	Q1016981		32.80833,-98.10167
+dvp_011_place_45	Fort Rucker	Q1292067		31.34,-85.71
+dvp_011_place_46	Hunter Army Airfield	Q3085119		32.01,-81.14555556
+dvp_011_place_47	Savannah	Q83813		32.050833333333,-81.103888888889
+dvp_011_place_48	Savannah	Q83813		32.050833333333,-81.103888888889
+dvp_011_place_49	Vietnam	Q881		16,108
+dvp_011_place_50	United States of America	Q30		39.828175,-98.5795
+dvp_011_place_51	Vietnam	Q881		16,108
+dvp_011_place_52	Bien Hoa Air Base	Q619905		10.976944444444,106.81833333333
+dvp_011_place_53	Vietnam	Q881		16,108
+dvp_011_place_54	Vietnam	Q881		16,108
+dvp_011_place_55	Vietnam	Q881		16,108
+dvp_011_place_56	Rhode Island	Q1387		41.7,-71.5
+dvp_011_place_57	Vietnam	Q881		16,108
+dvp_011_place_58	Oakland	Q17042		37.8,-122.25
+dvp_011_place_59	Guam	Q16635		13.5,144.8
+dvp_011_place_60	Biên Hòa	Q19316		10.927686,106.868067
+dvp_011_place_61	South Vietnam	Q180573		10.75,106.66666666667
+dvp_011_place_62	Vietnam	Q881		16,108
+dvp_011_place_63	Biên Hòa	Q19316		10.927686,106.868067
+dvp_011_place_64	South Vietnam	Q180573		10.75,106.66666666667
+dvp_011_place_65	I Corps	Q1652977		15.5597,108.1172
+dvp_011_place_66	Vietnamese Demilitarized Zone	Q2349960		16.9875,107.0359
+dvp_011_place_67	III Corps	Q1515252		10.976944,106.818333
+dvp_011_place_68	Biên Hòa	Q19316		10.927686,106.868067
+dvp_011_place_69	Ho Chi Minh City	Q1854		10.816666666667,106.63333333333
+dvp_011_place_70	III Corps	Q1515252		10.976944,106.818333
+dvp_011_place_71	Black Virgin Mountain	Q4922113		11.36666667,106.16666667
+dvp_011_place_72	Vietnam	Q881		16,108
+dvp_011_place_73	III Corps	Q1515252		10.976944,106.818333
+dvp_011_place_74	Vietnam	Q881		16,108
+dvp_011_place_75	Vietnam	Q881		16,108
+dvp_011_place_76	American			
+dvp_011_place_77	Vietnam	Q881		16,108
+dvp_011_place_78	Vietnam	Q881		16,108
+dvp_011_place_79	Hawaii	Q782		21.3075,-157.8575
+dvp_011_place_80	Hawaii	Q782		21.3075,-157.8575
+dvp_011_place_81	United States of America	Q30		39.828175,-98.5795
+dvp_011_place_82	United States of America	Q30		39.828175,-98.5795
+dvp_011_place_83	Vũng Tàu	Q21194		10.404166666667,107.14166666667
+dvp_011_place_84	California	Q99		37,-120
+dvp_011_place_85	Vietnamese			
+dvp_011_place_86	Mekong Delta	Q1052867		10.009,105.824
+				
+dvp_011_place_87	Vietnamese			
+dvp_011_place_88	Vietnam	Q881		16,108
+dvp_011_place_89	South Vietnamese			
+dvp_011_place_90	Vietnam	Q881		16,108
+dvp_011_place_91	United States of America	Q30		39.828175,-98.5795
+dvp_011_place_92	Boston	Q100		42.358333333333,-71.0625
+dvp_011_place_93	Fort Leonard Wood	Q964399		37.7117044,-92.1458075
+dvp_011_place_94	Missouri	Q1581		38.5,-92.5
+dvp_011_place_95	Fort Belvoir	Q1375761		38.7197,-77.1546
+dvp_011_place_96	Providence	Q18383		41.82399,-71.41283
+dvp_011_place_97	Fort Belvoir	Q1375761		38.7197,-77.1546
+dvp_011_place_98	Washington, D.C.	Q61		38.895,-77.036666666667
+dvp_011_place_99	Washington, D.C.	Q61		38.895,-77.036666666667
+dvp_011_place_100	Washington, D.C.	Q61		38.895,-77.036666666667
+dvp_011_place_101	American			
+dvp_011_place_102	Iraq			
+dvp_011_place_103	Afghanistan			
+dvp_011_place_104	White River Junction	Q1898562		43.6503,-72.3214
+dvp_011_place_105	Massachusetts	Q771		42.3,-71.8
+dvp_011_place_106	United States of America	Q30		39.828175,-98.5795
+dvp_011_place_107	Washington, D.C.	Q61		38.895,-77.036666666667
+dvp_011_place_108	Chicago	Q1297		41.881944444444,-87.627777777778
+dvp_011_place_109	Chicago	Q1297		41.881944444444,-87.627777777778
+dvp_011_place_110	Denver	Q16554		39.739166666667,-104.98472222222
+dvp_011_place_111	Vietnam	Q881		16,108
+dvp_011_place_112	Ho Chi Minh City	Q1854		10.816666666667,106.63333333333
+dvp_011_place_113	United States of America	Q30		39.828175,-98.5795
+dvp_011_place_114	Vietnam Veterans Memorial	Q713628		38.891111111111,-77.047777777778
+dvp_011_place_115	Vietnam	Q881		16,108
+dvp_011_place_116	Iraq			
+dvp_011_place_117	Vietnam	Q881		16,108
+dvp_011_place_118	Iraq			
+dvp_011_place_119	Iraq			
+dvp_011_place_120	Afghanistan			
+dvp_011_place_121	United States of America	Q30		39.828175,-98.5795
+dvp_011_place_122	Vietnam	Q881		16,108
+dvp_011_place_123	Vietnam	Q881		16,108
