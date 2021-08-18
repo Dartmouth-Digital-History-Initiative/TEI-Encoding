@@ -1,98 +1,98 @@
-id	orgName
-dvp_075_org_0	Dartmouth College
-dvp_075_org_1	Dartmouth College
-dvp_075_org_2	Morgan Park High School
-dvp_075_org_3	University of Illinois
-dvp_075_org_4	Dartmouth
-dvp_075_org_5	University of Illinois
-dvp_075_org_6	[U.S.] Merchant Marine
-dvp_075_org_7	Merchant Marine
-dvp_075_org_8	Boy Scout
-dvp_075_org_9	Boy Scout
-dvp_075_org_10	Dartmouth
-dvp_075_org_11	Purdue University
-dvp_075_org_12	Dartmouth
-dvp_075_org_13	Dartmouth
-dvp_075_org_14	Thayer Hall [now Class of 1953 Commons]
-dvp_075_org_15	Chicago Tribune
-dvp_075_org_16	Dartmouth
-dvp_075_org_17	AD [Alpha Delta]
-dvp_075_org_18	Dartmouth
-dvp_075_org_19	Dartmouth
-dvp_075_org_20	[Dartmouth College] Glee Club
-dvp_075_org_21	[Dartmouth] Outing Society
-dvp_075_org_22	Freshman Trip [Dartmouth Outing Club First-Year Trips] leader
-dvp_075_org_23	ROTC [Reserve Officers’ Training Corps]
-dvp_075_org_24	ROTC
-dvp_075_org_25	ROTC
-dvp_075_org_26	[U.S. Army] Signal Corps
-dvp_075_org_27	ROTC
-dvp_075_org_28	active Reserve
-dvp_075_org_29	inactive Reserve
-dvp_075_org_30	active Reserve
-dvp_075_org_31	Tuck School [of Business]
-dvp_075_org_32	Skidmore College
-dvp_075_org_33	Dartmouth
-dvp_075_org_34	Tuck
-dvp_075_org_35	Tuck
-dvp_075_org_36	Tuck School
-dvp_075_org_37	Tuck School
-dvp_075_org_38	Tuck School
-dvp_075_org_39	Tuck
-dvp_075_org_40	Tuck
-dvp_075_org_41	Tuck
-dvp_075_org_42	Arthur Andersen & Company
-dvp_075_org_43	sic
-dvp_075_org_44	Arthur Andersen LLP]
-dvp_075_org_45	ROTC
-dvp_075_org_46	ROTC
-dvp_075_org_47	Signal Corps
-dvp_075_org_48	Signal Corps
-dvp_075_org_49	Signal Company
-dvp_075_org_50	Freedom Birds
-dvp_075_org_51	Signal Battalion [sic; Company A/44, 36th Signal Battalion]
-dvp_075_org_52	ROTC
-dvp_075_org_53	Regular Army
-dvp_075_org_54	Viet Cong
-dvp_075_org_55	Signal
-dvp_075_org_56	Tuck School
-dvp_075_org_57	Dartmouth
-dvp_075_org_58	Jeep
-dvp_075_org_59	Army of the Republic of Vietnam
-dvp_075_org_60	ARVNs
-dvp_075_org_61	Army
-dvp_075_org_62	Regular Army
-dvp_075_org_63	[the U.S. Military Academy at] West Point
-dvp_075_org_64	Tuck
-dvp_075_org_65	Tuck
-dvp_075_org_66	Tuck
-dvp_075_org_67	Tuck
-dvp_075_org_68	Dartmouth
-dvp_075_org_69	MARS
-dvp_075_org_70	MARS
-dvp_075_org_71	Military Affiliate Radio System
-dvp_075_org_72	LIFE magazine
-dvp_075_org_73	Viet Cong
-dvp_075_org_74	Viet Cong
-dvp_075_org_75	South Vietnamese Army
-dvp_075_org_76	Diệms
-dvp_075_org_77	Cao Đài
-dvp_075_org_78	[American] Red Cross
-dvp_075_org_79	[U.S.] Army
-dvp_075_org_80	Arthur Andersen
-dvp_075_org_81	Foxford Development Corporation
-dvp_075_org_82	Arthur Andersen
-dvp_075_org_83	Dartmouth
-dvp_075_org_84	Class of ’65
-dvp_075_org_85	101st Airborne Division
-dvp_075_org_86	[Dartmouth] Alumni Magazine
-dvp_075_org_87	Tuck
-dvp_075_org_88	Columbia [University]
-dvp_075_org_89	Georgetown [University]
-dvp_075_org_90	Dartmouth
-dvp_075_org_91	Veterans Administration
-dvp_075_org_92	Dartmouth
-dvp_075_org_93	military
-dvp_075_org_94	Khmers [Khmer Rouge]
-dvp_075_org_95	Diệms
-dvp_075_org_96	Dartmouth
+id	orgName	QID	dvp_id
+dvp_075_org_0	Dartmouth College	Q49116	
+dvp_075_org_1	Dartmouth College	Q49116	
+dvp_075_org_2	Morgan Park High School	Q6911807	
+dvp_075_org_3	University of Illinois at Urbana–Champaign	Q457281	
+dvp_075_org_4	Dartmouth College	Q49116	
+dvp_075_org_5	University of Illinois at Urbana–Champaign	Q457281	
+dvp_075_org_6	United States Merchant Marine Academy	Q1806541	
+dvp_075_org_7	United States Merchant Marine Academy	Q1806541	
+dvp_075_org_8	Boy Scouts of America	Q608132	
+dvp_075_org_9	Boy Scouts of America	Q608132	
+dvp_075_org_10	Dartmouth College	Q49116	
+dvp_075_org_11	Purdue University	Q217741	
+dvp_075_org_12	Dartmouth College	Q49116	
+dvp_075_org_13	Dartmouth College	Q49116	
+dvp_075_org_14	Class of 1953 Commons	Q98636574	
+dvp_075_org_15	Chicago Tribune	Q47596	
+dvp_075_org_16	Dartmouth College	Q49116	
+dvp_075_org_17	Alpha Delta	Q101542150	
+dvp_075_org_18	Dartmouth College	Q49116	
+dvp_075_org_19	Dartmouth College	Q49116	
+dvp_075_org_20	Dartmouth Glee Club	Q105483915	
+dvp_075_org_21	Dartmouth Outing Club (DOC)	Q101243244	
+dvp_075_org_22	Freshman Trip [Dartmouth Outing Club First-Year Trips] leader		dvp_0191
+dvp_075_org_23	Reserve Officers' Training Corps	Q489983	
+dvp_075_org_24	Reserve Officers' Training Corps	Q489983	
+dvp_075_org_25	Reserve Officers' Training Corps	Q489983	
+dvp_075_org_26	United States Army Signal Corps	Q736213	
+dvp_075_org_27	Reserve Officers' Training Corps	Q489983	
+dvp_075_org_28	Active Guard Reserve	Q4677506	
+dvp_075_org_29	Individual Ready Reserve	Q6025246	
+dvp_075_org_30	Active Guard Reserve	Q4677506	
+dvp_075_org_31	Tuck School of Business	Q1263832	
+dvp_075_org_32	Skidmore College	Q7535073	
+dvp_075_org_33	Dartmouth College	Q49116	
+dvp_075_org_34	Tuck School of Business	Q1263832	
+dvp_075_org_35	Tuck School of Business	Q1263832	
+dvp_075_org_36	Tuck School of Business	Q1263832	
+dvp_075_org_37	Tuck School of Business	Q1263832	
+dvp_075_org_38	Tuck School of Business	Q1263832	
+dvp_075_org_39	Tuck School of Business	Q1263832	
+dvp_075_org_40	Tuck School of Business	Q1263832	
+dvp_075_org_41	Tuck School of Business	Q1263832	
+dvp_075_org_42	Arthur Andersen	Q392730	
+dvp_075_org_43	sic		
+dvp_075_org_44	Arthur Andersen	Q392730	
+dvp_075_org_45	Reserve Officers' Training Corps	Q489983	
+dvp_075_org_46	Reserve Officers' Training Corps	Q489983	
+dvp_075_org_47	United States Army Signal Corps	Q736213	
+dvp_075_org_48	United States Army Signal Corps	Q736213	
+dvp_075_org_49	Signal Company	Q47507921	
+dvp_075_org_50	Freedom Birds		
+dvp_075_org_51	Signal Battalion [sic; Company A/44, 36th Signal Battalion]		dvp_0708
+dvp_075_org_52	Reserve Officers' Training Corps	Q489983	
+dvp_075_org_53	Regular Army of USA	Q4992216	
+dvp_075_org_54	National Front for the Liberation of South Vietnam	Q174423	
+dvp_075_org_55	Signal		
+dvp_075_org_56	Tuck School of Business	Q1263832	
+dvp_075_org_57	Dartmouth College	Q49116	
+dvp_075_org_58	Jeep	Q30113	
+dvp_075_org_59	Army of the Republic of Vietnam	Q18917	
+dvp_075_org_60	Army of the Republic of Vietnam	Q18917	
+dvp_075_org_61	army	Q37726	
+dvp_075_org_62	Regular Army of USA	Q4992216	
+dvp_075_org_63	United States Military Academy	Q9219	
+dvp_075_org_64	Tuck School of Business	Q1263832	
+dvp_075_org_65	Tuck School of Business	Q1263832	
+dvp_075_org_66	Tuck School of Business	Q1263832	
+dvp_075_org_67	Tuck School of Business	Q1263832	
+dvp_075_org_68	Dartmouth College	Q49116	
+dvp_075_org_69	Mars	Q111	
+dvp_075_org_70	Mars	Q111	
+dvp_075_org_71	Military Auxiliary Radio System	Q194785	
+dvp_075_org_72	Life	Q463198	
+dvp_075_org_73	National Front for the Liberation of South Vietnam	Q174423	
+dvp_075_org_74	National Front for the Liberation of South Vietnam	Q174423	
+dvp_075_org_75	Army of the Republic of Vietnam	Q18917	
+dvp_075_org_76	Diệms		
+dvp_075_org_77	Cao Đại	Q10744335	
+dvp_075_org_78	American Red Cross	Q470110	
+dvp_075_org_79	United States Army	Q9212	
+dvp_075_org_80	Arthur Andersen	Q392730	
+dvp_075_org_81	Foxford Development Corporation		dvp_0709
+dvp_075_org_82	Arthur Andersen	Q392730	
+dvp_075_org_83	Dartmouth College	Q49116	
+dvp_075_org_84	Class of ’65		dvp_0166
+dvp_075_org_85	101st Airborne Division	Q165256	
+dvp_075_org_86	Dartmouth Alumni Magazine	Q101536464	
+dvp_075_org_87	Tuck School of Business	Q1263832	
+dvp_075_org_88	Columbia University	Q49088	
+dvp_075_org_89	Georgetown University	Q333886	
+dvp_075_org_90	Dartmouth College	Q49116	
+dvp_075_org_91	United States Department of Veterans Affairs	Q59257	
+dvp_075_org_92	Dartmouth College	Q49116	
+dvp_075_org_93	military	Q8473	
+dvp_075_org_94	Khmers [Khmer Rouge]	Q191764	
+dvp_075_org_95	Diệms		
+dvp_075_org_96	Dartmouth College	Q49116	
