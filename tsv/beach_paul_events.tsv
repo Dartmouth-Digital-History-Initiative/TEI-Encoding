@@ -1,51 +1,51 @@
-id	name	QID	dvp_id
-dvp_073_event_0	World War II	Q362	
-dvp_073_event_1	World War II	Q362	
-dvp_073_event_2	Sputnik programme	Q170413	
-dvp_073_event_3	Winter Carnival		
-dvp_073_event_4	Vietnam War	Q8740	
-dvp_073_event_5	Cuban Missile Crisis	Q128160	
-dvp_073_event_6	Cold War	Q8683	
-dvp_073_event_7	Cuban Missile Crisis	Q128160	
-dvp_073_event_8	Cold War	Q8683	
-dvp_073_event_9	Hungarian Revolution of 1956	Q164348	
-dvp_073_event_10	Cold War	Q8683	
-dvp_073_event_11	Cold War	Q8683	
-dvp_073_event_12	Second Sino-Japanese War	Q170314	
-dvp_073_event_13	March on Washington	Q80079531	
-dvp_073_event_14	16th Street Baptist Church bombing	Q3875690	
-dvp_073_event_15	George Wallace presidential campaign, 1968	Q5545837	
-dvp_073_event_16	Freedom Summer	Q3024031	
-dvp_073_event_17	Vietnam War	Q8740	
-dvp_073_event_18	Dominican Civil War	Q955457	
-dvp_073_event_19	Dominican Civil War	Q955457	
-dvp_073_event_20	Vietnam War	Q8740	
-dvp_073_event_21	Vietnam War	Q8740	
-dvp_073_event_22	Vietnam War	Q8740	
-dvp_073_event_23	Civil Rights Act of 1964	Q585962	
-dvp_073_event_24	Vietnam War	Q8740	
-dvp_073_event_25	Vietnam War	Q8740	
-dvp_073_event_26	Vietnam Summer Campaign	Q107527919	
-dvp_073_event_27	World War II	Q362	
-dvp_073_event_28	Vietnam Summer Campaign	Q107527919	
-dvp_073_event_29	Vietnam Summer Campaign	Q107527919	
-dvp_073_event_30	My Lai Massacre	Q183421	
-dvp_073_event_31	1968 Democratic National Convention	Q83516	
-dvp_073_event_32	1968 Democratic National Convention	Q83516	
-dvp_073_event_33	assassination of Robert F. Kennedy	Q1187550	
-dvp_073_event_34	Tet Offensive	Q82542	
-dvp_073_event_35	Tet Offensive	Q82542	
-dvp_073_event_36	1968 Democratic National Convention	Q83516	
-dvp_073_event_37	Parkhurst Hall Takeover	Q101424872	
-dvp_073_event_38	Parkhurst Hall Takeover	Q101424872	
-dvp_073_event_39	Parkhurst Hall Takeover	Q101424872	
-dvp_073_event_40	Parkhurst Hall Takeover	Q101424872	
-dvp_073_event_41	Parkhurst Hall Takeover	Q101424872	
-dvp_073_event_42	1968 Democratic National Convention	Q83516	
-dvp_073_event_43	Kent State shootings	Q482635	
-dvp_073_event_44	Vietnamization	Q927708	
-dvp_073_event_45	Vietnam War	Q8740	
-dvp_073_event_46	Vietnam War	Q8740	
-dvp_073_event_47	Vietnam War	Q8740	
-dvp_073_event_48	Vietnam War	Q8740	
-dvp_073_event_49	Vietnam War	Q8740	
+id	name	QID	dvp_id	start time	end time	point in time
+dvp_073_event_0	World War II	Q362		1939-09-01T00:00:00Z	1945-09-02T00:00:00Z	
+dvp_073_event_1	World War II	Q362		1939-09-01T00:00:00Z	1945-09-02T00:00:00Z	
+dvp_073_event_2	Sputnik programme	Q170413				1957-10-03T20:00:00Z
+dvp_073_event_3	Winter Carnival					
+dvp_073_event_4	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_073_event_5	Cuban Missile Crisis	Q128160		1962-10-14T00:00:00Z	1962-10-28T00:00:00Z	
+dvp_073_event_6	Cold War	Q8683		1947-01-01T00:00:00Z	1991-01-01T00:00:00Z	
+dvp_073_event_7	Cuban Missile Crisis	Q128160		1962-10-14T00:00:00Z	1962-10-28T00:00:00Z	
+dvp_073_event_8	Cold War	Q8683		1947-01-01T00:00:00Z	1991-01-01T00:00:00Z	
+dvp_073_event_9	Hungarian Revolution of 1956	Q164348		1956-10-23T00:00:00Z	1956-11-10T00:00:00Z	
+dvp_073_event_10	Cold War	Q8683		1947-01-01T00:00:00Z	1991-01-01T00:00:00Z	
+dvp_073_event_11	Cold War	Q8683		1947-01-01T00:00:00Z	1991-01-01T00:00:00Z	
+dvp_073_event_12	Second Sino-Japanese War	Q170314		1937-07-07T00:00:00Z	1945-09-09T00:00:00Z	
+dvp_073_event_13	March on Washington	Q1128871				1963-08-27T20:00:00Z
+dvp_073_event_14	16th Street Baptist Church bombing	Q3875690				1963-09-15T00:00:00Z
+dvp_073_event_15	George Wallace presidential campaign, 1968	Q5545837				1968-01-01T00:00:00Z
+dvp_073_event_16	Freedom Summer	Q3024031				1964-05-31T20:00:00Z
+dvp_073_event_17	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_073_event_18	Dominican Civil War	Q955457				1965-09-03T00:00:00Z
+dvp_073_event_19	Dominican Civil War	Q955457				1965-09-03T00:00:00Z
+dvp_073_event_20	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_073_event_21	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_073_event_22	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_073_event_23	Civil Rights Act of 1964	Q585962				1964-07-02T00:00:00Z
+dvp_073_event_24	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_073_event_25	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_073_event_26	Vietnam Summer Campaign	Q107527919		1967-06-01T00:00:00Z	1967-08-01T00:00:00Z	
+dvp_073_event_27	World War II	Q362		1939-09-01T00:00:00Z	1945-09-02T00:00:00Z	
+dvp_073_event_28	Vietnam Summer Campaign	Q107527919		1967-06-01T00:00:00Z	1967-08-01T00:00:00Z	
+dvp_073_event_29	Vietnam Summer Campaign	Q107527919		1967-06-01T00:00:00Z	1967-08-01T00:00:00Z	
+dvp_073_event_30	My Lai Massacre	Q183421				1968-03-16T00:00:00Z
+dvp_073_event_31	1968 Democratic National Convention	Q83516				1968-01-01T00:00:00Z
+dvp_073_event_32	1968 Democratic National Convention	Q83516				1968-01-01T00:00:00Z
+dvp_073_event_33	assassination of Robert F. Kennedy	Q1187550				1968-06-05T00:00:00Z
+dvp_073_event_34	Tet Offensive	Q82542		1968-01-30T00:00:00Z	1968-09-23T00:00:00Z	
+dvp_073_event_35	Tet Offensive	Q82542		1968-01-30T00:00:00Z	1968-09-23T00:00:00Z	
+dvp_073_event_36	1968 Democratic National Convention	Q83516				1968-01-01T00:00:00Z
+dvp_073_event_37	Parkhurst Hall Takeover	Q101424872				1969-05-06T00:00:00Z
+dvp_073_event_38	Parkhurst Hall Takeover	Q101424872				1969-05-06T00:00:00Z
+dvp_073_event_39	Parkhurst Hall Takeover	Q101424872				1969-05-06T00:00:00Z
+dvp_073_event_40	Parkhurst Hall Takeover	Q101424872				1969-05-06T00:00:00Z
+dvp_073_event_41	Parkhurst Hall Takeover	Q101424872				1969-05-06T00:00:00Z
+dvp_073_event_42	1968 Democratic National Convention	Q83516				1968-01-01T00:00:00Z
+dvp_073_event_43	Kent State shootings	Q482635		1970-05-04T00:00:00Z	1970-05-04T00:00:00Z	1970-05-04T00:00:00Z
+dvp_073_event_44	Vietnamization	Q927708				
+dvp_073_event_45	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_073_event_46	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_073_event_47	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_073_event_48	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_073_event_49	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
