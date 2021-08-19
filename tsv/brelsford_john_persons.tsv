@@ -1,44 +1,44 @@
-id	persName
-dvp_078_person_0	Emily [R.] Everhard
-dvp_078_person_1	John [E.] Brelsford
-dvp_078_person_2	Susan [Brelsford]
-dvp_078_person_3	[the Rev. Dr.] Martin Luther King [Jr.]
-dvp_078_person_4	Martin Luther King
-dvp_078_person_5	[President] Richard [M.] Nixon
-dvp_078_person_6	JFK [President John F. Kennedy]
-dvp_078_person_7	[President] Lyndon [B.] Johnson
-dvp_078_person_8	[Herbert H.] “Herb” Stauffer
-dvp_078_person_9	Ray [L.] Good
-dvp_078_person_10	[Jeffrey P.] “Jeff” Searles
-dvp_078_person_11	President [John G.] Kemeny
-dvp_078_person_12	Costin [sic; William B.] Shockley [Jr.]
-dvp_078_person_13	David [A.] White [Class of 1971]
-dvp_078_person_14	John [G.] Spritzler [Class of 1968]
-dvp_078_person_15	John
-dvp_078_person_16	Harvey [A.] Katz [Class of 1970]
-dvp_078_person_17	Guy [F] Brandenburg [Class of 1971]
-dvp_078_person_18	Burleigh [M.] Smith [Class of 1971]
-dvp_078_person_19	[Howard S.] “Howie” Becker [Class of 1972]
-dvp_078_person_20	David White
-dvp_078_person_21	[James C.] “Jim” Knowles
-dvp_078_person_22	[Mary] Tyler Knowles
-dvp_078_person_23	[Jonathan] “Jon” Minsky [sic; Mirsky]
-dvp_078_person_24	Kemeny
-dvp_078_person_25	Dickey
-dvp_078_person_26	John [S.] Dickey [Class of 1929]
-dvp_078_person_27	Dickey
-dvp_078_person_28	John Kemeny
-dvp_078_person_29	Paul [W.] Beach [Jr., Class of 1967]
-dvp_078_person_30	Howie—Howie Becker
-dvp_078_person_31	Paul
-dvp_078_person_32	Howie
-dvp_078_person_33	Cesar Chavez
-dvp_078_person_34	David White
-dvp_078_person_35	Guy Brandenburg
-dvp_078_person_36	President Kemeny
-dvp_078_person_37	Kemeny
-dvp_078_person_38	Paul Beach
-dvp_078_person_39	Nixon
-dvp_078_person_40	Laura [P. Brelsford]
-dvp_078_person_41	Jennifer [R. Brelsford]
-dvp_078_person_42	Emily
+id	persName	QID	dvp_id
+dvp_078_person_0	Emily [R.] Everhard		dvp_0558
+dvp_078_person_1	John [E.] Brelsford		dvp_0723
+dvp_078_person_2	Susan [Brelsford]		dvp_0724
+dvp_078_person_3	Martin Luther King Jr.	Q8027	
+dvp_078_person_4	Martin Luther King Jr.	Q8027	
+dvp_078_person_5	Richard Nixon	Q9588	
+dvp_078_person_6	John F. Kennedy	Q9696	
+dvp_078_person_7	Lyndon B. Johnson	Q9640	
+dvp_078_person_8	[Herbert H.] “Herb” Stauffer		dvp_0725
+dvp_078_person_9	Ray [L.] Good		dvp_0726
+dvp_078_person_10	[Jeffrey P.] “Jeff” Searles		dvp_0727
+dvp_078_person_11	John George Kemeny	Q28900	
+dvp_078_person_12	William Shockley	Q163415	
+dvp_078_person_13	David [A.] White [Class of 1971]		dvp_0728
+dvp_078_person_14	John [G.] Spritzler [Class of 1968]		dvp_0013
+dvp_078_person_15	John		dvp_0013
+dvp_078_person_16	Harvey [A.] Katz [Class of 1970]		dvp_0729
+dvp_078_person_17	Guy [F] Brandenburg [Class of 1971]		dvp_0444
+dvp_078_person_18	Burleigh [M.] Smith [Class of 1971]		dvp_0730
+dvp_078_person_19	[Howard S.] “Howie” Becker [Class of 1972]		dvp_0731
+dvp_078_person_20	David White		dvp_0728
+dvp_078_person_21	[James C.] “Jim” Knowles		dvp_0732
+dvp_078_person_22	[Mary] Tyler Knowles		dvp_0733
+dvp_078_person_23	[Jonathan] “Jon” Minsky [sic; Mirsky]		dvp_0520
+dvp_078_person_24	John George Kemeny	Q28900	
+dvp_078_person_25	John Sloan Dickey	Q3182471	
+dvp_078_person_26	John Sloan Dickey	Q3182471	
+dvp_078_person_27	John Sloan Dickey	Q3182471	
+dvp_078_person_28	John George Kemeny	Q28900	
+dvp_078_person_29	Paul [W.] Beach [Jr., Class of 1967]		dvp_0699
+dvp_078_person_30	Howie—Howie Becker		dvp_0731
+dvp_078_person_31	Paul		dvp_0699
+dvp_078_person_32	Howie		dvp_0731
+dvp_078_person_33	Cesar Chavez	Q355425	
+dvp_078_person_34	David White		dvp_0728
+dvp_078_person_35	Guy Brandenburg		dvp_0444
+dvp_078_person_36	John George Kemeny	Q28900	
+dvp_078_person_37	John George Kemeny	Q28900	
+dvp_078_person_38	Paul Beach		dvp_0699
+dvp_078_person_39	Richard Nixon	Q9588	
+dvp_078_person_40	Laura [P. Brelsford]		dvp_0734
+dvp_078_person_41	Jennifer [R. Brelsford]		dvp_0735
+dvp_078_person_42	Emily		dvp_0558
