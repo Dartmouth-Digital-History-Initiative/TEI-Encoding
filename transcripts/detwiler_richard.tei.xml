@@ -59,10 +59,10 @@
   </teiHeader>
   <text>
     <body>
-      <u who="DIM">Okay. Hello, this is <persName>Chileta Dim</persName>, and I am here at <orgName>Rauner Special Collections Library</orgName> at <orgName>Dartmouth College</orgName> in <placeName>Hanover, New Hampshire</placeName>. It is <date when="2016-05-26">May 26, 2016</date>, 1 p.m., and I am here with <persName>Richard Detwiler</persName>, and he is—<persName>Rick</persName>, where are you?</u>
+      <u who="DIM">Okay. Hello, this is <persName>Chileta Dim</persName>, and I am here at <placeName>Rauner Special Collections Library</placeName> at <orgName>Dartmouth College</orgName> in <placeName>Hanover, New Hampshire</placeName>. It is <date when="2016-05-26">May 26, 2016</date>, 1 p.m., and I am here with <persName>Richard Detwiler</persName>, and he is—<persName>Rick</persName>, where are you?</u>
       <u who="DETWILER">Yeah, I’m here.</u>
       <u who="DIM">Oh, no, where are you physically?</u>
-      <u who="DETWILER">Oh, I am in<placeName> Ferrisburgh, Vermont</placeName>.</u>
+      <u who="DETWILER">Oh, I am in <placeName> Ferrisburgh, Vermont</placeName>.</u>
       <u who="DIM"><placeName>Ferrisburgh, Vermont</placeName>. Wonderful. And we’ll start our interview. So, <persName>Rick</persName>, just to start it off, when and where were you born?</u>
       <u who="DETWILER">Oh, you’re going way back, aren’t you?</u>
       <u who="DIM">Yeah. [Chuckles.]</u>
@@ -74,8 +74,8 @@
       <u who="DIM">Mmm. So you said your family moved around a lot. </u>
       <u who="DETWILER">Yeah.</u>
       <u who="DIM">Was there a particular reason?</u>
-      <u who="DETWILER">Yeah, my father’s job. He would—he worked for <orgName>Atlantic Refining</orgName>, which turned into <orgName>ARCO</orgName> [<orgName>Atlantic Richfield Company</orgName>]—you know, [a] gas company. He was in sales, and then he was in real estate, and then he was in development for them, so he would move around from region to region every four or five years.</u>
-      <u who="DIM">Mmm. But it seems like it was all on the <placeName>East Coast</placeName>.</u>
+      <u who="DETWILER">Yeah, my father’s job. He would—he worked for <orgName>Atlantic Refining</orgName>, which turned into <orgName>ARCO [Atlantic Richfield Company]</orgName>—you know, [a] gas company. He was in sales, and then he was in real estate, and then he was in development for them, so he would move around from region to region every four or five years.</u>
+      <u who="DIM">Mmm. But it seems like it was all on the East Coast.</u>
       <u who="DETWILER">Yeah, exactly. We didn’t do much traveling. Went to <placeName>New Jersey</placeName> to visit grandparents. As a family, I think that’s as far north, south, east or west as we got. [Chuckles.]</u>
       <u who="DIM">Oh, wow. [Chuckles.] Were you close with your grandparents in particular?</u>
       <u who="DETWILER">No. My father’s parents had died before I was born. My mother’s father died when I was about 10 or 12, and her mother then had Alzheimer’s, and she lived with us a little bit, but it wasn’t the typical grandmother, you know, and then she died when I was in college.</u>
@@ -88,7 +88,7 @@
       <u who="DIM">Mm-hm. </u>
       <u who="DETWILER">And he was on a minesweeper. Actually, he was sweeping the coast off of <placeName>Normandy [France]</placeName> on <date when="1944-06-06">D-Day</date>.</u>
       <u who="DIM">Oh, wow!</u>
-      <u who="DETWILER">And my wife’s father was also in the <orgName>Navy</orgName>. He was a radioman on the [USS] Enterprise, and he was in early on. Actually, the Enterprise was pulling into <placeName>[Naval Station] Pearl Harbor [Hawaii]</placeName> on December 7th, and they deflected; they told them to stay out, so they stayed out and he got away from that, but he went through the whole<name type="event">Pacific campaign</name>. He saw a lot of action there.And both my mother’s brothers were doctors in the <orgName>Navy</orgName>.</u>
+      <u who="DETWILER">And my wife’s father was also in the <orgName>Navy</orgName>. He was a radioman on the <orgName>[USS] Enterprise</orgName>, and he was in early on. Actually, the <orgName>Enterprise</orgName> was pulling into <placeName>[Naval Station] Pearl Harbor [Hawaii]</placeName> on <date when="1941-12-07">December 7th</date>, and they deflected; they told them to stay out, so they stayed out and he got away from that, but he went through the whole<name type="event">Pacific campaign</name>. He saw a lot of action there.And both my mother’s brothers were doctors in the <orgName>Navy</orgName>.</u>
       <u who="DIM">Oh.</u>
       <u who="DETWILER">So, yeah. Grandparents, no, but certainly the—you know, the great gen— the greatest generation—you know, <name type="event">the World War II</name> group—</u>
       <u who="DIM">Mm-hm.</u>
@@ -96,7 +96,7 @@
       <u who="DIM">Mmm. So did your father or family members talk a lot about their experience in <name type="event">World War II</name> as you were growing up?</u>
       <u who="DETWILER">No, they didn’t talk a lot about it, but they didn’t avoid it, either. Occasionally my father would bring it up, or I would bring it up, ask a question or something like that, but it wasn’t a topic on the table by the time I was a conscious little toddler.</u>
       <u who="DIM">[Chuckles.]</u>
-      <u who="DETWILER">And he would then—you know, he didn’t—he wasn’t—he didn’t stay in the Reserves. He wasn’t in for a career. He was—I think he went in about ’41 or ’42. Yeah, my brother was born in <date when="1944">’44</date>, so he was still around in <date when="1943">late ’43</date>. But then, again, being—he was a skipper of a minesweeper, so they went overseas. And then he got out right at the end of the war.</u>
+      <u who="DETWILER">And he would then—you know, he didn’t—he wasn’t—he didn’t stay in the <orgName>Reserves</orgName>. He wasn’t in for a career. He was—I think he went in about <date when="1941">’41</date> or <date when ="1942">’42</date>. Yeah, my brother was born in <date when="1944">’44</date>, so he was still around in <date when="1943">late ’43</date>. But then, again, being—he was a skipper of a minesweeper, so they went overseas. And then he got out right at the end of the war.</u>
       <u who="DIM">Could you tell me your parents’ names? Quickly.</u>
       <u who="DETWILER">Yeah, my mother was <persName>Muriel [Foulk] Detwiler [Bridge]</persName>.  My father was <persName>Charles [K.] Detwiler</persName>.</u>
       <u who="DIM">Do you know your mother’s maiden name?</u>
@@ -136,9 +136,9 @@
       <u who="DIM">[Chuckles.]</u>
       <u who="DETWILER">I showed up. I did come early freshman year for practice, but, no, I—I was a walk-on.</u>
       <u who="DIM">Okay. </u>
-      <u who="DETWILER">I think I got ten minutes of—of Ivy League time my senior year. I think that was my total.</u>
+      <u who="DETWILER">I think I got ten minutes of—of <orgName>Ivy League</orgName> time my senior year. I think that was my total.</u>
       <u who="DIM">[Chuckles.]</u>
-      <u who="DETWILER">He put me in when we played [unintelligible; 9:09] or KUA [<orgName>Kimball Union Academy</orgName>], but—[Chuckles.]</u>
+      <u who="DETWILER">He put me in when we played [unintelligible; 9:09] or <orgName>KUA [Kimball Union Academy]</orgName>, but—[Chuckles.]</u>
       <u who="DIM">Did your parents go to college?</u>
       <u who="DETWILER">Yeah, they both went to <orgName>Penn [University of Pennsylvania</orgName>].</u>
       <u who="DIM">Mm-hm. <orgName>University of Pennsylvania</orgName> or <orgName>Penn State [Pennsylvania State University]</orgName>?</u>
@@ -146,7 +146,7 @@
       <u who="DIM">Okay. </u>
       <u who="DETWILER">And then he had to drop out.  He ran out of money, and he worked for a year or two, and then worked—and then—he was living in <placeName>Philly</placeName>, so he went to <orgName>Penn</orgName> then. Worked himself through the rest of college.</u>
       <u who="DIM">So—so what—how did you decide on <orgName>Dartmouth</orgName>?</u>
-      <u who="DETWILER">I got a ROTC scholarship.</u>
+      <u who="DETWILER">I got a <orgName>ROTC</orgName> scholarship.</u>
       <u who="DIM">Hmm!</u>
       <u who="DETWILER">And I think that’s why I got into <orgName>Dartmouth</orgName>, because they had 25 slots, and I was one of them that had put <orgName>Dartmouth</orgName> on its list. [Chuckles.] </u>
       <u who="DIM">[Chuckles.]</u>
@@ -155,7 +155,7 @@
       <u who="DETWILER"><orgName>R-O-T-C</orgName>, yes.</u>
       <u who="DIM">Oh, okay, <orgName>R-O-T-C</orgName> scholarship, okay.</u>
       <u who="DETWILER">Yeah.</u>
-      <u who="DIM">So you were—you were thinking about joining the military even before starting school.</u>
+      <u who="DIM">So you were—you were thinking about joining the <orgName>military</orgName> even before starting school.</u>
       <u who="DETWILER">Well, yes. I mean, you know, consider the time, which is, you know, the subject of what we’re talking about here.</u>
       <u who="DIM">Mm-hm, mm-hm.</u>
       <u who="DETWILER">And there were student deferments, still.</u>
@@ -205,7 +205,7 @@
       <u who="DETWILER">Yeah, the three that are <persName>Jon [T.] Roll</persName> <orgName>[Class of 1967]</orgName>, <persName>[Edward N.] “Ed” Damon</persName> <orgName>[Class of 1969]</orgName> and <persName>[Frederick S.] “Rick” Lounsbury [Jr.,</persName> <orgName>Class of 1969]</orgName>. </u>
       <u who="DIM">Can you spell his last name?</u>
       <u who="DETWILER"><persName>Lounsbury</persName> is L-o-u-n-s-b-u-r-y.</u>
-      <u who="DIM">Okay. Thank you.Yeah, so as you’re in <orgName>ROTC</orgName> at <orgName>Dartmouth</orgName> in this time, <placeName>Vietnam</placeName> is—is amping up. Was there any major discussion on campus that you were tuned into?</u>
+      <u who="DIM">Okay. Thank you.Yeah, so as you’re in <orgName>ROTC</orgName> at <orgName>Dartmouth</orgName> in this time, <name type="event">Vietnam</name> is—is amping up. Was there any major discussion on campus that you were tuned into?</u>
       <u who="DETWILER">Oh, yeah, big time, right? I mean, the—the big protest, <name type="event">Occupy Parkhurst [sic; the Parkhurst Hall takeover]</name>—that was all that—that spring.</u>
       <u who="DIM">Mm-hm.</u>
       <u who="DETWILER">Yeah, throughout, especially around elections, you know. I mean,—I—I voted for<persName> [Eugene J.] McCarthy</persName> and <persName>[George S.] McGovern</persName>, but I didn’t vote for <persName>[Richard M.] Nixon</persName>! [Laughs.] I didn’t want to go to <placeName>Vietnam</placeName>. I thought it was terrible there. Not enough that I was going to, you know, give up my commission or—</u>
@@ -216,15 +216,15 @@
       <u who="DIM">Mm-hm, yeah, absolutely.</u>
       <u who="DETWILER">A lot.</u>
       <u who="DIM">Mm-hm.</u>
-      <u who="DETWILER">So it was minor, but—there weren’t—being in ROTC was a very interesting—was—in my experience, no way a marker of—of who I was or how I interacted with friends, you know? </u>
+      <u who="DETWILER">So it was minor, but—there weren’t—being in <orgName>ROTC</orgName> was a very interesting—was—in my experience, no way a marker of—of who I was or how I interacted with friends, you know? </u>
       <u who="DIM">Mm-hm.</u>
-      <u who="DETWILER">My roommate in the house was in all the protests. I think he was in Park- —</u>
+      <u who="DETWILER">My roommate in the house was in all the protests. I think he was in <name type="event">Park</name>- —</u>
       <u who="DIM">Mmm. [Chuckles.]</u>
       <u who="DETWILER">So that was not viewed as, you know, your—your statement of who you are. It was, “Okay, some people signed up, some people didn’t. All right.” So—but, yes, there were lots of discussions. I can’t recall the—the texture of them other than, you know, what you know about from having studied that period.</u>
       <u who="DIM">Mm-hm. Do you have your roommate’s name?</u>
-      <u who="DETWILER">Yeah,<persName> [Peter M.] “Pete” Bryant</persName> [<orgName>Class of 1970</orgName>]. </u>
+      <u who="DETWILER">Yeah,<persName> [Peter M.] “Pete” Bryant</persName> <orgName>[Class of 1970]</orgName>. </u>
       <u who="DIM"><persName>Bryant</persName>. Spell it. Can you spell the last name?</u>
-      <u who="DETWILER"><persName>B-r-y-a-n-t</persName>.</u>
+      <u who="DETWILER">B-r-y-a-n-t.</u>
       <u who="DIM">Okay. Thank you.</u>
       <u who="DETWILER">I haven’t seen or heard of him since <date when="1969-06">June of 1969</date>, so—[Chuckles.]</u>
       <u who="DIM">[Chuckles.] Okay. Maybe we can get in contact with him.</u>
@@ -286,7 +286,8 @@
       <u who="DIM">Mmm. So—so you road-tripped from <placeName>New York</placeName> to <placeName>California</placeName>.</u>
       <u who="DETWILER">Yeah.</u>
       <u who="DIM">Yeah. And knowing what you were about to embark on, do you remember what you were feeling at that time? How long was this trip? Were you alone?</u>
-      <u who="DETWILER">I was alone. I just—I just [unintelligible; 26:03] out there—you know, 12 hours a day, probably four—three, <date>four days</date>. No, I was excited. I was glad I was moving on—you know, doing something. You know, I knew where I was going on a tour. It wasn’t like, Oh, God, am I gonna get shot or anything?DIM:`	Mm-hm.</u>
+      <u who="DETWILER">I was alone. I just—I just [unintelligible; 26:03] out there—you know, 12 hours a day, probably four—three, <date>four days</date>. No, I was excited. I was glad I was moving on—you know, doing something. You know, I knew where I was going on a tour. It wasn’t like, Oh, God, am I gonna get shot or anything?</u>
+      <u who="DIM">DIM:`Mm-hm.</u>
       <u who="DETWILER">And a little nervous about taking on the responsibility of suddenly having, you know, some enlisted guys that you’re responsible for, but—well, you know it. I don’t know—[unintelligible; 26:29] you’re involved in some other things. As a college student, you’re responsible for only one person. [Chuckles.]</u>
       <u who="DIM">Right. [Chuckles.]</u>
       <u who="DETWILER">And then suddenly, at 21 years old, you got this other—there’s [unintelligible; 26:41] other systems that support you, but—but I certainly didn’t dread it. I think I was looking forward to the next step. I tend to see things positively. I don’t think I was thinking, Oh, I wish I was traveling in <placeName>Europe</placeName> with my buddies. I was ready to go.</u>
@@ -301,7 +302,7 @@
       <u who="DIM">Mm-hm.</u>
       <u who="DETWILER">And then in the summers. You went six weeks each summer,—</u>
       <u who="DIM">Mm-hm.</u>
-      <u who="DETWILER">—which was, I found, just fascinating. The first year, we went to <placeName>Puerto Rico</placeName>. I was on a cruiser out of <placeName>Charleston, South Carolina</placeName>. Went to <placeName>Puerto Rico</placeName> and—I’d never been out—you know, out of the <placeName>Northeast</placeName>, so—</u>
+      <u who="DETWILER">—which was, I found, just fascinating. The first year, we went to <placeName>Puerto Rico</placeName>. I was on a cruiser out of <placeName>Charleston, South Carolina</placeName>. Went to <placeName>Puerto Rico</placeName> and—I’d never been out—you know, out of the Northeast, so—</u>
       <u who="DIM">Mm-hm.</u>
       <u who="DETWILER">Then the second summer, we spent three weeks in <placeName>Virginia</placeName> with the <orgName>Marines [the U.S. Marine Corps]</orgName>, trying to recruit us to join the Marine option, and three weeks in <placeName>Corpus Christi [Texas]</placeName> with an aviation group, trying to—they wanted us to choose those branches, you know? And I got—got to fly a plane, got to do touch-and-go’s. I mean, I was doing all this stuff that, you know, my buddies weren’t doing. It was very interesting.</u>
       <u who="DIM">Mmm. </u>
@@ -381,7 +382,7 @@
       <u who="DIM">So—so going back to the destroyer, you’re living in a very confined space, but a lot of people with the same—with the same people, and was sending letters easy? Were you able to contact the family regularly?</u>
       <u who="DETWILER">Yeah, you won’t believe it, someone your age, what it was like [chuckles] [unintelligible; 37:46], right? These old letters that you would fold up and seal and mail them off. That was it.</u>
       <u who="DIM">[Chuckles.]</u>
-      <u who="DETWILER">Yeah, we were able—we had mail. When you’re deployed, you know, every—every time you—you take on some fuel or something, there’s a mail bag that goes over and comes back, so you’d get mail once a week. You’d send it once a week. It took <date>two weeks</date> to get anywhere, but—[Chuckles.]</u>
+      <u who="DETWILER">Yeah, we were able—we had mail. When you’re deployed, you know, every—every time you—you take on some fuel or something, there’s a mail bag that goes over and comes back, so you’d get mail once a week. You’d send it once a week. It took two weeks to get anywhere, but—[Chuckles.]</u>
       <u who="DIM">[Chuckles.]</u>
       <u who="DETWILER">There—there was that process, but, yeah, certainly no e-mail and no phone or that kind of thing. But, you know, that—that’s what it was, so you didn’t know any better. [Chuckles.]</u>
       <u who="DIM">Was there—can you describe the sort of letters you were sending? Was it mainly to family? Did you have a girlfriend? What was it, friends?</u>
@@ -475,8 +476,8 @@
       <u who="DIM">[Chuckles.] Do you know how it’s spelled?</u>
       <u who="DETWILER"><persName>“Guywee”</persName> is “lieutenant.”</u>
       <u who="DIM">Okay.</u>
-      <u who="DETWILER">Or was it <persName>Kim</persName>? I—I don’t remem- —probably <persName>Lim</persName>, <persName>L-i-m</persName>. And then I had a—he was relieved by an ensign whose name was I think [<persName>L-i-e-n</persName>, <persName>Lien</persName>? 49;52]. I’m not sure. Long time [ago].</u>
-      <u who="DIM">Who—who else were you interacting with in <placeName>Vietnam</placeName>, apart from your navy counterparts?</u>
+      <u who="DETWILER">Or was it <persName>Kim</persName>? I—I don’t remem- —probably <persName>Lim</persName>, L-i-m. And then I had a—he was relieved by an ensign whose name was I think [L-i-e-n, <persName>Lien</persName>? 49;52]. I’m not sure. Long time [ago].</u>
+      <u who="DIM">Who—who else were you interacting with in <placeName>Vietnam</placeName>, apart from your <orgName>navy</orgName> counterparts?</u>
       <u who="DETWILER">Well, the other officers. There were three or four of us. I was doing fishing and agriculture. There was a guy who was doing pigs and chickens, literally.</u>
       <u who="DIM">Mmm!</u>
       <u who="DETWILER">There was a guy who was doing dependent housing.</u>
@@ -489,14 +490,14 @@
       <u who="DIM">Oh, wow! [Chuckles.]</u>
       <u who="DETWILER">And that was—jeez, 40 years ago [unintelligible; 50:42]—go back. It was a long time ago.</u>
       <u who="DIM">Yeah, yeah. Do you remember his name?</u>
-      <u who="DETWILER">Yeah, his name is <persName>John Kane</persName>, <persName>K-a-n-e</persName>. Now, he’s an <orgName>Academy</orgName> guy, but he was different. [Chuckles.]</u>
+      <u who="DETWILER">Yeah, his name is <persName>John Kane</persName>, K-a-n-e. Now, he’s an <orgName>Academy</orgName> guy, but he was different. [Chuckles.]</u>
       <u who="DIM">[Chuckles.] Yeah. Was there any major take-aways or memories from—from this time that you want to speak about?</u>
       <u who="DETWILER">Oh, yeah. A big piece that affected me was just the notion of living in a different culture.Mm-hm.</u>
       <u who="DETWILER">I—I really thrived on that. You know, I came back and I got married. Met my wife, I got married. We immediately went in the <orgName>Peace Corps</orgName>. [Chuckles.]</u>
       <u who="DIM">[Chuckles.] Oh, wow!</u>
       <u who="DETWILER">[cross-talk; unintelligible; 51:21] two years in <placeName>Botswana</placeName>. And then we came back here for 10 years, and then we went overseas again and spent 21 years overseas. And—and that I think was all seeded by my year in <placeName>Vietnam</placeName>. It wasn’t from graduating from school in <placeName>Buffalo, New York</placeName>, for sure. [Chuckles.]</u>
       <u who="DIM">[Chuckles.] Right.</u>
-      <u who="DETWILER">So that notion of the world as a big place—and even now, I’m still doing consulting work. I mean, I just got back from <placeName>India</placeName> on Monday, and so that travel thing, of—of—of living in the country and getting to know it was sparked by that time.The other piece was—and this gets a little—perhaps it sounds trite, but it—it certainly is an impact on me, is—and what’s brought it out, of course, is all our military incursions since then—<placeName>Iraq</placeName> and Afghan- —being the most egregious, but how it just doesn’t work. I mean, it was evident to me— in traveling around a lot, I got to see a lot of different situations, and—you know, although I was never in combat, right? But I got to see—</u>
+      <u who="DETWILER">So that notion of the world as a big place—and even now, I’m still doing consulting work. I mean, I just got back from <placeName>India</placeName> on Monday, and so that travel thing, of—of—of living in the country and getting to know it was sparked by that time.The other piece was—and this gets a little—perhaps it sounds trite, but it—it certainly is an impact on me, is—and what’s brought it out, of course, is all our <orgName>military</orgName> incursions since then—<placeName>Iraq</placeName> and <placeName>Afghan</placeName>- —being the most egregious, but how it just doesn’t work. I mean, it was evident to me— in traveling around a lot, I got to see a lot of different situations, and—you know, although I was never in combat, right? But I got to see—</u>
       <u who="DIM">Right.</u>
       <u who="DETWILER">—and it just doesn’t work. You can’t go in and [chuckles] fight a guerrilla war, the kind of thing we’re doing now, and expect to—to win. [unintelligible; 52:44]. You know, you got to get the hearts and minds. And I felt what I was doing was working in that direction.</u>
       <u who="DIM">Mm-hm.</u>
@@ -516,7 +517,7 @@
       <u who="DIM">Oh, wow!</u>
       <u who="DETWILER">And they said, “That’s enough. We gotta do something about it.” So what they did was they—</u>
       <u who="DIM">When was that?</u>
-      <u who="DETWILER">—made an office of race relations. And I got in on the ground floor of it. And they—what they wanted was—they had a center in the <placeName>West Coast</placeName> and a center in the <placeName>East Coast</placeName>, and in each center they wanted—they set up teams, and they wanted—and they trained us in race relations instruction, a particular program. And then we—I was in <placeName>Newport</placeName> with eight other people. And what they were—I was the token white officer. [Chuckles.]</u>
+      <u who="DETWILER">—made an office of race relations. And I got in on the ground floor of it. And they—what they wanted was—they had a center in the West Coast and a center in the East Coast, and in each center they wanted—they set up teams, and they wanted—and they trained us in race relations instruction, a particular program. And then we—I was in <placeName>Newport</placeName> with eight other people. And what they were—I was the token white officer. [Chuckles.]</u>
       <u who="DIM">[Chuckles.]</u>
       <u who="DETWILER">And there was a black officer, and there was a white enlisted and a black enlisted guy, and we would go out in tea- —and there were three or four of them, I guess. And we would go out in teams, a white guy and a black guy, and an officer and  an enlisted,—</u>
       <u who="DIM">Mm-hm.</u>
@@ -540,7 +541,7 @@
       <u who="DIM">Mmm. Did you think—what was the training for something like that like? What—what were you learning in those initial weeks?</u>
       <u who="DETWILER">They sent me to a seven-week institute called the <orgName>Defense Race Relations Institute [now the Defense Equal Opportunity Management Institute]</orgName>. [Chuckles.]</u>
       <u who="DIM">[Chuckles.]</u>
-      <u who="DETWILER">Located in <placeName>Cocoa Beach, Florida</placeName>, on an <orgName>Air Force</orgName> base down there, where they—or people from all branches of the military, and it was basically a seven-week crash course in race relations/adult learning/instructing—you know, with the background that one would need for that. There was a curriculum, but we were able to give input to it, which was then a package which we presented. And it—it consisted of basically a seminar format—I mean, the training was that as well: seminar format with prompts, videos, reading, activities. You know, you’d do the activity where you designate some people as the have-nots and other people as the haves, and, you know, you go through that simulation, those kinds of things.And then there were some field trips to—we went down to <placeName>Miami</placeName> and, you know, to wherever the—the—the wrong side of the tracks was. We did the <name type="event">Meals on Wheels</name> thing for an afternoon, I think. I don’t know.</u>
+      <u who="DETWILER">Located in <placeName>Cocoa Beach, Florida</placeName>, on an <orgName>Air Force</orgName> base down there, where they—or people from all branches of the <orgName>military</orgName>, and it was basically a seven-week crash course in race relations/adult learning/instructing—you know, with the background that one would need for that. There was a curriculum, but we were able to give input to it, which was then a package which we presented. And it—it consisted of basically a seminar format—I mean, the training was that as well: seminar format with prompts, videos, reading, activities. You know, you’d do the activity where you designate some people as the have-nots and other people as the haves, and, you know, you go through that simulation, those kinds of things.And then there were some field trips to—we went down to <placeName>Miami</placeName> and, you know, to wherever the—the—the wrong side of the tracks was. We did the <orgName>Meals on Wheels</orgName> thing for an afternoon, I think. I don’t know.</u>
       <u who="DIM">Mmm.</u>
       <u who="DETWILER">But it was a—the design of the program was to prepare people to return to their branch of service and to their post and, you know, be able to conduct actual training in—really an attitude adjustment. [Chuckles.]</u>
       <u who="DIM">Mm-hm. Do you think the trainings that you were giving—that they were received well?</u>
@@ -554,13 +555,13 @@
       <u who="DIM">Mm-hm. What did you—what do you think you learned in this very interesting period of your life?</u>
       <u who="DETWILER">Yeah, that—that year and a half, you mean?</u>
       <u who="DIM">Mm-hm. Yeah, as a race relations specialist.</u>
-      <u who="DETWILER">Well, on a plus side, I learned a lot about my own perspective on race. Even growing up in, you know, an integrated environment, particularly—I lived in <placeName> Philly</placeName>. You know, good friends who were—who were all kinds of shades of the rainbow. But I realized how institutional forces, you know, do have an impact on individuals, so it was a good self-reflection time.I learned a lot of skills, I think, in terms of working with adults as learners.</u>
+      <u who="DETWILER">Well, on a plus side, I learned a lot about my own perspective on race. Even growing up in, you know, an integrated environment, particularly—I lived in <placeName>Philly</placeName>. You know, good friends who were—who were all kinds of shades of the rainbow. But I realized how institutional forces, you know, do have an impact on individuals, so it was a good self-reflection time.I learned a lot of skills, I think, in terms of working with adults as learners.</u>
       <u who="DIM">Mmm.</u>
       <u who="DETWILER">I think I learned some human relations things: how to listen, how to—how to speak in a way that will be heard.</u>
       <u who="DIM">Mm-hm. </u>
       <u who="DETWILER">I also learned—I pretty much decided I didn’t want to stay in the <orgName>Navy</orgName>. It was way too regimented. [Chuckles.]</u>
-      <u who="DIM">[Chuckles.] I would imagine that this sort of position would be especially interesting after—you know, the ’60s had just passed, and there was a lot of—the <name type="event">civil rights movement</name> was going on at that time, and—yeah. How were—how was interactions with—with the black soldiers that you were working on this project with?</u>
-      <u who="DETWILER">Yeah, no, you’re right, the timing was fascinating because that was the time—you know, I mean, the <name type="event">civil rights movement</name>—all right, it was law, but that didn’t mean—that didn’t mean nothin’ in some places, right? [Chuckles.]</u>
+      <u who="DIM">[Chuckles.] I would imagine that this sort of position would be especially interesting after—you know, the ’60s had just passed, and there was a lot of—the civil rights movement was going on at that time, and—yeah. How were—how was interactions with—with the black soldiers that you were working on this project with?</u>
+      <u who="DETWILER">Yeah, no, you’re right, the timing was fascinating because that was the time—you know, I mean, the civil rights movement—all right, it was law, but that didn’t mean—that didn’t mean nothin’ in some places, right? [Chuckles.]</u>
       <u who="DIM">Mm-hm, mm-hm.</u>
       <u who="DETWILER">So what was happening was there was, you know, a big backlash coming, so—</u>
       <u who="DIM">Mmm.</u>
@@ -611,7 +612,7 @@
       <u who="DETWILER">And we had no obligations. We had no kids—</u>
       <u who="DIM">Mm-hm.</u>
       <u who="DETWILER">—and not real money hungry, and, yeah, it sounded like the right thing to do at the right—at the time, and it certainly was.</u>
-      <u who="DIM">How did you tie in the <orgName>Peace Corp</orgName>s compared to your time in <placeName>Vietnam</placeName>?</u>
+      <u who="DIM">How did you tie in the <orgName>Peace Corps</orgName> compared to your time in <placeName>Vietnam</placeName>?</u>
       <u who="DETWILER">Very—in many ways, very similar, okay?</u>
       <u who="DIM">Mm-hm.</u>
       <u who="DETWILER">In terms of needing to understand the culture. I kind of blew by that, but, you know, working with a—with a program as an adviser—the <orgName>Navy</orgName> doesn’t give you much intercultural preparation for that. You’re really winging it—</u>
@@ -650,7 +651,7 @@
       <u who="DIM">Mm-hm. </u>
       <u who="DETWILER">—I think it’s true today: You’re very much, you know, 24/7. You’re part of that school.</u>
       <u who="DIM">Mm-hm.</u>
-      <u who="DETWILER">You know, there was a <orgName>Peace Corps</orgName> volunteer who did all the coaching. We were—we would—all our kids were Botswana. The headmaster of the school was a Botswana. I mean, half—there were—there was one other <orgName>Peace Corps</orgName> volunteer, a couple of Canadian volunteers, a few Danish and a couple of Brit volunteers too, in a big school. We had 700, 800 kids, so—</u>
+      <u who="DETWILER">You know, there was a <orgName>Peace Corps</orgName> volunteer who did all the coaching. We were—we would—all our kids were <placeName>Botswana</placeName>. The headmaster of the school was a <placeName>Botswana</placeName>. I mean, half—there were—there was one other <orgName>Peace Corps</orgName> volunteer, a couple of Canadian volunteers, a few Danish and a couple of Brit volunteers too, in a big school. We had 700, 800 kids, so—</u>
       <u who="DIM">Oh, wow.</u>
       <u who="DETWILER">—so—there was a Ghanaian volunteer, from <placeName>Ghana</placeName>. [Chuckles.] I mean—</u>
       <u who="DIM">Mm-hm. </u>
@@ -660,7 +661,7 @@
       <u who="DIM">Mm-hm, right.</u>
       <u who="DETWILER">We went all over <placeName>Botswana</placeName>, up in the desert, and then we—we covered the territory, so we made the best of it. But fundamentally, we were teachers there.</u>
       <u who="DIM">Mm-hm. Where in <placeName>Botswana</placeName> were you?</u>
-      <u who="DETWILER">The town is <placeName>Lobatse</placeName>, <placeName>L-o-b-a-t-s-e</placeName>. It’s on the southeastern border of the country.</u>
+      <u who="DETWILER">The town is <placeName>Lobatse</placeName>, L-o-b-a-t-s-e. It’s on the southeastern border of the country.</u>
       <u who="DIM">Mm-hm. Do you keep in contact with any of your former students or <orgName>Peace Corps</orgName> friends?</u>
       <u who="DETWILER">No former students. A couple of <orgName>Peace Corps</orgName> friends. We’re at the Christmas card level, yeah.</u>
       <u who="DIM">[Chuckles.] And—and none of them have <name type="event">Vietnam War</name> experience?</u>
@@ -672,7 +673,7 @@
       <u who="DIM">Mm-hm.</u>
       <u who="DETWILER">We cashed it in—</u>
       <u who="DIM">[Chuckles.]</u>
-      <u who="DETWILER">—and bought a Land Rover, and we took off and drove to <placeName>London</placeName> for six months.</u>
+      <u who="DETWILER">—and bought a <orgName>Land Rover</orgName>, and we took off and drove to <placeName>London</placeName> for six months.</u>
       <u who="DIM">Oh, wow! And you just—</u>
       <u who="DETWILER">Huh?</u>
       <u who="DIM">And you just lived in <placeName>London</placeName> for six months?</u>
@@ -756,9 +757,9 @@
       <u who="DIM">Oh, wow.</u>
       <u who="DETWILER">We get together every summer, so, yeah, we’re very tight with him.</u>
       <u who="DIM">Mm-hm.</u>
-      <u who="DETWILER">No other veterans. No other veterans. It’s really just those three guys that I’m close with. He was—he did that. One guy, the Rick Lounsbury I mentioned—he—he got into the <orgName>Guard</orgName> and did his, you know, two weeks a year here. [Chuckles.]</u>
+      <u who="DETWILER">No other veterans. No other veterans. It’s really just those three guys that I’m close with. He was—he did that. One guy, the <persName>Rick Lounsbury</persName> I mentioned—he—he got into the <orgName>Guard</orgName> and did his, you know, two weeks a year here. [Chuckles.]</u>
       <u who="DIM">[Chuckles.]</u>
-      <u who="DETWILER">And the third guy had—who was actually—he was captain of the ski team, and he was actually<orgName> NCAA [National Collegiate Athletic Association]</orgName> skimeister when we were at <orgName>Dartmouth</orgName>.</u>
+      <u who="DETWILER">And the third guy had—who was actually—he was captain of the ski team, and he was actually <orgName>NCAA [National Collegiate Athletic Association]</orgName> skimeister when we were at <orgName>Dartmouth</orgName>.</u>
       <u who="DIM">Mm-hm.</u>
       <u who="DETWILER">And then—he won the combined. He had a bad knee, so he had—he had a waiver. He didn’t have to go in the service. Go figure! [Chuckles.] So, no, <persName>Jon</persName> is the only one that would fit that description.</u>
       <u who="DIM">And do you guys talk about your experiences often?</u>
