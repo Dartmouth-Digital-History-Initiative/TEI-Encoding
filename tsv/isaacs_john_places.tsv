@@ -23,7 +23,7 @@ dvp_038_place_20	White Plains	Q462177		41.04,-73.778611111111
 dvp_038_place_21	Hanover	Q131908		43.7,-72.28333333333333
 dvp_038_place_22	San Francisco	Q62		37.7775,-122.41638888888889
 dvp_038_place_23	New York City	Q60		40.67,-73.94
-dvp_038_place_24	Silver Spring	Q755741		
+dvp_038_place_24	Silver Spring	Q755741		39.002441, -77.020791
 dvp_038_place_25	Maryland	Q1391		39,-76.7
 dvp_038_place_26	Washington, D.C.	Q61		38.895,-77.036666666667
 dvp_038_place_27	White Plains	Q462177		41.04,-73.778611111111
@@ -79,16 +79,16 @@ dvp_038_place_76	Dartmouth College	Q49116		43.703333333333,-72.288333333333
 dvp_038_place_77	Wellesley College	Q49205		42.29528,-71.30667
 dvp_038_place_78	Mount Holyoke College	Q1140542		42.255586,-72.574503
 dvp_038_place_79	Smith College	Q49204		42.3175,-72.6375
-dvp_038_place_80	Missouri	Q1581)		
+dvp_038_place_80	Missouri	Q1581		38.5, -92.5
 dvp_038_place_81	Dartmouth College	Q49116		43.703333333333,-72.288333333333
 dvp_038_place_82	Cornell University	Q49115		42.447222222222,-76.483055555556
 dvp_038_place_83	Pennsylvania	Q1400		41,-77.5
 dvp_038_place_84	Dartmouth College	Q49116		43.703333333333,-72.288333333333
-dvp_038_place_85	Lake Placid	Q21197036		
+dvp_038_place_85	Lake Placid	Q192700		44.285555555556,-73.985277777778
 dvp_038_place_86	New Hampshire	Q3472179		40.556111111111,-83.952777777778
 dvp_038_place_87	Mount Moosilauke	Q3321961		44.024511111111,-71.830916666667
 dvp_038_place_88	Russell Sage Hall	Q100707799		43.7054,-72.29063
-dvp_038_place_89	El-Hajj Malik El-Shabazz Center			
+dvp_038_place_89	El-Hajj Malik El-Shabazz Center
 dvp_038_place_90	Canada	Q16		56,-109
 dvp_038_place_91	Russell Sage Hall	Q100707799		43.7054,-72.29063
 dvp_038_place_92	United States of America	Q30		39.828175,-98.5795
@@ -111,13 +111,13 @@ dvp_038_place_108	Vietnam	Q881		16,108
 dvp_038_place_109	The Green	Q7738117		43.7033,-72.2886
 dvp_038_place_110	Vietnam	Q881		16,108
 dvp_038_place_111	Vietnam	Q881		16,108
-dvp_038_place_112	Americans	Q463180		
+dvp_038_place_112	Americans
 dvp_038_place_113	Connecticut River	Q379648		45.2375,-71.2
 dvp_038_place_114	Italy	Q38		42.5,12.5
 dvp_038_place_115	Convento di San Giovanni in Monte	Q3947278		45.434722222222,11.528888888889
 dvp_038_place_116	Italy	Q38		42.5,12.5
 dvp_038_place_117	United States of America	Q30		39.828175,-98.5795
-dvp_038_place_118	ENEA Bologna Research Center	Q54856965		
+dvp_038_place_118	ENEA Bologna Research Center	Q54856965
 dvp_038_place_119	Italy	Q38		42.5,12.5
 dvp_038_place_120	Italy	Q38		42.5,12.5
 dvp_038_place_121	Bologna	Q1891		44.493888888889,11.342777777778
@@ -131,8 +131,8 @@ dvp_038_place_128	Afghanistan	Q889		34,66
 dvp_038_place_129	United States of America	Q30		39.828175,-98.5795
 dvp_038_place_130	United States of America	Q30		39.828175,-98.5795
 dvp_038_place_131	Bologna	Q1891		44.493888888889,11.342777777778
-dvp_038_place_132	Americans	Q463180		
-dvp_038_place_133	Americans	Q463180		
+dvp_038_place_132	Americans
+dvp_038_place_133	Americans
 dvp_038_place_134	Vietnam	Q881		16,108
 dvp_038_place_135	Vietnam	Q881		16,108
 dvp_038_place_136	Vietnam	Q881		16,108
@@ -209,23 +209,23 @@ dvp_038_place_206	Vietnam	Q881		16,108
 dvp_038_place_207	South Vietnam	Q180573		10.75,106.66666666667
 dvp_038_place_208	Phnom Penh	Q1850		11.569583333333,104.92102777778
 dvp_038_place_209	Phnom Penh	Q1850		11.569583333333,104.92102777778
-dvp_038_place_210	Saigon	Q105076255		
+dvp_038_place_210	Saigon	Q105076255		10.816667, 106.633333
 dvp_038_place_211	Tan Son Nhat International Airport	Q478595		10.818888888888889, 106.65194444444445
-dvp_038_place_212	Saigon	Q105076255		
+dvp_038_place_212	Saigon	Q105076255		10.816667, 106.633333
 dvp_038_place_213	Northern Ireland	Q26		54.683333333333,-6.75
-dvp_038_place_214	Saigon	Q105076255		
+dvp_038_place_214	Saigon	Q105076255		10.816667, 106.633333
 dvp_038_place_215	Cambodia	Q424		12.6,105
 dvp_038_place_216	United States of America	Q30		39.828175,-98.5795
 dvp_038_place_217	Vietnam	Q881		16,108
 dvp_038_place_218	Vietnam	Q881		16,108
 dvp_038_place_219	Vietnam	Q881		16,108
-dvp_038_place_220	Bình Tuy	Q1319862		
+dvp_038_place_220	Bình Tuy	Q1319862		10.0852, 105.712
 dvp_038_place_221	Vũng Tàu	Q21194		10.404166666667,107.14166666667
 dvp_038_place_222	United States of America	Q30		39.828175,-98.5795
-dvp_038_place_223	Bình Tuy	Q1319862		
-dvp_038_place_224	Saigon	Q105076255		
-dvp_038_place_225	Demilitarized Zone	Q29390602		
-dvp_038_place_226	Saigon	Q105076255		
+dvp_038_place_223	Bình Tuy	Q1319862		10.0852, 105.712
+dvp_038_place_224	Saigon	Q105076255		10.816667, 106.633333
+dvp_038_place_225	Vietnamese Demilitarized Zone	Q2349960		16.9875, 107.0359
+dvp_038_place_226	Saigon	Q105076255		10.816667, 106.633333
 dvp_038_place_227	Vietnam	Q881		16,108
 dvp_038_place_228	Cambodia	Q424		12.6,105
 dvp_038_place_229	Cambodia	Q424		12.6,105
@@ -269,7 +269,7 @@ dvp_038_place_266	United States of America	Q30		39.828175,-98.5795
 dvp_038_place_267	Iraq	Q796		33,43
 dvp_038_place_268	Syria	Q858		35.216667,38.583333
 dvp_038_place_269	United States of America	Q30		39.828175,-98.5795
-dvp_038_place_270	Iraqi	Q1030492		
+dvp_038_place_270	Iraqi			
 dvp_038_place_271	Iraq	Q796		33,43
 dvp_038_place_272	Afghanistan	Q889		34,66
 dvp_038_place_273	Vietnam	Q881		16,108
@@ -280,15 +280,15 @@ dvp_038_place_277	Vietnam	Q881		16,108
 dvp_038_place_278	Iraq	Q796		33,43
 dvp_038_place_279	Afghanistan	Q889		34,66
 dvp_038_place_280	Vietnam	Q881		16,108
-dvp_038_place_281	Bình Tuy	Q1319862		
+dvp_038_place_281	Bình Tuy	Q1319862
 dvp_038_place_282	Biên Hòa	Q19316		10.927686,106.868067
-dvp_038_place_283	Saigon	Q105076255		
+dvp_038_place_283	Saigon	Q105076255
 dvp_038_place_284	Vietnam	Q881		16,108
 dvp_038_place_285	Vietnam	Q881		16,108
 dvp_038_place_286	Biên Hòa	Q19316		10.927686,106.868067
-dvp_038_place_287	Saigon	Q105076255		
+dvp_038_place_287	Saigon	Q105076255		10.816667, 106.633333
 dvp_038_place_288	Nha Trang	Q19491		12.249527,109.190764
-dvp_038_place_289	Saigon	Q105076255		
+dvp_038_place_289	Saigon	Q105076255		10.816667, 106.633333
 dvp_038_place_290	Vietnam	Q881		16,108
 dvp_038_place_291	Afghanistan	Q889		34,66
 dvp_038_place_292	Iraq	Q796		33,43
@@ -332,7 +332,7 @@ dvp_038_place_329	Afghanistan	Q889		34,66
 dvp_038_place_330	United States of America	Q30		39.828175,-98.5795
 dvp_038_place_331	Vietnam	Q881		16,108
 dvp_038_place_332	United States of America	Q30		39.828175,-98.5795
-dvp_038_place_333	Korea	Q18097		"38°19'0""N, 127°14'0""E"
+dvp_038_place_333	Korea	Q18097		"38.190,127.140
 dvp_038_place_334	Vietnam	Q881		16,108
 dvp_038_place_335	United States of America	Q30		39.828175,-98.5795
 dvp_038_place_336	Vietnam	Q881		16,108
