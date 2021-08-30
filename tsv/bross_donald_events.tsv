@@ -1,4 +1,4 @@
-id	name	Qid	dvp_id	start time	end time	point in time
+id	name	QID	dvp_id	start time	end time	point in time
 dvp_019_event_0	World War II	Q362		1939-09-01T00:00:00Z	1945-09-02T00:00:00Z	
 dvp_019_event_1	Attack on Pearl Harbor	Q52418				1941-12-07T00:00:00Z
 dvp_019_event_2	Battle of Midway	Q173034		1942-06-04T00:00:00Z	1942-06-06T00:00:00Z	
