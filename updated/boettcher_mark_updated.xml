@@ -1,0 +1,1783 @@
+<?xml-model href="../schemas/ddhi.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="dvp_077">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Transcript of an Interview with Mark Boettcher</title>
+      </titleStmt>
+      <publicationStmt>
+        <authority>
+          <orgName>Dartmouth Digital History Initiative</orgName>
+        </authority>
+        <date>
+          <!--  Date of publication, e.g. for citation purposes  -->
+        </date>
+        <idno type="DDHI">dvp_077</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <recordingStmt>
+          <recording xml:id="primary_recording" type="audio" dur-iso="9">
+            <!-- https://www.digi.com/resources/documentation/digidocs/90001437-13/reference/r_iso_8601_duration_format.htm -->
+            <media url="" mimeType="MIMEaudio/wav"/>
+          </recording>
+        </recordingStmt>
+        <bibl xml:id="primary_transcription">
+          <respStmt>
+            <persName>Mimi Eisenberg</persName>
+            <orgName>Wordcraft</orgName>
+            <resp ref="http://id.loc.gov/vocabulary/relators/trc.html">Transcriber</resp>
+          </respStmt>
+          <ref target="path_to_file">Primary transcription</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>The Dartmouth Vietnam Project</p>
+      </projectDesc>
+      <appInfo>
+        <application ident="DDHIEncoder" version="1.0">
+          <desc>Conversion from Word docx to TEI xml.</desc>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en-us">English</language>
+      </langUsage>
+      <particDesc>
+        <person xml:id="RAFSON"/>
+        <person xml:id="BOETTCHER"/>
+      </particDesc>
+      <settingDesc>
+        <setting>
+          <date when-iso="2018-05-10"/>
+          <locale/>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <u who="RAFSON">Hi. This is <persName ref="#dvp_077_person_0">Claire Rafson [‘19]</persName> .  I’m sitting in <placeName ref="#dvp_077_place_0">Rauner [Special Collections] Library</placeName> at <placeName ref="#dvp_077_place_1">Dartmouth College</placeName> in <placeName ref="#dvp_077_place_2">Hanover, New Hampshire</placeName>. Today is Thursday, <date when="2018-05-10">May 10th, 2018</date>, and it is about 1:30 pm.  I’m here with <persName ref="#dvp_077_person_1">Mark Boettcher</persName>. Hi <persName ref="#dvp_077_person_2">Mark</persName>. I first want to thank you so much for coming and speaking with me today. So, let’s begin. I wanted to start with some basic biographical information, and then we’ll work our way from there. So, would you mind telling me a little about when and where you were born?</u>
+      <u who="BOETTCHER">Okay. I was born in <placeName ref="#dvp_077_place_3">Weymouth, Massachusetts</placeName>, a suburb of <placeName ref="#dvp_077_place_4">Boston</placeName>, on <date when="1953-12-25">Christmas Day, 1953</date>. And that’s where I grew up and spent my entire life until I was a teenager.</u>
+      <u who="RAFSON">What were your parents’ names?</u>
+      <u who="BOETTCHER"><persName ref="#dvp_077_person_3">Edward George Boettcher</persName> and <persName ref="#dvp_077_person_4">Priscilla Ann</persName>.</u>
+      <u who="RAFSON">And what did they do?</u>
+      <u who="BOETTCHER">My father was, he was a blue collar worker. He originally did forms and concrete for construction, and then he moved into tile and carpet. My mother worked for <orgName ref="#dvp_077_org_0">New England Telephone</orgName>, I believe it was called at the time, before the big split-up, and she worked as an operator, and then she moved into administrative roles.</u>
+      <u who="RAFSON">And do you have any siblings?</u>
+      <u who="BOETTCHER">Yes. I’m the oldest of seven total. I have five brothers and one sister.</u>
+      <u who="RAFSON">What was it like growing up in such a big household?</u>
+      <u who="BOETTCHER">Well, it was busy, very busy. Yeah. Always a lot going on. My mother was—I’m surprised she’s still somewhat sane after all those years. But it was good. Having that many siblings, there’s always something going on, always somebody to talk to.</u>
+      <u who="RAFSON">And was it a large age gap or were you relatively close in age?</u>
+      <u who="BOETTCHER">I was followed by one brother who was born two years after I was, another one a year after that. The youngest is 20 years younger than I am. My one sister who was born on <date when="1963-03-01">April Fools Day</date>, appropriately, is 10 years younger than I was.</u>
+      <u who="RAFSON">So, what was it like growing up in the suburbs of <placeName ref="#dvp_077_place_5">Boston</placeName>?</u>
+      <u who="BOETTCHER">It was where I grew up. It was home. I don’t know what to say about it. I haven’t grown up anywhere else, just<placeName ref="#dvp_077_place_6"> Weymouth, Massachusetts</placeName>, so I can’t speak to growing up in another place. I suppose it was no better, no worse than most places.</u>
+      <u who="RAFSON">Did you have any particular hobbies when you were a kid? Any memories that stand out to you?</u>
+      <u who="BOETTCHER">Yeah. I’ve always been busy, I guess. I built a treehouse when I was five years old, a rickety thing that I don’t know how it stayed up for a year, but… I used to do a lot of fishing. I was a fanatical fisherman at one time. For a few years we lived next to a pond, so a lot of fishing during the summer and winter, ice fishing, of course. Ice skating, hockey, paddling around the pond in anything that could float, which included refrigerators, the tops of cars that were cut off and flipped upside down. We used to spend a lot of time in the local sand pit, which was the hangout. That’s where we used to start our little campfires, which more than once got out of control and ended up having the fire department called, but we were pretty fast runners at that time. Yeah, very active. The first snowfall, we were out there building snowmen and snow forts. Yeah, you know, probably a pretty normal childhood.</u>
+      <u who="RAFSON">Yeah, it sounds active. How were you in school?</u>
+      <u who="BOETTCHER">Okay. I’ll give you a little secret. This is something I didn’t know about until I was an adult, but I had ADD [Attention Deficit Disorder]. I still have ADD. I take medication. It wasn’t discovered until about 15 years ago was the first time. So, I did well in school when I wanted to. I got high honor roll one year in high school on a bet, just to prove that I could do it for the whole year. And then after that I went back to the C’s and D’s because I didn’t want to pay attention in class and couldn’t make myself do the homework. But, yeah, school, I guess it was like a 12-year ongoing train wreck for me.</u>
+      <u who="RAFSON">And so, why don’t you tell me a little bit more about high school. So, where exactly did you go to high school?</u>
+      <u who="BOETTCHER">Up until the 10th grade, <placeName ref="#dvp_077_place_7">South Weymouth</placeName> and <placeName ref="#dvp_077_place_8">North Weymouth</placeName> were combined, so we all went to school the whole time, went to school together up until the 10th grade. And that year they had completed construction of <orgName ref="#dvp_077_org_1">South Weymouth High School</orgName>, and split us up. So, I went to <orgName ref="#dvp_077_org_2">Weymouth North [High School]</orgName>, and half the class went to, of course, <orgName ref="#dvp_077_org_3">Weymouth South High School</orgName> for the 11th and 12th grade. No, I hated school. I just remember watching the clock for 12 years. Every day was torture. It wasn’t until years later when I started going to college that, you know, college is a little bit different, and I actually enjoyed that.</u>
+      <u who="RAFSON">Did you do any activities in high school, or was it really just going to school?</u>
+      <u who="BOETTCHER">Extra…</u>
+      <u who="RAFSON">Extracurriculars.</u>
+      <u who="BOETTCHER">I was on the wrestling team, I was on the ski team, let’s see, I was in the Russian club. I took Russian for the last two years of high school, and that was mainly because it was this incredibly gorgeous Russian teacher. Yeah, I was on track team, now that I think about it. That was in junior high. So, other than that, that was it.</u>
+      <u who="RAFSON">Yeah. Sounds like an active lifestyle. Great. So, you graduated high school in <date when="1971">’71</date>?</u>
+      <u who="BOETTCHER">Yes.</u>
+      <u who="RAFSON">And what did you do after high school?</u>
+      <u who="BOETTCHER"><date when="1971">1971</date>, I had been born on <date when="1953-12-25">Christmas Day</date>, so <date when="1971">1971</date> I was 17-and-a-half years old. Times were quite a bit different back then. The hippie movement had been like, really like things had exploded a couple of years before that, and all of us went to school; we had American flag patches over the holes in our jeans. They weren’t designer jeans back then that come with holes pre-made. We just wore them to death, and would wear the same pair every day.</u>
+      <u who="RAFSON">So, I have a question about that. So, obviously the hippie movement had exploded. Were you exposed to that in any certain aspects of your life?</u>
+      <u who="BOETTCHER">Oh, of course. Yeah, everybody smoked pot back then. Well, everybody I knew anyways. So, out of the 500 or so students in my class, you know, probably about 498 got high. I think the statute of limitations has expired, so I’m comfortable saying that. There were, of course, all drugs were around: LSD and Dexies [Dextroamphetamine] and all, THC and Mescaline, which was probably LSD in disguise. I actually hung out with a couple of different crowds. For a while, my parents had lived on the other side of the tracks in the same town of <placeName ref="#dvp_077_place_9">Weymouth</placeName>. But I started out, the first neighborhood I was in was probably upper middle-class, and then my parents were saving to buy a house, so we moved to the wrong side of town, where we would get in fights all the time. You’d go to school one day and they’d say, “Oh, you’re fighting so-and-so, your best friend, right? Tonight you’re fighting him, and whether you like it or not.” And that’s what you did, or else you’d be beaten to a pulp. And the wrong side of town is where I started—the first time I kissed a girl, and probably the first 10 times.And then we moved back to the other part of town for about my last two or three years of high school. So, I was back in a part of town where everybody was college bound. You know It just went without saying. With my background, and as many people there as there were in my family, it was never even a question of me getting a free ride through college. My parents weren’t going to pay for it. And, of course, my grades, because I didn’t work, would not have gotten me anywhere. My SATs, yeah, they were really very, very high, but…Yeah, so I belonged to two groups. I was with all the tough people and went out and had a good time and partied, but the other half was—it was a Jekyll and Hyde existence—the other half were all, like I said, people—like a couple of them I still keep in touch with, and one of them just retired as a professor at <orgName ref="#dvp_077_org_4">Berkeley</orgName>, I believe, and another one ended up he was a musician. They were both musicians. The other one ended up doing <orgName ref="#dvp_077_org_5">Broadway</orgName>. He’s been living in <placeName ref="#dvp_077_place_10">New York City</placeName> for many, many years. And, so the college bound group that I hung out with were very much involved in the politics of the time, and I can remember the election, <name type="event" ref="#dvp_077_event_0">the McGovern election</name>, when <persName ref="#dvp_077_person_5">[Senator George S.] McGovern</persName> ran.</u>
+      <u who="RAFSON">Do you remember the year?</u>
+      <u who="BOETTCHER">It would have had to have been <date when="1970">’70</date>? Or would it have been <date when="1968">’68</date>?</u>
+      <u who="RAFSON">That sounds right.</u>
+      <u who="BOETTCHER">Yeah, yeah, <date when="1968">’68</date>. [It was 1972.] So I was, I must have been in the 10th grade. Yeah, <persName ref="#dvp_077_person_6">[Governor] George [C.] Wallace</persName> was running, and I remember having a sign and saying “<persName ref="#dvp_077_person_7">George Wallace</persName> is a bigot” because <persName ref="#dvp_077_person_8">George Wallace</persName> showed up to give a speech in our town one time, and of course we all showed up, and I barely knew what the word “bigot” even meant. There was no racial diversity in my town at all. I think we might have had one black student, maybe not even that. Yeah, I remember going to those. After high school, I went to a big protest—<persName ref="#dvp_077_person_9">John Lennon</persName> and <persName ref="#dvp_077_person_10">Yoko</persName> were there—down in <placeName ref="#dvp_077_place_11">New York City</placeName>. Some friends of mine and I went down there. That would have been <date when="1972">’72</date>, I think. But yeah, high school, I was politically active just as much as I had to be because my friends were. But, I was really very apolitical, and I’m still fairly apolitical now for different reasons. Back then it was because I wanted to go out and party and run after girls and have a good time. Now it’s just because I’ve just given up. I am a—jumping forward a little bit—but I am a dual national New Zealand citizen. When <persName ref="#dvp_077_person_11">[President] George W. [Bush]</persName> got elected, my wife at the time and two young boys, we were up in <placeName ref="#dvp_077_place_12">Washington State</placeName> then, and decided we didn’t want anything to do with this country, with a country that would elect somebody like <persName ref="#dvp_077_person_12">George Bush</persName>. And <persName ref="#dvp_077_person_13">Trump’s</persName> even worse. So we moved to <placeName ref="#dvp_077_place_13">New Zealand</placeName>, and we lived there for six-and-a-half years, and got citizenship. So, I am a dual national.</u>
+      <u who="RAFSON">I’d definitely like to touch back on that. So, it definitely sounds like, so even though you were relatively apolitical, being around such political people, did that—it obviously had some impact on your feelings towards events like the elections, like the war…</u>
+      <u who="BOETTCHER">Oh, yeah, yeah, yeah. It was a huge part of our lives back then, because we were at that age when it was a very, very real possibility that we would get drafted. I believe they had done away with the college deferments by then, and basically… Do you want me to get right into the whole draft thing?</u>
+      <u who="RAFSON">Yeah. So, you graduate and you’re about 17-and-a-half, so you’re about to be…</u>
+      <u who="BOETTCHER">Okay, I was 17-and-a-half. A couple friends and I had made a plan that after graduation we were going to hitchhike around <placeName ref="#dvp_077_place_14">New Hampshire</placeName> and <placeName ref="#dvp_077_place_15">Vermont</placeName>. And of course my friends dropped out last minute, so I ended up about two weeks after graduation by myself. I had a backpack and a small tent and $200 cash, which seemed like enough for 10 years at the time. And I took off hitchhiking, and I hitchhiked up to <placeName ref="#dvp_077_place_16">Mount Washington</placeName>. The first night I ended up walking the last 10 miles at probably 1:00 in the morning in the dark without a flashlight, and imagining bears—middle of nowhere, right?—the last 10 miles before <placeName ref="#dvp_077_place_17">Mount Washington</placeName>. And I spent the next, about the next month hitchhiking all over the place. Ran out of money. Got a job as a dishwasher at the <placeName ref="#dvp_077_place_18">Horse and Hound Inn</placeName> in <placeName ref="#dvp_077_place_19">Franconia, New Hampshire</placeName>, and I worked there for a couple of months, and then had enough of that and came back home.</u>
+      <u who="RAFSON">What kind of people do you meet when you’re hitchhiking around <placeName ref="#dvp_077_place_20">New Hampshire</placeName> and working?</u>
+      <u who="BOETTCHER">Hippies. [laughter] Yeah, well, back then it was a lot of <orgName ref="#dvp_077_org_6">Volkswagen</orgName> buses, and with flowers painted all over them, and they’d stop, “Hey, man, where are you going?” “That way,” you know. Anyway, and you’d walk in and they’d open the doors, and clouds of smoke would come out, [laughter] and it wasn’t cigarette smoke either. And they’d take you as far as they were going, and drop you off, and it could be in the middle of a town or it could be some dirt road where they’re headed to the commune. Yeah, unfortunately, I missed <name type="event" ref="#dvp_077_event_1">Woodstock</name>. I was just a little too young for <name type="event" ref="#dvp_077_event_2">Woodstock</name>, because if I’d been a couple of years older, I definitely would have been there, and all my friends would have gone there. That’s just the sort of thing we did. High school, we were so close to <placeName ref="#dvp_077_place_21">Boston</placeName>, we used to cut school, and we would take the bus and the train, the “T”, into <placeName ref="#dvp_077_place_22">Boston</placeName>, and we’d hang out in the Battle Zone—or <placeName ref="#dvp_077_place_23">Combat Zone</placeName> (I was thinking of a game, sorry). <placeName ref="#dvp_077_place_24">Combat Zone</placeName> in <placeName ref="#dvp_077_place_25">Harvard Square</placeName>, and the <placeName ref="#dvp_077_place_26">[Boston] Common</placeName>, and we used to panhandle for quarters. [laughter] And it was just the thing that you did back then, or a lot of people did. And we’d go to the head shops, and all the head shops would sell fluorescent paint and posters of <persName ref="#dvp_077_person_14">Frank Zappa</persName>, and listen to all rock.I was not—just like I’m apolitical, I had the trappings of the hippie. I dressed like a hippie, and I didn’t even enjoy smoking pot that much, but I still did it because everybody else did it who I hung out with. And, you know, that was the thing back then. You were like one or the other, you know? And we had a lot of pro-war people and, of course, my friends and I were all totally anti-war. And I don’t think it was just because the war was wrong, but for us, we were anti-war because every night you’d watch the news and it’d be people dying over there and people in the town, people that you’d known that were a year or a couple of years older would come back in a casket. I mean, it’s hard to describe, but it’s scary. It’s scary as hell.</u>
+      <u who="RAFSON">Did your family share similar views on war as you, your parents and your younger siblings?</u>
+      <u who="BOETTCHER">I don’t remember discussing it with them much, but, you know, I was a teenager, and I’ve got kids of my own that graduated high school, and I know at that age they’re—I was the same way—more into partying, having a good time and “doing our own thing.” And I went through the period that a lot of teenage boys go through where nothing their parents say is right. You’ve got to argue with everything. And so, I really don’t remember discussing that or much of anything else for that matter. And I don’t know, maybe their attitude was, “Well, we’ve got so many kids. If one of them then goes off to <placeName ref="#dvp_077_place_27">Vietnam</placeName>, we’ve got spares.” [laughter] No, I’m kidding. No, we had a very, you know, a nuclear family, and my parents were together until my father died, so…</u>
+      <u who="RAFSON">So, you just got back from your road trip and your time in <placeName ref="#dvp_077_place_28">Franconia</placeName>. What happens next?</u>
+      <u who="BOETTCHER">So next? Okay, this is <date when="1971">’71</date>, and I was still 17 years old. I didn’t turn 18 until, of course, <date when="1971-12-25">Christmas Day</date> at the end of the year. And I came back. I lived at home. And my parents were, they’d lightened up a little bit, because I had had fairly long hair before, but they would make me cut it. And now I just grew it out, and they didn’t—I guess they got tired of arguing about it. And I got a job. I worked at a place called <placeName ref="#dvp_077_place_29">Boston Whaler</placeName>. They make boats. And I did that, I worked there until I think the springtime, and then just lived at home, hung out with my friends, drove around, got high. And I had actually signed up, or enrolled in a community college, but to me it would have just been more high school and I was not ready to go sit through that again. You know, it was a community college. I only did it because it was sort of the expected thing. And, yeah, I just hung around and partied and worked, and that’s about all I did until the next summer, the summer of <date when="1972">’72</date>. So, they had the [draft] lottery back then. And I just verified it just a few minutes ago to just make sure I had my numbers right. The whole time I have been thinking for some reason that my lottery number when I was eligible in <date when="1973">1973</date>—or, I’m sorry, when I was eligible in <date when="1972">’72</date>, my lottery number, I’d been thinking it was 4, and I was mistaken. It was actually 6. Either way, there was nothing I could do. I seriously considered shooting my toe off. Of course, I didn’t have a gun. Never even fired a gun, I don’t think. And so, it was kind of out of the question. And maybe I shouldn’t say “seriously considered.” I wouldn’t have done that. I did seriously consider going to <placeName ref="#dvp_077_place_30">Canada</placeName>. I had already taken off once and hitchhiked to <placeName ref="#dvp_077_place_31">New Hampshire</placeName> and, you know, <placeName ref="#dvp_077_place_32">Canada</placeName> wasn’t much further. And in retrospect, if I had to do it again, I might have actually gone to <placeName ref="#dvp_077_place_33">Canada</placeName>, knowing what I know now. Back then, that was a pretty hard decision to make, and I decided, “No, I’m not gonna do that.”</u>
+      <u who="RAFSON">So, what’s the time frame between finding out your lottery number and having to take action?</u>
+      <u who="BOETTCHER">I don’t know when they had the drawing. I do know that, you know, just from checking that they drew up to, I believe, 95. And so, I almost certainly would have been drafted. And now that I think about it, I think I did get something in the mail, and I can’t remember now, but I think I did get something in the mail to report or something for a physical or whatever. And I hadn’t remembered that until just this second, but I think there was something. But, it wouldn’t have mattered. I just knew I was going to go. There was no college deferments; I was fit, healthy. I was qualified, and I was going to go over there and I was going to be either a <orgName ref="#dvp_077_org_7">Marine</orgName> or infantry, and go over there and get shot at. And I didn’t want that.</u>
+      <u who="RAFSON">So, was the feeling of not wanting it, was it a personal fear? Was it more driven by your disgust for the war? Was it a combination?</u>
+      <u who="BOETTCHER">Primarily personal fear. You know, maybe if I’d had the luxury of not having to face the realism or, you know, the idea that I was going to go, if I had had that luxury at the time, I probably would have—well, I would have opposed it for just the fact that it was wrong. We shouldn’t have been there. It’s not like now. Nowadays, I’ve got a son who’s in the <orgName ref="#dvp_077_org_8">Navy</orgName> now, and everywhere he goes, people say, “Thank you for your service. Thank you for your service.” Back then it was like “fuck you for”—excuse my language, but it was like, for anybody who went over there, if they actually survived to come back, they were outcasts. They were just, you know, people didn’t want to have anything to do with them, and people felt that it was their fault somehow that they were over there. And I don’t think there were a lot of people who volunteered. Some did. I think Forrest Gump did, but besides him—but he wasn’t too bright. Yeah, if I had that luxury of knowing that I had a choice, yeah, I would have still opposed it. And I probably would have still gone to the big peace marches. But, yeah, first and foremost was the idea of getting killed. It was real. If you’re walking in a back alley—walk in a back alley somehow in any major city at 3:00 in the morning all by yourself, and pick a rough neighborhood in that city, too, and that will give you an idea of what it felt like, you know, the fact that yeah, there’s a chance I’m gonna get hurt or die or something.</u>
+      <u who="RAFSON">Yeah, so what do you do, knowing the inevitable? What’s your next step?</u>
+      <u who="BOETTCHER">Well, I joined the <orgName ref="#dvp_077_org_9">Navy</orgName>, because better the devil you know, right? I looked at the <orgName ref="#dvp_077_org_10">Navy</orgName>, and to my way of thinking, I had no aspirations to be a sailor—I never even thought about it—but for whatever reason, I knew my time was running out, and I went in and talked to a recruiter and took the test, blew it away, and my reasoning was that, If I join the <orgName ref="#dvp_077_org_11">Navy</orgName>, most likely the worst, the closest I’m gonna get is probably gonna be on a ship. And as far as I know, the <orgName ref="#dvp_077_org_12">Viet Cong</orgName> didn’t have a lot of big ships that could take out an aircraft carrier. So, it seemed like a safer idea. If I’ve got to go anyways, yeah, at least I’m going under my own terms sort of. And I chose—I could have done any job I wanted because my tests were… I chose aviation electronics. I was guaranteed that because it was the only school in the <orgName ref="#dvp_077_org_13">Navy</orgName> that was longer, and that was part of it, too, you know, pick the longest school I could go to, because that would delay even going on a ship.</u>
+      <u who="RAFSON">How long was that training for?</u>
+      <u who="BOETTCHER">Well, boot camp was eight weeks, I think. And my training, I actually went fast track, so it could be up to a year; it could be over a year. And aviation electronics, like any <orgName ref="#dvp_077_org_14">Navy</orgName> school. The only school that was longer was nuclear, nuclear electronics or one of the nuclear fields, and I didn’t want to do that because I really, really didn’t want to go in a submarine. And yeah, I think I had little dreams of becoming a pilot or something someday, although my eyesight would have precluded that. So, aviation electronics school was, well, we’d start right at the beginning: basic electricity and electronics. And I had no electrical training. I’d taken AP [Advanced Placement] courses in high school and I’d had a lot of math and calc, or pre-calc at least, all the advanced. Oh, we even had, like my high school, my class in our math class, we had the very first classroom computer. And all I remember about it is—I’m pretty sure we used punch cards—I just remember hating it and swearing I’d never be a programmer, which is what I do for a living now. But, back then I didn’t want to do that. But, the <orgName ref="#dvp_077_org_15">Navy</orgName> training, they start at basic electricity, electronics, and all the formulas. And it’s eight hours a day, well, six to eight hours a day classroom, a couple of hours a night homework. And it’s not like college. You know, college, if you choose to just barely squeak by, you can do a minimum amount of homework. But the <orgName ref="#dvp_077_org_16">Navy</orgName>, it’s the military, so you can’t not do the work. You can get in a lot of trouble, so it’s out of the question.</u>
+      <u who="RAFSON">Where was your training, and where did you go for it?</u>
+      <u who="BOETTCHER">Initially I went to, it was a big naval air training. Well, it was <orgName ref="#dvp_077_org_17">NATTC, Naval Air Technical Training [Center] Command</orgName>, I believe, at <placeName ref="#dvp_077_place_34">Millington, Tennessee</placeName>, which is a little bit north of <placeName ref="#dvp_077_place_35">Memphis, Tennessee</placeName>. And that was great. We were there in <placeName ref="#dvp_077_place_36">Memphis</placeName>. We’d go to concerts all the time and I’ve seen like the Doobie Brothers and <persName ref="#dvp_077_person_15">Frank Zappa</persName> and <persName ref="#dvp_077_person_16">Alice Cooper</persName> and all the big bands at the time. And the base itself, it was great. There was a bowling alley within walking distance, and we’d go there every day at lunchtime and bowl. And there were horseback riding stables, and I learned to ride a horse. I grew up just outside of a big city, so that was new to me, and I loved it. And I played guitar. I taught myself guitar. And there were a lot of musicians in the <orgName ref="#dvp_077_org_18">Navy</orgName>. And a lot of other people like myself who had joined to avoid the draft, and be in that school. A lot of people there were very similar to the people I had hung out with in high school, all the college bound people who for one reason or another decided not to go to college, or had been facing the draft and didn’t go for that reason. So, that was good. And then I went there. I was supposed to be there for I think eight months or so, but I was doing really well, so I switched to fast track, which was a lot harder, but it was accelerated and got me out of the school quicker. And it also had an unexpected side effect, because I still don’t know how to this day, but in the <orgName ref="#dvp_077_org_19">Navy</orgName> you put in what’s called the “dream sheet.” It’s a duty station preference. And I had filled mine out, and my first choice had been, of course, <placeName ref="#dvp_077_place_37">Brunswick, Maine</placeName>, which was pretty close, close enough to <placeName ref="#dvp_077_place_38">Weymouth, Massachusetts</placeName>. But I realistically had no, not a prayer of getting stationed there.And as it turned out, my original class before I went fast track, everybody in there ended up on an aircraft carrier. Somehow I actually got orders to <placeName ref="#dvp_077_place_39">Brunswick, Maine</placeName>, which was a patrol squadron, which it was great, because they don’t go on ships. They fly P-3 Orion aircraft, which are great big four[-engine] turboprop aircraft. They do anti-submarine warfare. They just fly around all day looking for subs. And those planes are way too big for aircraft carriers. So, it’s considered sea duty, because you’d sit in <placeName ref="#dvp_077_place_40">Brunswick, Maine</placeName>, for seven months and do your job, and then you’d go to <placeName ref="#dvp_077_place_41">Bermuda</placeName> for five months, and then you come back to <placeName ref="#dvp_077_place_42">Maine</placeName> for a year, then you go to <placeName ref="#dvp_077_place_43">Spain</placeName> for five months or <placeName ref="#dvp_077_place_44">Portugal</placeName>.</u>
+      <u who="RAFSON">Is that where you went?</u>
+      <u who="BOETTCHER">I went to <placeName ref="#dvp_077_place_45">Spain</placeName> twice, two five-month deployments to <placeName ref="#dvp_077_place_46">Rota, Spain</placeName>, which is a naval base. It’s on the south coast of <placeName ref="#dvp_077_place_47">Spain</placeName>. And I did two five-month deployments to <placeName ref="#dvp_077_place_48">Bermuda</placeName>. So, back up just a little bit. So, I got my orders and they sent me to specialized schools after the original school. I went to school at <placeName ref="#dvp_077_place_49">Pax River, Maryland</placeName>. It’s <placeName ref="#dvp_077_place_50">Patuxent River, Maryland</placeName>, everybody calls it <placeName ref="#dvp_077_place_51">the Pax River</placeName>. And I went to specialized schools there to learn specific pieces of equipment that I was going to be working on. And I was there for probably three months before going to <placeName ref="#dvp_077_place_52">Brunswick, Maine</placeName>.</u>
+      <u who="RAFSON">So, about a year and so odd after you…</u>
+      <u who="BOETTCHER">Yeah, if you count boot camp, it was probably pretty close to a year from the day I shipped to boot camp. I went to boot camp on the <date when="1972-08-31">31st of August, 1972</date>. And yeah, it was pretty close to a year before I set foot in <placeName ref="#dvp_077_place_53">Brunswick, Maine</placeName>.</u>
+      <u who="RAFSON">And so, being in <placeName ref="#dvp_077_place_54">Brunswick</placeName>, what was that like? </u>
+      <u who="BOETTCHER">It was great. [laughter] It was a lot better than being on a carrier, I’m sure. I never did get on a ship. It was great. Yeah, you’d go out with the local girls, you know, women. Back then political correctness, I don’t think the term had been coined yet back then. And looking back on it at that time it was kind of appalling, you know, the attitudes, the prevailing attitudes. But, it’s neither here nor there. Yeah, we did a lot of things there. We went skiing in the winter. We’d go up to the local quarry swimming in the summertime. Just had a good time. Yeah, it was good. And we’d go on deployments and we’d do what sailors do. We’d go to <placeName ref="#dvp_077_place_55">Bermuda</placeName> for five months, and every weekend we’d be either at the club on base or up in <placeName ref="#dvp_077_place_56">St. George</placeName> or <placeName ref="#dvp_077_place_57">Hamilton, Bermuda</placeName>. And in <placeName ref="#dvp_077_place_58">Spain</placeName> we were right there on the beach, which was great. So, yeah, we just did what people do. Actually, probably pretty much the same thing that college students do. When you’re that age, you know, well, of course, we didn’t have to study. That came later.</u>
+      <u who="RAFSON">What were you doing, so obviously on the weekends you had this, but what was the typical operational…</u>
+      <u who="BOETTCHER">Okay, so, with aviation, any of the aviation ratings, or almost all of them, there are two levels: there’s organizational level and intermediate level. Organizational level for my job, which was electronics, involved working on the aircraft. So, that’s what I did for my first few months. Even though my specialty, because of the schools I had had, was intermediate level, which was in the shop fixing equipment, actually sitting there on a bench and troubleshooting and repairing. I worked organizational level at first, and that’s oh, the pilot, they’re doing a pre-flight, and the pilot says, “Yeah, LE-8…” which is the call sign for a plane. We had nine planes. “Yeah, LE-8s, we’ve got a problem with the H-F radio.” So, we’d go out there and, you know, half the time just say, “Oh, yeah, well, you’ve gotta turn the on and off switch on.” [laughter] Actually, that has happened, where you just go “okay, yeah, you’ve got to do the O-N and O-F-F switch to O-N, on.” But, it’d be, you know, a broken microphone or a headset or the radio itself, and we’d pull the radio and go in and get another one and bring it out. And then, I did that for a few months, and then I was sent over to work in the aircraft intermediate maintenance department working on the equipment. Actually, so, the guy who pulled it off the airplane, they’d send it over and it’d end up on the bench in front of me, and then I’d have to figure out, you know, spend five minutes changing the fuse or three days tracking down some horrible little problem. And the equipment back then, some of it had still been made in the ‘50s, and it was tubes. And, in fact, when I went to the electronics school, they were very heavy on tube theory. Transistors, which were not—they were just becoming ubiquitous at that point, but a lot of the equipment was older. And digital, I actually worked on like the first digital piece of equipment. Part of my training was on a flight data recorder that actually recorded things digitally. And it was like, when I got to the squadron, they hadn’t even installed them; they hadn’t even gotten them yet. But, I was already trained on how to repair them. So, I spent the rest of my time there. Five years with that patrol squadron. It was Patrol Squadron 11, <placeName ref="#dvp_077_place_59">Brunswick, Maine</placeName>. I spent the next five years working on the bench. Want to know where I went after that?</u>
+      <u who="RAFSON">Yeah. So, just one question. So, within that patrol squadron, were you with the same men throughout your service?</u>
+      <u who="BOETTCHER">Yeah. Well, it’s two different groups. So, <placeName ref="#dvp_077_place_60">Brunswick</placeName> I believe had six squadrons at the time, and when you’re working organizational level, you’re just working with the people in the squadron. And some people with my grade actually flew. They were a flight crew. I had that option. But, they’d be radio operators or they’d be operating one of the electronic systems. But, the intermediate maintenance, it’s one building up there in <placeName ref="#dvp_077_place_61">Brunswick, Maine</placeName>, or a couple of buildings, and I worked with people from different squadrons. So, there’d be a few of us from my squadron, there’d be a few from Patrol Squadron 8 or 23 or 26, you know, different ones. So, we got to know people from outside of our own little group. But, well, it was the same thing when we went overseas, like in <placeName ref="#dvp_077_place_62">Bermuda</placeName>. I didn’t stay with the rest of the squadron in the barracks that they were in. I stayed in the same barracks as the people that worked with the base, because we would be the squadron there at that time; we’d be just one squadron. And after we left, another squadron would take our place. But, I would move into the other barracks. And I worked in the intermediate maintenance department there for that base, so it was a separate building. So I really, except for the people that also worked there from my squadron, I had very little to do with the rest of the squadron on deployments. And they’d be like strangers. And then we’d basically go native, you know. We’d be, like we were actually working for that command, you know, whether it was <placeName ref="#dvp_077_place_63">Bermuda</placeName> or <placeName ref="#dvp_077_place_64">Sigonella, Sicily</placeName>, or <placeName ref="#dvp_077_place_65">Rota, Spain</placeName>, or… And I do—if you’re going to ask—I do keep in touch from time to time. I’ll go out there and just search for friends of mine, because you make really good friends, lifelong friends, more than ever since. I think there’s a lot of comradery. And this isn’t your first interview you’ve given?</u>
+      <u who="RAFSON">Huh-uh.</u>
+      <u who="BOETTCHER">Okay, so you’ve probably heard that over and over again. You do develop pretty close ties with people that you work with.</u>
+      <u who="RAFSON">Do any people stand out in particular that you can think of?</u>
+      <u who="BOETTCHER">Anybody what?</u>
+      <u who="RAFSON">Does any particular examples stand out, I mean, people who were particularly influential?</u>
+      <u who="BOETTCHER">Influential? Yeah. I don’t know about influential. </u>
+      <u who="RAFSON">Significant?</u>
+      <u who="BOETTCHER">Yeah. I had a lot of friends. There was <persName ref="#dvp_077_person_17">Art Munn</persName>, who I keep in touch with from time to time, or he’ll send me an email, I’ll send him an email. And there are some people that I’ve tried to find on the internet, and without luck. And, of course, at my age, you know, people are dying. And when I went to school, one of my best friends when I went to school in <placeName ref="#dvp_077_place_66">Memphis</placeName>, I never saw him again after I left school in <date when="1973">1973</date>, and I looked him up a few years ago. I looked him up, I figured, Well, maybe I can find this guy and say “Hi”, and I found out he had passed away, which was just kind of depressing. But, yeah, there are a few people. There are some people that, you know, I’d just assume have nothing to do with.I ended up staying in for 15 years. And I intended to go in long enough to do my time, get out and be done with it. And certain jobs, certain specialties, pay reenlistment bonuses. When you’re that young and they’re dangling $16,000 in front of your nose back in the ‘70s, you know, that was a fortune, and it had its desired effect on some of us, and that’s why I ended up reenlisting and staying in for 15 years.</u>
+      <u who="RAFSON">So, you finished your first five years</u>
+      <u who="BOETTCHER">Yeah, I did my first four-year enlistment, and I reenlisted for my first bonus. And actually, that wasn’t $16,000. The first one was like $8,000, but still that was a significant amount of money for me. And plus they, you know, again I filled out my dream sheet and I put places that I had not a prayer of getting stationed, and I ended up getting orders to <placeName ref="#dvp_077_place_67">Mildenhall, England,</placeName> which was 35 <orgName ref="#dvp_077_org_20">Navy</orgName> people. And they just happened to have an opening for my—they go by rank and specialty. So, for my rank in aviation electronics, they had an opening just when I was getting ready to either get out or reenlist. So, I ended up going there for three years.</u>
+      <u who="RAFSON">Are you still doing aviation electronics at this point, and then the same…</u>
+      <u who="BOETTCHER">No, I’m a software engineer, a computer scientist. </u>
+      <u who="RAFSON">Oh, sorry, I meant when you went to…</u>
+      <u who="BOETTCHER">Oh.  Oh, then, yeah, yeah. Yeah, <placeName ref="#dvp_077_place_68">Mildenhall’s</placeName> kind of funny because we had some—we only had three aircraft when we got there, and they were old cargo planes, and we’d fly stuff around Europe, and fly the Admiral from <placeName ref="#dvp_077_place_69">London</placeName>, you know, if he had to go somewhere in a hurry. And then we’d fly him. Because we were I think about 60 miles outside of <placeName ref="#dvp_077_place_70">London</placeName>, kind of northeast. It’s a huge <orgName ref="#dvp_077_org_21">Air Force</orgName> base, and there was a little cluster of <orgName ref="#dvp_077_org_22">Air Force</orgName> bases around there. And I worked, because it was so small, there were only about 35 <orgName ref="#dvp_077_org_23">Navy</orgName> people and, you know, that includes pilots, the electronics technicians, the electricians, the airframes, the power plants people who would keep the engines running. So, everybody kind of doubles up, so I was actually working organizational and intermediate level there, which was kind of good because I’d go out and I’d do the troubleshooting, and find a bad radio, and I can bring it in and fix it myself, right? Then bring it back, and it’s really very efficient. So, I did that for three years, and I was about halfway through, became the shop supervisor, the supervisor for the aviation electronics there. And all three of us, right? I was the guy in charge.</u>
+      <u who="RAFSON">A question I have is so, obviously, so once you joined the <orgName ref="#dvp_077_org_24">Navy</orgName>—I’m looking back a little bit, but—did you feel a certain detachment from the <name type="event" ref="#dvp_077_event_3">Vietnam War</name>? Did it feel like you were—obviously, you weren’t on the ground there.</u>
+      <u who="BOETTCHER">Yeah, I didn’t go anywhere near <placeName ref="#dvp_077_place_71">Vietnam</placeName>. I got the ribbon that they give everybody, everybody who volunteered to join back then, whether you volunteered or not, but they got a ribbon in boot camp, a national defense ribbon. But, with the job guarantee, I knew I was almost certainly never going to go closer than 20 miles offshore or whatever. So, it stopped becoming an issue then, and at that point I was just—myself and all my peers, probably I don’t think anybody really thought about it a whole lot, you know, because we were doing our thing. And then school was hard work. I know <orgName ref="#dvp_077_org_25">Dartmouth</orgName> is very difficult, because I work with a lot of students here, and I’m constantly impressed by how smart they are and how hard they work. But, you know, we worked pretty damned hard, too. So, we kept pretty busy. And, you know, the motto was in the <orgName ref="#dvp_077_org_26">Navy</orgName>, “Work hard and play hard.” And that’s what we did. We worked hard and played hard. As far as that war overseas, you know, we’d hear stories all the time. People you’d be working for in <placeName ref="#dvp_077_place_72">Brunswick, Maine</placeName>, might have done a tour on the <orgName ref="#dvp_077_org_27">[USS] Nimitz</orgName> or whatever carrier it was. I don’t know if the Nimitz was there, but whatever ship was over there. And you’d hear stories. I had a good friend later on many years later in the <orgName ref="#dvp_077_org_28">Navy</orgName> who retired, and he was in the <orgName ref="#dvp_077_org_29">Navy</orgName>, an aviation electrician’s mate, but somehow he’d ended up being a door gunner in <placeName ref="#dvp_077_place_73">Vietnam</placeName>. you know, the guy hanging out with the 50 caliber machine gun, shooting at everything that moved. Yeah, he had stories.I met a lot of people who—not just in the <orgName ref="#dvp_077_org_30">Navy</orgName>. I was at an <orgName ref="#dvp_077_org_31">Air Force</orgName> base for a while and worked a lot with Marines, not so much with <orgName ref="#dvp_077_org_32">Army</orgName>. And during that time you’d hear a lot of stories from people who had actually been over there. It seemed to me—my impression has always been that people who stayed in the military, made it a career, seemed pretty well adjusted. People who went over there and were involved in the horrors, right?—and I don’t just mean being shot at, but having to shoot other people or see other people get shot—those, the ones who did their time and then got out that I’ve talked to, always seemed to have more problems with it, didn’t want to talk about it. And I’ve wondered if it’s a cause and effect. You know, if the type of person who doesn’t mind talking about it later is the same type of person who would reenlist, or if just staying in and being part of that world, but not actually in the war, but still part of the military world, if that helped them adjust, I don’t know. So, I’ve wondered about that.</u>
+      <u who="RAFSON">Do you think your personal view of the war changed at all over the course of your service, like hearing these stories and meeting these people?</u>
+      <u who="BOETTCHER">It was always, I always thought it was a bad thing. Any sane person at the time, any thinking person, would have to—I don’t see how anybody at that time could not think it was a bad thing, although I know there are a lot of people who are super patriots and, you know, the super conservatives who, you know, “<placeName ref="#dvp_077_place_74">America</placeName> #1 hoorah!” you know? Particularly the ones who don’t have any personal involvement in <name type="event" ref="#dvp_077_event_4">Vietnam</name>, and some of them, well, I have a low opinion of people like that. But, maybe it’s the same bunch of people that voted for <persName ref="#dvp_077_person_18">George W.</persName>, and then <persName ref="#dvp_077_person_19">Donald Trump</persName>. Yeah, anybody I ever talk to with half a brain, just, there was nothing good about it, absolutely nothing good about it, you know? We were fighting what? Fighting Communism? Liberating the people of <placeName ref="#dvp_077_place_75">South Vietnam</placeName>? No, we weren’t doing any of that. We were just stuck, stuck there. And my personal opinions never changed. When I was able to stop worrying about going over there, if I did think about it at all, it was… I was with a different crowd. I wasn’t with the college bound high school kids who made protest signs and showed up at every rally. I was with other people in the military. It was our job. We knew it was a possibility that—when you sign up, you’re signing up supposedly with the knowledge that you might have to go to war. But, I guess, yeah, it seemed like my friends are very—you know, the last thing we wanted to talk about was the war in <placeName ref="#dvp_077_place_76">Vietnam</placeName>, unless it was just like stories over beer.And so, I do remember, for all his faults, <persName ref="#dvp_077_person_20">Tricky Dick</persName>. And I’m sure it wasn’t just his—<persName ref="#dvp_077_person_21">[President] Richard [M.] Nixon</persName>—I know it wasn’t just he was trying to do the right thing. But, when he got us out of <placeName ref="#dvp_077_place_77">Vietnam</placeName>, I was always thankful to him for that, even if it wasn’t his idea and he didn’t have any choice, which he probably didn’t. But, just I’m forever grateful to him for—you know, if there’s one thing he did, he’s the one who signed the piece of paper that got us out of there. At least I think he was.</u>
+      <u who="RAFSON">And so, you had at least one brother who was close in age to you. Did either of them…</u>
+      <u who="BOETTCHER">No, no. Really, the draft really started winding down. My next older brother was two years younger, and I don’t know if they had eliminated the draft or… I don’t remember ever talking to him about it, but no, he never went. Out of the five brothers and one sister, the only one—well, that’s not true. A couple joined the ilitary, and neither one of them did their full term. One went <orgName ref="#dvp_077_org_33">Navy</orgName>, one went <orgName ref="#dvp_077_org_34">Army</orgName>, but nobody was forced to go in. My sister was the only one who, she signed up for the—she was in the <orgName ref="#dvp_077_org_35">Guard</orgName>. You know, my 5’4”, 110-pound gymnast who owns a gymnastic studio, right? She was in the <orgName ref="#dvp_077_org_36">National Guard</orgName>. She just joined so she could get college paid for. And she went to <name type="event" ref="#dvp_077_event_5">Desert Storm</name>. She was, the first day of <placeName ref="#dvp_077_place_78">Iraq</placeName>, she was 500 miles inside a… I know this is a little segue, but when she came back, she was a mess psychologically. She got divorced straight away when she came back. Got her dog, jumped in her Saab, and just drove across country, and just get her shit together. Yeah, it was pretty horrific for her. Yeah, I was the only one who was—I think I was the only one that was forced to go. I’m not even sure they still had the draft when my brother was eligible. I know they had the draft, but I’m not sure they actually were sending people or conscripting them.</u>
+      <u who="RAFSON">So, I’m just try to refocus us on our timeline. So, you served 15 years.</u>
+      <u who="BOETTCHER">15-and-a-half.</u>
+      <u who="RAFSON">15-and-a-half. So, I think we covered about eight of it. What else did you do?</u>
+      <u who="BOETTCHER">Okay, so I went to <placeName ref="#dvp_077_place_79">Mildenhall, England</placeName>, for three years, and that was with the previous five years at the eight year point. And typically, for my job, it’d be three years sea duty, three years shore duty. <placeName ref="#dvp_077_place_80">England</placeName> was shore duty. The patrol squadron had been sea duty for five years. And I actually volunteered. I extended my sea duty with them, because it was great sea duty. And I went to <placeName ref="#dvp_077_place_81">England</placeName> for three years shore duty, and then I was at the eight year point, and it was time to reenlist or get out again. And by this time I’d been overseas for three years straight. And really, if I had gotten out of the <orgName ref="#dvp_077_org_37">Navy</orgName> at that point, I don’t know what I would have done.</u>
+      <u who="RAFSON">You were 26 at that time or so?</u>
+      <u who="BOETTCHER">Eight years, I was 18 when I joined, so yeah, I guess I would have been. Well, it was the end of <date when="1981">1981</date>, because I went to <placeName ref="#dvp_077_place_82">England</placeName> at the end of <date when="1978">’78</date>, and then three years there. And, once again they were dangling a bonus, and this time it was $16,000. And I don’t know what I would do. I had started—<orgName ref="#dvp_077_org_38">the University of Maryland</orgName> offers courses at bases all over the world, and they actually have a campus in <placeName ref="#dvp_077_place_83">Heidelberg, Germany</placeName>. And yeah, I’d had no interest in college, and then I happened to take a Sociology 101 course with the <orgName ref="#dvp_077_org_39">University of Maryland</orgName>, and it was so easy. [laughter] And the instructors would, some of them would just like—they’d go to one base and they’d teach a couple of courses, and they’d go to another base and teach a couple. And some instructors were moonlighting. I had some classes from professors from <placeName ref="#dvp_077_place_84">Cambridge, England</placeName>, which wasn’t that far away. Those locals were the hard ones.But, that first Sociology 101 course, you know, it was so easy. I quickly figured out that I could show up for the first class, find out what was expected, and then show up and take the mid-term, get an “A”, read the summaries at the end of the chapter the night before and take the mid-term and get an “A”, take the final and get an “A”. And it was that easy. So, I pretty aggressively pursued a degree at that point. I was halfway through, I’d gotten my associate’s in about 60 hours. And, so I didn’t have a degree which was worth anything yet, associate’s in sociology or whatever it was, or general studies.And I had no idea, no clue what I would do if I went back to the states, because I had been overseas for three years, and I didn’t even know what the country was like anymore. And they were offering this bonus. And they offered me orders to <placeName ref="#dvp_077_place_85">Sigonella, Sicily</placeName>, for sea duty. And this is like three years on dry land. It was considered sea duty because they didn’t have a hospital there; they just had a small medical facility. Maybe there were a couple of other criteria. So I took that. I took the $16,000, and I took the orders to <placeName ref="#dvp_077_place_86">Sigonella, Sicily</placeName>, and went there for three years. And I actually started when I first got there, I worked organizational level on aircraft there. But, then I switched to my real specialty. I went to the intermediate maintenance, working on the bench. And I was a supervisor by that point. I’d still work, you know, but I was in charge of the radar, and really like the catch-all shop, you know, radar and IFF (Identification friend or foe) and chaff dispenser, all kinds of weird stuff. But, I was in charge of that shop, and I did that for three years.And when I reenlisted, to get the maximum bonus I had had to reenlist for six years. And the 15-and-a-half years is kind of like some funny constructive time thing. But, I reenlisted for six years. And so, after three years at <placeName ref="#dvp_077_place_87">Sicily</placeName>, I was due for shore duty. And so far I’d never been on a ship. But from there I got orders to—I volunteered for recruiting duty, because as a recruiter, you know, I grew up in <placeName ref="#dvp_077_place_88">Weymouth</placeName> and I thought oh, it’d be kind of cool to be near home. And I’d been overseas for six years straight, with about a two-week interlude between <placeName ref="#dvp_077_place_89">Mildenhall, England</placeName>, and <placeName ref="#dvp_077_place_90">Sigonella, Sicily</placeName>. So, you know, I’d come back to the states for like two weeks, and back over there. And after six years, you know, things change after six years, and the country, to me the <placeName ref="#dvp_077_place_91">United States</placeName> was a foreign country at that point.But, I took the orders to recruiting duty, and I was the recruiter in charge for <placeName ref="#dvp_077_place_92">Cape Cod</placeName> and islands. Sometimes they’d make me the recruiter in charge of <placeName ref="#dvp_077_place_93">Plymouth</placeName>, because they were always having problems. I did that for three years. While I was in <placeName ref="#dvp_077_place_94">Sicily</placeName>, I had—computers were just starting to get big, and video games had come out. In <placeName ref="#dvp_077_place_95">England</placeName> the last little bit there, Asteroids came out. We used to play that all the time. And I just fell in love with that stuff, and ended up buying—$2,000 for a <placeName ref="#dvp_077_place_96">Texas</placeName> Instruments 99/4A computer. And I got the computer, and I had never programmed except high school, which didn’t count, and I just had an affinity for it, my first computer. And I taught myself BASIC, and in three days I had a Pac Man going across the screen, you know [makes Pac Man noise], and I was hooked. Yeah, and six weeks later I was ordering the assembly language package and the extra like 32K of RAM and all this stuff, and in like two days I had an assembly language program of this guy, this crazy climber game where the guy… And yeah, and it was all self-taught. And I got the Commodore 64.I completed my bachelor’s degree while I was in <placeName ref="#dvp_077_place_97">Sicily</placeName>. The <orgName ref="#dvp_077_org_40">University of Maryland</orgName> was there, too. Business management. Minors in psych and soc, because it was easy, and they are kind of limited how many courses they can offer. But, at that point I would have done computer science if they offered it. This is the early ‘80s, so computer science wasn’t real big then, not like now.So, yeah, so I went recruiting for three years. But, now I had a bachelor’s degree, and I was due to get out of the <orgName ref="#dvp_077_org_41">Navy</orgName>. My six years had run out. And the only choices they offered me for sea duty—recruiting was horrible. It was a horrible job, and it’s like a three-year hole. And, contrary to popular belief, recruiters rarely lie. I’ve known <orgName ref="#dvp_077_org_42">Air Force</orgName>, <orgName ref="#dvp_077_org_43">Army</orgName>—actually, the <orgName ref="#dvp_077_org_44">Air Force</orgName> recruiter’s the one I’ve seen tell some kid who can barely spell <placeName ref="#dvp_077_place_98">Iraq</placeName>, you know, that his brain… The <orgName ref="#dvp_077_org_45">Air Force</orgName> recruiter is the only I’ve ever seen actually tell a kid to his face that “yes, you can be a pilot someday.” Which is technically correct, “if you had a brain transplant,” I don’t know. But, recruiters are good at speaking very selectively. You know, they get good at that. They know what to say and what not to say. Yeah, like they know enough to… And you’re taught some of this at the recruiting school, very intensive, I think it was two months or something like that, in <placeName ref="#dvp_077_place_99">Orlando, Florida</placeName>. But, sales, a lot of administrative paperwork crap. But, real heavy in sales and marketing. And I absolutely hated it. I hated it to the point where I had kids that I told them that “You shouldn’t be here. You should be going to college. Get out of here.”And yeah, I had the choice to get out, and I had, because of reenlisting early and stuff, I came away with 15-and-a-half years. I think it was actually 14-and-a-half or something. But, I decided I was going to get out. And, you know, I taught myself programming, and I had a goal that I was going to get a job as a programmer within a year.My first job, I got out of the <orgName ref="#dvp_077_org_46">Navy</orgName>, that was <date when="1988-02">February, 1988</date>, and I’d been living in <placeName ref="#dvp_077_place_100">East Falmouth, Massachusetts</placeName>, and just for the hell of it, like shortly before I was officially discharged, I drove down to <placeName ref="#dvp_077_place_101">Woods Hole</placeName>, and went in to see what they had for jobs. They said, “Yeah, we have a job. Electronics guy, right? Fixing electronics. But you have to go to sea.” And I’d never been to sea after 15-and-a-half years. So, I talked to him, and it turned out to be the <orgName ref="#dvp_077_org_47">Alvin Group</orgName>, you know the submersible that found the Titanic, the submarine? Yeah, I had a job. That was my job. I was electronics, and a pilot-in-training for the <orgName ref="#dvp_077_org_48">Alvin</orgName>. So, two weeks after I was officially out of the <orgName ref="#dvp_077_org_49">Navy</orgName>, I was on a plane down to <placeName ref="#dvp_077_place_102">Guatemala City</placeName> to join up with the ship that carries the <persName ref="#dvp_077_person_22">Alvin</persName> on it, the Atlantis II, which was in dock at the time. They pull in the dock and one group of scientists from <placeName ref="#dvp_077_place_103">Scripps</placeName> or someplace will get off, and another one will get on, and they’ll go out to sea and do a dive series. And that’s what I did after that. And then, I had carpal tunnel, but nobody knew what it was back then, but after about six months—and I had made one dive as a pilot, but after six months I had to leave because the carpal tunnel was so bad, and it was like literally waking me up at night. And my first job was after that, I got a job as a programmer, and then I—</u>
+      <u who="RAFSON">Where did you start programming?</u>
+      <u who="BOETTCHER">It was an old engineering place, a little engineering firm. There was one guy, he did a SBIR (Small Business Innovation Research) grants. So, he was a retired <orgName ref="#dvp_077_org_50">Army</orgName> colonel, and he had the guy from <placeName ref="#dvp_077_place_104">U Mass</placeName> who’s a physics guy, and they were doing this program that—this is in late <date when="1988">’88</date>, early <date when="1989">’89</date>, I think—but, they had this program that let deaf people talk on the telephone, and we used some really early speech synthesizer. It sounded like <persName ref="#dvp_077_person_23">Stephen Hawking</persName>, all right? Really early speech synthesizer and some hardware that this other guy had come up with that did the touch tones and everything. And I wrote the software for that in BASIC. And I had taught myself to program C, and I knew assembly language, and a couple of different ones, and logo and all the stuff. Then I moved out west and I got a job with a place called Dynamics. [Pause]</u>
+      <u who="RAFSON">So, you moved out west.</u>
+      <u who="BOETTCHER">Yeah. So, my first marriage didn’t last very long, nothing to do with the—ah yeah, it had a lot to do with the <orgName ref="#dvp_077_org_51">Navy</orgName> actually, because I went to sea for five months, and she had a lot of fun while I was gone. [laughter] That’s all I’ll say about that. But, then I remarried somebody who had been married to another <orgName ref="#dvp_077_org_52">Navy</orgName> guy in <placeName ref="#dvp_077_place_105">Brunswick, Maine</placeName>, and that marriage lasted a long time, but it was not good. And so, I’d been working there as a programmer at this place, and also started getting into BBSs, Bulletin Board Systems.</u>
+      <u who="RAFSON">Could you explain to me what that is?</u>
+      <u who="BOETTCHER">A Bulletin Board System?</u>
+      <u who="RAFSON">Yeah.</u>
+      <u who="BOETTCHER">Probably, well, a precursor to the internet. And back then we had <orgName ref="#dvp_077_org_53">CompuServe</orgName>, which was about the earliest online thing that I can remember that you can get online and chat with people.</u>
+      <u who="RAFSON">Around what year is this?</u>
+      <u who="BOETTCHER">That was while I was a recruiter. So, you have the telephone modem, all right, you have to hook it up to your phone, and you dial out. And so, at <orgName ref="#dvp_077_org_54">CompuServe</orgName>, they had numbers all over the place. There were things for—they’d send out these, I want to say CDs, but no. They were floppy disks, right? And they’d send them out to everybody, and I think that was even before <orgName ref="#dvp_077_org_55">AOL</orgName>. <orgName ref="#dvp_077_org_56">America Online</orgName> came later, I believe. But, <orgName ref="#dvp_077_org_57">CompuServe</orgName>, you dial up and they had numbers all over the place you could dial locally. And you’d dial up and they had like a file system that you could upload files, download files. And they had these forums, and you’d get in there and you could chat with people, which was amazing at the time. And I think it was only like one-on-one. I don’t remember when the first chat rooms where you actually—maybe it was… And I really got into that. And I can remember the first time I saw “lol”, which makes me want to vomit every time I see it now, and I get texted “lol” all the time. But, you know, all those, all the emojis, the colon and—I think I might have actually made a couple up myself that I still can use, but it was different things that you with the semicolon and a closed paren, and, you know… But, yeah, I was a recruiter about, it would have been I was there <date when="1984">‘84</date>, end of <date when="1984">’84</date> to early <date when="1988">’88</date>, and that’s when all that stuff started really hitting, the online stuff. Now, Bulletin Board System, it was typically somebody would just have an extra phone line, and they had a little server on a computer—usually it was a PC—and people would be able to dial in, and one person at a time typically dial in, and you could play games and do different things, leave messages for people. I don’t know if it was even called email, but leave messages for people there.And I got really interested in, because of that carpal tunnel with <placeName ref="#dvp_077_place_106">Woods Hole</placeName> when I worked for the <orgName ref="#dvp_077_org_58">Alvin Group</orgName>, I got a workers comp settlement because it was work related. So I got a chunk of money, a big chunk of money all at once. And so I invested in this—at the time it was very, very new. This was like <date when="1989">1989</date> now. I invested in this new system, it was called the Major BBS, and this system, this Bulletin Board System, the software allowed you to actually have multiple phone lines. And I actually had this system; I had like 12 lines, I think, 12 phone lines. And we rented a little office, and people could come in and they could chat and, you know, do all the stuff you do on the internet nowadays. And it was an open system. You could write a program where you could write—add on modules.And I wrote a few programs that are add-on modules. My first one was Hyperdate, which was a dating thing, and you’d fill out a questionnaire and it’d kind of match you up with people. And, you know, it was totally bogus. [laughter] It was smart enough not to match you up with somebody of the same sex unless you wanted to be, you know. But, other than that, it was… Yeah, but it was fun. It was a lot of fun. I had another one, Storyland, where you’d start off with this one chapter, right, and then anybody could go in and add a chapter. And you’d end up with these hilarious stories, you know; it was like, “<persName ref="#dvp_077_person_24">Joe</persName> went to work one day, and he opened the door and…” And then the next person would say, “…in popped a purple wolf and ate everybody up” or you know, just like really fun stuff. But, I did a few of those.And so, people would pay me a little bit each month to use the system. And then I made money with—the software I wrote would be sold to system operators, sys ops. Those are like the admins, right. And I sold them to all the big systems like in <placeName ref="#dvp_077_place_107">New York</placeName> and <placeName ref="#dvp_077_place_108">Chicago</placeName>, and any place there was a big population. And some of these systems would have literally like two hundred-something lines that people could dial in, and they’d charge money.And my marriage then was really going south, so I just, one day I just took my van and put everything I could in. I drove out west to, ended up <placeName ref="#dvp_077_place_109">Eugene, Oregon</placeName>, which is just… Don’t ask me why I ended up… I went to <placeName ref="#dvp_077_place_110">Seattle</placeName> first, and spent some time with a woman I had met online on a Bulletin Board System, right? And then, but I went to <placeName ref="#dvp_077_place_111">Eugene, Oregon</placeName>, and I got a job there. I had a little money saved up, and I was just writing software for this Bulletin Board System, and I sold a few. Yeah, I’d get a couple hundred dollars for every copy of one of these programs that I sold.And then, one day I walked in, there was a game company there in town, and there was this big place. Hey, anybody’s who been around computers like back in the ‘80s will know <orgName ref="#dvp_077_org_59">Sierra On-Line</orgName>. But, there was a game company that did <orgName ref="#dvp_077_org_60">AAA games</orgName>, like things you buy at <orgName ref="#dvp_077_org_61">Best Buy</orgName> or wherever. And I just walked in off the street, this place called <orgName ref="#dvp_077_org_62">Dynamics</orgName>, and they were a part of <orgName ref="#dvp_077_org_63">Sierra On-Line</orgName>, and they did 3D simulations in DOS, which was before Windows, which they were pretty cool for the time. They were like state of the art. And I just walked in off the street and applied for a job there, and I took the programming test and I interviewed, and I got a job, and that’s my first real programming job. This was like world class company, you know? And I learned a lot there. I learned a lot. That’s where I really learned to program, you know, stuff you’d never learn in college even now, you know, just sitting there looking at other people’s code.And I worked there for a while, and then I went to <placeName ref="#dvp_077_place_112">Bend, Oregon</placeName>, and I worked at a game company there for a while, and that was like the first PlayStation that came out. We were working on it before it came out. I had the black box PlayStation, writing code for that, and did some games for—I did work for <orgName ref="#dvp_077_org_64">Apple</orgName>, and from <placeName ref="#dvp_077_place_113">Bend, Oregon</placeName>, which is the middle of <placeName ref="#dvp_077_place_114">Oregon</placeName>. That place ended up becoming, eventually they became <orgName ref="#dvp_077_org_65">Sony Bend</orgName>. They were bought by <orgName ref="#dvp_077_org_66">Sony</orgName>. Yeah, I worked for a bunch of different big game companies. And then I ended up, I got a job at a game company up near <placeName ref="#dvp_077_place_115">Portland, Oregon</placeName>. It was kind of a start-up with a guy, he made like a zillion dollars doing the ten little games and the…So, I went to work for him for a while, and it was pretty poorly run. And then I just, I just decided, Yeah, I’ve had enough with games, because the game industry sucks. Because games are always late, and you end up working day and night. Yeah, I’ve been at a game company where the CEO brought cots in, and nobody was sure if he brought cots in because this game, Aces of the Pacific, was late, and we didn’t know if he’d brought the cots in to encourage people to stay all night, or because people were already staying overnight, which they were. They’d fall asleep at their desk, you know?And I got a job as a contractor for <orgName ref="#dvp_077_org_67">HP, Hewlett-Packard</orgName>, up in <placeName ref="#dvp_077_place_116">Vancouver, Washington</placeName>, right across the river from <placeName ref="#dvp_077_place_117">Portland</placeName>. I worked there. It was a contractor job, but then they asked me to go permanent, and I did that. And then I went, from there I got a big raise by going about a mile up the road to <orgName ref="#dvp_077_org_68">Sharp Labs of America</orgName>. And I filed some software patents, and have gotten some patents for software from <orgName ref="#dvp_077_org_69">HP</orgName> and <orgName ref="#dvp_077_org_70">Sharp Labs</orgName>. The only thing that a bachelor’s degree in business management did was give me the BS to put after my name, you know. So, but it did absolutely nothing as far as, you know, it’s all self-taught.</u>
+      <u who="RAFSON">Do you think anything you’ve learned in any of your 15 years helped you?</u>
+      <u who="BOETTCHER">Yeah. Well, you know, the job certainly, the aviation electronics is very heavy on—it’s math and physics. And you don’t just jump in and start fixing radar without learning something. So, you know, certainly for my degree I had a couple of statistics courses. That was about the only math for business management. But, the <orgName ref="#dvp_077_org_71">Navy</orgName> job really helped, or the <orgName ref="#dvp_077_org_72">Navy</orgName> training. And also the job itself. There were a lot of similarities. When you’re programming, you’re fixing problems, constantly fixing problems. When you’re troubleshooting a radio that doesn’t work, you’re fixing problems. It’s the same thing. You learn to be methodical, break things down into smaller and smaller bits until, you know, divide and conquer, right? You divide the middle and figure out, Okay, well the problem’s after here, or after this point between here and the end. Okay, well, now the problem’s here. And you isolate and you get down to the final quantum level, whatever, but you get down to where there’s nothing else that it could be, you know? And it’s the same thing with programming. You write code, and the best programmers on earth always have bugs. I have bugs now all the time. And you have to isolate them. You say, Okay, well, it’s here and here. You know, I’d have to say the <orgName ref="#dvp_077_org_73">Navy</orgName> training helped quite a bit. I don’t think I ever really took to the discipline, or the authoritarian side of the military. I’ve seen people, and these are the people that I want nothing to do with ever again, you know, people who—and they’re typically career people who really take it to heart, and can I use the word “assholes”?</u>
+      <u who="RAFSON">You can.</u>
+      <u who="BOETTCHER">Okay. Yeah, they’re assholes. I’ve had people that were great friends of mine early on, and they went on and became like chiefs in the <orgName ref="#dvp_077_org_74">Navy</orgName>, right? It was a career; that’s what they did. When somebody does something wrong, you put them on your report, right? You write them up. And I’m kind of proud to say that in 15-and-a-half years, I never once wrote anybody up. There were times that other—a lot of times that other people would have. So, it never really took.There was at boot camp, thinking about it, I think I only went for seven weeks, and there was this tiny window. I just happened to hit all the lucky breaks. I was like 18 when the drinking age turned 18, right? This small period of time, I think they were trying to pump people through boot camp faster to get them out. And it probably wasn’t just the <orgName ref="#dvp_077_org_75">Navy</orgName>. It was probably all the branches. But, for a very short period of time, they lowered the amount of time for boot camp. So I think I went seven weeks, and it’d been like nine before that. And then, shortly after I got out of boot camp, it went back up to like 11 or something, you know, because it was a failed experiment, I think. So, I attribute that in part to why it just never took for me. But, I know a lot of people that it just—I’ve known people that went 20, 30 years, you know, and they’re just like really laid back and, you know, people you want to work for. And I’ve met a lot that turned into real jerks after four years.Yeah, the military and the <orgName ref="#dvp_077_org_76">Navy</orgName> there, it’s all about discipline. You know, ideally every commander, every leader, you know, a  platoon leader in <name type="event" ref="#dvp_077_event_6">Vietnam</name> or the head of a shop on an aircraft carrier, you know, they’re always going to make the right decisions, or the optimal decisions, and people are going to blindly obey them. But, people don’t always make the optimal decisions. And it’s not just a matter of training or experience or anything; it’s just some people, that’s just the way they are. And people who blindly obey, and I’ve known people, a lot of people just happy to—you know, “sheeple,” right?—you know, just happy to follow. If you’re in a high stress situation like <name type="event" ref="#dvp_077_event_7">Vietnam</name> or something, if you get a bad leader and he gets fragged, right? And I can see—I really can’t imagine me ever, ever doing that, but I can see what leads people up to doing that. They get a bad leader who’s going to get them killed, and shoot him in the back, you know?And the <orgName ref="#dvp_077_org_77">Navy</orgName>, they’re sticklers for discipline and they had inspections like every week. And I still have, to this day, I have—I’m pretty sure I had PTSD just from being in the <orgName ref="#dvp_077_org_78">Navy</orgName>, because to this day, I think as recently as last week, I have a dream where—I get these, you know?—I had a dream where I was not ready for an inspection that I had to be at shortly. You know, it’s the dream where you’re in public speaking and you’re in your underwear, right? And it’s one of those. Yeah, I get those a lot. And I don’t think it’s ever going to go away. I figured it would someday, but I’ve been out of the <orgName ref="#dvp_077_org_79">Navy</orgName> since <date when="1988">1988</date>, and this is <date when="2018">2018</date>. What’s that? Like a lot of years, right? 30 years. Yeah, that’s a big number. And I still get dreams on a regular basis of being in the <orgName ref="#dvp_077_org_80">Navy</orgName>. And I can just imagine, you know, if I still get those—and I was successful in the <orgName ref="#dvp_077_org_81">Navy</orgName>; I did well. But, if I get those, I can just imagine what somebody who it wasn’t a matter of having the right medals on or having your shoes shined or whatever, you know, somebody who was actually at risk of being killed on a daily basis. I wouldn’t want to be one of them.</u>
+      <u who="RAFSON">So, would you mind just walking me through the last part of how did you get to <orgName ref="#dvp_077_org_82">Dartmouth</orgName> and how did you find yourself here?</u>
+      <u who="BOETTCHER">Okay. So, I will get to <orgName ref="#dvp_077_org_83">Dartmouth</orgName>. It’s a long story, but… Okay, so I went to HP, and then I worked there, this is like the second half of the ‘90s. I worked for the game company up until like <date when="1996">’96</date> or something, and then I got my first job at <orgName ref="#dvp_077_org_84">HP</orgName>, and I think it was <date when="1997">’97</date>; I ended up being there for three years or something. The <date when="2000">2000</date> election, <persName ref="#dvp_077_person_25">George W.</persName> got elected. Now, okay, backing up just a little bit. When I worked at <orgName ref="#dvp_077_org_85">HP</orgName>, I was with the ink jet printer division, and I worked with the color science group. And I was self-taught as a programmer, but I worked with a lot of really good programmers, so I learned a lot about a lot of different things. And I was really interested in algorithm development and perception. And I ended up with the color science group there, and these are the people that try to make the printers print as quickly as possible, and they have to come up with all these algorithms to scale images up and down and still make them look good. And there’s a lot of weird little things you have to know, like we perceive differences in the color and shades of green a lot better than red and blue. So, yeah, small things like that, like physiological things or neurological. There’s a lot of science there outside of computer science.So, and that’s where I got into patents. Anybody who remembers it would take a minute to print the page, certain types of images, well, for anybody who can remember those days, I got it down to two seconds. That’s two patents there. But, yeah, for certain core cases; it wasn’t for everything.But, yeah, I went up to <orgName ref="#dvp_077_org_86">Sharp Labs</orgName>, and mainly because it was a big increase. But, while I was at HP, I had been offered a position over in <placeName ref="#dvp_077_place_118">Barcelona, Spain</placeName>, working on the big wide format printers, the ones that do posters and stuff. Their division was over there, and I’d been offered a position there, and I was all set to go, myself, my third wife and two boys, young boys. We were all psyched, you know. We were going to go to <placeName ref="#dvp_077_place_119">Barcelona</placeName>, right? And we were buying books about <placeName ref="#dvp_077_place_120">Barcelona</placeName> and everything. And then my manager at <orgName ref="#dvp_077_org_87">HP</orgName>, the one that I worked for, wouldn’t release me to go over there. And, so that was part of the reason I quit and I went to the <orgName ref="#dvp_077_org_88">Sharp Labs</orgName>. And so, at that point the seed had been planted, you know, go overseas. And, plus a good raise.So, I worked at <orgName ref="#dvp_077_org_89">Sharp Labs</orgName> for a little while, and then the election went on and <persName ref="#dvp_077_person_26">Bush</persName> got elected, and it’s like, Screw this! We’re out of here, you know? And we just wanted to go overseas. And we chose <placeName ref="#dvp_077_place_121">New Zealand</placeName> because Europe at the time, even for a software engineer, no matter how good you are, there’s plenty of people over there to do that job. <placeName ref="#dvp_077_place_122">New Zealand</placeName>, they were always looking for good engineers. And they spoke English. <placeName ref="#dvp_077_place_123">Australia</placeName>, you know, it could have been <placeName ref="#dvp_077_place_124">Australia</placeName>, too, but <placeName ref="#dvp_077_place_125">Australia</placeName> is a little bit harder to get into. We could have, but <placeName ref="#dvp_077_place_126">New Zealand</placeName> just had everything. It looked like a good clean place.</u>
+      <u who="RAFSON">Beautiful, too.</u>
+      <u who="BOETTCHER">Yeah. So, I flew down and I did some job interviews, got a couple of job offers with relocation. So, we ended up… And I did that, I flew down right after the inauguration in <date when="2001">2001</date>. It was not just <persName ref="#dvp_077_person_27">George W. Bush</persName> per se, but just the fact that there were so many… You ever hear of the <persName ref="#dvp_077_person_28">Green Day</persName> song, “American Idiot”?</u>
+      <u who="RAFSON">Yeah.</u>
+      <u who="BOETTCHER">That’s like, it should be the national anthem or something like that, you know. [laughter] I mean, I just listened to it yesterday actually. Yeah, we just, we wanted nothing to do with any country that so many people would vote for that guy, right? So, we went there, and we stayed there for six-and-a-half years and got permanent residency. I worked for <orgName ref="#dvp_077_org_90">Trimble Navigation</orgName> at first. They paid the relocation. Then I got a job at the <orgName ref="#dvp_077_org_91">University of Canterbury</orgName>. So, that was my first academic job. <orgName ref="#dvp_077_org_92">Woods Hole</orgName> was not really academic. I was driving a submarine around, you know. So, <orgName ref="#dvp_077_org_93">University of Canterbury</orgName>, I worked for five-and-a-half years on some programming for the psychology department, a really big department. They had a huge animal lab and were world class; they were really good. And then, we decided… We were over there when the towers came down, right, which was pretty weird. But, yeah, then <date when="2007">2007</date>, you know, <persName ref="#dvp_077_person_29">Bush</persName> was going to be gone, well, actually, <persName ref="#dvp_077_person_30">Obama</persName> was in charge. We decided in <date when="2007">2007</date> it was time to come back because we were missing family and everything. So, we just looked at—you know, we could have gone anywhere we wanted. And we didn’t want the Pacific Northwest anymore because it rains all winter and, you know, it’s just yucky. And we wanted snow. And <placeName ref="#dvp_077_place_127">Vermont</placeName> just kind of like had everything except for jobs for me, but my ex-wife, my third wife, ex-, is a registered nurse, and she got a job. She was offered a job even before setting foot back in the country at <orgName ref="#dvp_077_org_94">Gifford</orgName>, <placeName ref="#dvp_077_place_128">Randolph, Vermont</placeName>. And yeah, and we just ended up coming to <placeName ref="#dvp_077_place_129">Vermont</placeName>.And I actually got a job in <placeName ref="#dvp_077_place_130">Randolph</placeName> also, like in early <date when="2008">2008</date>, working for <orgName ref="#dvp_077_org_95">Applied Research Associates</orgName> as a software engineer, or senior computer scientist; that was my title. It varies. And I did that for five-and-a-half years. We had two rounds of layoffs, and I got through the first one, but the second one, they just decimated, you know, everybody was gone, including me. And, so that was <date when="2013">2013</date>. And I just didn’t do anything. I didn’t even look for jobs or anything for a while, just took some time off. Then I happened to look online and I saw an opening for <orgName ref="#dvp_077_org_96">The Neukom Institute [for Computational Science]</orgName>. Are you familiar with them?</u>
+      <u who="RAFSON">I do.</u>
+      <u who="BOETTCHER">I don’t know if the grant that you’re working for, I don’t know if that’s a <orgName ref="#dvp_077_org_97">Neukom</orgName> grant? Or maybe not. Who’s the PI? I forget.</u>
+      <u who="RAFSON">PI?</u>
+      <u who="BOETTCHER">Yeah, who’s the professor?</u>
+      <u who="RAFSON">Oh, <persName ref="#dvp_077_person_31">Edward Miller</persName> and <persName ref="#dvp_077_person_32">Jennifer Miller</persName>.</u>
+      <u who="BOETTCHER">Yeah, okay. Well, anyways, yeah, The <orgName ref="#dvp_077_org_98">Neukom Institute</orgName> at <orgName ref="#dvp_077_org_99">Dartmouth</orgName>. It’s technically not part of <orgName ref="#dvp_077_org_100">Dartmouth</orgName>, but it was. And <persName ref="#dvp_077_person_33">[Professor Daniel] Dan Rockmore</persName>, he has been, I think, the head of the Math Department here, and he works in computer science and math. But, I applied for the job and I got the job working for the <orgName ref="#dvp_077_org_101">Newcomb Institute</orgName>. And, so I was a <orgName ref="#dvp_077_org_102">Dartmouth</orgName> employee, but it’s kind of weird, but <persName ref="#dvp_077_person_34">[William H.] Bill Neukom</persName>, who made millions of bucks, from way back, did his undergrad here, and went to <orgName ref="#dvp_077_org_103">Stanford</orgName>, I think, and became a lawyer, and he was at <orgName ref="#dvp_077_org_104">Microsoft</orgName> when they first started, you know, so he’s probably a billionaire. But, what The <orgName ref="#dvp_077_org_105">Neukom Institute</orgName> did was provide grant money for innovation, innovative projects involving computer science. And I’ve done work for Humanities and PBS and Psychology Brain Science, yeah, and different, oh, Art History, Linguistics. I have a key to the Linguistics lab, I think, still. But, yeah, I worked for The <orgName ref="#dvp_077_org_106">Neukom Institute</orgName>, and I was supposed to be permanent. But then, <persName ref="#dvp_077_person_35">Dan Rockmore</persName>, my boss, you know, I saw him for about the third time in the year that I’d been here, right? He says, “Oh, well, I’ve only got funding for a year,” you know, for my permanent job, but “so, I can’t pay for you anymore.” Or something, right? “But, I found you this other job.” This is a research computing, right? And I almost walked, but I decided to try it. I’m glad I did now. And, so I worked for <orgName ref="#dvp_077_org_107">Newcomb Institute</orgName> for a little over a year, and yeah, I had a <orgName ref="#dvp_077_org_108">Dartmouth</orgName> ID, but <persName ref="#dvp_077_person_36">Bill Neukom</persName> was paying the salaries. I don’t know how it works, but…And then I’ve been working since <date when="2014">2014</date> now, so I guess it’s my fourth year working for research computing. Yeah. That’s how I ended up at <orgName ref="#dvp_077_org_109">Dartmouth</orgName>. So, it’s a long tortuous road, but it’s been like bootstraps the whole way, because the traditional courses, you know, you go to school, you go to school at <orgName ref="#dvp_077_org_110">Dartmouth</orgName>, and you get a degree in computer science or physics or electrical engineering or something, and then you become a programmer, and then you get a job at research computing. And I think half the group has advanced degrees, you know, like Ph.Ds. And yeah, I just happened to be in that, again, little window where… Nowadays, see, it’s almost impossible to, you know, if you don’t have the degree, you know to get like an entry level job as a programmer. You really need the academic training. But, for a while there, like in the ‘80s and ‘90s, at least half the people I worked with early on, they were all just self-taught. I feel very fortunate. I will never leave <orgName ref="#dvp_077_org_111">Dartmouth</orgName> on two feet, you know. I mean, you know, they’d have to drag me out of here. Yeah, I really, really liked the last university, <orgName ref="#dvp_077_org_112">Canterbury</orgName>, but this place, you know, it’s refreshing to work around so many smart people. And every student I’ve spent any time with, you know, it’s just, Boy, I wish I was them at their age, you know? Yeah. I had to say that for the recording. [laughter] “Brought to you by <orgName ref="#dvp_077_org_113">Dartmouth College</orgName>.”</u>
+      <u who="RAFSON">There is definitely something about this community that I don’t think you can find in a lot of places, though.</u>
+      <u who="BOETTCHER">No, no. Yeah, I’ve worked with a lot of people from different—<orgName ref="#dvp_077_org_114">MIT</orgName> and…I worked for one guy, you wouldn’t have heard of the game, Zork, but it was like the groundbreaking text adventure game back in the ‘70s. And I worked with him at <orgName ref="#dvp_077_org_115">Sony Bend</orgName>, and you talk to anybody who got into computers like in the early ‘80s and mention the name, <persName ref="#dvp_077_person_37">Zork</persName>, and they’ll know immediately what you’re talking about. It’s like <orgName ref="#dvp_077_org_116">Facebook</orgName>, right? You know, “Oh, yeah, yeah, I worked for the guy who started <orgName ref="#dvp_077_org_117">Facebook</orgName>,” right? It’s the same sort of, not too far off from that. And this guy did his undergrad at <orgName ref="#dvp_077_org_118">MIT</orgName>, and then studied to be an MD at the <orgName ref="#dvp_077_org_119">Albert Einstein College of Medicine</orgName>. And while he was studying to be an MD, a doctor, there, every weekend he was driving back up to <orgName ref="#dvp_077_org_120">MIT</orgName>, working on this game. And he’s a total jerk, one of the worst guys I’ve ever had to work with in every way. He was super smart, but… And the people here, you know, there are some people, you know, who have a bit of an attitude, but I have to say, though, the people here are really—you know, if I went back in time somehow and I actually worked in high school, <orgName ref="#dvp_077_org_121">Dartmouth</orgName> would be one of my first choices, for sure. Yeah.</u>
+      <u who="RAFSON">Do you have anything else that you would like to add or that you don’t think we got to today?</u>
+      <u who="BOETTCHER">No. You know, it’s just, I don’t know, it’s very difficult to put into words that are actually meaningful what it felt like to live then. Yeah, I just can’t put it in words what it was like to have that hanging over you, to know that the country… It’s a good reason why a lot of people would just really despise their own country back then, any country that would make you go over there for no reason, no real justification that would put you in that position at that age, deliberately sacrifice people that just barely, you know, seventeen. You’ve just started, you know? Your life’s just beginning. You’re done with high school, and you’re supposed to go out and start making the rest of your life, not go get shot at someplace, and for no reason, you know? And that’s scary. No wonder people got high all the time, you know? It’s like so they wouldn’t worry about it. When people went over there, that’s all they did, you know? Yeah. I don’t know, and I thought about that before this interview, How could I put that in words? I can’t.</u>
+      <u who="RAFSON">Well, thank you so much for speaking with me.</u>
+      <u who="BOETTCHER">Yeah, no problem. I appreciate the opportunity.(End of Interview.)</u>
+    </body>
+  </text>
+  <standOff>
+    <listPlace>
+      <place xml:id="dvp_077_place_0">
+        <placeName>Rauner Special Collections Library</placeName>
+        <location>
+          <geo>43.70447 -72.28817</geo>
+        </location>
+        <idno type="WD">Q98544730</idno>
+      </place>
+      <place xml:id="dvp_077_place_1">
+        <placeName>Dartmouth College</placeName>
+        <location>
+          <geo>43.703333333333 -72.288333333333</geo>
+        </location>
+        <idno type="WD">Q49116</idno>
+      </place>
+      <place xml:id="dvp_077_place_2">
+        <placeName>Hanover</placeName>
+        <location>
+          <geo>43.7 -72.28333333333333</geo>
+        </location>
+        <idno type="WD">Q131908</idno>
+      </place>
+      <place xml:id="dvp_077_place_3">
+        <placeName>Weymouth</placeName>
+        <location>
+          <geo>42.220833333333 -70.940277777778</geo>
+        </location>
+        <idno type="WD">Q54195</idno>
+      </place>
+      <place xml:id="dvp_077_place_4">
+        <placeName>Boston</placeName>
+        <location>
+          <geo>42.358333333333 -71.0625</geo>
+        </location>
+        <idno type="WD">Q100</idno>
+      </place>
+      <place xml:id="dvp_077_place_5">
+        <placeName>Boston</placeName>
+        <location>
+          <geo>42.358333333333 -71.0625</geo>
+        </location>
+        <idno type="WD">Q100</idno>
+      </place>
+      <place xml:id="dvp_077_place_6">
+        <placeName>Weymouth</placeName>
+        <location>
+          <geo>42.220833333333 -70.940277777778</geo>
+        </location>
+        <idno type="WD">Q54195</idno>
+      </place>
+      <place xml:id="dvp_077_place_7">
+        <placeName>South Weymouth</placeName>
+        <location>
+          <geo>42.10559 -70.56380</geo>
+        </location>
+        <idno type="WD">Q7568925</idno>
+      </place>
+      <place xml:id="dvp_077_place_8">
+        <placeName>North Weymouth</placeName>
+        <location>
+          <geo>42.2149  -70.9404</geo>
+        </location>
+        <idno type="WD">Q107589418</idno>
+      </place>
+      <place xml:id="dvp_077_place_9">
+        <placeName>Weymouth</placeName>
+        <location>
+          <geo>42.220833333333 -70.940277777778</geo>
+        </location>
+        <idno type="WD">Q54195</idno>
+      </place>
+      <place xml:id="dvp_077_place_10">
+        <placeName>New York City</placeName>
+        <location>
+          <geo>40.67 -73.94</geo>
+        </location>
+        <idno type="WD">Q60</idno>
+      </place>
+      <place xml:id="dvp_077_place_11">
+        <placeName>New York City</placeName>
+        <location>
+          <geo>40.67 -73.94</geo>
+        </location>
+        <idno type="WD">Q60</idno>
+      </place>
+      <place xml:id="dvp_077_place_12">
+        <placeName>Washington</placeName>
+        <location>
+          <geo>47.5 -120.5</geo>
+        </location>
+        <idno type="WD">Q1223</idno>
+      </place>
+      <place xml:id="dvp_077_place_13">
+        <placeName>New Zealand</placeName>
+        <location>
+          <geo>-41.2 174</geo>
+        </location>
+        <idno type="WD">Q664</idno>
+      </place>
+      <place xml:id="dvp_077_place_14">
+        <placeName>New Hampshire</placeName>
+        <location>
+          <geo>44 -71.5</geo>
+        </location>
+        <idno type="WD">Q759</idno>
+      </place>
+      <place xml:id="dvp_077_place_15">
+        <placeName>Vermont</placeName>
+        <location>
+          <geo>44 -72.7</geo>
+        </location>
+        <idno type="WD">Q16551</idno>
+      </place>
+      <place xml:id="dvp_077_place_16">
+        <placeName>Mount Washington</placeName>
+        <location>
+          <geo>44.270827777778 -71.303483333333</geo>
+        </location>
+        <idno type="WD">Q572801</idno>
+      </place>
+      <place xml:id="dvp_077_place_17">
+        <placeName>Mount Washington</placeName>
+        <location>
+          <geo>44.270827777778 -71.303483333333</geo>
+        </location>
+        <idno type="WD">Q572801</idno>
+      </place>
+      <place xml:id="dvp_077_place_18">
+        <placeName>Horse and Hound Inn</placeName>
+        <location>
+          <geo>44.198408  -71.726283</geo>
+        </location>
+        <idno type="WD">Q107589463</idno>
+      </place>
+      <place xml:id="dvp_077_place_19">
+        <placeName>Franconia</placeName>
+        <location>
+          <geo>44.227222222222 -71.748333333333</geo>
+        </location>
+        <idno type="WD">Q2323254</idno>
+      </place>
+      <place xml:id="dvp_077_place_20">
+        <placeName>New Hampshire</placeName>
+        <location>
+          <geo>44 -71.5</geo>
+        </location>
+        <idno type="WD">Q759</idno>
+      </place>
+      <place xml:id="dvp_077_place_21">
+        <placeName>Boston</placeName>
+        <location>
+          <geo>42.358333333333 -71.0625</geo>
+        </location>
+        <idno type="WD">Q100</idno>
+      </place>
+      <place xml:id="dvp_077_place_22">
+        <placeName>Boston</placeName>
+        <location>
+          <geo>42.358333333333 -71.0625</geo>
+        </location>
+        <idno type="WD">Q100</idno>
+      </place>
+      <place xml:id="dvp_077_place_23">
+        <placeName>Combat Zone</placeName>
+        <location>
+          <geo>42.3515 -71.0628</geo>
+        </location>
+        <idno type="WD">Q5150692</idno>
+      </place>
+      <place xml:id="dvp_077_place_24">
+        <placeName>Combat Zone</placeName>
+        <location>
+          <geo>42.3515 -71.0628</geo>
+        </location>
+        <idno type="WD">Q5150692</idno>
+      </place>
+      <place xml:id="dvp_077_place_25">
+        <placeName>Harvard Square</placeName>
+        <location>
+          <geo>42.373611 -71.118889</geo>
+        </location>
+        <idno type="WD">Q1587858</idno>
+      </place>
+      <place xml:id="dvp_077_place_26">
+        <placeName>Boston Common</placeName>
+        <location>
+          <geo>42.355 -71.065555555556</geo>
+        </location>
+        <idno type="WD">Q49132</idno>
+      </place>
+      <place xml:id="dvp_077_place_27">
+        <placeName>Vietnam</placeName>
+        <location>
+          <geo>16 108</geo>
+        </location>
+        <idno type="WD">Q881</idno>
+      </place>
+      <place xml:id="dvp_077_place_28">
+        <placeName>Franconia</placeName>
+        <location>
+          <geo>44.227222222222 -71.748333333333</geo>
+        </location>
+        <idno type="WD">Q2323254</idno>
+      </place>
+      <place xml:id="dvp_077_place_29">
+        <placeName>Boston Whaler</placeName>
+        <location>
+          <geo>28.92165  -80.86949</geo>
+        </location>
+        <idno type="WD">Q894602</idno>
+      </place>
+      <place xml:id="dvp_077_place_30">
+        <placeName>Canada</placeName>
+        <location>
+          <geo>56 -109</geo>
+        </location>
+        <idno type="WD">Q16</idno>
+      </place>
+      <place xml:id="dvp_077_place_31">
+        <placeName>New Hampshire</placeName>
+        <location>
+          <geo>44 -71.5</geo>
+        </location>
+        <idno type="WD">Q759</idno>
+      </place>
+      <place xml:id="dvp_077_place_32">
+        <placeName>Canada</placeName>
+        <location>
+          <geo>56 -109</geo>
+        </location>
+        <idno type="WD">Q16</idno>
+      </place>
+      <place xml:id="dvp_077_place_33">
+        <placeName>Canada</placeName>
+        <location>
+          <geo>56 -109</geo>
+        </location>
+        <idno type="WD">Q16</idno>
+      </place>
+      <place xml:id="dvp_077_place_34">
+        <placeName>Millington</placeName>
+        <location>
+          <geo>35.336666666667 -89.902222222222</geo>
+        </location>
+        <idno type="WD">Q2218105</idno>
+      </place>
+      <place xml:id="dvp_077_place_35">
+        <placeName>Memphis</placeName>
+        <location>
+          <geo>35.1175 -89.971111111111</geo>
+        </location>
+        <idno type="WD">Q16563</idno>
+      </place>
+      <place xml:id="dvp_077_place_36">
+        <placeName>Memphis</placeName>
+        <location>
+          <geo>35.1175 -89.971111111111</geo>
+        </location>
+        <idno type="WD">Q16563</idno>
+      </place>
+      <place xml:id="dvp_077_place_37">
+        <placeName>Brunswick</placeName>
+        <location>
+          <geo>43.910833333333 -69.963055555556</geo>
+        </location>
+        <idno type="WD">Q518466</idno>
+      </place>
+      <place xml:id="dvp_077_place_38">
+        <placeName>Weymouth</placeName>
+        <location>
+          <geo>42.220833333333 -70.940277777778</geo>
+        </location>
+        <idno type="WD">Q54195</idno>
+      </place>
+      <place xml:id="dvp_077_place_39">
+        <placeName>Brunswick</placeName>
+        <location>
+          <geo>43.910833333333 -69.963055555556</geo>
+        </location>
+        <idno type="WD">Q518466</idno>
+      </place>
+      <place xml:id="dvp_077_place_40">
+        <placeName>Brunswick</placeName>
+        <location>
+          <geo>43.910833333333 -69.963055555556</geo>
+        </location>
+        <idno type="WD">Q518466</idno>
+      </place>
+      <place xml:id="dvp_077_place_41">
+        <placeName>Bermuda</placeName>
+        <location>
+          <geo>32.333333 -64.75</geo>
+        </location>
+        <idno type="WD">Q23635</idno>
+      </place>
+      <place xml:id="dvp_077_place_42">
+        <placeName>Maine</placeName>
+        <location>
+          <geo>45.5 -69</geo>
+        </location>
+        <idno type="WD">Q724</idno>
+      </place>
+      <place xml:id="dvp_077_place_43">
+        <placeName>Spain</placeName>
+        <location>
+          <geo>40.2 -3.5</geo>
+        </location>
+        <idno type="WD">Q29</idno>
+      </place>
+      <place xml:id="dvp_077_place_44">
+        <placeName>Portugal</placeName>
+        <location>
+          <geo>38.7 -9.1833333333333</geo>
+        </location>
+        <idno type="WD">Q45</idno>
+      </place>
+      <place xml:id="dvp_077_place_45">
+        <placeName>Spain</placeName>
+        <location>
+          <geo>40.2 -3.5</geo>
+        </location>
+        <idno type="WD">Q29</idno>
+      </place>
+      <place xml:id="dvp_077_place_46">
+        <placeName>Rota</placeName>
+        <location>
+          <geo>36.6228636 -6.3599595</geo>
+        </location>
+        <idno type="WD">Q15907</idno>
+      </place>
+      <place xml:id="dvp_077_place_47">
+        <placeName>Spain</placeName>
+        <location>
+          <geo>40.2 -3.5</geo>
+        </location>
+        <idno type="WD">Q29</idno>
+      </place>
+      <place xml:id="dvp_077_place_48">
+        <placeName>Bermuda</placeName>
+        <location>
+          <geo>32.333333 -64.75</geo>
+        </location>
+        <idno type="WD">Q23635</idno>
+      </place>
+      <place xml:id="dvp_077_place_49">
+        <placeName>Patuxent River</placeName>
+        <location>
+          <geo>39.348611111111 -77.1775</geo>
+        </location>
+        <idno type="WD">Q432641</idno>
+      </place>
+      <place xml:id="dvp_077_place_50">
+        <placeName>Patuxent River</placeName>
+        <location>
+          <geo>39.348611111111 -77.1775</geo>
+        </location>
+        <idno type="WD">Q432641</idno>
+      </place>
+      <place xml:id="dvp_077_place_51">
+        <placeName>Patuxent River</placeName>
+        <location>
+          <geo>39.348611111111 -77.1775</geo>
+        </location>
+        <idno type="WD">Q432641</idno>
+      </place>
+      <place xml:id="dvp_077_place_52">
+        <placeName>Brunswick</placeName>
+        <location>
+          <geo>43.910833333333 -69.963055555556</geo>
+        </location>
+        <idno type="WD">Q518466</idno>
+      </place>
+      <place xml:id="dvp_077_place_53">
+        <placeName>Brunswick</placeName>
+        <location>
+          <geo>43.910833333333 -69.963055555556</geo>
+        </location>
+        <idno type="WD">Q518466</idno>
+      </place>
+      <place xml:id="dvp_077_place_54">
+        <placeName>Brunswick</placeName>
+        <location>
+          <geo>43.910833333333 -69.963055555556</geo>
+        </location>
+        <idno type="WD">Q518466</idno>
+      </place>
+      <place xml:id="dvp_077_place_55">
+        <placeName>Bermuda</placeName>
+        <location>
+          <geo>32.333333 -64.75</geo>
+        </location>
+        <idno type="WD">Q23635</idno>
+      </place>
+      <place xml:id="dvp_077_place_56">
+        <placeName>St. George's</placeName>
+        <location>
+          <geo>12.044444444444 -61.741666666667</geo>
+        </location>
+        <idno type="WD">Q41547</idno>
+      </place>
+      <place xml:id="dvp_077_place_57">
+        <placeName>Hamilton</placeName>
+        <location>
+          <geo>32.2975 -64.801388888889</geo>
+        </location>
+        <idno type="WD">Q30985</idno>
+      </place>
+      <place xml:id="dvp_077_place_58">
+        <placeName>Spain</placeName>
+        <location>
+          <geo>40.2 -3.5</geo>
+        </location>
+        <idno type="WD">Q29</idno>
+      </place>
+      <place xml:id="dvp_077_place_59">
+        <placeName>Brunswick</placeName>
+        <location>
+          <geo>43.910833333333 -69.963055555556</geo>
+        </location>
+        <idno type="WD">Q518466</idno>
+      </place>
+      <place xml:id="dvp_077_place_60">
+        <placeName>Brunswick</placeName>
+        <location>
+          <geo>43.910833333333 -69.963055555556</geo>
+        </location>
+        <idno type="WD">Q518466</idno>
+      </place>
+      <place xml:id="dvp_077_place_61">
+        <placeName>Brunswick</placeName>
+        <location>
+          <geo>43.910833333333 -69.963055555556</geo>
+        </location>
+        <idno type="WD">Q518466</idno>
+      </place>
+      <place xml:id="dvp_077_place_62">
+        <placeName>Bermuda</placeName>
+        <location>
+          <geo>32.333333 -64.75</geo>
+        </location>
+        <idno type="WD">Q23635</idno>
+      </place>
+      <place xml:id="dvp_077_place_63">
+        <placeName>Bermuda</placeName>
+        <location>
+          <geo>32.333333 -64.75</geo>
+        </location>
+        <idno type="WD">Q23635</idno>
+      </place>
+      <place xml:id="dvp_077_place_64">
+        <placeName>Sigonella</placeName>
+        <location>
+          <geo>37.4058  14.9164</geo>
+        </location>
+        <idno type="WD">Q3960436</idno>
+      </place>
+      <place xml:id="dvp_077_place_65">
+        <placeName>Rota</placeName>
+        <location>
+          <geo>36.6228636 -6.3599595</geo>
+        </location>
+        <idno type="WD">Q15907</idno>
+      </place>
+      <place xml:id="dvp_077_place_66">
+        <placeName>Memphis</placeName>
+        <location>
+          <geo>35.1175 -89.971111111111</geo>
+        </location>
+        <idno type="WD">Q16563</idno>
+      </place>
+      <place xml:id="dvp_077_place_67">
+        <placeName>Mildenhall</placeName>
+        <location>
+          <geo>52.344611111111 0.5089</geo>
+        </location>
+        <idno type="WD">Q1016878</idno>
+      </place>
+      <place xml:id="dvp_077_place_68">
+        <placeName>Mildenhall</placeName>
+        <location>
+          <geo>52.344611111111 0.5089</geo>
+        </location>
+        <idno type="WD">Q1016878</idno>
+      </place>
+      <place xml:id="dvp_077_place_69">
+        <placeName>London</placeName>
+        <location>
+          <geo>51.507222222222 -0.1275</geo>
+        </location>
+        <idno type="WD">Q84</idno>
+      </place>
+      <place xml:id="dvp_077_place_70">
+        <placeName>London</placeName>
+        <location>
+          <geo>51.507222222222 -0.1275</geo>
+        </location>
+        <idno type="WD">Q84</idno>
+      </place>
+      <place xml:id="dvp_077_place_71">
+        <placeName>Vietnam</placeName>
+        <location>
+          <geo>16 108</geo>
+        </location>
+        <idno type="WD">Q881</idno>
+      </place>
+      <place xml:id="dvp_077_place_72">
+        <placeName>Brunswick</placeName>
+        <location>
+          <geo>43.910833333333 -69.963055555556</geo>
+        </location>
+        <idno type="WD">Q518466</idno>
+      </place>
+      <place xml:id="dvp_077_place_73">
+        <placeName>Vietnam</placeName>
+        <location>
+          <geo>16 108</geo>
+        </location>
+        <idno type="WD">Q881</idno>
+      </place>
+      <place xml:id="dvp_077_place_74">
+        <placeName>United States of America</placeName>
+        <location>
+          <geo>39.828175 -98.5795</geo>
+        </location>
+        <idno type="WD">Q30</idno>
+      </place>
+      <place xml:id="dvp_077_place_75">
+        <placeName>South Vietnam</placeName>
+        <location>
+          <geo>10.75 106.66666666667</geo>
+        </location>
+        <idno type="WD">Q180573</idno>
+      </place>
+      <place xml:id="dvp_077_place_76">
+        <placeName>Vietnam</placeName>
+        <location>
+          <geo>16 108</geo>
+        </location>
+        <idno type="WD">Q881</idno>
+      </place>
+      <place xml:id="dvp_077_place_77">
+        <placeName>Vietnam</placeName>
+        <location>
+          <geo>16 108</geo>
+        </location>
+        <idno type="WD">Q881</idno>
+      </place>
+      <place xml:id="dvp_077_place_78">
+        <placeName>Iraq</placeName>
+        <location>
+          <geo>33 43</geo>
+        </location>
+        <idno type="WD">Q796</idno>
+      </place>
+      <place xml:id="dvp_077_place_79">
+        <placeName>Mildenhall</placeName>
+        <location>
+          <geo>52.344611111111 0.5089</geo>
+        </location>
+        <idno type="WD">Q1016878</idno>
+      </place>
+      <place xml:id="dvp_077_place_80">
+        <placeName>England</placeName>
+        <location>
+          <geo>53 -1</geo>
+        </location>
+        <idno type="WD">Q21</idno>
+      </place>
+      <place xml:id="dvp_077_place_81">
+        <placeName>England</placeName>
+        <location>
+          <geo>53 -1</geo>
+        </location>
+        <idno type="WD">Q21</idno>
+      </place>
+      <place xml:id="dvp_077_place_82">
+        <placeName>England</placeName>
+        <location>
+          <geo>53 -1</geo>
+        </location>
+        <idno type="WD">Q21</idno>
+      </place>
+      <place xml:id="dvp_077_place_83">
+        <placeName>Heidelberg</placeName>
+        <location>
+          <geo>49.412222222222 8.71</geo>
+        </location>
+        <idno type="WD">Q2966</idno>
+      </place>
+      <place xml:id="dvp_077_place_84">
+        <placeName>Cambridge</placeName>
+        <location>
+          <geo>52.208055555556 0.1225</geo>
+        </location>
+        <idno type="WD">Q350</idno>
+      </place>
+      <place xml:id="dvp_077_place_85">
+        <placeName>Sigonella</placeName>
+        <location>
+          <geo>37.4058  14.9164</geo>
+        </location>
+        <idno type="WD">Q3960436</idno>
+      </place>
+      <place xml:id="dvp_077_place_86">
+        <placeName>Sigonella</placeName>
+        <location>
+          <geo>37.4058  14.9164</geo>
+        </location>
+        <idno type="WD">Q3960436</idno>
+      </place>
+      <place xml:id="dvp_077_place_87">
+        <placeName>Sicily</placeName>
+        <location>
+          <geo>37.599958333333 14.015377777778</geo>
+        </location>
+        <idno type="WD">Q1460</idno>
+      </place>
+      <place xml:id="dvp_077_place_88">
+        <placeName>Weymouth</placeName>
+        <location>
+          <geo>42.220833333333 -70.940277777778</geo>
+        </location>
+        <idno type="WD">Q54195</idno>
+      </place>
+      <place xml:id="dvp_077_place_89">
+        <placeName>Mildenhall</placeName>
+        <location>
+          <geo>52.344611111111 0.5089</geo>
+        </location>
+        <idno type="WD">Q1016878</idno>
+      </place>
+      <place xml:id="dvp_077_place_90">
+        <placeName>Sigonella</placeName>
+        <location>
+          <geo>37.4058  14.9164</geo>
+        </location>
+        <idno type="WD">Q3960436</idno>
+      </place>
+      <place xml:id="dvp_077_place_91">
+        <placeName>United States of America</placeName>
+        <location>
+          <geo>39.828175 -98.5795</geo>
+        </location>
+        <idno type="WD">Q30</idno>
+      </place>
+      <place xml:id="dvp_077_place_92">
+        <placeName>Cape Cod</placeName>
+        <location>
+          <geo>41.688889 -70.296944</geo>
+        </location>
+        <idno type="WD">Q49152</idno>
+      </place>
+      <place xml:id="dvp_077_place_93">
+        <placeName>Plymouth</placeName>
+        <location>
+          <geo>50.371388888889 -4.1422222222222</geo>
+        </location>
+        <idno type="WD">Q43382</idno>
+      </place>
+      <place xml:id="dvp_077_place_94">
+        <placeName>Sicily</placeName>
+        <location>
+          <geo>37.599958333333 14.015377777778</geo>
+        </location>
+        <idno type="WD">Q1460</idno>
+      </place>
+      <place xml:id="dvp_077_place_95">
+        <placeName>England</placeName>
+        <location>
+          <geo>53 -1</geo>
+        </location>
+        <idno type="WD">Q21</idno>
+      </place>
+      <place xml:id="dvp_077_place_96">
+        <placeName>Texas</placeName>
+        <location>
+          <geo>31 -100</geo>
+        </location>
+        <idno type="WD">Q1439</idno>
+      </place>
+      <place xml:id="dvp_077_place_97">
+        <placeName>Sicily</placeName>
+        <location>
+          <geo>37.599958333333 14.015377777778</geo>
+        </location>
+        <idno type="WD">Q1460</idno>
+      </place>
+      <place xml:id="dvp_077_place_98">
+        <placeName>Iraq</placeName>
+        <location>
+          <geo>33 43</geo>
+        </location>
+        <idno type="WD">Q796</idno>
+      </place>
+      <place xml:id="dvp_077_place_99">
+        <placeName>Orlando</placeName>
+        <location>
+          <geo>28.533611111111 -81.386666666667</geo>
+        </location>
+        <idno type="WD">Q49233</idno>
+      </place>
+      <place xml:id="dvp_077_place_100">
+        <placeName>East Falmouth</placeName>
+        <location>
+          <geo>41.565 -70.55</geo>
+        </location>
+        <idno type="WD">Q5328334</idno>
+      </place>
+      <place xml:id="dvp_077_place_101">
+        <placeName>Woods Hole Oceanographic Institution</placeName>
+        <location>
+          <geo>41.524516666667 -70.670972222222</geo>
+        </location>
+        <idno type="WD">Q1404053</idno>
+      </place>
+      <place xml:id="dvp_077_place_102">
+        <placeName>Guatemala City</placeName>
+        <location>
+          <geo>14.609861111111 -90.52525</geo>
+        </location>
+        <idno type="WD">Q1555</idno>
+      </place>
+      <place xml:id="dvp_077_place_103">
+        <placeName>Scripps College</placeName>
+        <location>
+          <geo>34.10352777777778 -117.71066666666667</geo>
+        </location>
+        <idno type="WD">Q10664609</idno>
+      </place>
+      <place xml:id="dvp_077_place_104">
+        <placeName>University of Massachusetts</placeName>
+        <location>
+          <geo>42.25385  -72.35962</geo>
+        </location>
+        <idno type="WD">Q1061122</idno>
+      </place>
+      <place xml:id="dvp_077_place_105">
+        <placeName>Brunswick</placeName>
+        <location>
+          <geo>43.910833333333 -69.963055555556</geo>
+        </location>
+        <idno type="WD">Q518466</idno>
+      </place>
+      <place xml:id="dvp_077_place_106">
+        <placeName>Woods Hole Oceanographic Institution</placeName>
+        <location>
+          <geo>41.524516666667 -70.670972222222</geo>
+        </location>
+        <idno type="WD">Q1404053</idno>
+      </place>
+      <place xml:id="dvp_077_place_107">
+        <placeName>New York City</placeName>
+        <location>
+          <geo>40.67 -73.94</geo>
+        </location>
+        <idno type="WD">Q60</idno>
+      </place>
+      <place xml:id="dvp_077_place_108">
+        <placeName>Chicago</placeName>
+        <location>
+          <geo>41.881944444444 -87.627777777778</geo>
+        </location>
+        <idno type="WD">Q1297</idno>
+      </place>
+      <place xml:id="dvp_077_place_109">
+        <placeName>Eugene</placeName>
+        <location>
+          <geo>44.051944444444 -123.08555555556</geo>
+        </location>
+        <idno type="WD">Q171224</idno>
+      </place>
+      <place xml:id="dvp_077_place_110">
+        <placeName>Seattle</placeName>
+        <location>
+          <geo>47.60621 -122.33207</geo>
+        </location>
+        <idno type="WD">Q5083</idno>
+      </place>
+      <place xml:id="dvp_077_place_111">
+        <placeName>Eugene</placeName>
+        <location>
+          <geo>44.051944444444 -123.08555555556</geo>
+        </location>
+        <idno type="WD">Q171224</idno>
+      </place>
+      <place xml:id="dvp_077_place_112">
+        <placeName>Bend</placeName>
+        <location>
+          <geo>44.056388888889 -121.30805555556</geo>
+        </location>
+        <idno type="WD">Q671288</idno>
+      </place>
+      <place xml:id="dvp_077_place_113">
+        <placeName>Bend</placeName>
+        <location>
+          <geo>44.056388888889 -121.30805555556</geo>
+        </location>
+        <idno type="WD">Q671288</idno>
+      </place>
+      <place xml:id="dvp_077_place_114">
+        <placeName>Oregon</placeName>
+        <location>
+          <geo>43.935833 -120.575</geo>
+        </location>
+        <idno type="WD">Q824</idno>
+      </place>
+      <place xml:id="dvp_077_place_115">
+        <placeName>Portland</placeName>
+        <location>
+          <geo>45.516666666667 -122.66666666667</geo>
+        </location>
+        <idno type="WD">Q6106</idno>
+      </place>
+      <place xml:id="dvp_077_place_116">
+        <placeName>Vancouver</placeName>
+        <location>
+          <geo>45.633611111111 -122.60277777778</geo>
+        </location>
+        <idno type="WD">Q234053</idno>
+      </place>
+      <place xml:id="dvp_077_place_117">
+        <placeName>Portland</placeName>
+        <location>
+          <geo>45.516666666667 -122.66666666667</geo>
+        </location>
+        <idno type="WD">Q6106</idno>
+      </place>
+      <place xml:id="dvp_077_place_118">
+        <placeName>Barcelona</placeName>
+        <location>
+          <geo>41.3825 2.1769444444444</geo>
+        </location>
+        <idno type="WD">Q1492</idno>
+      </place>
+      <place xml:id="dvp_077_place_119">
+        <placeName>Barcelona</placeName>
+        <location>
+          <geo>41.3825 2.1769444444444</geo>
+        </location>
+        <idno type="WD">Q1492</idno>
+      </place>
+      <place xml:id="dvp_077_place_120">
+        <placeName>Barcelona</placeName>
+        <location>
+          <geo>41.3825 2.1769444444444</geo>
+        </location>
+        <idno type="WD">Q1492</idno>
+      </place>
+      <place xml:id="dvp_077_place_121">
+        <placeName>New Zealand</placeName>
+        <location>
+          <geo>-41.2 174</geo>
+        </location>
+        <idno type="WD">Q664</idno>
+      </place>
+      <place xml:id="dvp_077_place_122">
+        <placeName>New Zealand</placeName>
+        <location>
+          <geo>-41.2 174</geo>
+        </location>
+        <idno type="WD">Q664</idno>
+      </place>
+      <place xml:id="dvp_077_place_123">
+        <placeName>Australia</placeName>
+        <location>
+          <geo>-28 137</geo>
+        </location>
+        <idno type="WD">Q408</idno>
+      </place>
+      <place xml:id="dvp_077_place_124">
+        <placeName>Australia</placeName>
+        <location>
+          <geo>-28 137</geo>
+        </location>
+        <idno type="WD">Q408</idno>
+      </place>
+      <place xml:id="dvp_077_place_125">
+        <placeName>Australia</placeName>
+        <location>
+          <geo>-28 137</geo>
+        </location>
+        <idno type="WD">Q408</idno>
+      </place>
+      <place xml:id="dvp_077_place_126">
+        <placeName>New Zealand</placeName>
+        <location>
+          <geo>-41.2 174</geo>
+        </location>
+        <idno type="WD">Q664</idno>
+      </place>
+      <place xml:id="dvp_077_place_127">
+        <placeName>Vermont</placeName>
+        <location>
+          <geo>44 -72.7</geo>
+        </location>
+        <idno type="WD">Q16551</idno>
+      </place>
+      <place xml:id="dvp_077_place_128">
+        <placeName>Randolph</placeName>
+        <location>
+          <geo>43.9374491 -72.606596</geo>
+        </location>
+        <idno type="WD">Q1441076</idno>
+      </place>
+      <place xml:id="dvp_077_place_129">
+        <placeName>Vermont</placeName>
+        <location>
+          <geo>44 -72.7</geo>
+        </location>
+        <idno type="WD">Q16551</idno>
+      </place>
+      <place xml:id="dvp_077_place_130">
+        <placeName>Randolph</placeName>
+        <location>
+          <geo>42.1625 -71.041666666667</geo>
+        </location>
+        <idno type="WD">Q54191</idno>
+      </place>
+    </listPlace>
+    <listEvent>
+      <event xml:id="dvp_077_event_0" when-iso="1972-11-07T00:00:00Z">
+        <desc>the McGovern election</desc>
+        <idno type="WD">Q644161</idno>
+      </event>
+      <event xml:id="dvp_077_event_1" from-iso="1969-08-15T00:00:00Z" to-iso="1969-08-18T00:00:00Z">
+        <desc>Woodstock Festival</desc>
+        <idno type="WD">Q164815</idno>
+      </event>
+      <event xml:id="dvp_077_event_2" from-iso="1969-08-15T00:00:00Z" to-iso="1969-08-18T00:00:00Z">
+        <desc>Woodstock Festival</desc>
+        <idno type="WD">Q164815</idno>
+      </event>
+      <event xml:id="dvp_077_event_3" from-iso="1959-01-01T00:00:00Z" to-iso="1975-04-30T00:00:00Z">
+        <desc>Vietnam War</desc>
+        <idno type="WD">Q8740</idno>
+      </event>
+      <event xml:id="dvp_077_event_4" from-iso="1959-01-01T00:00:00Z" to-iso="1975-04-30T00:00:00Z">
+        <desc>Vietnam War</desc>
+        <idno type="WD">Q8740</idno>
+      </event>
+      <event xml:id="dvp_077_event_5" from-iso="1991-01-17T00:00:00Z" to-iso="1991-02-28T00:00:00Z">
+        <desc>Operation Desert Storm</desc>
+        <idno type="WD">Q2349281</idno>
+      </event>
+      <event xml:id="dvp_077_event_6" from-iso="1959-01-01T00:00:00Z" to-iso="1975-04-30T00:00:00Z">
+        <desc>Vietnam War</desc>
+        <idno type="WD">Q8740</idno>
+      </event>
+      <event xml:id="dvp_077_event_7" from-iso="1959-01-01T00:00:00Z" to-iso="1975-04-30T00:00:00Z">
+        <desc>Vietnam War</desc>
+        <idno type="WD">Q8740</idno>
+      </event>
+    </listEvent>
+    <listPerson>
+      <person xml:id="dvp_077_person_0">
+        <persName>Claire Rafson [â€˜19]</persName>
+        <idno type="project">dvp_0691</idno>
+      </person>
+      <person xml:id="dvp_077_person_1">
+        <persName>Mark Boettcher</persName>
+        <idno type="project">dvp_0692</idno>
+      </person>
+      <person xml:id="dvp_077_person_2">
+        <persName>Mark</persName>
+        <idno type="project">dvp_0692</idno>
+      </person>
+      <person xml:id="dvp_077_person_3">
+        <persName>Edward George Boettcher</persName>
+        <idno type="project">dvp_0693</idno>
+      </person>
+      <person xml:id="dvp_077_person_4">
+        <persName>Priscilla Ann</persName>
+        <idno type="project">dvp_0694</idno>
+      </person>
+      <person xml:id="dvp_077_person_5">
+        <persName>George McGovern</persName>
+        <idno type="WD">Q331742</idno>
+      </person>
+      <person xml:id="dvp_077_person_6">
+        <persName>George Wallace</persName>
+        <idno type="WD">Q313776</idno>
+      </person>
+      <person xml:id="dvp_077_person_7">
+        <persName>George Wallace</persName>
+        <idno type="WD">Q313776</idno>
+      </person>
+      <person xml:id="dvp_077_person_8">
+        <persName>George Wallace</persName>
+        <idno type="WD">Q313776</idno>
+      </person>
+      <person xml:id="dvp_077_person_9">
+        <persName>John Lennon</persName>
+        <idno type="WD">Q1203</idno>
+      </person>
+      <person xml:id="dvp_077_person_10">
+        <persName>Yoko Ono</persName>
+        <idno type="WD">Q117012</idno>
+      </person>
+      <person xml:id="dvp_077_person_11">
+        <persName>George W. Bush</persName>
+        <idno type="WD">Q207</idno>
+      </person>
+      <person xml:id="dvp_077_person_12">
+        <persName>George W. Bush</persName>
+        <idno type="WD">Q207</idno>
+      </person>
+      <person xml:id="dvp_077_person_13">
+        <persName>Donald Trump</persName>
+        <idno type="WD">Q22686</idno>
+      </person>
+      <person xml:id="dvp_077_person_14">
+        <persName>Frank Zappa</persName>
+        <idno type="WD">Q127330</idno>
+      </person>
+      <person xml:id="dvp_077_person_15">
+        <persName>Frank Zappa</persName>
+        <idno type="WD">Q127330</idno>
+      </person>
+      <person xml:id="dvp_077_person_16">
+        <persName>Alice Cooper</persName>
+        <idno type="WD">Q332032</idno>
+      </person>
+      <person xml:id="dvp_077_person_17">
+        <persName>Art Munn</persName>
+        <idno type="project">dvp_0695</idno>
+      </person>
+      <person xml:id="dvp_077_person_18">
+        <persName>George H. W. Bush</persName>
+        <idno type="WD">Q23505</idno>
+      </person>
+      <person xml:id="dvp_077_person_19">
+        <persName>Donald Trump</persName>
+        <idno type="WD">Q22686</idno>
+      </person>
+      <person xml:id="dvp_077_person_20">
+        <persName>Richard Nixon</persName>
+        <idno type="WD">Q9588</idno>
+      </person>
+      <person xml:id="dvp_077_person_21">
+        <persName>Richard Nixon</persName>
+        <idno type="WD">Q9588</idno>
+      </person>
+      <person xml:id="dvp_077_person_22">
+        <persName>Alvin</persName>
+      </person>
+      <person xml:id="dvp_077_person_23">
+        <persName>Stephen Hawking</persName>
+        <idno type="WD">Q17714</idno>
+      </person>
+      <person xml:id="dvp_077_person_24">
+        <persName>Joe</persName>
+      </person>
+      <person xml:id="dvp_077_person_25">
+        <persName>George H. W. Bush</persName>
+        <idno type="WD">Q23505</idno>
+      </person>
+      <person xml:id="dvp_077_person_26">
+        <persName>George H. W. Bush</persName>
+        <idno type="WD">Q23505</idno>
+      </person>
+      <person xml:id="dvp_077_person_27">
+        <persName>George W. Bush</persName>
+        <idno type="WD">Q207</idno>
+      </person>
+      <person xml:id="dvp_077_person_28">
+        <persName>Green Day</persName>
+        <idno type="WD">Q47871</idno>
+      </person>
+      <person xml:id="dvp_077_person_29">
+        <persName>George H. W. Bush</persName>
+        <idno type="WD">Q23505</idno>
+      </person>
+      <person xml:id="dvp_077_person_30">
+        <persName>Barack Obama</persName>
+        <idno type="WD">Q76</idno>
+      </person>
+      <person xml:id="dvp_077_person_31">
+        <persName>Edward Miller</persName>
+        <idno type="project">dvp_0039</idno>
+      </person>
+      <person xml:id="dvp_077_person_32">
+        <persName>Jennifer Miller</persName>
+        <idno type="project">dvp_0696</idno>
+      </person>
+      <person xml:id="dvp_077_person_33">
+        <persName>[Professor Daniel] Dan Rockmore</persName>
+        <idno type="project">dvp_0697</idno>
+      </person>
+      <person xml:id="dvp_077_person_34">
+        <persName>Bill Neukom</persName>
+        <idno type="WD">Q4910332</idno>
+      </person>
+      <person xml:id="dvp_077_person_35">
+        <persName>Dan Rockmore</persName>
+        <idno type="project">dvp_0697</idno>
+      </person>
+      <person xml:id="dvp_077_person_36">
+        <persName>Bill Neukom</persName>
+        <idno type="WD">Q4910332</idno>
+      </person>
+      <person xml:id="dvp_077_person_37">
+        <persName>Hendrik Martenszoon Sorgh</persName>
+        <idno type="WD">Q1237823</idno>
+      </person>
+    </listPerson>
+    <listOrg>
+      <org xml:id="dvp_077_org_0">
+        <orgName>New England Telephone and Telegraph Company</orgName>
+        <idno type="WD">Q7007413</idno>
+      </org>
+      <org xml:id="dvp_077_org_1">
+        <orgName>Weymouth High School</orgName>
+        <idno type="WD">Q14716022</idno>
+      </org>
+      <org xml:id="dvp_077_org_2">
+        <orgName>Weymouth High School</orgName>
+        <idno type="WD">Q14716022</idno>
+      </org>
+      <org xml:id="dvp_077_org_3">
+        <orgName>Weymouth High School</orgName>
+        <idno type="WD">Q14716022</idno>
+      </org>
+      <org xml:id="dvp_077_org_4">
+        <orgName>University of California, Berkeley</orgName>
+        <idno type="WD">Q168756</idno>
+      </org>
+      <org xml:id="dvp_077_org_5">
+        <orgName>Broadway</orgName>
+        <idno type="WD">Q11260</idno>
+      </org>
+      <org xml:id="dvp_077_org_6">
+        <orgName>Volkswagen</orgName>
+        <idno type="WD">Q246</idno>
+      </org>
+      <org xml:id="dvp_077_org_7">
+        <orgName>US Marines</orgName>
+        <idno type="WD">Q2471656</idno>
+      </org>
+      <org xml:id="dvp_077_org_8">
+        <orgName>United States Navy</orgName>
+        <idno type="WD">Q11220</idno>
+      </org>
+      <org xml:id="dvp_077_org_9">
+        <orgName>United States Navy</orgName>
+        <idno type="WD">Q11220</idno>
+      </org>
+      <org xml:id="dvp_077_org_10">
+        <orgName>United States Navy</orgName>
+        <idno type="WD">Q11220</idno>
+      </org>
+      <org xml:id="dvp_077_org_11">
+        <orgName>United States Navy</orgName>
+        <idno type="WD">Q11220</idno>
+      </org>
+      <org xml:id="dvp_077_org_12">
+        <orgName>National Front for the Liberation of South Vietnam</orgName>
+        <idno type="WD">Q174423</idno>
+      </org>
+      <org xml:id="dvp_077_org_13">
+        <orgName>United States Navy</orgName>
+        <idno type="WD">Q11220</idno>
+      </org>
+      <org xml:id="dvp_077_org_14">
+        <orgName>United States Navy</orgName>
+        <idno type="WD">Q11220</idno>
+      </org>
+      <org xml:id="dvp_077_org_15">
+        <orgName>United States Navy</orgName>
+        <idno type="WD">Q11220</idno>
+      </org>
+      <org xml:id="dvp_077_org_16">
+        <orgName>United States Navy</orgName>
+        <idno type="WD">Q11220</idno>
+      </org>
+      <org xml:id="dvp_077_org_17">
+        <orgName>Naval Air Technical Training Center</orgName>
+        <idno type="WD">Q98686944</idno>
+      </org>
+      <org xml:id="dvp_077_org_18">
+        <orgName>United States Navy</orgName>
+        <idno type="WD">Q11220</idno>
+      </org>
+      <org xml:id="dvp_077_org_19">
+        <orgName>United States Navy</orgName>
+        <idno type="WD">Q11220</idno>
+      </org>
+      <org xml:id="dvp_077_org_20">
+        <orgName>United States Navy</orgName>
+        <idno type="WD">Q11220</idno>
+      </org>
+      <org xml:id="dvp_077_org_21">
+        <orgName>United States Air Force</orgName>
+        <idno type="WD">Q11223</idno>
+      </org>
+      <org xml:id="dvp_077_org_22">
+        <orgName>United States Air Force</orgName>
+        <idno type="WD">Q11223</idno>
+      </org>
+      <org xml:id="dvp_077_org_23">
+        <orgName>United States Navy</orgName>
+        <idno type="WD">Q11220</idno>
+      </org>
+      <org xml:id="dvp_077_org_24">
+        <orgName>United States Navy</orgName>
+        <idno type="WD">Q11220</idno>
+      </org>
+      <org xml:id="dvp_077_org_25">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dvp_077_org_26">
+        <orgName>United States Navy</orgName>
+        <idno type="WD">Q11220</idno>
+      </org>
+      <org xml:id="dvp_077_org_27">
+        <orgName>USS Nimitz</orgName>
+        <idno type="WD">Q463161</idno>
+      </org>
+      <org xml:id="dvp_077_org_28">
+        <orgName>United States Navy</orgName>
+        <idno type="WD">Q11220</idno>
+      </org>
+      <org xml:id="dvp_077_org_29">
+        <orgName>United States Navy</orgName>
+        <idno type="WD">Q11220</idno>
+      </org>
+      <org xml:id="dvp_077_org_30">
+        <orgName>United States Navy</orgName>
+        <idno type="WD">Q11220</idno>
+      </org>
+      <org xml:id="dvp_077_org_31">
+        <orgName>United States Air Force</orgName>
+        <idno type="WD">Q11223</idno>
+      </org>
+      <org xml:id="dvp_077_org_32">
+        <orgName>United States Army</orgName>
+        <idno type="WD">Q9212</idno>
+      </org>
+      <org xml:id="dvp_077_org_33">
+        <orgName>United States Navy</orgName>
+        <idno type="WD">Q11220</idno>
+      </org>
+      <org xml:id="dvp_077_org_34">
+        <orgName>United States Army</orgName>
+        <idno type="WD">Q9212</idno>
+      </org>
+      <org xml:id="dvp_077_org_35">
+        <orgName>National Guard of the United States</orgName>
+        <idno type="WD">Q928670</idno>
+      </org>
+      <org xml:id="dvp_077_org_36">
+        <orgName>National Guard of the United States</orgName>
+        <idno type="WD">Q928670</idno>
+      </org>
+      <org xml:id="dvp_077_org_37">
+        <orgName>United States Navy</orgName>
+        <idno type="WD">Q11220</idno>
+      </org>
+      <org xml:id="dvp_077_org_38">
+        <orgName>University of Maryland</orgName>
+        <idno type="WD">Q503415</idno>
+      </org>
+      <org xml:id="dvp_077_org_39">
+        <orgName>University of Maryland</orgName>
+        <idno type="WD">Q503415</idno>
+      </org>
+      <org xml:id="dvp_077_org_40">
+        <orgName>University of Maryland</orgName>
+        <idno type="WD">Q503415</idno>
+      </org>
+      <org xml:id="dvp_077_org_41">
+        <orgName>United States Navy</orgName>
+        <idno type="WD">Q11220</idno>
+      </org>
+      <org xml:id="dvp_077_org_42">
+        <orgName>United States Air Force</orgName>
+        <idno type="WD">Q11223</idno>
+      </org>
+      <org xml:id="dvp_077_org_43">
+        <orgName>United States Army</orgName>
+        <idno type="WD">Q9212</idno>
+      </org>
+      <org xml:id="dvp_077_org_44">
+        <orgName>United States Air Force</orgName>
+        <idno type="WD">Q11223</idno>
+      </org>
+      <org xml:id="dvp_077_org_45">
+        <orgName>United States Air Force</orgName>
+        <idno type="WD">Q11223</idno>
+      </org>
+      <org xml:id="dvp_077_org_46">
+        <orgName>United States Navy</orgName>
+        <idno type="WD">Q11220</idno>
+      </org>
+      <org xml:id="dvp_077_org_47">
+        <orgName>Alvin Operations Group</orgName>
+        <idno type="WD">Q107590158</idno>
+      </org>
+      <org xml:id="dvp_077_org_48">
+        <orgName>Alvin Operations Group</orgName>
+        <idno type="WD">Q107590158</idno>
+      </org>
+      <org xml:id="dvp_077_org_49">
+        <orgName>United States Navy</orgName>
+        <idno type="WD">Q11220</idno>
+      </org>
+      <org xml:id="dvp_077_org_50">
+        <orgName>United States Army</orgName>
+        <idno type="WD">Q9212</idno>
+      </org>
+      <org xml:id="dvp_077_org_51">
+        <orgName>United States Navy</orgName>
+        <idno type="WD">Q11220</idno>
+      </org>
+      <org xml:id="dvp_077_org_52">
+        <orgName>United States Navy</orgName>
+        <idno type="WD">Q11220</idno>
+      </org>
+      <org xml:id="dvp_077_org_53">
+        <orgName>CompuServe</orgName>
+        <idno type="WD">Q1122074</idno>
+      </org>
+      <org xml:id="dvp_077_org_54">
+        <orgName>CompuServe</orgName>
+        <idno type="WD">Q1122074</idno>
+      </org>
+      <org xml:id="dvp_077_org_55">
+        <orgName>AOL</orgName>
+        <idno type="WD">Q27585</idno>
+      </org>
+      <org xml:id="dvp_077_org_56">
+        <orgName>AOL</orgName>
+        <idno type="WD">Q27585</idno>
+      </org>
+      <org xml:id="dvp_077_org_57">
+        <orgName>CompuServe</orgName>
+        <idno type="WD">Q1122074</idno>
+      </org>
+      <org xml:id="dvp_077_org_58">
+        <orgName>Alvin Operations Group</orgName>
+        <idno type="WD">Q107590158</idno>
+      </org>
+      <org xml:id="dvp_077_org_59">
+        <orgName>Sierra Entertainment</orgName>
+        <idno type="WD">Q494614</idno>
+      </org>
+      <org xml:id="dvp_077_org_60">
+        <orgName>AAA</orgName>
+        <idno type="WD">Q16245021</idno>
+      </org>
+      <org xml:id="dvp_077_org_61">
+        <orgName>Best Buy</orgName>
+        <idno type="WD">Q533415</idno>
+      </org>
+      <org xml:id="dvp_077_org_62">
+        <orgName>Microsoft Dynamics</orgName>
+        <idno type="WD">Q856705</idno>
+      </org>
+      <org xml:id="dvp_077_org_63">
+        <orgName>Sierra Entertainment</orgName>
+        <idno type="WD">Q494614</idno>
+      </org>
+      <org xml:id="dvp_077_org_64">
+        <orgName>Apple Inc.</orgName>
+        <idno type="WD">Q312</idno>
+      </org>
+      <org xml:id="dvp_077_org_65">
+        <orgName>SIE Bend Studio</orgName>
+        <idno type="WD">Q727701</idno>
+      </org>
+      <org xml:id="dvp_077_org_66">
+        <orgName>Sony</orgName>
+        <idno type="WD">Q41187</idno>
+      </org>
+      <org xml:id="dvp_077_org_67">
+        <orgName>Hewlett-Packard</orgName>
+        <idno type="WD">Q80978</idno>
+      </org>
+      <org xml:id="dvp_077_org_68">
+        <orgName>Sharp Edge Labs (United States)</orgName>
+        <idno type="WD">Q30264432</idno>
+      </org>
+      <org xml:id="dvp_077_org_69">
+        <orgName>Hewlett-Packard</orgName>
+        <idno type="WD">Q80978</idno>
+      </org>
+      <org xml:id="dvp_077_org_70">
+        <orgName>Sharp Edge Labs (United States)</orgName>
+        <idno type="WD">Q30264432</idno>
+      </org>
+      <org xml:id="dvp_077_org_71">
+        <orgName>United States Navy</orgName>
+        <idno type="WD">Q11220</idno>
+      </org>
+      <org xml:id="dvp_077_org_72">
+        <orgName>United States Navy</orgName>
+        <idno type="WD">Q11220</idno>
+      </org>
+      <org xml:id="dvp_077_org_73">
+        <orgName>United States Navy</orgName>
+        <idno type="WD">Q11220</idno>
+      </org>
+      <org xml:id="dvp_077_org_74">
+        <orgName>United States Navy</orgName>
+        <idno type="WD">Q11220</idno>
+      </org>
+      <org xml:id="dvp_077_org_75">
+        <orgName>United States Navy</orgName>
+        <idno type="WD">Q11220</idno>
+      </org>
+      <org xml:id="dvp_077_org_76">
+        <orgName>United States Navy</orgName>
+        <idno type="WD">Q11220</idno>
+      </org>
+      <org xml:id="dvp_077_org_77">
+        <orgName>United States Navy</orgName>
+        <idno type="WD">Q11220</idno>
+      </org>
+      <org xml:id="dvp_077_org_78">
+        <orgName>United States Navy</orgName>
+        <idno type="WD">Q11220</idno>
+      </org>
+      <org xml:id="dvp_077_org_79">
+        <orgName>United States Navy</orgName>
+        <idno type="WD">Q11220</idno>
+      </org>
+      <org xml:id="dvp_077_org_80">
+        <orgName>United States Navy</orgName>
+        <idno type="WD">Q11220</idno>
+      </org>
+      <org xml:id="dvp_077_org_81">
+        <orgName>United States Navy</orgName>
+        <idno type="WD">Q11220</idno>
+      </org>
+      <org xml:id="dvp_077_org_82">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dvp_077_org_83">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dvp_077_org_84">
+        <orgName>Hewlett-Packard</orgName>
+        <idno type="WD">Q80978</idno>
+      </org>
+      <org xml:id="dvp_077_org_85">
+        <orgName>Hewlett-Packard</orgName>
+        <idno type="WD">Q80978</idno>
+      </org>
+      <org xml:id="dvp_077_org_86">
+        <orgName>Sharp Edge Labs (United States)</orgName>
+        <idno type="WD">Q30264432</idno>
+      </org>
+      <org xml:id="dvp_077_org_87">
+        <orgName>Hewlett-Packard</orgName>
+        <idno type="WD">Q80978</idno>
+      </org>
+      <org xml:id="dvp_077_org_88">
+        <orgName>Sharp Edge Labs (United States)</orgName>
+        <idno type="WD">Q30264432</idno>
+      </org>
+      <org xml:id="dvp_077_org_89">
+        <orgName>Sharp Edge Labs (United States)</orgName>
+        <idno type="WD">Q30264432</idno>
+      </org>
+      <org xml:id="dvp_077_org_90">
+        <orgName>Trimble Navigation</orgName>
+        <idno type="WD">Q2297063</idno>
+      </org>
+      <org xml:id="dvp_077_org_91">
+        <orgName>University of Canterbury</orgName>
+        <idno type="WD">Q432475</idno>
+      </org>
+      <org xml:id="dvp_077_org_92">
+        <orgName>Woods Hole Oceanographic Institution</orgName>
+        <idno type="WD">Q1404053</idno>
+      </org>
+      <org xml:id="dvp_077_org_93">
+        <orgName>University of Canterbury</orgName>
+        <idno type="WD">Q432475</idno>
+      </org>
+      <org xml:id="dvp_077_org_94">
+        <orgName>Gifford Health Care</orgName>
+        <idno type="WD">Q107590561</idno>
+      </org>
+      <org xml:id="dvp_077_org_95">
+        <orgName>Applied Research Associates (United States)</orgName>
+        <idno type="WD">Q30283909</idno>
+      </org>
+      <org xml:id="dvp_077_org_96">
+        <orgName>Neukom Institute for Computational Science</orgName>
+        <idno type="WD">Q65074993</idno>
+      </org>
+      <org xml:id="dvp_077_org_97">
+        <orgName>Neukom Institute for Computational Science</orgName>
+        <idno type="WD">Q65074993</idno>
+      </org>
+      <org xml:id="dvp_077_org_98">
+        <orgName>Neukom Institute for Computational Science</orgName>
+        <idno type="WD">Q65074993</idno>
+      </org>
+      <org xml:id="dvp_077_org_99">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dvp_077_org_100">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dvp_077_org_101">
+        <orgName>Neukom Institute for Computational Science</orgName>
+        <idno type="WD">Q65074993</idno>
+      </org>
+      <org xml:id="dvp_077_org_102">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dvp_077_org_103">
+        <orgName>Stanford University</orgName>
+        <idno type="WD">Q41506</idno>
+      </org>
+      <org xml:id="dvp_077_org_104">
+        <orgName>Microsoft</orgName>
+        <idno type="WD">Q2283</idno>
+      </org>
+      <org xml:id="dvp_077_org_105">
+        <orgName>Neukom Institute for Computational Science</orgName>
+        <idno type="WD">Q65074993</idno>
+      </org>
+      <org xml:id="dvp_077_org_106">
+        <orgName>Neukom Institute for Computational Science</orgName>
+        <idno type="WD">Q65074993</idno>
+      </org>
+      <org xml:id="dvp_077_org_107">
+        <orgName>Neukom Institute for Computational Science</orgName>
+        <idno type="WD">Q65074993</idno>
+      </org>
+      <org xml:id="dvp_077_org_108">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dvp_077_org_109">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dvp_077_org_110">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dvp_077_org_111">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dvp_077_org_112">
+        <orgName>Canterbury</orgName>
+        <idno type="WD">Q29303</idno>
+      </org>
+      <org xml:id="dvp_077_org_113">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dvp_077_org_114">
+        <orgName>Massachusetts Institute of Technology</orgName>
+        <idno type="WD">Q49108</idno>
+      </org>
+      <org xml:id="dvp_077_org_115">
+        <orgName>SIE Bend Studio</orgName>
+        <idno type="WD">Q727701</idno>
+      </org>
+      <org xml:id="dvp_077_org_116">
+        <orgName>Facebook</orgName>
+        <idno type="WD">Q355</idno>
+      </org>
+      <org xml:id="dvp_077_org_117">
+        <orgName>Facebook</orgName>
+        <idno type="WD">Q355</idno>
+      </org>
+      <org xml:id="dvp_077_org_118">
+        <orgName>Massachusetts Institute of Technology</orgName>
+        <idno type="WD">Q49108</idno>
+      </org>
+      <org xml:id="dvp_077_org_119">
+        <orgName>Albert Einstein College of Medicine</orgName>
+        <idno type="WD">Q2030894</idno>
+      </org>
+      <org xml:id="dvp_077_org_120">
+        <orgName>Massachusetts Institute of Technology</orgName>
+        <idno type="WD">Q49108</idno>
+      </org>
+      <org xml:id="dvp_077_org_121">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+    </listOrg>
+  </standOff>
+</TEI>
