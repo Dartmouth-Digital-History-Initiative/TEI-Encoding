@@ -16,7 +16,7 @@ ddhi_update_places updated/$f3\_orgs.xml tsv/$f3\_places.tsv > updated/$f3\_plac
 
 echo "Trying $f3 and tsv/$f3\_events.tsv"
 
-ddhi_update_events updated/$f3\_places.xml tsv/$f3\_events.tsv > updated/$f3\_updated.xml
+ddhi_update_events updated/$f3\_places.xml tsv/$f3\_events.tsv > updated/$f3\_updated.tei.xml
 
 rm updated/$f3\_pers.xml
 rm updated/$f3\_orgs.xml
