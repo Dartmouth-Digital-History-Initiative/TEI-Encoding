@@ -1803,14 +1803,14 @@
         <idno type="WD">Q881</idno>
       </place>
       <place xml:id="dvp_038_place_220">
-        <placeName>BÃ¬nh Tuy</placeName>
+        <placeName>Bình Tuy</placeName>
         <location>
           <geo>10.0852  105.712</geo>
         </location>
         <idno type="WD">Q1319862</idno>
       </place>
       <place xml:id="dvp_038_place_221">
-        <placeName>VÅ©ng TÃ u</placeName>
+        <placeName>Vũng Tàu</placeName>
         <location>
           <geo>10.404166666667 107.14166666667</geo>
         </location>
@@ -1824,7 +1824,7 @@
         <idno type="WD">Q30</idno>
       </place>
       <place xml:id="dvp_038_place_223">
-        <placeName>BÃ¬nh Tuy</placeName>
+        <placeName>Bình Tuy</placeName>
         <location>
           <geo>10.0852  105.712</geo>
         </location>
@@ -2226,11 +2226,11 @@
         <idno type="WD">Q881</idno>
       </place>
       <place xml:id="dvp_038_place_281">
-        <placeName>BÃ¬nh Tuy</placeName>
+        <placeName>Bình Tuy</placeName>
         <idno type="WD">Q1319862</idno>
       </place>
       <place xml:id="dvp_038_place_282">
-        <placeName>BiÃªn HÃ²a</placeName>
+        <placeName>Biên Hòa</placeName>
         <location>
           <geo>10.927686 106.868067</geo>
         </location>
@@ -2255,7 +2255,7 @@
         <idno type="WD">Q881</idno>
       </place>
       <place xml:id="dvp_038_place_286">
-        <placeName>BiÃªn HÃ²a</placeName>
+        <placeName>Biên Hòa</placeName>
         <location>
           <geo>10.927686 106.868067</geo>
         </location>
@@ -3148,7 +3148,7 @@ dvp_038_place_384	Iran	Q794		32 53
         <idno type="WD">Q919448</idno>
       </person>
       <person xml:id="dvp_038_person_16">
-        <persName>[Vincent E.] Starzingerâ€™s</persName>
+        <persName>[Vincent E.] Starzinger’s</persName>
         <idno type="project">dvp_0625</idno>
       </person>
       <person xml:id="dvp_038_person_17">
@@ -3554,7 +3554,7 @@ dvp_038_place_384	Iran	Q794		32 53
         <idno type="WD">Q49117</idno>
       </org>
       <org xml:id="dvp_038_org_37">
-        <orgName>Class of â€™32</orgName>
+        <orgName>Class of ’32</orgName>
         <idno type="project">dvp_0658</idno>
       </org>
       <org xml:id="dvp_038_org_38">
@@ -4254,7 +4254,7 @@ dvp_038_place_384	Iran	Q794		32 53
         <idno type="WD">Q3480437</idno>
       </org>
       <org xml:id="dvp_038_org_212">
-        <orgName>Dartmouth Class of â€™67</orgName>
+        <orgName>Dartmouth Class of ’67</orgName>
         <idno type="project">dvp_004_org_0</idno>
       </org>
       <org xml:id="dvp_038_org_213">

@@ -937,7 +937,7 @@
         <idno type="WD">Q881</idno>
       </place>
       <place xml:id="dvp_072_place_109">
-        <placeName>BuÃ´n Ma Thuá»™t</placeName>
+        <placeName>Buôn Ma Thuột</placeName>
         <location>
           <geo>12.666666666667 108.05</geo>
         </location>
@@ -1168,7 +1168,7 @@
         <idno type="WD">Q881</idno>
       </place>
       <place xml:id="dvp_072_place_142">
-        <placeName>DÄ© An</placeName>
+        <placeName>Dĩ An</placeName>
         <location>
           <geo>10.9038708 106.7678954</geo>
         </location>
@@ -1273,7 +1273,7 @@
         <idno type="WD">Q1854</idno>
       </place>
       <place xml:id="dvp_072_place_157">
-        <placeName>HÃ³c MÃ´n</placeName>
+        <placeName>Hóc Môn</placeName>
         <location>
           <geo>10.883333333333 106.5875</geo>
         </location>
@@ -1315,7 +1315,7 @@
         <idno type="WD">Q1854</idno>
       </place>
       <place xml:id="dvp_072_place_163">
-        <placeName>HÃ³c MÃ´n</placeName>
+        <placeName>Hóc Môn</placeName>
         <location>
           <geo>10.883333333333 106.5875</geo>
         </location>
@@ -1336,7 +1336,7 @@
         <idno type="WD">Q819</idno>
       </place>
       <place xml:id="dvp_072_place_166">
-        <placeName>BÃ¬nh TÃ¢n</placeName>
+        <placeName>Bình Tân</placeName>
         <location>
           <geo>10.77111111111111 106.59055555555555</geo>
         </location>
@@ -1413,7 +1413,7 @@
         <idno type="WD">Q25281</idno>
       </place>
       <place xml:id="dvp_072_place_177">
-        <placeName>VÅ©ng TÃ u</placeName>
+        <placeName>Vũng Tàu</placeName>
         <location>
           <geo>10.404166666667 107.14166666667</geo>
         </location>
@@ -1427,7 +1427,7 @@
         <idno type="WD">Q25281</idno>
       </place>
       <place xml:id="dvp_072_place_179">
-        <placeName>VÅ©ng TÃ u</placeName>
+        <placeName>Vũng Tàu</placeName>
         <location>
           <geo>10.404166666667 107.14166666667</geo>
         </location>
@@ -2100,7 +2100,7 @@
         <idno type="WD">Q8007</idno>
       </person>
       <person xml:id="dvp_072_person_7">
-        <persName>Francisco VÃ¡zquez de Coronado</persName>
+        <persName>Francisco Vázquez de Coronado</persName>
         <idno type="WD">Q271974</idno>
       </person>
       <person xml:id="dvp_072_person_8">
@@ -2212,7 +2212,7 @@
         <idno type="WD">Q49116</idno>
       </org>
       <org xml:id="dvp_072_org_4">
-        <orgName>[Dartmouth] Class of â€™59</orgName>
+        <orgName>[Dartmouth] Class of ’59</orgName>
         <idno type="project">dvp_0215</idno>
       </org>
       <org xml:id="dvp_072_org_5">
@@ -3089,7 +3089,7 @@
         <idno type="WD">Q207361</idno>
       </org>
       <org xml:id="dvp_072_org_224">
-        <orgName>University of Illinois at Urbanaâ€“Champaign</orgName>
+        <orgName>University of Illinois at Urbana–Champaign</orgName>
         <idno type="WD">Q457281</idno>
       </org>
       <org xml:id="dvp_072_org_225">
@@ -3097,7 +3097,7 @@
         <idno type="WD">Q85776582</idno>
       </org>
       <org xml:id="dvp_072_org_226">
-        <orgName>Class of â€™60 [University of Pennsylvania]</orgName>
+        <orgName>Class of ’60 [University of Pennsylvania]</orgName>
       </org>
       <org xml:id="dvp_072_org_227">
         <orgName>Ivy League</orgName>

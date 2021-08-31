@@ -1,0 +1,1728 @@
+<?xml-model href="../schemas/ddhi.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="dvp_078">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Transcript of an Interview with a John Brelsford</title>
+      </titleStmt>
+      <publicationStmt>
+        <authority>
+          <orgName>Dartmouth Digital History Initiative</orgName>
+        </authority>
+        <date>
+          <!--  Date of publication, e.g. for citation purposes  -->
+        </date>
+        <idno type="DDHI">dvp_078</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <recordingStmt>
+          <recording xml:id="primary_recording" type="audio" dur-iso="9">
+            <!-- https://www.digi.com/resources/documentation/digidocs/90001437-13/reference/r_iso_8601_duration_format.htm -->
+            <media url="" mimeType="MIMEaudio/wav"/>
+          </recording>
+        </recordingStmt>
+        <bibl xml:id="primary_transcription">
+          <respStmt>
+            <persName>Mimi Eisenberg</persName>
+            <orgName>Wordcraft</orgName>
+            <resp ref="http://id.loc.gov/vocabulary/relators/trc.html">Transcriber</resp>
+          </respStmt>
+          <ref target="path_to_file">Primary transcription</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>The Dartmouth Vietnam Project</p>
+      </projectDesc>
+      <appInfo>
+        <application ident="DDHIEncoder" version="1.0">
+          <desc>Conversion from Word docx to TEI xml.</desc>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en-us">English</language>
+      </langUsage>
+      <particDesc>
+        <person xml:id="EVERHARD"/>
+        <person xml:id="BRELSFORD"/>
+      </particDesc>
+      <settingDesc>
+        <setting>
+          <date when-iso="2016-10-21"/>
+          <locale/>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <u who="EVERHARD">This is <persName ref="#dvp_078_person_0">Emily [R.] Everhard</persName>. I’m at <placeName ref="#dvp_078_place_0">Rauner [Special Collections] Library</placeName> at <placeName ref="#dvp_078_place_1">Dartmouth College</placeName> in <placeName ref="#dvp_078_place_2">Hanover, New Hampshire</placeName>. Today is the <date when="2016-10-21">21st of October 16th</date> [sic; October 21, 2016]. I’m interviewing <persName ref="#dvp_078_person_1">John [E.] Brelsford</persName>, and this interview is for the <orgName ref="#dvp_078_org_0">Dartmouth Vietnam Project</orgName>.So to start off this interview, can we just learn about where you were—where and when you were born?</u>
+      <u who="BRELSFORD">I was born in <placeName ref="#dvp_078_place_3">Perry, Iowa</placeName>, in <date when="1950-10">October of 1950</date>.</u>
+      <u who="EVERHARD">And do you have any brothers or sisters?</u>
+      <u who="BRELSFORD">I have an older sister.</u>
+      <u who="EVERHARD">And what’s her name?</u>
+      <u who="BRELSFORD"><persName ref="#dvp_078_person_2">Susan [Brelsford]</persName>.</u>
+      <u who="EVERHARD">And what did you like to do when you were growing up in <placeName ref="#dvp_078_place_4">Iowa</placeName>?</u>
+      <u who="BRELSFORD">Well, I was—you know, until I was five—and kind of most of my memories were—were playing with toy farm equipment. My father was from a farm family. Wasn’t working as a farmer, but a bunch of my uncles were. And, yeah, I remember [chuckles] playing on the front porch with a friend of mine with corn pickers and hay balers and things like that.</u>
+      <u who="EVERHARD">And—and so your father wasn’t a farmer. What did he do?</u>
+      <u who="BRELSFORD">He—when we were in <placeName ref="#dvp_078_place_5">Iowa</placeName>, he was self-employed, trying to make a living selling and installing storm windows, and that didn’t go very well, so that kind of led to our moving out to <placeName ref="#dvp_078_place_6">Pennsylvania</placeName>, where he got a job for <orgName ref="#dvp_078_org_1">New Holland Farm Machinery Company [sic; New Holland Machine Company]</orgName>. He was an agricultural engineer. Ended up as a draftsman and designer for <orgName ref="#dvp_078_org_2">New Holland</orgName>.</u>
+      <u who="EVERHARD">And where in <placeName ref="#dvp_078_place_7">Pennsylvania</placeName> did you move?</u>
+      <u who="BRELSFORD">We moved to <placeName ref="#dvp_078_place_8">Lancaster County</placeName> in <placeName ref="#dvp_078_place_9">Pennsylvania</placeName>, <orgName ref="#dvp_078_org_3">Pennsylvania Dutch Country</orgName> and lived in a little town called <placeName ref="#dvp_078_place_10">Terre Hill</placeName>, which is about five miles from where he worked in the town of <placeName ref="#dvp_078_place_11">New Holland</placeName>.</u>
+      <u who="EVERHARD">And what was <placeName ref="#dvp_078_place_12">Terre Hill</placeName> like?</u>
+      <u who="BRELSFORD"><placeName ref="#dvp_078_place_13">Terre Hill</placeName> was a very small town. I think there was a population of about 1,200. We lived kind of on one edge of town. The elementary school was at the other edge. And it was, you know, kind of a typical small town. There was a playground kind of in the middle of town, where all the kids hung out after school. Played baseball or football or whatever the sport of the season was. And, yeah, you know, played with your neighbors. Kind of were free to roam the streets, you know, when you had free time. Pretty quiet.</u>
+      <u who="EVERHARD">And was your family religious?</u>
+      <u who="BRELSFORD">Not in any formal way. When I was—yeah, in <placeName ref="#dvp_078_place_14">Iowa</placeName> they attended a Methodist church and had kind of been involved more for kind of—I don’t know kind of what they called it  then. You’d probably call it social justice stuff then. They had a minister they were really kind of connected with, who was active in the civil rights movement at the time. Out where we moved to <placeName ref="#dvp_078_place_15">Pennsylvania</placeName>, they ended up connecting with the Unitarian church in <placeName ref="#dvp_078_place_16">Lancaster</placeName>, where we went kind of semi-regularly, yeah, during my teenage years.</u>
+      <u who="EVERHARD">Mm-hm. And did you feel like—was your family—you mentioned the civil rights movement. Were they involved in politics or social movements?</u>
+      <u who="BRELSFORD">They—they were kind of more aware than involved, kind of when I—when I was around. They had—right after <name type="event" ref="#dvp_078_event_0">World War II</name>, they had gone to some <orgName ref="#dvp_078_org_4">United Nations</orgName> organization to <placeName ref="#dvp_078_place_17">Ethiopia</placeName> to do kind of work. My dad kind of helped people with, you know, learning farming techniques, and my mom—I’m not sure what I think taught, maybe taught English, but had some kind of teaching role there. My sister was actually born in <placeName ref="#dvp_078_place_18">Ethiopia</placeName>.</u>
+      <u who="EVERHARD">Oh, do you know—</u>
+      <u who="BRELSFORD">Kind of like [unintelligible; 4:16].</u>
+      <u who="EVERHARD">What part of <placeName ref="#dvp_078_place_19">Ethiopia</placeName>? What part of <placeName ref="#dvp_078_place_20">Ethiopia</placeName> were they working in?</u>
+      <u who="BRELSFORD">It was kind of out in the country. They were, as I recall, a couple of hours from the capital, <placeName ref="#dvp_078_place_21">Addis Ababa</placeName>, and—but I don’t—yeah, I don’t know any more specifically than that.</u>
+      <u who="EVERHARD">Mm-hm. And so did you and your family spend a lot of time together?</u>
+      <u who="BRELSFORD">Yeah. You know, when I think about my family—you know, it didn’t seem unusual at the time, kind of, as I’ve grown up and gotten to know how other peo- —other families have done business. Yeah, I mean, my family I think was pretty close. You know, both parents worked, but when they weren’t working, they were home, and, you know, their kids were kind of the center of their lives. They didn’t have a lot of—a lot of other activities, so—yeah, you know—you know, a lot of it was centered around working around the house. My dad always had a big garden, was always doing stuff, which as a kid, I wasn’t too thrilled to be part of, but—</u>
+      <u who="EVERHARD">[Chuckles.]</u>
+      <u who="BRELSFORD">Kind of as I’ve grown up, I’ve kind of come to appreciate that more. I learned a lot, working around the house.</u>
+      <u who="EVERHARD">What did your mother do for her occupation?</u>
+      <u who="BRELSFORD">She—when we were in <placeName ref="#dvp_078_place_22">Iowa</placeName>, she stayed home with the kids. We were, you know, really little then. When we got out to <placeName ref="#dvp_078_place_23">Pennsylvania</placeName>, she ended up getting a job as a secretary at the <orgName ref="#dvp_078_org_5">New Holland Farm Machinery Company</orgName>, which was kind of the big employer in that area. And then she ended up going back to school and getting certified as a teacher, so by the time I hit seventh grade, she became a—a teacher at the same high school that I was going to. And that was what she did till she retired.</u>
+      <u who="EVERHARD">Was she ever your teacher? [Chuckles.]</u>
+      <u who="BRELSFORD">No. [Chuckles.] No, that was not permitted. Yeah.</u>
+      <u who="EVERHARD">Yeah, so moving forward kind of from childhood to more, like, adolescence and teenage years, can you talk to me a little bit about your high school experience?</u>
+      <u who="BRELSFORD">Yeah. Went to a regional high school. I was—you know, it was—the school was seventh through twelfth grade, so when I got—got there, kind of—I had—you know, I was kind of seen as smart and lazy, kind of, in my elementary school years. You know, the term “not living up to his potential” kept coming up [both chuckle] when teachers talked to my parents.And when I got to—you know, to junior high school, that kind of continued. It was sort of—I had always been, you know, really good at math and, you know, was—just didn’t have to—to study and anything, and then I got—you know, in seventh and eighth grade I ended up getting kind of mediocre grades, even in math. And, you know, so that was kind of [chuckles] an academic low point. But somehow, kind of starting about ninth grade, I kind of hit my stride or something, and my grades started to get better, and—and, you know—you know, I don’t know what accounts for that difference.I think some of it was, you know, started playing organized sports at the high school, and that kind of—I don’t know if being in shape kind of improved my mood, but it—it kind of gave me a focus. It was really—when I think about what high school would have been like without sports, it would have been a pretty dreary experience. But having that to do after school meant a lot.And, you know, I kind of had—well, impoverished social life. I was pretty shy. Had a girlfriend in tenth grade. Lasted a little while. We got back together in twelfth grade. Other than that, not much of a romantic experience in high school.</u>
+      <u who="EVERHARD">[Chuckles.]</u>
+      <u who="BRELSFORD">But was kind of act- —you know, I was in band and chorus and, you know, did all the things, and, you know, had a really positive experience. It’s interesting: My class has been, like, the one—one class that has kept getting together and having reunions every five years.</u>
+      <u who="EVERHARD">Wow!</u>
+      <u who="BRELSFORD">And we kind of always assumed everybody did that, but it turns out not so much, that—but, yeah, it was kind of a nice—nice group of people. There was—you know, you think about, you know, the stuff you hear about bullying and so on—you know, there was some of that going on, but there really wasn’t this class stratification that, you know—kind of—it was—it was kind of a farm—farm community. There was—weren’t a lot of really upper-class people there to look down on the rest of it. You know, there was some of that, but—but for the most part, it was—it was a pretty good experience for me.And, you know, I ended up doing well academically, so kind of had a positive reputation, which, you know, kind of helped me feel better about myself.</u>
+      <u who="EVERHARD">Yeah. What was the name of your high school?</u>
+      <u who="BRELSFORD">It was <orgName ref="#dvp_078_org_6">Garden Spot High School</orgName>.</u>
+      <u who="EVERHARD">Cool. And so what sort of led you to coming to <orgName ref="#dvp_078_org_7">Dartmouth</orgName>?</u>
+      <u who="BRELSFORD">Well, it was—as I said, kind of, I was—my particular skill was mathematics, and I took—I guess between—I guess it was between my junior and senior year, I took a summer course at a local college, <orgName ref="#dvp_078_org_8">Franklin &amp; Marshall College</orgName>, and, you know, some advanced—it was vector geometry course. And so I was thinking about college, so at some point, I asked the guy who taught that course where he would recommend for, you know, somebody interested in mathematics, and among the schools he recommended was <orgName ref="#dvp_078_org_9">Dartmouth</orgName>. So kind of based on that, I applied and got in. And I was—</u>
+      <u who="EVERHARD">So you mentioned that—</u>
+      <u who="BRELSFORD">I’m sorry. What?</u>
+      <u who="EVERHARD">Oh, no. Keep going.</u>
+      <u who="BRELSFORD">What was I going to—yeah. I was—to my—I think I was the—the first student from the school ever to get admitted to an <orgName ref="#dvp_078_org_10">Ivy League</orgName> college, so that was kind of a big deal at the time.</u>
+      <u who="EVERHARD">Wow.</u>
+      <u who="BRELSFORD">I had no idea, really, what that even meant. You know, I kind of—I don’t know what I even knew about <orgName ref="#dvp_078_org_11">Dartmouth</orgName> before I applied there. Kind of I’d heard about the <orgName ref="#dvp_078_org_12">Ivy League</orgName> probably more through football than anything else, just paying attention to sports. Knew about <orgName ref="#dvp_078_org_13">Harvard [University]</orgName> and <orgName ref="#dvp_078_org_14">Yale [University]</orgName>, but I probably didn’t know if <orgName ref="#dvp_078_org_15">Dartmouth</orgName> was in the <orgName ref="#dvp_078_org_16">Ivy League</orgName> till—till I heard this.So in—I remember—you know, I was concerned at the time it was an all-male school, and that kind of was an unattractive aspect of it to me, but everybody said, “Ah, don’t worry about it. Whenever there’s a male school, there’s always a women’s college close by, so, you know, there’ll be plenty of women around.” So I thought, All right.And that turned out not to be true at all. Back then, I think <orgName ref="#dvp_078_org_17">Colby Junior College [for Women, now Colby-Sawyer College]</orgName> was the closest girls’ school, and it wasn’t exactly convenient, so to organize a date with anybody, you know, you had to rent a room for them to stay in and, you know, somehow make contact. I remember the first date I ever had at <placeName ref="#dvp_078_place_24">Dartmouth</placeName> was a friend of mine had a sister at—I forget where she went to school, but one of the <orgName ref="#dvp_078_org_18">Seven Sisters</orgName>, and she organized a bunch of dates for his friends, so some weekend we came up. But that was always kind of a bizarre part of the experience.</u>
+      <u who="EVERHARD">Yeah. And so you mentioned that coming from sort of this farming town, you were the first one to be admitted to an<orgName ref="#dvp_078_org_19">Ivy League</orgName>. Did a lot of people from your high school go to college, or were you sort of an outlier?</u>
+      <u who="BRELSFORD">Yeah, no, there was—I don’t know what the percentage was. It was a lot—it certainly wasn’t at all unusual that—to go to college. A lot of people didn’t, and it was—you know, there was a lot of people were—you know, intended to be farmers, and, you know, kind of there was—I don’t know what they call that track at school, but there was, you know, kind of an agricultural track, and, you know, a bunch of people just didn’t intend to go to college, and left high school and went to work.</u>
+      <u who="EVERHARD">And when you were in high school and sort of finishing up high school, there was a lot going on in <placeName ref="#dvp_078_place_25">America</placeName> with, you know, the <name type="event" ref="#dvp_078_event_1">civil rights movement</name> and the <name type="event" ref="#dvp_078_event_2">[Vietnam] War</name>. And I was just wondering if you remember the <name type="event" ref="#dvp_078_event_3">March on Washington [for Jobs and Freedom]</name> with <persName ref="#dvp_078_person_3">[the Rev. Dr.] Martin Luther King [Jr.]</persName>.</u>
+      <u who="BRELSFORD">I certainly remember it as—I don’t remember anything in detail about it. I was aware of it at the time. It was—you know, my parent were people who were very much in—you know, big admirers of <persName ref="#dvp_078_person_4">Martin Luther King</persName>. And so that was something that—that mattered to them, and, you know, we were connected with the Unitarian church by then, so that’s kind of in that environment. There was a lot of support for that.The area I grew up in was, you know, American [unintelligible; 14:38] area. So we were kind of outliers. I think this little town I grew up in—I think there were three Democrats in town, two of which were my parents.</u>
+      <u who="EVERHARD">Wow.</u>
+      <u who="BRELSFORD">And everybody else—yeah. I was—I was a big <persName ref="#dvp_078_person_5">[President] Richard [M.] Nixon</persName> supporter in the fifth grade, so [both chuckle], much to the chagrin of my parents.</u>
+      <u who="EVERHARD">[Laughs.] </u>
+      <u who="BRELSFORD">I was just doing what was popular. But I got over that.</u>
+      <u who="EVERHARD">Yeah. And, like, also just—do you remember when <persName ref="#dvp_078_person_6">JFK [President John F. Kennedy]</persName> was assassinated?</u>
+      <u who="BRELSFORD">Yeah, yeah. News came over the intercom. I was in I think eighth grade biology class. Yeah, it was—it was huge. Everybody—you know, it was just a shock to everybody. I remember I got home—you know, my mom was crying, and it was just—everything kind of stood still for the next three or four days. They cancelled school. I don’t remember exactly what day of the week it was. I was—I want to say it was a Thursday, but I don’t know. But anyway, they cancelled school. And then I remember the school was closed the day of the funeral. Kind of watching all that on TV.</u>
+      <u who="EVERHARD">Yeah, it was definitely such an impactful moment in history.</u>
+      <u who="BRELSFORD">Yeah.</u>
+      <u who="EVERHARD">And also just sort of my last question in this group of questioning: Did anything about—like, what about the general culture of the 1960s do you feel like impacted you in high school?</u>
+      <u who="BRELSFORD">Well, the big controversial thing was kids letting their hair grow long. That was a huge—that was actually a huge thing when I got to <orgName ref="#dvp_078_org_20">Dartmouth</orgName>, too. But back then—yeah, like, if you had—a boy had bangs at all, that—you know, the athletic coaches were distraught.</u>
+      <u who="EVERHARD">[Chuckles.]</u>
+      <u who="BRELSFORD">And there was—you know, people getting their hair cut. And, you know, all that was going on. I guess, you know, miniskirts—it was kind of the same issue. You know, people were having their hemlines measured, all that stuff. So there was—you know, that was kind of the level of rebellion in my high school. There was dim awareness of other stuff. I think, you know, there was kind of antiwar sentiment. It was—you know, it was a big—a big deal. I remember kind of the—you know, the protests against the <name type="event" ref="#dvp_078_event_4">Vietnam War</name> in <placeName ref="#dvp_078_place_26">Lancaster</placeName> was, you know, a bunch of people just stood out on the street corner, holding signs in kind of downtown <placeName ref="#dvp_078_place_27">Lancaster</placeName>. And there were, you know—there were maybe twenty people or something. And they would—you know, they would do that, you know, on the weekend or regularly. And, you know, that really distressed a lot of other people, you know. The idea that people would be opposed to government decisions was—was in and of itself controversial.So that—you know—I think my mom participated in that. I never did, but certainly they were—both my parents would have been favorable—favorably inclined toward that. They were both pacifists. And my dad had been a conscientious objector in <name type="event" ref="#dvp_078_event_5">World War II</name>.</u>
+      <u who="EVERHARD">Oh, wow.</u>
+      <u who="BRELSFORD">So kind of antiwar sentiment was—was, you know, just part of them. They didn’t—you know, that wasn’t—they’d been through that already.</u>
+      <u who="EVERHARD">Mm-hm. And did you—did you and your family talk about the war a lot, or was it just sort of something that was happening in the background?</u>
+      <u who="BRELSFORD">We talked about it some. I bet we talked about it more than most families, and certainly, you know, they were anti war. They were, early on, kind of fine with opposition to the war. You know, I think that was consistent with their values. And they were open to hear people with that perspective.</u>
+      <u who="EVERHARD">Mm-hm. And what were your thoughts about it?</u>
+      <u who="BRELSFORD">I guess—I don’t really have a clear memory. I do remember being really, really happy when <persName ref="#dvp_078_person_7">[President] Lyndon [B.] Johnson</persName> decided not to run for reelection, and that I think was largely based on antiwar sentiment. I can’t think of what other objections I would have had. But I remember being out, like some Friday evening with a friend of mine, and hearing it on the radio, and both of us being really excited about that. So I kind of, yeah, had an antiwar sentiment. And, again, you know, high school I was—you know, that was—defined me as this kind of arch radical, so you kind of look back on it. There wasn’t much to it.</u>
+      <u who="EVERHARD">Mm-hm. And did you know anyone who was fighting in the war?</u>
+      <u who="BRELSFORD">Not while I was in high school. You know, after—you know, kids from my class—I had three friends who were killed in <placeName ref="#dvp_078_place_28">Vietnam</placeName>. You know, they weren’t close friends, but one was a guy who had been my next-door neighbor but had moved out of town when he was—I was about eight or nine. You know, he and I were good friends at the time, but I hadn’t seen him since I was eight years old. My parents got a letter from his mother, letting them know of his death.And then a guy I had played baseball with, a guy who was in my class in elementary school, also died, and another guy, who was a couple of years older than me, who was, you know, not—you know, just somebody I knew from town.</u>
+      <u who="EVERHARD">Mm-hm. And what were their names?</u>
+      <u who="EVERHARD">The older guy was <persName ref="#dvp_078_person_8">[Herbert H.] “Herb” Stauffer</persName>. The guy who was in my class was <persName ref="#dvp_078_person_9">Ray [L.] Good</persName>, and the guy who had been my neighbor was <persName ref="#dvp_078_person_10">[Jeffrey P.] “Jeff” Searles</persName>.</u>
+      <u who="EVERHARD">Wow. And—yeah, so moving on, just a little forward now, back to when you were at <placeName ref="#dvp_078_place_29">Dartmouth</placeName>. So can you sort of talk to me about what it was like when you first started going to school at <orgName ref="#dvp_078_org_21">Dartmouth</orgName> and just starting college?</u>
+      <u who="BRELSFORD">Yeah. Yeah, it was—I think <orgName ref="#dvp_078_org_22">Dartmouth</orgName> was about an eight-hour drive from home, so my parents drove me up and, you know, spent the night there, kind of helped me get into—get my dorm room set up. It was a double room. And, you know, it was just—it was kind of an exciting time. You know, I was eager to—to start that phase of my life. You know, I think as a kid, I had no idea what that was like from my parents’ perspective. You know, since I had two kids of my own go to college, I now know what that felt like as a parent.But at the time, I was just—you know, it was just exciting. I don’t remember being particularly homesick. I remember at some point—this wasn’t early on but kind of, you know, halfway through my freshman year or something, if I wouldn’t get letters several days in a row, I would start to feel lonely and homesick, but my parents were pretty good about writing. And, you know, I had friends, who exchanged letters. So, you know, keeping—keeping in touch back home did matter.You know, when I got there—you know, it was just—you know, it was new. I, you know, hadn’t really spent that much time out of home. You know, summer camp or something or spent a week with an aunt and uncle, you know, vacationing with them or something, but being on my own in that sense was—was new to me.I was on the freshman soccer team, so kind of my first—you know, my roommate and the other guys on the soccer team were my first set of friends. And that was pretty easy. You know, people—everybody was in the same boat, trying to make connections, so it wasn’t particularly hard to make friends.The food was pretty good.</u>
+      <u who="EVERHARD">[Chuckles.]</u>
+      <u who="BRELSFORD">Yeah. So it was okay. I was kind of—you know, getting kind of my laziness—kind of started to reassert itself. You know, in high school I, you know, didn’t have to work that hard. <orgName ref="#dvp_078_org_23">Dartmouth</orgName> was kind of more challenging, but I still didn’t work that hard. You know, I went to school thinking I was going to be a math major. I was in an honors calculus class and just didn’t do it. And, you know, got—I can’t remember—I got—I took—got a C minus, which was I think—I don’t know if they still use the term. Back then, it was called “the gentleman’s C,” which means they would have given me an F except it was an Ivy League school, so they gave me a C.But, yeah, I just didn’t do it. And that was kind of stunning to me because, you know, actually didn’t—didn’t learn enough calculus to—to understand what was going on in physics class, either, so kind of my—my ambitions toward being a mathematician kind of evaporated in that—in that first year. And there was kind of a sense that I—I was actually more interested in other things—you know, kind of social science stuff, although it was pretty ill defined.But, you know, to some extent, I just—I think my parents’ attitude toward that was, you know, college is a time to figure out what you want to do. The fact that you don’t know going there wasn’t—so I kind of had that thought in my mind. But kind of felt lo- —you know, I was just trying to—didn’t know what I was doing or what I should be doing or—you know, it was kind of confusing in that sense.</u>
+      <u who="EVERHARD">Mm-hm. And what did you end up studying?</u>
+      <u who="BRELSFORD">Well, I ended up dropping out after my sophomore year, kind of for a couple reasons, one of which was I had no damn idea what I—what I wanted to do. I remember—I think you had to declare a major by the time—you know, at the start of your junior year. And I kind of had it down to—I had different theories, but psychology, history, sociology, and at one point I thought, Well, no, I’ll be a language major, and then I’ll be able to lead—you know, I’ll learn a bunch of languages, and then I can educate myself in whatever. That didn’t really last that long.But the—are you still doing trimesters at <orgName ref="#dvp_078_org_24">Dartmouth</orgName>?</u>
+      <u who="EVERHARD">We’re doing the quarter system now, so we have, like, a fall, winter and spring term.</u>
+      <u who="BRELSFORD">Okay, so—yeah. Yeah, there was nothing in summer, so that was—we had trimesters. So sophomore year, I did the—the winter term study abroad. It was in <placeName ref="#dvp_078_place_30">France</placeName>, and that—that was kind of good. And then I got back. The spring term my sophomore year was the year of the <name type="event" ref="#dvp_078_event_6">Cambodian Invasion</name>, and classes—<persName ref="#dvp_078_person_11">President [John G.] Kemeny</persName> at the time ended up cancelling classes kind of partway through the semester and just giving everybody credit, with the idea that the campus would be involved in just, you know, just learning more about the war and so on.But I think if he had not cancelled classes, I think they would have had to kick me out at the end of that semester because I really wasn’t doing any real work, and it’s like that dream you have: You wake up. It’s finals week, and you haven’t been to class yet. That was kind of my actual experience. I really wasn’t—wasn’t doing much work. So I just decided, you know, it was kind of pointless to be in college at this point, so I dropped out.</u>
+      <u who="EVERHARD">Mm-hm. And you mentioned that you were on the soccer team.</u>
+      <u who="BRELSFORD">Mm-hm.</u>
+      <u who="EVERHARD">Were there any other, like, extracurriculars that you were involved with at <orgName ref="#dvp_078_org_25">Dartmouth</orgName>?</u>
+      <u who="BRELSFORD">I think—I ended up on the squash team in the winter term just because if you’re on a team, you didn’t have to take a phys ed class, so I thought I’d try squash. I’d never played squash in my life. I played playground tennis, so I was not a factor on the squash team. They just let me—you know, I don’t think they cut anybody.And then I tried out for the baseball team. Baseball was actually my favorite sport, but got cut from that, so other than that, no, I don’t—no extracurriculars.</u>
+      <u who="EVERHARD">Mm-hm. And what was—what would you say the political climate of the school was like while you were here?</u>
+      <u who="BRELSFORD">Well, the—I can’t remember. I was, like, probably the first week I was there, there was—I don’t know what the event would have been, but there were, you know, different tables with different groups and so on, one of which was <orgName ref="#dvp_078_org_26">SDS [Students for a Democratic Society]</orgName>, which was kind of new to me. But there was—you know, there was—there was a pretty active antiwar group going on that, you know, I was interested in and kind of, you know, connected with them early on. And, you know, there was also—you know, the <orgName ref="#dvp_078_org_27">[Dartmouth] Conservative Society</orgName> was big.And I lived in <placeName ref="#dvp_078_place_31">Cutter Hall</placeName>. You know that building? It’s not a dorm anymore, I think.</u>
+      <u who="EVERHARD">I think some people still live there.</u>
+      <u who="BRELSFORD">What’s that?</u>
+      <u who="EVERHARD">No, some people still live there, but yeah, I know where you’re talking about. Sorry.</u>
+      <u who="BRELSFORD">Yeah, right behind the <placeName ref="#dvp_078_place_32">Daniel Webster house [sic; Webster Cottage]</placeName>.</u>
+      <u who="EVERHARD">Uh-huh. </u>
+      <u who="BRELSFORD">So, yeah, there was <placeName ref="#dvp_078_place_33">Cutter Hall</placeName> and <placeName ref="#dvp_078_place_34">North Hall</placeName> at the time, and they—that was called the Cutter-North experiment. I can’t remember, but the people who lived there kind of were signing on to—to participate in discussions and—I can’t remember how it was, but it was—it sounded good when I was trying to decide where I wanted to live in my freshman year. And so it was a really kind of mixed group of people. There were a lot of foreign students there, a lot of, you know, kind of left-wing <orgName ref="#dvp_078_org_28">SDS</orgName> types and a lot of—you know, the—the dorm president or whatever they called him was the president of the <orgName ref="#dvp_078_org_29">Conservative Society</orgName>. So there was a big mixture, and there was kind of a lot of talk, and, yeah, antiwar sentiment, you know, was kind of really on the increase. I mean, it was my first time there. I don’t know what it was like before, but it really, over that first year—you know, that was the year of the <name type="event" ref="#dvp_078_event_7">Parkhurst Hall takeover</name>, so there was really an accelerating kind of awareness and—and kind of confrontation between the antiwar students and the administration and others.</u>
+      <u who="EVERHARD">Mm-hm. And also I was looking through—I was reading some of the old school newspapers, and I saw that there was a lot going on at the <orgName ref="#dvp_078_org_30">Afro-American Society</orgName> in <date when="1968">’68</date>, and I was wondering if you just remembered anything about them. They also, I think, had a little <placeName ref="#dvp_078_place_35">Parkhurst</placeName> sit-in as well, in calling for administration reforms.</u>
+      <u who="BRELSFORD">I don’t remember the <placeName ref="#dvp_078_place_36">Parkhurst</placeName> sit-in. The thing I remember was—I don’t know if this was my freshman year or my sophomore year. I think it might have been my sophomore year. So—but there was one of these guys showed up who’d been a Nobel Prize-winning something—scientist in some area but now had started this thing outside his own field, where he had—you know, was asserting that he—he had identified the genetic basis for the kind of intellectual inferiority of African-American people. And kind of everybody on campus—well, virtually everybody that I knew about kind of understood that to be ridiculous.</u>
+      <u who="EVERHARD">Mm-hm. </u>
+      <u who="BRELSFORD">But he was going to be invited to speak, kind of with the idea that the—the <orgName ref="#dvp_078_org_31">Dartmouth</orgName> professors were going to debunk, you know, his—his so-called evidence.But the—you know, the black students on campus were really just—you know, the idea that he would be allowed to speak at all was pretty offensive. So he was—I can’t remember. He was going to speak in—I don’t know where, one of the science building labs. It wasn’t a big area. It was probably fifty or sixty seats, and they were—it was kind of a tiered lecture room. I don’t know.So there was—so a bunch of us, you know, went, and there was, you know, the—I can’t remember the name of the black organization, whatever they were called—all showed up, too, so it was pretty tense. They were kind of sitting prominently in the middle of the room, and nobody knew what their intention was.So this guy gets introduced. I can’t remember. His name was <persName ref="#dvp_078_person_12">Costin [sic; William B.] Shockley [Jr.]</persName>, I think. But he stood up, began to make his remarks, and all the black students stood up and began to applaud and wouldn’t stop. So they—they basically were able to prevent him from saying anything, by giving him a standing ovation.</u>
+      <u who="EVERHARD">Wow.</u>
+      <u who="BRELSFORD">So—and—and then some <orgName ref="#dvp_078_org_32">Dartmouth</orgName> professors got up and tried to—tried to get him to stop because they really wanted their opportunity to kind of debunk what he was saying, but they—you know, they just stood there and applauded, and to my recollection, that’s how it ended. He just wasn’t able to speak. And I think—I don’t know—among my group of friends that was very well received. I don’t know how other people felt about it.</u>
+      <u who="EVERHARD">Yeah. Wow. And also, like, at this time there were a lot of student protests just happening across the country, like at <orgName ref="#dvp_078_org_33">Harvard</orgName>,—</u>
+      <u who="BRELSFORD">Yeah.</u>
+      <u who="EVERHARD">—<orgName ref="#dvp_078_org_34">Columbia [University]</orgName>, and I was just wondering if you guys talked about those or knew about those.</u>
+      <u who="BRELSFORD">Yeah. You know, I think about it now, you know, the kind of things leading up to the <name type="event" ref="#dvp_078_event_8">Parkhurst Hall takeover</name>. It—it almost seems to me like there was a certain inevitability about it, because it was happening everywhere. I mean, the first one I remember was <orgName ref="#dvp_078_org_35">Columbia</orgName>, but there was, you know, that clear sense of it was happening, that kind of idea of confronting administrations about their kind of hypocritical behavior related to the war was big. And then kind of—you know, as that began to get talked about at <orgName ref="#dvp_078_org_36">Dartmouth</orgName>, it was—you know, I think about—it just didn’t even seem like much of a choice; it seemed like something we had to do. You know, that, you know, it would have just been cowardly or something not to take it to that step. So, yeah, there was certainly awareness of—of a lot of that.</u>
+      <u who="EVERHARD">And how did you feel that the <orgName ref="#dvp_078_org_37">Dartmouth</orgName> administration was being hypocritical?</u>
+      <u who="BRELSFORD">Well, the—you know, it kind of ended up focusing on the presence of <orgName ref="#dvp_078_org_38">ROTC [pronouncing it ROT-cee; Reserve Officers’ Training Corps]</orgName> at—at <placeName ref="#dvp_078_place_37">Dartmouth</placeName>, that there was a lot of talk, a lot of antiwar sentiment and a lot of, you know, kind of lip service to that, and yet here was, you know, the <orgName ref="#dvp_078_org_39">U.S. military,</orgName> you know, training people to go fight this war that everybody said they were against.</u>
+      <u who="EVERHARD">Yeah. Yeah.</u>
+      <u who="BRELSFORD">So that really became kind of a focal p- — I can’t remember now exactly how the debate was framed, but kind of like that the presence of <orgName ref="#dvp_078_org_40">ROTC</orgName> is inconsistent with—with <orgName ref="#dvp_078_org_41">Dartmouth</orgName>’s values, which is a liberal—you know, liberal arts institution. And, you know—and then I kind of remember what the administration’s argument was. But there was, you know—a vague memory at this point, but there was this—you know, this vote about, you know, should—should <orgName ref="#dvp_078_org_42">ROTC</orgName> be removed from—from <orgName ref="#dvp_078_org_43">Dartmouth</orgName>. And I think there were four different things you could vote for, and really—kind of the <orgName ref="#dvp_078_org_44">SDS</orgName> group had one—you know, there was, you know, the immediate removal of—of <orgName ref="#dvp_078_org_45">ROTC</orgName>. There was—I don’t remember what the other were—you know, the other was leave <orgName ref="#dvp_078_org_46">ROTC</orgName> alone and let it go.So kind of as that was going on—I don’t even remember over what period of time that happened. It seemed like a pretty substantial period of time, but it probably couldn’t have been that long a period of time. There was kind of debate about that. And the vote came, and this—I really—I’ve been trying to remember this after I agreed to talk to you, but I can’t remember how it was.But the thing that got the majority vote was from the point of view of the students that I was involved with. The <orgName ref="#dvp_078_org_47">SDS</orgName> coalition, you know, was the one that we thought we wanted. There wasn’t—I think it wasn’t the immediate termination of <orgName ref="#dvp_078_org_48">ROTC</orgName>, but it was a fairly immediate—</u>
+      <u who="EVERHARD">Yeah.</u>
+      <u who="BRELSFORD">—and, you know, we thought that was a clear mandate, and the administration interpreted that vote radically differently than we had understood it, leading up to it, and that was the thing that was—seemed outrageous to us, that, you know, from our point of view, we had won the election, and then they, you know, after that said, “Well, that’s not what that meant. It means this other thing,” which—and I’m not remembering the details of that right now. But that was—</u>
+      <u who="EVERHARD">I think that—</u>
+      <u who="BRELSFORD">I think—</u>
+      <u who="EVERHARD">Just to—just to jog your memory, I think it was more to phase it out by <date when="1973">1973</date>.</u>
+      <u who="BRELSFORD">Se- —se- —yeah. So that—yeah. And I think we thought, yeah, that the thing was by the end of the year or something. There was this—and there was this assertion that it could not be immediately terminated. I don’t know if that was the argument about what—that it would be terminated as soon as possible or something, and then the dispute was about what—what “as soon as possible” meant.</u>
+      <u who="EVERHARD">Mm-hm. </u>
+      <u who="BRELSFORD">But in any case, we were—we were outraged, you know, betrayed, and that was, by my understanding, what provoked the <name type="event" ref="#dvp_078_event_9">takeover of Parkhurst Hall</name>, that that was where it was—you know, a protest against that interpretation.</u>
+      <u who="EVERHARD">Mm-hm. And just speaking a little bit about the <orgName ref="#dvp_078_org_49">Students for [a] Democratic Society</orgName>, when did you join that group, and what was it like?</u>
+      <u who="BRELSFORD">Yeah, I got connected pretty early on. As I said, it’s like—I remember during the orientation that there was—you know, I started talking to people at some table outside the <placeName ref="#dvp_078_place_38">Hopkins Center [for the Arts in Hanover, New Hampshire]</placeName>, or inside the <placeName ref="#dvp_078_place_39">Hopkins Center</placeName>—I don’t know. And a couple guys who were I think sophomores at the time were living in <placeName ref="#dvp_078_place_40">Cutter Hall</placeName>, and I kind of got to know them. And then, you know, I don’t know what—there was—there were kind of meetings that—you know, I don’t actually remember a whole lot of events, but there was just kind of a, you know, getting together, talking about it, talking about this vote and that - that became a thing. The kind of opposition to <orgName ref="#dvp_078_org_50">ROTC</orgName> was kind of the focal point, as I remember it.Kind of went to some meetings at other campuses, trying to connect with—you know, with <orgName ref="#dvp_078_org_51">SDS</orgName> students who were kind of left-leaning students at other—other schools. I remember going down to <placeName ref="#dvp_078_place_41">Boston [Massachusetts]</placeName> one weekend or going down to <orgName ref="#dvp_078_org_52">Skidmore [College]</orgName> once.But really not a lot other than that, just kind of talking about it, trying to, you know, discuss—and there was, you know, a lot of kind of ranting and posturing and trying to look radical. But in terms of what we actually did, kind of this organizing the campus about the opposition to <orgName ref="#dvp_078_org_53">ROTC</orgName> and the <name type="event" ref="#dvp_078_event_10">takeover of Parkhurst Hall</name> were probably the big events that I was a part of.</u>
+      <u who="EVERHARD">Yeah. Mm-hm. And what was it like sort of being on campus, being so opposed to <orgName ref="#dvp_078_org_54">ROTC</orgName> but having, you know, some of your classmates being a part of it?</u>
+      <u who="BRELSFORD">Yeah, it was—it was kind of, you know, awkward, I guess. I mean, I didn’t really have any personal animosity to anybody in <orgName ref="#dvp_078_org_55">ROTC</orgName>. I can’t remember. Probably some guys in <orgName ref="#dvp_078_org_56">ROTC</orgName> were on the soccer team and, you know, that I had some kind of relationship with them. It was—it seemed to me, for the most part, civil. I think we were probably each condescending to the other group, you know, thinking—thinking them kind of ignorant and, you know, not clear thinking the way we were clear thinking.You know, there would be some heated discussions, kind of more about the war than about <orgName ref="#dvp_078_org_57">ROTC</orgName>, itself, and just—but, yeah, there was kind of, you know, from the left—left side of that perspective, there was kind of demonizing of the <orgName ref="#dvp_078_org_58">U.S. military</orgName> and kind of sense of the atrocities that were happening in <placeName ref="#dvp_078_place_42">Vietnam</placeName>, and the <orgName ref="#dvp_078_org_59">ROTC’s</orgName> presence just kind of contributed to that—that happening.</u>
+      <u who="EVERHARD">Mm-hm. And do remember, like in <date when="1968">’68</date>, when the <name type="event" ref="#dvp_078_event_11">Tet Offensive</name> happened?</u>
+      <u who="BRELSFORD">Yeah, I remem- —yeah. I—I don’t connect it to anyth- —you know, I just remember the <name type="event" ref="#dvp_078_event_12">Tet Offensive</name>. I don’t—I don’t know—I don’t have much more memory of it than that. I don’t kind of connect it to any particular thing at <orgName ref="#dvp_078_org_60">Dartmouth</orgName>.</u>
+      <u who="EVERHARD">Or just, like, the escalation of the war in general.</u>
+      <u who="BRELSFORD">Yeah. I mean, there was that sense, that it just kept getting worse and worse. There weren’t—and you kept hearing more—you know, the kind of napalming of people that—you know, I don’t know when that famous picture of that little girl was, sometime around that time. And, you know, that—that just—you know, the sense of the injustice of the war and what we were doing to that country.</u>
+      <u who="EVERHARD">Mm-hm. And was there, like, a sense of just it being a pointless war, or did anyone ever feel like the <orgName ref="#dvp_078_org_61">U.S.</orgName> was kind of winning?</u>
+      <u who="BRELSFORD">Yeah, I don’t—I don’t think anybody ever felt the <orgName ref="#dvp_078_org_62">U.S.</orgName> was winning. You know, you hear on the news generals asserting, “We could win if we put in 80,000 more troops.” But I can’t remember a point where anybody—I mean, it seems like at some point even news commentators were really skeptical of what that kind of a—that kind of assertion.And, I mean, I think more—I mean, “pointless” was one thing. I think the kind of focus we had was more the—the injustice of it, that, you know, here was a group of people that were fighting for their independence. They had defeated the French, were offered, you know, an election, which they clearly would have won, and then, you know, the United States, along with the French, you know, wouldn’t permit that election to proceed and—and then were surprised that the Vietnamese are upset about that.So I think that was kind of the focus of this, is just not, you know, we’re on the wrong side of this war [cross-talk; unintelligible; 45:25]—</u>
+      <u who="EVERHARD">Yeah.</u>
+      <u who="BRELSFORD">—because—yeah.</u>
+      <u who="EVERHARD">Yeah, absolutely. And going back to your experience with <orgName ref="#dvp_078_org_63">SDS</orgName> and kind of the tension leading up to the <name type="event" ref="#dvp_078_event_13">Parkhurst takeover</name>, I think it was <date when="1969-04-13">April 13th of 1969</date> was when <orgName ref="#dvp_078_org_64">SDS</orgName> released the demand for the discontinuation of recruitment at the college and <orgName ref="#dvp_078_org_65">ROTC</orgName>, and you spoke about that a little bit earlier, but I was just wondering if you had any more details or memories about the <orgName ref="#dvp_078_org_66">SDS</orgName> sort of releasing that demand.</u>
+      <u who="BRELSFORD">You know [chuckles], I don’t. I should, because I was part of that group. I remember—I was just thinking about—yeah, everybody had their list of nonnegotiable demands. That was the way everything was phrased back then. Every—every campus, there was always—and I remember there was—I think it as probably in <orgName ref="#dvp_078_org_67">The Dartmouth</orgName>, but there was a conservative cartoon that was—you know, that some radical had one unnegotiable demand related to their takeover of the administration building, and that was complete amnesty for everybody who participated in the takeover.</u>
+      <u who="EVERHARD">[Chuckles.]</u>
+      <u who="BRELSFORD">[Chuckles.] So I had to give them that. That was funny [unintelligible; 46:40].</u>
+      <u who="EVERHARD">[Chuckles.]</u>
+      <u who="BRELSFORD">But there was this—this nonnegotiable demand stuff. Yeah, I would have been in part of the discussions where that—that was framed. You know, I was not one of the leaders of that group. There were—you probably know the names better than I do. <persName ref="#dvp_078_person_13">David [A.] White [Class of 1971]</persName>—is that one of the—</u>
+      <u who="EVERHARD">I don’t list the names of the leaders, but any names that you remember, we’d love to—</u>
+      <u who="BRELSFORD">Well, I’m trying to think—</u>
+      <u who="EVERHARD">—get on file.</u>
+      <u who="BRELSFORD">He was—so I was—there was—within the kind of left-wing movement, there were factions, and I was kind of—even with <orgName ref="#dvp_078_org_68">SDS</orgName>, and I was—I was—I saw—I actually listened to one of the interviews, part of one of the interviews, somebody name was <persName ref="#dvp_078_person_14">John [G.] Spritzler [Class of 1968]</persName>, who was—</u>
+      <u who="EVERHARD">Yeah, yeah.</u>
+      <u who="BRELSFORD">—kind of part of the group that I was part of. He was at the time—when I got there, he had already left <orgName ref="#dvp_078_org_69">Dartmouth</orgName> but was kind of working for <orgName ref="#dvp_078_org_70">SDS</orgName> on a regional basis. He traveled from campus to campus in New England to try and help organize things, so, you know, I knew him really well. I had—I had a double room that had—my roommate moved out kind of at the end of the first trimester, and so I had an empty bed. Nobody took that room, so <persName ref="#dvp_078_person_15">John</persName> would stay with me sometimes.</u>
+      <u who="EVERHARD">Oh, wow.</u>
+      <u who="BRELSFORD">And let’s see, other names: <persName ref="#dvp_078_person_16">Harvey [A.] Katz [Class of 1970]</persName>, <persName ref="#dvp_078_person_17">Guy [F] Brandenburg [Class of 1971]</persName>, <persName ref="#dvp_078_person_18">Burleigh [M.] Smith [Class of 1971]</persName>, <persName ref="#dvp_078_person_19">[Howard S.] “Howie” Becker [Class of 1972]</persName>, I think. And then this guy—I think it’s <persName ref="#dvp_078_person_20">David White</persName>; I’m not sure. I remember he was—he was not part of that group. He was kind of in the <orgName ref="#dvp_078_org_71">SDS</orgName>, but he was—my group kind of frowned upon his group, saw him as too cavalier or something. But he was nevertheless kind of one of the leaders of the campus-wide movement and kind of an unofficial—sort of, spokesperson. He was often the one to kind of articulate the position.</u>
+      <u who="EVERHARD">Mm-hm. </u>
+      <u who="BRELSFORD">And so—I forget what we’re talking about. Just that——the nonnegotiable demands.</u>
+      <u who="EVERHARD">Yeah, just—the demands, yeah.</u>
+      <u who="BRELSFORD">Yeah. So I can’t—yeah, I don’t—well, I don’t have a very specific—but that idea that making the demands—I don’t know if there was any implied threat: If you don’t meet our demands, what would happen. But at some point, you know, the idea of, “All right, we’ll vote,” you know, arose. And so there was this period of preparing for that and, you know, people advocating for their various positions.And then—so you said the nonnegoti- —or the demands was <date when="1969-04-13">April 13th</date>.</u>
+      <u who="EVERHARD">Yeah.</u>
+      <u who="BRELSFORD">And so then <name type="event" ref="#dvp_078_event_14">Parkhurst Hall</name> was <date when="1969-05-06">May 6th</date>, right? Or <date when="1969-05-08">May 8th</date>. I can’t remember. [Transcriber's note: The building was seized on Tuesday, May 6, 1969. The students were ejected on Wednesday, May 7th at three a.m. Sources: &lt;a href="https://newspaperarchive.com/bennington-banner-may-08-1969-%20%09p-5/"&gt;https://newspaperarchive.com/bennington-banner-may-08-1969- 	p-5/&lt;/a&gt; and &lt;a href="https://ead.dartmouth.edu/html/ms1127_fullguide.html"&gt;https://ead.dartmouth.edu/html/ms1127_fullguide.html&lt;/a&gt;</u>
+      <u who="EVERHARD">Yeah, <date when="1969-05-07">May 7th</date> [sic; May 6th and 7th ].</u>
+      <u who="BRELSFORD"><date when="1969-05-07">May 7th</date> [sic; May 6th and 7th ]. Okay, so we got arrested on <date when="1969-05-08">May 8th</date> [sic; May 6th and 7th ], because we were in there overnight. And—so, yeah, so less than a month of that going on.</u>
+      <u who="EVERHARD">Yeah. And what was, like, the climate with the faculty and the administration?</u>
+      <u who="BRELSFORD">Well, there were—you know, I think there were—you know, this kind of same range of opinions. There were certainly a group of faculty—the two names I remember—I think it’s <persName ref="#dvp_078_person_21">[James C.] “Jim” Knowles</persName> was an economics professor, and his wife, <persName ref="#dvp_078_person_22">[Mary] Tyler Knowles</persName> was a professor of something. <persName ref="#dvp_078_person_23">[Jonathan] “Jon” Minsky [sic; Mirsky]</persName> was I think a professor of Chinese or something, but he was—those. I can’t remember any other professors, but, you know, there were I think a bunch of professors that were aligned with—with the antiwar movement and a bunch of professors who were quite conservative in their approach. And so—yeah, there—you know, there was certainly a lot of support, you know, among professors for the antiwar movement, as well as a lot of opposition to it.</u>
+      <u who="EVERHARD">Yeah. And with regards to the administration, did the <orgName ref="#dvp_078_org_72">SDS</orgName> feel like the administration was generally against them?</u>
+      <u who="BRELSFORD">Well, that year, yeah. It was—what was his name, the one before <persName ref="#dvp_078_person_24">Kemeny</persName>? <persName ref="#dvp_078_person_25">Dickey</persName>. <persName ref="#dvp_078_person_26">John [S.] Dickey [Class of 1929]</persName>.</u>
+      <u who="EVERHARD"><persName ref="#dvp_078_person_27">Dickey</persName>, yeah.</u>
+      <u who="BRELSFORD">Yeah, he was—he was kind of the butt of a lot of jokes and, you know, was just kind of this stiff guy, not particularly friendly—you know, unrelated to all this. You know, he just seemed kind of not particularly in touch with eighteen-year-olds, so—and then I guess he—I don’t know if he retired. I don’t know what happened to him at the end of that year. And then <persName ref="#dvp_078_person_28">John Kemeny</persName>, who was—you know, was president the next year, and he was very anti war himself. That kind of changed the mood toward the administration, just with his—his taking the helm there.</u>
+      <u who="EVERHARD">Yeah. And do you remember when <orgName ref="#dvp_078_org_73">Students Behind Dartmouth [SBD]</orgName> formed as sort of the opposition to <orgName ref="#dvp_078_org_74">SDS</orgName> on campus?</u>
+      <u who="BRELSFORD">No, I didn’t, actually. Now that you say that, I kind of—I got some vague memory of some group forming, you know, to kind of represent—</u>
+      <u who="EVERHARD">Yeah, like, <orgName ref="#dvp_078_org_75">SBD</orgName>.</u>
+      <u who="BRELSFORD">Yeah. Yeah, that—yeah. I would not have remembered that had you not mentioned it. Yeah, this guy—I can’t remember. The guy who was the president of the <orgName ref="#dvp_078_org_76">Conservative Society</orgName> I think was active in that, because—so he was living in the same dorm I was, so I kind of was aware of him and, you know, was, you know, in—in meetings where he would kind of present that—that position.</u>
+      <u who="EVERHARD">Yeah. And so there was—before <date when="1969-05-07">May 7th</date> [sic; May 6th and 7th], there was a sit-in on <date when="1969-04-22">April 22nd</date>. I was just wondering if you were a part of that <placeName ref="#dvp_078_place_43">Parkhurst</placeName> sit-in.</u>
+      <u who="BRELSFORD">I imagine I was, but I got no memory of it.</u>
+      <u who="EVERHARD">[Chuckles.] That’s okay. That’s okay.</u>
+      <u who="BRELSFORD">Yeah, yeah.</u>
+      <u who="EVERHARD">So then, let’s sort of move forward to—you were talking earlier about how after the vote, you guys were really upset with the way the administration interpreted it.</u>
+      <u who="BRELSFORD">Yeah.</u>
+      <u who="EVERHARD">And so can you sort of talk me through about how that ended up turning into the takeover?</u>
+      <u who="BRELSFORD">Yeah. There was. And, boy, I don’t remember specifics, but I remember being in meetings where, you know—you know, the discussion was, “This is outrageous. We’ve been screwed.” You know, “We want”—and, again, that’s what I say—there was this sense of inevitability that, well, of course we have to take over the administration building. And thinking about it now, why that was inevitable, I’m not sure. You know, maybe it was a good idea, maybe it wasn’t, but there was—it’s kind of odd to me what a sense of inevitability there was.</u>
+      <u who="EVERHARD">Yeah.</u>
+      <u who="BRELSFORD">But I think it just came out of desire to—you know, we wanted to confront the administration and, by proxy, you know, the government that was doing this—this horrific stuff in <placeName ref="#dvp_078_place_44">Vietnam</placeName>. And that seemed kind of in some sense, the way it was being done at that time, that—the idea that, you know, just protesting, just kind of offering your objection wasn’t sufficient action. Doing something disruptive was necessary to get—to get a reaction from people.So I don’t know—yeah, I was—yeah, I was in the meetings where the kind of logistics of that were planned, I think, although I don’t—I don’t have much of a memory of that, but I was certainly aware that it was going to happen before it—you know, a day or two before it happened.I remember I made a tape recording for my parents, kind of knowing that I was going to this thing the next day, and kind of sent them—and kind of offered my rationale and expected them to be sympathetic to it, because they were kind of antiwar people, themselves. And it’s interesting: My mom was pretty sympathetic to it. My father was pretty distressed by it, kind of from the attitude of that it was disrespectful and that we were kind of damaging property of other people and things like that. Maybe we’ll get to that a little more down the line.</u>
+      <u who="EVERHARD">Mm-hm. Yeah. So—and then also just before the <name type="event" ref="#dvp_078_event_15">takeover</name>, the faculty had—and the administration had, like, released a memo that was warning about, like, using force as a violation of, like, the policy statement in protests, and for the <name type="event" ref="#dvp_078_event_16">Parkhurst takeover</name>, was <orgName ref="#dvp_078_org_77">SDS</orgName> planning on using force?</u>
+      <u who="BRELSFORD">Well, force in the sense that we took over the building, not—not violence.</u>
+      <u who="EVERHARD">Yeah, yeah. [Chuckles.] Yeah.</u>
+      <u who="BRELSFORD">Yeah. There was—I mean, we—we clearly wanted to be forceful and, you know, create a confrontation, but not—there was—there was no violence. There was no—I don’t remember whether we needed to discuss that or whether it was just assumed that nobody was looking to do something violent. I don’t remember that being a topic of discussion, but maybe there were—there were some kind of hot-headed people. You know, it would have been more of “What do we do if we’re attacked? Do we fight back or”—you know, it’s this kind of more passive resistance. But, yeah, certainly you’re going into <placeName ref="#dvp_078_place_45">Parkhurst Hall</placeName> and making it uncomfortable for the people working there to stay there, was part of the deal.</u>
+      <u who="EVERHARD">Yeah. And when the administration released that memo, did the <orgName ref="#dvp_078_org_78">SDS</orgName> feel threatened or intimidated at all?</u>
+      <u who="BRELSFORD">Well, I think, you know, we understood it was meant as a threat. I don’t know that anybody was all that—you know, I don’t recall that giving anybody pause. You know, I imagine different people with kind of different levels—you know, that—maybe that discouraged some people from joining in, but the group I was part of, that wasn’t—that was almost what was expected. I mean, you know, I think we were looking for a confrontation, so, “Great, you guys are going to react? Beautiful.”  We wanted to get the issue out—out and being dealt with.</u>
+      <u who="EVERHARD">Mm-hm. And so—now I want to take you to the day of the takeover.</u>
+      <u who="BRELSFORD">Uh-huh. </u>
+      <u who="EVERHARD">And I’m just wondering if you could walk me through your experience in as much detail as possible. </u>
+      <u who="BRELSFORD">I wish I had more detail.</u>
+      <u who="EVERHARD">That’s okay.</u>
+      <u who="BRELSFORD">I don’t remember what time of day it started. Do you remem- —do you know what time of day it was? Maybe that would help.</u>
+      <u who="EVERHARD">I think people gathered around noon outside of the building.</u>
+      <u who="BRELSFORD">Yeah.</u>
+      <u who="EVERHARD">But I feel like I read something about four-thirty p.m. I don’t have it in my notes exactly, but maybe then.</u>
+      <u who="BRELSFORD">Well, it was—I think it was probably noon, because I remember going in. People were work- —you know, it’s the administration building. People were working, so we kind of—a whole bunch of people went in, far more than stayed, and kind of just flooded the building and went into each office and, you know, didn’t do anything but just kind of—I don’t know how—but kind of were just going to be there, and I don’t know if we were thinking people were going to be shredding documents and we were going to stop that. You know, I don’t—I remember one story—I didn’t witness this—but somebody who worked in the building kind of realized that we were coming in. Just locked the door to his office from the inside and just continued to work till quitting time, and at five o’clock, you know, put—you know, opened up his door, walked out through the crowd and left. And that was—so he was not going to be intimidated by all this.But I think most everybody else left—you know, the people working there. And the place was full of protesters. And—and there was a big crowd outside, both sympathizers and <orgName ref="#dvp_078_org_79">Students Behind Dartmouth</orgName>. And, you know, it was just kind of a circus atmosphere, and, you know, there were people, I think, sitting in the windowsills on the second floor thing, and, you know—you know, it was just, you know, a lot of energy. People were pumped up, and nobody really knew what to do next or what—you know, we were just taking over the administration building.And so we stayed there kind of inside the building. You know, there were kind of discussions going on about, you know, what did we anticipate happening next. You know, would the police show up. You know, all this. And to some extent, trying to—to prepare ourselves for whatever was coming next.And then I think, if I remember it, I think they just decided to try and wait us out and just didn’t do anything. So it got kind of boring, you know. [Chuckles.] You know, the big confrontation didn’t happen, and we were there.I don’t remember how food was handed. I don’t—I don’t remember being particularly hungry, so they must have—must have brought food in at some point. But people, you know, were, you know, talking about it, talking—we were probably chanting, “<orgName ref="#dvp_078_org_80">U.S.</orgName> out of <placeName ref="#dvp_078_place_46">Vietnam</placeName>” or “<orgName ref="#dvp_078_org_81">ROTC</orgName> out of <placeName ref="#dvp_078_place_47">Dartmouth</placeName>.” And that went on.And then—I don’t know. I—I assume they—you know, they kind of came in and told us we had to leave, or, you know, there was stuff like that. But then I think in this period of being quiet, but, I don’t know, like, at two o’clock in the morning, it’s like the—I guess the state police or probably local police, too, showed up. And we kind of realized they—the plan was to try and do this in the dead of night, you know, so that—to kind of reduce publicity or people’s awareness of it.But somebody—I don’t know how this happened—somebody went and rang the bell in the tower and kind of woke everybody up, and, you know, the whole campus appeared. You know, the word spread quickly. I was inside, so I don’t know how that happened outside. But there was this huge crowd outside.And then—so we—I don’t know if they’ve changed <placeName ref="#dvp_078_place_48">Parkhurst Hall</placeName>, but the way I remember it, <placeName ref="#dvp_078_place_49">Parkhurst Hall</placeName>—you come up the front steps, and then there’s kind of a lobby inside and another set of steps, so there’s a fair area kind of at—at the bottom—you know, just inside the front door, before the steps.And so there was a lot—you know, that’s kind of where everybody gathered. And there was a lot of talk about who was willing to stay and face this confrontation. It was still possible to kind of slip out the back door. I think they were hoping that people would slip out—you know, kind of just dissipate. So we were kind of gathered there. And that—that kind of lobby area was full. And we were just kind of waiting. And I don’t remember what the contact with the police was like, but I think we were given several warnings to disperse and didn’t do that.And [chuckles]—and we had the—the front door barricaded somehow. I think—and somebody had nailed boards across it. That was one of the things my dad was upset about, that we had damaged these big doors.But what I remember is at some point, it was clear they were coming in. They kind of like—I guess they started pounding on the door or something, breaking down the—our barricade. So the feel was nobody should go—be in an isolated area. You wanted to be as together as you could so that they couldn’t beat you up in private. So at some point, somebody said, “Everybody—everybody line up.”And so remember–you know, so there—the thing that crossed my mind is, All right, well, I really don’t want to be front—first in line, and I don’t want to be the last in line because, you know, I don’t want to be a chicken shit but—so I kind of stood in the middle of that space between the front door and the stairway. And then, damn it, everybody lines up behind me, or beside—so I ended up in the middle, in the front row.</u>
+      <u who="EVERHARD">Wow.</u>
+      <u who="BRELSFORD">Not by any choice of mine. But there I was.</u>
+      <u who="EVERHARD">[Chuckles.] Yeah.</u>
+      <u who="BRELSFORD">So when they finally broke through, they started taking us out. And I was, like, the first one they grabbed. So I didn’t know how to act, right?</u>
+      <u who="EVERHARD">Yeah.</u>
+      <u who="BRELSFORD">I had no model for [chuckles] how—how do you—how do you deal with the police in this situation. So I just walked out. The guy took me by the arm, and I just walked out. We were chanting at that time, “<orgName ref="#dvp_078_org_82">U.S.</orgName> out of <placeName ref="#dvp_078_place_50">Vietnam</placeName>, <orgName ref="#dvp_078_org_83">ROTC</orgName> out of <placeName ref="#dvp_078_place_51">Dartmouth</placeName>.” So I was saying that as loud as I could. But I remember being really kind of: Should I be fighting? Should I be struggling? I don't know. I don’t want to get beat up, but—but it was just a kind of odd part of that.And then other people did—did resist and got, you know, drug out of there and bounced down the concrete steps.</u>
+      <u who="EVERHARD">Wow.</u>
+      <u who="BRELSFORD">I remember there were—there were two women who were part of the people who stayed, and one of them was pregnant, and the police had been told that and were—were trying to be very careful, you know, not to hurt a pregnant woman. But they went up and said something to the woman who wasn’t pregnant and then says, “Are you pregnant?” And she apparently blushed, which they took that to mean she was the pregnant woman, so they let her alone and grabbed the other woman, and she fought, and they bounced her down the steps. To my knowledge, she wasn’t seriously hurt. Her baby wasn’t hurt. But that’s just a piece of that I remember.And then—so they took us—as they took us out of—they loaded us on the buses of some kind and took us to lockup. I don’t even know where that was. And, you know, spirits were still pretty high. You know, people were chanting in the bus, and, you know, the police were—were, you know, very stern and trying to get people to shut up. But there wasn’t—there wasn’t any high level of brutality and that. You know, people who struggled, you know, were forced down the steps, and there was—people got some bruises with that. I’m not aware that anybody got seriously hurt in that whole process.So we go—I guess we’re taken to some gymnasium somewhere, some kind of big, open space. And I remember they had brought along some—some minister, who was this kind of evil-looking guy, just kind of tall and gaunt and had a sneer on his face. I remember he was driving a Cadillac, which we made a lot of fun of. And he was—you know, our understanding was he was there to protect the police against any allegations of mistreatment.So I think we sat there overnight. I probably got fingerprinted and stuff. And—you know, I don’t remember whether we got to sleep. I think—yeah, I don’t know if it was the next morning or the day after. Oh, I think it was. You said it was the <date when="1969-05-07">May 7th</date> [sic] we took it over, because <date when="1969-05-08">May 8th</date> [sic] I think was the day that we appeared in court. And, yeah, I kind of remember sitting kind of toward the back of the courtroom, you know, and the proceedings were going on. The thing I remember that I thought odd was I think the DA [district attorney] or you know, whoever was representing the state recommended that we be sentenced to fifteen days at the county jail, and when the judge came back with the decision, it was thirty days in the county jail.</u>
+      <u who="EVERHARD">Yeah.</u>
+      <u who="BRELSFORD">And I—I think that seemed odd, that the judge would—would impose a sentence harsher than the DA had requested. And kind of the rumor among us was that the judge had met with the <orgName ref="#dvp_078_org_84">Dartmouth</orgName> administration and that the thirty days was to get us to the end of the seme- —the term so that we couldn’t resume our activities, that the campus would have been emptied by the time we got out of jail, so—I don’t know if that’s true or not, but it seemed—it seemed to fit the facts.</u>
+      <u who="EVERHARD">Mm-hm. And what did that feel like when you—when you found out about the thirty days?</u>
+      <u who="BRELSFORD">Well, I think we were expecting it. You know, I don’t—yeah, I don’t—I don’t remember reacting to it. Yeah, I think we realized that, you know, there was going to be some severe consequence and that jail was part of it. But people I think were just kind of pumped at the time and, you know, felt like we were doing—doing a good thing, and—yeah, I don’t remember it being awful. And we were—we were with each other, so there was just a lot of mutual support. And, you know, kind of angry and, you know, they were hypocrites and it’s unjust and all this stuff. And then we got—from there, we got split up. There were—I think it was the Dartmouth 56? That’s what I remember. Fifty-six of us got sentenced and sent to different j- —different county jails throughout <placeName ref="#dvp_078_place_52">New Hampshire</placeName>. So I was in a group of six guys who went to the <placeName ref="#dvp_078_place_53">Boscawen County Jail [sic Merrimack County Jail in Boscawen, New Hampshire]</placeName>, which was just this small-town jail.And we—because they had a cellblock—I think there were, like, four cellblocks in the jail, each with six cells in them, so the <orgName ref="#dvp_078_org_85">Dartmouth</orgName> students were put in their own cellblock, so we weren’t with the general population, which was kind of reassuring. You know, we weren’t worried about somebody else—you know, get in trouble.There was a tier above us that at some point—it was empty, I think, when we moved in, and some—like, at two o’clock in the morning a bunch of drunk guys got arrested and were brought in there and were screaming and hooting and yelling. And I remember being—being unable to sleep that night. And then we could talk to them. We couldn’t see them, but we could talk to them and kind of—kind of, you know, just struck up kind of friendships with some of them.But for the most part, we were with each other. And, you know, it wasn’t great being in jail, but, you know, we had—you know, we were with friends. We had stuff to read. We created a—a volleyball game for ourselves. We took a sheet. There was kind of—you know, there were six cells all side by side, and then kind of this walkway in front of the six cells, which were open during the day, and then another sets of bars kind of on the outside of that walkway. So we were able to string a sheet between the wall with the cells on it and the other wall to make kind of a volleyball net. And we had a plastic bag that we stuffed with newspapers for a volleyball. And then we had [chuckles] this weird volleyball game that we played on a regular basis. And we played cards, and we talked.And—and—you know, it’s funny. The guards—well, there were different people, but there was one guard in particular who was just a nice guy and kind of—you know, I don’t know that he was anti war, but he got that we weren’t criminals by his definition of the word “criminal.” And it just—you know, he—so we—he really—we did not have a bad experience. You know, we weren’t—we weren’t intimidated or brutalized or anything like that. It was—it was—and that guy in particular, I remember, was a pretty nice guy. And, you know, some of the—you know, he was willing to talk to us about our views, and we were happy to talk. And he—I don’t know that he agreed with us, but he—he was respectful in—in the listening.So—and the food was kind of crappy, but not terrible. We only got outside I think for two hours that whole time.</u>
+      <u who="EVERHARD">Wow.</u>
+      <u who="BRELSFORD">They had, you know, a fenced-in courtyard, and it turns out—I guess—maybe this—this guard that we talked to was following us. There was, apparently, all this paranoia that other radicals were going to kind of come to the jail and try and break us out. So they had—the jailers had all these contingency plans about, you know, what to do and how to protect against that. So I think—maybe I'm making this up, but I think that’s part of the reason we didn’t get to go out into the courtyard at all, because they—But at some point toward the end, we got to go out. So this is—like we were [twenty- unintelligible; 1:14:23], so this was probably ear- —<date when="1969-06-01">June 1st</date> or something. So, you know, it was beautiful out, and it was the first time we were out in the air for twenty-some days.</u>
+      <u who="EVERHARD">Wow. Wow.</u>
+      <u who="BRELSFORD">So I remember really liking that. And—and then—so let’s see, while we were in jail—at the beginning there was all this—we had lawyers. I don’t know, somebody hired to represent—I don’t know how we raised funds for our lawyers. I think, you know, maybe professors and family members contributed money, but we got money. But there was, you know, all this kind of legal talk about, you know, “This is an outrageous decision. They didn’t really have the right to do this, and we should appeal this to the <orgName ref="#dvp_078_org_86">Supreme Court</orgName>.”And some people were really excited about that. The kind of faction of <orgName ref="#dvp_078_org_87">SDS</orgName> that I was part of, you know, just saw the legal system as colluding with—you know, with the ruling class, so we were all against doing that. Said, “No, let them—let them do this to us, and then our argument is, ‘See, you’d rather do this to your own students than—than do what you should do about getting <orgName ref="#dvp_078_org_88">ROTC</orgName> out of <placeName ref="#dvp_078_place_54">Dartmouth</placeName>.’” And, you know, just kind of making ourselves kind of martyr-like somehow.</u>
+      <u who="EVERHARD">Mm-hm. </u>
+      <u who="BRELSFORD">So—and at some point, the whole <orgName ref="#dvp_078_org_89">Supreme Court</orgName> idea just fizzled. I think it would have been really expensive, and I don’t know that anybody thought our odds of prevailing were that good, and time was tick- —you know, every day you waited, it was—we were one day closer to being out anyway.And so at some point, it was announced—you know, we were sentenced to thirty days, but at some point we learned we were getting three days off for good behavior, so we were going to be released, I think—I don’t know when we learned that, but, you know, our release was imminent at that point, so then, you know, then that was pretty exciting. We were ready to go.I kind of remember—the buses came and picked us up again, because we ended up back on the bus with people who’d been in the other jails, so we were kind of comparing notes and talking about it. I remember driving down, and a bunch of high school kids kind of were—you know, it must have been that school was letting out, but, you know, people on the bus were showing people the peace sign and the fist, and the kids were giving it back, and everybody was all excited that even the high school kids are supporting us and so on. So that was—that was pretty good.And then—yeah, by the time we got back to campus, you know, the term was over, and wasn’t much going on. Kind of my most vivid memory of the whole thing was—what’s—I guess it’s Frat Row. What—<orgName ref="#dvp_078_org_90">Thayer School [of Engineering]</orgName> is at the end of some long green, right?</u>
+      <u who="EVERHARD"><placeName ref="#dvp_078_place_55">Tuck Drive [in Hanover, New Hampshire]</placeName>, <placeName ref="#dvp_078_place_56">Tuck Drive</placeName>.</u>
+      <u who="BRELSFORD"><placeName ref="#dvp_078_place_57">Tuck Drive</placeName>.</u>
+      <u who="EVERHARD">Maybe? Yeah.</u>
+      <u who="BRELSFORD">So when I had gone—when we went into jail, the leaves weren’t yet on the trees, or it’s still—you know, it was <date when="1969-05">May</date>, but I guess—I don’t know. But anyway, I got out after having, you know, been outside for two hours and just ended up walking down <placeName ref="#dvp_078_place_58">Tuck Drive</placeName>, and there was just foliage everywhere, and I had never in my life been more aware of how beautiful that was than it was that—that day. It was just—you know, it was just a beautiful spring day, and everything was full of leaves. Yeah. And that—of all the memories I got at that time, that’s—that’s the most vivid one.And then—you know, it was kind of—I went home for the summer. Then there was this whole judicial process that was going to happen in the fall. Well, let’s see, the other part I didn’t tell you about—maybe—when I got arrested, my parents came up to see, and, as I said, my mom was kind of basically supportive or sympathetic, and my dad was pretty upset with me and was, you know, talking about all this stuff.So I guess this happened through an exchange of letters. They were going to come and meet with the members of the administration, to kind to learn about what had happened. So I said, “Well, okay, but for every one of them you meet with, would you also please meet with one of these other people?” And gave them a list of faculty who were sympathetic to what we were doing.And they agreed to do that and were immediately, I think, persuaded—because they—they were kind of left-leaning anyway. But I remember thinking that was a—a good idea on my part. Instead of arguing with my parents, I would just ask them to—to talk to other people that they would respect. So that—that part went well.And it was—I guess—jeez, I’m trying to remember if my parents got to see me while I was in jail, and I don’t—I do not—I don’t remember. I think they did, but I don’t have a specific memory of that. Wow.</u>
+      <u who="EVERHARD">When you guys were in jail—when you were in jail, were you—did you feel like you were getting information about what was going on outside?</u>
+      <u who="BRELSFORD">Yeah, we were able to get letters, and we had a radio, so we could hear stuff going on, although, you know, there wasn’t that much on the radio. There was no <orgName ref="#dvp_078_org_91">NPR [National Public Radio]</orgName> back then, so we didn’t get that. But, yeah, we were kind of generally aware. And people—people—yeah, people got letters. I guess that’s would have been how we would have got our information. We didn’t—so I’m trying to think. I don’t remember any visitors, but I—I think maybe I did. I think my parents got to be—I don’t know if we didn’t get to touch each other or—but I think we were in the same room together.</u>
+      <u who="EVERHARD">Did you guys feel supported while you were in jail?</u>
+      <u who="BRELSFORD">Yeah. I think. I mean, I don’t know what we were looking for as support. But, yeah, I think we had a sense that there were a lot of people behind us. Yeah, our morale was really pretty good in jail. Yeah, yeah, I don’t think any of us felt isolated or abandoned at any point.</u>
+      <u who="EVERHARD">Yeah. Yeah. And do you remember the names of the men that were in your cellblock with you?</u>
+      <u who="BRELSFORD">All right, let’s see. <persName ref="#dvp_078_person_29">Paul [W.] Beach [Jr., Class of 1967]</persName> was one. He was a guy—I—I think he was a former <orgName ref="#dvp_078_org_92">Dartmouth</orgName> student. I don’t know. But he was—he had been working as a cab driver in <placeName ref="#dvp_078_place_59">Philadelphia [Pennsylvania]</placeName> and just—I don’t know if he happened to be on campus or if he came up for that event. <persName ref="#dvp_078_person_30">Howie—Howie Becker</persName>? Damn! Yeah, I don’t remember—I don’t remember the names of the other guys.</u>
+      <u who="EVERHARD">Yeah, that’s totally okay.</u>
+      <u who="BRELSFORD">Yeah. Do you have the names of the—the Dartmouth 56?</u>
+      <u who="EVERHARD">Not with me but right now, but I can find them in <orgName ref="#dvp_078_org_93">The D [The Dartmouth]</orgName> and send them to you.</u>
+      <u who="BRELSFORD">Yeah, yeah. If you would, yeah, I would love to see that list. </u>
+      <u who="EVERHARD">Yeah.</u>
+      <u who="BRELSFORD">It’s amazing how much I don’t remember.</u>
+      <u who="EVERHARD">Yeah.</u>
+      <u who="BRELSFORD">So, yeah, <persName ref="#dvp_078_person_31">Paul</persName> and <persName ref="#dvp_078_person_32">Howie</persName>. Yeah, I don’t remember the others.</u>
+      <u who="EVERHARD">Yeah, that’s totally okay.</u>
+      <u who="BRELSFORD">Yeah.</u>
+      <u who="EVERHARD">And so we were talking a little bit about what happened when you were released from jail and how this mess was over, so can you just continue on with that there, and if—</u>
+      <u who="BRELSFORD">Yeah, yeah. So then I went home—I was—I was playing American League baseball, so I was really eager—<orgName ref="#dvp_078_org_94">American Legion Baseball</orgName>, so I was really eager to get home because our season had already started. And I actually tried to stay in shape in jail, which was really tough because this catwalk was about—I don’t know—thirty feet long. But I was doing pushups and arm exercises and everything I could do to try and stay in shape.But I was—at that point, once we got out of jail, I just wanted to be home so I could play baseball. And, you know, I’d been in jail, so I hadn’t completed my coursework. I remember that being a point of tension. You know, my dad wanted me to stay up there till I got my work done, and I wasn’t ha- —you know, when I thought that he might force me to do that, I was—I was distraught.It didn’t happen. I got home, got to play ball. And then there was this <orgName ref="#dvp_078_org_95">Dartmouth</orgName>-related—this judicial process that was going to take place. And the way they set it up is to participate in the judicial process, I would have had to come back to campus a week early, and, you know, kind of my view at that point was there was no chance of any kind of justice or a fair hearing in that, so it would have been just this exercise in—it would have cost me a week of summer employment, so I decided not to do it.So I remember my mom, who was an English teacher, kind of helped me sit down and compose a letter to the committee, in which I tried to articulate my objective [sic; objection?] to their—to their very existence and my sense that there was nothing in it for me to—to participate in their process. Send that off.And the decision that came back was—I think I was on—probably on probation or something, academic probation, but was forbidden to participation in extracurricular activities for the next year, which at that point, I wasn’t going to do any further extracurricular activities anyway, so that was kind of a non- —non-issue for me.And then—so that—so I was on campus, but—you know, the fall term, I was getting ready to go to <placeName ref="#dvp_078_place_60">France</placeName> for the term abroad for the winter term. Was still involved in—with <orgName ref="#dvp_078_org_96">SDS</orgName>, but I don’t remember anything in particular that was going on. There was no—to my knowledge, no big event. [Chuckles.] I don’t even remember what the resolution was of the <orgName ref="#dvp_078_org_97">ROTC</orgName> thing at this point. It was, at some point, off campus, right?</u>
+      <u who="EVERHARD">Let me look through my notes. But I think that they ended up—they ended up, like, phasing it out, pretty much.</u>
+      <u who="BRELSFORD">Yeah, yeah. So, yeah, I imagine I continued to go to meetings. I remember my sophomore year, <name type="event" ref="#dvp_078_event_17">the lettuce boycott [part of the United Farm Workers’ Salad Bowl strike]</name> was going on with <persName ref="#dvp_078_person_33">Cesar Chavez</persName>, and I was kind of part of some group that was thinking about doing a—some kind of civil disobedience down at the grocery store in <placeName ref="#dvp_078_place_61">Hanover</placeName>. But nothing—that got cancelled somehow, so nothing ever came of that.</u>
+      <u who="EVERHARD">And did the other students who were arrested at the <name type="event" ref="#dvp_078_event_18">Parkhurst takeover</name>—did they have the same punishment as you, or did everybody get different punishment?</u>
+      <u who="BRELSFORD">Some were more severe. There were—I think more people identified as leaders, and this guy that I was talking about, <persName ref="#dvp_078_person_34">David White</persName>, I think was one of them. And I kind of remember because he was a lacrosse player, and I remember thinking that—you know, this thing about no extracurric- —you know, he was—couldn’t participate in sports, and that—for him, that was something that mattered because he was—he was pretty—I can’t remember who the other—maybe <persName ref="#dvp_078_person_35">Guy Brandenburg</persName> was one of them. I don’t remember who the fourth—I don’t remember for sure it was four, but it’s kind of what I got—four people got singled out for more severe punishment than the rest of us.</u>
+      <u who="EVERHARD">And what was it like returning after, you know, that entire experience and then coming back to campus in the fall?</u>
+      <u who="BRELSFORD">Yeah, I don’t remember it being particularly difficult. I was—I was living—I lived in—I guess it was <placeName ref="#dvp_078_place_62">Cohen Hall</placeName>, right behind <placeName ref="#dvp_078_place_63">Cutter Hall</placeName>. You had to live there if you were going abroad, so everybody getting to go lived there. So it was kind of at the same end of town. Had my same—same friends. And, yeah, it was just—I don’t remember it being a big deal.  Just kind of—the kind of administration building takeover fever had kind of, I think, had ended over the summer. I don’t remember there being a lot—a lot more the next year.And then in the spring was the Cambodian—they [unintelligible; 1:27:58] the whole country. There was much more unity in the antiwar thing. So at, you know, <orgName ref="#dvp_078_org_98">Dartmouth</orgName> with <persName ref="#dvp_078_person_36">President Kemeny</persName>, there was—you know, there was kind of support for the position that had been so—so vilified, you know, the year before, so—</u>
+      <u who="EVERHARD">Yeah, talking about the <name type="event" ref="#dvp_078_event_19">Cambodian Invasion</name>, yeah, <persName ref="#dvp_078_person_37">Kemeny</persName>, like, cancelled classes and was—wanted discussion to be facilitated.</u>
+      <u who="BRELSFORD">Yeah.</u>
+      <u who="EVERHARD">Do you remember your feelings towards the <name type="event" ref="#dvp_078_event_20">Cambodian Invasion</name>?</u>
+      <u who="BRELSFORD">Well, just that it was more—you know, it was more of the thing that we were objecting to, and everybody saw it as, you know, a further escalation. It was outrageous, kind of another illegal activity and something—something to be opposed.</u>
+      <u who="EVERHARD">Yeah. And do you remember when [the] <name type="event" ref="#dvp_078_event_21">Kent State [University shootings]</name> occurred?</u>
+      <u who="BRELSFORD">I do. Do you have the date of that?</u>
+      <u who="EVERHARD">Yeah, one moment. <date when="1970-05-04">May 4th, 1970</date>.</u>
+      <u who="BRELSFORD">Okay, so, yeah, so it was exactly a year after—after <name type="event" ref="#dvp_078_event_22">Parkhurst Hall</name>. Yeah, I remember being on campus, and I guess maybe I saw it in the paper, that photo of the girl standing over the—the body of somebody who had been shot. And, yeah, that—that was really impactful because—it’s funny. I learned a lot from that, because usually when tragedy occurs, I go through this thing where I think about how I’m different than the people who got hurt, kind of to convince myself that won’t happen to me. And with that, I could not do that. White kids protesting the war in <placeName ref="#dvp_078_place_64">Vietnam</placeName>, on a college campus, and, you know, so that really—that hit home—you know, that I realized I couldn’t—there was no way to separate myself from that. And that could have easily have happened to us as anybody else. So—yeah.And rights—yeah, I had forgotten—so that and the <name type="event" ref="#dvp_078_event_23">Cambodian Invasion</name> were about the same time. Yeah, that was a huge thing. I think, you know, that galvanized a lot of fervent support of what—what the college kids were doing. And—don’t know. Very few people thought that was a reasonable thing to have happened.</u>
+      <u who="EVERHARD">Yeah. Yeah. And so were you still very active in the <orgName ref="#dvp_078_org_99">SDS</orgName> at this point in time?</u>
+      <u who="BRELSFORD">I don’t remember what was specifically going on at that time. I had been, you know, in <placeName ref="#dvp_078_place_65">France</placeName> the semester before, the trimester before, so I came back—yeah, I mean, I don’t remember what was <orgName ref="#dvp_078_org_100">SDS</orgName>-specific. I mean, the  whole campus was kind of engaged in the antiwar stuff then. So, yeah, I don’t remember much—much in particular about what was going on other than the general atmosphere.</u>
+      <u who="EVERHARD">Yeah. Yeah. And so then, taking it to the end of—<date when="1970">1970</date> to the end of that school year, you mentioned that you ended up dropping out. Can you talk to me a little bit about that?</u>
+      <u who="BRELSFORD">Yeah. It was just so—[that’s something? 1:31:39] I can’t remember. I took three—three courses that semester. One of them was an independent study, and I just was lost, and I didn’t do—I didn’t do any work. I think I went to classes, but I— the independent study—I was supposed to be doing research and develop my own topic, and I did- —I didn’t do that. And I can’t remember at what point classes got cancelled, but I—I think I was at the point that it would have been unrecoverable had I—had classes not been cancelled.And there’s the sta- —I was—money was an issue for me. You know, my parents didn’t have a lot of money. If I was going to come back for my junior year, I didn’t know where the money was going to come from. I was thinking, I don’t know what I’m doin’ here anyway. Don’t know what I wanna study. You know, had to pick a major. Didn’t know what I wanted that to be. So I just made the decision that I need to take some time off. So at the end of that term, just went home, told my parents that and didn’t go back.</u>
+      <u who="EVERHARD">Mm-hm. And were you ever, like, worried about the draft once you ended up leaving school?</u>
+      <u who="BRELSFORD">Oh, very, very, very—well, that—so the first draft lottery—I guess it was my sophomore year, but, yeah, we all were in somebody’s dorm room. It was on the radio, and they were draw- —you know, it was like the power ball. You know—pshhh—[10 percent? 1:33:15]. They were drawing birthdays. I think they way they did it: They drew a birthday, and then they drew the rank order—you know, another number and paired them up. And so you’re sitting in the room, waiting for your birthday to come up—</u>
+      <u who="EVERHARD">Gosh.</u>
+      <u who="BRELSFORD">—and then finding out, you know, were you on the list. So the way it worked is, you know, you got assigned a number, and then local draft boards would say, “All right, we’re taking one through fifty now, and then if we need more, we’ll take fifty-one through a hundred.” So, you know, there were 365 numbers and so on. And, you know, so I was sitting in the room, and there were guys, you know, whose birthday came up and their number was seven. </u>
+      <u who="EVERHARD">Gosh.</u>
+      <u who="BRELSFORD">You know, so they were—they were distraught. </u>
+      <u who="EVERHARD">Yeah.</u>
+      <u who="BRELSFORD">And I don’t remember when it happened, but my birthday, which was ctober 27th came up, and I was number 237, which was a safe number at that point. It was—kind of each year was different, but I think that the previous year maybe had gone up to a hundred or something. So that actually really entered into my decision making. It was—you know, I had a deferment as long as I was in school, so I was taking something of a chance dropping out, but it didn’t feel like a big chance. It felt like it was really unlikely that I was going to get—get drafted, which I was very grateful.</u>
+      <u who="EVERHARD">Did you know anyone who got drafted?</u>
+      <u who="BRELSFORD">None of the <orgName ref="#dvp_078_org_101">Dartmouth</orgName> guys got drafted. I think—you know, these friends of mine I assume were drafted, the ones that got killed, and I’m trying to think who else I know that went to <placeName ref="#dvp_078_place_66">Vietnam</placeName> and came back. Yeah, I don’t—I don’t know a lot of people. Yeah, I don’t—</u>
+      <u who="EVERHARD">[unintelligible; 1:35:12]. What did it feel like to know that the draft kind of had the power to dictate who was and wasn’t going to have to go to war?</u>
+      <u who="BRELSFORD">Yeah. Well, the whole thing was—yeah, it was—it was heavy on everybody’s mind. I mean, they had—I guess the system prior to the draft lottery was kind of even more bizarre. You know, it’s like—for a while, like, you didn’t have to go if you had kids or—any kids. And so, you know, guys and their girlfriends would—you know, she’d get pregnant so they—you know, which—that was the thing. And then it was, like, one kid ain’t enough, but if you got two kids—so then they’d have a second. So stuff like that was going on, and that was, you know, I think—and everybody realized that was crazy. I don’t remember the arguments for the lottery, but that it was more fair, and I think, you know, to some extent that seemed true, and yet—yeah, that’s just the whole time that you might—might be conscripted and sent, you know, into harm’s way was heavy on everybody’s mind.</u>
+      <u who="EVERHARD">Yeah. And you mentioned that your father was a conscientious objector for <name type="event" ref="#dvp_078_event_24">World War II</name>.</u>
+      <u who="BRELSFORD">Yeah.</u>
+      <u who="EVERHARD">Was that—was that anything you would have considered if you had a less safe draft number?</u>
+      <u who="BRELSFORD">Yeah. I mean—you know, the thought had crossed my mind. You know, I don’t think I thought of myself as a pacifist, so the question was would I be willing to pretend or not. And, you know, I don’t know that I ever resolved that for myself and then I didn’t get drafted, so I didn’t have to resolve it.One of the guys—I think this guy <persName ref="#dvp_078_person_38">Paul Beach</persName> that I mentioned, that I was in jail with—he got drafted and just refused. He didn’t claim to be a conscientious objector; he just refused and got sent to jail.</u>
+      <u who="EVERHARD">Wow.</u>
+      <u who="BRELSFORD">This was after—after the <orgName ref="#dvp_078_org_102">Dartmouth</orgName> experience—you know, the <name type="event" ref="#dvp_078_event_25">Parkhurst Hall</name> experience. So there were people doing that. And I think, you know—so I knew about his situation, and I was asking myself would I do that. You know, people were also going to <placeName ref="#dvp_078_place_67">Canada</placeName>. So, yeah, I—I never felt settled about that. I didn’t know what I would have done and, in the end, didn’t have to—didn’t have to figure it out.</u>
+      <u who="EVERHARD">And so now I kind of want to take you to <date when="1973">1973</date>, when the <orgName ref="#dvp_078_org_103">U.S.</orgName> withdrew from <placeName ref="#dvp_078_place_68">Vietnam</placeName> in <date when="1973-01">January</date>. Do you remember what it was like when you heard the <orgName ref="#dvp_078_org_104">U.S.</orgName> was withdrawing?</u>
+      <u who="BRELSFORD">Well, I was pleased. You know—you know—and horrified at the same time. I mean, the scenes were on TV—you know, the chaos, the panic on the people that were being left behind. I mean, it was—you know, I was glad the <placeName ref="#dvp_078_place_69">U.S.</placeName> was getting out. I certainly didn’t feel wonderful about any part of it. I mean, it was just—you know, we shouldn’t have been there. We’re getting out. The whole thing—you know, kind of the sense of national humiliation. Didn’t take any pleasure in that. You know, I wished we’d never—never done it. But it’s the chao- —you know, just—at that point, you know, just the sense of “it’s so much—it’s just such a corrupt deal to begin with.” It was—it’s—you know, it’s good we’re done.But the war wasn’t over. You know, the Vietnamese were still fighting. We were still supporting, you know, some of it. That—that hadn’t stopped yet. So I think my feelings were in there somewhere.</u>
+      <u who="EVERHARD">Yeah. And after you left <orgName ref="#dvp_078_org_105">Dartmouth</orgName>, what did you end up doing?</u>
+      <u who="BRELSFORD">So that—that summer, I went back—I had a summer job with—the father of my baseball coach was—had a stucco crew, so I went and for the summer worked for him. And then that fall got a job as a construction worker, prefabricated steel building construction. And kind of, you know, having left <orgName ref="#dvp_078_org_106">Dartmouth</orgName> thinking that I was, you know, committed to left-wing—you know, the idea was that it was my job to organize the working class [unintelligible; 1:40:07]. And then, you know, I got on this construction crew with these guys who were, in one sense, really nice guys and really racist and really, you know, right-wing guys, and trying to figure out how I was going to organize them to become—you know, I just—you know, I couldn’t figure out how—how to get—you know, we had some talks, and they kind of got that my opinion wasn’t the same as theirs, but in terms of me being a labor organizer, I was an abject failure.So I worked construction for a couple of years till—what?—till 19- —so that was seventy- —till <date when="1972">’72</date>. I was, you know, living, you know, first with my parents, and then I got my own place. In <date>’72 or seventy-</date> —yeah, seventy- —summer of <date when="1972">’72</date>, I started dating a girl who was kind of in town for the summer but was going to <orgName ref="#dvp_078_org_107">BU [Boston University]</orgName>, so I moved up to <placeName ref="#dvp_078_place_70">Boston</placeName> to be near her that fall. That was her senior year. Worked at the <orgName ref="#dvp_078_org_108">Quincy shipyard [sic; Fore River Shipyard in Quincy, Massachusetts]</orgName> as a pipe coverer. And then got laid off there.And she graduated from college, and at that point, I was thinking about going back to college. So I was a <placeName ref="#dvp_078_place_71">Massachusetts</placeName> resident at the time, and so I had in-state tuition for <orgName ref="#dvp_078_org_109">UMass Amherst [University of Massachusetts Amherst]</orgName>, which was a hundred and fifty bucks a semester at that time, which was an incredibly good deal even then.So I moved out to the <placeName ref="#dvp_078_place_72">Northampton</placeName> area and started taking courses. Ended up majoring in psychology. Got—got a job working as a nurse’s aide at the local <orgName ref="#dvp_078_org_110">VA [U.S. Department of Veteran Affairs] hospital</orgName>, which was a psychiatric hospital, and have been here ever since.</u>
+      <u who="EVERHARD">What was it liking working at the <orgName ref="#dvp_078_org_111">VA</orgName>?</u>
+      <u who="BRELSFORD">Well, it was—it was interesting. I mean, I started there in <date when="1974">’74</date>, so—yeah, you know, it was an entry-level job. It was, you know, a lot of—I was, whatever, twenty-three, twenty-four years old—twenty-three years old when I started working there. And, you know, a lot of the guys working there had been around forever and had—had been there when it was—conditions were much, much worse than they were when I got there. It was before psychotropic medication, so they would tell stories about the patients were literally chained to benches,—</u>
+      <u who="EVERHARD">Oh, my gosh.</u>
+      <u who="BRELSFORD">—you know, for days on end because they were just, you know, out of control, and they didn’t have anyone—and, you know, by the time I got there, medications had been introduced, so that kind of stuff. But there were still people being restrained on a regular basis.</u>
+      <u who="EVERHARD">Wow.</u>
+      <u who="BRELSFORD">One of my jobs was—I was an aide on the crisis ward for a while, so patients who couldn’t be managed on other wards would be sent to the crisis ward, so, you know, restraining people was a regular part of our daily life. But it was, at the same time, the crisis—the staff on the crisis ward were kind of the most—I don’t know what—enlightened, but most—you know, really most caring group of staff kind of in any ward in the hospital, so they were really trying. They weren’t looking to restrain people. They weren’t looking to dominate people or—and so it was actually a pretty—pretty supportive place to work.And, you know, I ran into a guy on that ward who kind of was a mentor to me and kind of help- —helped turn my life around. Got me interested in running. I was—at that point in my life, I was a really pretty depressed young guy, and kind of by virtue of running into this guy, I started—started seeing some possibilities for myself again. Got kind of interested in life and have had a much—much better experience since then.</u>
+      <u who="EVERHARD">Wow.</u>
+      <u who="BRELSFORD">So it was a good—I spent four years as an aide there while I finished—you know, I had to support myself, so I worked there full time and went to school part time. Got my bachelor’s degree in <date when="1976">’76</date>, I think, and then have been kind of in various human service jobs ever since.</u>
+      <u who="EVERHARD">And so did you feel like working at the <orgName ref="#dvp_078_org_112">VA</orgName>—did you see any, like, PTSD [post-traumatic stress disorder], or did you hear about any of the veterans—like, trauma from the war?</u>
+      <u who="BRELSFORD">Nobody was using the term PS- —PSTD [sic] at the time that I was working there. That kind of concept came along or came into common usage later. I mean, there was—and I don’t know how we understood—I think there were—yeah, there was no doubt a lot of it there, and I think we didn’t know that that’s what it was. You know, people would act crazy. They would be volatile. They would kind of go—you know, go on rants or go on kind of these violent outbursts that—but, yeah, it was not talked about as PST- —PTSD.Yeah, I think people just weren’t aware of that. You know, I think back then it was still you—if you couldn’t handle it, you were a wimp. And nobody was talking about it. Nobody was eager to admit that that was what was going on with them. And—yeah.</u>
+      <u who="EVERHARD">Wow. So, yeah, they hadn’t really—yeah, post-traumatic stress disorder, PTSD, hadn’t really been identified yet.</u>
+      <u who="BRELSFORD">Yeah.</u>
+      <u who="EVERHARD">So did you f- —did you feel like veterans were getting, like, the psychological support that they needed, though, from the government, or what was it like being on that side of it?</u>
+      <u who="BRELSFORD">Well, they—I mean, I don’t—you know, I was in the hospital, so I don’t know about the guys who didn’t get to the hospital. You know, homelessness was not at that time as big an issue as it is now. I think they got kind of the same quality care that anybody else got, I think—you know, which was not good. There was, I think, a pretty poor understanding. It was just at the beginning of the deinstitutionalization movement for psychiatric hospitals. And, you know, for the most part, people who had serious psychiatric problems would find themselves in a hospital for years on end, with no real treatment; they’re just kind of warehoused, you know, depending on when, chained to a bench or given really heavy-duty medications that kind of sedated you.And it wasn’t necessarily for lack of caring. The people didn’t know—didn’t know any better. They didn’t—they thought they were doing a good job. But looking back on it, it was—it was not a good way to be dealing with people.</u>
+      <u who="EVERHARD">Yeah.</u>
+      <u who="BRELSFORD">So I don’t know that the vets had any worse deal, and they seemed like they had pretty ready access to this hospital. There were—you know, a lot of different—you know, people pretty much had to ask to get in, and they got in. And there were—there were vets who kind of made a career of just going from hospital to hospital to hospital. And some guys, you know, would—would have a service-connected pension, so they were getting a pretty good income, depending on whether—you know, if they had a substance abuse problem, they’d go out and kind of blow their pension and then sign themselves into the hospital for the—until their next check came in. Then they’d go out—yeah.So it was clearly, you know, not a helpful situation for that, but it wasn’t for lack of resources, particularly. It’s, like, people—yeah. And, you know, it was a government institution. There—you know, some of the doctors there were—were pretty wacky. You know, there was a lot of bureaucracy. But there were a lot of caring people there, too, that really were trying to the best of their ability to—to be helpful to people.</u>
+      <u who="EVERHARD">Yeah, definitely. And does anything else in particular sort of stick out to you about the post war—and just being in <placeName ref="#dvp_078_place_73">America</placeName> at that time?</u>
+      <u who="BRELSFORD">Yeah, I guess—you know, <persName ref="#dvp_078_person_39">Nixon</persName>’s resignation. I was at the <placeName ref="#dvp_078_place_74">VA</placeName>. I remember working kind of on a geriatric ward when—when, you know, he got on the helicopter and left town. That was a big positive moment.</u>
+      <u who="EVERHARD">Wow. Yeah.</u>
+      <u who="BRELSFORD">He had the whole <name type="event" ref="#dvp_078_event_26">Watergate</name> thing. That was, you know, fascinating during that whole time. Yeah, no, nothing else.</u>
+      <u who="EVERHARD">Mm-hm. And can you tell me a little bit about—you  mentioned that you have two kids. </u>
+      <u who="BRELSFORD">Mm-hm. </u>
+      <u who="EVERHARD">Can you tell me a little bit about your family and stuff like that?</u>
+      <u who="BRELSFORD">Sure. So my wife and I got married in <date when="1980">1980</date>. Our oldest child, <persName ref="#dvp_078_person_40">Laura [P. Brelsford]</persName> was born in <date when="1982">’82</date>, and so she’s thirty-four now. Lives in <placeName ref="#dvp_078_place_75">Cambridge [Massachusetts]</placeName>. Works for the—<orgName ref="#dvp_078_org_113">the T [Massachusetts Bay Transportation Authority]</orgName>—you know, the transportation system in the <placeName ref="#dvp_078_place_76">Boston</placeName> area, as a—she’s been assistant general manager for the accessibility division.And my son is thirty, born in <date when="1986">’86</date>. He and his wife live in <placeName ref="#dvp_078_place_77">Easthampton, Massachusetts</placeName>, which is the next time over from where my wife and I live in <placeName ref="#dvp_078_place_78">Holyoke [Massachusetts]</placeName>. Working for [unintelligible; 1:50:13]. So it’s nice. They just moved back here three months ago, so that’s been really exciting.</u>
+      <u who="EVERHARD">Cool!</u>
+      <u who="BRELSFORD">And he’s—works for—as a kind of educational video game designer. He works for a company called <orgName ref="#dvp_078_org_114">Cablevision [Systems Corporation]</orgName> in <placeName ref="#dvp_078_place_79">Boston</placeName>. Gets to work remotely. Yeah, it’s kind of his dream job, just the idea of being a game designer and doing something—</u>
+      <u who="EVERHARD">[Laughs.]</u>
+      <u who="BRELSFORD">—to actually educate and stuff. So he’s pretty—pretty pleased about that. He gets to work from home, too, so it’s all good.</u>
+      <u who="EVERHARD">That’s awesome.</u>
+      <u who="BRELSFORD">Now, they have decided to move—pardon?</u>
+      <u who="EVERHARD">Oh, no, you can keep going.</u>
+      <u who="BRELSFORD">No, I was going to—they have decided to move out here. They were just tired of living in the city. And he was prepared to quit—quit his job and just look for something else out here, and when he put in his resignation, they said, “Well, would you like to work remotely?” And he said, “Sure!”</u>
+      <u who="EVERHARD">[Chuckles.]</u>
+      <u who="BRELSFORD">So [unintelligible; 1:51:08]. He’s getting <placeName ref="#dvp_078_place_80">Boston</placeName>—<placeName ref="#dvp_078_place_81">Boston</placeName> wages and western <placeName ref="#dvp_078_place_82">Massachusetts</placeName> expenses, so that’s a pretty good deal.</u>
+      <u who="EVERHARD">That’s awesome.</u>
+      <u who="BRELSFORD">Yeah.</u>
+      <u who="EVERHARD">And what’s your wife’s name?</u>
+      <u who="BRELSFORD">Her name is <persName ref="#dvp_078_person_41">Jennifer [R. Brelsford]</persName>.</u>
+      <u who="EVERHARD">Cool! And how do you—like what do you like to do with your time now?</u>
+      <u who="BRELSFORD">Well, I’m still working. My wife retired. I’m working. I’m a psychotherapist, and I do some training in a counseling technique called motivational interviewing. And, you know, taking care of the house. We’ve got a garden. You know, travel a little bit. And pretty much it. Time—time seems pretty full at this point.</u>
+      <u who="EVERHARD">[Chuckles.] And, you know, just as we kind of, like, wrap up the interview, I was wondering if you have any last, you know, thoughts or impressions about the <name type="event" ref="#dvp_078_event_27">Vietnam War</name> that you want to share with me or anything that you feel like I didn’t cover.</u>
+      <u who="BRELSFORD">No, I think you covered it. Yeah, it is—one of the things I think about now is, you know, the <name type="event" ref="#dvp_078_event_28">Vietnam War</name> is now ancient history. You know, when I was a kid—you know, so I don’t know when I first started thinking about anything. Say, when I was ten. Would have been <date when="1960">1960</date>. Would have been fifteen years after the end of <name type="event" ref="#dvp_078_event_29">World War II</name>. And <name type="event" ref="#dvp_078_event_30">World War II</name>, from my perspective, was just ancient history. And to realize now that <name type="event" ref="#dvp_078_event_31">Vietnam</name> is far more ancient than that was is stunning to me, because it—you know, it just—it still seems so recent. You know, that was such a huge part of my life, and to realize, you know, that my parents lived through <name type="event" ref="#dvp_078_event_32">World War II</name> and—yeah, there’s just—the perspective on that kind of is mind boggling, to some extent, that things like that can happen, and then they’re done. You know, they’re just—they’re ancient history somehow, and yet for the people who lived through them, you know, they’re just memorable in a way.</u>
+      <u who="EVERHARD">Yeah, definitely.All right, well, thank you so much for sharing your experience with me and, you know, taking the time to talk with me. And this is going to be just an incredible addition to <orgName ref="#dvp_078_org_115">the Dartmouth Vietnam Project</orgName>. And, yeah, just thank you.</u>
+      <u who="BRELSFORD">All right. Well, my pleasure. It was good talking to you, <persName ref="#dvp_078_person_42">Emily</persName>.</u>
+      <u who="EVERHARD">Yeah, it was great talking to you. Have a wonderful day.[End of interview.]</u>
+    </body>
+  </text>
+  <standOff>
+    <listPlace>
+      <place xml:id="dvp_078_place_0">
+        <placeName>Rauner Special Collections Library</placeName>
+        <location>
+          <geo>43.70447 -72.28817</geo>
+        </location>
+        <idno type="WD">Q98544730</idno>
+      </place>
+      <place xml:id="dvp_078_place_1">
+        <placeName>Dartmouth College</placeName>
+        <location>
+          <geo>43.703333333333 -72.288333333333</geo>
+        </location>
+        <idno type="WD">Q49116</idno>
+      </place>
+      <place xml:id="dvp_078_place_2">
+        <placeName>Hanover</placeName>
+        <location>
+          <geo>43.7 -72.28333333333333</geo>
+        </location>
+        <idno type="WD">Q131908</idno>
+      </place>
+      <place xml:id="dvp_078_place_3">
+        <placeName>Perry</placeName>
+        <location>
+          <geo>41.8385964 -94.1071797</geo>
+        </location>
+        <idno type="WD">Q543883</idno>
+      </place>
+      <place xml:id="dvp_078_place_4">
+        <placeName>Iowa</placeName>
+        <location>
+          <geo>42 -93</geo>
+        </location>
+        <idno type="WD">Q1546</idno>
+      </place>
+      <place xml:id="dvp_078_place_5">
+        <placeName>Iowa</placeName>
+        <location>
+          <geo>42 -93</geo>
+        </location>
+        <idno type="WD">Q1546</idno>
+      </place>
+      <place xml:id="dvp_078_place_6">
+        <placeName>Pennsylvania</placeName>
+        <location>
+          <geo>41 -77.5</geo>
+        </location>
+        <idno type="WD">Q1400</idno>
+      </place>
+      <place xml:id="dvp_078_place_7">
+        <placeName>Pennsylvania</placeName>
+        <location>
+          <geo>41 -77.5</geo>
+        </location>
+        <idno type="WD">Q1400</idno>
+      </place>
+      <place xml:id="dvp_078_place_8">
+        <placeName>Lancaster County</placeName>
+        <location>
+          <geo>40.04 -76.25</geo>
+        </location>
+        <idno type="WD">Q142369</idno>
+      </place>
+      <place xml:id="dvp_078_place_9">
+        <placeName>Pennsylvania</placeName>
+        <location>
+          <geo>41 -77.5</geo>
+        </location>
+        <idno type="WD">Q1400</idno>
+      </place>
+      <place xml:id="dvp_078_place_10">
+        <placeName>Terre Hill</placeName>
+        <location>
+          <geo>40.1575 -76.0503</geo>
+        </location>
+        <idno type="WD">Q948528</idno>
+      </place>
+      <place xml:id="dvp_078_place_11">
+        <placeName>New Holland</placeName>
+        <location>
+          <geo>40.1022 -76.0878</geo>
+        </location>
+        <idno type="WD">Q1187057</idno>
+      </place>
+      <place xml:id="dvp_078_place_12">
+        <placeName>Terre Hill</placeName>
+        <location>
+          <geo>40.1575 -76.0503</geo>
+        </location>
+        <idno type="WD">Q948528</idno>
+      </place>
+      <place xml:id="dvp_078_place_13">
+        <placeName>Terre Hill</placeName>
+        <location>
+          <geo>40.1575 -76.0503</geo>
+        </location>
+        <idno type="WD">Q948528</idno>
+      </place>
+      <place xml:id="dvp_078_place_14">
+        <placeName>Iowa</placeName>
+        <location>
+          <geo>42 -93</geo>
+        </location>
+        <idno type="WD">Q1546</idno>
+      </place>
+      <place xml:id="dvp_078_place_15">
+        <placeName>Pennsylvania</placeName>
+        <location>
+          <geo>41 -77.5</geo>
+        </location>
+        <idno type="WD">Q1400</idno>
+      </place>
+      <place xml:id="dvp_078_place_16">
+        <placeName>Lancaster</placeName>
+        <location>
+          <geo>40.039722222222 -76.304444444444</geo>
+        </location>
+        <idno type="WD">Q320514</idno>
+      </place>
+      <place xml:id="dvp_078_place_17">
+        <placeName>Ethiopia</placeName>
+        <location>
+          <geo>9 40</geo>
+        </location>
+        <idno type="WD">Q115</idno>
+      </place>
+      <place xml:id="dvp_078_place_18">
+        <placeName>Ethiopia</placeName>
+        <location>
+          <geo>9 40</geo>
+        </location>
+        <idno type="WD">Q115</idno>
+      </place>
+      <place xml:id="dvp_078_place_19">
+        <placeName>Ethiopia</placeName>
+        <location>
+          <geo>9 40</geo>
+        </location>
+        <idno type="WD">Q115</idno>
+      </place>
+      <place xml:id="dvp_078_place_20">
+        <placeName>Ethiopia</placeName>
+        <location>
+          <geo>9 40</geo>
+        </location>
+        <idno type="WD">Q115</idno>
+      </place>
+      <place xml:id="dvp_078_place_21">
+        <placeName>Addis Ababa</placeName>
+        <location>
+          <geo>9.0272222222222 38.736944444444</geo>
+        </location>
+        <idno type="WD">Q3624</idno>
+      </place>
+      <place xml:id="dvp_078_place_22">
+        <placeName>Iowa</placeName>
+        <location>
+          <geo>42 -93</geo>
+        </location>
+        <idno type="WD">Q1546</idno>
+      </place>
+      <place xml:id="dvp_078_place_23">
+        <placeName>Pennsylvania</placeName>
+        <location>
+          <geo>41 -77.5</geo>
+        </location>
+        <idno type="WD">Q1400</idno>
+      </place>
+      <place xml:id="dvp_078_place_24">
+        <placeName>Dartmouth College</placeName>
+        <location>
+          <geo>43.703333333333 -72.288333333333</geo>
+        </location>
+        <idno type="WD">Q49116</idno>
+      </place>
+      <place xml:id="dvp_078_place_25">
+        <placeName>United States of America</placeName>
+        <location>
+          <geo>39.828175 -98.5795</geo>
+        </location>
+        <idno type="WD">Q30</idno>
+      </place>
+      <place xml:id="dvp_078_place_26">
+        <placeName>Lancaster</placeName>
+        <location>
+          <geo>40.039722222222 -76.304444444444</geo>
+        </location>
+        <idno type="WD">Q320514</idno>
+      </place>
+      <place xml:id="dvp_078_place_27">
+        <placeName>Lancaster</placeName>
+        <location>
+          <geo>40.039722222222 -76.304444444444</geo>
+        </location>
+        <idno type="WD">Q320514</idno>
+      </place>
+      <place xml:id="dvp_078_place_28">
+        <placeName>Vietnam</placeName>
+        <location>
+          <geo>16 108</geo>
+        </location>
+        <idno type="WD">Q881</idno>
+      </place>
+      <place xml:id="dvp_078_place_29">
+        <placeName>Dartmouth College</placeName>
+        <location>
+          <geo>43.703333333333 -72.288333333333</geo>
+        </location>
+        <idno type="WD">Q49116</idno>
+      </place>
+      <place xml:id="dvp_078_place_30">
+        <placeName>France</placeName>
+        <location>
+          <geo>47 2</geo>
+        </location>
+        <idno type="WD">Q142</idno>
+      </place>
+      <place xml:id="dvp_078_place_31">
+        <placeName>El-Hajj Malik El-Shabazz Center</placeName>
+        <location>
+          <geo>43.70678140394604 -72.2898819546128</geo>
+        </location>
+        <idno type="WD">Q104931609</idno>
+      </place>
+      <place xml:id="dvp_078_place_32">
+        <placeName>Webster Cottage</placeName>
+        <location>
+          <geo>43.706765 -72.289848</geo>
+        </location>
+        <idno type="WD">Q107622299</idno>
+      </place>
+      <place xml:id="dvp_078_place_33">
+        <placeName>El-Hajj Malik El-Shabazz Center</placeName>
+        <location>
+          <geo>43.70678140394604 -72.2898819546128</geo>
+        </location>
+        <idno type="WD">Q104931609</idno>
+      </place>
+      <place xml:id="dvp_078_place_34">
+        <placeName>North Hall</placeName>
+        <location>
+          <geo>43.70719228814527 -72.28991278352873</geo>
+        </location>
+        <idno type="WD">Q104931138</idno>
+      </place>
+      <place xml:id="dvp_078_place_35">
+        <placeName>Parkhurst Hall</placeName>
+        <location>
+          <geo>43.70404 -72.28995</geo>
+        </location>
+        <idno type="WD">Q100952777</idno>
+      </place>
+      <place xml:id="dvp_078_place_36">
+        <placeName>Parkhurst Hall</placeName>
+        <location>
+          <geo>43.70404 -72.28995</geo>
+        </location>
+        <idno type="WD">Q100952777</idno>
+      </place>
+      <place xml:id="dvp_078_place_37">
+        <placeName>Dartmouth College</placeName>
+        <location>
+          <geo>43.703333333333 -72.288333333333</geo>
+        </location>
+        <idno type="WD">Q49116</idno>
+      </place>
+      <place xml:id="dvp_078_place_38">
+        <placeName>Hopkins Center for the Arts</placeName>
+        <location>
+          <geo>43.701666666667 -72.288611111111</geo>
+        </location>
+        <idno type="WD">Q3140375</idno>
+      </place>
+      <place xml:id="dvp_078_place_39">
+        <placeName>Hopkins Center for the Arts</placeName>
+        <location>
+          <geo>43.701666666667 -72.288611111111</geo>
+        </location>
+        <idno type="WD">Q3140375</idno>
+      </place>
+      <place xml:id="dvp_078_place_40">
+        <placeName>El-Hajj Malik El-Shabazz Center</placeName>
+        <location>
+          <geo>43.70678140394604 -72.2898819546128</geo>
+        </location>
+        <idno type="WD">Q104931609</idno>
+      </place>
+      <place xml:id="dvp_078_place_41">
+        <placeName>Boston</placeName>
+        <location>
+          <geo>42.358333333333 -71.0625</geo>
+        </location>
+        <idno type="WD">Q100</idno>
+      </place>
+      <place xml:id="dvp_078_place_42">
+        <placeName>Vietnam</placeName>
+        <location>
+          <geo>16 108</geo>
+        </location>
+        <idno type="WD">Q881</idno>
+      </place>
+      <place xml:id="dvp_078_place_43">
+        <placeName>Parkhurst Hall</placeName>
+        <location>
+          <geo>43.70404 -72.28995</geo>
+        </location>
+        <idno type="WD">Q100952777</idno>
+      </place>
+      <place xml:id="dvp_078_place_44">
+        <placeName>Vietnam</placeName>
+        <location>
+          <geo>16 108</geo>
+        </location>
+        <idno type="WD">Q881</idno>
+      </place>
+      <place xml:id="dvp_078_place_45">
+        <placeName>Parkhurst Hall</placeName>
+        <location>
+          <geo>43.70404 -72.28995</geo>
+        </location>
+        <idno type="WD">Q100952777</idno>
+      </place>
+      <place xml:id="dvp_078_place_46">
+        <placeName>Vietnam</placeName>
+        <location>
+          <geo>16 108</geo>
+        </location>
+        <idno type="WD">Q881</idno>
+      </place>
+      <place xml:id="dvp_078_place_47">
+        <placeName>Dartmouth College</placeName>
+        <location>
+          <geo>43.703333333333 -72.288333333333</geo>
+        </location>
+        <idno type="WD">Q49116</idno>
+      </place>
+      <place xml:id="dvp_078_place_48">
+        <placeName>Parkhurst Hall</placeName>
+        <location>
+          <geo>43.70404 -72.28995</geo>
+        </location>
+        <idno type="WD">Q100952777</idno>
+      </place>
+      <place xml:id="dvp_078_place_49">
+        <placeName>Parkhurst Hall</placeName>
+        <location>
+          <geo>43.70404 -72.28995</geo>
+        </location>
+        <idno type="WD">Q100952777</idno>
+      </place>
+      <place xml:id="dvp_078_place_50">
+        <placeName>Vietnam</placeName>
+        <location>
+          <geo>16 108</geo>
+        </location>
+        <idno type="WD">Q881</idno>
+      </place>
+      <place xml:id="dvp_078_place_51">
+        <placeName>Dartmouth College</placeName>
+        <location>
+          <geo>43.703333333333 -72.288333333333</geo>
+        </location>
+        <idno type="WD">Q49116</idno>
+      </place>
+      <place xml:id="dvp_078_place_52">
+        <placeName>New Hampshire</placeName>
+        <location>
+          <geo>44 -71.5</geo>
+        </location>
+        <idno type="WD">Q759</idno>
+      </place>
+      <place xml:id="dvp_078_place_53">
+        <placeName>Merrimack County Jail</placeName>
+        <location>
+          <geo>43.35899906517582 -71.64583908387712</geo>
+        </location>
+        <idno type="WD">Q107579210</idno>
+      </place>
+      <place xml:id="dvp_078_place_54">
+        <placeName>Dartmouth College</placeName>
+        <location>
+          <geo>43.703333333333 -72.288333333333</geo>
+        </location>
+        <idno type="WD">Q49116</idno>
+      </place>
+      <place xml:id="dvp_078_place_55">
+        <placeName>Tuck Mall</placeName>
+        <location>
+          <geo>43.705 -72.2925</geo>
+        </location>
+        <idno type="WD">Q49572320</idno>
+      </place>
+      <place xml:id="dvp_078_place_56">
+        <placeName>Tuck Mall</placeName>
+        <location>
+          <geo>43.705 -72.2925</geo>
+        </location>
+        <idno type="WD">Q49572320</idno>
+      </place>
+      <place xml:id="dvp_078_place_57">
+        <placeName>Tuck Mall</placeName>
+        <location>
+          <geo>43.705 -72.2925</geo>
+        </location>
+        <idno type="WD">Q49572320</idno>
+      </place>
+      <place xml:id="dvp_078_place_58">
+        <placeName>Tuck Mall</placeName>
+        <location>
+          <geo>43.705 -72.2925</geo>
+        </location>
+        <idno type="WD">Q49572320</idno>
+      </place>
+      <place xml:id="dvp_078_place_59">
+        <placeName>Philadelphia</placeName>
+        <location>
+          <geo>39.952777777778 -75.163611111111</geo>
+        </location>
+        <idno type="WD">Q1345</idno>
+      </place>
+      <place xml:id="dvp_078_place_60">
+        <placeName>France</placeName>
+        <location>
+          <geo>47 2</geo>
+        </location>
+        <idno type="WD">Q142</idno>
+      </place>
+      <place xml:id="dvp_078_place_61">
+        <placeName>Hanover</placeName>
+        <location>
+          <geo>43.7 -72.28333333333333</geo>
+        </location>
+        <idno type="WD">Q131908</idno>
+      </place>
+      <place xml:id="dvp_078_place_62">
+        <placeName>Choate Cluster</placeName>
+        <location>
+          <geo>43.7073705 -72.2905446</geo>
+        </location>
+        <idno type="WD">Q101445656</idno>
+      </place>
+      <place xml:id="dvp_078_place_63">
+        <placeName>El-Hajj Malik El-Shabazz Center</placeName>
+        <location>
+          <geo>43.70678140394604 -72.2898819546128</geo>
+        </location>
+        <idno type="WD">Q104931609</idno>
+      </place>
+      <place xml:id="dvp_078_place_64">
+        <placeName>Vietnam</placeName>
+        <location>
+          <geo>16 108</geo>
+        </location>
+        <idno type="WD">Q881</idno>
+      </place>
+      <place xml:id="dvp_078_place_65">
+        <placeName>France</placeName>
+        <location>
+          <geo>47 2</geo>
+        </location>
+        <idno type="WD">Q142</idno>
+      </place>
+      <place xml:id="dvp_078_place_66">
+        <placeName>Vietnam</placeName>
+        <location>
+          <geo>16 108</geo>
+        </location>
+        <idno type="WD">Q881</idno>
+      </place>
+      <place xml:id="dvp_078_place_67">
+        <placeName>Canada</placeName>
+        <location>
+          <geo>56 -109</geo>
+        </location>
+        <idno type="WD">Q16</idno>
+      </place>
+      <place xml:id="dvp_078_place_68">
+        <placeName>Vietnam</placeName>
+        <location>
+          <geo>16 108</geo>
+        </location>
+        <idno type="WD">Q881</idno>
+      </place>
+      <place xml:id="dvp_078_place_69">
+        <placeName>United States of America</placeName>
+        <location>
+          <geo>39.828175 -98.5795</geo>
+        </location>
+        <idno type="WD">Q30</idno>
+      </place>
+      <place xml:id="dvp_078_place_70">
+        <placeName>Boston</placeName>
+        <location>
+          <geo>42.358333333333 -71.0625</geo>
+        </location>
+        <idno type="WD">Q100</idno>
+      </place>
+      <place xml:id="dvp_078_place_71">
+        <placeName>Massachusetts</placeName>
+        <location>
+          <geo>42.3 -71.8</geo>
+        </location>
+        <idno type="WD">Q771</idno>
+      </place>
+      <place xml:id="dvp_078_place_72">
+        <placeName>Northampton</placeName>
+        <location>
+          <geo>42.325 -72.641666666667</geo>
+        </location>
+        <idno type="WD">Q49186</idno>
+      </place>
+      <place xml:id="dvp_078_place_73">
+        <placeName>United States of America</placeName>
+        <location>
+          <geo>39.828175 -98.5795</geo>
+        </location>
+        <idno type="WD">Q30</idno>
+      </place>
+      <place xml:id="dvp_078_place_74">
+        <placeName>VA</placeName>
+      </place>
+      <place xml:id="dvp_078_place_75">
+        <placeName>Cambridge</placeName>
+        <location>
+          <geo>42.375 -71.106111111111</geo>
+        </location>
+        <idno type="WD">Q49111</idno>
+      </place>
+      <place xml:id="dvp_078_place_76">
+        <placeName>Boston</placeName>
+        <location>
+          <geo>42.358333333333 -71.0625</geo>
+        </location>
+        <idno type="WD">Q100</idno>
+      </place>
+      <place xml:id="dvp_078_place_77">
+        <placeName>Easthampton</placeName>
+        <location>
+          <geo>42.266666666667 -72.669444444444</geo>
+        </location>
+        <idno type="WD">Q1988974</idno>
+      </place>
+      <place xml:id="dvp_078_place_78">
+        <placeName>Holyoke</placeName>
+        <location>
+          <geo>42.204166666667 -72.618055555556</geo>
+        </location>
+        <idno type="WD">Q1637790</idno>
+      </place>
+      <place xml:id="dvp_078_place_79">
+        <placeName>Boston</placeName>
+        <location>
+          <geo>42.358333333333 -71.0625</geo>
+        </location>
+        <idno type="WD">Q100</idno>
+      </place>
+      <place xml:id="dvp_078_place_80">
+        <placeName>Boston</placeName>
+        <location>
+          <geo>42.358333333333 -71.0625</geo>
+        </location>
+        <idno type="WD">Q100</idno>
+      </place>
+      <place xml:id="dvp_078_place_81">
+        <placeName>Boston</placeName>
+        <location>
+          <geo>42.358333333333 -71.0625</geo>
+        </location>
+        <idno type="WD">Q100</idno>
+      </place>
+      <place xml:id="dvp_078_place_82">
+        <placeName>Massachusetts</placeName>
+        <location>
+          <geo>42.3 -71.8</geo>
+        </location>
+        <idno type="WD">Q771</idno>
+      </place>
+    </listPlace>
+    <listEvent>
+      <event xml:id="dvp_078_event_0" from-iso="1939-09-01T00:00:00Z" to-iso="1945-09-02T00:00:00Z">
+        <desc>World War II</desc>
+        <idno type="WD">Q362</idno>
+      </event>
+      <event xml:id="dvp_078_event_1" from-iso="1954-01-01T00:00:00Z" to-iso="1968-01-01T00:00:00Z">
+        <desc>civil rights movement</desc>
+        <idno type="WD">Q48537</idno>
+      </event>
+      <event xml:id="dvp_078_event_2" from-iso="1959-01-01T00:00:00Z" to-iso="1975-04-30T00:00:00Z">
+        <desc>Vietnam War</desc>
+        <idno type="WD">Q8740</idno>
+      </event>
+      <event xml:id="dvp_078_event_3" when-iso="1963-08-28T00:00:00Z">
+        <desc>March on Washington for Jobs and Freedom</desc>
+        <idno type="WD">Q1128871</idno>
+      </event>
+      <event xml:id="dvp_078_event_4" from-iso="1959-01-01T00:00:00Z" to-iso="1975-04-30T00:00:00Z">
+        <desc>Vietnam War</desc>
+        <idno type="WD">Q8740</idno>
+      </event>
+      <event xml:id="dvp_078_event_5" from-iso="1939-09-01T00:00:00Z" to-iso="1945-09-02T00:00:00Z">
+        <desc>World War II</desc>
+        <idno type="WD">Q362</idno>
+      </event>
+      <event xml:id="dvp_078_event_6" from-iso="1970-04-29T00:00:00Z" to-iso="1970-07-22T00:00:00Z">
+        <desc>Cambodian campaign</desc>
+        <idno type="WD">Q2994973</idno>
+      </event>
+      <event xml:id="dvp_078_event_7" when-iso="1969-05-06T00:00:00Z">
+        <desc>Parkhurst Hall Takeover</desc>
+        <idno type="WD">Q101424872</idno>
+      </event>
+      <event xml:id="dvp_078_event_8" when-iso="1969-05-06T00:00:00Z">
+        <desc>Parkhurst Hall Takeover</desc>
+        <idno type="WD">Q101424872</idno>
+      </event>
+      <event xml:id="dvp_078_event_9" when-iso="1969-05-06T00:00:00Z">
+        <desc>Parkhurst Hall Takeover</desc>
+        <idno type="WD">Q101424872</idno>
+      </event>
+      <event xml:id="dvp_078_event_10" when-iso="1969-05-06T00:00:00Z">
+        <desc>Parkhurst Hall Takeover</desc>
+        <idno type="WD">Q101424872</idno>
+      </event>
+      <event xml:id="dvp_078_event_11" from-iso="1968-01-30T00:00:00Z" to-iso="1968-09-23T00:00:00Z">
+        <desc>Tet Offensive</desc>
+        <idno type="WD">Q82542</idno>
+      </event>
+      <event xml:id="dvp_078_event_12" from-iso="1968-01-30T00:00:00Z" to-iso="1968-09-23T00:00:00Z">
+        <desc>Tet Offensive</desc>
+        <idno type="WD">Q82542</idno>
+      </event>
+      <event xml:id="dvp_078_event_13" when-iso="1969-05-06T00:00:00Z">
+        <desc>Parkhurst Hall Takeover</desc>
+        <idno type="WD">Q101424872</idno>
+      </event>
+      <event xml:id="dvp_078_event_14" when-iso="1969-05-06T00:00:00Z">
+        <desc>Parkhurst Hall Takeover</desc>
+        <idno type="WD">Q101424872</idno>
+      </event>
+      <event xml:id="dvp_078_event_15" when-iso="1969-05-06T00:00:00Z">
+        <desc>Parkhurst Hall Takeover</desc>
+        <idno type="WD">Q101424872</idno>
+      </event>
+      <event xml:id="dvp_078_event_16" when-iso="1969-05-06T00:00:00Z">
+        <desc>Parkhurst Hall Takeover</desc>
+        <idno type="WD">Q101424872</idno>
+      </event>
+      <event xml:id="dvp_078_event_17" from-iso="1970-08-23T00:00:00Z" to-iso="1971-03-26T00:00:00Z">
+        <desc>Salad Bowl strike</desc>
+        <idno type="WD">Q7403376</idno>
+      </event>
+      <event xml:id="dvp_078_event_18" when-iso="1969-05-06T00:00:00Z">
+        <desc>Parkhurst Hall Takeover</desc>
+        <idno type="WD">Q101424872</idno>
+      </event>
+      <event xml:id="dvp_078_event_19" from-iso="1970-04-29T00:00:00Z" to-iso="1970-07-22T00:00:00Z">
+        <desc>Cambodian campaign</desc>
+        <idno type="WD">Q2994973</idno>
+      </event>
+      <event xml:id="dvp_078_event_20" from-iso="1970-04-29T00:00:00Z" to-iso="1970-07-22T00:00:00Z">
+        <desc>Cambodian campaign</desc>
+        <idno type="WD">Q2994973</idno>
+      </event>
+      <event xml:id="dvp_078_event_21" from-iso="1970-05-04T00:00:00Z" to-iso="1970-05-04T00:00:00Z">
+        <desc>Kent State shootings</desc>
+        <idno type="WD">Q482635</idno>
+      </event>
+      <event xml:id="dvp_078_event_22" when-iso="1969-05-06T00:00:00Z">
+        <desc>Parkhurst Hall Takeover</desc>
+        <idno type="WD">Q101424872</idno>
+      </event>
+      <event xml:id="dvp_078_event_23" from-iso="1970-04-29T00:00:00Z" to-iso="1970-07-22T00:00:00Z">
+        <desc>Cambodian campaign</desc>
+        <idno type="WD">Q2994973</idno>
+      </event>
+      <event xml:id="dvp_078_event_24" from-iso="1939-09-01T00:00:00Z" to-iso="1945-09-02T00:00:00Z">
+        <desc>World War II</desc>
+        <idno type="WD">Q362</idno>
+      </event>
+      <event xml:id="dvp_078_event_25" when-iso="1969-05-06T00:00:00Z">
+        <desc>Parkhurst Hall Takeover</desc>
+        <idno type="WD">Q101424872</idno>
+      </event>
+      <event xml:id="dvp_078_event_26" when-iso="1972-06-17T00:00:00Z">
+        <desc>Watergate scandal</desc>
+        <idno type="WD">Q42761</idno>
+      </event>
+      <event xml:id="dvp_078_event_27" from-iso="1959-01-01T00:00:00Z" to-iso="1975-04-30T00:00:00Z">
+        <desc>Vietnam War</desc>
+        <idno type="WD">Q8740</idno>
+      </event>
+      <event xml:id="dvp_078_event_28" from-iso="1959-01-01T00:00:00Z" to-iso="1975-04-30T00:00:00Z">
+        <desc>Vietnam War</desc>
+        <idno type="WD">Q8740</idno>
+      </event>
+      <event xml:id="dvp_078_event_29" from-iso="1939-09-01T00:00:00Z" to-iso="1945-09-02T00:00:00Z">
+        <desc>World War II</desc>
+        <idno type="WD">Q362</idno>
+      </event>
+      <event xml:id="dvp_078_event_30" from-iso="1939-09-01T00:00:00Z" to-iso="1945-09-02T00:00:00Z">
+        <desc>World War II</desc>
+        <idno type="WD">Q362</idno>
+      </event>
+      <event xml:id="dvp_078_event_31" from-iso="1959-01-01T00:00:00Z" to-iso="1975-04-30T00:00:00Z">
+        <desc>Vietnam War</desc>
+        <idno type="WD">Q8740</idno>
+      </event>
+      <event xml:id="dvp_078_event_32" from-iso="1939-09-01T00:00:00Z" to-iso="1945-09-02T00:00:00Z">
+        <desc>World War II</desc>
+        <idno type="WD">Q362</idno>
+      </event>
+    </listEvent>
+    <listPerson>
+      <person xml:id="dvp_078_person_0">
+        <persName>Emily [R.] Everhard</persName>
+        <idno type="project">dvp_0558</idno>
+      </person>
+      <person xml:id="dvp_078_person_1">
+        <persName>John [E.] Brelsford</persName>
+        <idno type="project">dvp_0723</idno>
+      </person>
+      <person xml:id="dvp_078_person_2">
+        <persName>Susan [Brelsford]</persName>
+        <idno type="project">dvp_0724</idno>
+      </person>
+      <person xml:id="dvp_078_person_3">
+        <persName>Martin Luther King Jr.</persName>
+        <idno type="WD">Q8027</idno>
+      </person>
+      <person xml:id="dvp_078_person_4">
+        <persName>Martin Luther King Jr.</persName>
+        <idno type="WD">Q8027</idno>
+      </person>
+      <person xml:id="dvp_078_person_5">
+        <persName>Richard Nixon</persName>
+        <idno type="WD">Q9588</idno>
+      </person>
+      <person xml:id="dvp_078_person_6">
+        <persName>John F. Kennedy</persName>
+        <idno type="WD">Q9696</idno>
+      </person>
+      <person xml:id="dvp_078_person_7">
+        <persName>Lyndon B. Johnson</persName>
+        <idno type="WD">Q9640</idno>
+      </person>
+      <person xml:id="dvp_078_person_8">
+        <persName>[Herbert H.] “Herb” Stauffer</persName>
+        <idno type="project">dvp_0725</idno>
+      </person>
+      <person xml:id="dvp_078_person_9">
+        <persName>Ray [L.] Good</persName>
+        <idno type="project">dvp_0726</idno>
+      </person>
+      <person xml:id="dvp_078_person_10">
+        <persName>[Jeffrey P.] “Jeff” Searles</persName>
+        <idno type="project">dvp_0727</idno>
+      </person>
+      <person xml:id="dvp_078_person_11">
+        <persName>John George Kemeny</persName>
+        <idno type="WD">Q28900</idno>
+      </person>
+      <person xml:id="dvp_078_person_12">
+        <persName>William Shockley</persName>
+        <idno type="WD">Q163415</idno>
+      </person>
+      <person xml:id="dvp_078_person_13">
+        <persName>David [A.] White [Class of 1971]</persName>
+        <idno type="project">dvp_0728</idno>
+      </person>
+      <person xml:id="dvp_078_person_14">
+        <persName>John [G.] Spritzler [Class of 1968]</persName>
+        <idno type="project">dvp_0013</idno>
+      </person>
+      <person xml:id="dvp_078_person_15">
+        <persName>John</persName>
+        <idno type="project">dvp_0013</idno>
+      </person>
+      <person xml:id="dvp_078_person_16">
+        <persName>Harvey [A.] Katz [Class of 1970]</persName>
+        <idno type="project">dvp_0729</idno>
+      </person>
+      <person xml:id="dvp_078_person_17">
+        <persName>Guy [F] Brandenburg [Class of 1971]</persName>
+        <idno type="project">dvp_0444</idno>
+      </person>
+      <person xml:id="dvp_078_person_18">
+        <persName>Burleigh [M.] Smith [Class of 1971]</persName>
+        <idno type="project">dvp_0730</idno>
+      </person>
+      <person xml:id="dvp_078_person_19">
+        <persName>[Howard S.] “Howie” Becker [Class of 1972]</persName>
+        <idno type="project">dvp_0731</idno>
+      </person>
+      <person xml:id="dvp_078_person_20">
+        <persName>David White</persName>
+        <idno type="project">dvp_0728</idno>
+      </person>
+      <person xml:id="dvp_078_person_21">
+        <persName>[James C.] “Jim” Knowles</persName>
+        <idno type="project">dvp_0732</idno>
+      </person>
+      <person xml:id="dvp_078_person_22">
+        <persName>[Mary] Tyler Knowles</persName>
+        <idno type="project">dvp_0733</idno>
+      </person>
+      <person xml:id="dvp_078_person_23">
+        <persName>[Jonathan] “Jon” Minsky [sic; Mirsky]</persName>
+        <idno type="project">dvp_0520</idno>
+      </person>
+      <person xml:id="dvp_078_person_24">
+        <persName>John George Kemeny</persName>
+        <idno type="WD">Q28900</idno>
+      </person>
+      <person xml:id="dvp_078_person_25">
+        <persName>John Sloan Dickey</persName>
+        <idno type="WD">Q3182471</idno>
+      </person>
+      <person xml:id="dvp_078_person_26">
+        <persName>John Sloan Dickey</persName>
+        <idno type="WD">Q3182471</idno>
+      </person>
+      <person xml:id="dvp_078_person_27">
+        <persName>John Sloan Dickey</persName>
+        <idno type="WD">Q3182471</idno>
+      </person>
+      <person xml:id="dvp_078_person_28">
+        <persName>John George Kemeny</persName>
+        <idno type="WD">Q28900</idno>
+      </person>
+      <person xml:id="dvp_078_person_29">
+        <persName>Paul [W.] Beach [Jr., Class of 1967]</persName>
+        <idno type="project">dvp_0699</idno>
+      </person>
+      <person xml:id="dvp_078_person_30">
+        <persName>Howie—Howie Becker</persName>
+        <idno type="project">dvp_0731</idno>
+      </person>
+      <person xml:id="dvp_078_person_31">
+        <persName>Paul</persName>
+        <idno type="project">dvp_0699</idno>
+      </person>
+      <person xml:id="dvp_078_person_32">
+        <persName>Howie</persName>
+        <idno type="project">dvp_0731</idno>
+      </person>
+      <person xml:id="dvp_078_person_33">
+        <persName>Cesar Chavez</persName>
+        <idno type="WD">Q355425</idno>
+      </person>
+      <person xml:id="dvp_078_person_34">
+        <persName>David White</persName>
+        <idno type="project">dvp_0728</idno>
+      </person>
+      <person xml:id="dvp_078_person_35">
+        <persName>Guy Brandenburg</persName>
+        <idno type="project">dvp_0444</idno>
+      </person>
+      <person xml:id="dvp_078_person_36">
+        <persName>John George Kemeny</persName>
+        <idno type="WD">Q28900</idno>
+      </person>
+      <person xml:id="dvp_078_person_37">
+        <persName>John George Kemeny</persName>
+        <idno type="WD">Q28900</idno>
+      </person>
+      <person xml:id="dvp_078_person_38">
+        <persName>Paul Beach</persName>
+        <idno type="project">dvp_0699</idno>
+      </person>
+      <person xml:id="dvp_078_person_39">
+        <persName>Richard Nixon</persName>
+        <idno type="WD">Q9588</idno>
+      </person>
+      <person xml:id="dvp_078_person_40">
+        <persName>Laura [P. Brelsford]</persName>
+        <idno type="project">dvp_0734</idno>
+      </person>
+      <person xml:id="dvp_078_person_41">
+        <persName>Jennifer [R. Brelsford]</persName>
+        <idno type="project">dvp_0735</idno>
+      </person>
+      <person xml:id="dvp_078_person_42">
+        <persName>Emily</persName>
+        <idno type="project">dvp_0558</idno>
+      </person>
+    </listPerson>
+    <listOrg>
+      <org xml:id="dvp_078_org_0">
+        <orgName>Dartmouth Vietnam Project</orgName>
+        <idno type="WD">Q104889683</idno>
+      </org>
+      <org xml:id="dvp_078_org_1">
+        <orgName>New Holland Machine Company</orgName>
+        <idno type="WD">Q141824</idno>
+      </org>
+      <org xml:id="dvp_078_org_2">
+        <orgName>New Holland</orgName>
+        <idno type="WD">Q778439</idno>
+      </org>
+      <org xml:id="dvp_078_org_3">
+        <orgName>Pennsylvania Dutch Country</orgName>
+        <idno type="WD">Q142318</idno>
+      </org>
+      <org xml:id="dvp_078_org_4">
+        <orgName>United Nations</orgName>
+        <idno type="WD">Q1065</idno>
+      </org>
+      <org xml:id="dvp_078_org_5">
+        <orgName>New Holland Machine Company</orgName>
+        <idno type="WD">Q141824</idno>
+      </org>
+      <org xml:id="dvp_078_org_6">
+        <orgName>Garden Spot High School</orgName>
+        <idno type="WD">Q5522305</idno>
+      </org>
+      <org xml:id="dvp_078_org_7">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dvp_078_org_8">
+        <orgName>Franklin &amp; Marshall College</orgName>
+        <idno type="WD">Q664881</idno>
+      </org>
+      <org xml:id="dvp_078_org_9">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dvp_078_org_10">
+        <orgName>Ivy League</orgName>
+        <idno type="WD">Q49113</idno>
+      </org>
+      <org xml:id="dvp_078_org_11">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dvp_078_org_12">
+        <orgName>Ivy League</orgName>
+        <idno type="WD">Q49113</idno>
+      </org>
+      <org xml:id="dvp_078_org_13">
+        <orgName>Harvard University</orgName>
+        <idno type="WD">Q13371</idno>
+      </org>
+      <org xml:id="dvp_078_org_14">
+        <orgName>Yale University</orgName>
+        <idno type="WD">Q49112</idno>
+      </org>
+      <org xml:id="dvp_078_org_15">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dvp_078_org_16">
+        <orgName>Ivy League</orgName>
+        <idno type="WD">Q49113</idno>
+      </org>
+      <org xml:id="dvp_078_org_17">
+        <orgName>Colby–Sawyer College</orgName>
+        <idno type="WD">Q5142055</idno>
+      </org>
+      <org xml:id="dvp_078_org_18">
+        <orgName>Seven Sisters</orgName>
+        <idno type="WD">Q1886223</idno>
+      </org>
+      <org xml:id="dvp_078_org_19">
+        <orgName>Ivy League</orgName>
+        <idno type="WD">Q49113</idno>
+      </org>
+      <org xml:id="dvp_078_org_20">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dvp_078_org_21">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dvp_078_org_22">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dvp_078_org_23">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dvp_078_org_24">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dvp_078_org_25">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dvp_078_org_26">
+        <orgName>Students for a Democratic Society at Dartmouth</orgName>
+        <idno type="WD">Q105445832</idno>
+      </org>
+      <org xml:id="dvp_078_org_27">
+        <orgName>[Dartmouth] Conservative Society</orgName>
+        <idno type="project">dvp_0675</idno>
+      </org>
+      <org xml:id="dvp_078_org_28">
+        <orgName>Students for a Democratic Society at Dartmouth</orgName>
+        <idno type="WD">Q105445832</idno>
+      </org>
+      <org xml:id="dvp_078_org_29">
+        <orgName>Conservative Society</orgName>
+        <idno type="project">dvp_0675</idno>
+      </org>
+      <org xml:id="dvp_078_org_30">
+        <orgName>Afro-American Society</orgName>
+        <idno type="project">dvp_0674</idno>
+      </org>
+      <org xml:id="dvp_078_org_31">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dvp_078_org_32">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dvp_078_org_33">
+        <orgName>Harvard University</orgName>
+        <idno type="WD">Q13371</idno>
+      </org>
+      <org xml:id="dvp_078_org_34">
+        <orgName>Columbia University</orgName>
+        <idno type="WD">Q49088</idno>
+      </org>
+      <org xml:id="dvp_078_org_35">
+        <orgName>Columbia University</orgName>
+        <idno type="WD">Q49088</idno>
+      </org>
+      <org xml:id="dvp_078_org_36">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dvp_078_org_37">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dvp_078_org_38">
+        <orgName>Reserve Officers' Training Corps</orgName>
+        <idno type="WD">Q489983</idno>
+      </org>
+      <org xml:id="dvp_078_org_39">
+        <orgName>United States Armed Forces</orgName>
+        <idno type="WD">Q11211</idno>
+      </org>
+      <org xml:id="dvp_078_org_40">
+        <orgName>Reserve Officers' Training Corps</orgName>
+        <idno type="WD">Q489983</idno>
+      </org>
+      <org xml:id="dvp_078_org_41">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dvp_078_org_42">
+        <orgName>Reserve Officers' Training Corps</orgName>
+        <idno type="WD">Q489983</idno>
+      </org>
+      <org xml:id="dvp_078_org_43">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dvp_078_org_44">
+        <orgName>Students for a Democratic Society at Dartmouth</orgName>
+        <idno type="WD">Q105445832</idno>
+      </org>
+      <org xml:id="dvp_078_org_45">
+        <orgName>Reserve Officers' Training Corps</orgName>
+        <idno type="WD">Q489983</idno>
+      </org>
+      <org xml:id="dvp_078_org_46">
+        <orgName>Reserve Officers' Training Corps</orgName>
+        <idno type="WD">Q489983</idno>
+      </org>
+      <org xml:id="dvp_078_org_47">
+        <orgName>Students for a Democratic Society at Dartmouth</orgName>
+        <idno type="WD">Q105445832</idno>
+      </org>
+      <org xml:id="dvp_078_org_48">
+        <orgName>Reserve Officers' Training Corps</orgName>
+        <idno type="WD">Q489983</idno>
+      </org>
+      <org xml:id="dvp_078_org_49">
+        <orgName>Students for a Democratic Society at Dartmouth</orgName>
+        <idno type="WD">Q105445832</idno>
+      </org>
+      <org xml:id="dvp_078_org_50">
+        <orgName>Reserve Officers' Training Corps</orgName>
+        <idno type="WD">Q489983</idno>
+      </org>
+      <org xml:id="dvp_078_org_51">
+        <orgName>Students for a Democratic Society at Dartmouth</orgName>
+        <idno type="WD">Q105445832</idno>
+      </org>
+      <org xml:id="dvp_078_org_52">
+        <orgName>Skidmore College</orgName>
+        <idno type="WD">Q7535073</idno>
+      </org>
+      <org xml:id="dvp_078_org_53">
+        <orgName>Reserve Officers' Training Corps</orgName>
+        <idno type="WD">Q489983</idno>
+      </org>
+      <org xml:id="dvp_078_org_54">
+        <orgName>Reserve Officers' Training Corps</orgName>
+        <idno type="WD">Q489983</idno>
+      </org>
+      <org xml:id="dvp_078_org_55">
+        <orgName>Reserve Officers' Training Corps</orgName>
+        <idno type="WD">Q489983</idno>
+      </org>
+      <org xml:id="dvp_078_org_56">
+        <orgName>Reserve Officers' Training Corps</orgName>
+        <idno type="WD">Q489983</idno>
+      </org>
+      <org xml:id="dvp_078_org_57">
+        <orgName>Reserve Officers' Training Corps</orgName>
+        <idno type="WD">Q489983</idno>
+      </org>
+      <org xml:id="dvp_078_org_58">
+        <orgName>United States Armed Forces</orgName>
+        <idno type="WD">Q11211</idno>
+      </org>
+      <org xml:id="dvp_078_org_59">
+        <orgName>Reserve Officers' Training Corps</orgName>
+        <idno type="WD">Q489983</idno>
+      </org>
+      <org xml:id="dvp_078_org_60">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dvp_078_org_61">
+        <orgName>United States of America</orgName>
+        <idno type="WD">Q30</idno>
+      </org>
+      <org xml:id="dvp_078_org_62">
+        <orgName>United States of America</orgName>
+        <idno type="WD">Q30</idno>
+      </org>
+      <org xml:id="dvp_078_org_63">
+        <orgName>Students for a Democratic Society at Dartmouth</orgName>
+        <idno type="WD">Q105445832</idno>
+      </org>
+      <org xml:id="dvp_078_org_64">
+        <orgName>Students for a Democratic Society at Dartmouth</orgName>
+        <idno type="WD">Q105445832</idno>
+      </org>
+      <org xml:id="dvp_078_org_65">
+        <orgName>Reserve Officers' Training Corps</orgName>
+        <idno type="WD">Q489983</idno>
+      </org>
+      <org xml:id="dvp_078_org_66">
+        <orgName>Students for a Democratic Society at Dartmouth</orgName>
+        <idno type="WD">Q105445832</idno>
+      </org>
+      <org xml:id="dvp_078_org_67">
+        <orgName>The Dartmouth</orgName>
+        <idno type="WD">Q7729068</idno>
+      </org>
+      <org xml:id="dvp_078_org_68">
+        <orgName>Students for a Democratic Society at Dartmouth</orgName>
+        <idno type="WD">Q105445832</idno>
+      </org>
+      <org xml:id="dvp_078_org_69">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dvp_078_org_70">
+        <orgName>Students for a Democratic Society at Dartmouth</orgName>
+        <idno type="WD">Q105445832</idno>
+      </org>
+      <org xml:id="dvp_078_org_71">
+        <orgName>Students for a Democratic Society at Dartmouth</orgName>
+        <idno type="WD">Q105445832</idno>
+      </org>
+      <org xml:id="dvp_078_org_72">
+        <orgName>Students for a Democratic Society at Dartmouth</orgName>
+        <idno type="WD">Q105445832</idno>
+      </org>
+      <org xml:id="dvp_078_org_73">
+        <orgName>Students Behind Dartmouth [SBD]</orgName>
+        <idno type="project">dvp_0707</idno>
+      </org>
+      <org xml:id="dvp_078_org_74">
+        <orgName>Students for a Democratic Society at Dartmouth</orgName>
+        <idno type="WD">Q105445832</idno>
+      </org>
+      <org xml:id="dvp_078_org_75">
+        <orgName>SBD</orgName>
+        <idno type="project">dvp_0707</idno>
+      </org>
+      <org xml:id="dvp_078_org_76">
+        <orgName>Conservative Society</orgName>
+        <idno type="project">dvp_0675</idno>
+      </org>
+      <org xml:id="dvp_078_org_77">
+        <orgName>Students for a Democratic Society at Dartmouth</orgName>
+        <idno type="WD">Q105445832</idno>
+      </org>
+      <org xml:id="dvp_078_org_78">
+        <orgName>Students for a Democratic Society at Dartmouth</orgName>
+        <idno type="WD">Q105445832</idno>
+      </org>
+      <org xml:id="dvp_078_org_79">
+        <orgName>Students Behind Dartmouth</orgName>
+        <idno type="project">dvp_0707</idno>
+      </org>
+      <org xml:id="dvp_078_org_80">
+        <orgName>United States of America</orgName>
+        <idno type="WD">Q30</idno>
+      </org>
+      <org xml:id="dvp_078_org_81">
+        <orgName>Reserve Officers' Training Corps</orgName>
+        <idno type="WD">Q489983</idno>
+      </org>
+      <org xml:id="dvp_078_org_82">
+        <orgName>United States of America</orgName>
+        <idno type="WD">Q30</idno>
+      </org>
+      <org xml:id="dvp_078_org_83">
+        <orgName>Reserve Officers' Training Corps</orgName>
+        <idno type="WD">Q489983</idno>
+      </org>
+      <org xml:id="dvp_078_org_84">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dvp_078_org_85">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dvp_078_org_86">
+        <orgName>Supreme Court of the United States</orgName>
+        <idno type="WD">Q11201</idno>
+      </org>
+      <org xml:id="dvp_078_org_87">
+        <orgName>Students for a Democratic Society at Dartmouth</orgName>
+        <idno type="WD">Q105445832</idno>
+      </org>
+      <org xml:id="dvp_078_org_88">
+        <orgName>Reserve Officers' Training Corps</orgName>
+        <idno type="WD">Q489983</idno>
+      </org>
+      <org xml:id="dvp_078_org_89">
+        <orgName>Supreme Court of the United States</orgName>
+        <idno type="WD">Q11201</idno>
+      </org>
+      <org xml:id="dvp_078_org_90">
+        <orgName>Thayer School of Engineering</orgName>
+        <idno type="WD">Q7711553</idno>
+      </org>
+      <org xml:id="dvp_078_org_91">
+        <orgName>NPR</orgName>
+        <idno type="WD">Q671510</idno>
+      </org>
+      <org xml:id="dvp_078_org_92">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dvp_078_org_93">
+        <orgName>The Dartmouth [D.]</orgName>
+        <idno type="WD">Q102322299</idno>
+      </org>
+      <org xml:id="dvp_078_org_94">
+        <orgName>American Legion Baseball</orgName>
+        <idno type="WD">Q4744327</idno>
+      </org>
+      <org xml:id="dvp_078_org_95">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dvp_078_org_96">
+        <orgName>Students for a Democratic Society at Dartmouth</orgName>
+        <idno type="WD">Q105445832</idno>
+      </org>
+      <org xml:id="dvp_078_org_97">
+        <orgName>Reserve Officers' Training Corps</orgName>
+        <idno type="WD">Q489983</idno>
+      </org>
+      <org xml:id="dvp_078_org_98">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dvp_078_org_99">
+        <orgName>Students for a Democratic Society at Dartmouth</orgName>
+        <idno type="WD">Q105445832</idno>
+      </org>
+      <org xml:id="dvp_078_org_100">
+        <orgName>Students for a Democratic Society at Dartmouth</orgName>
+        <idno type="WD">Q105445832</idno>
+      </org>
+      <org xml:id="dvp_078_org_101">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dvp_078_org_102">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dvp_078_org_103">
+        <orgName>United States of America</orgName>
+        <idno type="WD">Q30</idno>
+      </org>
+      <org xml:id="dvp_078_org_104">
+        <orgName>United States of America</orgName>
+        <idno type="WD">Q30</idno>
+      </org>
+      <org xml:id="dvp_078_org_105">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dvp_078_org_106">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dvp_078_org_107">
+        <orgName>Boston University</orgName>
+        <idno type="WD">Q49110</idno>
+      </org>
+      <org xml:id="dvp_078_org_108">
+        <orgName>Fore River Shipyard</orgName>
+        <idno type="WD">Q1323171</idno>
+      </org>
+      <org xml:id="dvp_078_org_109">
+        <orgName>University of Massachusetts Amherst</orgName>
+        <idno type="WD">Q15142</idno>
+      </org>
+      <org xml:id="dvp_078_org_110">
+        <orgName>United States Department of Veterans Affairs</orgName>
+        <idno type="WD">Q592576</idno>
+      </org>
+      <org xml:id="dvp_078_org_111">
+        <orgName>United States Department of Veterans Affairs</orgName>
+        <idno type="WD">Q592576</idno>
+      </org>
+      <org xml:id="dvp_078_org_112">
+        <orgName>United States Department of Veterans Affairs</orgName>
+        <idno type="WD">Q592576</idno>
+      </org>
+      <org xml:id="dvp_078_org_113">
+        <orgName>Massachusetts Bay Transportation Authority</orgName>
+        <idno type="WD">Q171985</idno>
+      </org>
+      <org xml:id="dvp_078_org_114">
+        <orgName>Altice USA</orgName>
+        <idno type="WD">Q644289</idno>
+      </org>
+      <org xml:id="dvp_078_org_115">
+        <orgName>Dartmouth Vietnam Project</orgName>
+        <idno type="WD">Q104889683</idno>
+      </org>
+    </listOrg>
+  </standOff>
+</TEI>
