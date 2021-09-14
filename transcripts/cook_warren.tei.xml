@@ -59,183 +59,1270 @@
   </teiHeader>
   <text>
     <body>
-      <u who="EVERHARD">This is <persName>Emily Everhard [’18]</persName>. I’m at <placeName>Rauner [Special Collections] Library</placeName> at <placeName>Dartmouth College</placeName> in <placeName>Hanover, New Hampshire</placeName>. Today is <date when="2016-11-07">the 7th of November, 2016</date>. I’m interviewing <persName>Warren Cook</persName> and this interview is for the <orgName>Dartmouth Vietnam Project</orgName>. Also, if you ever want to take a break or to stop, just let me know and we can pause this interview.</u>
-      <u who="COOK">Okay. How’s everything in <placeName>Hanover</placeName>?</u>
+      <u who="EVERHARD">This is <persName ref="#dvp_081_person_0">Emily Everhard [’18]</persName>. I’m at <placeName ref="#dvp_081_place_0">Rauner [Special Collections] Library</placeName> at <placeName ref="#dvp_081_place_1">Dartmouth College</placeName> in <placeName ref="#dvp_081_place_2">Hanover, New Hampshire</placeName>. Today is <date when="2016-11-07">the 7th of November, 2016</date>. I’m interviewing <persName ref="#dvp_081_person_1">Warren Cook</persName> and this interview is for the <orgName ref="#dvp_081_org_0">Dartmouth Vietnam Project</orgName>. Also, if you ever want to take a break or to stop, just let me know and we can pause this interview.</u>
+      <u who="COOK">Okay. How’s everything in <placeName ref="#dvp_081_place_3">Hanover</placeName>?</u>
       <u who="EVERHARD">Wonderful. It’s a sunny, nice fall day after a couple of weeks’ break.</u>
       <u who="COOK">Good. Glad to hear it.</u>
       <u who="EVERHARD">So, let’s just start off with [inaudible]. Can you tell me a little bit about where and when you were born?</u>
-      <u who="COOK">Well, I was born in <placeName>New York City</placeName> in <date when="1945">1945</date>. But, pretty soon after that, my family, after the war my family moved to <placeName>Williamstown, Massachusetts</placeName>, and that’s where I grew up. We lived on a farm there, and I was pretty much there until I went away to boarding school, and then to <orgName>Dartmouth</orgName>.</u>
+      <u who="COOK">Well, I was born in <placeName ref="#dvp_081_place_4">New York City</placeName> in <date when="1945">1945</date>. But, pretty soon after that, my family, after the war my family moved to <placeName ref="#dvp_081_place_5">Williamstown, Massachusetts</placeName>, and that’s where I grew up. We lived on a farm there, and I was pretty much there until I went away to boarding school, and then to <orgName ref="#dvp_081_org_1">Dartmouth</orgName>.</u>
       <u who="EVERHARD">And what did your parents do?</u>
       <u who="COOK">Well, my mother was the farmer. She ran the farm. We had dairy and chickens, and pretty much everything. And my dad was in the—he ran a manufacturing business there.</u>
       <u who="EVERHARD">And did you have any brothers or sisters?</u>
       <u who="COOK">I had, yeah, five brothers and sisters. Two sisters and three brothers, and I was the oldest.</u>
       <u who="EVERHARD">And what were their names?</u>
-      <u who="COOK">Their names? <persName>Rebecca</persName>, <persName>Jeff</persName>, <persName>Helen</persName>, <persName>Averil</persName> and <persName>Will</persName>.</u>
+      <u who="COOK">Their names? <persName ref="#dvp_081_person_2">Rebecca</persName>, <persName ref="#dvp_081_person_3">Jeff</persName>, <persName ref="#dvp_081_person_4">Helen</persName>, <persName ref="#dvp_081_person_5">Averil</persName> and <persName ref="#dvp_081_person_6">Will</persName>.</u>
       <u who="EVERHARD">And what were your parents’ names?</u>
-      <u who="COOK"><persName>John</persName> and <persName>Helen Cook</persName>.</u>
+      <u who="COOK"><persName ref="#dvp_081_person_7">John</persName> and <persName ref="#dvp_081_person_8">Helen Cook</persName>.</u>
       <u who="EVERHARD">And what do you remember about your childhood?</u>
-      <u who="COOK">Oh, well, I mean, it was a pretty good childhood. I mean, we grew up on the farm, we worked on the farm, went to the local schools. My parents were not the happiest couple in the world. There was quite a bit of drinking. But, outside of that it was a pretty normal upbringing. I did go away to school in the seventh grade, so I was away at school for six years. But, you know, I was pretty fortunate and lived pretty well. I started working pretty young because we lived on this farm, and then I worked at my father’s mill for summers and vacations and that kind of thing. In fact, that’s where I got my first interest in <orgName>the Marine Corps</orgName>, because the guys I worked with, many of them were <orgName>Marines</orgName>, and that had an influence on me. </u>
+      <u who="COOK">Oh, well, I mean, it was a pretty good childhood. I mean, we grew up on the farm, we worked on the farm, went to the local schools. My parents were not the happiest couple in the world. There was quite a bit of drinking. But, outside of that it was a pretty normal upbringing. I did go away to school in the seventh grade, so I was away at school for six years. But, you know, I was pretty fortunate and lived pretty well. I started working pretty young because we lived on this farm, and then I worked at my father’s mill for summers and vacations and that kind of thing. In fact, that’s where I got my first interest in <orgName ref="#dvp_081_org_2">the Marine Corps</orgName>, because the guys I worked with, many of them were <orgName ref="#dvp_081_org_3">Marines</orgName>, and that had an influence on me. </u>
       <u who="EVERHARD">Oh, can you tell me a little bit more about that?</u>
-      <u who="COOK">Well, I just was always impressed with them, and at lunch and that kind of thing they used to talk about their experiences in <name type="event">World War II</name> and <placeName>Korea</placeName>, and so I sort of got it in my mind at a pretty young age that I wanted to join <orgName>the Marine Corps</orgName>.</u>
+      <u who="COOK">Well, I just was always impressed with them, and at lunch and that kind of thing they used to talk about their experiences in <name type="event" ref="#dvp_081_event_0">World War II</name> and <placeName ref="#dvp_081_place_6">Korea</placeName>, and so I sort of got it in my mind at a pretty young age that I wanted to join <orgName ref="#dvp_081_org_4">the Marine Corps</orgName>.</u>
       <u who="EVERHARD">What did you do when you worked at your father’s mill?</u>
-      <u who="COOK">Oh, different jobs. I worked in the shipping department, I worked in the lab, you know, whatever a young kid could do. But I did that quite a bit. And two of the people that I worked for really who were <orgName>Marines</orgName>, they ended up being close friends of mine for the rest of my life. One of them’s still alive. One’s name was <persName>Norm Teatro [spelling unconfirmed]</persName> and the other was a <name type="event">World War II </name> <orgName>Marine</orgName>, and the other was a <persName>Paul Gigliotti</persName>, who was a career <orgName>Marine</orgName>, and he’s still alive, and I talk to him pretty regularly.</u>
+      <u who="COOK">Oh, different jobs. I worked in the shipping department, I worked in the lab, you know, whatever a young kid could do. But I did that quite a bit. And two of the people that I worked for really who were <orgName ref="#dvp_081_org_5">Marines</orgName>, they ended up being close friends of mine for the rest of my life. One of them’s still alive. One’s name was <persName ref="#dvp_081_person_9">Norm Teatro [spelling unconfirmed]</persName> and the other was a <name type="event" ref="#dvp_081_event_1">World War II </name> <orgName ref="#dvp_081_org_6">Marine</orgName>, and the other was a <persName ref="#dvp_081_person_10">Paul Gigliotti</persName>, who was a career <orgName ref="#dvp_081_org_7">Marine</orgName>, and he’s still alive, and I talk to him pretty regularly.</u>
       <u who="EVERHARD">Was your family political at all when you were growing up?</u>
-      <u who="COOK">Not so much, <persName>Emily</persName>. I mean, they were active, smart people. But it wasn’t sort of a—that wasn’t supper table kind of discussion or that kind of thing. Later on my mother and father were actually divorced when I was in college, and I would say she became quite a bit more of an activist in her later life. My dad was, that wasn’t really his thing. They both were pretty involved in <name type="event">World War II</name>. My dad was a—he didn’t fight overseas, but he was in the <orgName>Army</orgName>; he was in <orgName>the Signal Corps</orgName>, and never talked a lot about it, but I certainly knew about it. And my mother worked for <orgName>the War Production Board</orgName>. So, <name type="event">World War II</name> was a pretty significant part of their life together. They were married and lived in <placeName>Washington</placeName> and worked in <placeName>Washington</placeName> during the war. But, I wouldn’t say that—characterize my family as particularly political when I was growing up.</u>
-      <u who="EVERHARD">Yeah, what happened then with the <orgName>Marines</orgName> that you met in the mill? Did they talk a lot about their service and specific politics?</u>
-      <u who="COOK">Well, I mean, the talk was just about how much they loved <orgName>the Marine Corps</orgName>, and they talked about different experiences they had and that kind of thing. But it was kind of, you know, we had a break for lunch and everybody brought their lunch and we kind of sat around. I just listened to them, and obviously that made an impression on me. But, it wasn’t a—it was pretty normal kind of conversation mixed in with a lot of other stuff that was going on, a lot of other subject matter, not political in any way. Just, you know…</u>
+      <u who="COOK">Not so much, <persName ref="#dvp_081_person_11">Emily</persName>. I mean, they were active, smart people. But it wasn’t sort of a—that wasn’t supper table kind of discussion or that kind of thing. Later on my mother and father were actually divorced when I was in college, and I would say she became quite a bit more of an activist in her later life. My dad was, that wasn’t really his thing. They both were pretty involved in <name type="event" ref="#dvp_081_event_2">World War II</name>. My dad was a—he didn’t fight overseas, but he was in the <orgName ref="#dvp_081_org_8">Army</orgName>; he was in <orgName ref="#dvp_081_org_9">the Signal Corps</orgName>, and never talked a lot about it, but I certainly knew about it. And my mother worked for <orgName ref="#dvp_081_org_10">the War Production Board</orgName>. So, <name type="event" ref="#dvp_081_event_3">World War II</name> was a pretty significant part of their life together. They were married and lived in <placeName ref="#dvp_081_place_7">Washington</placeName> and worked in <placeName ref="#dvp_081_place_8">Washington</placeName> during the war. But, I wouldn’t say that—characterize my family as particularly political when I was growing up.</u>
+      <u who="EVERHARD">Yeah, what happened then with the <orgName ref="#dvp_081_org_11">Marines</orgName> that you met in the mill? Did they talk a lot about their service and specific politics?</u>
+      <u who="COOK">Well, I mean, the talk was just about how much they loved <orgName ref="#dvp_081_org_12">the Marine Corps</orgName>, and they talked about different experiences they had and that kind of thing. But it was kind of, you know, we had a break for lunch and everybody brought their lunch and we kind of sat around. I just listened to them, and obviously that made an impression on me. But, it wasn’t a—it was pretty normal kind of conversation mixed in with a lot of other stuff that was going on, a lot of other subject matter, not political in any way. Just, you know…</u>
       <u who="EVERHARD">When you went away to school in seventh grade, can you tell me a little bit about that?</u>
-      <u who="COOK">Well, yeah, I went to <orgName>Groton School [Groton, MA]</orgName>, which is an <orgName>Episcopal church</orgName> school. And went to church every day and twice on Sunday. I didn’t come from a particularly religious family. We did go to church. I went to Sunday school. But I wouldn’t say it was driven by any kind of big commitment to religion. It was just sort of something we did. Anyway, I ended up at this boarding school, which was a church school, and I think the interest there was they wanted me to get quote-unquote “a good education.” And where we lived was pretty rural and the schools were, I think they were perfectly okay, but for whatever reason, they thought I should go to a boarding school. So anyway, that school I would say pretty heavily focused on service, pretty heavily—I mean, <persName>Franklin Roosevelt</persName> went there and a bunch of pretty well-known characters. So, the service aspect of the school made a big impression on me. Our headmaster was quite an activist in the civil rights movement. In fact, <persName>Martin Luther King</persName> came and spoke at the school for three days when I was a senior.</u>
+      <u who="COOK">Well, yeah, I went to <orgName ref="#dvp_081_org_13">Groton School [Groton, MA]</orgName>, which is an <orgName ref="#dvp_081_org_14">Episcopal church</orgName> school. And went to church every day and twice on Sunday. I didn’t come from a particularly religious family. We did go to church. I went to Sunday school. But I wouldn’t say it was driven by any kind of big commitment to religion. It was just sort of something we did. Anyway, I ended up at this boarding school, which was a church school, and I think the interest there was they wanted me to get quote-unquote “a good education.” And where we lived was pretty rural and the schools were, I think they were perfectly okay, but for whatever reason, they thought I should go to a boarding school. So anyway, that school I would say pretty heavily focused on service, pretty heavily—I mean, <persName ref="#dvp_081_person_12">Franklin Roosevelt</persName> went there and a bunch of pretty well-known characters. So, the service aspect of the school made a big impression on me. Our headmaster was quite an activist in the civil rights movement. In fact, <persName ref="#dvp_081_person_13">Martin Luther King</persName> came and spoke at the school for three days when I was a senior.</u>
       <u who="EVERHARD">Wow. Could you tell me a little bit about that?</u>
-      <u who="COOK">Yeah, that was pretty interesting. They would bring in some important type of leader every year for this three-day seminar, and <persName>King</persName> just happened to be the guy my senior year, and he knew our headmaster because he was quite active in the civil rights movement, which is pretty unusual for sort of a rich elitist school in <placeName>New England</placeName>. We had one of the—<orgName>Groton</orgName> was one of the first schools of those type to take a black person, before I got there. It would have happened three or four years before I got there. My class was the first Jewish kid. So, you know, the <persName>King</persName> visit was, I suppose it’s more remarkable now than when I was in school. I mean, civil rights was certainly a major issue at the time, but, you know, we weren’t in the middle of it at all, other than sort of in our classroom and the discussions around campus, and that kind of thing. I didn’t really experience any of that until I got in <orgName>the Marine Corps</orgName>, even though I was well aware of what was going on. And, of course, it amped up more when I was at <orgName>Dartmouth</orgName> and <name type="event">Vietnam</name> was going on. But, at prep school I would say that sort of my views about how I was going to live my life were quite influenced by the teachers and the coaches and the experience I had there, service being sort of at the top of the list. And, in fact, when I was there my senior year, maybe even my junior year, I don’t remember, is when I started to inquire about joining <orgName>the Marine Corps</orgName>. And, in fact, I made a commitment to <orgName>the Marine Corps</orgName> before I graduated from <orgName>Groton</orgName>. So when I got to <orgName>Dartmouth</orgName>, I actually enlisted, but I’d sort of, I don’t know if it was a letter of intent or what, but I told some recruiter that I wanted to do the <orgName>PLC [Platoon Leaders Course] program </orgName>. And I would say quite a bit of that was driven by the sort of the service commitment that was emphasized at <orgName>Groton</orgName>. I had met a few <orgName>Marines</orgName> who had gone to <orgName>Groton</orgName>, in addition to the people I knew at home, so that was somewhat of an influence.</u>
-      <u who="EVERHARD">And can you tell me a little bit about <orgName>PLC</orgName> [inaudible]?</u>
+      <u who="COOK">Yeah, that was pretty interesting. They would bring in some important type of leader every year for this three-day seminar, and <persName ref="#dvp_081_person_14">King</persName> just happened to be the guy my senior year, and he knew our headmaster because he was quite active in the civil rights movement, which is pretty unusual for sort of a rich elitist school in <placeName ref="#dvp_081_place_9">New England</placeName>. We had one of the—<orgName ref="#dvp_081_org_15">Groton</orgName> was one of the first schools of those type to take a black person, before I got there. It would have happened three or four years before I got there. My class was the first Jewish kid. So, you know, the <persName ref="#dvp_081_person_15">King</persName> visit was, I suppose it’s more remarkable now than when I was in school. I mean, civil rights was certainly a major issue at the time, but, you know, we weren’t in the middle of it at all, other than sort of in our classroom and the discussions around campus, and that kind of thing. I didn’t really experience any of that until I got in <orgName ref="#dvp_081_org_16">the Marine Corps</orgName>, even though I was well aware of what was going on. And, of course, it amped up more when I was at <orgName ref="#dvp_081_org_17">Dartmouth</orgName> and <name type="event" ref="#dvp_081_event_4">Vietnam</name> was going on. But, at prep school I would say that sort of my views about how I was going to live my life were quite influenced by the teachers and the coaches and the experience I had there, service being sort of at the top of the list. And, in fact, when I was there my senior year, maybe even my junior year, I don’t remember, is when I started to inquire about joining <orgName ref="#dvp_081_org_18">the Marine Corps</orgName>. And, in fact, I made a commitment to <orgName ref="#dvp_081_org_19">the Marine Corps</orgName> before I graduated from <orgName ref="#dvp_081_org_20">Groton</orgName>. So when I got to <orgName ref="#dvp_081_org_21">Dartmouth</orgName>, I actually enlisted, but I’d sort of, I don’t know if it was a letter of intent or what, but I told some recruiter that I wanted to do the <orgName ref="#dvp_081_org_22">PLC [Platoon Leaders Course] program </orgName>. And I would say quite a bit of that was driven by the sort of the service commitment that was emphasized at <orgName ref="#dvp_081_org_23">Groton</orgName>. I had met a few <orgName ref="#dvp_081_org_24">Marines</orgName> who had gone to <orgName ref="#dvp_081_org_25">Groton</orgName>, in addition to the people I knew at home, so that was somewhat of an influence.</u>
+      <u who="EVERHARD">And can you tell me a little bit about <orgName ref="#dvp_081_org_26">PLC</orgName> [inaudible]?</u>
       <u who="COOK">Right.</u>
       <u who="EVERHARD">And can you tell me a little bit about what that program entailed?</u>
-      <u who="COOK">Well, instead of doing <orgName>ROTC</orgName>, or in the case of <orgName>the Marine Corps</orgName>, <orgName>NROTC</orgName>, which we had at <orgName>Dartmouth</orgName> at the time, I never really thought about that, because I was pretty intent on this <orgName>PLC</orgName> program. And if you sign up as early as I did, you go two summers to boot camp, all volunteer. You can quit at any time. In fact, they try to make you quit. So, I went the summer of my freshman year, and I was miserable. And, you know, you sort of hate it, but you love it. And I got through it, and that was a big deal. And then, my sophomore year you had off, you didn’t have to go, and then I went back in my junior year for the second six weeks. And if you graduated from that, then you were eligible for a commission, which you did or did not have to accept. And I knew two or three people at <orgName>Dartmouth</orgName> that were in the <orgName>PLC program</orgName>, one of whom was a fraternity brother of mine and best friend, older, two classes ahead of me, and he had gone through it.</u>
+      <u who="COOK">Well, instead of doing <orgName ref="#dvp_081_org_27">ROTC</orgName>, or in the case of <orgName ref="#dvp_081_org_28">the Marine Corps</orgName>, <orgName ref="#dvp_081_org_29">NROTC</orgName>, which we had at <orgName ref="#dvp_081_org_30">Dartmouth</orgName> at the time, I never really thought about that, because I was pretty intent on this <orgName ref="#dvp_081_org_31">PLC</orgName> program. And if you sign up as early as I did, you go two summers to boot camp, all volunteer. You can quit at any time. In fact, they try to make you quit. So, I went the summer of my freshman year, and I was miserable. And, you know, you sort of hate it, but you love it. And I got through it, and that was a big deal. And then, my sophomore year you had off, you didn’t have to go, and then I went back in my junior year for the second six weeks. And if you graduated from that, then you were eligible for a commission, which you did or did not have to accept. And I knew two or three people at <orgName ref="#dvp_081_org_32">Dartmouth</orgName> that were in the <orgName ref="#dvp_081_org_33">PLC program</orgName>, one of whom was a fraternity brother of mine and best friend, older, two classes ahead of me, and he had gone through it.</u>
       <u who="EVERHARD">What was his name?</u>
-      <u who="COOK"><persName>Rick Mahoney [’65]</persName>.  He got through it and he refused his commission. He never went in. But anyway, there was quite a few guys in my class who were <orgName>NROTC</orgName> and by senior year had identified the fact that they wanted to take the <orgName>Marine</orgName> option. But I was pretty much, I was sort of separate from those guys, because I was doing the <orgName>PLC</orgName>. And even though we had a <orgName>Marine</orgName> officer that was part of the <orgName>NROTC program</orgName>, I was also connected to him, so I had that connection with the real <orgName>Marine Corps</orgName>, so to speak. And then, of course, all of us came together in June and were commissioned the day before we graduated.</u>
+      <u who="COOK"><persName ref="#dvp_081_person_16">Rick Mahoney [’65]</persName>.  He got through it and he refused his commission. He never went in. But anyway, there was quite a few guys in my class who were <orgName ref="#dvp_081_org_34">NROTC</orgName> and by senior year had identified the fact that they wanted to take the <orgName ref="#dvp_081_org_35">Marine</orgName> option. But I was pretty much, I was sort of separate from those guys, because I was doing the <orgName ref="#dvp_081_org_36">PLC</orgName>. And even though we had a <orgName ref="#dvp_081_org_37">Marine</orgName> officer that was part of the <orgName ref="#dvp_081_org_38">NROTC program</orgName>, I was also connected to him, so I had that connection with the real <orgName ref="#dvp_081_org_39">Marine Corps</orgName>, so to speak. And then, of course, all of us came together in June and were commissioned the day before we graduated.</u>
       <u who="EVERHARD">I see. Can you tell me a little bit more specifically what the summer program entailed?</u>
-      <u who="COOK">Oh, traditional boot camp. Physical, classroom, mental, rifle range, the normal things you go through in a <orgName>Marine</orgName> boot camp.</u>
+      <u who="COOK">Oh, traditional boot camp. Physical, classroom, mental, rifle range, the normal things you go through in a <orgName ref="#dvp_081_org_40">Marine</orgName> boot camp.</u>
       <u who="EVERHARD">And you mentioned that you loved it, but you hated it. What was the most challenging aspect of it?</u>
-      <u who="COOK">Oh, just the daily harassment. They try to break you down and build you back up. Physically it was very hard. But that’s all part of the training. And, you know, you get through it and you could do anything, and that’s what you thought. So, you know, that’s sort of the heart of <orgName>the Marine Corps</orgName> is that training, that initial training you get, and if you get through that, it’s really a big step forward for you, mentally and physically.</u>
+      <u who="COOK">Oh, just the daily harassment. They try to break you down and build you back up. Physically it was very hard. But that’s all part of the training. And, you know, you get through it and you could do anything, and that’s what you thought. So, you know, that’s sort of the heart of <orgName ref="#dvp_081_org_41">the Marine Corps</orgName> is that training, that initial training you get, and if you get through that, it’s really a big step forward for you, mentally and physically.</u>
       <u who="EVERHARD">Definitely. And do you remember where this boot camp was held?</u>
-      <u who="COOK"><placeName>Quantico, Virginia</placeName>.</u>
+      <u who="COOK"><placeName ref="#dvp_081_place_10">Quantico, Virginia</placeName>.</u>
       <u who="EVERHARD">And do you remember the names of anybody that you were in camp with?</u>
       <u who="COOK">At that training, I remember more some of the officers that were in charge of us. I can remember some of them, but that was like <date when="1964">1964</date> and <date when="1966">1966</date>, and I was probably on the younger side of that group. I remember more people that I went through basics school with after I graduated and was commissioned.</u>
-      <u who="EVERHARD">And going back a little bit, I was wondering if I could ask you essentially what led you to choosing to attend <orgName>Dartmouth College</orgName>?</u>
-      <u who="COOK">Yeah. Well, as I said, I grew up in <placeName>Williamstown</placeName>, so I always thought I’d go to <orgName>Williams College</orgName>. I was a hockey player in high school and wanted to play college hockey, and I knew the coach at <orgName>Williams</orgName> since I was a little kid. So that was sort of in my plan. And then, in playing hockey, I ended up going to the first hockey school in <placeName>Minnesota</placeName> that was started by the <orgName>Dartmouth</orgName> coach, a guy named <persName>[Edward J.] Eddie Jeremiah</persName>, when I was like in the probably the ninth grade. It was either the eighth or ninth grade, I can’t remember, when I decided I really wanted to play hockey. So, I had such a good experience that first year that I went back, if not every year, every other year, and ended up working as a counselor at this hockey camp, and then playing summer hockey in <placeName>Minnesota</placeName>. And anyway, when it came around to between my junior and senior year, I like everybody was looking at colleges, and before I left to go back home from the job I had with <persName>Jeremiah</persName>, he said, “Well, where are you gonna go to college?” And I said, “Well, I’ll probably go to <orgName>Williams</orgName>.” And he said, “Well, why aren’t you thinking about <orgName>Dartmouth</orgName>?” And I said, “Well, I’m not sure I could play at the Division One level,” because <orgName>Williams</orgName> is Division Three. And he said, “There’s no question in my mind you could play at Division One, and I’d really like you to go to <orgName>Dartmouth</orgName>.” Well, here’s a young impressionable kid that wants to play college hockey, and <persName>Jeremiah</persName> was kind of a pretty well-known coach, at least in the East. And, so anyway, the other hold back, I guess, was I wasn’t sure I could I could get into <orgName>Dartmouth</orgName>. I had sort of an inside track at <orgName>Williams</orgName> because I lived there, and they looked favorably on local people.And, so anyway, I went to work on my college applications, and applied to <orgName>Dartmouth</orgName> and <orgName>Williams</orgName> and <orgName>Colby [College, Waterville, ME]</orgName> and <orgName>St. Lawrence [University, Canton, NY]</orgName>, and I was pretty heavily recruited by <orgName>Colby</orgName>. I knew the hockey coach there from my summer hockey, and also the director of admissions. So anyway, I ended up getting into all four of the schools, and ended up really deciding against <orgName>Williams</orgName> just because it was in <placeName>Williamstown</placeName>, where I lived, and it was really between <orgName>Dartmouth</orgName> and <orgName>Colby</orgName>, and I decided to give Division One a shot. And, so that was kind of the driver for my decision on the academic side, and some of those kinds of things were certainly in the mix, but I would say the hockey thing was the one that tipped the balance for me.</u>
-      <u who="EVERHARD">Tell me a little bit about your experience on the <orgName>Dartmouth</orgName> hockey team.</u>
-      <u who="COOK">Oh, it was great. I mean, I played four years there, and ended up being captain of the team, and I was <persName>Jeremiah</persName>’s last captain. He died that spring and I was with him when he died and he was like a father to me. And I know I had a great experience, and a lot of my friends to this day are not necessarily just in my class, but in two or three of the classes, actually five of the classes, because you overlapped. And so, it was a pretty important part of my college career. My mother would probably say too important. I mean, I was pretty active on campus and involved in fraternities and <name type="event">Green Key</name> and <orgName>Tucker Foundation</orgName> and a lot of that stuff. But, I also did major in English. So, but the hockey was… and it ended up being I got to know a lot of the hockey alumni and different people through that experience, including Marines actually, through the sort of the athletic network, in fact, one I’m going to spend the <orgName>Marine Corps</orgName> birthday with who’s actually ten years older than I am, but I got to know him through my <orgName>Dartmouth</orgName> hockey and baseball kind of experience.</u>
-      <u who="EVERHARD">And so, kind of just focusing on the time when you were in high school and entering college. [Inaudible] and I was just wondering if you had any memories from when <persName>JFK</persName> was assassinated?</u>
-      <u who="COOK">Absolutely. We were at hockey practice at <placeName>Davis Rink</placeName>. It was like we always practiced before the varsity at like 2:00, and I think he was killed around 3:00, and coach dismissed us and everybody went up to the <placeName>Hopkins [Center]</placeName> to <placeName>Spaulding Auditorium</placeName> to watch what was going on. I think it might have been a Monday afternoon, but I’m not sure.</u>
-      <u who="EVERHARD">And what was it like being at <orgName>Dartmouth</orgName> when they happened? What were students’ reactions?</u>
-      <u who="COOK">Oh, you know, shock, “what’s gonna happen?” Everybody sort of went along with the flow and things got back to normal pretty quickly. But there was definitely a—I mean, the issues were out there on campus. But, you know, we were kind of in a bubble up there, <persName>Emily</persName>. I mean, back then they had something called Great Issues, which was going on. Yeah, they would certainly talk about it in the classroom. I don’t remember specifically the conversations. It was more amongst I guess your classmates and that kind of conversation. But I do remember the afternoon that it happened.</u>
-      <u who="EVERHARD">And what was the general political climate at <orgName>Dartmouth</orgName> the time that you were a student there—or here?</u>
-      <u who="COOK">Oh, I would say moderate to liberal. I’m not even sure that <orgName>Dartmouth’s Review [The Dartmouth Review] </orgName>was around then. I mean, there was certainly a conservative element. I mean, there was two or three professors that were quite conservative and outspoken in their views, <persName>[Vincent] Vince Starzinger</persName> and oh, I don’t know, I can’t remember…<persName>Al Merrill</persName> and...So, you know, I mean, the college was sort of a kaleidoscope for a lot of different ideas, but I would say generally it was a moderate to liberal place in <date when="1964">1964</date>. By the time I was a senior, <placeName>Vietnam</placeName> and the civil rights thing were much more present through all kinds of issues, so it was more present on campus my junior and senior year. And by my senior year, I mean, it was a hot topic, and of course a lot of my classmates were trying to figure out what to do. I mean, there were some people like me who had already committed to the military and <orgName>ROTC</orgName> and <orgName>PLC</orgName> and that kind of thing. And there were guys like my roommates, my buddies, who were trying to decide. In fact, three or four of them decided to join <orgName>the Marine Corps</orgName>, I don’t think because they were particularly hawkish or anything like that. They just felt service was an important thing, and <orgName>the Marine Corps</orgName> was a good option for them.So, those of us who were sort of thinking that way, me in particular, I never really got involved in the debate, because I’d sort of had a plan and this was what I was going to do. And, you know, I didn’t get any kind of flack from any of my roommates or friends or that kind of thing. We talked about it a little, but it wasn’t sort of front and center, at least in my group. It was more—that kind of debate was more at my home, my family, because my brothers and sisters were younger and my mother, as I mentioned earlier, was more of an activist then, and she did not like what I was doing. And as a result of what she felt, my brothers and sisters, same way.</u>
+      <u who="EVERHARD">And going back a little bit, I was wondering if I could ask you essentially what led you to choosing to attend <orgName ref="#dvp_081_org_42">Dartmouth College</orgName>?</u>
+      <u who="COOK">Yeah. Well, as I said, I grew up in <placeName ref="#dvp_081_place_11">Williamstown</placeName>, so I always thought I’d go to <orgName ref="#dvp_081_org_43">Williams College</orgName>. I was a hockey player in high school and wanted to play college hockey, and I knew the coach at <orgName ref="#dvp_081_org_44">Williams</orgName> since I was a little kid. So that was sort of in my plan. And then, in playing hockey, I ended up going to the first hockey school in <placeName ref="#dvp_081_place_12">Minnesota</placeName> that was started by the <orgName ref="#dvp_081_org_45">Dartmouth</orgName> coach, a guy named <persName ref="#dvp_081_person_17">[Edward J.] Eddie Jeremiah</persName>, when I was like in the probably the ninth grade. It was either the eighth or ninth grade, I can’t remember, when I decided I really wanted to play hockey. So, I had such a good experience that first year that I went back, if not every year, every other year, and ended up working as a counselor at this hockey camp, and then playing summer hockey in <placeName ref="#dvp_081_place_13">Minnesota</placeName>. And anyway, when it came around to between my junior and senior year, I like everybody was looking at colleges, and before I left to go back home from the job I had with <persName ref="#dvp_081_person_18">Jeremiah</persName>, he said, “Well, where are you gonna go to college?” And I said, “Well, I’ll probably go to <orgName ref="#dvp_081_org_46">Williams</orgName>.” And he said, “Well, why aren’t you thinking about <orgName ref="#dvp_081_org_47">Dartmouth</orgName>?” And I said, “Well, I’m not sure I could play at the Division One level,” because <orgName ref="#dvp_081_org_48">Williams</orgName> is Division Three. And he said, “There’s no question in my mind you could play at Division One, and I’d really like you to go to <orgName ref="#dvp_081_org_49">Dartmouth</orgName>.” Well, here’s a young impressionable kid that wants to play college hockey, and <persName ref="#dvp_081_person_19">Jeremiah</persName> was kind of a pretty well-known coach, at least in the East. And, so anyway, the other hold back, I guess, was I wasn’t sure I could I could get into <orgName ref="#dvp_081_org_50">Dartmouth</orgName>. I had sort of an inside track at <orgName ref="#dvp_081_org_51">Williams</orgName> because I lived there, and they looked favorably on local people.And, so anyway, I went to work on my college applications, and applied to <orgName ref="#dvp_081_org_52">Dartmouth</orgName> and <orgName ref="#dvp_081_org_53">Williams</orgName> and <orgName ref="#dvp_081_org_54">Colby [College, Waterville, ME]</orgName> and <orgName ref="#dvp_081_org_55">St. Lawrence [University, Canton, NY]</orgName>, and I was pretty heavily recruited by <orgName ref="#dvp_081_org_56">Colby</orgName>. I knew the hockey coach there from my summer hockey, and also the director of admissions. So anyway, I ended up getting into all four of the schools, and ended up really deciding against <orgName ref="#dvp_081_org_57">Williams</orgName> just because it was in <placeName ref="#dvp_081_place_14">Williamstown</placeName>, where I lived, and it was really between <orgName ref="#dvp_081_org_58">Dartmouth</orgName> and <orgName ref="#dvp_081_org_59">Colby</orgName>, and I decided to give Division One a shot. And, so that was kind of the driver for my decision on the academic side, and some of those kinds of things were certainly in the mix, but I would say the hockey thing was the one that tipped the balance for me.</u>
+      <u who="EVERHARD">Tell me a little bit about your experience on the <orgName ref="#dvp_081_org_60">Dartmouth</orgName> hockey team.</u>
+      <u who="COOK">Oh, it was great. I mean, I played four years there, and ended up being captain of the team, and I was <persName ref="#dvp_081_person_20">Jeremiah</persName>’s last captain. He died that spring and I was with him when he died and he was like a father to me. And I know I had a great experience, and a lot of my friends to this day are not necessarily just in my class, but in two or three of the classes, actually five of the classes, because you overlapped. And so, it was a pretty important part of my college career. My mother would probably say too important. I mean, I was pretty active on campus and involved in fraternities and <name type="event" ref="#dvp_081_event_5">Green Key</name> and <orgName ref="#dvp_081_org_61">Tucker Foundation</orgName> and a lot of that stuff. But, I also did major in English. So, but the hockey was… and it ended up being I got to know a lot of the hockey alumni and different people through that experience, including Marines actually, through the sort of the athletic network, in fact, one I’m going to spend the <orgName ref="#dvp_081_org_62">Marine Corps</orgName> birthday with who’s actually ten years older than I am, but I got to know him through my <orgName ref="#dvp_081_org_63">Dartmouth</orgName> hockey and baseball kind of experience.</u>
+      <u who="EVERHARD">And so, kind of just focusing on the time when you were in high school and entering college. [Inaudible] and I was just wondering if you had any memories from when <persName ref="#dvp_081_person_21">JFK</persName> was assassinated?</u>
+      <u who="COOK">Absolutely. We were at hockey practice at <placeName ref="#dvp_081_place_15">Davis Rink</placeName>. It was like we always practiced before the varsity at like 2:00, and I think he was killed around 3:00, and coach dismissed us and everybody went up to the <placeName ref="#dvp_081_place_16">Hopkins [Center]</placeName> to <placeName ref="#dvp_081_place_17">Spaulding Auditorium</placeName> to watch what was going on. I think it might have been a Monday afternoon, but I’m not sure.</u>
+      <u who="EVERHARD">And what was it like being at <orgName ref="#dvp_081_org_64">Dartmouth</orgName> when they happened? What were students’ reactions?</u>
+      <u who="COOK">Oh, you know, shock, “what’s gonna happen?” Everybody sort of went along with the flow and things got back to normal pretty quickly. But there was definitely a—I mean, the issues were out there on campus. But, you know, we were kind of in a bubble up there, <persName ref="#dvp_081_person_22">Emily</persName>. I mean, back then they had something called Great Issues, which was going on. Yeah, they would certainly talk about it in the classroom. I don’t remember specifically the conversations. It was more amongst I guess your classmates and that kind of conversation. But I do remember the afternoon that it happened.</u>
+      <u who="EVERHARD">And what was the general political climate at <orgName ref="#dvp_081_org_65">Dartmouth</orgName> the time that you were a student there—or here?</u>
+      <u who="COOK">Oh, I would say moderate to liberal. I’m not even sure that <orgName ref="#dvp_081_org_66">Dartmouth’s Review [The Dartmouth Review] </orgName>was around then. I mean, there was certainly a conservative element. I mean, there was two or three professors that were quite conservative and outspoken in their views, <persName ref="#dvp_081_person_23">[Vincent] Vince Starzinger</persName> and oh, I don’t know, I can’t remember…<persName ref="#dvp_081_person_24">Al Merrill</persName> and...So, you know, I mean, the college was sort of a kaleidoscope for a lot of different ideas, but I would say generally it was a moderate to liberal place in <date when="1964">1964</date>. By the time I was a senior, <placeName ref="#dvp_081_place_18">Vietnam</placeName> and the civil rights thing were much more present through all kinds of issues, so it was more present on campus my junior and senior year. And by my senior year, I mean, it was a hot topic, and of course a lot of my classmates were trying to figure out what to do. I mean, there were some people like me who had already committed to the military and <orgName ref="#dvp_081_org_67">ROTC</orgName> and <orgName ref="#dvp_081_org_68">PLC</orgName> and that kind of thing. And there were guys like my roommates, my buddies, who were trying to decide. In fact, three or four of them decided to join <orgName ref="#dvp_081_org_69">the Marine Corps</orgName>, I don’t think because they were particularly hawkish or anything like that. They just felt service was an important thing, and <orgName ref="#dvp_081_org_70">the Marine Corps</orgName> was a good option for them.So, those of us who were sort of thinking that way, me in particular, I never really got involved in the debate, because I’d sort of had a plan and this was what I was going to do. And, you know, I didn’t get any kind of flack from any of my roommates or friends or that kind of thing. We talked about it a little, but it wasn’t sort of front and center, at least in my group. It was more—that kind of debate was more at my home, my family, because my brothers and sisters were younger and my mother, as I mentioned earlier, was more of an activist then, and she did not like what I was doing. And as a result of what she felt, my brothers and sisters, same way.</u>
       <u who="EVERHARD">Well, were they anti-war or did they just not want you to go?</u>
-      <u who="COOK">I don’t think they knew what they were, but my mother was clearly anti the <placeName>Vietnam</placeName> thing.</u>
-      <u who="EVERHARD">When you joined the <orgName>PLC</orgName>, did you have any—did you know that you were going to serve overseas or did you think that this was going to happen?</u>
+      <u who="COOK">I don’t think they knew what they were, but my mother was clearly anti the <placeName ref="#dvp_081_place_19">Vietnam</placeName> thing.</u>
+      <u who="EVERHARD">When you joined the <orgName ref="#dvp_081_org_71">PLC</orgName>, did you have any—did you know that you were going to serve overseas or did you think that this was going to happen?</u>
       <u who="COOK">In <date when="1963">1963</date>? No way. Nobody did. I mean, it wasn’t even on our radar until <date when="1965">’65</date>.</u>
-      <u who="EVERHARD">And what did you envision your <orgName>Marine Corps</orgName> service looking like when you first joined?</u>
-      <u who="COOK">Serve at the pleasure of the President. I was doing my service. I felt that was an important… I mean, that was the driver for me. <orgName>Military</orgName> service I felt was an important part of my sort of life plan.</u>
-      <u who="EVERHARD">And what was it like when you started to become more aware of the conflict in <placeName>Vietnam</placeName> and <name type="event">the Vietnam War</name>?</u>
-      <u who="COOK">You know, <persName>Emily</persName>, I never questioned my role or what I was doing until my roommate was killed the summer of <date when="1968">’68</date> when I was still in the basics school. I mean, he was my best friend. He joined <orgName>the Marine Corps</orgName> in part because of me. I’d see him at the basics school. He was two classes ahead of me. And, you know, after he was killed I said, What the hell am I doing? And how can I make this…So, you know, that sort of was the frame of mind I had when I went to <placeName>Vietnam</placeName>, and I sort of made up my mind from people I talked to and what I knew that I needed to go over there and lead <orgName>Marines</orgName> and take care of my <orgName>Marines</orgName>. And it was more that than it was really fighting Communism or anything like that was never on my radar. </u>
-      <u who="EVERHARD">Well, going back just a little bit, let’s go back to the date you graduated from <orgName>Dartmouth</orgName>. Can you tell me a little bit about that day and what happened afterwards?</u>
-      <u who="COOK">Yeah. I mean, I got commissioned the day before, and then we graduated the day before that. We had the funeral for my hockey coach. So, it was kind of a big weekend. But, I got selected to try out for the Olympic hockey team that spring. So, even though I was commissioned in June, I wasn’t going to go to basics school. My orders were to go to basics school right after the <name type="event">Olympics</name> were over in <date when="1968-03">March of 1968</date>. So, right after I graduated, I went to <placeName>Minnesota</placeName> to train with the hockey team through the summer and fall, and I actually was cut from the team right before they went over to <placeName>Grenoble [France]</placeName> for the <name type="event">Olympics</name>. And by that time, <orgName>the Marine Corps</orgName> had scheduled me to go to basics school in <date when="1968-03">March</date>, so I actually went over with the team and went to the <name type="event">Olympics</name>, even though I didn’t play. </u>
+      <u who="EVERHARD">And what did you envision your <orgName ref="#dvp_081_org_72">Marine Corps</orgName> service looking like when you first joined?</u>
+      <u who="COOK">Serve at the pleasure of the President. I was doing my service. I felt that was an important… I mean, that was the driver for me. <orgName ref="#dvp_081_org_73">Military</orgName> service I felt was an important part of my sort of life plan.</u>
+      <u who="EVERHARD">And what was it like when you started to become more aware of the conflict in <placeName ref="#dvp_081_place_20">Vietnam</placeName> and <name type="event" ref="#dvp_081_event_6">the Vietnam War</name>?</u>
+      <u who="COOK">You know, <persName ref="#dvp_081_person_25">Emily</persName>, I never questioned my role or what I was doing until my roommate was killed the summer of <date when="1968">’68</date> when I was still in the basics school. I mean, he was my best friend. He joined <orgName ref="#dvp_081_org_74">the Marine Corps</orgName> in part because of me. I’d see him at the basics school. He was two classes ahead of me. And, you know, after he was killed I said, What the hell am I doing? And how can I make this…So, you know, that sort of was the frame of mind I had when I went to <placeName ref="#dvp_081_place_21">Vietnam</placeName>, and I sort of made up my mind from people I talked to and what I knew that I needed to go over there and lead <orgName ref="#dvp_081_org_75">Marines</orgName> and take care of my <orgName ref="#dvp_081_org_76">Marines</orgName>. And it was more that than it was really fighting Communism or anything like that was never on my radar. </u>
+      <u who="EVERHARD">Well, going back just a little bit, let’s go back to the date you graduated from <orgName ref="#dvp_081_org_77">Dartmouth</orgName>. Can you tell me a little bit about that day and what happened afterwards?</u>
+      <u who="COOK">Yeah. I mean, I got commissioned the day before, and then we graduated the day before that. We had the funeral for my hockey coach. So, it was kind of a big weekend. But, I got selected to try out for the Olympic hockey team that spring. So, even though I was commissioned in June, I wasn’t going to go to basics school. My orders were to go to basics school right after the <name type="event" ref="#dvp_081_event_7">Olympics</name> were over in <date when="1968-03">March of 1968</date>. So, right after I graduated, I went to <placeName ref="#dvp_081_place_22">Minnesota</placeName> to train with the hockey team through the summer and fall, and I actually was cut from the team right before they went over to <placeName ref="#dvp_081_place_23">Grenoble [France]</placeName> for the <name type="event" ref="#dvp_081_event_8">Olympics</name>. And by that time, <orgName ref="#dvp_081_org_78">the Marine Corps</orgName> had scheduled me to go to basics school in <date when="1968-03">March</date>, so I actually went over with the team and went to the <name type="event" ref="#dvp_081_event_9">Olympics</name>, even though I didn’t play. </u>
       <u who="EVERHARD">And then, can you tell me a bit about when you started basics school?</u>
-      <u who="COOK">Yeah. So I came back, oh, I don’t know it was late <date when="1986-02">February</date>, I guess. I hung around over there for a while and then came back, and went to basics school the <date when="1968-03-01">1st of March</date>, and they’d stepped up the training or they condensed the training to get more people trained and out the door. So I was basically scheduled to be there for five months. And, you know, you went through the regular officer training, six days a week, and I had a girlfriend in <placeName>Washington</placeName>, and drove back and forth. And we were just doing our work, and obviously we were quite aware of a lot of the things that were going on. <persName>Martin Luther King</persName> was killed that spring. <persName>Bobby Kennedy</persName> was killed that summer. <placeName>Washington, DC</placeName> was occupied by <orgName>the National Guard</orgName>. <persName>[President Lyndon B.] Johnson</persName>, when I was at basics school, announced that he wasn’t going to run for re-election. And the thing was, you know, the country’s a mess, and there was all this protesting and all this going on. And then, all of us at that point looked for ways to delay our deployment and apply for schools after we got through the basics school. And I actually applied for language school at <placeName>Monterrey, California</placeName>, and they ended up sending me to <orgName>Special Warfare School</orgName> at <placeName>Fort Bragg, North Carolina</placeName>.</u>
+      <u who="COOK">Yeah. So I came back, oh, I don’t know it was late <date when="1986-02">February</date>, I guess. I hung around over there for a while and then came back, and went to basics school the <date when="1968-03-01">1st of March</date>, and they’d stepped up the training or they condensed the training to get more people trained and out the door. So I was basically scheduled to be there for five months. And, you know, you went through the regular officer training, six days a week, and I had a girlfriend in <placeName ref="#dvp_081_place_24">Washington</placeName>, and drove back and forth. And we were just doing our work, and obviously we were quite aware of a lot of the things that were going on. <persName ref="#dvp_081_person_26">Martin Luther King</persName> was killed that spring. <persName ref="#dvp_081_person_27">Bobby Kennedy</persName> was killed that summer. <placeName ref="#dvp_081_place_25">Washington, DC</placeName> was occupied by <orgName ref="#dvp_081_org_79">the National Guard</orgName>. <persName ref="#dvp_081_person_28">[President Lyndon B.] Johnson</persName>, when I was at basics school, announced that he wasn’t going to run for re-election. And the thing was, you know, the country’s a mess, and there was all this protesting and all this going on. And then, all of us at that point looked for ways to delay our deployment and apply for schools after we got through the basics school. And I actually applied for language school at <placeName ref="#dvp_081_place_26">Monterrey, California</placeName>, and they ended up sending me to <orgName ref="#dvp_081_org_80">Special Warfare School</orgName> at <placeName ref="#dvp_081_place_27">Fort Bragg, North Carolina</placeName>.</u>
       <u who="EVERHARD">What was that like?</u>
       <u who="COOK">So I went down there for three months, beginning in September—late August, I guess. It was actually more like four months. </u>
       <u who="EVERHARD">What language did you learn?</u>
-      <u who="COOK">Oh, I didn’t go to language school. They sent me to <orgName>Special Warfare School</orgName>, which was to study counterinsurgency, which was a pretty appropriate thing to study, given that that’s what we were fighting. So I was an infantry officer, but I had a secondary MLS [Military Science degree] in psychological operations and counterinsurgency.</u>
-      <u who="EVERHARD">Was that after you were at <placeName>Fort Bragg</placeName>?</u>
-      <u who="COOK">Well, I had a month’s leave, which I actually took in <placeName>Europe</placeName>. I went over and skied because I didn’t want to hang around home and listen to everybody. And I came back the 1st of January and flew out the 5th of January.</u>
-      <u who="EVERHARD">What was the general sentiment around the other <orgName>Marines</orgName>? You said that your family wasn’t very supportive, but did you feel like the <orgName>Marines</orgName> were supportive of each other?</u>
+      <u who="COOK">Oh, I didn’t go to language school. They sent me to <orgName ref="#dvp_081_org_81">Special Warfare School</orgName>, which was to study counterinsurgency, which was a pretty appropriate thing to study, given that that’s what we were fighting. So I was an infantry officer, but I had a secondary MLS [Military Science degree] in psychological operations and counterinsurgency.</u>
+      <u who="EVERHARD">Was that after you were at <placeName ref="#dvp_081_place_28">Fort Bragg</placeName>?</u>
+      <u who="COOK">Well, I had a month’s leave, which I actually took in <placeName ref="#dvp_081_place_29">Europe</placeName>. I went over and skied because I didn’t want to hang around home and listen to everybody. And I came back the 1st of January and flew out the 5th of January.</u>
+      <u who="EVERHARD">What was the general sentiment around the other <orgName ref="#dvp_081_org_82">Marines</orgName>? You said that your family wasn’t very supportive, but did you feel like the <orgName ref="#dvp_081_org_83">Marines</orgName> were supportive of each other?</u>
       <u who="COOK">Oh, yeah, no question. I mean, that was the whole sort of MO. I mean, whether you knew them or not, you had a connection with them, and a lot of guys that I knew were already over there. So I was going over when friends that I’d gone to college with or had gone to training with were already in country.</u>
       <u who="EVERHARD">Did you have any communication with them?</u>
       <u who="COOK">When I got over there, I did, yeah. I mean, they were in the field, and my communications weren’t very good, but once you got over there, I mean, it was a pretty small world and you could track down pretty much anybody.</u>
       <u who="EVERHARD">Do you remember their names?</u>
-      <u who="COOK">Well, yeah. I mean, two of them were <orgName>Dartmouth</orgName> classmates, <persName>Bill Jevne</persName> was a ’66 and <persName>Bill Engster</persName> was a ’67. Those are two in particular. And another guy I went to basics school with, a guy named <persName>Doug Cazort</persName>. He went to <orgName>Vanderbilt</orgName>, I think. I mean, those were three in particular, but there was other guys that I knew over there. But those were three people that I saw. Actually, one other guy named <persName>Ed Bailey</persName>, who I went to <orgName>Special Warfare School</orgName> with. Those are four people that I saw quite a bit when I was over there. One of them I actually worked with. <persName>Bailey</persName>, he got shot up pretty early after I got there, and so the only time I really saw him was at the naval hospital, and then I helped put him on a medevac back to the <placeName>States</placeName>.</u>
-      <u who="EVERHARD">Just going back a little bit, can you tell me about what it was like when you first arrived in <placeName>Vietnam</placeName>?</u>
-      <u who="COOK">[Laughter] Yeah, it was at the terminal, dusty, and somebody called your name and said, “You’re going here, Lieutenant. Hang around. Catch a flight when it’s going north ‘cause you’re going north.” And I had my orders and I was going up to a battalion up near the <placeName>DMZ [Demilitarized Zone]</placeName>. That happened all within 12 hours of when I got there.</u>
+      <u who="COOK">Well, yeah. I mean, two of them were <orgName ref="#dvp_081_org_84">Dartmouth</orgName> classmates, <persName ref="#dvp_081_person_29">Bill Jevne</persName> was a ’66 and <persName ref="#dvp_081_person_30">Bill Engster</persName> was a ’67. Those are two in particular. And another guy I went to basics school with, a guy named <persName ref="#dvp_081_person_31">Doug Cazort</persName>. He went to <orgName ref="#dvp_081_org_85">Vanderbilt</orgName>, I think. I mean, those were three in particular, but there was other guys that I knew over there. But those were three people that I saw. Actually, one other guy named <persName ref="#dvp_081_person_32">Ed Bailey</persName>, who I went to <orgName ref="#dvp_081_org_86">Special Warfare School</orgName> with. Those are four people that I saw quite a bit when I was over there. One of them I actually worked with. <persName ref="#dvp_081_person_33">Bailey</persName>, he got shot up pretty early after I got there, and so the only time I really saw him was at the naval hospital, and then I helped put him on a medevac back to the <placeName ref="#dvp_081_place_30">States</placeName>.</u>
+      <u who="EVERHARD">Just going back a little bit, can you tell me about what it was like when you first arrived in <placeName ref="#dvp_081_place_31">Vietnam</placeName>?</u>
+      <u who="COOK">[Laughter] Yeah, it was at the terminal, dusty, and somebody called your name and said, “You’re going here, Lieutenant. Hang around. Catch a flight when it’s going north ‘cause you’re going north.” And I had my orders and I was going up to a battalion up near the <placeName ref="#dvp_081_place_32">DMZ [Demilitarized Zone]</placeName>. That happened all within 12 hours of when I got there.</u>
       <u who="EVERHARD">Do you remember what emotions you were feeling?</u>
-      <u who="COOK">I was kind of numb, <persName>Emily</persName>. It was just sort of a blur. I really didn’t take stock of it all until the next day when I was at this fire support base where my unit was based, out along <placeName>Route 9</placeName> below the <placeName>DMZ</placeName>. And then we went right to work. I mean, we were—I was the platoon commander. You know, we went right into, in this case we were basically doing night patrolling for, I don’t know, the next month or so.</u>
+      <u who="COOK">I was kind of numb, <persName ref="#dvp_081_person_34">Emily</persName>. It was just sort of a blur. I really didn’t take stock of it all until the next day when I was at this fire support base where my unit was based, out along <placeName ref="#dvp_081_place_33">Route 9</placeName> below the <placeName ref="#dvp_081_place_34">DMZ</placeName>. And then we went right to work. I mean, we were—I was the platoon commander. You know, we went right into, in this case we were basically doing night patrolling for, I don’t know, the next month or so.</u>
       <u who="EVERHARD">And can you tell me about what night patrolling you do?</u>
       <u who="COOK">What we did? We went out and looked for the enemy. Every night we’d have a, based on intelligence and that kind of thing you’d go out and try to find out where they were, and sometimes you had contact, sometimes you didn’t. But it was basically a—it wasn’t any kind of a, initially it wasn’t any kind of a—it was just sort of a maintenance operation, because there was no particular attack operation that was going on at that particular time when I got there. Later on we got involved in a fairly large operation across that part of the area of operation, and then we moved around some.</u>
       <u who="EVERHARD">Can you tell me a bit about what happened when you got involved in a major operation?</u>
-      <u who="COOK">Well, I mean, each of us would be assigned a particular route of march and particular objective that we would have to take, and usually it was a company size operation that would be given these objectives, and when you would go out—I did not see a lot of contact during that time. You know, small arms fire, that kind of thing. But we never got in any major firefight for my three-and-a-half months with the <orgName>2nd Battalion</orgName>, <orgName>4th Marines</orgName>. So I didn’t get in any kind of big fight.</u>
+      <u who="COOK">Well, I mean, each of us would be assigned a particular route of march and particular objective that we would have to take, and usually it was a company size operation that would be given these objectives, and when you would go out—I did not see a lot of contact during that time. You know, small arms fire, that kind of thing. But we never got in any major firefight for my three-and-a-half months with the <orgName ref="#dvp_081_org_87">2nd Battalion</orgName>, <orgName ref="#dvp_081_org_88">4th Marines</orgName>. So I didn’t get in any kind of big fight.</u>
       <u who="EVERHARD">And can you just tell me a little bit about the responsibilities of being a platoon commander?</u>
-      <u who="COOK">Well, I mean, other than carrying out the particular order of the day, which as I said mostly was night patrolling, just the care and feeding of your <orgName>Marines</orgName> and making sure everybody was okay and had the right kind of supplies, and we were always preparing for some kind of operation on the one hand or attack on the other hand. And, you know, we were a part of a much larger division operation up there and, but my job was to take care of my 44 plus or minus men.</u>
+      <u who="COOK">Well, I mean, other than carrying out the particular order of the day, which as I said mostly was night patrolling, just the care and feeding of your <orgName ref="#dvp_081_org_89">Marines</orgName> and making sure everybody was okay and had the right kind of supplies, and we were always preparing for some kind of operation on the one hand or attack on the other hand. And, you know, we were a part of a much larger division operation up there and, but my job was to take care of my 44 plus or minus men.</u>
       <u who="EVERHARD">And what was your base like?</u>
-      <u who="COOK">Oh, it was just a sort of a small hill with a bunch of crates and sort of half-baked tents, shelters from the sun or the rain, whatever was going on. Pretty modest. There was a perimeter with sandbags and trenches and that kind of thing. But, it was a fairly rough kind of thing. And as I said, we were pretty much there for, oh, four or five weeks, and then we would move to similar types of locations along Route 9, which as I said was below the <placeName>DMZ</placeName>.</u>
+      <u who="COOK">Oh, it was just a sort of a small hill with a bunch of crates and sort of half-baked tents, shelters from the sun or the rain, whatever was going on. Pretty modest. There was a perimeter with sandbags and trenches and that kind of thing. But, it was a fairly rough kind of thing. And as I said, we were pretty much there for, oh, four or five weeks, and then we would move to similar types of locations along Route 9, which as I said was below the <placeName ref="#dvp_081_place_35">DMZ</placeName>.</u>
       <u who="EVERHARD">Now, what was day-to-day base life like?</u>
-      <u who="COOK">Pretty boring. I mean, you had to keep everybody rested during the day and you had to keep everybody pretty sharp. You know, you put out perimeters, security perimeters, that kind of thing. But, unless there was real contact with the enemy, it was pretty routine. Some of the, you know, you’d go into villages and do that kind of thing, but it was all pretty routine kind of stuff. And, so my time with the platoon, and I actually was an ops O for the company for, oh, I guess six weeks or so, and then I got transferred back down to <placeName>Da Nang</placeName>, where I based with two different jobs for the rest of my tour, using my psychological operations. I worked with a special operations group and I was the sort of the psychological operations counterinsurgency part of the team that, depending on where the team went, I would be advising them on how we would use those particular strategies. And we worked with a bunch of different agencies, <orgName>Phoenix</orgName> and the <orgName>USAID</orgName> and <orgName>Army</orgName>, and because <placeName>Da Nang</placeName> was kind of the command quarters for all of the area that I served in, which was the northern part of <placeName>South Vietnam</placeName>, so-called <placeName>I Corps</placeName>.</u>
+      <u who="COOK">Pretty boring. I mean, you had to keep everybody rested during the day and you had to keep everybody pretty sharp. You know, you put out perimeters, security perimeters, that kind of thing. But, unless there was real contact with the enemy, it was pretty routine. Some of the, you know, you’d go into villages and do that kind of thing, but it was all pretty routine kind of stuff. And, so my time with the platoon, and I actually was an ops O for the company for, oh, I guess six weeks or so, and then I got transferred back down to <placeName ref="#dvp_081_place_36">Da Nang</placeName>, where I based with two different jobs for the rest of my tour, using my psychological operations. I worked with a special operations group and I was the sort of the psychological operations counterinsurgency part of the team that, depending on where the team went, I would be advising them on how we would use those particular strategies. And we worked with a bunch of different agencies, <orgName ref="#dvp_081_org_90">Phoenix</orgName> and the <orgName ref="#dvp_081_org_91">USAID</orgName> and <orgName ref="#dvp_081_org_92">Army</orgName>, and because <placeName ref="#dvp_081_place_37">Da Nang</placeName> was kind of the command quarters for all of the area that I served in, which was the northern part of <placeName ref="#dvp_081_place_38">South Vietnam</placeName>, so-called <placeName ref="#dvp_081_place_39">I Corps</placeName>.</u>
       <u who="EVERHARD">And did you feel like your [inaudible]? </u>
-      <u who="COOK">Well, I knew that the counterinsurgency is the way we should fight the war, just from an intellectual strategic standpoint, and the unit I worked with was doing that kind of thing. But, the general conduct of the war, even with the <orgName>Marines</orgName> with one exception, was pretty much conventional, so-called search and destroy. The one exception was an operation that the <orgName>Marines</orgName> started called <orgName>Combined Action Program</orgName>, where <orgName>Marine</orgName> units would work with basically the villages, the locals, to fight the enemy, a little bit like what happened in <placeName>Iraq</placeName>. After the initial screw-ups, they went to more of a socalled <orgName>COIN [counterinsurgency] strategy</orgName>, and a lot of that came out of the lessons learned from <placeName>Vietnam</placeName>. Unfortunately, it didn’t get used very well in the beginning and got us into the mess we’re in now. But, so from that standpoint, yeah, I was pretty motivated by it, but at the same time I was kind of discouraged because that really wasn’t—I mean, there was an element of <orgName>the Marine Corps</orgName> was doing it, but the conventional <orgName>Marine Corps</orgName> wasn’t doing it, and the <orgName>Army</orgName> certainly wasn’t doing it. <orgName>Navy</orgName> was doing it a little bit down in…</u>
+      <u who="COOK">Well, I knew that the counterinsurgency is the way we should fight the war, just from an intellectual strategic standpoint, and the unit I worked with was doing that kind of thing. But, the general conduct of the war, even with the <orgName ref="#dvp_081_org_93">Marines</orgName> with one exception, was pretty much conventional, so-called search and destroy. The one exception was an operation that the <orgName ref="#dvp_081_org_94">Marines</orgName> started called <orgName ref="#dvp_081_org_95">Combined Action Program</orgName>, where <orgName ref="#dvp_081_org_96">Marine</orgName> units would work with basically the villages, the locals, to fight the enemy, a little bit like what happened in <placeName ref="#dvp_081_place_40">Iraq</placeName>. After the initial screw-ups, they went to more of a socalled <orgName ref="#dvp_081_org_97">COIN [counterinsurgency] strategy</orgName>, and a lot of that came out of the lessons learned from <placeName ref="#dvp_081_place_41">Vietnam</placeName>. Unfortunately, it didn’t get used very well in the beginning and got us into the mess we’re in now. But, so from that standpoint, yeah, I was pretty motivated by it, but at the same time I was kind of discouraged because that really wasn’t—I mean, there was an element of <orgName ref="#dvp_081_org_98">the Marine Corps</orgName> was doing it, but the conventional <orgName ref="#dvp_081_org_99">Marine Corps</orgName> wasn’t doing it, and the <orgName ref="#dvp_081_org_100">Army</orgName> certainly wasn’t doing it. <orgName ref="#dvp_081_org_101">Navy</orgName> was doing it a little bit down in…</u>
       <u who="EVERHARD">Were you frustrated with the way the war was being fought?</u>
-      <u who="COOK">Oh, yeah. I mean, a lot of people were getting killed. And as I told you, I mean, I went into it with a pretty suspect view. My best friend, a <orgName>Marine</orgName> platoon commander, was killed two weeks after he got over there.</u>
-      <u who="EVERHARD"><persName>Bill Smoyer [William Smoyer ‘67]</persName>?</u>
-      <u who="COOK">Yeah, <persName>Bill</persName>, yeah. But at the same time, I’d made up my mind that I was going to do my job and take care of my <orgName>Marines</orgName>. And that was sort of the motivating factor, as well as trying to stay alive.</u>
-      <u who="EVERHARD">Yeah, absolutely. And did you ever feel like your life was in danger when you were in <placeName>Vietnam</placeName>?</u>
+      <u who="COOK">Oh, yeah. I mean, a lot of people were getting killed. And as I told you, I mean, I went into it with a pretty suspect view. My best friend, a <orgName ref="#dvp_081_org_102">Marine</orgName> platoon commander, was killed two weeks after he got over there.</u>
+      <u who="EVERHARD"><persName ref="#dvp_081_person_35">Bill Smoyer [William Smoyer ‘67]</persName>?</u>
+      <u who="COOK">Yeah, <persName ref="#dvp_081_person_36">Bill</persName>, yeah. But at the same time, I’d made up my mind that I was going to do my job and take care of my <orgName ref="#dvp_081_org_103">Marines</orgName>. And that was sort of the motivating factor, as well as trying to stay alive.</u>
+      <u who="EVERHARD">Yeah, absolutely. And did you ever feel like your life was in danger when you were in <placeName ref="#dvp_081_place_42">Vietnam</placeName>?</u>
       <u who="COOK">Two times, yeah.</u>
       <u who="EVERHARD">Can you tell me about them?</u>
-      <u who="COOK">Well, we got caught out one time when we were on patrol when I was working out of <placeName>Da Nang</placeName>, and we got disconnected from them out in the “Indian Country,” and we didn’t know if we were going to get back or not. There was two different incidents like that where I just didn’t know whether I was going to make it back. But I was never in any head-on firefight kind of thing like so many of my friends were. My operation down there versus with a platoon were pretty undercover clandestine kind of things, so unless you got caught, you were in and out and they didn’t know you were there.</u>
-      <u who="EVERHARD">While you were overseas, did you have a lot of information about how the war was going? Or like did you have a general sense of the <placeName>US</placeName> [inaudible] their goals?</u>
-      <u who="COOK">Well, I mean, we read Stars and Stripes, which came out pretty regularly. When I was in <placeName>Da Nang</placeName>, I used to see that quite a bit. Or in the bush, we didn’t know what was going on. We knew what was going on in our immediate battalion, but beyond even the regiment, I mean, word would come down on different things, but you didn’t really know that much. I mean, you tried to keep your Marines informed on what was going on, but it was pretty hard because the word didn’t get past. When I was at <placeName>Da Nang</placeName> I was more in the strategy side of what was going on, and I know I would go to a mess hall or local officers’ club and that kind of thing, and there’d be a lot of chatter, so I knew more then. My last three months I was a general’s aide, and then I was in daily briefings with the senior command, so then I knew a lot more what was going on. And it didn’t make me feel any better, but I was more informed about how many people were getting killed and that kind of thing.</u>
-      <u who="EVERHARD">When you were overseas, did you ever feel like the <placeName>US</placeName> was making progress?</u>
-      <u who="COOK">No. No. <persName>Emily</persName>, by the time I got there, the war was, it was over. We’d lost.</u>
-      <u who="EVERHARD">Yes, this was after <name type="event">the Tet Offensive</name>.</u>
-      <u who="COOK">Yes. I got over there in <date when="1969-02">January of ’69</date> and, I mean, they were already starting to wind down, so by the time I got to be a general’s aide, you know, we were still out there fighting and they were bombing and doing all the stuff that they were doing, but it was… I mean, there was a few people like <persName>[General William C.] Westmoreland</persName> and… well, <persName>Westmoreland</persName> was replaced right after I got there. <persName>[General] Creighton Abrams</persName> was the new guy, and, you know, there was some [inaudible] that he was gonna turn it around, but I don’t think anybody that really knew what was going on ever thought that. So no, I never had any. So by the time I got home, it was a pretty discouraging situation. At that level, at my own personal level, you know, I had a very fortunate experience, as I got to know a lot of people and we kind of protected each other.</u>
+      <u who="COOK">Well, we got caught out one time when we were on patrol when I was working out of <placeName ref="#dvp_081_place_43">Da Nang</placeName>, and we got disconnected from them out in the “Indian Country,” and we didn’t know if we were going to get back or not. There was two different incidents like that where I just didn’t know whether I was going to make it back. But I was never in any head-on firefight kind of thing like so many of my friends were. My operation down there versus with a platoon were pretty undercover clandestine kind of things, so unless you got caught, you were in and out and they didn’t know you were there.</u>
+      <u who="EVERHARD">While you were overseas, did you have a lot of information about how the war was going? Or like did you have a general sense of the <placeName ref="#dvp_081_place_44">US</placeName> [inaudible] their goals?</u>
+      <u who="COOK">Well, I mean, we read Stars and Stripes, which came out pretty regularly. When I was in <placeName ref="#dvp_081_place_45">Da Nang</placeName>, I used to see that quite a bit. Or in the bush, we didn’t know what was going on. We knew what was going on in our immediate battalion, but beyond even the regiment, I mean, word would come down on different things, but you didn’t really know that much. I mean, you tried to keep your Marines informed on what was going on, but it was pretty hard because the word didn’t get past. When I was at <placeName ref="#dvp_081_place_46">Da Nang</placeName> I was more in the strategy side of what was going on, and I know I would go to a mess hall or local officers’ club and that kind of thing, and there’d be a lot of chatter, so I knew more then. My last three months I was a general’s aide, and then I was in daily briefings with the senior command, so then I knew a lot more what was going on. And it didn’t make me feel any better, but I was more informed about how many people were getting killed and that kind of thing.</u>
+      <u who="EVERHARD">When you were overseas, did you ever feel like the <placeName ref="#dvp_081_place_47">US</placeName> was making progress?</u>
+      <u who="COOK">No. No. <persName ref="#dvp_081_person_37">Emily</persName>, by the time I got there, the war was, it was over. We’d lost.</u>
+      <u who="EVERHARD">Yes, this was after <name type="event" ref="#dvp_081_event_10">the Tet Offensive</name>.</u>
+      <u who="COOK">Yes. I got over there in <date when="1969-02">January of ’69</date> and, I mean, they were already starting to wind down, so by the time I got to be a general’s aide, you know, we were still out there fighting and they were bombing and doing all the stuff that they were doing, but it was… I mean, there was a few people like <persName ref="#dvp_081_person_38">[General William C.] Westmoreland</persName> and… well, <persName ref="#dvp_081_person_39">Westmoreland</persName> was replaced right after I got there. <persName ref="#dvp_081_person_40">[General] Creighton Abrams</persName> was the new guy, and, you know, there was some [inaudible] that he was gonna turn it around, but I don’t think anybody that really knew what was going on ever thought that. So no, I never had any. So by the time I got home, it was a pretty discouraging situation. At that level, at my own personal level, you know, I had a very fortunate experience, as I got to know a lot of people and we kind of protected each other.</u>
       <u who="EVERHARD">Are there any other distinct memories of your time overseas that stick out, [inaudible] specifically tell us about?</u>
       <u who="COOK">Yeah, a lot of the specific stuff, my memory isn’t as good as some of my friends. To me it was more of a collection of things that I remember. And when I was doing a lot of the writing that I did, it brought back some specific things. But I never really tried to zero in on that, because a lot of pain in that. And even though my experience wasn’t especially horrific, still, you know, when you see your buddies get killed and you hear about your buddies and that kind of thing, it all adds up. And, so I don’t know if you read the stuff that I wrote, but, you know, when we got home, we just buried all that. And, so while I finally came to grips with it, and wrote about it and thought about it and talked about it, you know, that was 25, 30 years later, so your memory was in some ways pretty good and other ways probably not so good.</u>
       <u who="EVERHARD">Yeah, absolutely. And what happened when a Marine passed away or was killed while you were on base?</u>
-      <u who="COOK">Well, it sort of depended upon where you were. But, when I was with a platoon, they were medevaced out and you moved on. And you didn’t… I mean, you privately kind of licked your wounds, but you had to move on. And I think that’s pretty typical of any combat situation. I mean, I’ve just seen what my son went through in his deployments. He saw a lot of action and lost <orgName>Marines</orgName>. Well, in fact, my wife and I went to a funeral at <placeName>Arlington</placeName>—I’m representing him because he was still in <placeName>Iraq</placeName>—of a young <orgName>Marine</orgName> officer that he asked us to go and be there for his family. So, you know, you deal with it, you move on. You can’t… And, of course, that’s one of the issues that so many vets deal with or not deal with after the fact, because they’re not able to deal with it at the time. When we came back from <placeName>Vietnam</placeName>, <persName>Emily</persName>, there was no PTSD and combat stress, those kinds of things, and it wasn’t even in the vocabulary. And there was no acknowledgement of it. And anybody that would sort of show that kind of stuff would be discriminated against. It’s like going to sick bay. You know, if you were in country or in training, if you went to sick bay, they thought you were a wimp.</u>
+      <u who="COOK">Well, it sort of depended upon where you were. But, when I was with a platoon, they were medevaced out and you moved on. And you didn’t… I mean, you privately kind of licked your wounds, but you had to move on. And I think that’s pretty typical of any combat situation. I mean, I’ve just seen what my son went through in his deployments. He saw a lot of action and lost <orgName ref="#dvp_081_org_104">Marines</orgName>. Well, in fact, my wife and I went to a funeral at <placeName ref="#dvp_081_place_48">Arlington</placeName>—I’m representing him because he was still in <placeName ref="#dvp_081_place_49">Iraq</placeName>—of a young <orgName ref="#dvp_081_org_105">Marine</orgName> officer that he asked us to go and be there for his family. So, you know, you deal with it, you move on. You can’t… And, of course, that’s one of the issues that so many vets deal with or not deal with after the fact, because they’re not able to deal with it at the time. When we came back from <placeName ref="#dvp_081_place_50">Vietnam</placeName>, <persName ref="#dvp_081_person_41">Emily</persName>, there was no PTSD and combat stress, those kinds of things, and it wasn’t even in the vocabulary. And there was no acknowledgement of it. And anybody that would sort of show that kind of stuff would be discriminated against. It’s like going to sick bay. You know, if you were in country or in training, if you went to sick bay, they thought you were a wimp.</u>
       <u who="EVERHARD">So, did you feel like most of your time overseas you had to kind of suppress most of the emotions?</u>
       <u who="COOK">Absolutely. I mean, you had them, but you had to… And even when you’d go out at night and sort of let off steam when you’re in the rear or something, you really didn’t get into it.</u>
-      <u who="EVERHARD">Did you have any ways that you found comfort when you were in <placeName>Vietnam</placeName>?</u>
+      <u who="EVERHARD">Did you have any ways that you found comfort when you were in <placeName ref="#dvp_081_place_51">Vietnam</placeName>?</u>
       <u who="COOK">With your buddies, just being with them and doing stuff with them. Supporting each other, often in more covert ways than overt ways. But it was very much there. I mean, that’s really the, you know, that’s the whole—for me that’s really the value in the story of my experience. I don’t know very many veterans that wouldn’t agree with that.</u>
       <u who="EVERHARD">Yeah. And did you keep in contact with anybody from home during your service?</u>
-      <u who="COOK">Yeah. You know, we had letters. My now wife of almost 47 years then was just a girlfriend. Wasn’t even a girlfriend. She was—I’d met her and… And, you know, I would hear from a few people, my family. One of the things that was popular then that never really worked very well for me was cassette recorders were fairly large—cassette recorders were around then and, you know, we would have those in <placeName>Vietnam</placeName>, and people would send over recordings of just sort of talking about what was going on and that kind of thing. And we tried that and it really didn’t work very well for me. There was something called <orgName>MARS</orgName>, which was a telephone system, that if you got—there was a couple places in the rear that you could sign up for that, and you’d wait in line, and you’d call home. I did that once. But it was such a process. So I would say the communication wasn’t great. I mean, we had it, but it was sort of sporadic.</u>
+      <u who="COOK">Yeah. You know, we had letters. My now wife of almost 47 years then was just a girlfriend. Wasn’t even a girlfriend. She was—I’d met her and… And, you know, I would hear from a few people, my family. One of the things that was popular then that never really worked very well for me was cassette recorders were fairly large—cassette recorders were around then and, you know, we would have those in <placeName ref="#dvp_081_place_52">Vietnam</placeName>, and people would send over recordings of just sort of talking about what was going on and that kind of thing. And we tried that and it really didn’t work very well for me. There was something called <orgName ref="#dvp_081_org_106">MARS</orgName>, which was a telephone system, that if you got—there was a couple places in the rear that you could sign up for that, and you’d wait in line, and you’d call home. I did that once. But it was such a process. So I would say the communication wasn’t great. I mean, we had it, but it was sort of sporadic.</u>
       <u who="EVERHARD">Did any of your buddies talk about home a lot? Or what did you like to talk about?</u>
       <u who="COOK">Oh, yeah. Back in the world. Yeah, I mean, you know, you kind of count the days. And we had R&amp;R [rest and recuperation], which for me was halfway through my tour, and we would always talk about that or talk about our end date and those kinds of things were part of the conversation.</u>
       <u who="EVERHARD">What was R&amp;R?</u>
-      <u who="COOK">Well, you got five days, six days really if you counted the airplane, where you’d go to <placeName>Hawaii</placeName>, <placeName>Bangkok</placeName>, <placeName>Hong Kong</placeName> or <placeName>Australia</placeName>. And that was very much a part of the routine by the time I got over there. </u>
+      <u who="COOK">Well, you got five days, six days really if you counted the airplane, where you’d go to <placeName ref="#dvp_081_place_53">Hawaii</placeName>, <placeName ref="#dvp_081_place_54">Bangkok</placeName>, <placeName ref="#dvp_081_place_55">Hong Kong</placeName> or <placeName ref="#dvp_081_place_56">Australia</placeName>. And that was very much a part of the routine by the time I got over there. </u>
       <u who="EVERHARD">Where did you go?</u>
-      <u who="COOK">I went to <placeName>Hawaii</placeName>. I met my parents and my girlfriend.</u>
+      <u who="COOK">I went to <placeName ref="#dvp_081_place_57">Hawaii</placeName>. I met my parents and my girlfriend.</u>
       <u who="EVERHARD">Oh, can you tell me a little bit about that?</u>
-      <u who="COOK">Yeah, it was a blur. I was exhausted, and I got there and, you know, my parents had rented this little cottage on <placeName>Maui</placeName>, and <placeName>Maui</placeName> then was kind of an undeveloped place. So that was kind of cool. We were there and, you know, had our meals and just kind of hung out. I slept a lot. But it was, I’d guess you’d call it rest and relaxation. Happened pretty fast.</u>
+      <u who="COOK">Yeah, it was a blur. I was exhausted, and I got there and, you know, my parents had rented this little cottage on <placeName ref="#dvp_081_place_58">Maui</placeName>, and <placeName ref="#dvp_081_place_59">Maui</placeName> then was kind of an undeveloped place. So that was kind of cool. We were there and, you know, had our meals and just kind of hung out. I slept a lot. But it was, I’d guess you’d call it rest and relaxation. Happened pretty fast.</u>
       <u who="EVERHARD">Yeah, what was it like having to return after that?</u>
-      <u who="COOK">Well, six more months. You know, you’re halfway home and you knew. And by that time I was in <placeName>Da Nang</placeName>, and had a pretty good job. I was pretty safe. I was still doing some patrolling, but it was—and I was kind of into the job at that point. I was doing psy ops and counterinsurgency. I liked the people I was working with.</u>
+      <u who="COOK">Well, six more months. You know, you’re halfway home and you knew. And by that time I was in <placeName ref="#dvp_081_place_60">Da Nang</placeName>, and had a pretty good job. I was pretty safe. I was still doing some patrolling, but it was—and I was kind of into the job at that point. I was doing psy ops and counterinsurgency. I liked the people I was working with.</u>
       <u who="EVERHARD">Were there any Vietnamese people who worked on your base?</u>
       <u who="COOK">Yeah. My job, I did quite a bit of work with the Vietnamese.</u>
       <u who="EVERHARD">And what was that like? Was it ever tense?</u>
-      <u who="COOK">No. Not really. I mean, it was in some cases kind of neat. In other cases, you know, it just depended upon the people you were working with. But we were working with some fairly high up people in the <placeName>Da Nang</placeName> area that, through the government, as I mentioned, we worked with <orgName>Phoenix</orgName>, which was sort of the in country <orgName>CIA</orgName>, and we worked with <orgName>USAID</orgName>, and so it was some pretty interesting people you worked with. But, it certainly didn’t give you as much confidence that we were making much progress. It was sort of a—what do I want to say?—we were in sort of a routine that we didn’t feel like it was making much of a difference. And it was kind of a quagmire or I don’t know what you want to call it. I mean, the history’s reported pretty well. And so, that experience was quite a bit different than—and of course, when I worked for the general, you were looking at sort of pretty high level stuff, and you had sort of point-counterpoint, you had that, and then you had the experience out in the bush on the ground with people you knew were out there having firefights and that kind of thing. And it was pretty much the same as any war. There was no… The difference in ours was that there wasn’t a lot of motivation. You didn’t know what you were fighting for. And while some—different people would give you pep talks, you didn’t have any confidence in that.</u>
+      <u who="COOK">No. Not really. I mean, it was in some cases kind of neat. In other cases, you know, it just depended upon the people you were working with. But we were working with some fairly high up people in the <placeName ref="#dvp_081_place_61">Da Nang</placeName> area that, through the government, as I mentioned, we worked with <orgName ref="#dvp_081_org_107">Phoenix</orgName>, which was sort of the in country <orgName ref="#dvp_081_org_108">CIA</orgName>, and we worked with <orgName ref="#dvp_081_org_109">USAID</orgName>, and so it was some pretty interesting people you worked with. But, it certainly didn’t give you as much confidence that we were making much progress. It was sort of a—what do I want to say?—we were in sort of a routine that we didn’t feel like it was making much of a difference. And it was kind of a quagmire or I don’t know what you want to call it. I mean, the history’s reported pretty well. And so, that experience was quite a bit different than—and of course, when I worked for the general, you were looking at sort of pretty high level stuff, and you had sort of point-counterpoint, you had that, and then you had the experience out in the bush on the ground with people you knew were out there having firefights and that kind of thing. And it was pretty much the same as any war. There was no… The difference in ours was that there wasn’t a lot of motivation. You didn’t know what you were fighting for. And while some—different people would give you pep talks, you didn’t have any confidence in that.</u>
       <u who="EVERHARD">Did you ever have a sense of what you were fighting for? Or was [inaudible]?</u>
       <u who="COOK">No, as I said, my motivation was really more internal for the people I was working with, either directly or indirectly: help save lives.</u>
       <u who="EVERHARD">[Inaudible] from your tour a year early. Was there a reason why you were released early?</u>
-      <u who="COOK">Well, yeah, when I got the deferment when I graduated, <orgName>the Marine Corps</orgName> told me that I could go and play hockey, try out for the <orgName>Olympic</orgName> team, but I wouldn’t get credit for that as active duty. So I assumed when I went on active duty in <date when="1968-03">March of ’68</date> that I had three years to serve. And, so when I got back and was stationed at the Marine barracks in <placeName>Newport [RI]</placeName>, I assumed I was going to be there for a year-and-a-half. But, as a result of the wind down of the war, maybe either they got my orders screwed up from when I got the deferment or they just decided to give me the option to get out. So…</u>
+      <u who="COOK">Well, yeah, when I got the deferment when I graduated, <orgName ref="#dvp_081_org_110">the Marine Corps</orgName> told me that I could go and play hockey, try out for the <orgName ref="#dvp_081_org_111">Olympic</orgName> team, but I wouldn’t get credit for that as active duty. So I assumed when I went on active duty in <date when="1968-03">March of ’68</date> that I had three years to serve. And, so when I got back and was stationed at the Marine barracks in <placeName ref="#dvp_081_place_62">Newport [RI]</placeName>, I assumed I was going to be there for a year-and-a-half. But, as a result of the wind down of the war, maybe either they got my orders screwed up from when I got the deferment or they just decided to give me the option to get out. So…</u>
       <u who="EVERHARD">What was it like when you found out that you could go home early?</u>
       <u who="COOK">Well, I mean, I was about to get married. This is June. I got my orders in May. And, you know, when I went in, I thought pretty seriously—I was pretty open about whether I would stay in or get out. And, but by then I was pretty discouraged with sort of the track that at least I saw and the people I was working with. I didn’t have a lot of respect for a lot of the people that I saw around me. So, it didn’t take me very long to decide whether to re-up or get out, and I decided to get out.</u>
-      <u who="EVERHARD">And what was it like when you left <placeName>Vietnam</placeName>?</u>
+      <u who="EVERHARD">And what was it like when you left <placeName ref="#dvp_081_place_63">Vietnam</placeName>?</u>
       <u who="COOK">You mean when I came home?</u>
       <u who="EVERHARD">Yes.</u>
-      <u who="COOK">Well, I came home, had three days’ leave, and then I reported to the <orgName>Marine</orgName> barracks in <placeName>Newport, Rhode Island</placeName>, in <date when="1970-02">February of 1970</date>. And, so when I was in garrison on the job at the <orgName>Marine</orgName> barracks, and I was pretty much doing the job, and our job was to protect the <orgName>Navy</orgName> base in <placeName>Newport</placeName>. And, so we had a company of <placeName>Marines</placeName>. And so we did our job. We had our weekends off. And once you were on duty, on the job side or the <placeName>Marine</placeName> side, everything was kind of business as usual. And I didn’t have a lot of time to be out in the real world, but I was out there because my wife, my fiancé at that point, was living in <placeName>Boston</placeName>, which was a couple hours away, so I would go up there. So, you know, there I was back with friends I knew, family, all that kind of stuff. And for them, it just was like I’d just come home from a trip. They didn’t talk about it. There was just no… So, it was sort of weird.</u>
+      <u who="COOK">Well, I came home, had three days’ leave, and then I reported to the <orgName ref="#dvp_081_org_112">Marine</orgName> barracks in <placeName ref="#dvp_081_place_64">Newport, Rhode Island</placeName>, in <date when="1970-02">February of 1970</date>. And, so when I was in garrison on the job at the <orgName ref="#dvp_081_org_113">Marine</orgName> barracks, and I was pretty much doing the job, and our job was to protect the <orgName ref="#dvp_081_org_114">Navy</orgName> base in <placeName ref="#dvp_081_place_65">Newport</placeName>. And, so we had a company of <placeName ref="#dvp_081_place_66">Marines</placeName>. And so we did our job. We had our weekends off. And once you were on duty, on the job side or the <placeName ref="#dvp_081_place_67">Marine</placeName> side, everything was kind of business as usual. And I didn’t have a lot of time to be out in the real world, but I was out there because my wife, my fiancé at that point, was living in <placeName ref="#dvp_081_place_68">Boston</placeName>, which was a couple hours away, so I would go up there. So, you know, there I was back with friends I knew, family, all that kind of stuff. And for them, it just was like I’d just come home from a trip. They didn’t talk about it. There was just no… So, it was sort of weird.</u>
       <u who="EVERHARD">Yeah. [Inaudible]</u>
-      <u who="COOK">Oh, yeah, I caught up with a lot of my buddies. My buddy, <persName>[Bill] Jevne</persName> and <persName>[Bill] Engster</persName>, those guys, they were in, they were stationed at <placeName>Camp Lejeune</placeName>. But we would see each other from time to time, and those guys ended up being in my wedding. But, you know, we… And then, of course, I got out in June—July actually, and then I was in the real world and I ended up, because I’d gotten these quick orders, I really didn’t have a lot of time to look around for jobs, and I ended up going to work at <orgName>Groton School</orgName> as assistant director of admissions. And, so that was an interesting place to be in <date when="1970">1970</date>. [laughter] They were pretty liberal then. And I was the only guy with short hair and I was the youngest guy. And not one person in the whole place that wanted to talk about anything to do with <placeName>Vietnam</placeName>, other than to be negative about it. So I kind of put my head down and did my job, and taught a couple courses, and did my admissions job, and did a little coaching, and gradually worked back into the civilian world. But built up a pretty protective shell pretty quickly, not only in my job environment, but my personal life with my family and all that kind of stuff.</u>
-      <u who="EVERHARD">How would you describe the treatment of veterans when they returned from <placeName>Vietnam</placeName> at the time?</u>
-      <u who="COOK">Well, generally just sort of business as usual, not much acknowledgement of what we had been through. You know, once in a while we’d run into overt kinds of actions by people, but those were few and far between. It was more just a lack of any kind of acknowledgement of what we had all been through, and none of us really talked about it very much. It wasn’t really on the radar. After I was at <orgName>Groton</orgName> for two years, I went back to graduate school at <orgName>U Mass [University of Massachusetts]</orgName> at <placeName>Amherst</placeName>, and so I was in classes studying for my master’s, and got into some, a few challenging situations then where people sort of challenged why I would have gone to—why I would have been in the military and those kinds of things. But, as I said, those were—that wasn’t a regular sort of event. Sporadically you would run into those kinds of things. It was more just the non-response, the non-recognition, the non-understanding. Not that anybody really understood, could understand what the hell we’d gone through, but… And so, when you’re in—when I was in <placeName>Newport</placeName>, you were amongst friends, so to speak, and there the support was just there because you’d all been through it. So, but when you’re out in the civilian world, unless you ran into somebody who had been in <placeName>Vietnam</placeName>, you really didn’t have a lot in common, and I don’t think it was their fault, but that was just a fact of life, which made a lot of us just kind of sort of put our head down even more.</u>
+      <u who="COOK">Oh, yeah, I caught up with a lot of my buddies. My buddy, <persName ref="#dvp_081_person_42">[Bill] Jevne</persName> and <persName ref="#dvp_081_person_43">[Bill] Engster</persName>, those guys, they were in, they were stationed at <placeName ref="#dvp_081_place_69">Camp Lejeune</placeName>. But we would see each other from time to time, and those guys ended up being in my wedding. But, you know, we… And then, of course, I got out in June—July actually, and then I was in the real world and I ended up, because I’d gotten these quick orders, I really didn’t have a lot of time to look around for jobs, and I ended up going to work at <orgName ref="#dvp_081_org_115">Groton School</orgName> as assistant director of admissions. And, so that was an interesting place to be in <date when="1970">1970</date>. [laughter] They were pretty liberal then. And I was the only guy with short hair and I was the youngest guy. And not one person in the whole place that wanted to talk about anything to do with <placeName ref="#dvp_081_place_70">Vietnam</placeName>, other than to be negative about it. So I kind of put my head down and did my job, and taught a couple courses, and did my admissions job, and did a little coaching, and gradually worked back into the civilian world. But built up a pretty protective shell pretty quickly, not only in my job environment, but my personal life with my family and all that kind of stuff.</u>
+      <u who="EVERHARD">How would you describe the treatment of veterans when they returned from <placeName ref="#dvp_081_place_71">Vietnam</placeName> at the time?</u>
+      <u who="COOK">Well, generally just sort of business as usual, not much acknowledgement of what we had been through. You know, once in a while we’d run into overt kinds of actions by people, but those were few and far between. It was more just a lack of any kind of acknowledgement of what we had all been through, and none of us really talked about it very much. It wasn’t really on the radar. After I was at <orgName ref="#dvp_081_org_116">Groton</orgName> for two years, I went back to graduate school at <orgName ref="#dvp_081_org_117">U Mass [University of Massachusetts]</orgName> at <placeName ref="#dvp_081_place_72">Amherst</placeName>, and so I was in classes studying for my master’s, and got into some, a few challenging situations then where people sort of challenged why I would have gone to—why I would have been in the military and those kinds of things. But, as I said, those were—that wasn’t a regular sort of event. Sporadically you would run into those kinds of things. It was more just the non-response, the non-recognition, the non-understanding. Not that anybody really understood, could understand what the hell we’d gone through, but… And so, when you’re in—when I was in <placeName ref="#dvp_081_place_73">Newport</placeName>, you were amongst friends, so to speak, and there the support was just there because you’d all been through it. So, but when you’re out in the civilian world, unless you ran into somebody who had been in <placeName ref="#dvp_081_place_74">Vietnam</placeName>, you really didn’t have a lot in common, and I don’t think it was their fault, but that was just a fact of life, which made a lot of us just kind of sort of put our head down even more.</u>
       <u who="EVERHARD">Yeah. And what was it like in <date when="1975">1975</date> when the war ended?</u>
-      <u who="COOK">Well, I mean, obviously it was a relief, but it wasn’t a… I don’t know if it’ll be as dramatic as this coming Wednesday. I mean, yeah, we sort of followed it and <persName>Nixon</persName> and the peace talks and all that kind of stuff, but it was more at a sort of a political, intellectual level than it was a personal level. Because, as I said, we sort of buried the personal. I had a neighbor when I was in graduate school that was an older guy who actually was not a vet. I used to talk about it with him some. He was a pretty understanding kind of guy. But again, not a lot of conversation. I mean, there were a few vets that, not necessarily <placeName>Vietnam</placeName> vets, but just vets in general who would sort of lament that we screwed up and should have stayed there and that kind of stuff, but I never paid much attention to any of that kind of stuff. We sort of wanted to move on. Or we did move on and we had to move on. But never really took care of ourselves in doing that. And I certainly wasn’t—or at least at the time I didn’t think I had a lot of issues that I had to worry about. Come to find out I did, but at the time I just was trying to live my life.</u>
+      <u who="COOK">Well, I mean, obviously it was a relief, but it wasn’t a… I don’t know if it’ll be as dramatic as this coming Wednesday. I mean, yeah, we sort of followed it and <persName ref="#dvp_081_person_44">Nixon</persName> and the peace talks and all that kind of stuff, but it was more at a sort of a political, intellectual level than it was a personal level. Because, as I said, we sort of buried the personal. I had a neighbor when I was in graduate school that was an older guy who actually was not a vet. I used to talk about it with him some. He was a pretty understanding kind of guy. But again, not a lot of conversation. I mean, there were a few vets that, not necessarily <placeName ref="#dvp_081_place_75">Vietnam</placeName> vets, but just vets in general who would sort of lament that we screwed up and should have stayed there and that kind of stuff, but I never paid much attention to any of that kind of stuff. We sort of wanted to move on. Or we did move on and we had to move on. But never really took care of ourselves in doing that. And I certainly wasn’t—or at least at the time I didn’t think I had a lot of issues that I had to worry about. Come to find out I did, but at the time I just was trying to live my life.</u>
       <u who="EVERHARD">Yeah. And did it take a toll on you?</u>
-      <u who="COOK">Yeah. I did. I mean, yeah, I built up a lot of protective things. I lied about my service. I drank. All of which I don’t think people who knew me really understood that that had anything to do with the war; it was just that was me. And it wasn’t until really I came to grips with myself that… I mean, it was really me. The rest of the people, friends, family, that kind of thing, they didn’t really get involved in it. And even my buddies, like <persName>Jevne</persName> and <persName>Engster</persName>, they were moving on and living their own lives, and they weren’t sort of checking back and saying, “How are you?” and “How are you doing?” I mean, we would see each other and we would do stuff, but we wouldn’t say, “Well, how are you doing with <placeName>Vietnam</placeName>?” I mean, those kind of questions, you know, that kind of stuff never came up.</u>
+      <u who="COOK">Yeah. I did. I mean, yeah, I built up a lot of protective things. I lied about my service. I drank. All of which I don’t think people who knew me really understood that that had anything to do with the war; it was just that was me. And it wasn’t until really I came to grips with myself that… I mean, it was really me. The rest of the people, friends, family, that kind of thing, they didn’t really get involved in it. And even my buddies, like <persName ref="#dvp_081_person_45">Jevne</persName> and <persName ref="#dvp_081_person_46">Engster</persName>, they were moving on and living their own lives, and they weren’t sort of checking back and saying, “How are you?” and “How are you doing?” I mean, we would see each other and we would do stuff, but we wouldn’t say, “Well, how are you doing with <placeName ref="#dvp_081_place_76">Vietnam</placeName>?” I mean, those kind of questions, you know, that kind of stuff never came up.</u>
       <u who="EVERHARD">Yeah, it just wasn’t talked about.</u>
-      <u who="COOK">No. And I wasn’t a member of <orgName>the American Legion</orgName> or something like that. So I was never in any group. I mean, I would run into different people that were in the <orgName>Marine Reserves</orgName> or were in the <orgName>military</orgName> later on and that kind of thing. But it wasn’t really until my son decided to join <orgName>the Marine Corps</orgName> that I began to really come to grips with it. I faced up to it, well, I initially began to deal with it in, I don’t remember now what the dates are, but late ‘90s, I guess. I never really read much about anything after the war or anything like that. Sort of avoided all that. I’d read a lot before I went over, particularly in my training, but never after I came back. And then I did start to read some stuff in the late ‘90s, mid-‘90s, I guess, and it was sort of a crack in my protective mechanism. And then, my son, when he was a freshman at <orgName>Williams</orgName>, said he wanted to join <orgName>the Marine Corps</orgName> and what did I think about it? And I said, “Well, if that’s what you want to do, go for it.” And, so we didn’t really talk—it wasn’t really based on any conversations that he and I had had about my experience. It was more, I mean, obviously my being in <orgName>the Marine Corps</orgName> was an influence on him growing up, and I didn’t hide that fact. I didn’t talk a lot about it, but I didn’t hide the fact that I was in <orgName>the Marine Corps</orgName>. And anyway, so he went in, and actually did the same program that I did. And that began to… You know, that was sort of… Oh, I remember when he left to take the bus from <placeName>Portland, Maine</placeName>, to <placeName>Boston</placeName>, I put him on the bus, and it was a pretty emotional time for me, because while he wasn’t doing it to validate anything I had done, clearly the fact that he was doing it was in some way an acknowledgement of what I had done, and so that was sort of the tipping point, so to speak, that enabled me to begin to think about coming to grips with my own experience. And while that was either <date when="1995">‘95</date> or <date when="1996">’96</date>, it took me another 10 years to really work it through, but all that time he was experiencing <orgName>the Marine Corps</orgName>, including six deployments, and combat deployments, and a lot of stuff that in another way I had experienced. So, not only was I living and going through what he was going through, but I was also in another way reliving what I had been through. So, that was kind of a therapy, so to speak, that enabled me to begin to really look at myself and what the hell had happened. Not only with my experience in <placeName>Vietnam</placeName>, but what that experience had done to my life in the subsequent 25 or 30 years.</u>
+      <u who="COOK">No. And I wasn’t a member of <orgName ref="#dvp_081_org_118">the American Legion</orgName> or something like that. So I was never in any group. I mean, I would run into different people that were in the <orgName ref="#dvp_081_org_119">Marine Reserves</orgName> or were in the <orgName ref="#dvp_081_org_120">military</orgName> later on and that kind of thing. But it wasn’t really until my son decided to join <orgName ref="#dvp_081_org_121">the Marine Corps</orgName> that I began to really come to grips with it. I faced up to it, well, I initially began to deal with it in, I don’t remember now what the dates are, but late ‘90s, I guess. I never really read much about anything after the war or anything like that. Sort of avoided all that. I’d read a lot before I went over, particularly in my training, but never after I came back. And then I did start to read some stuff in the late ‘90s, mid-‘90s, I guess, and it was sort of a crack in my protective mechanism. And then, my son, when he was a freshman at <orgName ref="#dvp_081_org_122">Williams</orgName>, said he wanted to join <orgName ref="#dvp_081_org_123">the Marine Corps</orgName> and what did I think about it? And I said, “Well, if that’s what you want to do, go for it.” And, so we didn’t really talk—it wasn’t really based on any conversations that he and I had had about my experience. It was more, I mean, obviously my being in <orgName ref="#dvp_081_org_124">the Marine Corps</orgName> was an influence on him growing up, and I didn’t hide that fact. I didn’t talk a lot about it, but I didn’t hide the fact that I was in <orgName ref="#dvp_081_org_125">the Marine Corps</orgName>. And anyway, so he went in, and actually did the same program that I did. And that began to… You know, that was sort of… Oh, I remember when he left to take the bus from <placeName ref="#dvp_081_place_77">Portland, Maine</placeName>, to <placeName ref="#dvp_081_place_78">Boston</placeName>, I put him on the bus, and it was a pretty emotional time for me, because while he wasn’t doing it to validate anything I had done, clearly the fact that he was doing it was in some way an acknowledgement of what I had done, and so that was sort of the tipping point, so to speak, that enabled me to begin to think about coming to grips with my own experience. And while that was either <date when="1995">‘95</date> or <date when="1996">’96</date>, it took me another 10 years to really work it through, but all that time he was experiencing <orgName ref="#dvp_081_org_126">the Marine Corps</orgName>, including six deployments, and combat deployments, and a lot of stuff that in another way I had experienced. So, not only was I living and going through what he was going through, but I was also in another way reliving what I had been through. So, that was kind of a therapy, so to speak, that enabled me to begin to really look at myself and what the hell had happened. Not only with my experience in <placeName ref="#dvp_081_place_79">Vietnam</placeName>, but what that experience had done to my life in the subsequent 25 or 30 years.</u>
       <u who="EVERHARD">And can you tell me a little bit about what you [inaudible]?</u>
-      <u who="COOK">Well, I think the basic thing was that I’d sort of been hiding all this, these emotions, lies, actions or inactions, you know, so it enabled me to begin to peel away a lot of that stuff and get a more close look at who I really was, and what I’d been through. So it was the beginning of a pretty long process, and not only was my son’s experience a catalyst, but I think some of the readings that I did, particularly the readings by <persName>Karl [A.] Marlantes</persName>, I guess some of my faith or my building some kind of a discipline, some of which was mental, some of which was spiritual and some of which was physical, that enabled me to begin to tell my own story. And I wrote a bunch of stuff over the years, just scribbles that I would stick in a file or something, and so I would dig a lot of that stuff out, and over time, either through writings or through my own thought process or through talking with my friends, I began to piece the thing together. But it was a very sort of iterative, not particularly intentional process at first. The catalyst for me to make it really intentional was when I was asked by the class to—they went out for this, they called for people to write about their time during when we were in college and after college, and wanted it done, not particularly military, but just to write about the so-called tumultuous times, which they certainly were, even though at the time we probably didn’t realize it. So, anyway, I didn’t pay a lot of attention to that.And then, <persName>Bill Smoyer</persName>’s sister called me one time and said, “Well, I’m gonna write something. Would you consider reading it and helping me with it?” And I said “absolutely.” And, so anyway, I don’t know, maybe it’s three months later or six months later or whatever, she sent me some stuff, and I went through it, and this is more focused on <persName>Bill Smoyer</persName>, her brother, my roommate, and I gave her some feedback. And then she said, “Well, are you gonna write something?” And I said, “Well, I don’t know.” She said, “Well, I hope you do.” So that was kind of the kick in the pants that got me to be more intentional about pulling this all together.So then I wrote the song, which took me about a year, and as I think I said, that was kind of the catalyst to get me to decide to go back to <placeName>Vietnam</placeName>. And I’d had a good friend who was in the <orgName>Army</orgName> who was actually a teaching colleague of mine when I was at a school in <placeName>Boston</placeName>, but a close friend. And he had taken students back to <placeName>Vietnam</placeName> two or three times on bicycle trips. And he was a photographer. So anyway, I got a lot of feedback from that, and he gave me some really cool pictures of <placeName>Vietnam</placeName>, and I had all that sort of in this period of where I was beginning to try to piece this together. And, so I had it in the back of my mind that maybe I really should try to go back there because of this guy’s particular experience. I talked to other people who’d gone back and said, “oh, it’s great,” and “you really get a lot out of it,” and blah, blah, blah, but this one particular person, <persName>Joe Swayze</persName>, was the most [inaudible], not only him, but his wife. And they’re both pretty close friends of mine, of ours.And, so anyway, then I began to sort of think about well, will I go back? And eventually I bought a ticket, and I talked to different people about going, including <persName>Engster</persName>. <persName>Jevne</persName> had gone back. He was one of the guys that said “you gotta do it.” <persName>Engster</persName>, he didn’t want any part of it. <persName>[Doug] Cazort</persName>, my other real good buddy, <placeName>Vietnam</placeName> buddy, he was, and both of them were just, weren’t able to think about it very much, to consider it. So then I just decided, well, I’ll just ask a couple of other people, and I ended up asking my brother. Well, I actually ended up asking another really good friend, who was not a vet, but a really good friend, and I knew we would be fine together. And then a guy that I worked with who went to <placeName>Vietnam</placeName> in the <orgName>Army</orgName>, so I knew we had something in common, and I talked to him a little bit about it and he said, “Yeah, I think I’d like to go.” So anyway, he decided to go, so I had this group of three, and then at the last minute he dropped out—or not at the last minute, but maybe six months, he dropped out.And so, I was talking to my wife and I said, “Well, maybe I should ask my brother.” I’ve never been particularly close to my brother. He always kind of had a—sort of later on when he knew how, what I had gone through, I think he felt pretty guilty about it. Not that he ever said anything to me, but I could—you could tell. So, while I wasn’t particularly close to him, I knew that he was struggling with this, and so I said to my wife, “Well, what if I ask <persName>Jeff</persName>?” And she said, “Well, that might be a good idea.” And then I asked my son, who also knew my sort of relationship with my brother, and knew a little bit about this sort of post-lack of support guilt trip, because he was always pretty supportive of our son, in fact, maybe too supportive. So I sort of had a [inaudible]. Anyway, I asked him and he said, “Well, Dad, it’s only going to be three weeks. You can probably get through it.” [laughter] And I said “okay.”So I asked him. And he’s always very slow to respond to me, and sort of younger brother kind of deal. I heard from him in like five minutes, and he said, “Oh, yeah, I really want to go.” [laughter] And not to bore you with it, but  about a week later he came back and he said, “Well, I’ve got seven other people who want to go with us.” And I said, “Holy shit.” [laughter] I really don’t want seven other people that I don’t know. And, so I stewed about that for a week because I didn’t want to, you know, turn him off or damper his enthusiasm. But I really did not want to go with a bunch of cheerleaders and that kind of stuff. So, anyway, I got back to him and said, “Look, I’m a little bit nervous about how many people are going to go on this trip” and “I want to keep it small.” And so, and in fact, when I asked him, there was one guy that I met through him who was an <orgName>Army</orgName> guy in <placeName>Vietnam</placeName> who I really liked, and I said, “Why don’t you ask <persName>Kelly</persName>?” And, so that sort of motivated him to ask these people. And so, when I got back to him, I said, “Look, if you’ve got one buddy that you want to have come along, great. But we don’t need a cast of thousands on this trip.” And he got it. And eventually, all the enthusiastic people that wanted to go decided—I don’t think he said they couldn’t come or anything, they just decided they couldn’t go for whatever reasons. So it worked out it was just the three of us. And it was great, and quite frankly, it built a new sort of connection with my brother, which was one of the great benefits of the trip. I talked a little bit about that in my second essay, but it was interesting how it evolved.</u>
-      <u who="EVERHARD">Can you tell me what it was like returning to <placeName>Vietnam</placeName>?</u>
-      <u who="COOK">Well, I mean, I pretty much outlined it, <persName>Emily</persName>, in the reprise. But as I said, I was certainly committed to going, and I planned out the trip pretty carefully, and decided that the motorcycle trip down the <placeName>Ho Chi Minh Trail</placeName> would be a pretty interesting way to meet the people and get a sense of things. I’d gotten some sort of into that in talking with my friend who had done the bicycle trip, and he knew I liked motorcycles. He said “Maybe you try a motorcycle.” So, I sort of had that in mind. So, the trip part of it, planning the trip and all of that was fine. When it got closer and closer, I began to… Oh, and the other thing I was very intentional about was wanting to spend time in the <placeName>North</placeName>, and go to <placeName>Dien Bien Phu</placeName>. And a few people that I talked to about going back there, a couple of them had done the trip in the <placeName>North</placeName> and were very enthusiastic about it. So, as a result of that and a lot of the reading that I had done, both historical reading and political reading, both Americans and Vietnamese, I really wanted to spend a week in the <placeName>North</placeName>, and go to <placeName>Dien Bien Phu</placeName> where the <placeName>French</placeName>… So, that was all pretty—there was no sort of hesitation or anything about it. But the thing that was always in the back of my mind was, whether as my particular experience there or just the whole tragedy, that was very much in my mind, and spending a week in the <placeName>North</placeName>, I mean, the North to me was where the enemy was. <placeName>Hanoi</placeName> was, that was <persName>Ho Chi Minh</persName> and <persName>General Giap</persName> and all that, so that was…And I was okay with going to <placeName>I Corps</placeName>. That was like friendly area for me, because that’s where we were. And even though we were fighting the enemy there, we were with the good guys, so to speak. But, <placeName>Hanoi</placeName> was enemy territory. So, I would just lie awake at night or worry in the day that how was I gonna feel about these people? So that was my biggest fear. And when we arrived there, and rode in from the airport on this big grand highway and all these <placeName>Vietnamese</placeName> flags, because they’d just had some kind of a nationalist day or something, yeah, when I saw that flag which was now the country of <placeName>Vietnam</placeName>’s flag, but back then it was the <orgName>NVA [North Vietnamese Army]</orgName> flag, it was the enemy’s flag. And I said, Oh, boy, here we go, you know, just this sort of knot in my stomach and that kind of stuff.So anyway, the next five or six days we spent up there and had this great guide and we went all around, met a lot of cool people and saw a lot of great sights. And then we went out to <placeName>Dien Bien Phu</placeName>, which was like going to <placeName>Gettysburg</placeName>. And that was kind of the turning point for me particularly when a guy gave me the pin from his father who was an <orgName>NVA</orgName> artilleryman, and wanted me to have it as a gesture of respect, forgiveness, whatever you want to call it. So that kind of flipped it for me. And then we went back to <placeName>Hanoi</placeName> and the next day we headed on our trip south. And that gesture kind of flipped the switch for me. And so the rest of the trip was interesting, meeting all these <placeName>Vietnamese</placeName> people. It was hard going to a lot of the sites that I’d been to, and visiting the ambush sites of <persName>Bill</persName> and <persName>Duncan Sleigh [‘67]</persName>, and, you know, that was all real emotional and hard and all that kind of stuff. But, as a result of that gesture, symbolic as it was, and then the way the guides and the people in the villages and whatever were so open, and those who had any association with the war was forgiving. And, but the dominant feeling in the country was all these young people that were just doing well and making a living, and you get to see what they’ve done with their freedom, and the war was not even on their radar. So…</u>
-      <u who="EVERHARD">What was it like—in your writing you mentioned going to the war memorial in <placeName>Vietnam</placeName>. Can you tell me about what it was like doing that?</u>
-      <u who="COOK">The war memorial in <placeName>Dien Bien Phu</placeName>?</u>
+      <u who="COOK">Well, I think the basic thing was that I’d sort of been hiding all this, these emotions, lies, actions or inactions, you know, so it enabled me to begin to peel away a lot of that stuff and get a more close look at who I really was, and what I’d been through. So it was the beginning of a pretty long process, and not only was my son’s experience a catalyst, but I think some of the readings that I did, particularly the readings by <persName ref="#dvp_081_person_47">Karl [A.] Marlantes</persName>, I guess some of my faith or my building some kind of a discipline, some of which was mental, some of which was spiritual and some of which was physical, that enabled me to begin to tell my own story. And I wrote a bunch of stuff over the years, just scribbles that I would stick in a file or something, and so I would dig a lot of that stuff out, and over time, either through writings or through my own thought process or through talking with my friends, I began to piece the thing together. But it was a very sort of iterative, not particularly intentional process at first. The catalyst for me to make it really intentional was when I was asked by the class to—they went out for this, they called for people to write about their time during when we were in college and after college, and wanted it done, not particularly military, but just to write about the so-called tumultuous times, which they certainly were, even though at the time we probably didn’t realize it. So, anyway, I didn’t pay a lot of attention to that.And then, <persName ref="#dvp_081_person_48">Bill Smoyer</persName>’s sister called me one time and said, “Well, I’m gonna write something. Would you consider reading it and helping me with it?” And I said “absolutely.” And, so anyway, I don’t know, maybe it’s three months later or six months later or whatever, she sent me some stuff, and I went through it, and this is more focused on <persName ref="#dvp_081_person_49">Bill Smoyer</persName>, her brother, my roommate, and I gave her some feedback. And then she said, “Well, are you gonna write something?” And I said, “Well, I don’t know.” She said, “Well, I hope you do.” So that was kind of the kick in the pants that got me to be more intentional about pulling this all together.So then I wrote the song, which took me about a year, and as I think I said, that was kind of the catalyst to get me to decide to go back to <placeName ref="#dvp_081_place_80">Vietnam</placeName>. And I’d had a good friend who was in the <orgName ref="#dvp_081_org_127">Army</orgName> who was actually a teaching colleague of mine when I was at a school in <placeName ref="#dvp_081_place_81">Boston</placeName>, but a close friend. And he had taken students back to <placeName ref="#dvp_081_place_82">Vietnam</placeName> two or three times on bicycle trips. And he was a photographer. So anyway, I got a lot of feedback from that, and he gave me some really cool pictures of <placeName ref="#dvp_081_place_83">Vietnam</placeName>, and I had all that sort of in this period of where I was beginning to try to piece this together. And, so I had it in the back of my mind that maybe I really should try to go back there because of this guy’s particular experience. I talked to other people who’d gone back and said, “oh, it’s great,” and “you really get a lot out of it,” and blah, blah, blah, but this one particular person, <persName ref="#dvp_081_person_50">Joe Swayze</persName>, was the most [inaudible], not only him, but his wife. And they’re both pretty close friends of mine, of ours.And, so anyway, then I began to sort of think about well, will I go back? And eventually I bought a ticket, and I talked to different people about going, including <persName ref="#dvp_081_person_51">Engster</persName>. <persName ref="#dvp_081_person_52">Jevne</persName> had gone back. He was one of the guys that said “you gotta do it.” <persName ref="#dvp_081_person_53">Engster</persName>, he didn’t want any part of it. <persName ref="#dvp_081_person_54">[Doug] Cazort</persName>, my other real good buddy, <placeName ref="#dvp_081_place_84">Vietnam</placeName> buddy, he was, and both of them were just, weren’t able to think about it very much, to consider it. So then I just decided, well, I’ll just ask a couple of other people, and I ended up asking my brother. Well, I actually ended up asking another really good friend, who was not a vet, but a really good friend, and I knew we would be fine together. And then a guy that I worked with who went to <placeName ref="#dvp_081_place_85">Vietnam</placeName> in the <orgName ref="#dvp_081_org_128">Army</orgName>, so I knew we had something in common, and I talked to him a little bit about it and he said, “Yeah, I think I’d like to go.” So anyway, he decided to go, so I had this group of three, and then at the last minute he dropped out—or not at the last minute, but maybe six months, he dropped out.And so, I was talking to my wife and I said, “Well, maybe I should ask my brother.” I’ve never been particularly close to my brother. He always kind of had a—sort of later on when he knew how, what I had gone through, I think he felt pretty guilty about it. Not that he ever said anything to me, but I could—you could tell. So, while I wasn’t particularly close to him, I knew that he was struggling with this, and so I said to my wife, “Well, what if I ask <persName ref="#dvp_081_person_55">Jeff</persName>?” And she said, “Well, that might be a good idea.” And then I asked my son, who also knew my sort of relationship with my brother, and knew a little bit about this sort of post-lack of support guilt trip, because he was always pretty supportive of our son, in fact, maybe too supportive. So I sort of had a [inaudible]. Anyway, I asked him and he said, “Well, Dad, it’s only going to be three weeks. You can probably get through it.” [laughter] And I said “okay.”So I asked him. And he’s always very slow to respond to me, and sort of younger brother kind of deal. I heard from him in like five minutes, and he said, “Oh, yeah, I really want to go.” [laughter] And not to bore you with it, but  about a week later he came back and he said, “Well, I’ve got seven other people who want to go with us.” And I said, “Holy shit.” [laughter] I really don’t want seven other people that I don’t know. And, so I stewed about that for a week because I didn’t want to, you know, turn him off or damper his enthusiasm. But I really did not want to go with a bunch of cheerleaders and that kind of stuff. So, anyway, I got back to him and said, “Look, I’m a little bit nervous about how many people are going to go on this trip” and “I want to keep it small.” And so, and in fact, when I asked him, there was one guy that I met through him who was an <orgName ref="#dvp_081_org_129">Army</orgName> guy in <placeName ref="#dvp_081_place_86">Vietnam</placeName> who I really liked, and I said, “Why don’t you ask <persName ref="#dvp_081_person_56">Kelly</persName>?” And, so that sort of motivated him to ask these people. And so, when I got back to him, I said, “Look, if you’ve got one buddy that you want to have come along, great. But we don’t need a cast of thousands on this trip.” And he got it. And eventually, all the enthusiastic people that wanted to go decided—I don’t think he said they couldn’t come or anything, they just decided they couldn’t go for whatever reasons. So it worked out it was just the three of us. And it was great, and quite frankly, it built a new sort of connection with my brother, which was one of the great benefits of the trip. I talked a little bit about that in my second essay, but it was interesting how it evolved.</u>
+      <u who="EVERHARD">Can you tell me what it was like returning to <placeName ref="#dvp_081_place_87">Vietnam</placeName>?</u>
+      <u who="COOK">Well, I mean, I pretty much outlined it, <persName ref="#dvp_081_person_57">Emily</persName>, in the reprise. But as I said, I was certainly committed to going, and I planned out the trip pretty carefully, and decided that the motorcycle trip down the <placeName ref="#dvp_081_place_88">Ho Chi Minh Trail</placeName> would be a pretty interesting way to meet the people and get a sense of things. I’d gotten some sort of into that in talking with my friend who had done the bicycle trip, and he knew I liked motorcycles. He said “Maybe you try a motorcycle.” So, I sort of had that in mind. So, the trip part of it, planning the trip and all of that was fine. When it got closer and closer, I began to… Oh, and the other thing I was very intentional about was wanting to spend time in the <placeName ref="#dvp_081_place_89">North</placeName>, and go to <placeName ref="#dvp_081_place_90">Dien Bien Phu</placeName>. And a few people that I talked to about going back there, a couple of them had done the trip in the <placeName ref="#dvp_081_place_91">North</placeName> and were very enthusiastic about it. So, as a result of that and a lot of the reading that I had done, both historical reading and political reading, both Americans and Vietnamese, I really wanted to spend a week in the <placeName ref="#dvp_081_place_92">North</placeName>, and go to <placeName ref="#dvp_081_place_93">Dien Bien Phu</placeName> where the <placeName ref="#dvp_081_place_94">French</placeName>… So, that was all pretty—there was no sort of hesitation or anything about it. But the thing that was always in the back of my mind was, whether as my particular experience there or just the whole tragedy, that was very much in my mind, and spending a week in the <placeName ref="#dvp_081_place_95">North</placeName>, I mean, the North to me was where the enemy was. <placeName ref="#dvp_081_place_96">Hanoi</placeName> was, that was <persName ref="#dvp_081_person_58">Ho Chi Minh</persName> and <persName ref="#dvp_081_person_59">General Giap</persName> and all that, so that was…And I was okay with going to <placeName ref="#dvp_081_place_97">I Corps</placeName>. That was like friendly area for me, because that’s where we were. And even though we were fighting the enemy there, we were with the good guys, so to speak. But, <placeName ref="#dvp_081_place_98">Hanoi</placeName> was enemy territory. So, I would just lie awake at night or worry in the day that how was I gonna feel about these people? So that was my biggest fear. And when we arrived there, and rode in from the airport on this big grand highway and all these <placeName ref="#dvp_081_place_99">Vietnamese</placeName> flags, because they’d just had some kind of a nationalist day or something, yeah, when I saw that flag which was now the country of <placeName ref="#dvp_081_place_100">Vietnam</placeName>’s flag, but back then it was the <orgName ref="#dvp_081_org_130">NVA [North Vietnamese Army]</orgName> flag, it was the enemy’s flag. And I said, Oh, boy, here we go, you know, just this sort of knot in my stomach and that kind of stuff.So anyway, the next five or six days we spent up there and had this great guide and we went all around, met a lot of cool people and saw a lot of great sights. And then we went out to <placeName ref="#dvp_081_place_101">Dien Bien Phu</placeName>, which was like going to <placeName ref="#dvp_081_place_102">Gettysburg</placeName>. And that was kind of the turning point for me particularly when a guy gave me the pin from his father who was an <orgName ref="#dvp_081_org_131">NVA</orgName> artilleryman, and wanted me to have it as a gesture of respect, forgiveness, whatever you want to call it. So that kind of flipped it for me. And then we went back to <placeName ref="#dvp_081_place_103">Hanoi</placeName> and the next day we headed on our trip south. And that gesture kind of flipped the switch for me. And so the rest of the trip was interesting, meeting all these <placeName ref="#dvp_081_place_104">Vietnamese</placeName> people. It was hard going to a lot of the sites that I’d been to, and visiting the ambush sites of <persName ref="#dvp_081_person_60">Bill</persName> and <persName ref="#dvp_081_person_61">Duncan Sleigh [‘67]</persName>, and, you know, that was all real emotional and hard and all that kind of stuff. But, as a result of that gesture, symbolic as it was, and then the way the guides and the people in the villages and whatever were so open, and those who had any association with the war was forgiving. And, but the dominant feeling in the country was all these young people that were just doing well and making a living, and you get to see what they’ve done with their freedom, and the war was not even on their radar. So…</u>
+      <u who="EVERHARD">What was it like—in your writing you mentioned going to the war memorial in <placeName ref="#dvp_081_place_105">Vietnam</placeName>. Can you tell me about what it was like doing that?</u>
+      <u who="COOK">The war memorial in <placeName ref="#dvp_081_place_106">Dien Bien Phu</placeName>?</u>
       <u who="EVERHARD">Yes.</u>
-      <u who="COOK">I mean, there were a lot of war memorials. I mean, the <placeName>Vietnamese</placeName> have done a great job with honoring their dead, and they are very… I mean, the Buddhist tradition is to honor your dead, so they do a lot of that, not only with big memorials and museums and that kind of stuff, but they do it right in their home. They have these shrines that… and every year they… That’s a Buddhist thing. Hindu, as well, but the dominant religion there is Buddhism. But, you know, being at the memorials, which are all very focused… I mean, it’s not like going to <placeName>Normandy</placeName> where they’re honoring the <placeName>US</placeName> and the <placeName>French</placeName>. I mean, they are honoring—there is no acknowledgement of any of the <placeName>American</placeName> deaths. But, given the outreach and the attitude, in a lot of ways, I mean, I went to <placeName>Hill 55</placeName> was right above where <persName>Bill Smoyer</persName> was killed and <persName>Duncan Sleigh</persName> was killed, you know, that was a <placeName>Vietnamese</placeName> memorial, but <placeName>Hill 55</placeName> to me is a memorial to all the people who were in that fight, or those fights. So that’s kind of the way I looked at it, rightly or wrongly.</u>
-      <u who="EVERHARD">What was it like seeing it from the <placeName>Vietnamese</placeName> perspective?</u>
-      <u who="COOK">Well, I mean, what was it like? It’s pretty amazing that they were as forgiving as they were, as they are, very clearly, like <placeName>Americans</placeName>, even though a million, two million of them were killed by <placeName>Americans</placeName>, even though Agent Orange is still a big factor in their environment. So, but they have moved on. And they’re, I mean, they are a pretty successful country right now. People got cash in their pockets. If they work one job or two jobs or three jobs, they do pretty well. They have a pretty decent life. Would it be different if they were poor, like <placeName>Cambodia</placeName>, and then sort of had war camps and that kind of thing? I don’t think it would be the same at all. But, given the life as it is right now, it was pretty amazing. And I guess as a result of that, feeling that, that was healing for me. </u>
+      <u who="COOK">I mean, there were a lot of war memorials. I mean, the <placeName ref="#dvp_081_place_107">Vietnamese</placeName> have done a great job with honoring their dead, and they are very… I mean, the Buddhist tradition is to honor your dead, so they do a lot of that, not only with big memorials and museums and that kind of stuff, but they do it right in their home. They have these shrines that… and every year they… That’s a Buddhist thing. Hindu, as well, but the dominant religion there is Buddhism. But, you know, being at the memorials, which are all very focused… I mean, it’s not like going to <placeName ref="#dvp_081_place_108">Normandy</placeName> where they’re honoring the <placeName ref="#dvp_081_place_109">US</placeName> and the <placeName ref="#dvp_081_place_110">French</placeName>. I mean, they are honoring—there is no acknowledgement of any of the <placeName ref="#dvp_081_place_111">American</placeName> deaths. But, given the outreach and the attitude, in a lot of ways, I mean, I went to <placeName ref="#dvp_081_place_112">Hill 55</placeName> was right above where <persName ref="#dvp_081_person_62">Bill Smoyer</persName> was killed and <persName ref="#dvp_081_person_63">Duncan Sleigh</persName> was killed, you know, that was a <placeName ref="#dvp_081_place_113">Vietnamese</placeName> memorial, but <placeName ref="#dvp_081_place_114">Hill 55</placeName> to me is a memorial to all the people who were in that fight, or those fights. So that’s kind of the way I looked at it, rightly or wrongly.</u>
+      <u who="EVERHARD">What was it like seeing it from the <placeName ref="#dvp_081_place_115">Vietnamese</placeName> perspective?</u>
+      <u who="COOK">Well, I mean, what was it like? It’s pretty amazing that they were as forgiving as they were, as they are, very clearly, like <placeName ref="#dvp_081_place_116">Americans</placeName>, even though a million, two million of them were killed by <placeName ref="#dvp_081_place_117">Americans</placeName>, even though Agent Orange is still a big factor in their environment. So, but they have moved on. And they’re, I mean, they are a pretty successful country right now. People got cash in their pockets. If they work one job or two jobs or three jobs, they do pretty well. They have a pretty decent life. Would it be different if they were poor, like <placeName ref="#dvp_081_place_118">Cambodia</placeName>, and then sort of had war camps and that kind of thing? I don’t think it would be the same at all. But, given the life as it is right now, it was pretty amazing. And I guess as a result of that, feeling that, that was healing for me. </u>
       <u who="EVERHARD">Yeah, definitely.</u>
-      <u who="COOK">I mean, I don’t know how many people can say that. But I just had some friends that were over there this summer or this fall, and he and his wife were over with a group. They were all military guys, mostly <orgName>Marines</orgName>, I think. And they had more of a—well, the first part of their tour was in <placeName>I Corps</placeName> was pretty much visiting the battlefields and that kind of thing, pretty military focused. And then they went to <placeName>Cambodia</placeName>, and then they went down on the <placeName>[Mekong] Delta</placeName>. And they ended up having a similar kind of experience, and again, I think it was pretty healing for them. So, you know, everybody’s experience is different. But, I don’t know how you can help not be healed by doing that. And there are a lot of veterans that do it, and most of them come away with that kind of a feeling. As I said in the article, a lot of vets go back and do social service there. A lot of vets go back to help defuse unexploded ordnance. A lot of vets go back to help with this Agent Orange issue. And I’m sure they find it… Well, I had a little bit of that experience in the schools and in the community center that I’m a part of. So, what was it like? I did it.</u>
-      <u who="EVERHARD">Yeah, definitely. And now, from where you are right now in your life, when you look back on your time in <placeName>Vietnam</placeName>, what do you [inaudible] toward it?</u>
-      <u who="COOK">Well, I mean, I think now it’s a part of my life that I’ve acknowledged, and I can live with it and deal with it, and even honor it. And I can, now that I’ve—sort of found the truth and walked in the truth, I can—I’m not sure I’m proud of it, but it’s an important part of my life. And like this week I’m going back to <placeName>Princeton [NJ]</placeName> to visit <persName>Bill Smoyer</persName>’s grave, and then I’m going to <placeName>Washington</placeName> for <name type="event">Veterans Day</name> and be at the <placeName>Wall [Vietnam Veterans Memorial]</placeName> with <persName>Nancy [Smoyer]</persName>. And, you know, I’ve always had some—because of my son and because of my friends and because of, I mean, I’ve always sort of had that a part of my routine, so to speak. It’s an important part of it. But this kind of is a further extension of the trip back. And I’ve been to <persName>Smoyer</persName>’s grave a number of times, including when we buried him, but this is sort of a different—I’m in a different frame of mind now. And when I go to the <placeName>Wall</placeName>, the <placeName>Wall</placeName>’s a hard place to go to, but I can go there a little differently this time than the last time I was there. I mean, I avoided the <placeName>Wall</placeName>. My sister dragged me there. She happens to live in <placeName>DC</placeName> and I was there and she kind of—because she felt it was really important that I go there. But now I can go there and I’m not—I have nothing to hide.</u>
+      <u who="COOK">I mean, I don’t know how many people can say that. But I just had some friends that were over there this summer or this fall, and he and his wife were over with a group. They were all military guys, mostly <orgName ref="#dvp_081_org_132">Marines</orgName>, I think. And they had more of a—well, the first part of their tour was in <placeName ref="#dvp_081_place_119">I Corps</placeName> was pretty much visiting the battlefields and that kind of thing, pretty military focused. And then they went to <placeName ref="#dvp_081_place_120">Cambodia</placeName>, and then they went down on the <placeName ref="#dvp_081_place_121">[Mekong] Delta</placeName>. And they ended up having a similar kind of experience, and again, I think it was pretty healing for them. So, you know, everybody’s experience is different. But, I don’t know how you can help not be healed by doing that. And there are a lot of veterans that do it, and most of them come away with that kind of a feeling. As I said in the article, a lot of vets go back and do social service there. A lot of vets go back to help defuse unexploded ordnance. A lot of vets go back to help with this Agent Orange issue. And I’m sure they find it… Well, I had a little bit of that experience in the schools and in the community center that I’m a part of. So, what was it like? I did it.</u>
+      <u who="EVERHARD">Yeah, definitely. And now, from where you are right now in your life, when you look back on your time in <placeName ref="#dvp_081_place_122">Vietnam</placeName>, what do you [inaudible] toward it?</u>
+      <u who="COOK">Well, I mean, I think now it’s a part of my life that I’ve acknowledged, and I can live with it and deal with it, and even honor it. And I can, now that I’ve—sort of found the truth and walked in the truth, I can—I’m not sure I’m proud of it, but it’s an important part of my life. And like this week I’m going back to <placeName ref="#dvp_081_place_123">Princeton [NJ]</placeName> to visit <persName ref="#dvp_081_person_64">Bill Smoyer</persName>’s grave, and then I’m going to <placeName ref="#dvp_081_place_124">Washington</placeName> for <name type="event" ref="#dvp_081_event_11">Veterans Day</name> and be at the <placeName ref="#dvp_081_place_125">Wall [Vietnam Veterans Memorial]</placeName> with <persName ref="#dvp_081_person_65">Nancy [Smoyer]</persName>. And, you know, I’ve always had some—because of my son and because of my friends and because of, I mean, I’ve always sort of had that a part of my routine, so to speak. It’s an important part of it. But this kind of is a further extension of the trip back. And I’ve been to <persName ref="#dvp_081_person_66">Smoyer</persName>’s grave a number of times, including when we buried him, but this is sort of a different—I’m in a different frame of mind now. And when I go to the <placeName ref="#dvp_081_place_126">Wall</placeName>, the <placeName ref="#dvp_081_place_127">Wall</placeName>’s a hard place to go to, but I can go there a little differently this time than the last time I was there. I mean, I avoided the <placeName ref="#dvp_081_place_128">Wall</placeName>. My sister dragged me there. She happens to live in <placeName ref="#dvp_081_place_129">DC</placeName> and I was there and she kind of—because she felt it was really important that I go there. But now I can go there and I’m not—I have nothing to hide.</u>
       <u who="EVERHARD">One of the last things I just wanted to ask you about was when you [inaudible] on your resume, and I thought maybe you’re willing to talk a little bit about that?</u>
-      <u who="COOK">Yeah, I mean, I suppose it was a… Who knows? But, the two things that I can come up with, one is, even though nobody really knew about it until it was made public, the lie was made public, nobody knew about the medal, to me it was a way of trying to get recognition when I was back home. The irony is I said in my writing as well as now is that I don’t think anybody really knew about it, much less would they have understood it, what it was. So that was one. The other is just ego, that ego, ambition, whatever you want to call it. So, even though I wasn’t out in the job market very much looking for jobs, and whether that helped or not, you certainly have to say that that had something to do with it. But I think the more important one was just at the time, and that happened pretty early in my post-<placeName>Vietnam</placeName> time, was the recognition validation. But as I said, the irony was that there weren’t very many people reading my resume. And I wasn’t out in public wearing a medal, for sure.</u>
-      <u who="EVERHARD">Yeah, and so moving forward from that, you talked a lot about your connection with your son because he was in the <orgName>Marines</orgName>. And I was just wondering what that’s kind of like now [inaudible]?</u>
-      <u who="COOK">He did six combat tours. He’s been home for a while now. He’s a Lieutenant Colonel now, and is actually just about to take over the same battalion that I first served with in <placeName>Vietnam</placeName>. Which is kind of an irony.</u>
+      <u who="COOK">Yeah, I mean, I suppose it was a… Who knows? But, the two things that I can come up with, one is, even though nobody really knew about it until it was made public, the lie was made public, nobody knew about the medal, to me it was a way of trying to get recognition when I was back home. The irony is I said in my writing as well as now is that I don’t think anybody really knew about it, much less would they have understood it, what it was. So that was one. The other is just ego, that ego, ambition, whatever you want to call it. So, even though I wasn’t out in the job market very much looking for jobs, and whether that helped or not, you certainly have to say that that had something to do with it. But I think the more important one was just at the time, and that happened pretty early in my post-<placeName ref="#dvp_081_place_130">Vietnam</placeName> time, was the recognition validation. But as I said, the irony was that there weren’t very many people reading my resume. And I wasn’t out in public wearing a medal, for sure.</u>
+      <u who="EVERHARD">Yeah, and so moving forward from that, you talked a lot about your connection with your son because he was in the <orgName ref="#dvp_081_org_133">Marines</orgName>. And I was just wondering what that’s kind of like now [inaudible]?</u>
+      <u who="COOK">He did six combat tours. He’s been home for a while now. He’s a Lieutenant Colonel now, and is actually just about to take over the same battalion that I first served with in <placeName ref="#dvp_081_place_131">Vietnam</placeName>. Which is kind of an irony.</u>
       <u who="EVERHARD">How does that make you feel [inaudible]?</u>
-      <u who="COOK">Yeah, I guess that’s the right word. Again, we don’t talk a lot about it. But, the unspoken kind of connections are pretty strong. Not just about the deployments, but just about the time in <orgName>the Marine Corps</orgName> and what he does and the issues he deals with and the people, and I mean, I’ve gotten to know a lot of his buddies and the people he served with, both senior and junior to him. So, in one way I’ve been sort of part of his—we, my wife and I, and even our daughter, have been a part of that, which has been good for us and good for him. I mean, those early times, those deployments, they were almost like being there yourself. And, of course, for my wife it was very different. But in some ways, I mean, she went through my time in <placeName>Vietnam</placeName>, even though we didn’t know each other that well then, we were definitely—it was definitely a war marriage. You know, we knew each other like a month or two before I went over, and we got married three months after I came home. And we’re still together. [Laughter]</u>
+      <u who="COOK">Yeah, I guess that’s the right word. Again, we don’t talk a lot about it. But, the unspoken kind of connections are pretty strong. Not just about the deployments, but just about the time in <orgName ref="#dvp_081_org_134">the Marine Corps</orgName> and what he does and the issues he deals with and the people, and I mean, I’ve gotten to know a lot of his buddies and the people he served with, both senior and junior to him. So, in one way I’ve been sort of part of his—we, my wife and I, and even our daughter, have been a part of that, which has been good for us and good for him. I mean, those early times, those deployments, they were almost like being there yourself. And, of course, for my wife it was very different. But in some ways, I mean, she went through my time in <placeName ref="#dvp_081_place_132">Vietnam</placeName>, even though we didn’t know each other that well then, we were definitely—it was definitely a war marriage. You know, we knew each other like a month or two before I went over, and we got married three months after I came home. And we’re still together. [Laughter]</u>
       <u who="EVERHARD">For the purpose of the recording, could you say your wife’s name?</u>
-      <u who="COOK"><persName>Brammie</persName>. B-r-a-m-m-i-e.</u>
+      <u who="COOK"><persName ref="#dvp_081_person_67">Brammie</persName>. B-r-a-m-m-i-e.</u>
       <u who="EVERHARD">Well, now that we’re kind of in the present day, wrapping up the interview, I was just wondering if there is anything else that you want to talk about that we haven’t covered?</u>
-      <u who="COOK">Well, I don’t know, you’ve covered a lot of ground. You know, I guess I appreciate the effort you guys are making, certainly the retrospective effort, whether something like this or reading history or political accounts or whatever. Oh, I know that if you do that, you can only learn from it. And you only would wish that our leaders at whatever level would use history and lessons learned more, and we wouldn’t… Whether you’re looking at it on a very personal level like this or you’re looking at it on a broader sort of strategy level or that kind of thing, I think if the military leaders and political leaders had really done their homework on what happened in <placeName>Vietnam</placeName>, would there have been a different outcome in <placeName>Iraq</placeName> or in <placeName>Afghanistan</placeName>? And you could say that about <name type="event">World War I</name> or <name type="event">World War II</name>. You could say that about these bozos that are running for President right now. I mean, clearly <persName>Hillary [Clinton]</persName> reads and <persName>[Donald] Trump</persName> doesn’t read, but how much she uses that history will be determined.So I think the kind of thing that you’re doing is important. It’s just a question of how it gets used. You know, you read a book like <persName>Jim Wright</persName>’s just about to come out with, and on the one hand, that’s a very important accounting of what happened to people, not only veterans, but their families. But what do you learn from that? I mean, <persName>Jim</persName>’s a historian and he didn’t write that just to tell a bunch of stories. He wrote that for a purpose. So, you know, I think what you’re doing, and what—was it <persName>Professor [Ed] Miller</persName>—what he’s trying to do, and what people your age or my son’s age can learn from this kind of thing is an opportunity.</u>
-      <u who="EVERHARD">Yeah. Thank you so much [inaudible] It’s so wonderful and it’s really going to contribute a lot to <orgName>the Dartmouth Vietnam Project</orgName>.</u>
+      <u who="COOK">Well, I don’t know, you’ve covered a lot of ground. You know, I guess I appreciate the effort you guys are making, certainly the retrospective effort, whether something like this or reading history or political accounts or whatever. Oh, I know that if you do that, you can only learn from it. And you only would wish that our leaders at whatever level would use history and lessons learned more, and we wouldn’t… Whether you’re looking at it on a very personal level like this or you’re looking at it on a broader sort of strategy level or that kind of thing, I think if the military leaders and political leaders had really done their homework on what happened in <placeName ref="#dvp_081_place_133">Vietnam</placeName>, would there have been a different outcome in <placeName ref="#dvp_081_place_134">Iraq</placeName> or in <placeName ref="#dvp_081_place_135">Afghanistan</placeName>? And you could say that about <name type="event" ref="#dvp_081_event_12">World War I</name> or <name type="event" ref="#dvp_081_event_13">World War II</name>. You could say that about these bozos that are running for President right now. I mean, clearly <persName ref="#dvp_081_person_68">Hillary [Clinton]</persName> reads and <persName ref="#dvp_081_person_69">[Donald] Trump</persName> doesn’t read, but how much she uses that history will be determined.So I think the kind of thing that you’re doing is important. It’s just a question of how it gets used. You know, you read a book like <persName ref="#dvp_081_person_70">Jim Wright</persName>’s just about to come out with, and on the one hand, that’s a very important accounting of what happened to people, not only veterans, but their families. But what do you learn from that? I mean, <persName ref="#dvp_081_person_71">Jim</persName>’s a historian and he didn’t write that just to tell a bunch of stories. He wrote that for a purpose. So, you know, I think what you’re doing, and what—was it <persName ref="#dvp_081_person_72">Professor [Ed] Miller</persName>—what he’s trying to do, and what people your age or my son’s age can learn from this kind of thing is an opportunity.</u>
+      <u who="EVERHARD">Yeah. Thank you so much [inaudible] It’s so wonderful and it’s really going to contribute a lot to <orgName ref="#dvp_081_org_135">the Dartmouth Vietnam Project</orgName>.</u>
       <u who="COOK">So, you’re taking a course, or is this a side project, or how’s this fit into your work plan?</u>
       <u who="EVERHARD">Well, I’ll stop the recording and then we can chat.[End of Interview.]</u>
     </body>
   </text>
+  <standOff>
+    <listPlace>
+      <place xml:id="dvp_081_place_0">
+        <placeName>Rauner [Special Collections] Library</placeName>
+      </place>
+      <place xml:id="dvp_081_place_1">
+        <placeName>Dartmouth College</placeName>
+      </place>
+      <place xml:id="dvp_081_place_2">
+        <placeName>Hanover, New Hampshire</placeName>
+      </place>
+      <place xml:id="dvp_081_place_3">
+        <placeName>Hanover</placeName>
+      </place>
+      <place xml:id="dvp_081_place_4">
+        <placeName>New York City</placeName>
+      </place>
+      <place xml:id="dvp_081_place_5">
+        <placeName>Williamstown, Massachusetts</placeName>
+      </place>
+      <place xml:id="dvp_081_place_6">
+        <placeName>Korea</placeName>
+      </place>
+      <place xml:id="dvp_081_place_7">
+        <placeName>Washington</placeName>
+      </place>
+      <place xml:id="dvp_081_place_8">
+        <placeName>Washington</placeName>
+      </place>
+      <place xml:id="dvp_081_place_9">
+        <placeName>New England</placeName>
+      </place>
+      <place xml:id="dvp_081_place_10">
+        <placeName>Quantico, Virginia</placeName>
+      </place>
+      <place xml:id="dvp_081_place_11">
+        <placeName>Williamstown</placeName>
+      </place>
+      <place xml:id="dvp_081_place_12">
+        <placeName>Minnesota</placeName>
+      </place>
+      <place xml:id="dvp_081_place_13">
+        <placeName>Minnesota</placeName>
+      </place>
+      <place xml:id="dvp_081_place_14">
+        <placeName>Williamstown</placeName>
+      </place>
+      <place xml:id="dvp_081_place_15">
+        <placeName>Davis Rink</placeName>
+      </place>
+      <place xml:id="dvp_081_place_16">
+        <placeName>Hopkins [Center]</placeName>
+      </place>
+      <place xml:id="dvp_081_place_17">
+        <placeName>Spaulding Auditorium</placeName>
+      </place>
+      <place xml:id="dvp_081_place_18">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="dvp_081_place_19">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="dvp_081_place_20">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="dvp_081_place_21">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="dvp_081_place_22">
+        <placeName>Minnesota</placeName>
+      </place>
+      <place xml:id="dvp_081_place_23">
+        <placeName>Grenoble [France]</placeName>
+      </place>
+      <place xml:id="dvp_081_place_24">
+        <placeName>Washington</placeName>
+      </place>
+      <place xml:id="dvp_081_place_25">
+        <placeName>Washington, DC</placeName>
+      </place>
+      <place xml:id="dvp_081_place_26">
+        <placeName>Monterrey, California</placeName>
+      </place>
+      <place xml:id="dvp_081_place_27">
+        <placeName>Fort Bragg, North Carolina</placeName>
+      </place>
+      <place xml:id="dvp_081_place_28">
+        <placeName>Fort Bragg</placeName>
+      </place>
+      <place xml:id="dvp_081_place_29">
+        <placeName>Europe</placeName>
+      </place>
+      <place xml:id="dvp_081_place_30">
+        <placeName>States</placeName>
+      </place>
+      <place xml:id="dvp_081_place_31">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="dvp_081_place_32">
+        <placeName>DMZ [Demilitarized Zone]</placeName>
+      </place>
+      <place xml:id="dvp_081_place_33">
+        <placeName>Route 9</placeName>
+      </place>
+      <place xml:id="dvp_081_place_34">
+        <placeName>DMZ</placeName>
+      </place>
+      <place xml:id="dvp_081_place_35">
+        <placeName>DMZ</placeName>
+      </place>
+      <place xml:id="dvp_081_place_36">
+        <placeName>Da Nang</placeName>
+      </place>
+      <place xml:id="dvp_081_place_37">
+        <placeName>Da Nang</placeName>
+      </place>
+      <place xml:id="dvp_081_place_38">
+        <placeName>South Vietnam</placeName>
+      </place>
+      <place xml:id="dvp_081_place_39">
+        <placeName>I Corps</placeName>
+      </place>
+      <place xml:id="dvp_081_place_40">
+        <placeName>Iraq</placeName>
+      </place>
+      <place xml:id="dvp_081_place_41">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="dvp_081_place_42">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="dvp_081_place_43">
+        <placeName>Da Nang</placeName>
+      </place>
+      <place xml:id="dvp_081_place_44">
+        <placeName>US</placeName>
+      </place>
+      <place xml:id="dvp_081_place_45">
+        <placeName>Da Nang</placeName>
+      </place>
+      <place xml:id="dvp_081_place_46">
+        <placeName>Da Nang</placeName>
+      </place>
+      <place xml:id="dvp_081_place_47">
+        <placeName>US</placeName>
+      </place>
+      <place xml:id="dvp_081_place_48">
+        <placeName>Arlington</placeName>
+      </place>
+      <place xml:id="dvp_081_place_49">
+        <placeName>Iraq</placeName>
+      </place>
+      <place xml:id="dvp_081_place_50">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="dvp_081_place_51">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="dvp_081_place_52">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="dvp_081_place_53">
+        <placeName>Hawaii</placeName>
+      </place>
+      <place xml:id="dvp_081_place_54">
+        <placeName>Bangkok</placeName>
+      </place>
+      <place xml:id="dvp_081_place_55">
+        <placeName>Hong Kong</placeName>
+      </place>
+      <place xml:id="dvp_081_place_56">
+        <placeName>Australia</placeName>
+      </place>
+      <place xml:id="dvp_081_place_57">
+        <placeName>Hawaii</placeName>
+      </place>
+      <place xml:id="dvp_081_place_58">
+        <placeName>Maui</placeName>
+      </place>
+      <place xml:id="dvp_081_place_59">
+        <placeName>Maui</placeName>
+      </place>
+      <place xml:id="dvp_081_place_60">
+        <placeName>Da Nang</placeName>
+      </place>
+      <place xml:id="dvp_081_place_61">
+        <placeName>Da Nang</placeName>
+      </place>
+      <place xml:id="dvp_081_place_62">
+        <placeName>Newport [RI]</placeName>
+      </place>
+      <place xml:id="dvp_081_place_63">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="dvp_081_place_64">
+        <placeName>Newport, Rhode Island</placeName>
+      </place>
+      <place xml:id="dvp_081_place_65">
+        <placeName>Newport</placeName>
+      </place>
+      <place xml:id="dvp_081_place_66">
+        <placeName>Marines</placeName>
+      </place>
+      <place xml:id="dvp_081_place_67">
+        <placeName>Marine</placeName>
+      </place>
+      <place xml:id="dvp_081_place_68">
+        <placeName>Boston</placeName>
+      </place>
+      <place xml:id="dvp_081_place_69">
+        <placeName>Camp Lejeune</placeName>
+      </place>
+      <place xml:id="dvp_081_place_70">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="dvp_081_place_71">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="dvp_081_place_72">
+        <placeName>Amherst</placeName>
+      </place>
+      <place xml:id="dvp_081_place_73">
+        <placeName>Newport</placeName>
+      </place>
+      <place xml:id="dvp_081_place_74">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="dvp_081_place_75">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="dvp_081_place_76">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="dvp_081_place_77">
+        <placeName>Portland, Maine</placeName>
+      </place>
+      <place xml:id="dvp_081_place_78">
+        <placeName>Boston</placeName>
+      </place>
+      <place xml:id="dvp_081_place_79">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="dvp_081_place_80">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="dvp_081_place_81">
+        <placeName>Boston</placeName>
+      </place>
+      <place xml:id="dvp_081_place_82">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="dvp_081_place_83">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="dvp_081_place_84">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="dvp_081_place_85">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="dvp_081_place_86">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="dvp_081_place_87">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="dvp_081_place_88">
+        <placeName>Ho Chi Minh Trail</placeName>
+      </place>
+      <place xml:id="dvp_081_place_89">
+        <placeName>North</placeName>
+      </place>
+      <place xml:id="dvp_081_place_90">
+        <placeName>Dien Bien Phu</placeName>
+      </place>
+      <place xml:id="dvp_081_place_91">
+        <placeName>North</placeName>
+      </place>
+      <place xml:id="dvp_081_place_92">
+        <placeName>North</placeName>
+      </place>
+      <place xml:id="dvp_081_place_93">
+        <placeName>Dien Bien Phu</placeName>
+      </place>
+      <place xml:id="dvp_081_place_94">
+        <placeName>French</placeName>
+      </place>
+      <place xml:id="dvp_081_place_95">
+        <placeName>North</placeName>
+      </place>
+      <place xml:id="dvp_081_place_96">
+        <placeName>Hanoi</placeName>
+      </place>
+      <place xml:id="dvp_081_place_97">
+        <placeName>I Corps</placeName>
+      </place>
+      <place xml:id="dvp_081_place_98">
+        <placeName>Hanoi</placeName>
+      </place>
+      <place xml:id="dvp_081_place_99">
+        <placeName>Vietnamese</placeName>
+      </place>
+      <place xml:id="dvp_081_place_100">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="dvp_081_place_101">
+        <placeName>Dien Bien Phu</placeName>
+      </place>
+      <place xml:id="dvp_081_place_102">
+        <placeName>Gettysburg</placeName>
+      </place>
+      <place xml:id="dvp_081_place_103">
+        <placeName>Hanoi</placeName>
+      </place>
+      <place xml:id="dvp_081_place_104">
+        <placeName>Vietnamese</placeName>
+      </place>
+      <place xml:id="dvp_081_place_105">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="dvp_081_place_106">
+        <placeName>Dien Bien Phu</placeName>
+      </place>
+      <place xml:id="dvp_081_place_107">
+        <placeName>Vietnamese</placeName>
+      </place>
+      <place xml:id="dvp_081_place_108">
+        <placeName>Normandy</placeName>
+      </place>
+      <place xml:id="dvp_081_place_109">
+        <placeName>US</placeName>
+      </place>
+      <place xml:id="dvp_081_place_110">
+        <placeName>French</placeName>
+      </place>
+      <place xml:id="dvp_081_place_111">
+        <placeName>American</placeName>
+      </place>
+      <place xml:id="dvp_081_place_112">
+        <placeName>Hill 55</placeName>
+      </place>
+      <place xml:id="dvp_081_place_113">
+        <placeName>Vietnamese</placeName>
+      </place>
+      <place xml:id="dvp_081_place_114">
+        <placeName>Hill 55</placeName>
+      </place>
+      <place xml:id="dvp_081_place_115">
+        <placeName>Vietnamese</placeName>
+      </place>
+      <place xml:id="dvp_081_place_116">
+        <placeName>Americans</placeName>
+      </place>
+      <place xml:id="dvp_081_place_117">
+        <placeName>Americans</placeName>
+      </place>
+      <place xml:id="dvp_081_place_118">
+        <placeName>Cambodia</placeName>
+      </place>
+      <place xml:id="dvp_081_place_119">
+        <placeName>I Corps</placeName>
+      </place>
+      <place xml:id="dvp_081_place_120">
+        <placeName>Cambodia</placeName>
+      </place>
+      <place xml:id="dvp_081_place_121">
+        <placeName>[Mekong] Delta</placeName>
+      </place>
+      <place xml:id="dvp_081_place_122">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="dvp_081_place_123">
+        <placeName>Princeton [NJ]</placeName>
+      </place>
+      <place xml:id="dvp_081_place_124">
+        <placeName>Washington</placeName>
+      </place>
+      <place xml:id="dvp_081_place_125">
+        <placeName>Wall [Vietnam Veterans Memorial]</placeName>
+      </place>
+      <place xml:id="dvp_081_place_126">
+        <placeName>Wall</placeName>
+      </place>
+      <place xml:id="dvp_081_place_127">
+        <placeName>Wall</placeName>
+      </place>
+      <place xml:id="dvp_081_place_128">
+        <placeName>Wall</placeName>
+      </place>
+      <place xml:id="dvp_081_place_129">
+        <placeName>DC</placeName>
+      </place>
+      <place xml:id="dvp_081_place_130">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="dvp_081_place_131">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="dvp_081_place_132">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="dvp_081_place_133">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="dvp_081_place_134">
+        <placeName>Iraq</placeName>
+      </place>
+      <place xml:id="dvp_081_place_135">
+        <placeName>Afghanistan</placeName>
+      </place>
+    </listPlace>
+    <listEvent>
+      <event xml:id="dvp_081_event_0">
+        <desc>World War II</desc>
+      </event>
+      <event xml:id="dvp_081_event_1">
+        <desc>World War II </desc>
+      </event>
+      <event xml:id="dvp_081_event_2">
+        <desc>World War II</desc>
+      </event>
+      <event xml:id="dvp_081_event_3">
+        <desc>World War II</desc>
+      </event>
+      <event xml:id="dvp_081_event_4">
+        <desc>Vietnam</desc>
+      </event>
+      <event xml:id="dvp_081_event_5">
+        <desc>Green Key</desc>
+      </event>
+      <event xml:id="dvp_081_event_6">
+        <desc>the Vietnam War</desc>
+      </event>
+      <event xml:id="dvp_081_event_7">
+        <desc>Olympics</desc>
+      </event>
+      <event xml:id="dvp_081_event_8">
+        <desc>Olympics</desc>
+      </event>
+      <event xml:id="dvp_081_event_9">
+        <desc>Olympics</desc>
+      </event>
+      <event xml:id="dvp_081_event_10">
+        <desc>the Tet Offensive</desc>
+      </event>
+      <event xml:id="dvp_081_event_11">
+        <desc>Veterans Day</desc>
+      </event>
+      <event xml:id="dvp_081_event_12">
+        <desc>World War I</desc>
+      </event>
+      <event xml:id="dvp_081_event_13">
+        <desc>World War II</desc>
+      </event>
+    </listEvent>
+    <listPerson>
+      <person xml:id="dvp_081_person_0">
+        <persName>Emily Everhard [’18]</persName>
+      </person>
+      <person xml:id="dvp_081_person_1">
+        <persName>Warren Cook</persName>
+      </person>
+      <person xml:id="dvp_081_person_2">
+        <persName>Rebecca</persName>
+      </person>
+      <person xml:id="dvp_081_person_3">
+        <persName>Jeff</persName>
+      </person>
+      <person xml:id="dvp_081_person_4">
+        <persName>Helen</persName>
+      </person>
+      <person xml:id="dvp_081_person_5">
+        <persName>Averil</persName>
+      </person>
+      <person xml:id="dvp_081_person_6">
+        <persName>Will</persName>
+      </person>
+      <person xml:id="dvp_081_person_7">
+        <persName>John</persName>
+      </person>
+      <person xml:id="dvp_081_person_8">
+        <persName>Helen Cook</persName>
+      </person>
+      <person xml:id="dvp_081_person_9">
+        <persName>Norm Teatro [spelling unconfirmed]</persName>
+      </person>
+      <person xml:id="dvp_081_person_10">
+        <persName>Paul Gigliotti</persName>
+      </person>
+      <person xml:id="dvp_081_person_11">
+        <persName>Emily</persName>
+      </person>
+      <person xml:id="dvp_081_person_12">
+        <persName>Franklin Roosevelt</persName>
+      </person>
+      <person xml:id="dvp_081_person_13">
+        <persName>Martin Luther King</persName>
+      </person>
+      <person xml:id="dvp_081_person_14">
+        <persName>King</persName>
+      </person>
+      <person xml:id="dvp_081_person_15">
+        <persName>King</persName>
+      </person>
+      <person xml:id="dvp_081_person_16">
+        <persName>Rick Mahoney [’65]</persName>
+      </person>
+      <person xml:id="dvp_081_person_17">
+        <persName>[Edward J.] Eddie Jeremiah</persName>
+      </person>
+      <person xml:id="dvp_081_person_18">
+        <persName>Jeremiah</persName>
+      </person>
+      <person xml:id="dvp_081_person_19">
+        <persName>Jeremiah</persName>
+      </person>
+      <person xml:id="dvp_081_person_20">
+        <persName>Jeremiah</persName>
+      </person>
+      <person xml:id="dvp_081_person_21">
+        <persName>JFK</persName>
+      </person>
+      <person xml:id="dvp_081_person_22">
+        <persName>Emily</persName>
+      </person>
+      <person xml:id="dvp_081_person_23">
+        <persName>[Vincent] Vince Starzinger</persName>
+      </person>
+      <person xml:id="dvp_081_person_24">
+        <persName>Al Merrill</persName>
+      </person>
+      <person xml:id="dvp_081_person_25">
+        <persName>Emily</persName>
+      </person>
+      <person xml:id="dvp_081_person_26">
+        <persName>Martin Luther King</persName>
+      </person>
+      <person xml:id="dvp_081_person_27">
+        <persName>Bobby Kennedy</persName>
+      </person>
+      <person xml:id="dvp_081_person_28">
+        <persName>[President Lyndon B.] Johnson</persName>
+      </person>
+      <person xml:id="dvp_081_person_29">
+        <persName>Bill Jevne</persName>
+      </person>
+      <person xml:id="dvp_081_person_30">
+        <persName>Bill Engster</persName>
+      </person>
+      <person xml:id="dvp_081_person_31">
+        <persName>Doug Cazort</persName>
+      </person>
+      <person xml:id="dvp_081_person_32">
+        <persName>Ed Bailey</persName>
+      </person>
+      <person xml:id="dvp_081_person_33">
+        <persName>Bailey</persName>
+      </person>
+      <person xml:id="dvp_081_person_34">
+        <persName>Emily</persName>
+      </person>
+      <person xml:id="dvp_081_person_35">
+        <persName>Bill Smoyer [William Smoyer ‘67]</persName>
+      </person>
+      <person xml:id="dvp_081_person_36">
+        <persName>Bill</persName>
+      </person>
+      <person xml:id="dvp_081_person_37">
+        <persName>Emily</persName>
+      </person>
+      <person xml:id="dvp_081_person_38">
+        <persName>[General William C.] Westmoreland</persName>
+      </person>
+      <person xml:id="dvp_081_person_39">
+        <persName>Westmoreland</persName>
+      </person>
+      <person xml:id="dvp_081_person_40">
+        <persName>[General] Creighton Abrams</persName>
+      </person>
+      <person xml:id="dvp_081_person_41">
+        <persName>Emily</persName>
+      </person>
+      <person xml:id="dvp_081_person_42">
+        <persName>[Bill] Jevne</persName>
+      </person>
+      <person xml:id="dvp_081_person_43">
+        <persName>[Bill] Engster</persName>
+      </person>
+      <person xml:id="dvp_081_person_44">
+        <persName>Nixon</persName>
+      </person>
+      <person xml:id="dvp_081_person_45">
+        <persName>Jevne</persName>
+      </person>
+      <person xml:id="dvp_081_person_46">
+        <persName>Engster</persName>
+      </person>
+      <person xml:id="dvp_081_person_47">
+        <persName>Karl [A.] Marlantes</persName>
+      </person>
+      <person xml:id="dvp_081_person_48">
+        <persName>Bill Smoyer</persName>
+      </person>
+      <person xml:id="dvp_081_person_49">
+        <persName>Bill Smoyer</persName>
+      </person>
+      <person xml:id="dvp_081_person_50">
+        <persName>Joe Swayze</persName>
+      </person>
+      <person xml:id="dvp_081_person_51">
+        <persName>Engster</persName>
+      </person>
+      <person xml:id="dvp_081_person_52">
+        <persName>Jevne</persName>
+      </person>
+      <person xml:id="dvp_081_person_53">
+        <persName>Engster</persName>
+      </person>
+      <person xml:id="dvp_081_person_54">
+        <persName>[Doug] Cazort</persName>
+      </person>
+      <person xml:id="dvp_081_person_55">
+        <persName>Jeff</persName>
+      </person>
+      <person xml:id="dvp_081_person_56">
+        <persName>Kelly</persName>
+      </person>
+      <person xml:id="dvp_081_person_57">
+        <persName>Emily</persName>
+      </person>
+      <person xml:id="dvp_081_person_58">
+        <persName>Ho Chi Minh</persName>
+      </person>
+      <person xml:id="dvp_081_person_59">
+        <persName>General Giap</persName>
+      </person>
+      <person xml:id="dvp_081_person_60">
+        <persName>Bill</persName>
+      </person>
+      <person xml:id="dvp_081_person_61">
+        <persName>Duncan Sleigh [‘67]</persName>
+      </person>
+      <person xml:id="dvp_081_person_62">
+        <persName>Bill Smoyer</persName>
+      </person>
+      <person xml:id="dvp_081_person_63">
+        <persName>Duncan Sleigh</persName>
+      </person>
+      <person xml:id="dvp_081_person_64">
+        <persName>Bill Smoyer</persName>
+      </person>
+      <person xml:id="dvp_081_person_65">
+        <persName>Nancy [Smoyer]</persName>
+      </person>
+      <person xml:id="dvp_081_person_66">
+        <persName>Smoyer</persName>
+      </person>
+      <person xml:id="dvp_081_person_67">
+        <persName>Brammie</persName>
+      </person>
+      <person xml:id="dvp_081_person_68">
+        <persName>Hillary [Clinton]</persName>
+      </person>
+      <person xml:id="dvp_081_person_69">
+        <persName>[Donald] Trump</persName>
+      </person>
+      <person xml:id="dvp_081_person_70">
+        <persName>Jim Wright</persName>
+      </person>
+      <person xml:id="dvp_081_person_71">
+        <persName>Jim</persName>
+      </person>
+      <person xml:id="dvp_081_person_72">
+        <persName>Professor [Ed] Miller</persName>
+      </person>
+    </listPerson>
+    <listOrg>
+      <org xml:id="dvp_081_org_0">
+        <orgName>Dartmouth Vietnam Project</orgName>
+      </org>
+      <org xml:id="dvp_081_org_1">
+        <orgName>Dartmouth</orgName>
+      </org>
+      <org xml:id="dvp_081_org_2">
+        <orgName>the Marine Corps</orgName>
+      </org>
+      <org xml:id="dvp_081_org_3">
+        <orgName>Marines</orgName>
+      </org>
+      <org xml:id="dvp_081_org_4">
+        <orgName>the Marine Corps</orgName>
+      </org>
+      <org xml:id="dvp_081_org_5">
+        <orgName>Marines</orgName>
+      </org>
+      <org xml:id="dvp_081_org_6">
+        <orgName>Marine</orgName>
+      </org>
+      <org xml:id="dvp_081_org_7">
+        <orgName>Marine</orgName>
+      </org>
+      <org xml:id="dvp_081_org_8">
+        <orgName>Army</orgName>
+      </org>
+      <org xml:id="dvp_081_org_9">
+        <orgName>the Signal Corps</orgName>
+      </org>
+      <org xml:id="dvp_081_org_10">
+        <orgName>the War Production Board</orgName>
+      </org>
+      <org xml:id="dvp_081_org_11">
+        <orgName>Marines</orgName>
+      </org>
+      <org xml:id="dvp_081_org_12">
+        <orgName>the Marine Corps</orgName>
+      </org>
+      <org xml:id="dvp_081_org_13">
+        <orgName>Groton School [Groton, MA]</orgName>
+      </org>
+      <org xml:id="dvp_081_org_14">
+        <orgName>Episcopal church</orgName>
+      </org>
+      <org xml:id="dvp_081_org_15">
+        <orgName>Groton</orgName>
+      </org>
+      <org xml:id="dvp_081_org_16">
+        <orgName>the Marine Corps</orgName>
+      </org>
+      <org xml:id="dvp_081_org_17">
+        <orgName>Dartmouth</orgName>
+      </org>
+      <org xml:id="dvp_081_org_18">
+        <orgName>the Marine Corps</orgName>
+      </org>
+      <org xml:id="dvp_081_org_19">
+        <orgName>the Marine Corps</orgName>
+      </org>
+      <org xml:id="dvp_081_org_20">
+        <orgName>Groton</orgName>
+      </org>
+      <org xml:id="dvp_081_org_21">
+        <orgName>Dartmouth</orgName>
+      </org>
+      <org xml:id="dvp_081_org_22">
+        <orgName>PLC [Platoon Leaders Course] program </orgName>
+      </org>
+      <org xml:id="dvp_081_org_23">
+        <orgName>Groton</orgName>
+      </org>
+      <org xml:id="dvp_081_org_24">
+        <orgName>Marines</orgName>
+      </org>
+      <org xml:id="dvp_081_org_25">
+        <orgName>Groton</orgName>
+      </org>
+      <org xml:id="dvp_081_org_26">
+        <orgName>PLC</orgName>
+      </org>
+      <org xml:id="dvp_081_org_27">
+        <orgName>ROTC</orgName>
+      </org>
+      <org xml:id="dvp_081_org_28">
+        <orgName>the Marine Corps</orgName>
+      </org>
+      <org xml:id="dvp_081_org_29">
+        <orgName>NROTC</orgName>
+      </org>
+      <org xml:id="dvp_081_org_30">
+        <orgName>Dartmouth</orgName>
+      </org>
+      <org xml:id="dvp_081_org_31">
+        <orgName>PLC</orgName>
+      </org>
+      <org xml:id="dvp_081_org_32">
+        <orgName>Dartmouth</orgName>
+      </org>
+      <org xml:id="dvp_081_org_33">
+        <orgName>PLC program</orgName>
+      </org>
+      <org xml:id="dvp_081_org_34">
+        <orgName>NROTC</orgName>
+      </org>
+      <org xml:id="dvp_081_org_35">
+        <orgName>Marine</orgName>
+      </org>
+      <org xml:id="dvp_081_org_36">
+        <orgName>PLC</orgName>
+      </org>
+      <org xml:id="dvp_081_org_37">
+        <orgName>Marine</orgName>
+      </org>
+      <org xml:id="dvp_081_org_38">
+        <orgName>NROTC program</orgName>
+      </org>
+      <org xml:id="dvp_081_org_39">
+        <orgName>Marine Corps</orgName>
+      </org>
+      <org xml:id="dvp_081_org_40">
+        <orgName>Marine</orgName>
+      </org>
+      <org xml:id="dvp_081_org_41">
+        <orgName>the Marine Corps</orgName>
+      </org>
+      <org xml:id="dvp_081_org_42">
+        <orgName>Dartmouth College</orgName>
+      </org>
+      <org xml:id="dvp_081_org_43">
+        <orgName>Williams College</orgName>
+      </org>
+      <org xml:id="dvp_081_org_44">
+        <orgName>Williams</orgName>
+      </org>
+      <org xml:id="dvp_081_org_45">
+        <orgName>Dartmouth</orgName>
+      </org>
+      <org xml:id="dvp_081_org_46">
+        <orgName>Williams</orgName>
+      </org>
+      <org xml:id="dvp_081_org_47">
+        <orgName>Dartmouth</orgName>
+      </org>
+      <org xml:id="dvp_081_org_48">
+        <orgName>Williams</orgName>
+      </org>
+      <org xml:id="dvp_081_org_49">
+        <orgName>Dartmouth</orgName>
+      </org>
+      <org xml:id="dvp_081_org_50">
+        <orgName>Dartmouth</orgName>
+      </org>
+      <org xml:id="dvp_081_org_51">
+        <orgName>Williams</orgName>
+      </org>
+      <org xml:id="dvp_081_org_52">
+        <orgName>Dartmouth</orgName>
+      </org>
+      <org xml:id="dvp_081_org_53">
+        <orgName>Williams</orgName>
+      </org>
+      <org xml:id="dvp_081_org_54">
+        <orgName>Colby [College, Waterville, ME]</orgName>
+      </org>
+      <org xml:id="dvp_081_org_55">
+        <orgName>St. Lawrence [University, Canton, NY]</orgName>
+      </org>
+      <org xml:id="dvp_081_org_56">
+        <orgName>Colby</orgName>
+      </org>
+      <org xml:id="dvp_081_org_57">
+        <orgName>Williams</orgName>
+      </org>
+      <org xml:id="dvp_081_org_58">
+        <orgName>Dartmouth</orgName>
+      </org>
+      <org xml:id="dvp_081_org_59">
+        <orgName>Colby</orgName>
+      </org>
+      <org xml:id="dvp_081_org_60">
+        <orgName>Dartmouth</orgName>
+      </org>
+      <org xml:id="dvp_081_org_61">
+        <orgName>Tucker Foundation</orgName>
+      </org>
+      <org xml:id="dvp_081_org_62">
+        <orgName>Marine Corps</orgName>
+      </org>
+      <org xml:id="dvp_081_org_63">
+        <orgName>Dartmouth</orgName>
+      </org>
+      <org xml:id="dvp_081_org_64">
+        <orgName>Dartmouth</orgName>
+      </org>
+      <org xml:id="dvp_081_org_65">
+        <orgName>Dartmouth</orgName>
+      </org>
+      <org xml:id="dvp_081_org_66">
+        <orgName>Dartmouth’s Review [The Dartmouth Review] </orgName>
+      </org>
+      <org xml:id="dvp_081_org_67">
+        <orgName>ROTC</orgName>
+      </org>
+      <org xml:id="dvp_081_org_68">
+        <orgName>PLC</orgName>
+      </org>
+      <org xml:id="dvp_081_org_69">
+        <orgName>the Marine Corps</orgName>
+      </org>
+      <org xml:id="dvp_081_org_70">
+        <orgName>the Marine Corps</orgName>
+      </org>
+      <org xml:id="dvp_081_org_71">
+        <orgName>PLC</orgName>
+      </org>
+      <org xml:id="dvp_081_org_72">
+        <orgName>Marine Corps</orgName>
+      </org>
+      <org xml:id="dvp_081_org_73">
+        <orgName>Military</orgName>
+      </org>
+      <org xml:id="dvp_081_org_74">
+        <orgName>the Marine Corps</orgName>
+      </org>
+      <org xml:id="dvp_081_org_75">
+        <orgName>Marines</orgName>
+      </org>
+      <org xml:id="dvp_081_org_76">
+        <orgName>Marines</orgName>
+      </org>
+      <org xml:id="dvp_081_org_77">
+        <orgName>Dartmouth</orgName>
+      </org>
+      <org xml:id="dvp_081_org_78">
+        <orgName>the Marine Corps</orgName>
+      </org>
+      <org xml:id="dvp_081_org_79">
+        <orgName>the National Guard</orgName>
+      </org>
+      <org xml:id="dvp_081_org_80">
+        <orgName>Special Warfare School</orgName>
+      </org>
+      <org xml:id="dvp_081_org_81">
+        <orgName>Special Warfare School</orgName>
+      </org>
+      <org xml:id="dvp_081_org_82">
+        <orgName>Marines</orgName>
+      </org>
+      <org xml:id="dvp_081_org_83">
+        <orgName>Marines</orgName>
+      </org>
+      <org xml:id="dvp_081_org_84">
+        <orgName>Dartmouth</orgName>
+      </org>
+      <org xml:id="dvp_081_org_85">
+        <orgName>Vanderbilt</orgName>
+      </org>
+      <org xml:id="dvp_081_org_86">
+        <orgName>Special Warfare School</orgName>
+      </org>
+      <org xml:id="dvp_081_org_87">
+        <orgName>2nd Battalion</orgName>
+      </org>
+      <org xml:id="dvp_081_org_88">
+        <orgName>4th Marines</orgName>
+      </org>
+      <org xml:id="dvp_081_org_89">
+        <orgName>Marines</orgName>
+      </org>
+      <org xml:id="dvp_081_org_90">
+        <orgName>Phoenix</orgName>
+      </org>
+      <org xml:id="dvp_081_org_91">
+        <orgName>USAID</orgName>
+      </org>
+      <org xml:id="dvp_081_org_92">
+        <orgName>Army</orgName>
+      </org>
+      <org xml:id="dvp_081_org_93">
+        <orgName>Marines</orgName>
+      </org>
+      <org xml:id="dvp_081_org_94">
+        <orgName>Marines</orgName>
+      </org>
+      <org xml:id="dvp_081_org_95">
+        <orgName>Combined Action Program</orgName>
+      </org>
+      <org xml:id="dvp_081_org_96">
+        <orgName>Marine</orgName>
+      </org>
+      <org xml:id="dvp_081_org_97">
+        <orgName>COIN [counterinsurgency] strategy</orgName>
+      </org>
+      <org xml:id="dvp_081_org_98">
+        <orgName>the Marine Corps</orgName>
+      </org>
+      <org xml:id="dvp_081_org_99">
+        <orgName>Marine Corps</orgName>
+      </org>
+      <org xml:id="dvp_081_org_100">
+        <orgName>Army</orgName>
+      </org>
+      <org xml:id="dvp_081_org_101">
+        <orgName>Navy</orgName>
+      </org>
+      <org xml:id="dvp_081_org_102">
+        <orgName>Marine</orgName>
+      </org>
+      <org xml:id="dvp_081_org_103">
+        <orgName>Marines</orgName>
+      </org>
+      <org xml:id="dvp_081_org_104">
+        <orgName>Marines</orgName>
+      </org>
+      <org xml:id="dvp_081_org_105">
+        <orgName>Marine</orgName>
+      </org>
+      <org xml:id="dvp_081_org_106">
+        <orgName>MARS</orgName>
+      </org>
+      <org xml:id="dvp_081_org_107">
+        <orgName>Phoenix</orgName>
+      </org>
+      <org xml:id="dvp_081_org_108">
+        <orgName>CIA</orgName>
+      </org>
+      <org xml:id="dvp_081_org_109">
+        <orgName>USAID</orgName>
+      </org>
+      <org xml:id="dvp_081_org_110">
+        <orgName>the Marine Corps</orgName>
+      </org>
+      <org xml:id="dvp_081_org_111">
+        <orgName>Olympic</orgName>
+      </org>
+      <org xml:id="dvp_081_org_112">
+        <orgName>Marine</orgName>
+      </org>
+      <org xml:id="dvp_081_org_113">
+        <orgName>Marine</orgName>
+      </org>
+      <org xml:id="dvp_081_org_114">
+        <orgName>Navy</orgName>
+      </org>
+      <org xml:id="dvp_081_org_115">
+        <orgName>Groton School</orgName>
+      </org>
+      <org xml:id="dvp_081_org_116">
+        <orgName>Groton</orgName>
+      </org>
+      <org xml:id="dvp_081_org_117">
+        <orgName>U Mass [University of Massachusetts]</orgName>
+      </org>
+      <org xml:id="dvp_081_org_118">
+        <orgName>the American Legion</orgName>
+      </org>
+      <org xml:id="dvp_081_org_119">
+        <orgName>Marine Reserves</orgName>
+      </org>
+      <org xml:id="dvp_081_org_120">
+        <orgName>military</orgName>
+      </org>
+      <org xml:id="dvp_081_org_121">
+        <orgName>the Marine Corps</orgName>
+      </org>
+      <org xml:id="dvp_081_org_122">
+        <orgName>Williams</orgName>
+      </org>
+      <org xml:id="dvp_081_org_123">
+        <orgName>the Marine Corps</orgName>
+      </org>
+      <org xml:id="dvp_081_org_124">
+        <orgName>the Marine Corps</orgName>
+      </org>
+      <org xml:id="dvp_081_org_125">
+        <orgName>the Marine Corps</orgName>
+      </org>
+      <org xml:id="dvp_081_org_126">
+        <orgName>the Marine Corps</orgName>
+      </org>
+      <org xml:id="dvp_081_org_127">
+        <orgName>Army</orgName>
+      </org>
+      <org xml:id="dvp_081_org_128">
+        <orgName>Army</orgName>
+      </org>
+      <org xml:id="dvp_081_org_129">
+        <orgName>Army</orgName>
+      </org>
+      <org xml:id="dvp_081_org_130">
+        <orgName>NVA [North Vietnamese Army]</orgName>
+      </org>
+      <org xml:id="dvp_081_org_131">
+        <orgName>NVA</orgName>
+      </org>
+      <org xml:id="dvp_081_org_132">
+        <orgName>Marines</orgName>
+      </org>
+      <org xml:id="dvp_081_org_133">
+        <orgName>Marines</orgName>
+      </org>
+      <org xml:id="dvp_081_org_134">
+        <orgName>the Marine Corps</orgName>
+      </org>
+      <org xml:id="dvp_081_org_135">
+        <orgName>the Dartmouth Vietnam Project</orgName>
+      </org>
+    </listOrg>
+  </standOff>
 </TEI>
