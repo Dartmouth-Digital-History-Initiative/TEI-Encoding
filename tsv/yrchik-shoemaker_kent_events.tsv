@@ -1,25 +1,25 @@
-id	name
-dvp_070_event_0	JFK was assassinated
-dvp_070_event_1	[American] Civil War
-dvp_070_event_2	Vietnam War
-dvp_070_event_3	World War II
-dvp_070_event_4	World War II
-dvp_070_event_5	[the Rev. Dr.] Martin Luther King [Jr.] was assassinated
-dvp_070_event_6	Kent State [shootings]
-dvp_070_event_7	Kent State’s shootings
-dvp_070_event_8	Vietnam War
-dvp_070_event_9	Tet Offensive
-dvp_070_event_10	Nixon’s presidency
-dvp_070_event_11	Kent State
-dvp_070_event_12	Vietnam
-dvp_070_event_13	Tet Offensive
-dvp_070_event_14	Vietnam War
-dvp_070_event_15	Vietnam War
-dvp_070_event_16	World War II
-dvp_070_event_17	Vietnam
-dvp_070_event_18	Vietnam
-dvp_070_event_19	Vietnam War
-dvp_070_event_20	Vietnam
-dvp_070_event_21	Vietnam
-dvp_070_event_22	Vietnam
-dvp_070_event_23	Vietnam
+id	name	Qid	dvp_id	start time	end time	point in time
+dvp_070_event_0	assassination of John F. Kennedy	Q193484				1963-11-22T00:00:00Z
+dvp_070_event_1	American Civil War	Q8676		1861-04-11T00:00:00Z	1865-05-10T00:00:00Z	
+dvp_070_event_2	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_070_event_3	World War II	Q362		1939-09-01T00:00:00Z	1945-09-02T00:00:00Z	
+dvp_070_event_4	World War II	Q362		1939-09-01T00:00:00Z	1945-09-02T00:00:00Z	
+dvp_070_event_5	assassination of Martin Luther King Jr.	Q757963				1968-04-04T00:00:00Z
+dvp_070_event_6	Kent State shootings	Q482635				1970-05-04T00:00:00Z
+dvp_070_event_7	Kent State shootings	Q482635				1970-05-04T00:00:00Z
+dvp_070_event_8	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_070_event_9	Tet Offensive	Q82542		1968-01-30T00:00:00Z	1968-09-23T00:00:00Z	
+dvp_070_event_10	presidency of Richard Nixon	Q7241106		1969-01-20T00:00:00Z	1974-08-09T00:00:00Z	
+dvp_070_event_11	Kent State shootings	Q482635				1970-05-04T00:00:00Z
+dvp_070_event_12	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_070_event_13	Tet Offensive	Q82542		1968-01-30T00:00:00Z	1968-09-23T00:00:00Z	
+dvp_070_event_14	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_070_event_15	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_070_event_16	World War II	Q362		1939-09-01T00:00:00Z	1945-09-02T00:00:00Z	
+dvp_070_event_17	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_070_event_18	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_070_event_19	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_070_event_20	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_070_event_21	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_070_event_22	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_070_event_23	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
