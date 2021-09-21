@@ -1,6 +1,6 @@
 id	orgName	Qid	dvp_id
 dvp_085_org_0	Geisel School of Medicine	Q5530214	
-dvp_085_org_1	United States Army's 1st Air Cavalry Division Conducts Massive Air Assault, South Vietnam (NAID 102047818)	Q67473083	
+dvp_085_org_1	1st Air Cavalry Brigade, 1st Cavalry Division	Q67473083	
 dvp_085_org_2	Dartmouth College	Q49116	
 dvp_085_org_3	General Electric	Q54173	
 dvp_085_org_4	Norris Cotton Cancer Center	Q7053293	
@@ -24,9 +24,9 @@ dvp_085_org_21	Deerfield	Q375905
 dvp_085_org_22	Deerfield Academy	Q5250893	
 dvp_085_org_23	Lebanon High School	Q14705343	
 dvp_085_org_24	Phillips Exeter Academy	Q1426464	
-dvp_085_org_25	navy	Q4508	
-dvp_085_org_26	navy	Q4508	
-dvp_085_org_27	navy	Q4508	
+dvp_085_org_25	United States Navy	Q4508	
+dvp_085_org_26	United States Navy	Q4508	
+dvp_085_org_27	United States Navy	Q4508	
 dvp_085_org_28	Harvard University	Q13371	
 dvp_085_org_29	Harvard University	Q13371	
 dvp_085_org_30	Harvard University	Q13371	
@@ -47,7 +47,6 @@ dvp_085_org_44	Harvard University	Q13371
 dvp_085_org_45	Dartmouth College	Q49116	
 dvp_085_org_46	Geisel School of Medicine	Q5530214	
 dvp_085_org_47	Geisel School of Medicine	Q5530214	
-dvp_085_org_48	BMS		
 dvp_085_org_49	Harvard University	Q13371	
 dvp_085_org_50	Dartmouth College	Q49116	
 dvp_085_org_51	Harvard University	Q13371	
@@ -67,14 +66,12 @@ dvp_085_org_64	Dartmouth College	Q49116
 dvp_085_org_65	Dartmouth College	Q49116	
 dvp_085_org_66	Dartmouth College	Q49116	
 dvp_085_org_67	Middlebury College	Q1357891	
-dvp_085_org_68	Rochester		
 dvp_085_org_69	Dartmouth–Hitchcock Medical Center	Q14705324	
 dvp_085_org_70	Dartmouth–Hitchcock Medical Center	Q14705324	
 dvp_085_org_71	Harvard University	Q13371	
 dvp_085_org_72	Harvard University	Q13371	
 dvp_085_org_73	Dartmouth–Hitchcock Medical Center	Q14705324	
 dvp_085_org_74	Alice Peck Day Hospital	Q17511053	
-dvp_085_org_75	White River Junction [VT] VA		
 dvp_085_org_76	Dartmouth College	Q49116	
 dvp_085_org_77	Dartmouth College	Q49116	
 dvp_085_org_78	Dartmouth College	Q49116	
@@ -102,30 +99,24 @@ dvp_085_org_99	University of California, San Francisco	Q1061104
 dvp_085_org_100	Boston City Hospital	Q4947809	
 dvp_085_org_101	Dartmouth College	Q49116	
 dvp_085_org_102	Harvard University	Q13371	
-dvp_085_org_103	army	Q37726	
+dvp_085_org_103	United States Army	Q37726	
 dvp_085_org_104	United States Coast Guard Reserve	Q374119	
-dvp_085_org_105	army	Q37726	
-dvp_085_org_106	army	Q37726	
+dvp_085_org_105	United States Army	Q37726	
+dvp_085_org_106	United States Army	Q37726	
 dvp_085_org_107	Travis Air Force Base	Q3497425	
-dvp_085_org_108	clearing company		
-dvp_085_org_109	army	Q37726	
+dvp_085_org_109	United States Army	Q37726	
 dvp_085_org_110	cavalry division	Q14755051	
 dvp_085_org_111	1st Cavalry Division	Q2338	
-dvp_085_org_112	army	Q37726	
+dvp_085_org_112	United States Army	Q37726	
 dvp_085_org_113	Emory University	Q621043	
-dvp_085_org_114	“A” Company		
-dvp_085_org_115	Headquarters and Support Company		
-dvp_085_org_116	HSC		
-dvp_085_org_117	“B” Company		
-dvp_085_org_118	“A” Company		
 dvp_085_org_119	Harvard University	Q13371	
-dvp_085_org_120	army	Q37726	
+dvp_085_org_120	United States Army	Q37726	
 dvp_085_org_121	Boston City Hospital	Q4947809	
-dvp_085_org_122	army	Q37726	
-dvp_085_org_123	army	Q37726	
-dvp_085_org_124	army	Q37726	
+dvp_085_org_122	United States Army	Q37726	
+dvp_085_org_123	United States Army	Q37726	
+dvp_085_org_124	United States Army	Q37726	
 dvp_085_org_125	Boston City Hospital	Q4947809	
-dvp_085_org_126	army	Q37726	
+dvp_085_org_126	United States Army	Q37726	
 dvp_085_org_127	Boston City Hospital	Q4947809	
 dvp_085_org_128	Boston City Hospital	Q4947809	
 dvp_085_org_129	University of Chicago	Q131252	
