@@ -81,7 +81,6 @@ dvp_085_place_78	New Jersey	Q1408		40,-74.5
 dvp_085_place_79	Middlebury	Q1012392		44.0042672,-73.1223684
 dvp_085_place_80	Pearl River	Q3273288		41.0639,-74.0103
 dvp_085_place_81	Norwich	Q1510465		43.730277777778,-72.303055555556
-				
 dvp_085_place_82	Vermont	Q16551		44,-72.7
 dvp_085_place_83	Boston	Q100		42.358333333333,-71.0625
 dvp_085_place_84	Virginia	Q1370		37.5,-79
@@ -111,8 +110,8 @@ dvp_085_place_107	Vietnam	Q881		16,108
 dvp_085_place_108	Texas	Q1439		31,-100
 dvp_085_place_109	Texas	Q1439		31,-100
 dvp_085_place_110	Korea	Q18097		38.316666666667,127.23333333333
-dvp_085_place_111	45th Surgical Hospital			
-dvp_085_place_112	2nd Surgical Hospital			
+dvp_085_place_111	45th Portable Surgical Hospital	Q4638252		11.335560098234302, 106.10458779235952
+dvp_085_place_112	2nd surgical hospital	Q108636676		13.9530664,108.6569463
 dvp_085_place_113	Ho Chi Minh City	Q1854		10.816666666667,106.63333333333
 dvp_085_place_114	Vietnam	Q881		16,108
 dvp_085_place_115	Vietnam	Q881		16,108
