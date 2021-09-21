@@ -1,138 +1,138 @@
-id	placeName	coordinate location	QID	dvp_id
-dvp_081_place_0	Rauner Special Collections Library	43.70447,-72.28817	Q98544730	
-dvp_081_place_1	Dartmouth College	43.703333333333,-72.288333333333	Q49116	
-dvp_081_place_2	Hanover	43.7,-72.28333333333333	Q131908	
-dvp_081_place_3	Hanover	43.7,-72.28333333333333	Q131908	
-dvp_081_place_4	New York City	40.712728,-74.006015	Q60	
-dvp_081_place_5	Williamstown	42.711944444444,-73.204166666667	Q983837	
-dvp_081_place_6	South Korea	36,128	Q884	
-dvp_081_place_7	Washington, D.C.	38.895,-77.036666666667	Q61	
-dvp_081_place_8	Washington, D.C.	38.895,-77.036666666667	Q61	
-dvp_081_place_9	New England	44.205555555556,-70.306425	Q18389	
-dvp_081_place_10	Quantico	38.521871,-77.289757	Q204315	
-dvp_081_place_11	Williamstown	42.711944444444,-73.204166666667	Q983837	
-dvp_081_place_12	Minnesota	46,-94	Q1527	
-dvp_081_place_13	Minnesota	46,-94	Q1527	
-dvp_081_place_14	Williamstown	42.711944444444,-73.204166666667	Q983837	
-dvp_081_place_15	Davis Rink	43.7010167,-72.2814949	Q65044199	
-dvp_081_place_16	Hopkins Center for the Arts	43.701666666667,-72.288611111111	Q3140375	
-dvp_081_place_17	Spaulding Auditorium	43.70164,-72.28816	Q104881588	
-dvp_081_place_18	Vietnam	16,108	Q881	
-dvp_081_place_19	Vietnam	16,108	Q881	
-dvp_081_place_20	Vietnam	16,108	Q881	
-dvp_081_place_21	Vietnam	16,108	Q881	
-dvp_081_place_22	Minnesota	46,-94	Q1527	
-dvp_081_place_23	Grenoble	45.186944444444,5.7263888888889	Q1289	
-dvp_081_place_24	Washington, D.C.	38.895,-77.036666666667	Q61	
-dvp_081_place_25	Washington, D.C.	38.895,-77.036666666667	Q61	
-dvp_081_place_26	Monterey	36.60024,-121.89468	Q487315	
-dvp_081_place_27	Fort Bragg	35.139166666667,-78.999166666667	Q991369	
-dvp_081_place_28	Fort Bragg	39.445833333333,-123.80527777778	Q579180	
-dvp_081_place_29	Europe	48.690959,9.14062	Q46	
-dvp_081_place_30	United States of America	39.828175,-98.5795	Q30	
-dvp_081_place_31	Vietnam	16,108	Q881	
-dvp_081_place_32	Vietnamese Demilitarized Zone	16.9875,107.0359	Q2349960	
-dvp_081_place_33	Route 9		Q6875170	
-dvp_081_place_34	Vietnamese Demilitarized Zone	16.9875,107.0359	Q2349960	
-dvp_081_place_35	Vietnamese Demilitarized Zone	16.9875,107.0359	Q2349960	
-dvp_081_place_36	Da Nang	16.069444444444443,108.20972222222223	Q25282	
-dvp_081_place_37	Da Nang	16.069444444444443,108.20972222222223	Q25282	
-dvp_081_place_38	South Vietnam	10.75,106.66666666667	Q180573	
-dvp_081_place_39	I Corps		Q1652977	
-dvp_081_place_40	Iraq	33,43	Q796	
-dvp_081_place_41	Vietnam	16,108	Q881	
-dvp_081_place_42	Vietnam	16,108	Q881	
-dvp_081_place_43	Da Nang	16.069444444444443,108.20972222222223	Q25282	
-dvp_081_place_44	United States of America	39.828175,-98.5795	Q30	
-dvp_081_place_45	Da Nang	16.069444444444443,108.20972222222223	Q25282	
-dvp_081_place_46	Da Nang	16.069444444444443,108.20972222222223	Q25282	
-dvp_081_place_47	United States of America	39.828175,-98.5795	Q30	
-dvp_081_place_48	Arlington County	38.880277777778,-77.108333333333	Q107126	
-dvp_081_place_49	Iraq	33,43	Q796	
-dvp_081_place_50	Vietnam	16,108	Q881	
-dvp_081_place_51	Vietnam	16,108	Q881	
-dvp_081_place_52	Vietnam	16,108	Q881	
-dvp_081_place_53	Hawaii	21.3075,-157.8575	Q782	
-dvp_081_place_54	Bangkok	13.75,100.51666666667	Q1861	
-dvp_081_place_55	Hong Kong	22.278333333333,114.15861111111	Q8646	
-dvp_081_place_56	Australia	-28,137	Q408	
-dvp_081_place_57	Hawaii	21.3075,-157.8575	Q782	
-dvp_081_place_58	Maui	20.8,-156.33333333333	Q188705	
-dvp_081_place_59	Maui	20.8,-156.33333333333	Q188705	
-dvp_081_place_60	Da Nang	16.069444444444443,108.20972222222223	Q25282	
-dvp_081_place_61	Da Nang	16.069444444444443,108.20972222222223	Q25282	
-dvp_081_place_62	Newport	41.488002,-71.312622	Q54264	
-dvp_081_place_63	Vietnam	16,108	Q881	
-dvp_081_place_64	Newport	41.488002,-71.312622	Q54264	
-dvp_081_place_65	Newport	41.488002,-71.312622	Q54264	
+id	placeName	QID	dvp_id	coordinate location
+dvp_081_place_0	Rauner Special Collections Library	Q98544730		43.70447,-72.28817
+dvp_081_place_1	Dartmouth College	Q49116		43.703333333333,-72.288333333333
+dvp_081_place_2	Hanover	Q131908		43.7,-72.28333333333333
+dvp_081_place_3	Hanover	Q131908		43.7,-72.28333333333333
+dvp_081_place_4	New York City	Q60		40.712728,-74.006015
+dvp_081_place_5	Williamstown	Q983837		42.711944444444,-73.204166666667
+dvp_081_place_6	South Korea	Q884		36,128
+dvp_081_place_7	Washington, D.C.	Q61		38.895,-77.036666666667
+dvp_081_place_8	Washington, D.C.	Q61		38.895,-77.036666666667
+dvp_081_place_9	New England	Q18389		44.205555555556,-70.306425
+dvp_081_place_10	Quantico	Q204315		38.521871,-77.289757
+dvp_081_place_11	Williamstown	Q983837		42.711944444444,-73.204166666667
+dvp_081_place_12	Minnesota	Q1527		46,-94
+dvp_081_place_13	Minnesota	Q1527		46,-94
+dvp_081_place_14	Williamstown	Q983837		42.711944444444,-73.204166666667
+dvp_081_place_15	Davis Rink	Q65044199		43.7010167,-72.2814949
+dvp_081_place_16	Hopkins Center for the Arts	Q3140375		43.701666666667,-72.288611111111
+dvp_081_place_17	Spaulding Auditorium	Q104881588		43.70164,-72.28816
+dvp_081_place_18	Vietnam	Q881		16,108
+dvp_081_place_19	Vietnam	Q881		16,108
+dvp_081_place_20	Vietnam	Q881		16,108
+dvp_081_place_21	Vietnam	Q881		16,108
+dvp_081_place_22	Minnesota	Q1527		46,-94
+dvp_081_place_23	Grenoble	Q1289		45.186944444444,5.7263888888889
+dvp_081_place_24	Washington, D.C.	Q61		38.895,-77.036666666667
+dvp_081_place_25	Washington, D.C.	Q61		38.895,-77.036666666667
+dvp_081_place_26	Monterey	Q487315		36.60024,-121.89468
+dvp_081_place_27	Fort Bragg	Q991369		35.139166666667,-78.999166666667
+dvp_081_place_28	Fort Bragg	Q579180		39.445833333333,-123.80527777778
+dvp_081_place_29	Europe	Q46		48.690959,9.14062
+dvp_081_place_30	United States of America	Q30		39.828175,-98.5795
+dvp_081_place_31	Vietnam	Q881		16,108
+dvp_081_place_32	Vietnamese Demilitarized Zone	Q2349960		16.9875,107.0359
+dvp_081_place_33	Route 9	Q6875170		16.687430, 106.884773
+dvp_081_place_34	Vietnamese Demilitarized Zone	Q2349960		16.9875,107.0359
+dvp_081_place_35	Vietnamese Demilitarized Zone	Q2349960		16.9875,107.0359
+dvp_081_place_36	Da Nang	Q25282		16.069444444444443,108.20972222222223
+dvp_081_place_37	Da Nang	Q25282		16.069444444444443,108.20972222222223
+dvp_081_place_38	South Vietnam	Q180573		10.75,106.66666666667
+dvp_081_place_39	I Corps	Q1652977		16.687430, 106.884773
+dvp_081_place_40	Iraq	Q796		33,43
+dvp_081_place_41	Vietnam	Q881		16,108
+dvp_081_place_42	Vietnam	Q881		16,108
+dvp_081_place_43	Da Nang	Q25282		16.069444444444443,108.20972222222223
+dvp_081_place_44	United States of America	Q30		39.828175,-98.5795
+dvp_081_place_45	Da Nang	Q25282		16.069444444444443,108.20972222222223
+dvp_081_place_46	Da Nang	Q25282		16.069444444444443,108.20972222222223
+dvp_081_place_47	United States of America	Q30		39.828175,-98.5795
+dvp_081_place_48	Arlington County	Q107126		38.880277777778,-77.108333333333
+dvp_081_place_49	Iraq	Q796		33,43
+dvp_081_place_50	Vietnam	Q881		16,108
+dvp_081_place_51	Vietnam	Q881		16,108
+dvp_081_place_52	Vietnam	Q881		16,108
+dvp_081_place_53	Hawaii	Q782		21.3075,-157.8575
+dvp_081_place_54	Bangkok	Q1861		13.75,100.51666666667
+dvp_081_place_55	Hong Kong	Q8646		22.278333333333,114.15861111111
+dvp_081_place_56	Australia	Q408		-28,137
+dvp_081_place_57	Hawaii	Q782		21.3075,-157.8575
+dvp_081_place_58	Maui	Q188705		20.8,-156.33333333333
+dvp_081_place_59	Maui	Q188705		20.8,-156.33333333333
+dvp_081_place_60	Da Nang	Q25282		16.069444444444443,108.20972222222223
+dvp_081_place_61	Da Nang	Q25282		16.069444444444443,108.20972222222223
+dvp_081_place_62	Newport	Q54264		41.488002,-71.312622
+dvp_081_place_63	Vietnam	Q881		16,108
+dvp_081_place_64	Newport	Q54264		41.488002,-71.312622
+dvp_081_place_65	Newport	Q54264		41.488002,-71.312622
 dvp_081_place_66	Marines			
 dvp_081_place_67	Marine			
-dvp_081_place_68	Boston	42.358333333333,-71.0625	Q100	
-dvp_081_place_69	Marine Corps Base Camp Lejeune	34.5928,-77.342388888889	Q1479693	
-dvp_081_place_70	Vietnam	16,108	Q881	
-dvp_081_place_71	Vietnam	16,108	Q881	
-dvp_081_place_72	Amherst	42.366667,-72.516667	Q49164	
-dvp_081_place_73	Newport	41.488002,-71.312622	Q54264	
-dvp_081_place_74	Vietnam	16,108	Q881	
-dvp_081_place_75	Vietnam	16,108	Q881	
-dvp_081_place_76	Vietnam	16,108	Q881	
-dvp_081_place_77	Portland	43.666666666667,-70.266666666667	Q49201	
-dvp_081_place_78	Boston	42.358333333333,-71.0625	Q100	
-dvp_081_place_79	Vietnam	16,108	Q881	
-dvp_081_place_80	Vietnam	16,108	Q881	
-dvp_081_place_81	Boston	42.358333333333,-71.0625	Q100	
-dvp_081_place_82	Vietnam	16,108	Q881	
-dvp_081_place_83	Vietnam	16,108	Q881	
-dvp_081_place_84	Vietnam	16,108	Q881	
-dvp_081_place_85	Vietnam	16,108	Q881	
-dvp_081_place_86	Vietnam	16,108	Q881	
-dvp_081_place_87	Vietnam	16,108	Q881	
-dvp_081_place_88	Ho Chi Minh trail	18.6852,104.8373	Q695916	
+dvp_081_place_68	Boston	Q100		42.358333333333,-71.0625
+dvp_081_place_69	Marine Corps Base Camp Lejeune	Q1479693		34.5928,-77.342388888889
+dvp_081_place_70	Vietnam	Q881		16,108
+dvp_081_place_71	Vietnam	Q881		16,108
+dvp_081_place_72	Amherst	Q49164		42.366667,-72.516667
+dvp_081_place_73	Newport	Q54264		41.488002,-71.312622
+dvp_081_place_74	Vietnam	Q881		16,108
+dvp_081_place_75	Vietnam	Q881		16,108
+dvp_081_place_76	Vietnam	Q881		16,108
+dvp_081_place_77	Portland	Q49201		43.666666666667,-70.266666666667
+dvp_081_place_78	Boston	Q100		42.358333333333,-71.0625
+dvp_081_place_79	Vietnam	Q881		16,108
+dvp_081_place_80	Vietnam	Q881		16,108
+dvp_081_place_81	Boston	Q100		42.358333333333,-71.0625
+dvp_081_place_82	Vietnam	Q881		16,108
+dvp_081_place_83	Vietnam	Q881		16,108
+dvp_081_place_84	Vietnam	Q881		16,108
+dvp_081_place_85	Vietnam	Q881		16,108
+dvp_081_place_86	Vietnam	Q881		16,108
+dvp_081_place_87	Vietnam	Q881		16,108
+dvp_081_place_88	Ho Chi Minh trail	Q695916		18.6852,104.8373
 dvp_081_place_89	North			
-dvp_081_place_90	Điện Biên Phủ	21.383333333333,103.01694444444	Q36027	
+dvp_081_place_90	Điện Biên Phủ	Q36027		21.383333333333,103.01694444444
 dvp_081_place_91	North			
 dvp_081_place_92	North			
-dvp_081_place_93	Điện Biên Phủ	21.383333333333,103.01694444444	Q36027	
-dvp_081_place_94	France	47,2	Q142	
+dvp_081_place_93	Điện Biên Phủ	Q36027		21.383333333333,103.01694444444
+dvp_081_place_94	France	Q142		47,2
 dvp_081_place_95	North			
-dvp_081_place_96	Hanoi	21.0245,105.84117	Q1858	
-dvp_081_place_97	I Corps		Q1652977	
-dvp_081_place_98	Hanoi	21.0245,105.84117	Q1858	
-dvp_081_place_99	Vietnam	16,108	Q881	
-dvp_081_place_100	Vietnam	16,108	Q881	
-dvp_081_place_101	Điện Biên Phủ	21.383333333333,103.01694444444	Q36027	
-dvp_081_place_102	Gettysburg	39.8283,-77.2322	Q694550	
-dvp_081_place_103	Hanoi	21.0245,105.84117	Q1858	
-dvp_081_place_104	Vietnam	16,108	Q881	
-dvp_081_place_105	Vietnam	16,108	Q881	
-dvp_081_place_106	Điện Biên Phủ	21.383333333333,103.01694444444	Q36027	
-dvp_081_place_107	Vietnam	16,108	Q881	
-dvp_081_place_108	Normandy	49.1223390972,-0.4366442916666	Q15878	
-dvp_081_place_109	United States of America	39.828175,-98.5795	Q30	
-dvp_081_place_110	France	47,2	Q142	
-dvp_081_place_111	United States of America	39.828175,-98.5795	Q30	
-dvp_081_place_112	Hill 55		Q67460446	
-dvp_081_place_113	Vietnam	16,108	Q881	
-dvp_081_place_114	Hill 55	15.551574, 108.92300	Q16984144	
-dvp_081_place_115	Vietnam	16,108	Q881	
-dvp_081_place_116	United States of America	39.828175,-98.5795	Q30	
-dvp_081_place_117	United States of America	39.828175,-98.5795	Q30	
-dvp_081_place_118	Cambodia	12.6,105	Q424	
-dvp_081_place_119	I Corps		Q1652977	
-dvp_081_place_120	Cambodia	12.6,105	Q424	
-dvp_081_place_121	Mekong Delta	10.009,105.824	Q1052867	
-		10.333333333333,106.66666666667		
-dvp_081_place_122	Vietnam	16,108	Q881	
-dvp_081_place_123	Princeton	40.352222222222,-74.656944444444	Q138518	
-dvp_081_place_124	Washington, D.C.	38.895,-77.036666666667	Q61	
-dvp_081_place_125	Vietnam Veterans Memorial	38.891111111111,-77.047777777778	Q713628	
-dvp_081_place_126	Vietnam Veterans Memorial	38.891111111111,-77.047777777778	Q713628	
-dvp_081_place_127	Vietnam Veterans Memorial	38.891111111111,-77.047777777778	Q713628	
-dvp_081_place_128	Vietnam Veterans Memorial	38.891111111111,-77.047777777778	Q713628	
-dvp_081_place_129	Washington, D.C.	38.895,-77.036666666667	Q61	
-dvp_081_place_130	Vietnam	16,108	Q881	
-dvp_081_place_131	Vietnam	16,108	Q881	
-dvp_081_place_132	Vietnam	16,108	Q881	
-dvp_081_place_133	Vietnam	16,108	Q881	
-dvp_081_place_134	Iraq	33,43	Q796	
-dvp_081_place_135	Afghanistan	33,66	Q889	
+dvp_081_place_96	Hanoi	Q1858		21.0245,105.84117
+dvp_081_place_97	I Corps	Q1652977		16.687430, 106.884773
+dvp_081_place_98	Hanoi	Q1858		21.0245,105.84117
+dvp_081_place_99	Vietnam	Q881		16,108
+dvp_081_place_100	Vietnam	Q881		16,108
+dvp_081_place_101	Điện Biên Phủ	Q36027		21.383333333333,103.01694444444
+dvp_081_place_102	Gettysburg	Q694550		39.8283,-77.2322
+dvp_081_place_103	Hanoi	Q1858		21.0245,105.84117
+dvp_081_place_104	Vietnam	Q881		16,108
+dvp_081_place_105	Vietnam	Q881		16,108
+dvp_081_place_106	Điện Biên Phủ	Q36027		21.383333333333,103.01694444444
+dvp_081_place_107	Vietnam	Q881		16,108
+dvp_081_place_108	Normandy	Q15878		49.1223390972,-0.4366442916666
+dvp_081_place_109	United States of America	Q30		39.828175,-98.5795
+dvp_081_place_110	France	Q142		47,2
+dvp_081_place_111	United States of America	Q30		39.828175,-98.5795
+dvp_081_place_112	Hill 55	Q67460446		15.551574, 108.92300
+dvp_081_place_113	Vietnam	Q881		16,108
+dvp_081_place_114	Hill 55	Q16984144		15.551574, 108.92300
+dvp_081_place_115	Vietnam	Q881		16,108
+dvp_081_place_116	United States of America	Q30		39.828175,-98.5795
+dvp_081_place_117	United States of America	Q30		39.828175,-98.5795
+dvp_081_place_118	Cambodia	Q424		12.6,105
+dvp_081_place_119	I Corps	Q1652977		16.687430, 106.884773
+dvp_081_place_120	Cambodia	Q424		12.6,105
+dvp_081_place_121	Mekong Delta	Q1052867		10.009,105.824
+				
+dvp_081_place_122	Vietnam	Q881		16,108
+dvp_081_place_123	Princeton	Q138518		40.352222222222,-74.656944444444
+dvp_081_place_124	Washington, D.C.	Q61		38.895,-77.036666666667
+dvp_081_place_125	Vietnam Veterans Memorial	Q713628		38.891111111111,-77.047777777778
+dvp_081_place_126	Vietnam Veterans Memorial	Q713628		38.891111111111,-77.047777777778
+dvp_081_place_127	Vietnam Veterans Memorial	Q713628		38.891111111111,-77.047777777778
+dvp_081_place_128	Vietnam Veterans Memorial	Q713628		38.891111111111,-77.047777777778
+dvp_081_place_129	Washington, D.C.	Q61		38.895,-77.036666666667
+dvp_081_place_130	Vietnam	Q881		16,108
+dvp_081_place_131	Vietnam	Q881		16,108
+dvp_081_place_132	Vietnam	Q881		16,108
+dvp_081_place_133	Vietnam	Q881		16,108
+dvp_081_place_134	Iraq	Q796		33,43
+dvp_081_place_135	Afghanistan	Q889		33,66
