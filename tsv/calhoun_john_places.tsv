@@ -1,104 +1,105 @@
-id	placeName
-dvp_079_place_0	Rauner [Special Collections] Library
-dvp_079_place_1	Dartmouth College
-dvp_079_place_2	Hanover, New Hampshire
-dvp_079_place_3	Portland, Oregon
-dvp_079_place_4	Rochester, New York
-dvp_079_place_5	Calgary, Alberta [Canada]
-dvp_079_place_6	Canada
-dvp_079_place_7	Mississauga [Ontario, Canada]
-dvp_079_place_8	Algonquin [Provincial] Par
-dvp_079_place_9	Canada
-dvp_079_place_10	Mad River Glen
-dvp_079_place_11	Vietnam
-dvp_079_place_12	States
-dvp_079_place_13	Hanover
-dvp_079_place_14	Vietnam
-dvp_079_place_15	Glacier [National] Park
-dvp_079_place_16	Vietnam
-dvp_079_place_17	New England
-dvp_079_place_18	East Coast
-dvp_079_place_19	East Coast
-dvp_079_place_20	New England
-dvp_079_place_21	Vietnam
-dvp_079_place_22	Fort Still [sic; Fort Sill, Oklahoma]
-dvp_079_place_23	California primary election
-dvp_079_place_24	Czechoslovakia
-dvp_079_place_25	Vienna [Austria]
-dvp_079_place_26	Prague
-dvp_079_place_27	Prague
-dvp_079_place_28	Prague
-dvp_079_place_29	Fort Sill
-dvp_079_place_30	Canada
-dvp_079_place_31	Chicago [Illinois]
-dvp_079_place_32	Fort Sill
-dvp_079_place_33	Fort Still [sic]
-dvp_079_place_34	Fort Sill
-dvp_079_place_35	Fort Still [sic; Sill]
-dvp_079_place_36	Fort Still [sic; Sill]
-dvp_079_place_37	Fort Jackson, South Carolina
-dvp_079_place_38	Appalachia
-dvp_079_place_39	New York
-dvp_079_place_40	Dartmouth College
-dvp_079_place_41	Stanford
-dvp_079_place_42	America
-dvp_079_place_43	Vietnam
-dvp_079_place_44	Fort Jackson
-dvp_079_place_45	South Carolina
-dvp_079_place_46	Vietnam
-dvp_079_place_47	Fort Jackson
-dvp_079_place_48	Fort Benning
-dvp_079_place_49	Georgia
-dvp_079_place_50	Vietnam
-dvp_079_place_51	Vietnam
-dvp_079_place_52	Panama
-dvp_079_place_53	Vietnam
-dvp_079_place_54	Fort Jackson
-dvp_079_place_55	Vietnam
-dvp_079_place_56	Vietnam
-dvp_079_place_57	Vietnam
-dvp_079_place_58	Vietnam
-dvp_079_place_59	Vietnam
-dvp_079_place_60	Fort Benning
-dvp_079_place_61	Palo Alto [California]
-dvp_079_place_62	Stanford
-dvp_079_place_63	States
-dvp_079_place_64	Vietnam
-dvp_079_place_65	New York
-dvp_079_place_66	Vietnam
-dvp_079_place_67	Vietnam
-dvp_079_place_68	Vietnam
-dvp_079_place_69	Củ Chi
-dvp_079_place_70	U.S.
-dvp_079_place_71	Vietnam
-dvp_079_place_72	Saigon
-dvp_079_place_73	New Hampshire
-dvp_079_place_74	Vietnam
-dvp_079_place_75	Vietnam
-dvp_079_place_76	Saigon
-dvp_079_place_77	[Mekong] Delta
-dvp_079_place_78	[Central] Highlands
-dvp_079_place_79	Cambodia
-dvp_079_place_80	Highlands
-dvp_079_place_81	Saigon
-dvp_079_place_82	West Point
-dvp_079_place_83	Palo Alto, California
-dvp_079_place_84	Palo Alto, California
-dvp_079_place_85	Cambodia
-dvp_079_place_86	Vietnam
-dvp_079_place_87	Cambodia
-dvp_079_place_88	Cambodia
-dvp_079_place_89	Saigon
-dvp_079_place_90	Japan
-dvp_079_place_91	Anchorage [Alaska]
-dvp_079_place_92	Anchorage
-dvp_079_place_93	Alaska
-dvp_079_place_94	Alaska
-dvp_079_place_95	Sacramento [California]
-dvp_079_place_96	Oakland [California]
-dvp_079_place_97	Vietnam
-dvp_079_place_98	Oakland
-dvp_079_place_99	Vietnam
-dvp_079_place_100	Oregon
-dvp_079_place_101	Florence
-dvp_079_place_102	Iraq
+id	placeName	QID	coordinate location
+dvp_079_place_0	Rauner Special Collections Library	Q98544730	43.70447,-72.28817
+dvp_079_place_1	Dartmouth College	Q49116	43.703333333333,-72.288333333333
+dvp_079_place_2	Hanover	Q131908	43.7,-72.28333333333333
+dvp_079_place_3	Portland	Q6106	45.516666666667,-122.66666666667
+dvp_079_place_4	Rochester	Q49218	43.165555555556,-77.611388888889
+dvp_079_place_5	Calgary	Q36312	51.0475,-114.0625
+dvp_079_place_6	Canada	Q16	56,-109
+dvp_079_place_7	Mississauga	Q50816	43.6,-79.65
+dvp_079_place_8	Algonquin Provincial Park	Q1543478	45.8,-78.7
+dvp_079_place_9	Canada	Q16	56,-109
+dvp_079_place_10	Mad River Glen	Q6726042	44.2008,-72.9244
+dvp_079_place_11	Vietnam	Q881	16,108
+dvp_079_place_12	United States of America	Q30	39.828175,-98.5795
+dvp_079_place_13	Hanover	Q131908	43.7,-72.28333333333333
+dvp_079_place_14	Vietnam	Q881	16,108
+dvp_079_place_15	Glacier National Park	Q373567	48.57,-113.72
+dvp_079_place_16	Vietnam	Q881	16,108
+dvp_079_place_17	New England	Q18389	44.205555555556,-70.306425
+dvp_079_place_18	East Coast of the United States	Q4268	37.02332,-77.36954
+dvp_079_place_19	East Coast of the United States	Q4268	37.02332,-77.36954
+dvp_079_place_20	New England	Q18389	44.205555555556,-70.306425
+dvp_079_place_21	Vietnam	Q881	16,108
+dvp_079_place_22	Fort Sill	Q1018681	34.704166666667,-98.508333333333
+dvp_079_place_23	California primary election		
+dvp_079_place_24	Czechoslovakia	Q33946	50.083333333333,14.416666666667
+dvp_079_place_25	Vienna	Q1741	48.20833,16.373064
+dvp_079_place_26	Prague	Q1085	50.083333333333,14.416666666667
+dvp_079_place_27	Prague	Q1085	50.083333333333,14.416666666667
+dvp_079_place_28	Prague	Q1085	50.083333333333,14.416666666667
+dvp_079_place_29	Fort Sill	Q1018681	34.704166666667,-98.508333333333
+dvp_079_place_30	Canada	Q16	56,-109
+dvp_079_place_31	Chicago	Q1297	41.881944444444,-87.627777777778
+dvp_079_place_32	Fort Sill	Q1018681	34.704166666667,-98.508333333333
+dvp_079_place_33	Fort Sill	Q1018681	34.704166666667,-98.508333333333
+dvp_079_place_34	Fort Sill	Q1018681	34.704166666667,-98.508333333333
+dvp_079_place_35	Fort Sill	Q1018681	34.704166666667,-98.508333333333
+dvp_079_place_36	Fort Sill	Q1018681	34.704166666667,-98.508333333333
+dvp_079_place_37	Fort Jackson	Q5471392	34.039166666667,-80.822222222222
+dvp_079_place_38	Appalachia	Q2673740	38.8,-81
+dvp_079_place_39	New York City	Q60	40.712728,-74.006015
+dvp_079_place_40	Dartmouth College	Q49116	43.703333333333,-72.288333333333
+dvp_079_place_41	Stanford	Q173813	37.424109,-122.166079
+dvp_079_place_42	United States of America	Q30	39.828175,-98.5795
+dvp_079_place_43	Vietnam	Q881	16,108
+dvp_079_place_44	Fort Jackson	Q5471392	34.039166666667,-80.822222222222
+dvp_079_place_45	South Carolina	Q1456	34,-81
+dvp_079_place_46	Vietnam	Q881	16,108
+dvp_079_place_47	Fort Jackson	Q5471392	34.039166666667,-80.822222222222
+dvp_079_place_48	Fort Benning	Q1438462	32.366111111111,-84.969166666667
+dvp_079_place_49	Georgia	Q1428	33,-83.5
+dvp_079_place_50	Vietnam	Q881	16,108
+dvp_079_place_51	Vietnam	Q881	16,108
+dvp_079_place_52	Panama	Q804	8.616667,-80.366667
+dvp_079_place_53	Vietnam	Q881	16,108
+dvp_079_place_54	Fort Jackson	Q5471392	34.039166666667,-80.822222222222
+dvp_079_place_55	Vietnam	Q881	16,108
+dvp_079_place_56	Vietnam	Q881	16,108
+dvp_079_place_57	Vietnam	Q881	16,108
+dvp_079_place_58	Vietnam	Q881	16,108
+dvp_079_place_59	Vietnam	Q881	16,108
+dvp_079_place_60	Fort Benning	Q1438462	32.366111111111,-84.969166666667
+dvp_079_place_61	Palo Alto	Q47265	37.429166666667,-122.13805555556
+dvp_079_place_62	Stanford	Q173813	37.424109,-122.166079
+dvp_079_place_63	United States of America	Q30	39.828175,-98.5795
+dvp_079_place_64	Vietnam	Q881	16,108
+dvp_079_place_65	New York City	Q60	40.712728,-74.006015
+dvp_079_place_66	Vietnam	Q881	16,108
+dvp_079_place_67	Vietnam	Q881	16,108
+dvp_079_place_68	Vietnam	Q881	16,108
+dvp_079_place_69	Củ Chi	Q1151196	10.97333,106.49325
+dvp_079_place_70	United States of America	Q30	39.828175,-98.5795
+dvp_079_place_71	Vietnam	Q881	16,108
+dvp_079_place_72	Ho Chi Minh City	Q1854	10.816666666667,106.63333333333
+dvp_079_place_73	New Hampshire	Q759	44,-71.5
+dvp_079_place_74	Vietnam	Q881	16,108
+dvp_079_place_75	Vietnam	Q881	16,108
+dvp_079_place_76	Ho Chi Minh City	Q1854	10.816666666667,106.63333333333
+dvp_079_place_77	Mekong Delta	Q1052867	10.009,105.824
+			10.333333333333,106.66666666667
+dvp_079_place_78	Central Highlands	Q1140648	13.75,108.25
+dvp_079_place_79	Cambodia	Q424	12.6,105
+dvp_079_place_80	Central Highlands	Q1140648	13.75,108.25
+dvp_079_place_81	Ho Chi Minh City	Q1854	10.816666666667,106.63333333333
+dvp_079_place_82	United States Military Academy	Q9219	41.39277778,-73.95833333
+dvp_079_place_83	Palo Alto	Q47265	37.429166666667,-122.13805555556
+dvp_079_place_84	Palo Alto	Q47265	37.429166666667,-122.13805555556
+dvp_079_place_85	Cambodia	Q424	12.6,105
+dvp_079_place_86	Vietnam	Q881	16,108
+dvp_079_place_87	Cambodia	Q424	12.6,105
+dvp_079_place_88	Cambodia	Q424	12.6,105
+dvp_079_place_89	Ho Chi Minh City	Q1854	10.816666666667,106.63333333333
+dvp_079_place_90	Japan	Q17	35,136
+dvp_079_place_91	Anchorage	Q39450	61.218333333333,-149.89916666667
+dvp_079_place_92	Anchorage	Q39450	61.218333333333,-149.89916666667
+dvp_079_place_93	Alaska	Q797	64,-150
+dvp_079_place_94	Alaska	Q797	64,-150
+dvp_079_place_95	Sacramento	Q18013	38.575277777778,-121.48611111111
+dvp_079_place_96	Oakland	Q17042	37.8,-122.25
+dvp_079_place_97	Vietnam	Q881	16,108
+dvp_079_place_98	Oakland	Q17042	37.8,-122.25
+dvp_079_place_99	Vietnam	Q881	16,108
+dvp_079_place_100	Oregon	Q824	43.935833,-120.575
+dvp_079_place_101	Florence	Q2044	43.771388888889,11.254166666667
+dvp_079_place_102	Iraq	Q796	33,43
