@@ -1,4 +1,4 @@
-id	orgName	QID	dvp_id
+id	orgName	Qid	dvp_id
 dvp_088_org_0	Dartmouth College	Q49116	
 dvp_088_org_1	Atlantic Refining Company	Q106805149	
 dvp_088_org_2	ARCO	Q304769	
@@ -46,13 +46,13 @@ dvp_088_org_43	Norwich University	Q1681928
 dvp_088_org_44	Dartmouth Outing Club (DOC)	Q101243244	
 dvp_088_org_45	Psi Upsilon	Q953400	
 dvp_088_org_46	Psi Upsilon	Q953400	
-dvp_088_org_47	[Class of 1967]		dvp_767
+dvp_088_org_47	[Class of 1967]		dvp_0767
 dvp_088_org_48	Class of 1969	Q92752096	
 dvp_088_org_49	Class of 1969	Q92752096	
 dvp_088_org_50	Reserve Officers' Training Corps	Q489983	
 dvp_088_org_51	Dartmouth College	Q49116	
 dvp_088_org_52	Reserve Officers' Training Corps	Q489983	
-dvp_088_org_53	[Class of 1970]		dvp_768
+dvp_088_org_53	[Class of 1970]		dvp_0768
 dvp_088_org_54	Dartmouth College	Q49116	
 dvp_088_org_55	Reserve Officers' Training Corps	Q489983	
 dvp_088_org_56	Dartmouth College	Q49116	
@@ -73,7 +73,7 @@ dvp_088_org_70	United States Naval Academy	Q559549
 dvp_088_org_71	United States Navy	Q11220	
 dvp_088_org_72	United States Navy	Q11220	
 dvp_088_org_73	United States Army	Q9212	
-dvp_088_org_74	’67		dvp_767
+dvp_088_org_74	’67		dvp_0767
 dvp_088_org_75	United States Navy	Q11220	
 dvp_088_org_76	United States Naval Academy	Q559549	
 dvp_088_org_77	Peace Corps	Q458620	
