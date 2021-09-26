@@ -1,130 +1,130 @@
-id	placeName
-dvp_086_place_0	Rauner [Special Collections] Library
-dvp_086_place_1	California
-dvp_086_place_2	Pittsburgh, Pennsylvania
-dvp_086_place_3	Pittsburgh
-dvp_086_place_4	[University of] Wisconsin
-dvp_086_place_5	Pittsburgh
-dvp_086_place_6	Israel
-dvp_086_place_7	Poland
-dvp_086_place_8	Czechoslovakia
-dvp_086_place_9	Germany
-dvp_086_place_10	United States
-dvp_086_place_11	Canada
-dvp_086_place_12	Camp Aliquippa [now Roaring Run Resort]
-dvp_086_place_13	Pennsylvania
-dvp_086_place_14	Germany
-dvp_086_place_15	Mercersburg
-dvp_086_place_16	Pittsburgh
-dvp_086_place_17	Pennsylvania
-dvp_086_place_18	New Hampshire
-dvp_086_place_19	South Mass[achusetts Hall
-dvp_086_place_20	South Mass
-dvp_086_place_21	Thayer [Hall, now Class of 1953 Commons]
-dvp_086_place_22	Thayer
-dvp_086_place_23	Woodstock [New York]
-dvp_086_place_24	Baker Library [Fisher Ames Baker Memorial Library, now Berry-Baker Library]
-dvp_086_place_25	Hanover [New Hampshire]
-dvp_086_place_26	Lebanon [New Hampshire]
-dvp_086_place_27	York, Pennsylvania
-dvp_086_place_28	Canada
-dvp_086_place_29	New Hampshire
-dvp_086_place_30	Vermont
-dvp_086_place_31	Pittsburgh
-dvp_086_place_32	Kent State [University]
-dvp_086_place_33	Lackland Air Force Base
-dvp_086_place_34	Texas
-dvp_086_place_35	Kent State
-dvp_086_place_36	Pittsburgh
-dvp_086_place_37	Japan
-dvp_086_place_38	Lackland, Texas
-dvp_086_place_39	New Hampshire
-dvp_086_place_40	Lackland
-dvp_086_place_41	Lackland Air Force Base
-dvp_086_place_42	San Antonio
-dvp_086_place_43	University of Illinois in Champaign-Urbana
-dvp_086_place_44	University of Illinois
-dvp_086_place_45	Vietnam
-dvp_086_place_46	Germany
-dvp_086_place_47	San Francisco
-dvp_086_place_48	Chanute Air Force Base
-dvp_086_place_49	Rantoul, Illinois
-dvp_086_place_50	Yokota Air Base
-dvp_086_place_51	Japan
-dvp_086_place_52	McClellan Air Force Base
-dvp_086_place_53	California
-dvp_086_place_54	Japan
-dvp_086_place_55	Japan
-dvp_086_place_56	Japan
-dvp_086_place_57	Japan
-dvp_086_place_58	United States
-dvp_086_place_59	Alaska
-dvp_086_place_60	Hawaii
-dvp_086_place_61	Pago Pago
-dvp_086_place_62	American Samoa
-dvp_086_place_63	Tokyo
-dvp_086_place_64	Mount Fuji
-dvp_086_place_65	Tokyo
-dvp_086_place_66	Tokyo
-dvp_086_place_67	Imperial Palace
-dvp_086_place_68	Sanno [Hotel]
-dvp_086_place_69	Sanno
-dvp_086_place_70	Vietnam
-dvp_086_place_71	Japan
-dvp_086_place_72	Japan
-dvp_086_place_73	Japan
-dvp_086_place_74	Sanno Hotel
-dvp_086_place_75	Japan
-dvp_086_place_76	Japan
-dvp_086_place_77	Japan
-dvp_086_place_78	Texas
-dvp_086_place_79	Pittsburgh
-dvp_086_place_80	McKeesport, Pennsylvania
-dvp_086_place_81	Pittsburgh
-dvp_086_place_82	McKeesport
-dvp_086_place_83	California
-dvp_086_place_84	New York City
-dvp_086_place_85	California
-dvp_086_place_86	Europe
-dvp_086_place_87	California
-dvp_086_place_88	San Francisco
-dvp_086_place_89	Japan
-dvp_086_place_90	California
-dvp_086_place_91	California
-dvp_086_place_92	Aspen [Colorado]
-dvp_086_place_93	New York City
-dvp_086_place_94	Van Nuys
-dvp_086_place_95	Los Angeles
-dvp_086_place_96	Niles, Illinois
-dvp_086_place_97	Chicago
-dvp_086_place_98	Niles, Illinois
-dvp_086_place_99	Chicago
-dvp_086_place_100	California
-dvp_086_place_101	Chicago
-dvp_086_place_102	California
-dvp_086_place_103	United States
-dvp_086_place_104	St. Louis [Missouri]
-dvp_086_place_105	San Diego
-dvp_086_place_106	Indianapolis [Indiana]
-dvp_086_place_107	Japan
-dvp_086_place_108	Nam
-dvp_086_place_109	Japan
-dvp_086_place_110	Yokota Air Base
-dvp_086_place_111	Vietnam
-dvp_086_place_112	United States
-dvp_086_place_113	United States
-dvp_086_place_114	Japan
-dvp_086_place_115	California
-dvp_086_place_116	California
-dvp_086_place_117	Mexico
-dvp_086_place_118	Cabo San Lucas [Mexico]
-dvp_086_place_119	Vietnam
-dvp_086_place_120	Japan
-dvp_086_place_121	Vietnam
-dvp_086_place_122	Japan
-dvp_086_place_123	Vietnam
-dvp_086_place_124	Japan
-dvp_086_place_125	Ghana
-dvp_086_place_126	Kenya
-dvp_086_place_127	Tanzania
-dvp_086_place_128	Ghana
+id	placeName	QID	dvp_id	coordinate location
+dvp_086_place_0	Rauner Special Collections Library	Q98544730		43.70447,-72.28817
+dvp_086_place_1	California	Q99		37,-120
+dvp_086_place_2	Pittsburgh	Q1342		40.44166666666667,-80
+dvp_086_place_3	Pittsburgh	Q1342		40.44166666666667,-80
+dvp_086_place_4	[University of] Wisconsin			
+dvp_086_place_5	Pittsburgh	Q1342		40.44166666666667,-80
+dvp_086_place_6	Israel	Q801		31,35
+dvp_086_place_7	Poland	Q36		52,19
+dvp_086_place_8	Czechoslovakia	Q33946		50.083333333333,14.416666666667
+dvp_086_place_9	Germany	Q183		51,10
+dvp_086_place_10	United States of America	Q30		39.828175,-98.5795
+dvp_086_place_11	Canada	Q16		56,-109
+dvp_086_place_12	Roaring Run Resort	Q16984159		40.06713925902571, -79.3458188
+dvp_086_place_13	Pennsylvania	Q1400		41,-77.5
+dvp_086_place_14	Germany	Q183		51,10
+dvp_086_place_15	Mercersburg Academy	Q6818330		39.826111,-77.898333
+dvp_086_place_16	Pittsburgh	Q1342		40.44166666666667,-80
+dvp_086_place_17	Pennsylvania	Q1400		41,-77.5
+dvp_086_place_18	New Hampshire	Q759		44,-71.5
+dvp_086_place_19	South Mass[achusetts Hall		dvp_0818	
+dvp_086_place_20	South Mass		dvp_0818	
+dvp_086_place_21	Class of 1953 Commons	Q98636574		43.70309,-72.29092
+dvp_086_place_22	Class of 1953 Commons	Q98636574		43.70309,-72.29092
+dvp_086_place_23	Woodstock	Q608293		42.042778,-74.1175
+dvp_086_place_24	Baker Memorial Library	Q4849183		43.705,-72.289166666667
+dvp_086_place_25	Hanover	Q131908		43.7,-72.28333333333333
+dvp_086_place_26	Lebanon	Q993523		43.6422,-72.2517
+dvp_086_place_27	York	Q821105		39.9628,-76.7281
+dvp_086_place_28	Canada	Q16		56,-109
+dvp_086_place_29	New Hampshire	Q759		44,-71.5
+dvp_086_place_30	Vermont	Q16551		44,-72.7
+dvp_086_place_31	Pittsburgh	Q1342		40.44166666666667,-80
+dvp_086_place_32	Kent State University	Q1473615		41.146944, -81.343333
+dvp_086_place_33	Lackland Air Force Base	Q1416857		29.384166666667,-98.581111111111
+dvp_086_place_34	Texas	Q1439		31,-100
+dvp_086_place_35	Kent State University	Q1473615		41.146944, -81.343333
+dvp_086_place_36	Pittsburgh	Q1342		40.44166666666667,-80
+dvp_086_place_37	Japan	Q17		35,136
+dvp_086_place_38	Lackland Air Force Base	Q1416857		29.384166666667,-98.581111111111
+dvp_086_place_39	New Hampshire	Q759		44,-71.5
+dvp_086_place_40	Lackland Air Force Base	Q1416857		29.384166666667,-98.581111111111
+dvp_086_place_41	Lackland Air Force Base	Q1416857		29.384166666667,-98.581111111111
+dvp_086_place_42	San Antonio	Q975		29.425,-98.49388888888889
+dvp_086_place_43	University of Illinois at Urbana–Champaign	Q457281		40.110538888889,-88.228411111111
+dvp_086_place_44	University of Illinois at Urbana–Champaign	Q457281		40.110538888889,-88.228411111111
+dvp_086_place_45	Vietnam	Q881		16,108
+dvp_086_place_46	Germany	Q183		51,10
+dvp_086_place_47	San Francisco	Q62		37.7775,-122.41638888888889
+dvp_086_place_48	Chanute Air Force Base	Q5072704		40.2944,-88.1431
+dvp_086_place_49	Rantoul	Q1025637		40.304722222222,-88.151944444444
+dvp_086_place_50	Yokota Air Base	Q1806489		35.748611111111,139.34861111111
+dvp_086_place_51	Japan	Q17		35,136
+dvp_086_place_52	McClellan Air Force Base	Q6800306		38.667777777778,-121.40055555556
+dvp_086_place_53	California	Q99		37,-120
+dvp_086_place_54	Japan	Q17		35,136
+dvp_086_place_55	Japan	Q17		35,136
+dvp_086_place_56	Japan	Q17		35,136
+dvp_086_place_57	Japan	Q17		35,136
+dvp_086_place_58	United States of America	Q30		39.828175,-98.5795
+dvp_086_place_59	Alaska	Q797		64,-150
+dvp_086_place_60	Hawaii	Q782		21.3075,-157.8575
+dvp_086_place_61	Pago Pago	Q51678		-14.279444444444445,-170.70055555555555
+dvp_086_place_62	American Samoa	Q16641		-14.295833,-170.7075
+dvp_086_place_63	Tokyo	Q1490		35.689722222222,139.69222222222
+dvp_086_place_64	Mount Fuji	Q39231		35.3625,138.73055555556
+dvp_086_place_65	Tokyo	Q1490		35.689722222222,139.69222222222
+dvp_086_place_66	Tokyo	Q1490		35.689722222222,139.69222222222
+dvp_086_place_67	Tokyo Imperial Palace	Q500681		35.6825,139.7521
+dvp_086_place_68	Sanno Hotel	Q11470034		35.673139,139.740667
+dvp_086_place_69	Sanno Hotel	Q11470034		35.673139,139.740667
+dvp_086_place_70	Vietnam	Q881		16,108
+dvp_086_place_71	Japan	Q17		35,136
+dvp_086_place_72	Japan	Q17		35,136
+dvp_086_place_73	Japan	Q17		35,136
+dvp_086_place_74	Sanno Hotel	Q11470034		35.673139,139.740667
+dvp_086_place_75	Japan	Q17		35,136
+dvp_086_place_76	Japan	Q17		35,136
+dvp_086_place_77	Japan	Q17		35,136
+dvp_086_place_78	Texas	Q1439		31,-100
+dvp_086_place_79	Pittsburgh	Q1342		40.44166666666667,-80
+dvp_086_place_80	McKeesport	Q949739		40.341877777778,-79.845005555556
+dvp_086_place_81	Pittsburgh	Q1342		40.44166666666667,-80
+dvp_086_place_82	McKeesport	Q949739		40.341877777778,-79.845005555556
+dvp_086_place_83	California	Q99		37,-120
+dvp_086_place_84	New York City	Q60		40.712728,-74.006015
+dvp_086_place_85	California	Q99		37,-120
+dvp_086_place_86	Europe			
+dvp_086_place_87	California	Q99		37,-120
+dvp_086_place_88	San Francisco	Q62		37.7775,-122.41638888888889
+dvp_086_place_89	Japan	Q17		35,136
+dvp_086_place_90	California	Q99		37,-120
+dvp_086_place_91	California	Q99		37,-120
+dvp_086_place_92	Aspen	Q205842		39.192222222222,-106.82444444444
+dvp_086_place_93	New York City	Q60		40.712728,-74.006015
+dvp_086_place_94	Van Nuys	Q769446		34.1833,-118.4333
+dvp_086_place_95	Los Angeles	Q65		34.05223,-118.24368
+dvp_086_place_96	Niles	Q601166		42.0278,-87.81
+dvp_086_place_97	Chicago	Q1297		41.881944444444,-87.627777777778
+dvp_086_place_98	Niles	Q601166		42.0278,-87.81
+dvp_086_place_99	Chicago	Q1297		41.881944444444,-87.627777777778
+dvp_086_place_100	California	Q99		37,-120
+dvp_086_place_101	Chicago	Q1297		41.881944444444,-87.627777777778
+dvp_086_place_102	California	Q99		37,-120
+dvp_086_place_103	United States of America	Q30		39.828175,-98.5795
+dvp_086_place_104	St. Louis	Q38022		38.616666666667,-90.2
+dvp_086_place_105	San Diego	Q16552		32.715,-117.1625
+dvp_086_place_106	Indianapolis	Q6346		39.768611111111,-86.158055555556
+dvp_086_place_107	Japan	Q17		35,136
+dvp_086_place_108	Vietnam	Q881		16,108
+dvp_086_place_109	Japan	Q17		35,136
+dvp_086_place_110	Yokota Air Base	Q1806489		35.748611111111,139.34861111111
+dvp_086_place_111	Vietnam	Q881		16,108
+dvp_086_place_112	United States of America	Q30		39.828175,-98.5795
+dvp_086_place_113	United States of America	Q30		39.828175,-98.5795
+dvp_086_place_114	Japan	Q17		35,136
+dvp_086_place_115	California	Q99		37,-120
+dvp_086_place_116	California	Q99		37,-120
+dvp_086_place_117	Mexico	Q96		23,-102
+dvp_086_place_118	Cabo San Lucas	Q1020776		22.889722222222,-109.91555555556
+dvp_086_place_119	Vietnam	Q881		16,108
+dvp_086_place_120	Japan	Q17		35,136
+dvp_086_place_121	Vietnam	Q881		16,108
+dvp_086_place_122	Japan	Q17		35,136
+dvp_086_place_123	Vietnam	Q881		16,108
+dvp_086_place_124	Japan	Q17		35,136
+dvp_086_place_125	Ghana	Q117		8,-0.5
+dvp_086_place_126	Kenya	Q114		0.1,38
+dvp_086_place_127	Tanzania	Q924		-6.307,34.854
+dvp_086_place_128	Ghana	Q117		8,-0.5
