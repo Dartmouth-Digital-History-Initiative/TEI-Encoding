@@ -1,40 +1,40 @@
-id	persName
-dvp_086_person_0	Alexa Sonnenfeld
-dvp_086_person_1	Rob Cox
-dvp_086_person_2	Rob
-dvp_086_person_3	Rob
-dvp_086_person_4	[Thomas] “Tom” Saxer
-dvp_086_person_5	Mike
-dvp_086_person_6	Mack
-dvp_086_person_7	[J. S. Mack]
-dvp_086_person_8	Tom Saxer
-dvp_086_person_9	Mike Mack
-dvp_086_person_10	Harry [R.] Wellman
-dvp_086_person_11	Ayn Rand
-dvp_086_person_12	George [A.] Plimpton
-dvp_086_person_13	George Plimpton
-dvp_086_person_14	George
-dvp_086_person_15	George
-dvp_086_person_16	Chauncey [C.] Loomis III [Jr.]
-dvp_086_person_17	Rob
-dvp_086_person_18	[President John F.] Kennedy
-dvp_086_person_19	[William H.] “Bill” King [Jr.
-dvp_086_person_20	[Robert L.] “Bob” Blackman
-dvp_086_person_21	Paul [C.] Pringle 
-dvp_086_person_22	Paul
-dvp_086_person_23	[Edward A.] “Ed” Taber [III
-dvp_086_person_24	[Alexander F.] “Sandy” Ritter
-dvp_086_person_25	[Kenneth H.] “Ken” Jukes
-dvp_086_person_26	Ken Jukes
-dvp_086_person_27	Rob
-dvp_086_person_28	[Leslie H.] “Les” Wexner
-dvp_086_person_29	Les Wexner
-dvp_086_person_30	[James A.] “Jim” Napoli 
-dvp_086_person_31	Murray Lindberg
-dvp_086_person_32	[President] Lyndon [B.] Johnson
-dvp_086_person_33	Jane Fonda
-dvp_086_person_34	Jane
-dvp_086_person_35	Lyndon B. Johnson
-dvp_086_person_36	[President Richard M.] Nixon
-dvp_086_person_37	Rob
-dvp_086_person_38	Mr. Cox
+id	persName	QID	dvp_id
+dvp_086_person_0	Alexa Sonnenfeld		dvp_0824
+dvp_086_person_1	Rob Cox		dvp_0825
+dvp_086_person_2	Rob		dvp_0825
+dvp_086_person_3	Rob		dvp_0825
+dvp_086_person_4	[Thomas] “Tom” Saxer		dvp_0826
+dvp_086_person_5	Mike		dvp_0827
+dvp_086_person_6	Mack		
+dvp_086_person_7	[J. S. Mack]		
+dvp_086_person_8	Tom Saxer		dvp_0826
+dvp_086_person_9	Mike Mack		dvp_0827
+dvp_086_person_10	Harry [R.] Wellman		dvp_0828
+dvp_086_person_11	Ayn Rand	Q132524	
+dvp_086_person_12	George Plimpton	Q1508079	
+dvp_086_person_13	George Plimpton	Q1508079	
+dvp_086_person_14	George Plimpton	Q1508079	
+dvp_086_person_15	George Plimpton	Q1508079	
+dvp_086_person_16	Chauncey C. Loomis	Q5088215	
+dvp_086_person_17	Rob		dvp_0825
+dvp_086_person_18	John F. Kennedy	Q9696	
+dvp_086_person_19	[William H.] “Bill” King [Jr.		dvp_0829
+dvp_086_person_20	Bob Blackman	Q4931848	
+dvp_086_person_21	Paul [C.] Pringle 		dvp_0830
+dvp_086_person_22	Paul		dvp_0830
+dvp_086_person_23	[Edward A.] “Ed” Taber [III		dvp_0831
+dvp_086_person_24	[Alexander F.] “Sandy” Ritter		dvp_0832
+dvp_086_person_25	[Kenneth H.] “Ken” Jukes		dvp_0833
+dvp_086_person_26	Ken Jukes		dvp_0833
+dvp_086_person_27	Rob		dvp_0825
+dvp_086_person_28	Les Wexner	Q1675849	
+dvp_086_person_29	Les Wexner	Q1675849	
+dvp_086_person_30	[James A.] “Jim” Napoli 		dvp_0834
+dvp_086_person_31	Murray Lindberg		dvp_0835
+dvp_086_person_32	Lyndon B. Johnson	Q9640	
+dvp_086_person_33	Jane Fonda	Q41142	
+dvp_086_person_34	Jane Fonda	Q41142	
+dvp_086_person_35	Lyndon B. Johnson	Q9640	
+dvp_086_person_36	Richard Nixon	Q9588	
+dvp_086_person_37	Rob		dvp_0825
+dvp_086_person_38	Mr. Cox		dvp_0825
