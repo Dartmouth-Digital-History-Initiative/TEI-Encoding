@@ -1,44 +1,44 @@
-id	persName
-dvp_070_person_0	Sara Harris
-dvp_070_person_1	Dean Kent Yrchik-Shoemaker
-dvp_070_person_2	Karl [G.] Shoemaker
-dvp_070_person_3	Grace [Burson] Shoemaker
-dvp_070_person_4	John [F.] Kennedy
-dvp_070_person_5	Alexander Pierce Smith
-dvp_070_person_6	Alexander Pierce Smith
-dvp_070_person_7	President [Lyndon B.] Johnson
-dvp_070_person_8	Kennedy
-dvp_070_person_9	Alexander Pierce Smith
-dvp_070_person_10	[President Richard M.] Nixon
-dvp_070_person_11	ROTC
-dvp_070_person_12	Johnson
-dvp_070_person_13	Kennedy
-dvp_070_person_14	Robert [F.] Kennedy
-dvp_070_person_15	Nixon
-dvp_070_person_16	Johnson
-dvp_070_person_17	Gen. [Creighton W.] Abrams [Jr.]
-dvp_070_person_18	Johnson
-dvp_070_person_19	Wesley [R.] Fisher [sic; Fishel]
-dvp_070_person_20	[Ngô Đình] Diệm
-dvp_070_person_21	Martin Luther King
-dvp_070_person_22	[FBI director J. Edgar] Hoover
-dvp_070_person_23	Martin Luther King
-dvp_070_person_24	Hoover
-dvp_070_person_25	Nixon
-dvp_070_person_26	William J. Lowe
-dvp_070_person_27	Nixon
-dvp_070_person_28	LBJ
-dvp_070_person_29	Roscoe Richmond
-dvp_070_person_30	Roscoe
-dvp_070_person_31	Roscoe
-dvp_070_person_32	Roberta [L.] Stewart
-dvp_070_person_33	[Walter F.] Mondale
-dvp_070_person_34	Nixon
-dvp_070_person_35	Sara Harris
-dvp_070_person_36	Dean Yrchik-Shoemaker
-dvp_070_person_37	President [James E.] Wright
-dvp_070_person_38	John [A.] Rassias
-dvp_070_person_39	President Wright
-dvp_070_person_40	President Wright
-dvp_070_person_41	President Wright
-dvp_070_person_42	[Phillip C.] “Phil” Schaefer
+id	persName	QID	dvp_id
+dvp_070_person_0	Sara Harris		dvp_0761
+dvp_070_person_1	Kent Yrchik-Shoemaker	Q108576276	
+dvp_070_person_2	Karl [G.] Shoemaker		dvp_0762
+dvp_070_person_3	Grace [Burson] Shoemaker		dvp_0763
+dvp_070_person_4	John F. Kennedy	Q9696	
+dvp_070_person_5	Alexander Pierce Smith		dvp_0764
+dvp_070_person_6	Alexander Pierce Smith		dvp_0764
+dvp_070_person_7	Lyndon B. Johnson	Q9640	
+dvp_070_person_8	John F. Kennedy	Q9696	
+dvp_070_person_9	Alexander Pierce Smith		dvp_0764
+dvp_070_person_10	Richard Nixon	Q9588	
+dvp_070_person_11	ROTC		
+dvp_070_person_12	Lyndon B. Johnson	Q9640	
+dvp_070_person_13	John F. Kennedy	Q9696	
+dvp_070_person_14	Robert F. Kennedy	Q25310	
+dvp_070_person_15	Richard Nixon	Q9588	
+dvp_070_person_16	Lyndon B. Johnson	Q9640	
+dvp_070_person_17	Creighton Abrams	Q280290	
+dvp_070_person_18	Lyndon B. Johnson	Q9640	
+dvp_070_person_19	Wesley R. Fishel	Q78142900	
+dvp_070_person_20	Ngo Dinh Diem	Q192502	
+dvp_070_person_21	Martin Luther King Jr.	Q8027	
+dvp_070_person_22	J. Edgar Hoover	Q210435	
+dvp_070_person_23	Martin Luther King Jr.	Q8027	
+dvp_070_person_24	J. Edgar Hoover	Q210435	
+dvp_070_person_25	Richard Nixon	Q9588	
+dvp_070_person_26	William J. Lowe		dvp_0765
+dvp_070_person_27	Richard Nixon	Q9588	
+dvp_070_person_28	Lyndon B. Johnson	Q9640	
+dvp_070_person_29	Roscoe Richmond		dvp_0766
+dvp_070_person_30	Roscoe		dvp_0766
+dvp_070_person_31	Roscoe		dvp_0766
+dvp_070_person_32	Roberta L. Stewart	Q108576322	
+dvp_070_person_33	Walter Mondale	Q49216	
+dvp_070_person_34	Richard Nixon	Q9588	
+dvp_070_person_35	Sara Harris		dvp_0761
+dvp_070_person_36	Kent Yrchik-Shoemaker	Q108576276	
+dvp_070_person_37	James Wright	Q3161056	
+dvp_070_person_38	John Rassias	Q6254272	
+dvp_070_person_39	James Wright	Q3161056	
+dvp_070_person_40	James Wright	Q3161056	
+dvp_070_person_41	James Wright	Q3161056	
+dvp_070_person_42	[Phillip C.] “Phil” Schaefer		dvp_0038
