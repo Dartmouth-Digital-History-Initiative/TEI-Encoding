@@ -1,75 +1,75 @@
-id	name
-dvp_082_event_0	World War I
-dvp_082_event_1	the Russian Revolution
-dvp_082_event_2	the Russian Civil War
-dvp_082_event_3	First World War
-dvp_082_event_4	[the Great Depression]
-dvp_082_event_5	[American] Civil War
-dvp_082_event_6	the Korean War
-dvp_082_event_7	Second World War [World War II]
-dvp_082_event_8	Russian launching of the Sputnik [1] satellite
-dvp_082_event_9	Cuban Missile Crisis
-dvp_082_event_10	the Second World War
-dvp_082_event_11	1960 presidential election
-dvp_082_event_12	the Civil War
-dvp_082_event_13	First World War
-dvp_082_event_14	civil war in Russia
-dvp_082_event_15	the Second World War
-dvp_082_event_16	the Second World War
-dvp_082_event_17	the Second World War
-dvp_082_event_18	First World War
-dvp_082_event_19	Cuban Missile Crisis
-dvp_082_event_20	assassination of President Kennedy
-dvp_082_event_21	9/11 [2001 attacks]
-dvp_082_event_22	World War II
-dvp_082_event_23	[Second] Boer War
-dvp_082_event_24	[American] Revolutionary War
-dvp_082_event_25	Revolutionary War
-dvp_082_event_26	[American] Civil War
-dvp_082_event_27	Civil War
-dvp_082_event_28	Civil War
-dvp_082_event_29	Sputnik
-dvp_082_event_30	World War I
-dvp_082_event_31	Vietnam
-dvp_082_event_32	Civil War
-dvp_082_event_33	Vietnam [War]
-dvp_082_event_34	Tet
-dvp_082_event_35	Tet Offensive
-dvp_082_event_36	MLK [the Rev. Dr. Martin Luther King Jr.] is assassinated
-dvp_082_event_37	RFK [Robert F. Kennedy] is assassinated
-dvp_082_event_38	Mỹ Lai Massacre
-dvp_082_event_39	Democratic National Convention
-dvp_082_event_40	Vietnam War
-dvp_082_event_41	the Vietnam War
-dvp_082_event_42	Tet
-dvp_082_event_43	Vietnam War
-dvp_082_event_44	the Vietnam War
-dvp_082_event_45	 World War II
-dvp_082_event_46	Tet
-dvp_082_event_47	World War II
-dvp_082_event_48	Martin Luther King was assassinated
-dvp_082_event_49	Democratic Convention
-dvp_082_event_50	Parkhurst Hall was—was occupied
-dvp_082_event_51	Second World War
-dvp_082_event_52	war in Vietnam
-dvp_082_event_53	 Second World War
-dvp_082_event_54	Tet
-dvp_082_event_55	Vietnam War
-dvp_082_event_56	Easter Offensive
-dvp_082_event_57	Tet
-dvp_082_event_58	Tet
-dvp_082_event_59	Tet
-dvp_082_event_60	Tet
-dvp_082_event_61	Easter invasion
-dvp_082_event_62	[President Richard M.] Nixon’s election in ’68
-dvp_082_event_63	Tet
-dvp_082_event_64	Easter Invasion
-dvp_082_event_65	Watergate [scandal]
-dvp_082_event_66	G.I. Bill [Serviceman’s Readjustment Act of 1944]
-dvp_082_event_67	Watergate
-dvp_082_event_68	World War II
-dvp_082_event_69	Vietnam
-dvp_082_event_70	Sykes-Picot Treaty [sic; Agreement]
-dvp_082_event_71	First World War
-dvp_082_event_72	First World War
-dvp_082_event_73	First World War
+id	name	QID	dvp_id	start time	end time	point in time
+dvp_082_event_0	World War I	Q361		1914-07-28T00:00:00Z	1918-11-11T00:00:00Z	
+dvp_082_event_1	Russian Revolution	Q8729				1917-01-01T00:00:00Z
+dvp_082_event_2	Russian Civil War	Q79911		1917-11-07T00:00:00Z	1922-10-25T00:00:00Z	
+dvp_082_event_3	World War I	Q361		1914-07-28T00:00:00Z	1918-11-11T00:00:00Z	
+dvp_082_event_4	Great Depression in the United States	Q696482		1929-10-24T00:00:00Z	1939-01-01T00:00:00Z	
+dvp_082_event_5	American Civil War	Q8676		1861-04-11T00:00:00Z	1865-05-10T00:00:00Z	
+dvp_082_event_6	The Korean War	Q58347285				
+dvp_082_event_7	World War II	Q362		1939-09-01T00:00:00Z	1945-09-02T00:00:00Z	
+dvp_082_event_8	Sputnik 1	Q80811		1957-10-04T00:00:00Z	1958-01-05T00:00:00Z	
+dvp_082_event_9	Cuban Missile Crisis	Q128160		1962-10-14T00:00:00Z	1962-10-28T00:00:00Z	
+dvp_082_event_10	World War II	Q362		1939-09-01T00:00:00Z	1945-09-02T00:00:00Z	
+dvp_082_event_11	1960 Taiwan presidential election	Q10843919				1960-03-21T00:00:00Z
+dvp_082_event_12	American Civil War	Q8676		1861-04-11T00:00:00Z	1865-05-10T00:00:00Z	
+dvp_082_event_13	World War I	Q361		1914-07-28T00:00:00Z	1918-11-11T00:00:00Z	
+dvp_082_event_14	Russian Civil War	Q79911		1917-11-07T00:00:00Z	1922-10-25T00:00:00Z	
+dvp_082_event_15	World War II	Q362		1939-09-01T00:00:00Z	1945-09-02T00:00:00Z	
+dvp_082_event_16	World War II	Q362		1939-09-01T00:00:00Z	1945-09-02T00:00:00Z	
+dvp_082_event_17	World War II	Q362		1939-09-01T00:00:00Z	1945-09-02T00:00:00Z	
+dvp_082_event_18	World War I	Q361		1914-07-28T00:00:00Z	1918-11-11T00:00:00Z	
+dvp_082_event_19	Cuban Missile Crisis	Q128160		1962-10-14T00:00:00Z	1962-10-28T00:00:00Z	
+dvp_082_event_20	assassination of John F. Kennedy	Q193484				1962-11-22T00:00:00Z
+dvp_082_event_21	September 11 attacks	Q10806				2001-09-11T00:00:00Z
+dvp_082_event_22	World War II	Q362		1939-09-01T00:00:00Z	1945-09-02T00:00:00Z	
+dvp_082_event_23	Second Boer War	Q215112		1899-10-11T00:00:00Z	1902-05-31T00:00:00Z	
+dvp_082_event_24	American Revolutionary War	Q40949		1775-04-19T00:00:00Z	1783-09-03T00:00:00Z	
+dvp_082_event_25	American Revolutionary War	Q40949		1775-04-19T00:00:00Z	1783-09-03T00:00:00Z	
+dvp_082_event_26	American Civil War	Q8676		1861-04-11T00:00:00Z	1865-05-10T00:00:00Z	
+dvp_082_event_27	American Civil War	Q8676		1861-04-11T00:00:00Z	1865-05-10T00:00:00Z	
+dvp_082_event_28	American Civil War	Q8676		1861-04-11T00:00:00Z	1865-05-10T00:00:00Z	
+dvp_082_event_29	Sputnik 1	Q80811				1957-10-04T00:00:00Z
+dvp_082_event_30	World War I	Q361		1914-07-28T00:00:00Z	1918-11-11T00:00:00Z	
+dvp_082_event_31	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_082_event_32	American Civil War	Q8676		1861-04-11T00:00:00Z	1865-05-10T00:00:00Z	
+dvp_082_event_33	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_082_event_34	Tet Offensive	Q82542		1968-01-30T00:00:00Z	1968-09-23T00:00:00Z	
+dvp_082_event_35	Tet Offensive	Q82542		1968-01-30T00:00:00Z	1968-09-23T00:00:00Z	
+dvp_082_event_36	assassination of Martin Luther King Jr.	Q757963				1968-04-04T00:00:00Z
+dvp_082_event_37	assassination of Robert F. Kennedy	Q1187550				1968-06-05T00:00:00Z
+dvp_082_event_38	My Lai Massacre	Q183421				1968-03-16T00:00:00Z
+dvp_082_event_39	1968 Democratic National Convention	Q83516				1968-01-01T00:00:00Z
+dvp_082_event_40	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_082_event_41	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_082_event_42	Tet Offensive	Q82542		1968-01-30T00:00:00Z	1968-09-23T00:00:00Z	
+dvp_082_event_43	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_082_event_44	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_082_event_45	World War II	Q362		1939-09-01T00:00:00Z	1945-09-02T00:00:00Z	
+dvp_082_event_46	Tet Offensive	Q82542		1968-01-30T00:00:00Z	1968-09-23T00:00:00Z	
+dvp_082_event_47	World War II	Q362		1939-09-01T00:00:00Z	1945-09-02T00:00:00Z	
+dvp_082_event_48	assassination of Martin Luther King Jr.	Q757963				1968-04-04T00:00:00Z
+dvp_082_event_49	1968 Democratic National Convention protest activity	Q4381720				1968-01-01T00:00:00Z
+dvp_082_event_50	Parkhurst Hall Takeover	Q101424872				1969-05-06T00:00:00Z
+dvp_082_event_51	World War II	Q362		1939-09-01T00:00:00Z	1945-09-02T00:00:00Z	
+dvp_082_event_52	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_082_event_53	World War II	Q362		1939-09-01T00:00:00Z	1945-09-02T00:00:00Z	
+dvp_082_event_54	Tet Offensive	Q82542		1968-01-30T00:00:00Z	1968-09-23T00:00:00Z	
+dvp_082_event_55	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_082_event_56	Easter Offensive	Q2395085				1972-10-22T00:00:00Z
+dvp_082_event_57	Tet Offensive	Q82542		1968-01-30T00:00:00Z	1968-09-23T00:00:00Z	
+dvp_082_event_58	Tet Offensive	Q82542		1968-01-30T00:00:00Z	1968-09-23T00:00:00Z	
+dvp_082_event_59	Tet Offensive	Q82542		1968-01-30T00:00:00Z	1968-09-23T00:00:00Z	
+dvp_082_event_60	Tet Offensive	Q82542		1968-01-30T00:00:00Z	1968-09-23T00:00:00Z	
+dvp_082_event_61	Easter Offensive	Q2395085				1972-10-22T00:00:00Z
+dvp_082_event_62	1968 United States presidential election	Q693742				1968-11-05T00:00:00Z
+dvp_082_event_63	Tet Offensive	Q82542		1968-01-30T00:00:00Z	1968-09-23T00:00:00Z	
+dvp_082_event_64	Easter Offensive	Q2395085				1972-10-22T00:00:00Z
+dvp_082_event_65	Watergate scandal	Q42761				1972-06-17T00:00:00Z
+dvp_082_event_66	G.I. Bill	Q1484269				
+dvp_082_event_67	Watergate scandal	Q42761				1972-06-17T00:00:00Z
+dvp_082_event_68	World War II	Q362		1939-09-01T00:00:00Z	1945-09-02T00:00:00Z	
+dvp_082_event_69	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_082_event_70	Sykes–Picot Agreement	Q211674				
+dvp_082_event_71	World War I	Q361		1914-07-28T00:00:00Z	1918-11-11T00:00:00Z	
+dvp_082_event_72	World War I	Q361		1914-07-28T00:00:00Z	1918-11-11T00:00:00Z	
+dvp_082_event_73	World War I	Q361		1914-07-28T00:00:00Z	1918-11-11T00:00:00Z	
