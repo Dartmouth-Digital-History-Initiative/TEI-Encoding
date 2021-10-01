@@ -1,74 +1,74 @@
-id	persName
-dvp_081_person_0	Emily Everhard [’18]
-dvp_081_person_1	Warren Cook
-dvp_081_person_2	Rebecca
-dvp_081_person_3	Jeff
-dvp_081_person_4	Helen
-dvp_081_person_5	Averil
-dvp_081_person_6	Will
-dvp_081_person_7	John
-dvp_081_person_8	Helen Cook
-dvp_081_person_9	Norm Teatro [spelling unconfirmed]
-dvp_081_person_10	Paul Gigliotti
-dvp_081_person_11	Emily
-dvp_081_person_12	Franklin Roosevelt
-dvp_081_person_13	Martin Luther King
-dvp_081_person_14	King
-dvp_081_person_15	King
-dvp_081_person_16	Rick Mahoney [’65]
-dvp_081_person_17	[Edward J.] Eddie Jeremiah
-dvp_081_person_18	Jeremiah
-dvp_081_person_19	Jeremiah
-dvp_081_person_20	Jeremiah
-dvp_081_person_21	JFK
-dvp_081_person_22	Emily
-dvp_081_person_23	[Vincent] Vince Starzinger
-dvp_081_person_24	Al Merrill
-dvp_081_person_25	Emily
-dvp_081_person_26	Martin Luther King
-dvp_081_person_27	Bobby Kennedy
-dvp_081_person_28	[President Lyndon B.] Johnson
-dvp_081_person_29	Bill Jevne
-dvp_081_person_30	Bill Engster
-dvp_081_person_31	Doug Cazort
-dvp_081_person_32	Ed Bailey
-dvp_081_person_33	Bailey
-dvp_081_person_34	Emily
-dvp_081_person_35	Bill Smoyer [William Smoyer ‘67]
-dvp_081_person_36	Bill
-dvp_081_person_37	Emily
-dvp_081_person_38	[General William C.] Westmoreland
-dvp_081_person_39	Westmoreland
-dvp_081_person_40	[General] Creighton Abrams
-dvp_081_person_41	Emily
-dvp_081_person_42	[Bill] Jevne
-dvp_081_person_43	[Bill] Engster
-dvp_081_person_44	Nixon
-dvp_081_person_45	Jevne
-dvp_081_person_46	Engster
-dvp_081_person_47	Karl [A.] Marlantes
-dvp_081_person_48	Bill Smoyer
-dvp_081_person_49	Bill Smoyer
-dvp_081_person_50	Joe Swayze
-dvp_081_person_51	Engster
-dvp_081_person_52	Jevne
-dvp_081_person_53	Engster
-dvp_081_person_54	[Doug] Cazort
-dvp_081_person_55	Jeff
-dvp_081_person_56	Kelly
-dvp_081_person_57	Emily
-dvp_081_person_58	Ho Chi Minh
-dvp_081_person_59	General Giap
-dvp_081_person_60	Bill
-dvp_081_person_61	Duncan Sleigh [‘67]
-dvp_081_person_62	Bill Smoyer
-dvp_081_person_63	Duncan Sleigh
-dvp_081_person_64	Bill Smoyer
-dvp_081_person_65	Nancy [Smoyer]
-dvp_081_person_66	Smoyer
-dvp_081_person_67	Brammie
-dvp_081_person_68	Hillary [Clinton]
-dvp_081_person_69	[Donald] Trump
-dvp_081_person_70	Jim Wright
-dvp_081_person_71	Jim
-dvp_081_person_72	Professor [Ed] Miller
+id	persName	QID	dvp_id
+dvp_081_person_0	Emily Everhard [’18]		dvp_0875
+dvp_081_person_1	Warren Cook		dvp_0876
+dvp_081_person_2	Rebecca		dvp_0877
+dvp_081_person_3	Jeff		dvp_0878
+dvp_081_person_4	Helen		dvp_0879
+dvp_081_person_5	Averil		dvp_0880
+dvp_081_person_6	Will		dvp_0881
+dvp_081_person_7	John		dvp_0882
+dvp_081_person_8	Helen Cook		dvp_0883
+dvp_081_person_9	Norm Teatro [spelling unconfirmed]		dvp_0884
+dvp_081_person_10	Paul Gigliotti		dvp_0885
+dvp_081_person_11	Emily		dvp_0875
+dvp_081_person_12	Franklin Delano Roosevelt	Q8007	
+dvp_081_person_13	Martin Luther King Jr.	Q8027	
+dvp_081_person_14	Martin Luther King Jr.	Q8027	
+dvp_081_person_15	Martin Luther King Jr.	Q8027	
+dvp_081_person_16	Rick Mahoney [’65]		dvp_0886
+dvp_081_person_17	Eddie Jeremiah	Q5336162	
+dvp_081_person_18	Eddie Jeremiah	Q5336162	
+dvp_081_person_19	Eddie Jeremiah	Q5336162	
+dvp_081_person_20	Eddie Jeremiah	Q5336162	
+dvp_081_person_21	John F. Kennedy	Q9696	
+dvp_081_person_22	Emily		dvp_0875
+dvp_081_person_23	[Vincent] Vince Starzinger		dvp_0887
+dvp_081_person_24	Al Merrill		dvp_0888
+dvp_081_person_25	Emily		dvp_0875
+dvp_081_person_26	Martin Luther King Jr.	Q8027	
+dvp_081_person_27	Robert F. Kennedy	Q25310	
+dvp_081_person_28	Lyndon B. Johnson	Q9640	
+dvp_081_person_29	Bill Jevne		dvp_0889
+dvp_081_person_30	Bill Engster	Q100786449	
+dvp_081_person_31	Doug Cazort		dvp_0890
+dvp_081_person_32	Ed Bailey	Q652658	
+dvp_081_person_33	Ed Bailey	Q652658	
+dvp_081_person_34	Emily		dvp_0875
+dvp_081_person_35	Bill Smoyer [William Smoyer ‘67]		dvp_0891
+dvp_081_person_36	Bill		dvp_0891
+dvp_081_person_37	Emily		dvp_0875
+dvp_081_person_38	William Westmoreland	Q298793	
+dvp_081_person_39	William Westmoreland	Q298793	
+dvp_081_person_40	Creighton Abrams	Q280290	
+dvp_081_person_41	Emily		dvp_0875
+dvp_081_person_42	[Bill] Jevne		dvp_0889
+dvp_081_person_43	Bill Engster	Q100786449	
+dvp_081_person_44	Richard Nixon	Q9588	
+dvp_081_person_45	Erling Jevne	Q721119	
+dvp_081_person_46	Bill Engster	Q100786449	
+dvp_081_person_47	Karl Marlantes	Q2038095	
+dvp_081_person_48	Bill Smoyer		dvp_0891
+dvp_081_person_49	Bill Smoyer		dvp_0891
+dvp_081_person_50	Joe Swayze		dvp_0892
+dvp_081_person_51	Bill Engster	Q100786449	
+dvp_081_person_52	Erling Jevne	Q721119	
+dvp_081_person_53	Bill Engster	Q100786449	
+dvp_081_person_54	[Doug] Cazort		dvp_0893
+dvp_081_person_55	Jeff		dvp_0878
+dvp_081_person_56	Kelly		dvp_0894
+dvp_081_person_57	Emily		dvp_0875
+dvp_081_person_58	Ho Chi Minh	Q36014	
+dvp_081_person_59	Võ Nguyên Giáp	Q179910	
+dvp_081_person_60	Bill Engster	Q100786449	
+dvp_081_person_61	Duncan Sleigh [‘67]		dvp_0895
+dvp_081_person_62	Bill Smoyer		dvp_0891
+dvp_081_person_63	Duncan Sleigh		dvp_0895
+dvp_081_person_64	Bill Smoyer		dvp_0891
+dvp_081_person_65	Nancy [Smoyer]		dvp_0896
+dvp_081_person_66	Smoyer		dvp_0891
+dvp_081_person_67	Brammie		dvp_0897
+dvp_081_person_68	Hillary Clinton	Q6294	
+dvp_081_person_69	Donald Trump	Q22686	
+dvp_081_person_70	Jim Wright	Q949514	
+dvp_081_person_71	Jim Wright	Q949514	
+dvp_081_person_72	Professor [Ed] Miller		dvp_0039
