@@ -1,47 +1,47 @@
-id	persName
-dvp_085_person_0	Sam [Samantha] Stern
-dvp_085_person_1	William Couser
-dvp_085_person_2	Dr. [William G.] Couser [’63]
-dvp_085_person_3	Norris [H.] Cotton
-dvp_085_person_4	John Kennedy
-dvp_085_person_5	Eisenhower
-dvp_085_person_6	[Senator Joseph R.] McCarthy
-dvp_085_person_7	McCarthy
-dvp_085_person_8	Harry Savage
-dvp_085_person_9	Alan [A.] Rozycki [’60]
-dvp_085_person_10	Alan
-dvp_085_person_11	Harry Savage
-dvp_085_person_12	Alan
-dvp_085_person_13	Roger Christian
-dvp_085_person_14	Ken Danielson
-dvp_085_person_15	Alan
-dvp_085_person_16	Ken
-dvp_085_person_17	Roger
-dvp_085_person_18	Alan
-dvp_085_person_19	Joe Grant
-dvp_085_person_20	Kurt Benirschke
-dvp_085_person_21	Joe Grant
-dvp_085_person_22	Joe Grant
-dvp_085_person_23	Joe Grant
-dvp_085_person_24	Joe Grant
-dvp_085_person_25	Senator Cotton
-dvp_085_person_26	Senator Cotton
-dvp_085_person_27	Dick
-dvp_085_person_28	O.B. Johnson [Jr.]
-dvp_085_person_29	Paul Sizemore [spelling unconfirmed]
-dvp_085_person_30	Don Barton [spelling unconfirmed]
-dvp_085_person_31	Don Barton
-dvp_085_person_32	O.B. Johnson
-dvp_085_person_33	Paul Sizemore
-dvp_085_person_34	Don Barton
-dvp_085_person_35	O.B. Johnson
-dvp_085_person_36	Paul Sizemore
-dvp_085_person_37	An Khe base camp
-dvp_085_person_38	Viet Cong
-dvp_085_person_39	John [P.] Pacanowski
-dvp_085_person_40	Bayonne
-dvp_085_person_41	Joe Grant
-dvp_085_person_42	Ho Chi Minh
-dvp_085_person_43	Congressman DelBene
-dvp_085_person_44	[Suzan K.] Kathleen DelBene
-dvp_085_person_45	Sam
+id	persName	QID	dvp_id
+dvp_085_person_0	Sam [Samantha] Stern		dvp_0748
+dvp_085_person_1	William G. Couser	Q108566111	
+dvp_085_person_2	William G. Couser	Q108566111	
+dvp_085_person_3	Norris H. Cotton	Q2000103	
+dvp_085_person_4	John F. Kennedy	Q9696	
+dvp_085_person_5	Dwight D. Eisenhower	Q9916	
+dvp_085_person_6	Joseph McCarthy	Q189197	
+dvp_085_person_7	Joseph McCarthy	Q189197	
+dvp_085_person_8	Harry Savage		dvp_0749
+dvp_085_person_9	Alan [A.] Rozycki	Q108566065	
+dvp_085_person_10	Alan [A.] Rozycki	Q108566065	
+dvp_085_person_11	Harry Savage		dvp_0749
+dvp_085_person_12	Alan [A.] Rozycki	Q108566065	
+dvp_085_person_13	Roger Christian		dvp_0750
+dvp_085_person_14	Ken Danielson		dvp_0751
+dvp_085_person_15	Alan [A.] Rozycki	Q108566065	
+dvp_085_person_16	Ken		dvp_0751
+dvp_085_person_17	Roger		dvp_0750
+dvp_085_person_18	Alan [A.] Rozycki	Q108566065	
+dvp_085_person_19	Joe Grant		dvp_0752
+dvp_085_person_20	Kurt Benirschke	Q6446613	
+dvp_085_person_21	Joe Grant		dvp_0752
+dvp_085_person_22	Joe Grant		dvp_0752
+dvp_085_person_23	Joe Grant		dvp_0752
+dvp_085_person_24	Joe Grant		dvp_0752
+dvp_085_person_25	Norris H. Cotton	Q2000103	
+dvp_085_person_26	Norris H. Cotton	Q2000103	
+dvp_085_person_27	Dick		dvp_0753
+dvp_085_person_28	O.B. Johnson [Jr.]		dvp_0754
+dvp_085_person_29	Paul Sizemore [spelling unconfirmed]		dvp_0755
+dvp_085_person_30	Don Barton [spelling unconfirmed]		dvp_0756
+dvp_085_person_31	Don Barton		dvp_0756
+dvp_085_person_32	O.B. Johnson		dvp_0754
+dvp_085_person_33	Paul Sizemore		dvp_0755
+dvp_085_person_34	Don Barton		dvp_0756
+dvp_085_person_35	O.B. Johnson		dvp_0754
+dvp_085_person_36	Paul Sizemore		dvp_0755
+dvp_085_person_37	An Khe base camp		
+dvp_085_person_38	Viet Cong		
+dvp_085_person_39	John [P.] Pacanowski		dvp_0757
+dvp_085_person_40	Bayonne		
+dvp_085_person_41	Joe Grant		dvp_0752
+dvp_085_person_42	Ho Chi Minh	Q36014	
+dvp_085_person_43	Suzan DelBene	Q2091892	
+dvp_085_person_44	Suzan DelBene	Q2091892	
+dvp_085_person_45	Sam		dvp_0748
