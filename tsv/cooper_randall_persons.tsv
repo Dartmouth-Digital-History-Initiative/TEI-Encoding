@@ -1,38 +1,38 @@
-id	persName
-dvp_084_person_0	[Ana A.] “Ali” [Hunter]
-dvp_084_person_1	Mr. [Randall F.] “Randy” Cooper
-dvp_084_person_2	Mr. Cooper
-dvp_084_person_3	Richard [F.] Cooper—Richard
-dvp_084_person_4	Elizabeth [Wentworth] Cooper
-dvp_084_person_5	Burt Randall Cooper
-dvp_084_person_6	Candace [Cooper Walworth]
-dvp_084_person_7	Governor [L.] Sherman Adams [Class of 1920]
-dvp_084_person_8	President [Dwight D.] Eisenhower
-dvp_084_person_9	Governor Adams
-dvp_084_person_10	Governor Adams
-dvp_084_person_11	Stephen Decatur [Jr.]
-dvp_084_person_12	President [John F.] Kennedy
-dvp_084_person_13	[D.] David Eisenhower [III]
-dvp_084_person_14	Huntley
-dvp_084_person_15	Brinkley
-dvp_084_person_16	Walter Cronkite
-dvp_084_person_17	ROTC
-dvp_084_person_18	[Orio K.] “O. K.” Steele
-dvp_084_person_19	Mm-hm
-dvp_084_person_20	[Richard M.] Nixon
-dvp_084_person_21	President [Lyndon B.] Johnson
-dvp_084_person_22	Harold Bernt [Class of 1967]
-dvp_084_person_23	“Tricky Dick” [Richard M. Nixon]
-dvp_084_person_24	[Richard L.] “Sandy” Alderson [Class of 1969]
-dvp_084_person_25	Sandy
-dvp_084_person_26	SK-2 Clark
-dvp_084_person_27	Peter White
-dvp_084_person_28	Bill [Keene(?), Keating(?)
-dvp_084_person_29	David Partridge
-dvp_084_person_30	Dave Partridge
-dvp_084_person_31	President Nixon
-dvp_084_person_32	Parkhurst
-dvp_084_person_33	Admiral [Elmo R.] Zumwalt [Jr.]
-dvp_084_person_34	[Muammar] Gaddafi
-dvp_084_person_35	Hillary [Rodham Clinton]
-dvp_084_person_36	Tom Cruise
+id	persName	QID	dvp_id
+dvp_084_person_0	[Ana A.] “Ali” [Hunter]		dvp_0836
+dvp_084_person_1	Mr. [Randall F.] “Randy” Cooper		dvp_0898
+dvp_084_person_2	Mr. Cooper		dvp_0898
+dvp_084_person_3	Richard [F.] Cooper—Richard		dvp_0899
+dvp_084_person_4	Elizabeth [Wentworth] Cooper		dvp_0900
+dvp_084_person_5	Burt Randall Cooper		dvp_0901
+dvp_084_person_6	Candace [Cooper Walworth]		dvp_0902
+dvp_084_person_7	Sherman Adams	Q775070	
+dvp_084_person_8	Dwight D. Eisenhower	Q9916	
+dvp_084_person_9	Sherman Adams	Q775070	
+dvp_084_person_10	Sherman Adams	Q775070	
+dvp_084_person_11	Stephen Decatur	Q720374	
+dvp_084_person_12	John F. Kennedy	Q9696	
+dvp_084_person_13	David Eisenhower	Q3368157	
+dvp_084_person_14	Chet Huntley	Q796122	
+dvp_084_person_15	David Brinkley	Q766880	
+dvp_084_person_16	Walter Cronkite	Q31073	
+dvp_084_person_17	Reserve Officers' Training Corps	Q489983	
+dvp_084_person_18	Orlo K. Steele	Q82654356	
+dvp_084_person_19	Mm-hm		
+dvp_084_person_20	Richard Nixon	Q9588	
+dvp_084_person_21	Lyndon B. Johnson	Q9640	
+dvp_084_person_22	Harold Bernt [Class of 1967]		dvp_0903
+dvp_084_person_23	Richard Nixon	Q9588	
+dvp_084_person_24	Sandy Alderson	Q7417125	
+dvp_084_person_25	Sandy Alderson	Q7417125	
+dvp_084_person_26	SK-2 Clark		dvp_0904
+dvp_084_person_27	Peter White		dvp_0905
+dvp_084_person_28	Bill [Keene(?), Keating(?)		dvp_0906
+dvp_084_person_29	David Partridge		dvp_0907
+dvp_084_person_30	Dave Partridge		dvp_0907
+dvp_084_person_31	Richard Nixon	Q9588	
+dvp_084_person_32	Parkhurst		
+dvp_084_person_33	Elmo Zumwalt	Q666620	
+dvp_084_person_34	Muammar Gaddafi	Q19878	
+dvp_084_person_35	Hillary Clinton	Q6294	
+dvp_084_person_36	Tom Cruise	Q37079	
