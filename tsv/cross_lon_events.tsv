@@ -1,72 +1,72 @@
-id	name
-dvp_087_event_0	World War II
-dvp_087_event_1	World War II
-dvp_087_event_2	Normandy
-dvp_087_event_3	World War I
-dvp_087_event_4	a World War I
-dvp_087_event_5	World War I
-dvp_087_event_6	Armistice
-dvp_087_event_7	World War II
-dvp_087_event_8	World War I
-dvp_087_event_9	World War I
-dvp_087_event_10	World War I.
-dvp_087_event_11	World War II
-dvp_087_event_12	Pearl Harbor
-dvp_087_event_13	Cold War
-dvp_087_event_14	Hurricane Katrina
-dvp_087_event_15	Vietnam
-dvp_087_event_16	fall of Saigon
-dvp_087_event_17	Vietnam
-dvp_087_event_18	Vietnam
-dvp_087_event_19	Vietnam
-dvp_087_event_20	fall of Saigon
-dvp_087_event_21	Vietnam
-dvp_087_event_22	Vietnam War
-dvp_087_event_23	Vietnam
-dvp_087_event_24	Vietnam
-dvp_087_event_25	fall of Saigon
-dvp_087_event_26	fall of Saigon
-dvp_087_event_27	fall of Saigon
-dvp_087_event_28	Vietnam
-dvp_087_event_29	Vietnam
-dvp_087_event_30	Vietnam
-dvp_087_event_31	Vietnam
-dvp_087_event_32	Vietnam
-dvp_087_event_33	Vietnam
-dvp_087_event_34	Vietnam
-dvp_087_event_35	Vietnam
-dvp_087_event_36	Vietnam
-dvp_087_event_37	Vietnam
-dvp_087_event_38	World War II
-dvp_087_event_39	Vietnam War
-dvp_087_event_40	World War II
-dvp_087_event_41	World War I
-dvp_087_event_42	World War II
-dvp_087_event_43	invasion of Grenada
-dvp_087_event_44	Vietnam
-dvp_087_event_45	Vietnam
-dvp_087_event_46	Vietnam
-dvp_087_event_47	Vietnam
-dvp_087_event_48	Vietnam War
-dvp_087_event_49	Vietnam
-dvp_087_event_50	Vietnam
-dvp_087_event_51	Vietnam
-dvp_087_event_52	Vietnam
-dvp_087_event_53	Vietnam
-dvp_087_event_54	Vietnam
-dvp_087_event_55	Grenada
-dvp_087_event_56	Grenada
-dvp_087_event_57	Grenada
-dvp_087_event_58	Grenada
-dvp_087_event_59	Grenada
-dvp_087_event_60	Vietnam War
-dvp_087_event_61	Vietnam
-dvp_087_event_62	Cold War
-dvp_087_event_63	Vietnam War
-dvp_087_event_64	Vietnam
-dvp_087_event_65	Vietnam War
-dvp_087_event_66	[Operation] Urgent Fury
-dvp_087_event_67	Grenada
-dvp_087_event_68	Olympics
-dvp_087_event_69	World War II
-dvp_087_event_70	Vietnam War
+id	name	QID	dvp_id	start time	end time	point in time
+dvp_087_event_0	World War II	Q362		1939-09-01T00:00:00Z	1945-09-02T00:00:00Z	
+dvp_087_event_1	World War II	Q362		1939-09-01T00:00:00Z	1945-09-02T00:00:00Z	
+dvp_087_event_2	Normandy landings	Q16470		1944-06-06T00:00:00Z	1944-08-29T00:00:00Z	
+dvp_087_event_3	World War I	Q361		1914-07-28T00:00:00Z	1918-11-11T00:00:00Z	
+dvp_087_event_4	World War I	Q361		1914-07-28T00:00:00Z	1918-11-11T00:00:00Z	
+dvp_087_event_5	World War I	Q361		1914-07-28T00:00:00Z	1918-11-11T00:00:00Z	
+dvp_087_event_6	Armistice of Compiègne	Q253224				1918-11-11T00:00:00Z
+dvp_087_event_7	World War II	Q362		1939-09-01T00:00:00Z	1945-09-02T00:00:00Z	
+dvp_087_event_8	World War I	Q361		1914-07-28T00:00:00Z	1918-11-11T00:00:00Z	
+dvp_087_event_9	World War I	Q361		1914-07-28T00:00:00Z	1918-11-11T00:00:00Z	
+dvp_087_event_10	World War I	Q361		1914-07-28T00:00:00Z	1918-11-11T00:00:00Z	
+dvp_087_event_11	World War II	Q362		1939-09-01T00:00:00Z	1945-09-02T00:00:00Z	
+dvp_087_event_12	Attack on Pearl Harbor	Q52418				1941-12-07T00:00:00Z
+dvp_087_event_13	Cold War	Q8683		1945-01-01T00:00:00Z	1991-12-25T00:00:00Z	
+dvp_087_event_14	Hurricane Katrina	Q16422		2005-08-23T00:00:00Z	2005-08-31T00:00:00Z	
+dvp_087_event_15	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_087_event_16	Fall of Saigon	Q482456				1975-04-30T00:00:00Z
+dvp_087_event_17	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_087_event_18	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_087_event_19	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_087_event_20	Fall of Saigon	Q482456				1975-04-30T00:00:00Z
+dvp_087_event_21	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_087_event_22	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_087_event_23	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_087_event_24	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_087_event_25	Fall of Saigon	Q482456				1975-04-30T00:00:00Z
+dvp_087_event_26	Fall of Saigon	Q482456				1975-04-30T00:00:00Z
+dvp_087_event_27	Fall of Saigon	Q482456				1975-04-30T00:00:00Z
+dvp_087_event_28	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_087_event_29	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_087_event_30	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_087_event_31	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_087_event_32	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_087_event_33	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_087_event_34	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_087_event_35	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_087_event_36	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_087_event_37	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_087_event_38	World War II	Q362		1939-09-01T00:00:00Z	1945-09-02T00:00:00Z	
+dvp_087_event_39	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_087_event_40	World War II	Q362		1939-09-01T00:00:00Z	1945-09-02T00:00:00Z	
+dvp_087_event_41	World War I	Q361		1914-07-28T00:00:00Z	1918-11-11T00:00:00Z	
+dvp_087_event_42	World War II	Q362		1939-09-01T00:00:00Z	1945-09-02T00:00:00Z	
+dvp_087_event_43	1983 Invasion of Grenada	Q501866		1983-10-25T00:00:00Z	1983-12-15T00:00:00Z	
+dvp_087_event_44	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_087_event_45	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_087_event_46	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_087_event_47	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_087_event_48	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_087_event_49	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_087_event_50	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_087_event_51	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_087_event_52	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_087_event_53	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_087_event_54	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_087_event_55	Battle of Grenada	Q1970159				1779-07-06T00:00:00Z
+dvp_087_event_56	Battle of Grenada	Q1970159				1779-07-06T00:00:00Z
+dvp_087_event_57	Battle of Grenada	Q1970159				1779-07-06T00:00:00Z
+dvp_087_event_58	Battle of Grenada	Q1970159				1779-07-06T00:00:00Z
+dvp_087_event_59	Battle of Grenada	Q1970159				1779-07-06T00:00:00Z
+dvp_087_event_60	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_087_event_61	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_087_event_62	Cold War	Q8683		1945-01-01T00:00:00Z	1991-12-25T00:00:00Z	
+dvp_087_event_63	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_087_event_64	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_087_event_65	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_087_event_66	1983 Invasion of Grenada	Q501866		1983-10-25T00:00:00Z	1983-12-15T00:00:00Z	
+dvp_087_event_67	Battle of Grenada	Q1970159				1779-07-06T00:00:00Z
+dvp_087_event_68	1988 Summer Olympics	Q8470		1988-09-17T00:00:00Z	1988-10-02T00:00:00Z	
+dvp_087_event_69	World War II	Q362		1939-09-01T00:00:00Z	1945-09-02T00:00:00Z	
+dvp_087_event_70	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
