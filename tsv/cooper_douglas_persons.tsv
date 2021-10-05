@@ -1,79 +1,79 @@
-id	persName
-dvp_083_person_0	Ali Hunter [’19]
-dvp_083_person_1	Doug Cooper
-dvp_083_person_2	Doug
-dvp_083_person_3	Wesley Paul Cooper
-dvp_083_person_4	Paul Cooper
-dvp_083_person_5	W. Paul”
-dvp_083_person_6	Cecile Meyer Cooper
-dvp_083_person_7	Bert Fine
-dvp_083_person_8	[Dwight D.] Eisenhower
-dvp_083_person_9	Little Richard
-dvp_083_person_10	Uncle Herb
-dvp_083_person_11	Nelson Abrahamson
-dvp_083_person_12	Duane [P.] Landreth [’63]
-dvp_083_person_13	[Lewis D.] Herb Stilwell
-dvp_083_person_14	Stilwell
-dvp_083_person_15	Stilwell
-dvp_083_person_16	DeMariey
-dvp_083_person_17	DeMariey
-dvp_083_person_18	[Vincent P.] Vin Di Figlia [‘63]
-dvp_083_person_19	[President John F.] Kennedy
-dvp_083_person_20	Vinnie
-dvp_083_person_21	Ralphy Nichols
-dvp_083_person_22	General [Douglas] MacArthur
-dvp_083_person_23	Truman
-dvp_083_person_24	Charlie Parton [Charles T. Parton ‘63]
-dvp_083_person_25	Charlie Parton
-dvp_083_person_26	Trudy
-dvp_083_person_27	Vin Di Figlia
-dvp_083_person_28	Vin Di Figlia
-dvp_083_person_29	[L.] Bruce Coffey [’63]
-dvp_083_person_30	Vinnie
-dvp_083_person_31	Vinnie
-dvp_083_person_32	Tom Slattery
-dvp_083_person_33	Cooper
-dvp_083_person_34	Captain Slattery
-dvp_083_person_35	Slattery
-dvp_083_person_36	John McGill
-dvp_083_person_37	Elvis Presley
-dvp_083_person_38	Admiral Kurita
-dvp_083_person_39	MacArthur
-dvp_083_person_40	Leyte
-dvp_083_person_41	[President Lyndon B.] Johnson
-dvp_083_person_42	Mr. Cooper
-dvp_083_person_43	Edward Hollyfield
-dvp_083_person_44	Homestead
-dvp_083_person_45	Hollyfield
-dvp_083_person_46	Norb Bybee
-dvp_083_person_47	John Heideman
-dvp_083_person_48	Hollyfield
-dvp_083_person_49	Johnson
-dvp_083_person_50	Lee Mills
-dvp_083_person_51	Bob Reuter
-dvp_083_person_52	John Foster
-dvp_083_person_53	Jim Kameder
-dvp_083_person_54	John Heideman
-dvp_083_person_55	Fred Stalter
-dvp_083_person_56	Karen
-dvp_083_person_57	Commodore Hollyfield’s
-dvp_083_person_58	Da Nang
-dvp_083_person_59	Mao
-dvp_083_person_60	William Holden
-dvp_083_person_61	Herb
-dvp_083_person_62	Herb Fish
-dvp_083_person_63	Art Drinan’s
-dvp_083_person_64	Jean
-dvp_083_person_65	Jean Drinan
-dvp_083_person_66	Karen
-dvp_083_person_67	Karen
-dvp_083_person_68	Vin Di Figlia
-dvp_083_person_69	Jim Kameder
-dvp_083_person_70	Chiang Kai-shek
-dvp_083_person_71	Bruce Schumacher
-dvp_083_person_72	Bruce
-dvp_083_person_73	Robert Bodemur
-dvp_083_person_74	Lady Bird Johnson
-dvp_083_person_75	Johnson
-dvp_083_person_76	Karen
-dvp_083_person_77	Johnson
+id	persName	QID	dvp_id
+dvp_083_person_0	Ali Hunter [’19]		dvp_0836
+dvp_083_person_1	Doug Cooper		dvp_0837
+dvp_083_person_2	Doug		dvp_0837
+dvp_083_person_3	Wesley Paul Cooper		dvp_0838
+dvp_083_person_4	Paul Cooper		dvp_0838
+dvp_083_person_5	W. Paul”		dvp_0838
+dvp_083_person_6	Cecile Meyer Cooper		dvp_0839
+dvp_083_person_7	Bert Fine		dvp_0840
+dvp_083_person_8	Dwight D. Eisenhower	Q9916	
+dvp_083_person_9	Little Richard	Q82222	
+dvp_083_person_10	Uncle Herb		dvp_0841
+dvp_083_person_11	Nelson Abrahamson		dvp_0842
+dvp_083_person_12	Duane [P.] Landreth [’63]		dvp_0843
+dvp_083_person_13	[Lewis D.] Herb Stilwell		dvp_0844
+dvp_083_person_14	Stilwell		dvp_0844
+dvp_083_person_15	Stilwell		dvp_0844
+dvp_083_person_16	DeMariey		dvp_0845
+dvp_083_person_17	DeMariey		dvp_0845
+dvp_083_person_18	[Vincent P.] Vin Di Figlia [‘63]		dvp_0846
+dvp_083_person_19	John F. Kennedy	Q9696	
+dvp_083_person_20	Vinnie		dvp_0846
+dvp_083_person_21	Ralphy Nichols		dvp_0847
+dvp_083_person_22	Douglas MacArthur	Q127417	
+dvp_083_person_23	Harry S Truman	Q11613	
+dvp_083_person_24	Charlie Parton [Charles T. Parton ‘63]		dvp_0848
+dvp_083_person_25	Charlie Parton		dvp_0848
+dvp_083_person_26	Trudy		dvp_0849
+dvp_083_person_27	Vin Di Figlia		dvp_0846
+dvp_083_person_28	Vin Di Figlia		dvp_0846
+dvp_083_person_29	[L.] Bruce Coffey [’63]		dvp_0850
+dvp_083_person_30	Vinnie		dvp_0846
+dvp_083_person_31	Vinnie		dvp_0846
+dvp_083_person_32	Tom Slattery		dvp_0851
+dvp_083_person_33	Cooper		dvp_0837
+dvp_083_person_34	Captain Slattery		dvp_0851
+dvp_083_person_35	Slattery		dvp_0851
+dvp_083_person_36	John McGill		dvp_0852
+dvp_083_person_37	Elvis Presley	Q303	
+dvp_083_person_38	Takeo Kurita	Q187698	
+dvp_083_person_39	Douglas MacArthur	Q127417	
+dvp_083_person_40	Leyte		
+dvp_083_person_41	Lyndon B. Johnson	Q9640	
+dvp_083_person_42	Mr. Cooper		dvp_0837
+dvp_083_person_43	Edward Hollyfield		dvp_0853
+dvp_083_person_44	Homestead		dvp_0854
+dvp_083_person_45	Hollyfield		dvp_0853
+dvp_083_person_46	Norb Bybee		dvp_0855
+dvp_083_person_47	John Heideman		dvp_0856
+dvp_083_person_48	Hollyfield		dvp_0853
+dvp_083_person_49	Lyndon B. Johnson	Q9640	
+dvp_083_person_50	Lee Mills		dvp_0857
+dvp_083_person_51	Bob Reuter		dvp_0858
+dvp_083_person_52	John Foster		dvp_0859
+dvp_083_person_53	Jim Kameder		dvp_0860
+dvp_083_person_54	John Heideman		dvp_0861
+dvp_083_person_55	Fred Stalter		dvp_0862
+dvp_083_person_56	Karen		dvp_0863
+dvp_083_person_57	Commodore Hollyfield’s		dvp_0853
+dvp_083_person_58	Da Nang		
+dvp_083_person_59	Mao Zedong	Q5816	
+dvp_083_person_60	William Holden	Q95002	
+dvp_083_person_61	Herb		dvp_0868
+dvp_083_person_62	Herb Fish		dvp_0868
+dvp_083_person_63	Art Drinan’s		dvp_0864
+dvp_083_person_64	Jean		dvp_0865
+dvp_083_person_65	Jean Drinan		dvp_0865
+dvp_083_person_66	Karen		dvp_0863
+dvp_083_person_67	Karen		dvp_0863
+dvp_083_person_68	Vin Di Figlia		dvp_0846
+dvp_083_person_69	Jim Kameder		dvp_0860
+dvp_083_person_70	Chiang Kai-shek	Q16574	
+dvp_083_person_71	Bruce Schumacher		dvp_0866
+dvp_083_person_72	Bruce		dvp_0866
+dvp_083_person_73	Robert Bodemur		dvp_0867
+dvp_083_person_74	Lady Bird Johnson	Q233648	
+dvp_083_person_75	Lyndon B. Johnson	Q9640	
+dvp_083_person_76	Karen		dvp_0863
+dvp_083_person_77	Lyndon B. Johnson	Q9640	
