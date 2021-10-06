@@ -1,26 +1,26 @@
-id	name
-dvp_079_event_0	the Civil War
-dvp_079_event_1	the American Revolution
-dvp_079_event_2	World War II
-dvp_079_event_3	Korean War
-dvp_079_event_4	World War II
-dvp_079_event_5	Korean War
-dvp_079_event_6	JFK’s [President John F. Kennedy’s] being assassinated
-dvp_079_event_7	the Gulf of Tonkin [incident]
-dvp_079_event_8	the Gulf of Tonkin
-dvp_079_event_9	when the ship got blown up in Yemen
-dvp_079_event_10	the Gulf of Tonkin
-dvp_079_event_11	the Tet Offensive
-dvp_079_event_12	he gets assassinated
-dvp_079_event_13	[Robert F.] “Bobby” Kennedy is assassinated
-dvp_079_event_14	Prague Spring
-dvp_079_event_15	Arab Spring
-dvp_079_event_16	Arab Spring
-dvp_079_event_17	Arab Spring
-dvp_079_event_18	[1968] Democratic [National] Convention
-dvp_079_event_19	desegregated the military
-dvp_079_event_20	World War II
-dvp_079_event_21	the Vietnam War
-dvp_079_event_22	Iraq War I [the 2003 invasion of Iraq]
-dvp_079_event_23	Cambodian invasion
-dvp_079_event_24	Cambodian invasion
+id	name	QID	start time	end time	point in time
+dvp_079_event_0	American Civil War	Q8676	1861-04-11T00:00:00Z	1865-05-10T00:00:00Z	1861-04-12T00:00:00Z
+dvp_079_event_1	The American Revolution	Q7713544			
+dvp_079_event_2	World War II	Q362	1939-09-01T00:00:00Z	1945-09-02T00:00:00Z	
+dvp_079_event_3	Korean War	Q8663	1950-06-25T00:00:00Z	1953-07-27T00:00:00Z	
+dvp_079_event_4	World War II	Q362	1939-09-01T00:00:00Z	1945-09-02T00:00:00Z	
+dvp_079_event_5	Korean War	Q8663	1950-06-25T00:00:00Z	1953-07-27T00:00:00Z	
+dvp_079_event_6	assassination of John F. Kennedy	Q193484			1963-11-22T00:00:00Z
+dvp_079_event_7	Gulf of Tonkin incident	Q482402			1964-08-02T00:00:00Z
+dvp_079_event_8	Gulf of Tonkin incident	Q482402			1964-08-02T00:00:00Z
+dvp_079_event_9	USS Cole bombing	Q612086			2000-10-12T00:00:00Z
+dvp_079_event_10	Gulf of Tonkin incident	Q482402			1964-08-02T00:00:00Z
+dvp_079_event_11	Tet Offensive	Q82542	1968-01-30T00:00:00Z	1968-09-23T00:00:00Z	
+dvp_079_event_12	assassination of Robert F. Kennedy	Q1187550			1968-06-05T00:00:00Z
+dvp_079_event_13	assassination of Robert F. Kennedy	Q1187550			1968-06-05T00:00:00Z
+dvp_079_event_14	Prague Spring	Q162401			1968-01-01T00:00:00Z
+dvp_079_event_15	Arab Spring	Q33761	2010-12-18T00:00:00Z	2012-12-01T00:00:00Z	
+dvp_079_event_16	Arab Spring	Q33761	2010-12-18T00:00:00Z	2012-12-01T00:00:00Z	
+dvp_079_event_17	Arab Spring	Q33761	2010-12-18T00:00:00Z	2012-12-01T00:00:00Z	
+dvp_079_event_18	1968 Democratic National Convention	Q83516			1968-01-01T00:00:00Z
+dvp_079_event_19	Executive Order 9981				1948-07-26T16:00:00Z
+dvp_079_event_20	World War II	Q362	1939-09-01T00:00:00Z	1945-09-02T00:00:00Z	
+dvp_079_event_21	The Vietnam War		1958-12-31T19:00:00Z	1975-04-30T16:00:00Z	
+dvp_079_event_22	2003 invasion of Iraq		2003-03-20T14:00:00Z	2003-05-01T16:00:00Z	
+dvp_079_event_23	Cambodian campaign	Q2994973	1970-04-29T00:00:00Z	1970-07-22T00:00:00Z	1970-07-22T00:00:00Z
+dvp_079_event_24	Cambodian campaign	Q2994973	1970-04-29T00:00:00Z	1970-07-22T00:00:00Z	1970-07-22T00:00:00Z
