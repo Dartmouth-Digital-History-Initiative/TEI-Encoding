@@ -14,13 +14,12 @@ dvp_083_place_11	Severance Hall	Q7457831		41.5064,-81.6094
 dvp_083_place_12	Cleveland	Q37320		41.482222222222,-81.669722222222
 dvp_083_place_13	Cleveland	Q37320		41.482222222222,-81.669722222222
 dvp_083_place_14	Cleveland	Q37320		41.482222222222,-81.669722222222
-dvp_083_place_15	North Africa	Q27381		30.440741666667,9.6817138888889
+dvp_083_place_15	North Africa			
 dvp_083_place_16	Europe	Q46		48.690959,9.14062
 dvp_083_place_17	Italy	Q38		42.5,12.5
 dvp_083_place_18	Cleveland	Q37320		41.482222222222,-81.669722222222
 dvp_083_place_19	Cleveland	Q37320		41.482222222222,-81.669722222222
-dvp_083_place_20	New Hampshire Hall	Q101537382		"43.70252,-72.28664
-"
+dvp_083_place_20	New Hampshire Hall	Q101537382		43.70252,-72.28664
 dvp_083_place_21	New Hampshire Hall	Q101537382		43.70252,-72.28664
 dvp_083_place_22	Vietnam	Q881		16,108
 dvp_083_place_23	Vietnam	Q881		16,108
@@ -42,7 +41,7 @@ dvp_083_place_38	San Diego	Q16552		32.715,-117.1625
 dvp_083_place_39	Vietnam	Q881		16,108
 dvp_083_place_40	San Clemente Island	Q383556		32.9,-118.5
 dvp_083_place_41	California	Q99		37,-120
-dvp_083_place_42	San Clemente	Q675070		33.437777777778,-117.62027777778
+dvp_083_place_42	San Clemente Island	Q383556		32.9,-118.5
 dvp_083_place_43	Philippines	Q928		12,123
 dvp_083_place_44	Taiwan	Q865		24,121
 dvp_083_place_45	Japan	Q17		35,136
@@ -52,7 +51,7 @@ dvp_083_place_48	San Diego	Q16552		32.715,-117.1625
 dvp_083_place_49	San Diego Zoo	Q818395		32.736111111111,-117.15138888889
 dvp_083_place_50	San Diego	Q16552		32.715,-117.1625
 dvp_083_place_51	North Vietnam	Q172640		21.033333,105.85
-dvp_083_place_52	Pacific Ocean	Q98		0,-160
+dvp_083_place_52	the West Pacific			
 dvp_083_place_53	Pearl Harbor	Q127091		21.361944,-157.953611
 dvp_083_place_54	United States of America	Q30		39.828175,-98.5795
 dvp_083_place_55	Pearl Harbor	Q127091		21.361944,-157.953611
@@ -62,7 +61,7 @@ dvp_083_place_58	USS Arizona Memorial	Q2004262		21.3649,-157.95
 dvp_083_place_59	USS Arizona Memorial	Q2004262		21.3649,-157.95
 dvp_083_place_60	Midway Atoll	Q47863		28.2,-177.35
 dvp_083_place_61	Yokosuka	Q200578		35.25,139.66666666667
-dvp_083_place_62	Southeast Asia	Q11708		12,105.1
+dvp_083_place_62	Southeast Asia			
 dvp_083_place_63	Philippines	Q928		12,123
 dvp_083_place_64	Guam	Q16635		13.5,144.8
 dvp_083_place_65	San Bernardino Strait	Q1576377		12.5875,124.19666666667
@@ -80,7 +79,7 @@ dvp_083_place_76	San Diego	Q16552		32.715,-117.1625
 dvp_083_place_77	Cleveland	Q37320		41.482222222222,-81.669722222222
 dvp_083_place_78	Philippines	Q928		12,123
 dvp_083_place_79	Naval Base Subic Bay	Q1458014		14.80777778,120.27805556
-dvp_083_place_80	Pacific Ocean	Q98		0,-160
+dvp_083_place_80	Pacific			
 dvp_083_place_81	Olongapo	Q56759		14.833333333333,120.28333333333
 dvp_083_place_82	Naval Base Subic Bay	Q1458014		14.80777778,120.27805556
 dvp_083_place_83	Philippines	Q928		12,123
@@ -102,7 +101,7 @@ dvp_083_place_98	Gulf of Tonkin	Q212428		19.75,107.75
 dvp_083_place_99	Bird			
 dvp_083_place_100	17th parallel north	Q1204177		17,0
 dvp_083_place_101	Naval Base Subic Bay	Q1458014		14.80777778,120.27805556
-dvp_083_place_102	Midwestern United States	Q186545		41,-90
+dvp_083_place_102	Midwest			
 dvp_083_place_103	Washington, D.C.	Q61		38.895,-77.036666666667
 dvp_083_place_104	People's Republic of China	Q148		35.844722222222224,103.45194444444445
 dvp_083_place_105	Chicago	Q1297		41.881944444444,-87.627777777778
@@ -120,7 +119,7 @@ dvp_083_place_116	Hong Kong	Q8646		22.278333333333,114.15861111111
 dvp_083_place_117	People's Republic of China	Q148		35.844722222222224,103.45194444444445
 dvp_083_place_118	Hong Kong	Q8646		22.278333333333,114.15861111111
 dvp_083_place_119	Liamung Pass			
-dvp_083_place_120	Great Britain	Q23666		53.833333333333,-2.4166666666667
+dvp_083_place_120	United Kingdom	Q145		53.833333333333,-2.4166666666667
 dvp_083_place_121	Hong Kong	Q8646		22.278333333333,114.15861111111
 dvp_083_place_122	Hong Kong	Q8646		22.278333333333,114.15861111111
 dvp_083_place_123	Hong Kong	Q8646		22.278333333333,114.15861111111
@@ -146,7 +145,7 @@ dvp_083_place_142	Long Beach	Q16739		33.768321,-118.1956168
 dvp_083_place_143	San Diego	Q16552		32.715,-117.1625
 dvp_083_place_144	San Diego	Q16552		32.715,-117.1625
 dvp_083_place_145	Naval Air Station North Island	Q1800390		32.699167,-117.215278
-dvp_083_place_146	Pacific Ocean	Q98		0,-160
+dvp_083_place_146	Pacific			
 dvp_083_place_147	Coronado	Q828753		32.678055555556,-117.1725
 dvp_083_place_148	North Island	Q40093		-4.3934,55.24342
 dvp_083_place_149	San Diego	Q16552		32.715,-117.1625
@@ -159,7 +158,7 @@ dvp_083_place_155	San Diego	Q16552		32.715,-117.1625
 dvp_083_place_156	Washington, D.C.	Q61		38.895,-77.036666666667
 dvp_083_place_157	San Diego	Q16552		32.715,-117.1625
 dvp_083_place_158	Wisconsin	Q1537		44.5,-89.5
-dvp_083_place_159	Midwestern United States	Q186545		41,-90
+dvp_083_place_159	Midwest			
 dvp_083_place_160	Cleveland	Q37320		41.482222222222,-81.669722222222
 dvp_083_place_161	Wisconsin	Q1537		44.5,-89.5
 dvp_083_place_162	Wisconsin	Q1537		44.5,-89.5
@@ -171,11 +170,11 @@ dvp_083_place_167	Taiwan	Q865		24,121
 dvp_083_place_168	Taiwan	Q865		24,121
 dvp_083_place_169	People's Republic of China	Q148		35.844722222222224,103.45194444444445
 dvp_083_place_170	People's Republic of China	Q148		35.844722222222224,103.45194444444445
-dvp_083_place_171	the 3rd Corps			
+dvp_083_place_171	III Corps	Q5971303		11.202314, 107.079378
 dvp_083_place_172	Vietnam	Q881		16,108
 dvp_083_place_173	Huế	Q36167		16.46371111111111,107.590825
 dvp_083_place_174	Da Nang	Q25282		16.069444444444443,108.20972222222223
-dvp_083_place_175	3rd Corps			
+dvp_083_place_175	III Corps	Q5971303		11.202314, 107.079378
 dvp_083_place_176	Saigon River	Q1060805		10.75,106.75
 dvp_083_place_177	Vũng Tàu	Q21194		10.404166666667,107.14166666667
 dvp_083_place_178	Vũng Tàu	Q21194		10.404166666667,107.14166666667
@@ -184,7 +183,7 @@ dvp_083_place_180	Vũng Tàu	Q21194		10.404166666667,107.14166666667
 dvp_083_place_181	Da Nang	Q25282		16.069444444444443,108.20972222222223
 dvp_083_place_182	Saigon River	Q1060805		10.75,106.75
 dvp_083_place_183	Rung Sat Special Zone	Q7379847		10.411670,106.956270
-dvp_083_place_184	Oscar Point	Q2606270		-74.583,164.875
+dvp_083_place_184	Point Oscar			
 dvp_083_place_185	Vũng Tàu	Q21194		10.404166666667,107.14166666667
 dvp_083_place_186	Naval Base Subic Bay	Q1458014		14.80777778,120.27805556
 dvp_083_place_187	Kaohsiung	Q181557		22.616667,120.3
