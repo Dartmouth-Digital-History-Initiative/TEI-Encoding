@@ -1,0 +1,2263 @@
+<?xml-model href="../schemas/ddhi.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="dvp_086">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Transcript of an Interview with Robert Cox</title>
+      </titleStmt>
+      <publicationStmt>
+        <authority>
+          <orgName>Dartmouth Digital History Initiative</orgName>
+        </authority>
+        <date>
+          <!--  Date of publication, e.g. for citation purposes  -->
+        </date>
+        <idno type="DDHI">dvp_086</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <recordingStmt>
+          <recording xml:id="primary_recording" type="audio" dur-iso="9">
+            <!-- https://www.digi.com/resources/documentation/digidocs/90001437-13/reference/r_iso_8601_duration_format.htm -->
+            <media url="" mimeType="MIMEaudio/wav"/>
+          </recording>
+        </recordingStmt>
+        <bibl xml:id="primary_transcription">
+          <respStmt>
+            <persName>Mimi Eisenberg</persName>
+            <orgName>Wordcraft</orgName>
+            <resp ref="http://id.loc.gov/vocabulary/relators/trc.html">Transcriber</resp>
+          </respStmt>
+          <ref target="path_to_file">Primary transcription</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>The Dartmouth Vietnam Project</p>
+      </projectDesc>
+      <appInfo>
+        <application ident="DDHIEncoder" version="1.0">
+          <desc>Conversion from Word docx to TEI xml.</desc>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en-us">English</language>
+      </langUsage>
+      <particDesc>
+        <person xml:id="COZ"/>
+        <person xml:id="SONNENFELD"/>
+        <person xml:id="COX"/>
+      </particDesc>
+      <settingDesc>
+        <setting>
+          <date when-iso="2016-05-04"/>
+          <locale/>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <u who="SONNENFELD">Okay, so we can go ahead and start the interview. This is <persName ref="#dvp_086_person_0">Alexa Sonnenfeld</persName> talking to <persName ref="#dvp_086_person_1">Rob Cox</persName>. I’m at the <placeName ref="#dvp_086_place_0">Rauner [Special Collections] Library</placeName>. The day is <date when="2016-05-04">May 4th[, 2016]</date>, and <persName ref="#dvp_086_person_2">Rob</persName> is joining us from <placeName ref="#dvp_086_place_1">California</placeName>.So, <persName ref="#dvp_086_person_3">Rob</persName>, why don’t we start at the beginning. Can you tell me a little bit about  where you grew up and the family you grew up with?</u>
+      <u who="COX">Sure. I grew up in a clothing retailer family, with several stores around the <placeName ref="#dvp_086_place_2">Pittsburgh, Pennsylvania</placeName>, area. I grew up in a small steel town outside of <placeName ref="#dvp_086_place_3">Pittsburgh</placeName>. Went to public school, public high school, graduated, had to spend a year at <orgName ref="#dvp_086_org_0">Mercersburg Academy</orgName> as a postgraduate to get into <orgName ref="#dvp_086_org_1">Dartmouth</orgName>, to improve my SATs [Scholastic Assessment Test scores] and grades, I expect, a little bit, and then, you know, I got into <orgName ref="#dvp_086_org_2">Dartmouth</orgName> <orgName ref="#dvp_086_org_3">Class of ’65</orgName>.So my family. Interestingly enough, my mother went two years to college. My father went to <orgName ref="#dvp_086_org_4">Dartmouth</orgName> and <orgName ref="#dvp_086_org_5">Tuck School of Business]</orgName> and graduated <orgName ref="#dvp_086_org_6">’31</orgName> and <orgName ref="#dvp_086_org_7">’33</orgName>, respective- —respectfully [sic].  And that’s about it.</u>
+      <u who="SONNENFELD">And—okay, let’s—let’s take that back a little bit. So did you have any siblings, growing up?</u>
+      <u who="COX">Oh, yeah, I have a sister. She went to <orgName ref="#dvp_086_org_8">Colby Junior</orgName> [College for Women], which is now <orgName ref="#dvp_086_org_9">Colby-Sawyer</orgName> [College].</u>
+      <u who="SONNENFELD">Mm-hm.</u>
+      <u who="COX">She’s two years younger than I. And then she finished up at <placeName ref="#dvp_086_place_4">[University of] Wisconsin</placeName>, and she—she lives in <placeName ref="#dvp_086_place_5">Pittsburgh</placeName>.</u>
+      <u who="SONNENFELD">Mm-hm.</u>
+      <u who="COX">She is—</u>
+      <u who="SONNENFELD">Tell me—tell me a little bit more about life growing up. What are—do you have any kind of earliest memories? What was elementary school like?</u>
+      <u who="COX">I went through—I lived on a borough which was outside of a major city there, outside the steel town, and I went to different schools for first and second grade, and then third through fifth grade to another school, and then eventually we went into the city schools. I—my—I guess I had, you know, a wonderful childhood, a lot of country—out in the country a lot, playing outside a lot. Played a lot of sports early: <orgName ref="#dvp_086_org_10">Little League</orgName> and then eventually football in high school.</u>
+      <u who="SONNENFELD">Mm-hm. And how did you like school when you were younger? Were—was it something that held your interest? Were you more interested in sports? Just sort of walk me through some of your elementary school experiences.</u>
+      <u who="COX">You know, I was—I was—I was a big kid, so I—I wasn’t that fast, so I could only play, like, [unintelligible]. I played center and—center guard on defense. I played both ways in high school, on the football team. But I loved school.</u>
+      <u who="SONNENFELD">Mm-hm.</u>
+      <u who="COX">I pretty much excelled, I would say. But it was natural. I wasn’t aware of being—you know, excelling per se.</u>
+      <u who="SONNENFELD">Mm-hm.</u>
+      <u who="COX">I—I—I—I really liked it. I got along with everybody, and I liked my teachers. They seemed to like me. I don’t know. And—</u>
+      <u who="SONNENFELD">Was it ever challenging? You said—you mentioned that you switched schools a few times, growing up.  Was—did that every present a challenge, or was there any sort of transition when you switched to city schools?</u>
+      <u who="COX">No, that was—my school district just had commissioned these different schools—you know, because I lived in sort of an area that was still developing, and it didn’t have a school system, so they—they sent us as, you know, first through twelfth grade to different schools, and eventually, you know, —actually first through nine, and then ten through twelve to the public high school in the city, itself, so—</u>
+      <u who="SONNENFELD">Mm-hm.</u>
+      <u who="COX">No, it was great. I liked—I liked the different schools. You got to meet different kids, you know, ride buses, and that was okay. I—</u>
+      <u who="SONNENFELD">What was sort of the demographic makeup of the other—other kids you were attending school with?</u>
+      <u who="COX">In—in my—the—the demographic was, I would say, very vanilla. It seemed vanilla—</u>
+      <u who="SONNENFELD">Mm-hm.</u>
+      <u who="COX">—until I got to high school. And when I went to high school and I—and I played ball, I played ball with everybody—you know, every ethnicity. And we had all the religions were around me, growing up, actually.</u>
+      <u who="SONNENFELD">Mm-hm.</u>
+      <u who="COX">So I had—I guess I had knowledge of everything and, you know, attended a few—I’m not Jewish, but I attended some bar mitzvahs and, you know, that kind of thing.</u>
+      <u who="SONNENFELD">Mm-hm. And was growing up in sort of a multi-religious community—was that ever a point of tension, maybe not for you personally but for the community? Or did—did—did—</u>
+      <u who="COX">No.</u>
+      <u who="SONNENFELD">—people get along pretty well?</u>
+      <u who="COX">No, it was wonderful because everybody recognized that people came from Europe and they worked hard and they worked in the mills, and, you know, people from all—all parts of Europe, mostly Europe.</u>
+      <u who="SONNENFELD">Mm-hm.</u>
+      <u who="COX">We weren’t aware, as I grew up, of any Asian population. However, a lot of—which I don’t consider—you know, Jews—Jewish was just a religion. Nobody was from <placeName ref="#dvp_086_place_6">Israel</placeName> per se. But a lot of workers in the steel mills were from <placeName ref="#dvp_086_place_7">Poland</placeName>, <placeName ref="#dvp_086_place_8">Czechoslovakia</placeName>, <placeName ref="#dvp_086_place_9">Germany</placeName>. We had Italian, that kind of thing.</u>
+      <u who="SONNENFELD">Mm-hm. And you—can you tell me a little bit about what your dad did, growing up, and—and what your mom did? What—what was their presence in your life like?</u>
+      <u who="COX">When—when I was probably 13 years old, my father and my mother divorced. Or, no, they separated. They divorced later. So I—I had—you know, growing up, my—our families were pretty together until I was about 10 or 11 years old, and I guess my father was, you know, running around with his secretary, and—and that was something I wasn’t aware of until I was 13. And then—and then I—I stayed in the same home that I grew up in with my mother, and my father moved out.</u>
+      <u who="SONNENFELD">Mm-hm. </u>
+      <u who="COX">So that was that.</u>
+      <u who="SONNENFELD">Did you continue to see your father after that or—</u>
+      <u who="COX">Yeah. </u>
+      <u who="SONNENFELD">No?</u>
+      <u who="COX">I—I tried—I—I saw him a lot, but only after about a year or two, after he left, because, you know, I was busy with school and I worked in the summers. I worked in a greenhouse nursery, a couple hundred acres in greenhouses, you know, painting buildings and working in the fields, driving tractors in the summertime. I started doing that when I was 10. Also I was a <orgName ref="#dvp_086_org_11">Boy Scout</orgName>, and I traveled all over the <placeName ref="#dvp_086_place_10">United States</placeName> and eventually to Europe with the <orgName ref="#dvp_086_org_12">Boy Scouts [of America] </orgName>and to <placeName ref="#dvp_086_place_11">Canada</placeName>, in the summers. </u>
+      <u who="SONNENFELD">Mm-hm.</u>
+      <u who="COX">And I obtained not <orgName ref="#dvp_086_org_13">Eagle Scout</orgName>, but I was a <orgName ref="#dvp_086_org_14">Life Scout</orgName>. I was three merit badges shy of <orgName ref="#dvp_086_org_15">Eagle</orgName>.</u>
+      <u who="SONNENFELD">Sure. Let’s—tell me a little bit more about your experience with the <orgName ref="#dvp_086_org_16">Boy Scouts</orgName>. What—what was that like, growing up?</u>
+      <u who="COX">That was—</u>
+      <u who="SONNENFELD">And—and what were some of the activities that most captured your attention?</u>
+      <u who="COX">Well, the great thing about the <orgName ref="#dvp_086_org_17">Boy Scouts</orgName> was—and you don’t have any idea—you know, because you—you go to, you know, Scout meetings once a month, and you get together and you do projects, and you  help out the community and everything. And then, you know, you’re working on your merit badges, and also in—in the summertime you arranged to go to a camp called <placeName ref="#dvp_086_place_12">Camp Aliquippa [now Roaring Run Resort]</placeName> up in the mountains of <placeName ref="#dvp_086_place_13">Pennsylvania</placeName>, which was a wonderful camp and camp experience, where you’re—you know, you learn to swim and life save and survive in the wilderness and stuff like that.</u>
+      <u who="SONNENFELD">Mm-hm.</u>
+      <u who="COX">And you learn—you learn to cook, you know, for yourself out in the wilderness and everything.</u>
+      <u who="SONNENFELD">How about the friends you made through <orgName ref="#dvp_086_org_18">Boy Scouts</orgName>? Were—were they some of your closest friends, or—or who did you find yourself spending most of your time with, growing up?</u>
+      <u who="COX">The kid across the street, <persName ref="#dvp_086_person_4">[Thomas] “Tom” Saxer</persName>, was my best friend, and <persName ref="#dvp_086_person_5">Mike</persName>, down the street. The <persName ref="#dvp_086_person_6">Mack</persName> family. The father <persName ref="#dvp_086_person_7">[J. S. Mack]</persName> was president of <orgName ref="#dvp_086_org_19">the G.C. Murphy Company</orgName> and <persName ref="#dvp_086_person_8">Tom Saxer</persName>’s father was president of <orgName ref="#dvp_086_org_20">J&amp;L Steel [Jones and Laughlin Steel Company]</orgName>. And those two—I hung around with them. They were my age. They were exactly my age. Did things with me, but they weren’t in <orgName ref="#dvp_086_org_21">Boy Scouts</orgName> with me.</u>
+      <u who="SONNENFELD">Mm-hm.</u>
+      <u who="COX">I—I chose <orgName ref="#dvp_086_org_22">Boy Scouts</orgName> on my own.</u>
+      <u who="SONNENFELD">Did—did you attend school with the—those two boys that you mentioned?</u>
+      <u who="COX">Yeah.</u>
+      <u who="SONNENFELD">Yeah. </u>
+      <u who="COX">I went all the way through high school with them.</u>
+      <u who="SONNENFELD">Mm-hm. </u>
+      <u who="COX">Yeah. Well, actually, the one went to <orgName ref="#dvp_086_org_23">[The] Kiski [School]</orgName>, he went to prep school. <persName ref="#dvp_086_person_9">Mike Mack</persName> went to prep school.</u>
+      <u who="SONNENFELD">Mm-hm. Let’s talk a little bit more about high school. What—what was your favorite subject?</u>
+      <u who="COX">German.</u>
+      <u who="SONNENFELD">German. And—and what attracted you to that?</u>
+      <u who="COX">I don’t know. I just—I was interested in the language because you learn about the people when you learn about the language, and I had a teacher in high school who was German,—</u>
+      <u who="SONNENFELD">Mm-hm.</u>
+      <u who="COX">—from <placeName ref="#dvp_086_place_14">Germany</placeName>, and fortunately it was just a public high school, and I—I just—I recall that, you know, pretty much. I took extra courses in high school so that I took typing. I was the only guy in the typing class, by the way. It was—they have—they offered typing and all these other things. I thought, Well, I’m gonna have to type papers in college, so I took a typing course.</u>
+      <u who="SONNENFELD">So—so you always knew that you wanted to go to college, then.</u>
+      <u who="COX">Yeah, I think from the time I was four or five, my father drilled <orgName ref="#dvp_086_org_24">Dartmouth</orgName> into me.</u>
+      <u who="SONNENFELD">Uh-huh. </u>
+      <u who="COX">I mean, he talked about—</u>
+      <u who="SONNENFELD">So when it came—</u>
+      <u who="COX">Yeah.</u>
+      <u who="SONNENFELD">Yeah. What—what sorts of things would your dad say about <orgName ref="#dvp_086_org_25">Dartmouth</orgName>?</u>
+      <u who="COX">Well, you know, he—you know, he always talked about what he did at <orgName ref="#dvp_086_org_26">Dartmouth</orgName> and what a wonderful experience it was, and, you know, his—the fact that he went there—he went on to the <orgName ref="#dvp_086_org_27">Tuck School </orgName>and talked about <persName ref="#dvp_086_person_10">Harry [R.] Wellman</persName> <orgName ref="#dvp_086_org_28">[Class of 1907]</orgName>, who was a professor at <orgName ref="#dvp_086_org_29">Tuck</orgName> at the time, and how they talked about what he should do in life, and it seemed like a good—you know, a good string to go. I always wanted to leave high school and go to prep school because I realized that my high school wasn’t going to get me in. It wasn’t probably the finest education. I wanted to go to <orgName ref="#dvp_086_org_30">Mercersburg Academy</orgName> from the time I was a freshman in high school, but my mother wouldn't let me go.</u>
+      <u who="SONNENFELD">But you ended up taking some courses after high school, before you came to <orgName ref="#dvp_086_org_31">Dartmouth</orgName>.</u>
+      <u who="COX">I—I took a postgraduate year at <placeName ref="#dvp_086_place_15">Mercersburg</placeName>, and I did quite well,—</u>
+      <u who="SONNENFELD">Mm-hm, mm-hm. </u>
+      <u who="COX">—just because I forced myself to. In fact, I couldn’t play football there, and both the school and I were a little sorry about that. But I was in the <orgName ref="#dvp_086_org_32">All School Octet</orgName>. [Chuckles.] I loved that.</u>
+      <u who="SONNENFELD">Okay. </u>
+      <u who="COX">I was in an a cappella octet group.</u>
+      <u who="SONNENFELD">Sure. Did—did you sing growing up, or did you just pick that up for your postgrad year?</u>
+      <u who="COX">No, I sang in—I sang in plays in high school.</u>
+      <u who="SONNENFELD">Mm-hm. </u>
+      <u who="COX">I took piano lessons for ten years, and, you know, we had a piano and organ in our house, and—you know.</u>
+      <u who="SONNENFELD">Mm-hm.</u>
+      <u who="COX">My father was a soloist, so—</u>
+      <u who="SONNENFELD">So when you were considering kind of your future, you—you had liked German in high school, and it sounded like you were pretty involved in—in a variety of activities. What were you thinking you—you might want to do when—and did you apply anywhere other than <orgName ref="#dvp_086_org_33">Dartmouth</orgName>, or were you set on the one school?</u>
+      <u who="COX">No. I always—I read <persName ref="#dvp_086_person_11">Ayn Rand</persName>’s, The Fountainhead, and I was really close friends with some architects in my town and in <placeName ref="#dvp_086_place_16">Pittsburgh</placeName>, and I always wanted to grow up and be an architect. I was—I was set on being an architect. And so I knew that <orgName ref="#dvp_086_org_34">Dartmouth</orgName> offered art and pre-architecture, and then I’d have to go on to architecture school in any case because no school that I knew would put you through quicker, like a five-year program or a six-year program for the whole completion. So I applied to <orgName ref="#dvp_086_org_35">Penn [University of Pennsylvania]</orgName>, <orgName ref="#dvp_086_org_36">Cornell [University]</orgName>, <orgName ref="#dvp_086_org_37">Dartmouth</orgName> and <orgName ref="#dvp_086_org_38">Penn State [Pennsylvania State University]</orgName> as a—and <orgName ref="#dvp_086_org_39">Brown [University] </orgName>as a backup and got into <orgName ref="#dvp_086_org_40">Brown</orgName> and <orgName ref="#dvp_086_org_41">Dartmouth</orgName> and certainly <orgName ref="#dvp_086_org_42">Penn State</orgName>.</u>
+      <u who="SONNENFELD">Mm-hm.</u>
+      <u who="COX">But I just didn’t wa- —I could have gone to <orgName ref="#dvp_086_org_43">Penn State</orgName> out of high school. I just—I wanted to go to <orgName ref="#dvp_086_org_44">Dartmouth</orgName> or, you know, maybe <orgName ref="#dvp_086_org_45">Brown</orgName>.</u>
+      <u who="SONNENFELD">Mm-hm. So talk me through kind of arriving at <orgName ref="#dvp_086_org_46">Dartmouth</orgName>. Did you have any anxieties? What was it like transitioning from <placeName ref="#dvp_086_place_17">Pennsylvania</placeName> to <placeName ref="#dvp_086_place_18">New Hampshire</placeName>?</u>
+      <u who="COX">Well, the only—the only thing that I missed was, and I guess I was used to having a car, so I didn’t have a car my freshman year. I didn’t really miss it that much because I spent a lot of time on campus. You know, I—I really—I thought a lot about <persName ref="#dvp_086_person_12">George [A.] Plimpton</persName>. Do you know who that is?</u>
+      <u who="SONNENFELD">Could you—could you refresh?</u>
+      <u who="COX">Yeah. <persName ref="#dvp_086_person_13">George Plimpton</persName>—I think he just passed. I’m not sure. But <persName ref="#dvp_086_person_14">George</persName> was a—a journalist, a significant journalist in the—you know, just before me, and he tried and did everything. <persName ref="#dvp_086_person_15">George</persName> wanted to play in the <orgName ref="#dvp_086_org_47">NFL [National Football League]</orgName>, so they let him be a quarterback for one game. He—he tried all sports, and I felt I—I could just try and do anything. <orgName ref="#dvp_086_org_48">Dartmouth</orgName> just availed me of so many things. I was excited about that. And so the first thing I did when I got there was I rowed. There was a freshman rowing team. And I was too small to play football. I tried out. They had me all ready to play football, but I was too small, so—eventually, I played rugby in my last two years.</u>
+      <u who="SONNENFELD">Mm-hm. </u>
+      <u who="COX">And—but I loved the fact that <orgName ref="#dvp_086_org_49">Dartmouth</orgName> let me try so many things. My two roommates were All American lacrosse and, you know, it was, I thought, quite a school.</u>
+      <u who="SONNENFELD">Mm-hm. So what was your—what was your freshman year on campus like? You joined the crew team. How—how did that—how did you enjoy that experience?</u>
+      <u who="COX">Well, crew was an early—I’m an early person, so you had to be down there quite early in the morning, so you’re up at six, down there at seven. You’re on the water 7:15, 7:30, and I loved it. And my first class I think was at nine or something like that. And so I—I liked that. My freshman year was very hard academically for me. I had—our—our—my freshman teacher was <persName ref="#dvp_086_person_16">Chauncey [C.] Loomis III [Jr.]</persName>, was my freshman English teacher, and he helped me a lot. He suggested I get a tutor, so I got a tutor. I used to walk down to the river and go to this woman’s house, and she would tutor me in the evenings, in English and reading and some writing.</u>
+      <u who="SONNENFELD">Mm-hm.</u>
+      <u who="COX">So I had a tough—tough time my freshman year. I was—</u>
+      <u who="SONNENFELD">What was challenging about your freshman year?</u>
+      <u who="COX">Well, when I got there, they explained something about our class, the <orgName ref="#dvp_086_org_50">Class of ’65</orgName>. There was some discussion, which I haven’t heard too much, and I even asked some of my classmates at my <name type="event" ref="#dvp_086_event_0">50th [reunion]</name> when I was there last June, that they—they said that our class was—that they let some well-rounded people in there that weren’t just—everybody wasn’t just scholars making the numbers, that kind of a thing. Percentage wise, it was greater for the <orgName ref="#dvp_086_org_51">Class of ’65</orgName> than other things, and so I thought, Well, I must be one of those experimentals because I think 50 percent of the incoming class were valedictorians, and I wasn’t anywhere near that. And I don’t know about the boards, how many had a pair of 800s, but I wasn’t anywhere near that.And—and a lot of them were from prep schools. They had gone—they had prepped a lot at <orgName ref="#dvp_086_org_52">Deerfield [Academy] </orgName>and <orgName ref="#dvp_086_org_53">[Philips Academy] Andover</orgName> and <orgName ref="#dvp_086_org_54">[Philips] Exeter [Academy]</orgName>, and I knew I was, you know, behind the eight ball a little bit academically. But—but there were some other kids who were just high school athletes and were there to do it all as best they could. They seemed to be as smart or smarter than me, so I realized that I—The one—the two things that <orgName ref="#dvp_086_org_55">Dartmouth</orgName> exclaimed was there’s going to be competition in the classroom, and—let’s see, competition in the classroom. There were two things, but—I’ll remember the other one. But anyway, you know, so I realized [chuckles] that the competition in the classroom was there.Oh, the other thing was intellectual curiosity. They—they really emphasized intellectual curiosity right away. They just talked about it just straight out, and I thought that that was—those were two things that <orgName ref="#dvp_086_org_56">Dartmouth</orgName> prided itself on, and if you’ll know—and you might know that <orgName ref="#dvp_086_org_57">Dartmouth</orgName>, you know, was all male, so—</u>
+      <u who="SONNENFELD">Right.</u>
+      <u who="COX">—that’s all we had to do, was study, play ball or whatever.</u>
+      <u who="SONNENFELD">And did you consider yourself intellectually curious, or—</u>
+      <u who="COX">Yeah, I did.</u>
+      <u who="SONNENFELD">Mm-hm.</u>
+      <u who="COX">I took—you know, you find yourself niching in intellectual curious. I was more interested in history and architecture and—and how the buildings were used by people and what they did in the 12th, 13th, 14th [centuries] and the Renaissance, things like that, so I would call it intellectual curiosity.</u>
+      <u who="SONNENFELD">Mm-hm.</u>
+      <u who="COX">But it didn’t—it didn’t bode that well for me with calculus. I wasn’t so intellectually curious to—to excel in calculus. [Both chuckle.] </u>
+      <u who="SONNENFELD">Sure.</u>
+      <u who="COX">However.</u>
+      <u who="SONNENFELD">How about—how about socially? How did you find freshman year socially, making friends and so forth?</u>
+      <u who="COX">We had a great dorm. I was in <placeName ref="#dvp_086_place_19">South Mass[achusetts Hall</placeName>], and <placeName ref="#dvp_086_place_20">South Mass</placeName>—the dining hall at the time was <placeName ref="#dvp_086_place_21">Thayer [Hall, now Class of 1953 Commons]</placeName>. I think it’s still <placeName ref="#dvp_086_place_22">Thayer</placeName>. I’m not sure. And I was right next to the dining hall, and—and because of sports and the guys across from me were athletes, but the guy next to me was a star running back on the football team, and he was a junior. I think he was two years older, or maybe he was a sophomore. And—and it was great because, you know, we hung out together a lot and did things sort of as a dorm. And, you know, I didn’t compete—we didn’t compete intramurally or anything like that I can recall; I just remember rowing as far as a sport in my freshman year.</u>
+      <u who="SONNENFELD">And what—what did you tend to do with your down time, then, other than—can you—can you give us a few more specifics of how you spent your time, who you were socializing with? How about big weekends, things like that?</u>
+      <u who="COX">Well, we—we weren’t aware of—I wasn’t aware of the weekend being preponderant- —you know, that much different. We weren’t going to go anywhere, couldn’t go anywhere. There wasn’t anywhere to go in your freshman year. That was my opinion, anyway. And I had—I had to study a lot. I really had to study a lot. In fact, my roommate said—said, “<persName ref="#dvp_086_person_17">Rob</persName>, you know were unbelievably neat and tidy,” and, you know how [chuckles]—he said, “You know, you had stuff shipped in for our—our room, and it was so great.” [Chuckles.] I said, “No. No, no, no, we bought that stuff in <placeName ref="#dvp_086_place_23">Woodstock [New York]</placeName> on the way and just brought it in,” so—</u>
+      <u who="SONNENFELD">[Chuckles.]And—so I was just thinking about a follow-up question to that. How—how about the events going on in the world? Was that something you were aware of, or was campus talking about?</u>
+      <u who="COX">That’s a really good question. I realized—it just—it shocked me personally, as I did everybody, of course, when <persName ref="#dvp_086_person_18">[President John F.] Kennedy</persName> was killed in <date when="1963-11-22">’63</date>?</u>
+      <u who="SONNENFELD">Mm-hm.</u>
+      <u who="COX">In <date when="1963">1963</date>, and when I realized that—we—we were isolated, somewhat isolated. I didn’t watch television a lot or anything like that or, you know, I probably read a newspaper maybe. I—I enjoyed, you know, finding out about things on campus, and that was always posted on bulletin boards and—you know, communication then—we didn’t have cell phones, and if I wanted to communicate with home or anything like that, it was with a wall phone with coins in the—downstairs or something.</u>
+      <u who="SONNENFELD">So it was world events or national events—were they something that were really discussed on campus, or—or not so much?</u>
+      <u who="COX">No, not so much, no.</u>
+      <u who="SONNENFELD">No. Mm-hm. </u>
+      <u who="COX">No.</u>
+      <u who="SONNENFELD">Sure.</u>
+      <u who="COX">And that was my opinion, by the way. I could have been—and maybe perchance, you know, I was different from other kids. Maybe their parents sent them information and—and—and communicated and stuff, but I didn’t—I didn’t—you know, my parents were separated, not even divorced by then, and I—I don’t think I particularly communicated very much with—with my family. I did more so when my sister came—when she came—she’s two years younger than me, so when she came to <orgName ref="#dvp_086_org_58">Colby Junior</orgName>, that was—that was sort of fun. I, you know, talked to her and everything.</u>
+      <u who="SONNENFELD">Let’s—let’s go ahead and move—move from your freshman year to your sophomore year. You switched sports. Were there any other transitions as you kind of started to move through your <orgName ref="#dvp_086_org_59">Dartmouth</orgName> career?</u>
+      <u who="COX">Well, as far as—once my freshman year—I always was focused on architecture and art, and there was a course—I don’t know if it’s still offered, History of Art and Architecture, and I took that, moved up into my sophomore year and then pledged <orgName ref="#dvp_086_org_60">SAE [Sigma Alpha Epsilon]</orgName> and moved into the house. I lived in <orgName ref="#dvp_086_org_61">SAE</orgName> for my last couple of years.</u>
+      <u who="SONNENFELD">Mm-hm.</u>
+      <u who="COX">So—and I was really close to <placeName ref="#dvp_086_place_24">Baker Library [Fisher Ames Baker Memorial Library, now Berry-Baker Library]</placeName>. I was  always over there studying somewhere in the stacks. I—I loved studying in the stacks because it was cold and it kept me awake. So.</u>
+      <u who="SONNENFELD">Mm-hm. Still is. Still’s chilly in the stacks.</u>
+      <u who="COX">Yeah.</u>
+      <u who="SONNENFELD">And so you maintained the interest in—in architecture kind of throughout?</u>
+      <u who="COX">Oh, jeez, intensely. You know, it was—my whole focus was architecture. I was always drawing and sketching and—and doing things, you know, as—I can draw anything any time. I had a natural sense of perspective. You know, I was always, you know, figuring things out spatially, and—and so, you know, I—I was definitely on track. There was an architect who taught two—in our junior and senior years, taught pre-architecture there. I forget his name. Really nice guy, an architect not from <placeName ref="#dvp_086_place_25">Hanover [New Hampshire]</placeName> but somewhere near by, <placeName ref="#dvp_086_place_26">Lebanon [New Hampshire]</placeName> perchance. And he taught these courses, and I took sculpture and, you know, a lot of different things.</u>
+      <u who="SONNENFELD">Mm-hm.</u>
+      <u who="COX">I worked with iron and wood and stuff like that.</u>
+      <u who="SONNENFELD">Mm-hm. Any—any other sort of major incidents or—or events at your <orgName ref="#dvp_086_org_62">Dartmouth</orgName> time that—that really stuck out?</u>
+      <u who="COX">No. I—I played—we—you know, intramu- —because—I think because we were isolated and we didn’t go places too much until I drove, and then I went over to girls’ schools, I really felt like we had, you know, the intra-fraternity—and maybe the dorms were—like, if we’d have swim meets against other fraternities.</u>
+      <u who="SONNENFELD">Mm-hm.</u>
+      <u who="COX">And <orgName ref="#dvp_086_org_63">SAE</orgName> did pretty well. I was a good swimmer, so I swam anchor on a—you know, four guys.</u>
+      <u who="SONNENFELD">What was your stroke?</u>
+      <u who="COX">Freestyle. I could slam-dance a race, and we came in second in all the fraternities all the time. <orgName ref="#dvp_086_org_64">Psi U[psilon]</orgName> always beat us. [Both chuckle.]  So we thought—we thought they were the Yalies. We weren’t sure that—if they were in the right school.</u>
+      <u who="SONNENFELD">[Chuckles.] So a—</u>
+      <u who="COX">We had a lot of football players in my house.</u>
+      <u who="SONNENFELD">Uh-huh. </u>
+      <u who="COX">The star running back. The quarterback was actually in <orgName ref="#dvp_086_org_65">Beta [Theta Pi, now Beta Alpha Omega]</orgName>, but we had—<persName ref="#dvp_086_person_19">[William H.] “Bill” King [Jr.</persName>, <orgName ref="#dvp_086_org_66">Class of 1963</orgName>] I think was a Beta. And then we had, oh, tackles, running backs—mostly tackles and running backs. And, oh, and ends. Good wide receivers that actually played for <orgName ref="#dvp_086_org_67">Dartmouth</orgName>. Football was really an incredible sport there. I mean, it still is. You know, I really—I —I not only supported it, but because I played it, I understood it and everything. </u>
+      <u who="SONNENFELD">Mm-hm. </u>
+      <u who="COX">And then I thought rugby was great because all the guys that could no longer handle <persName ref="#dvp_086_person_20">[Robert L.] “Bob” Blackman</persName>, who was a really hard-driving coach, and we won the Ivy League when I was there a couple of times, so we played rugby. [Chuckles.]</u>
+      <u who="SONNENFELD">Yeah, sure.</u>
+      <u who="COX">And it was great. Quite a rugby—</u>
+      <u who="SONNENFELD">Tell—tell me a little bit more about your experience at the rugby team. What was your position?</u>
+      <u who="COX">[Chuckles.] I was a prop. It’s called second row. I was—I was big at the time. I weighed about 230, 5’-11”—</u>
+      <u who="SONNENFELD">Mm-hm, mm-hm.</u>
+      <u who="COX">—you know, in very, very big—good shape. My—my best friend at <orgName ref="#dvp_086_org_68">Dartmouth</orgName>, well, one of two of my best friends—he was in <orgName ref="#dvp_086_org_69">Deke [Delta Kappa Epsilon]</orgName>, and he was on the <orgName ref="#dvp_086_org_70">York Barbell</orgName> team from <placeName ref="#dvp_086_place_27">York, Pennsylvania</placeName>, so he worked out a lot, and he was really, you know, a strong guy, and so I would—I worked out anyway because of sports. But—but I lifted with him and—you know, that made me—that made me perfect for second row. I could hold up anybody and push a scrum.</u>
+      <u who="SONNENFELD">Mm-hm. And did—did you form—you—you were obviously affiliated, you were in <orgName ref="#dvp_086_org_71">SAE</orgName>,	 but where did you find your closest friendships developing on campus: in your fraternity, on the rugby team, elsewhere?</u>
+      <u who="COX">No, the rugby team actually had <persName ref="#dvp_086_person_21">Paul [C.] Pringle </persName>[<orgName ref="#dvp_086_org_72">Class of 1965</orgName>], who was in my fraternity, and <persName ref="#dvp_086_person_22">Paul</persName> was my best friend, and—and <persName ref="#dvp_086_person_23">[Edward A.] “Ed” Taber [III</persName>, <orgName ref="#dvp_086_org_73">Class of 1965</orgName>] was the other guy, and he was in <orgName ref="#dvp_086_org_74">Deke</orgName>.</u>
+      <u who="SONNENFELD">Mm-hm. </u>
+      <u who="COX">So, those were my two best friends, and we—I was assistant—assistant social chairman behind <persName ref="#dvp_086_person_24">[Alexander F.] “Sandy” Ritter</persName> [<orgName ref="#dvp_086_org_75">Class of 1965</orgName>] at <orgName ref="#dvp_086_org_76">SAE</orgName>, so, you know, we had—we got pretty good groups on weekends—you know, good [unintelligible] group.</u>
+      <u who="SONNENFELD">Mm-hm.</u>
+      <u who="COX">And I hate—if you see <orgName ref="#dvp_086_org_77">SAE</orgName> today, I hate to tell you that it was never like that when I was there.</u>
+      <u who="SONNENFELD">Oh, yeah? Well, it’s been derecognized. That was a big thing this past term or this past—yeah, past term, right?</u>
+      <u who="COX">I know. I’ll tell you, when I was there—and—and—and not to sound as though I would do anything for anybody or that I could, but I did—so, like, if we needed carpets or we needed to have things cleaned and we didn’t have the money, I just had somebody come in and just do it, because the place was always in great shape. The furniture was in great shape. We had nice—finished wood floors. You know, we set up a nice bar. If anybody got rough at one of our parties, we made sure that they were real quiet and went out the backdoor.</u>
+      <u who="SONNENFELD">Mm-hm.</u>
+      <u who="COX">So we—we weren’t—we [chuckles] weren’t an Animal House at all,—</u>
+      <u who="SONNENFELD">[Chuckles.]</u>
+      <u who="COX">—and—even though—I mean, we never had a tendency to be that way. We were more—it was all fun, and people loved to come there because we had <orgName ref="#dvp_086_org_78">Taj Mahal and the Elektras</orgName>. Did you ever hear of them?</u>
+      <u who="SONNENFELD">I have not. Was that a campus band?</u>
+      <u who="COX">Yeah. No, not—not a campus band. <orgName ref="#dvp_086_org_79">Taj Mahal and the Elektras</orgName> were real famous in the New England area probably until about 20 years ago, and so, you know, we would have them come up and, you know, we paid for them for entertainment for our fraternity.</u>
+      <u who="SONNENFELD">Mm-hm. Nice.</u>
+      <u who="COX">About once a month.</u>
+      <u who="SONNENFELD">Yeah.</u>
+      <u who="COX">Yeah, it was great.</u>
+      <u who="SONNENFELD">So as you were kind of approaching the end of your time at <orgName ref="#dvp_086_org_80">Dartmouth</orgName>, again, what direction were you thinking of going, and—and what were kind of your—your next steps when--when graduation approached?</u>
+      <u who="COX">Well, I was going to apply to <orgName ref="#dvp_086_org_81">Cornell</orgName>. I wanted to <orgName ref="#dvp_086_org_82">Cornell</orgName>, to architecture school, and as we realized that <name type="event" ref="#dvp_086_event_1">the Vietnam War</name> was rolling up and was going to be tough, we were trying to figure out ways to stay away from the <orgName ref="#dvp_086_org_83">military</orgName> or out of the <orgName ref="#dvp_086_org_84">military</orgName>, frankly. As a—I thought as a college graduate that I wanted to see if I could finish graduate school or—or do something like that. I didn’t—you know, there were ways to stay out of the war, and that was to have a family and be the sole, you know, economic driver for your family, or you could go to <placeName ref="#dvp_086_place_28">Canada</placeName> and run from the <orgName ref="#dvp_086_org_85">military</orgName>, or you could 4-F [Selective Service System classification for not acceptable for military service]. And unfortunately, I was a physical—you know, sort of a beast, so, you know, I could—you know, they wouldn’t—they wouldn’t—when they said 50, I could do 50 pushups, you know. It wasn’t—so that wasn’t a problem, unfortunately, for me.And so I—I just—I resigned myself to, you know, this wasn’t going to be good, and my father and I talked about it at length, and I told him that I wanted to go into the <orgName ref="#dvp_086_org_86">[U.S.] Air Force</orgName> and be a fighter pilot, and he said, “No, I don’t think that’s a good idea.” He said, “How about if I get you in the <orgName ref="#dvp_086_org_87">Navy</orgName>? How about the <orgName ref="#dvp_086_org_88">[U.S.] Navy Reserve</orgName>? I think there’s an opening here in—in your hometown.”So I went in the <orgName ref="#dvp_086_org_89">Navy Reserve</orgName> to try to stave off the <orgName ref="#dvp_086_org_90">military</orgName>. You still had to go two years active at one point, but I would have been an enlisted man, but I still wanted to be a fighter pilot. I—you know, I—the one thing there—a guy named <persName ref="#dvp_086_person_25">[Kenneth H.] “Ken” Jukes</persName> [<orgName ref="#dvp_086_org_91">Class of 1965</orgName>] taught me how to fly at <orgName ref="#dvp_086_org_92">Dartmouth</orgName>. We flew a—a float plane on the—in the aero club, and we flew off the lakes around <placeName ref="#dvp_086_place_29">New Hampshire</placeName> and <placeName ref="#dvp_086_place_30">Vermont</placeName>. And—</u>
+      <u who="SONNENFELD">Was that a particularly common thing, or just through your buddy?</u>
+      <u who="COX">Was it a what?</u>
+      <u who="SONNENFELD">Was that a particularly common activity, or just you had a friend with an interest and—and he took you along?</u>
+      <u who="COX">Well, I didn’t realize there was an aero club, and <persName ref="#dvp_086_person_26">Ken Jukes</persName> said, “<persName ref="#dvp_086_person_27">Rob</persName>, yeah. I mean, you want to go flying?” And I said, “Ah, I don’t know. Yeah, I’d love to.” You know, I’d been in airplanes a lot, but I hadn’t flown particularly. And he said, “Let’s go,” and, you know, it was twin—dual-control Piper with a high wing, with pontoons on, so we went down and untied it and took off, and he taught me how to fly on and off lakes, and then he also taught me how to land on land, so—and then—</u>
+      <u who="SONNENFELD">Okay, sure.</u>
+      <u who="COX">So when I got into the <orgName ref="#dvp_086_org_93">Air Force</orgName>, I was already—I already could fly, so—</u>
+      <u who="SONNENFELD">So did that automatically qualify you to be sort of a fighter plane guy, or did you have to go through any further training for that, or how’d you get the position?</u>
+      <u who="COX">Well, as—as—as it was, you know, the draft—the full-on draft was announced in <date when="1965-03">March of 1965</date>, and we graduated <date when="1965-05">two months later</date>. And—and so I got a draft notice from <placeName ref="#dvp_086_place_31">Pittsburgh</placeName> and said, you know, “You’re on the top of the list here. Come on down for your physical.” And I said, “Well, okay,” and then I got into the <orgName ref="#dvp_086_org_94">Navy Reserve</orgName>, and that—that staves them off for a while.And then once—as a college graduate, you can go in from any enlisted to any—you can go into any—if you qualify, you can go into any officer program, officer training program. So I took all the tests for the <orgName ref="#dvp_086_org_95">[U.S.] Navy</orgName>, the <orgName ref="#dvp_086_org_96">Air Force</orgName> and the <orgName ref="#dvp_086_org_97">[U.S.] Army</orgName> and—as a—as a flyer, and they said, “Well, you know, you’re aerobatic, and you can—you can be in any one you want,” and I said, “Well, I’m not”—I picked the<orgName ref="#dvp_086_org_98"> Air Force</orgName>.</u>
+      <u who="SONNENFELD">Mm-hm.</u>
+      <u who="COX">I figured they had the arsenal, and they had the planes that I wanted to fly. And so I—I went from the <orgName ref="#dvp_086_org_99">Navy</orgName>—I went—by the way, I went to graduate school in architecture at <placeName ref="#dvp_086_place_32">Kent State [University]</placeName> for a year.</u>
+      <u who="SONNENFELD">Oh.</u>
+      <u who="COX">I didn’t just languish.</u>
+      <u who="SONNENFELD">Uh-huh.</u>
+      <u who="COX">I was trying like hell to see if this <orgName ref="#dvp_086_org_100">Navy</orgName> thing could somehow work, would I like it, could I stay in architecture school and then go on active duty and come back and have—I didn’t care if the <orgName ref="#dvp_086_org_101">military</orgName> paid for my education particularly, although that would be all right. But I—but I really wanted to go to architecture school, and I wanted to be serious about it, and I couldn’t because I was so conflicted with this military thing.</u>
+      <u who="SONNENFELD">Mmm.</u>
+      <u who="COX">And so I just decided, There’s no way I’m gonna waste my life, you know, swabbing decks or cooking in a—I don’t know, I was a corpsman. I was trained as a <orgName ref="#dvp_086_org_102">Navy</orgName> corpsman—you know, like—you know, like, what a corpsman is. Like, help out doctors and stuff.So I liked that. I liked learning something different, but I still didn’t—and I knew First Aid and everything from the <orgName ref="#dvp_086_org_103">Boy Scouts</orgName>, so I—I just—I always wanted to be a fighter pilot—</u>
+      <u who="SONNENFELD">Mm-hm.</u>
+      <u who="COX">—once I realized I had to go in the <orgName ref="#dvp_086_org_104">military</orgName>. I mean, if I—if I chose someday to have an airplane and fly it myself, that would be one thing. I don’t know about a fighter. And so I—I—I got in. I passed the test, and they gave me my call date, and I went to <placeName ref="#dvp_086_place_33">Lackland Air Force Base</placeName> in <placeName ref="#dvp_086_place_34">Texas</placeName>, and in 10 weeks I was a lieutenant.</u>
+      <u who="SONNENFELD">Mm-hm. So before—before we get into that, just to revisit your time at <placeName ref="#dvp_086_place_35">Kent State</placeName>, was it only a one-year program or did you cut things short to—to pursue your military duty?</u>
+      <u who="COX">Yeah, I had to cut it kind of short.</u>
+      <u who="SONNENFELD">Yeah.</u>
+      <u who="COX">They were very nice to us there. We were—my—through a family friend who’s an architect in <placeName ref="#dvp_086_place_36">Pittsburgh</placeName>, the head of the school, you know, put me in the graduate program and understood about the military. You know, there were—I wasn’t the only person with this military quandary sitting over their head or trying to work it out in those days. I mean, if you were a red-blooded, you know, stand-up—in those—in those days it was males—men, you—you were going in the military somehow, or you had to figure out what to do—</u>
+      <u who="SONNENFELD">Mm-hm. </u>
+      <u who="COX">—for you—for your service requirement. And so it was actually a three-year program, and I completed one year and just—I couldn’t—I couldn’t stay away anymore. The military—the <orgName ref="#dvp_086_org_105">Air Force</orgName> said, “Look, you know, you’re—you’re gonna go from the <orgName ref="#dvp_086_org_106">Navy</orgName> to us, and that’s that.” And I wanted to get moving. I just wanted to get it done, in a way. I didn’t know anything about it. If you think you don’t know about things and you go to a prep school or you go to a college and you interview and you look around and you walk around campus—You can’t walk around an <orgName ref="#dvp_086_org_107">Air Force</orgName> base and try to figure out what it’s going to be like. You know, life—that life every day is what is next. That’s—that’s just an experience that you’re going to learn about tomorrow, tomorrow, but they don’t tell you anything about it. And, you know, whether you’re proficient in this, proficient in that or you can do this or do that, you—they—you push yourself, and they push you as hard as they can to see what you’re going to do as your job in the military, so—</u>
+      <u who="SONNENFELD">Mm-hm. When you left <orgName ref="#dvp_086_org_108">Kent State</orgName>, did you have plans to return to architecture school when you were done with your service, or—</u>
+      <u who="COX">Yeah. In my mind—</u>
+      <u who="SONNENFELD">—what were you thinking?</u>
+      <u who="COX">In my mind, I somehow wanted to maintain—somehow be involved with architecture. I just didn’t know what to do about that, because I was running out of I guess age and—and experience. And when you think about the fact that I went to a postgraduate year, which extended me in high school one more year, then I go to <orgName ref="#dvp_086_org_109">Dartmouth</orgName> for four years, complete that, and then, you know, for me to come back out of the <orgName ref="#dvp_086_org_110">military</orgName> after four more years, at 30 years of age, and go to graduate school in architecture—I wanted to make money.I really—I was paid $12,000 a year as an <orgName ref="#dvp_086_org_111">Air Force</orgName> captain, with combat and, you know, hazardous duty pay, and that—that—that—that’s all I made, was $12,000 a year. However, I lived in <placeName ref="#dvp_086_place_37">Japan</placeName> the whole time, so—</u>
+      <u who="SONNENFELD">Mm-hm. Okay. So—</u>
+      <u who="COX">—you know, my money—the money went pretty far.</u>
+      <u who="SONNENFELD">Yeah.Let’s—let’s go back to training camp at <placeName ref="#dvp_086_place_38">Lackland, Texas</placeName>, you said, correct?</u>
+      <u who="COX">Yeah, yeah, in August.</u>
+      <u who="SONNENFELD">Can you tell me a little bit about that experience?</u>
+      <u who="COX">Yeah. I’ll tell you what that was. So you get there. You drive there. You park your car. You don’t see it again for 10 weeks if you’re going to make it through the 10-week training. And everybody there is intent. If you’re there for officers’ training, you’re not—nobody is a shirker, and everybody is trying to excel and be a lieutenant. And, you know, it was—it was 100 degrees during the night and 104 degrees during the day. No air conditioner in the barracks. And we had to run every morning and run in the afternoon. Sometimes the red flags would be up that, you know, you shouldn’t be out doing this, so you’d take the backpack off and you’d just run without it.</u>
+      <u who="SONNENFELD">Mmm.</u>
+      <u who="COX">It was quite an experience. I—I—I liked it. I was—you know, I was made an OT captain, which is like the head of my group in officer training camp, an OT captain. And—anyway—so—and then at the end of it, you’re a lieutenant. They pin on the bars, and—and I got my assignment, so—</u>
+      <u who="SONNENFELD">And you mentioned your—your dad didn’t want you going into the <orgName ref="#dvp_086_org_112">Air Force</orgName>. What were your parents’ thoughts through- —throughout all of this?</u>
+      <u who="COX">My parents were so concerned about <name type="event" ref="#dvp_086_event_2">the Vietnam War</name> because there were so many casualties. I think by the time, you know, the newsreels and stuff—even though I was isolated in <placeName ref="#dvp_086_place_39">New Hampshire</placeName>, it was pretty obvious that we were losing a lot of people and with everybody going—but it was mostly the <orgName ref="#dvp_086_org_113">Army</orgName>, by the way, so the statistics didn’t cover the <orgName ref="#dvp_086_org_114">Air Force</orgName> particularly or the <orgName ref="#dvp_086_org_115">Navy</orgName> particularly. My father felt that I’d be safe on a boat. He just wanted me to be on a boat, and he didn’t want me to be a—well, I couldn’t be a <orgName ref="#dvp_086_org_116">Navy</orgName> flyer either unless I was an officer, and I didn’t want to be a <orgName ref="#dvp_086_org_117">Navy</orgName> officer; I wanted to be an <orgName ref="#dvp_086_org_118">Air Force</orgName> officer.</u>
+      <u who="SONNENFELD">Mm-hm. </u>
+      <u who="COX">So they—they didn’t want me to go into the military at all. In fact, they—they couldn’t—they said, “Well, how do you—how can—how can we do this?” And that’s when my father, you know, pushed and helped me get into the <orgName ref="#dvp_086_org_119">Navy Reserve</orgName>, and that’s—I don’t know if you know, but that’s where you go two years and six years to meetings.</u>
+      <u who="SONNENFELD">Mmm.</u>
+      <u who="COX">You go two years active duty. I didn’t care for that.</u>
+      <u who="SONNENFELD">Uh-huh.</u>
+      <u who="COX">I didn’t want to do that.</u>
+      <u who="SONNENFELD">So once you—once you graduated, so to speak, from <placeName ref="#dvp_086_place_40">Lackland</placeName>, what was the next step? Where was your first assignment, and did you have any idea what you would be doing?</u>
+      <u who="COX">Yeah. What—what happened was because I wasn’t a fighter pilot, they—they—they—they tell you that you can do certain things. The quota on fighter pilots was met, and they said that “you’re gonna be—you’re gonna fly transports.” And I said, “I don’t wanna fly transports.” And they said, “Well, you’re gonna be a lieutenant in the <orgName ref="#dvp_086_org_120">Air Force</orgName>. You’re”—and, by the way, when you’re a flying officer, it’s five years of duty. So they said, “Well, what do you want to do?” And they said, “Will you give us a couple of days? Because, you know, we have an idea.”So at the end of a couple of days, they came back to me. This is while I was still becoming a lieutenant. This was five weeks into officers’ training, or six weeks in. And they said, “What do you think of aircraft maintenance officer?” And I said, “I don’t—I don’t know.” He said, “Well, you’d be around all the aircraft all the time, and we can’t tell you that you’d fly or anything like that because obviously you’d be an aircraft maintenance officer. You’d have the aircraft and the crews and all that stuff.” And I said, “Good. I’ll take it.” So at seven weeks in officers’ training in Lackland—<placeName ref="#dvp_086_place_41">Lackland Air Force Base</placeName> in <placeName ref="#dvp_086_place_42">San Antonio</placeName>, I became—that—that was my direction, was as an aircraft maintenance officer.And the first thing I had to do was go to power plant school at the <placeName ref="#dvp_086_place_43">University of Illinois in Champaign-Urbana</placeName>. And we all end up there. We’re all lieutenants from all over the place. And so I was there for about six weeks, and I flew in the aero club there. I flew Cessnas and, you know, I got checked out and soloed and everything, just in the aero club and, you know, bided my time at the <placeName ref="#dvp_086_place_44">University of Illinois</placeName>.We lived in an apartment complex. There were six of us in a four-bedroom place. We had a—you know, I had a good time there, but from there you get your orders, so while you’re there in—in power plant school, they—they—they decide that you’re either going to go to <placeName ref="#dvp_086_place_45">Vietnam</placeName> or you’re going to go here or there, and they ask you where you want to go, and, of course, I wanted to go to either <placeName ref="#dvp_086_place_46">Germany</placeName> or <placeName ref="#dvp_086_place_47">San Francisco</placeName>.And so they said, “Well, you’re an aircraft maintenance officer. We have”—this was—this was probably the most interesting thing that—that they did with me. They said, “Well, we can’t tell you much about your squadron or what you’re gonna do, but we would like for you to—we’re gonna give you this information, and we want you to go to the officers’ club at—at <placeName ref="#dvp_086_place_48">Chanute Air Force Base</placeName> in <placeName ref="#dvp_086_place_49">Rantoul, Illinois</placeName>”—where I was—“and ask any flying officer captain or above about <placeName ref="#dvp_086_place_50">Yokota Air Base</placeName> in <placeName ref="#dvp_086_place_51">Japan</placeName>.” And so I asked two guys, and they said, “Oh, my God, secret, luxury tour.” So I said, “Okay, I’ll go there.”And—and that pretty much—I—I went back up to the guy and took a case of Scotch for him, and I said, “Thank you for  my orders,” and I got my orders and took off from <placeName ref="#dvp_086_place_52">McClellan Air Force Base</placeName> in <placeName ref="#dvp_086_place_53">California</placeName> and up to <placeName ref="#dvp_086_place_54">Japan</placeName>.</u>
+      <u who="SONNENFELD">All right. So—so now you’re in <placeName ref="#dvp_086_place_55">Japan</placeName>. What was that transition like? Did you know what to expect on that assignment? You had been told it was kind of a luxury assignment. What—what did the other officers mean by that?</u>
+      <u who="COX">Well, what they meant of it was that, first of all, it’s in <placeName ref="#dvp_086_place_56">Japan</placeName> so it’s out of the war zone. And you don’t know anything, though, until you get to <placeName ref="#dvp_086_place_57">Japan</placeName> and you understand what you’re going to. However, I was told a little bit more because I joined a—it was a fighter base with F-4s [McDonnell Douglas F-4 Phantom IIs]. F-4s were the—the unbelievably powerful fighter jet platform that really—if anything, if we ever won that war—we didn’t win it, but it would be the F-4s that did it.So the base was an F-4 base, but I was on the other side of the base, the other side of the runway, in a squadron called <orgName ref="#dvp_086_org_121">56th Weather Reconnaissance Squadron</orgName>. And we had nothing to do with the weather. And I realized when I got there that we were—you know, that we were clandestine and we did unusual missions. You know, you learn right away. And, of course, I’m a lieutenant, so you—you know, you move right in, and you get briefed by the lieutenant colonel that I reported to, and, you know, you—you take over the job on the flight line, and, you know, meet the guys that are fixing the planes, and—and you’re the lieutenant. [Chuckles.]</u>
+      <u who="SONNENFELD">Mm-hm. </u>
+      <u who="COX">So—And I—I got along really well with all the pilots. It was a smaller squadron. We had flag Boeing 707s, which—I don’t know if you know a 707. Do you know what I mean?</u>
+      <u who="SONNENFELD">I don’t. Do you want to give me a quick description?</u>
+      <u who="COX">The original Boeing four-engine jet transport.</u>
+      <u who="SONNENFELD">Okay. </u>
+      <u who="COX">Huge. You know, big, like the [Boeing] 747. The 707 and the 747, so it’s the little one. They’re still flown today by the military, ours and others, but not commercially. There aren’t 707s in the <placeName ref="#dvp_086_place_58">United States</placeName> anywhere. There are, around the world. Some 707s are still—Boeing doesn’t make them anymore. And we had particularly high-performance ones. And we had five of those and five high-altitude reconnaissance spy planes. So that’s what was my squadron. That’s what we did. And so—and I got along real well with the pilots because I was a flyer, and they like a maintenance guy because, you know, I keep the planes fixed.</u>
+      <u who="SONNENFELD">Did you ever get to fly, or you were kept grounded the whole time?</u>
+      <u who="COX">No. In the <orgName ref="#dvp_086_org_122">Air Force</orgName>, if you’re—if you’re not a pilot, you technically aren’t flying. But these pilots were really great with me. I could fly in the cockpit. There are two seats. The pilot’s on the left, and the copilot’s in the right, so on—on missions I could get in the right seat and just sit there. I could fly if I wanted. And I did. I couldn't take off or land. I didn’t do that.</u>
+      <u who="SONNENFELD">Mm-hm.</u>
+      <u who="COX">But I did that. I was allowed to—I got checked out in a <orgName ref="#dvp_086_org_123">Martin-Baker [Aircraft Co., Ltd.]</orgName> ejection seat so that I could fly in the back of our fighter reconnaissance, the high-altitude plane. </u>
+      <u who="SONNENFELD">Mm-hm.</u>
+      <u who="COX">And so I went up and flew in that. I had controls, but I didn’t fly it. So I was always in our planes, flying somewhere—you know, doing either a maintenance check or, you know, I’d go to <placeName ref="#dvp_086_place_59">Alaska</placeName> on a mission or I’d go to <placeName ref="#dvp_086_place_60">Hawaii</placeName>. I went two summers to <placeName ref="#dvp_086_place_61">Pago Pago</placeName> [which he pronounces Pongo Pongo] in <placeName ref="#dvp_086_place_62">American Samoa</placeName> for three—three weeks at a clip, and we—</u>
+      <u who="SONNENFELD">And—and what would you do there?</u>
+      <u who="COX">I was the aircraft maintenance officer. I was in charge. I took a bunch of guys, and one of our 707s, and [unintelligible].</u>
+      <u who="SONNENFELD">What—what would be the nature of the—of the missions?</u>
+      <u who="COX">They flew—we flew against nuclear weaponry of other countries, so when they had any test or any bomb went off, we’d fly through it, right though it.</u>
+      <u who="SONNENFELD">Ewww! And what was the purpose of that?</u>
+      <u who="COX">We—you have to find out what the particulate is, and our—we had scopes on the sides of our airplanes, and they scooped up the air, and it was analyzed by a special agency in the <orgName ref="#dvp_086_org_124">United States Air Force</orgName>, and that was frankly sent to the <orgName ref="#dvp_086_org_125">CIA [Central Intelligence Agency]</orgName> when we got back.</u>
+      <u who="SONNENFELD">And were you ever concerned about how that might be affecting your health, flying—flying through the particulates, or—or not so much at the time?</u>
+      <u who="COX">Okay. As it was, in—in our Boeing 707, if you can imagine a large transporter craft empty, completely empty except for some bunks and a couple seats, we had a couple of rows of seats or whatever, we’d fly—and the operators—they were called the operators, who—who would put the filter- —filtration screens out when we’d fly through this, and they’d sample the air. They wore special white suits, and they were completely sealed and sealed off from us. We didn’t—we didn’t interface with them. They had a double exit. And we had showers on the bird. And we—we wouldn't be exposed whatsoever. We—we didn’t think so.The aircraft would be hot. Sometimes we’d come back and we had to wait for the aircraft to be washed down before we could get off because it might be hot. You know, we were checked—</u>
+      <u who="SONNENFELD">Uh-huh. </u>
+      <u who="COX">—when we came back.</u>
+      <u who="SONNENFELD">And—and when you were—when you weren’t on missions, what was life like on the base? Can—can you talk a little bit about that?</u>
+      <u who="COX">[Chuckles.] Well, the secret---the secret luxury mission was— the tour was—for me, it was three years, and I became the maintenance—well, I took over maintenance pretty much—because of the war situation during <name type="event" ref="#dvp_086_event_3">the Vietnam War</name>, we were losing people and people—there was a lot of attrition, and so I made captain in a year and a half. And I took over the maintenance. I was the head of the maintenance squadron.But I was also the social chairman for the squadron, so we had some pretty good parties on Friday afternoons.</u>
+      <u who="SONNENFELD">Uh-huh. </u>
+      <u who="COX">And I ordered a lot of sushi, and—</u>
+      <u who="SONNENFELD">[Chuckles.]</u>
+      <u who="COX">—a lot of alcohol. And people liked to come to our parties, and people that weren’t even in our squadron, so I had to always ask the squadron commander—you know, everybody had to check in with me. [Laughs.]</u>
+      <u who="SONNENFELD">Mm-hm.</u>
+      <u who="COX">So that was fun.</u>
+      <u who="SONNENFELD">Would there be women at these parties, or all-guy events?</u>
+      <u who="COX">Well, at the time, I was married. That was my first wife. I was married, and she eventually joined me. For your first year—well, first six months, you’re unaccompanied, and then my wife came over. And so she was there, and I bought a house just off—you know, just off the base.</u>
+      <u who="SONNENFELD">Mm-hm.</u>
+      <u who="COX">You know, just a little—we called them paddy houses, but they were nicer than that. And so I would say that the wives were there, but in the military, the military’s in charge.</u>
+      <u who="SONNENFELD">Mm-hm.</u>
+      <u who="COX">It was—But everybody had a good time. Everybody was very friendly, you know. There was some promiscuity. I had nothing to do with that, though.</u>
+      <u who="SONNENFELD">Mm-hm. </u>
+      <u who="COX">And, you know, you just—you know, just some flying guys’ wives messing around. I don’t know what they were up to. But anyway. </u>
+      <u who="SONNENFELD">How about with your down—how about with your down time? What sorts of activities would you do to keep yourself busy?</u>
+      <u who="COX">Oh, I played a lot of tennis. As I remember, I played a lot of tennis, and I also had a couple of mountain motorcycles, so I would ride up in to the countryside. We were 40 miles—25 miles, 40 kilometers west of <placeName ref="#dvp_086_place_63">Tokyo</placeName>, in the mountains, at the base of <placeName ref="#dvp_086_place_64">Mount Fuji</placeName>. And the towns and everything around there were wonderful, and so I’d ride with a couple of guys. And—also, you know, we’d go into <placeName ref="#dvp_086_place_65">Tokyo</placeName>. We had a <orgName ref="#dvp_086_org_126">Joint Forces</orgName> officers’ hotel right in <placeName ref="#dvp_086_place_66">Tokyo</placeName>, opposite the <placeName ref="#dvp_086_place_67">Imperial Palace</placeName>, called the <placeName ref="#dvp_086_place_68">Sanno [Hotel]</placeName>. It was all <orgName ref="#dvp_086_org_127">Joint Forces</orgName> and a lot of flag officers, which is generals and above. You know—bird colonels and above, flag, who would stay at the <placeName ref="#dvp_086_place_69">Sanno</placeName> and come in because of—you know, the—there was a hot theater, the <placeName ref="#dvp_086_place_70">Vietnam</placeName>—that whole part of the world was very hot.</u>
+      <u who="SONNENFELD">Mm-hm.</u>
+      <u who="COX">And <placeName ref="#dvp_086_place_71">Japan</placeName> was quiet. You know, there wasn’t any war in <placeName ref="#dvp_086_place_72">Japan</placeName> whatsoever, and we were the—as you might know, <placeName ref="#dvp_086_place_73">Japan</placeName> today only has three percent of the GDP [Gross Domestic Product] for the <orgName ref="#dvp_086_org_128">military</orgName>, and when I was there, they couldn’t have any. They were very suppressed militarily. The only weapons—we were their—we were their military.</u>
+      <u who="SONNENFELD">Mm-hm. Did you interact with the Japanese much or mostly tend to interact with—with Americans?</u>
+      <u who="COX">My friends—two of my friends seemed to have other activities. They—one of them booked rock ’n’ roll acts and entertainment acts at the <placeName ref="#dvp_086_place_74">Sanno Hotel</placeName> and different places in <placeName ref="#dvp_086_place_75">Japan</placeName> because he could, I guess. He was a captain, same as me. And I—I just—I did a little bit of, I don’t know, I guess you’d call it acting. I was a—I was the candid camera man for a year on billboards and stuff like that.</u>
+      <u who="SONNENFELD">Mmm.</u>
+      <u who="COX">Because I could.</u>
+      <u who="SONNENFELD">Mm-hm. Yeah.</u>
+      <u who="COX">You know, so I’d say that’s extracurricular, and that was tolerated, I guess. Nobody told me no.</u>
+      <u who="SONNENFELD">Mm-hm.</u>
+      <u who="COX">But—and I didn’t—I didn’t particularly make any money doing that, but I liked it. You know, it was fun.</u>
+      <u who="SONNENFELD">Mm-hm. </u>
+      <u who="COX">[Chuckles.] So—</u>
+      <u who="SONNENFELD">So after your—when your service was—was winding down, what were you thinking? You were—you’re starting to get a little bit older, but were you considering returning to architecture, or what did you want to do at that point?</u>
+      <u who="COX">No. I tried to figure it out, and because I had to come back—I couldn’t stay in <placeName ref="#dvp_086_place_76">Japan</placeName>. I wanted to stay in <placeName ref="#dvp_086_place_77">Japan</placeName>. I didn’t want to come home.</u>
+      <u who="SONNENFELD">Mm-hm.</u>
+      <u who="COX">At the time, you had to muster out. I had—well not muster out, but anyway, you, you know, get out of the <orgName ref="#dvp_086_org_129">Air Force</orgName>. So I had to come back to <placeName ref="#dvp_086_place_78">Texas</placeName>, got out of the <orgName ref="#dvp_086_org_130">Air Force</orgName>, and then, you know, you’re civilian, and, you know, <orgName ref="#dvp_086_org_131">Air Force</orgName> captain, retired—you know, not retired. <orgName ref="#dvp_086_org_132">Air Force</orgName> captain, reser- —in the <orgName ref="#dvp_086_org_133">Reserves</orgName>. So I—I really wanted to make money and work, and my father’s business was thriving to a point where there was space for me to join him in <placeName ref="#dvp_086_place_79">Pittsburgh</placeName>, in <placeName ref="#dvp_086_place_80">McKeesport, Pennsylvania</placeName>, where I grew up. And so I bought a house in <placeName ref="#dvp_086_place_81">Pittsburgh</placeName> and, you know, commuted to <placeName ref="#dvp_086_place_82">McKeesport</placeName> and worked for him for six years and then—and did a lot of stuff for him.</u>
+      <u who="SONNENFELD">And—and how did you like that work, or were you—</u>
+      <u who="COX">I enjoyed it because—</u>
+      <u who="SONNENFELD">—just knew it would be sort of a short term?</u>
+      <u who="COX">I don’t—I don’t know, because I wasn’t going to do—I got to design different departments in the stores. I got to design—one new store I designed completely myself.</u>
+      <u who="SONNENFELD">Uh-huh.</u>
+      <u who="COX">And then I, you know, hired the contractors and do all that work, just because I could and did. And the other thing that I thought was—is that we would, you know, expand and do more stores, but I had a different system that I wanted to follow. I wanted to follow <persName ref="#dvp_086_person_28">[Leslie H.] “Les” Wexner</persName> of <orgName ref="#dvp_086_org_134">The Limited [Inc.</orgName>, now <orgName ref="#dvp_086_org_135">L Brands Inc.]</orgName>, whom I had met at a wedding. And I knew him enough to talk to <persName ref="#dvp_086_person_29">Les Wexner</persName>. Do you know who I mean?</u>
+      <u who="SONNENFELD">Uh-huh. </u>
+      <u who="COX">He owns <orgName ref="#dvp_086_org_136">The Limited</orgName>—you know, he founded it and he owns it. So I wanted to do smaller-footprint, you know, higher-end women’s and men’s stores side by side fashion. These were fashion stores.</u>
+      <u who="SONNENFELD">Mm-hm.</u>
+      <u who="COX">The chain grew from five to eight while I was there, five stores to eight stores, from <date when="1970">1970</date> to ’<date when="1976">76</date>. And so my father didn’t want to do it the way I wanted to do it, and we agreed to disagree, and I drove to <placeName ref="#dvp_086_place_83">California</placeName>.</u>
+      <u who="SONNENFELD">Why’d you want to go west?</u>
+      <u who="COX">When I was traveling with him because of different buying opportunities for apparel, you would go to the—<placeName ref="#dvp_086_place_84">New York City</placeName> to the—to see manufacturers and, you know, pick merchandise—your buyers would pick merchandise, and you’d distribute it to the different stores. We’d also do that in <placeName ref="#dvp_086_place_85">California</placeName>, and we also did that in <placeName ref="#dvp_086_place_86">Europe</placeName> a couple of times. But <placeName ref="#dvp_086_place_87">California</placeName> to me seemed very bright and light and refreshing, and I didn’t know that much about it. All I knew was where I’d been in <placeName ref="#dvp_086_place_88">San Francisco</placeName> on my way to <placeName ref="#dvp_086_place_89">Japan</placeName>. And so I just decided that—I thought the opportunities would be in <placeName ref="#dvp_086_place_90">California</placeName>. So I came out here without anything.</u>
+      <u who="SONNENFELD">And—Yeah. What’d you find when you—when you got to <placeName ref="#dvp_086_place_91">California</placeName>?</u>
+      <u who="COX">Well, I stopped in <placeName ref="#dvp_086_place_92">Aspen [Colorado]</placeName> for a month, and—with some friends there, and—in the summertime and then came here and pretty much got right into retail again after about three months. I called the woman who owned a group of stores called <orgName ref="#dvp_086_org_137">Judy’s</orgName>, and very, very at the time prominent, fast junior fashion chain, a lot like what today you’d think of as—let’s see, probably <orgName ref="#dvp_086_org_138">Scoop [New York City]</orgName>. Do you know <orgName ref="#dvp_086_org_139">Scoop</orgName>?</u>
+      <u who="SONNENFELD">[No response.]</u>
+      <u who="COX">You know<orgName ref="#dvp_086_org_140"> H&amp;M [Hennes &amp; Mauritz</orgName> AB]?</u>
+      <u who="SONNENFELD">Uh-huh.</u>
+      <u who="COX">Okay. But smaller. You know, smaller stores. Not <orgName ref="#dvp_086_org_141">H&amp;M</orgName> because that’s all vertical. But—but it was a multi-brander, and she had a lot of stores. She had 45 stores when I joined her. I interviewed with her, and I told her that we were in the same buying office in <placeName ref="#dvp_086_place_93">New York City</placeName> when I was with my father’s company. She said she didn’t remember me, but she wanted me to come out to her offices here in <placeName ref="#dvp_086_place_94">Van Nuys</placeName> [a neighborhood in <placeName ref="#dvp_086_place_95">Los Angeles</placeName>] at 11 o’clock that night. So I showed up, and a day and a half later, they told me they decided on me, and that was that. So I worked for her for a while. So [unintelligible].</u>
+      <u who="SONNENFELD">And did you like what you were doing with her? Was it similar to what you had been doing for your dad’s company, or—</u>
+      <u who="COX">Yeah. Oh, no question, yeah. I was a merchandise manager. It was fabulous. Yeah, it was great. I did that for one other company, and then <orgName ref="#dvp_086_org_142">Sportmart</orgName> stores—it ran an ad in <orgName ref="#dvp_086_org_143">The Wall Street Journal</orgName>, and they wanted to expand out of <placeName ref="#dvp_086_place_96">Niles, Illinois</placeName>, which is <placeName ref="#dvp_086_place_97">Chicago</placeName>, and <orgName ref="#dvp_086_org_144">Sportmart</orgName> was the—was birthed by one of the founders of <orgName ref="#dvp_086_org_145">Toys “R” Us [Inc.]</orgName>. And so I answered the ad. I went back to <placeName ref="#dvp_086_place_98">Niles, Illinois</placeName>, and I joined <orgName ref="#dvp_086_org_146">Sportmart</orgName>, and I built six stores out here. They’re about 40,000 square feet each. And—I mean, I didn’t build them; we replaced them and, you know, retrofitted the buildings and all that stuff.</u>
+      <u who="SONNENFELD">Mm-hm.</u>
+      <u who="COX">And I ran all that, and I, you know, hired the managers and—so these stores were up and running, six of those for six years. And then I got into the shopping center business, which is the love of my life, and that’s what I do now. That’s what I’ve been doing since <date when="1985">1985</date>.</u>
+      <u who="SONNENFELD">So did you—you were living in <placeName ref="#dvp_086_place_99">Chicago</placeName>? And then did you move back to <placeName ref="#dvp_086_place_100">California</placeName>, or—</u>
+      <u who="COX">Well, <placeName ref="#dvp_086_place_101">Chicago</placeName> was just for training.</u>
+      <u who="SONNENFELD">Okay.</u>
+      <u who="COX">I was back there training with <orgName ref="#dvp_086_org_147">Sportmart</orgName>. I trained for three or four months with them, and I then I came to <placeName ref="#dvp_086_place_102">California</placeName> and I ran the office out here—I ran the business out here. We opened—I opened six <orgName ref="#dvp_086_org_148">Sportmarts</orgName> here, and eventually the company—that company was sold, but I had nothing to do with that, so—</u>
+      <u who="SONNENFELD">Mm-hm. So tell me a little bit, then, about—about the—the business you went into. What did you find interesting or do find interesting about that sector?</u>
+      <u who="COX">You know, this is where life comes together for you, and I realized that intellectually I responded, without realizing, maybe, but then I thought about it, that it put together what I thought was my qualities and things that I wanted to do in life, and merchandising—when you get to merchandise a mall and I get to pick every store that goes into one of the greatest malls in the <placeName ref="#dvp_086_place_103">United States</placeName>, whether it’s great at the time or I—or I’d build it and make it great, that’s wonderful, and it’s fabulous. And, you know, you get to work with the architects of all these different companies, like <orgName ref="#dvp_086_org_149">Gucci</orgName> and <orgName ref="#dvp_086_org_150">Bottega Veneta</orgName> and <orgName ref="#dvp_086_org_151">Louis Vuitton [Malletier]</orgName> at the very top, and, you know, <orgName ref="#dvp_086_org_152">H&amp;M</orgName> and all these other companies, <orgName ref="#dvp_086_org_153">Forever 21</orgName>. And what I realized was, is that it—it had that—my merchandising and my architecture, because the buildings were fabulous, and the common areas, and I got to—I got to contribute, in the common areas—the companies I worked for pretty much put me in charge of the whole area. And I was in leasing primarily, and—but I drove what was going on and increased the sales per square foot and the revenue, and I worked really well with the managers of the centers, and—I worked first for <orgName ref="#dvp_086_org_154">May Centers [Inc.</orgName>], which is part of <orgName ref="#dvp_086_org_155">May Department Stores [Company]</orgName> at the time, which became <orgName ref="#dvp_086_org_156">Macy’s</orgName>. And—</u>
+      <u who="SONNENFELD">Mm-hm.</u>
+      <u who="COX">—they were out of <placeName ref="#dvp_086_place_104">St. Louis [Missouri]</placeName>. I did that for 10 years and then four—four years I was hired in after that—I was hired by the <orgName ref="#dvp_086_org_157">Trisacon</orgName> [spelling uncertain] Company out of <placeName ref="#dvp_086_place_105">San Diego</placeName> for four years. And they were fizzling, and <orgName ref="#dvp_086_org_158">Simon [Property Group, Inc.</orgName>], out of <placeName ref="#dvp_086_place_106">Indianapolis [Indiana]</placeName>, kept this one guy that I worked for when I was at <orgName ref="#dvp_086_org_159">May Centers</orgName>. <persName ref="#dvp_086_person_30">[James A.] “Jim” Napoli </persName>kept calling me and saying, “Rob, c’mon, c’mon, come work for us at <orgName ref="#dvp_086_org_160">Simon</orgName>, come work for us at <orgName ref="#dvp_086_org_161">Simon</orgName>. You can do what you want. You can stay in the West. You can run the West. We’ll”—you know, whatever. So I finally went with <orgName ref="#dvp_086_org_162">Simon</orgName>, and I did that for 10 years until five years ago, so—then 10 and a half years.That was—that was the love of my life.</u>
+      <u who="SONNENFELD">Was there anything—yeah. Was there anything about your time in <name type="event" ref="#dvp_086_event_4">Vietnam</name> that you think kind of equipped you for that profession, or just divergent interests?</u>
+      <u who="COX">You know, this—well it was <placeName ref="#dvp_086_place_107">Japan</placeName>, by the way. I wasn’t in <placeName ref="#dvp_086_place_108">Nam</placeName>, itself. </u>
+      <u who="SONNENFELD">Sure.</u>
+      <u who="COX">I was just in <placeName ref="#dvp_086_place_109">Japan</placeName>,—</u>
+      <u who="SONNENFELD">Yeah.</u>
+      <u who="COX">—but during the <name type="event" ref="#dvp_086_event_5">Vietnam</name> era.</u>
+      <u who="SONNENFELD">In service, I should say.</u>
+      <u who="COX">I would say that I learned—you don’t think about it, but my managerial skills—I had 175 guys that worked for me in these kind of aircraft, and I interfaced with, you know, the squadron ops and commander. And, you know, we had a serious mission every day. These planes were taking off and landing all the time, and the fighters were across the base. I think the excitement—I really—I would have missed that excitement if I hadn’t stayed active and been able to travel and do things in merchandising.And so I would think that—</u>
+      <u who="SONNENFELD">Mm-hm.</u>
+      <u who="COX">—the one thing that—that the <orgName ref="#dvp_086_org_163">military</orgName>—just because my <orgName ref="#dvp_086_org_164">military</orgName> was <orgName ref="#dvp_086_org_165">Air Force</orgName> and it involved the aircraft and the fact that I could be around them and fly little stuff while I was there and not—couldn’t fly the <orgName ref="#dvp_086_org_166">Air Force</orgName> planes. But it was so exciting. And—I mean, I—I had friends come visit me over there, friends that I grew up with. A guy called and said, “Rob, you know, it’s <persName ref="#dvp_086_person_31">Murray Lindberg</persName> [spelling uncertain]. I’m with the <orgName ref="#dvp_086_org_167">New Jersey Guard</orgName>, and I’m coming in with four F-106s [Convair F-106 Delta Darts] in the <placeName ref="#dvp_086_place_110">Yokota Air Base</placeName>. Can we get together?” And I said, “We can not only get together, but you can park them over here in my squadron.” And he said, “Oh, great.” [Chuckles.] So he’s on his way to <placeName ref="#dvp_086_place_111">Vietnam</placeName> with these F-106s, and he stayed for four days. I mean, that’s like, “You gotta be kidding me.” Where else is that going to happen?</u>
+      <u who="SONNENFELD">[Chuckles.] Yeah.</u>
+      <u who="COX">And—and I think, too, that—I think—you know, my wife—well, my wife today, but—says, you know, “Who are your friends?” And I said, “You know, guys really don’t have a lot of acquaintances. They have acquaintances and friends. But really close friends, guys have fewer than the perception of you and what you think.” But from high school, I still have one really close friend. From college, I still have two. And from the <orgName ref="#dvp_086_org_168">Air Force</orgName>, I have three. And you only take away so much when you’re pulled—I never, after <orgName ref="#dvp_086_org_169">Dartmouth</orgName>—I never came back to the <placeName ref="#dvp_086_place_112">United States</placeName> for five years, for four and a half years. I never—I never had anything to do with the <placeName ref="#dvp_086_place_113">United States</placeName>, nor could I. And so—</u>
+      <u who="SONNENFELD">Mm-hm.</u>
+      <u who="COX">—you know, you really become immersed, and I just realized how immersed you become and how much you love what you do because you just want to take advantage of where you are all the time and what you can learn and expand. Meanwhile, you know, you’re suffering because you realize that you—you can’t pursue architecture. That <orgName ref="#dvp_086_org_170">military</orgName> commitment took architecture out of my picture. And to this day, I think I miss the hell out of that. But I—I make up for it with this shopping center business, I got to tell you. And I own real estate and houses.</u>
+      <u who="SONNENFELD">Mm-hm.</u>
+      <u who="COX">I fix them up and build them, and so—you know.</u>
+      <u who="SONNENFELD">How about flying? Do you ever fly anymore, or—</u>
+      <u who="COX">[Laughs.]</u>
+      <u who="SONNENFELD">No. No more.</u>
+      <u who="COX">No, my wife won’t—won’t fly with me. She said, “No, that’s it.” And no motorcycles or no airplane. [Laughs.]</u>
+      <u who="SONNENFELD">So did you do either when you got back from <placeName ref="#dvp_086_place_114">Japan</placeName>, or you put down the keys, so to speak?</u>
+      <u who="COX">Well, when I first came to <placeName ref="#dvp_086_place_115">California</placeName>—let’s see, when I first came to <placeName ref="#dvp_086_place_116">California</placeName>, I flew a little bit with a friend of mine who was here. He had a couple of Aerostars, and he was an <orgName ref="#dvp_086_org_171">Air Force</orgName> fighter pilot. And that was it. That was the end of it. Oh, and I also flew—we flew a tail dragger, a Cessna 182 [Skylane] down to <placeName ref="#dvp_086_place_117">Mexico</placeName> a couple of times, landed on the beaches, had a couple of drinks and some nice meals and took off and flew to another beach.</u>
+      <u who="SONNENFELD">Mm-hm.</u>
+      <u who="COX">And went down to <placeName ref="#dvp_086_place_118">Cabo San Lucas [Mexico]</placeName>. That’s the last flying that—in a small craft—that I personally did, but I did fly. I did all that, so—</u>
+      <u who="SONNENFELD">Sure.</u>
+      <u who="COX">That’s okay. Yeah. You know.</u>
+      <u who="SONNENFELD">Rob, do you—do you have any—any kind of final thoughts or any other memories you’d like to share?</u>
+      <u who="COX">No. You know, it’s interesting that—you know, I know, because I didn’t serve in the <orgName ref="#dvp_086_org_172">Army</orgName> or, you know, the <orgName ref="#dvp_086_org_173">Navy</orgName> or any kind of combat, that my experience was just that it was a military experience that drew me away from my academic endeavor. However, in life you realize you can’t do anything about it. That was the only time in my life I couldn’t do anything about it. The only time. All the rest—and every time in my life, I’ve made the decision for everything I’ve done. And—and—and I’ve been excited, even though, you know, it’s intrepid sometimes. I mean, that’s—that’s—that’s my only—</u>
+      <u who="SONNENFELD">Did not—yeah. </u>
+      <u who="COZ">I always—</u>
+      <u who="SONNENFELD">Did having that sense of agency—was it something you thought about a lot, or—or more in retrospect, or—</u>
+      <u who="COX">No. I always thought about it that I was always on a path of what I thought was excellence so that I could be—you know, I didn’t pursue glory, but I pursued excellence. And, you know, I didn’t think as a fighter pilot that it wasn’t going to be glory. Whatever I did, it was—it was just going to be exciting, very, very exciting. </u>
+      <u who="SONNENFELD">Mm-hm.</u>
+      <u who="COX">And, you know, fortunately or not, you know, you are what you are, and the fact that I was an <orgName ref="#dvp_086_org_174">Air Force</orgName> officer—I have to tell you that there’s a lot to be said for the—you know, the accomplishments of the <orgName ref="#dvp_086_org_175">military</orgName>. Of course, I was around them a lot. And, by the way, I interfaced with the wounded warriors who came out of <placeName ref="#dvp_086_place_119">Vietnam</placeName>. They were in a unit—they were brought to a unit next to us in <placeName ref="#dvp_086_place_120">Japan</placeName>, where they decided where they were going to go, if they were going to make it. So special doctors and nurses and—</u>
+      <u who="SONNENFELD">Was that—was that tough to watch, or—</u>
+      <u who="COX">Yeah, very.</u>
+      <u who="SONNENFELD">—did it ever make you question what was going on in <placeName ref="#dvp_086_place_121">Vietnam</placeName>, or what—what were your thoughts coming face to face with sort of the effects of the war?</u>
+      <u who="COX">I had an insane and intense hate for <persName ref="#dvp_086_person_32">[President] Lyndon [B.] Johnson</persName> for calling the draft. He personally had to make the decision to call the full-on draft in <date when="1965-03">March of ’65</date>. I personally hated him. I thought he was an ignorant Texan. And to this day, I’m not sure what I think about him. And I was very mad—I hated <persName ref="#dvp_086_person_33">Jane Fonda</persName> for all the G.I. Jane crap that she pulled while we were over there. And, you know, to this day, I don’t think I care about—I see <persName ref="#dvp_086_person_34">Jane</persName> here, but I don’t—I don’t say anything to her.And, you know, I just don’t—I’m just proud of what I got to do. I always felt, you know, that maybe at <orgName ref="#dvp_086_org_176">Dartmouth</orgName> was the only time where I was challenged to the point of I might not make it, in my freshman year. But the rest of the time in my life, I’ve—I’ve never been over-challenged. You know, I’ve always tried to meet the challenge.That’s in retrospect. I just—I’m just glad that this shopping center business was able to put in life all of what I thought were my qualities to—to work,—</u>
+      <u who="SONNENFELD">Sure.</u>
+      <u who="COX">—to be in concert. I think it’s important to live to work instead of working to live, so—</u>
+      <u who="SONNENFELD">Yeah.</u>
+      <u who="COX">I definitely live to work, so—and I—and I love it.</u>
+      <u who="SONNENFELD">That’s great. So just—lucky, lucky that you found that. But just to revisit, you—you—you didn’t—you didn’t like <persName ref="#dvp_086_person_35">Lyndon B. Johnson</persName> for calling the draft. What—what were your thoughts of—of <persName ref="#dvp_086_person_36">[President Richard M.] Nixon</persName> and—and other political leaders while you were in <placeName ref="#dvp_086_place_122">Japan</placeName>? What was your relationship like with the decisions being called at that time?</u>
+      <u who="COX">Do you know? It’s interesting. Once you’re in—and because I knew I wasn’t in combat—and we only knew that it was either escalating or—or—or it was flat or whatever was going on in <placeName ref="#dvp_086_place_123">Vietnam</placeName>, which was to the south of us all the time right there in <placeName ref="#dvp_086_place_124">Japan</placeName>, I didn’t particularly think about it, and I just waited for my time to be up.</u>
+      <u who="SONNENFELD">Mm-hm.</u>
+      <u who="COX">I didn’t—I wasn’t marking time, by the way. I wasn’t, like, looking the calendar and crossing off the days.</u>
+      <u who="SONNENFELD">Mm-hm.</u>
+      <u who="COX">I—I loved what I did, and it was exciting. And I loved the Japanese people. They’re the most—I traveled the world pretty substantially, and they’re my favorite, so far [chuckles], people.</u>
+      <u who="SONNENFELD">Mm-hm.</u>
+      <u who="COX">I’m not sure how I feel about the Africans. I was there two years ago, so I like them too. But anyway—well, it’s interesting when you get—</u>
+      <u who="SONNENFELD">Great.</u>
+      <u who="COX">—when you—have you traveled?</u>
+      <u who="SONNENFELD">Yeah, I’ve been fortunate enough to travel quite a bit, yeah.</u>
+      <u who="COX">So what is your position?</u>
+      <u who="SONNENFELD">I was actually in Africa last year.</u>
+      <u who="COX">Where?</u>
+      <u who="SONNENFELD">I’m an undergraduate student at <orgName ref="#dvp_086_org_177">Dartmouth</orgName>. Where was I in Africa? I was in <placeName ref="#dvp_086_place_125">Ghana</placeName>.</u>
+      <u who="COX">Oh, okay. </u>
+      <u who="SONNENFELD">Yeah.</u>
+      <u who="COX">So I was in <placeName ref="#dvp_086_place_126">Kenya</placeName> and <placeName ref="#dvp_086_place_127">Tanzania</placeName>, so I know <placeName ref="#dvp_086_place_128">Ghana</placeName>. I know where that is. What were you doing?</u>
+      <u who="SONNENFELD">I was actually interning for an adventure travel company.</u>
+      <u who="COX">[Laughs.] That’s great! What’s their name?</u>
+      <u who="SONNENFELD">Yeah. </u>
+      <u who="COX">What’s their name?</u>
+      <u who="SONNENFELD"><orgName ref="#dvp_086_org_178">BraveHearts Expeditions</orgName>, <orgName ref="#dvp_086_org_179">BraveHearts Expeditions</orgName>. </u>
+      <u who="COX">What a cool name.</u>
+      <u who="SONNENFELD">It’s a Ghanaian company, actually.</u>
+      <u who="COX">That’s my favorite movie, Braveheart. [Both chuckle.]</u>
+      <u who="SONNENFELD">Great. Well, all right, <persName ref="#dvp_086_person_37">Rob</persName>, I don’t—I don’t want to—us to get too derailed, but unless you have any last thoughts, I want to thank you for your time and for—for—for volunteering to—to—to do this interview at the <orgName ref="#dvp_086_org_180">Dartmouth Vietnam Project</orgName>. We really appreciate it.</u>
+      <u who="COX">Well, I hope it’s ingredient [sic], and, you know, I don’t know what the outcome is, but it was interesting when I was there. Do you know that at my 50th—were you around for that? What year are you?</u>
+      <u who="SONNENFELD">I’m a ’17, so I’m a junior.</u>
+      <u who="COX">Okay. So last year—</u>
+      <u who="SONNENFELD">Uh-huh. Undergrad.</u>
+      <u who="COX">Last June, <date when="2016-06-15">June 15th</date>, was my <name type="event" ref="#dvp_086_event_6">50th</name>.</u>
+      <u who="SONNENFELD">Mm-hm.</u>
+      <u who="COX">Were you around?</u>
+      <u who="SONNENFELD">Yeah, I would have been around.</u>
+      <u who="COX">Okay, for graduation.</u>
+      <u who="SONNENFELD">Mm-hm. Yeah.</u>
+      <u who="COX">So one of the sessions—you know, of the 680 or 700 of us that went to <orgName ref="#dvp_086_org_181">Dartmouth</orgName> in <date when="1961">1961</date>, you know, 600-and-some, 800, 680 of us graduated. But—so about 220 of us showed up for our <name type="event" ref="#dvp_086_event_7">50th reunion</name>, and they had breakout sessions. Did you hear about that?</u>
+      <u who="SONNENFELD">[No audible response.]</u>
+      <u who="COX">I guess this is driven from [unintelligible].</u>
+      <u who="SONNENFELD">Yeah. Mm-hm. </u>
+      <u who="COX">That was amazing. It was standing room only.</u>
+      <u who="SONNENFELD">Yeah.</u>
+      <u who="COX">It was very emotional.</u>
+      <u who="SONNENFELD">Wow.</u>
+      <u who="COX">I thought that was so wonderful for <orgName ref="#dvp_086_org_182">Dartmouth</orgName> to do that. And I guess this is a, yeah, part of that. Yeah.</u>
+      <u who="SONNENFELD">Yeah. Well, thank you again so much, <persName ref="#dvp_086_person_38">Mr. Cox</persName>. I’m going to—to stop the recording now.</u>
+      <u who="COX">Okay. [End of interview.]</u>
+    </body>
+  </text>
+  <standOff>
+    <listPlace>
+      <place xml:id="dvp_086_place_0">
+        <placeName>Rauner Special Collections Library</placeName>
+        <location>
+          <geo>43.70447 -72.28817</geo>
+        </location>
+        <idno type="WD">Q98544730</idno>
+      </place>
+      <place xml:id="dvp_086_place_1">
+        <placeName>California</placeName>
+        <location>
+          <geo>37 -120</geo>
+        </location>
+        <idno type="WD">Q99</idno>
+      </place>
+      <place xml:id="dvp_086_place_2">
+        <placeName>Pittsburgh</placeName>
+        <location>
+          <geo>40.44166666666667 -80</geo>
+        </location>
+        <idno type="WD">Q1342</idno>
+      </place>
+      <place xml:id="dvp_086_place_3">
+        <placeName>Pittsburgh</placeName>
+        <location>
+          <geo>40.44166666666667 -80</geo>
+        </location>
+        <idno type="WD">Q1342</idno>
+      </place>
+      <place xml:id="dvp_086_place_4">
+        <placeName>[University of] Wisconsin</placeName>
+        <location>
+          <geo>43.075278 -89.409722</geo>
+        </location>
+        <idno type="WD">Q838330</idno>
+      </place>
+      <place xml:id="dvp_086_place_5">
+        <placeName>Pittsburgh</placeName>
+        <location>
+          <geo>40.44166666666667 -80</geo>
+        </location>
+        <idno type="WD">Q1342</idno>
+      </place>
+      <place xml:id="dvp_086_place_6">
+        <placeName>Israel</placeName>
+        <location>
+          <geo>31 35</geo>
+        </location>
+        <idno type="WD">Q801</idno>
+      </place>
+      <place xml:id="dvp_086_place_7">
+        <placeName>Poland</placeName>
+        <location>
+          <geo>52 19</geo>
+        </location>
+        <idno type="WD">Q36</idno>
+      </place>
+      <place xml:id="dvp_086_place_8">
+        <placeName>Czechoslovakia</placeName>
+        <location>
+          <geo>50.083333333333 14.416666666667</geo>
+        </location>
+        <idno type="WD">Q33946</idno>
+      </place>
+      <place xml:id="dvp_086_place_9">
+        <placeName>Germany</placeName>
+        <location>
+          <geo>51 10</geo>
+        </location>
+        <idno type="WD">Q183</idno>
+      </place>
+      <place xml:id="dvp_086_place_10">
+        <placeName>United States of America</placeName>
+        <location>
+          <geo>39.828175 -98.5795</geo>
+        </location>
+        <idno type="WD">Q30</idno>
+      </place>
+      <place xml:id="dvp_086_place_11">
+        <placeName>Canada</placeName>
+        <location>
+          <geo>56 -109</geo>
+        </location>
+        <idno type="WD">Q16</idno>
+      </place>
+      <place xml:id="dvp_086_place_12">
+        <placeName>Roaring Run Resort</placeName>
+        <location>
+          <geo>40.06713925902571  -79.3458188</geo>
+        </location>
+        <idno type="WD">Q16984159</idno>
+      </place>
+      <place xml:id="dvp_086_place_13">
+        <placeName>Pennsylvania</placeName>
+        <location>
+          <geo>41 -77.5</geo>
+        </location>
+        <idno type="WD">Q1400</idno>
+      </place>
+      <place xml:id="dvp_086_place_14">
+        <placeName>Germany</placeName>
+        <location>
+          <geo>51 10</geo>
+        </location>
+        <idno type="WD">Q183</idno>
+      </place>
+      <place xml:id="dvp_086_place_15">
+        <placeName>Mercersburg Academy</placeName>
+        <location>
+          <geo>39.826111 -77.898333</geo>
+        </location>
+        <idno type="WD">Q6818330</idno>
+      </place>
+      <place xml:id="dvp_086_place_16">
+        <placeName>Pittsburgh</placeName>
+        <location>
+          <geo>40.44166666666667 -80</geo>
+        </location>
+        <idno type="WD">Q1342</idno>
+      </place>
+      <place xml:id="dvp_086_place_17">
+        <placeName>Pennsylvania</placeName>
+        <location>
+          <geo>41 -77.5</geo>
+        </location>
+        <idno type="WD">Q1400</idno>
+      </place>
+      <place xml:id="dvp_086_place_18">
+        <placeName>New Hampshire</placeName>
+        <location>
+          <geo>44 -71.5</geo>
+        </location>
+        <idno type="WD">Q759</idno>
+      </place>
+      <place xml:id="dvp_086_place_19">
+        <placeName>South Mass[achusetts Hall</placeName>
+        <location>
+          <geo>43.70379 -72.29041</geo>
+        </location>
+        <idno type="WD">Q100997539</idno>
+      </place>
+      <place xml:id="dvp_086_place_20">
+        <placeName>South Mass</placeName>
+        <location>
+          <geo>43.70379 -72.29041</geo>
+        </location>
+        <idno type="WD">Q100997539</idno>
+      </place>
+      <place xml:id="dvp_086_place_21">
+        <placeName>Class of 1953 Commons</placeName>
+        <location>
+          <geo>43.70309 -72.29092</geo>
+        </location>
+        <idno type="WD">Q98636574</idno>
+      </place>
+      <place xml:id="dvp_086_place_22">
+        <placeName>Class of 1953 Commons</placeName>
+        <location>
+          <geo>43.70309 -72.29092</geo>
+        </location>
+        <idno type="WD">Q98636574</idno>
+      </place>
+      <place xml:id="dvp_086_place_23">
+        <placeName>Woodstock</placeName>
+        <location>
+          <geo>42.042778 -74.1175</geo>
+        </location>
+        <idno type="WD">Q608293</idno>
+      </place>
+      <place xml:id="dvp_086_place_24">
+        <placeName>Baker Memorial Library</placeName>
+        <location>
+          <geo>43.705 -72.289166666667</geo>
+        </location>
+        <idno type="WD">Q4849183</idno>
+      </place>
+      <place xml:id="dvp_086_place_25">
+        <placeName>Hanover</placeName>
+        <location>
+          <geo>43.7 -72.28333333333333</geo>
+        </location>
+        <idno type="WD">Q131908</idno>
+      </place>
+      <place xml:id="dvp_086_place_26">
+        <placeName>Lebanon</placeName>
+        <location>
+          <geo>43.6422 -72.2517</geo>
+        </location>
+        <idno type="WD">Q993523</idno>
+      </place>
+      <place xml:id="dvp_086_place_27">
+        <placeName>York</placeName>
+        <location>
+          <geo>39.9628 -76.7281</geo>
+        </location>
+        <idno type="WD">Q821105</idno>
+      </place>
+      <place xml:id="dvp_086_place_28">
+        <placeName>Canada</placeName>
+        <location>
+          <geo>56 -109</geo>
+        </location>
+        <idno type="WD">Q16</idno>
+      </place>
+      <place xml:id="dvp_086_place_29">
+        <placeName>New Hampshire</placeName>
+        <location>
+          <geo>44 -71.5</geo>
+        </location>
+        <idno type="WD">Q759</idno>
+      </place>
+      <place xml:id="dvp_086_place_30">
+        <placeName>Vermont</placeName>
+        <location>
+          <geo>44 -72.7</geo>
+        </location>
+        <idno type="WD">Q16551</idno>
+      </place>
+      <place xml:id="dvp_086_place_31">
+        <placeName>Pittsburgh</placeName>
+        <location>
+          <geo>40.44166666666667 -80</geo>
+        </location>
+        <idno type="WD">Q1342</idno>
+      </place>
+      <place xml:id="dvp_086_place_32">
+        <placeName>Kent State University</placeName>
+        <location>
+          <geo>41.146944  -81.343333</geo>
+        </location>
+        <idno type="WD">Q1473615</idno>
+      </place>
+      <place xml:id="dvp_086_place_33">
+        <placeName>Lackland Air Force Base</placeName>
+        <location>
+          <geo>29.384166666667 -98.581111111111</geo>
+        </location>
+        <idno type="WD">Q1416857</idno>
+      </place>
+      <place xml:id="dvp_086_place_34">
+        <placeName>Texas</placeName>
+        <location>
+          <geo>31 -100</geo>
+        </location>
+        <idno type="WD">Q1439</idno>
+      </place>
+      <place xml:id="dvp_086_place_35">
+        <placeName>Kent State University</placeName>
+        <location>
+          <geo>41.146944  -81.343333</geo>
+        </location>
+        <idno type="WD">Q1473615</idno>
+      </place>
+      <place xml:id="dvp_086_place_36">
+        <placeName>Pittsburgh</placeName>
+        <location>
+          <geo>40.44166666666667 -80</geo>
+        </location>
+        <idno type="WD">Q1342</idno>
+      </place>
+      <place xml:id="dvp_086_place_37">
+        <placeName>Japan</placeName>
+        <location>
+          <geo>35 136</geo>
+        </location>
+        <idno type="WD">Q17</idno>
+      </place>
+      <place xml:id="dvp_086_place_38">
+        <placeName>Lackland Air Force Base</placeName>
+        <location>
+          <geo>29.384166666667 -98.581111111111</geo>
+        </location>
+        <idno type="WD">Q1416857</idno>
+      </place>
+      <place xml:id="dvp_086_place_39">
+        <placeName>New Hampshire</placeName>
+        <location>
+          <geo>44 -71.5</geo>
+        </location>
+        <idno type="WD">Q759</idno>
+      </place>
+      <place xml:id="dvp_086_place_40">
+        <placeName>Lackland Air Force Base</placeName>
+        <location>
+          <geo>29.384166666667 -98.581111111111</geo>
+        </location>
+        <idno type="WD">Q1416857</idno>
+      </place>
+      <place xml:id="dvp_086_place_41">
+        <placeName>Lackland Air Force Base</placeName>
+        <location>
+          <geo>29.384166666667 -98.581111111111</geo>
+        </location>
+        <idno type="WD">Q1416857</idno>
+      </place>
+      <place xml:id="dvp_086_place_42">
+        <placeName>San Antonio</placeName>
+        <location>
+          <geo>29.425 -98.49388888888889</geo>
+        </location>
+        <idno type="WD">Q975</idno>
+      </place>
+      <place xml:id="dvp_086_place_43">
+        <placeName>University of Illinois at Urbana–Champaign</placeName>
+        <location>
+          <geo>40.110538888889 -88.228411111111</geo>
+        </location>
+        <idno type="WD">Q457281</idno>
+      </place>
+      <place xml:id="dvp_086_place_44">
+        <placeName>University of Illinois at Urbana–Champaign</placeName>
+        <location>
+          <geo>40.110538888889 -88.228411111111</geo>
+        </location>
+        <idno type="WD">Q457281</idno>
+      </place>
+      <place xml:id="dvp_086_place_45">
+        <placeName>Vietnam</placeName>
+        <location>
+          <geo>16 108</geo>
+        </location>
+        <idno type="WD">Q881</idno>
+      </place>
+      <place xml:id="dvp_086_place_46">
+        <placeName>Germany</placeName>
+        <location>
+          <geo>51 10</geo>
+        </location>
+        <idno type="WD">Q183</idno>
+      </place>
+      <place xml:id="dvp_086_place_47">
+        <placeName>San Francisco</placeName>
+        <location>
+          <geo>37.7775 -122.41638888888889</geo>
+        </location>
+        <idno type="WD">Q62</idno>
+      </place>
+      <place xml:id="dvp_086_place_48">
+        <placeName>Chanute Air Force Base</placeName>
+        <location>
+          <geo>40.2944 -88.1431</geo>
+        </location>
+        <idno type="WD">Q5072704</idno>
+      </place>
+      <place xml:id="dvp_086_place_49">
+        <placeName>Rantoul</placeName>
+        <location>
+          <geo>40.304722222222 -88.151944444444</geo>
+        </location>
+        <idno type="WD">Q1025637</idno>
+      </place>
+      <place xml:id="dvp_086_place_50">
+        <placeName>Yokota Air Base</placeName>
+        <location>
+          <geo>35.748611111111 139.34861111111</geo>
+        </location>
+        <idno type="WD">Q1806489</idno>
+      </place>
+      <place xml:id="dvp_086_place_51">
+        <placeName>Japan</placeName>
+        <location>
+          <geo>35 136</geo>
+        </location>
+        <idno type="WD">Q17</idno>
+      </place>
+      <place xml:id="dvp_086_place_52">
+        <placeName>McClellan Air Force Base</placeName>
+        <location>
+          <geo>38.667777777778 -121.40055555556</geo>
+        </location>
+        <idno type="WD">Q6800306</idno>
+      </place>
+      <place xml:id="dvp_086_place_53">
+        <placeName>California</placeName>
+        <location>
+          <geo>37 -120</geo>
+        </location>
+        <idno type="WD">Q99</idno>
+      </place>
+      <place xml:id="dvp_086_place_54">
+        <placeName>Japan</placeName>
+        <location>
+          <geo>35 136</geo>
+        </location>
+        <idno type="WD">Q17</idno>
+      </place>
+      <place xml:id="dvp_086_place_55">
+        <placeName>Japan</placeName>
+        <location>
+          <geo>35 136</geo>
+        </location>
+        <idno type="WD">Q17</idno>
+      </place>
+      <place xml:id="dvp_086_place_56">
+        <placeName>Japan</placeName>
+        <location>
+          <geo>35 136</geo>
+        </location>
+        <idno type="WD">Q17</idno>
+      </place>
+      <place xml:id="dvp_086_place_57">
+        <placeName>Japan</placeName>
+        <location>
+          <geo>35 136</geo>
+        </location>
+        <idno type="WD">Q17</idno>
+      </place>
+      <place xml:id="dvp_086_place_58">
+        <placeName>United States of America</placeName>
+        <location>
+          <geo>39.828175 -98.5795</geo>
+        </location>
+        <idno type="WD">Q30</idno>
+      </place>
+      <place xml:id="dvp_086_place_59">
+        <placeName>Alaska</placeName>
+        <location>
+          <geo>64 -150</geo>
+        </location>
+        <idno type="WD">Q797</idno>
+      </place>
+      <place xml:id="dvp_086_place_60">
+        <placeName>Hawaii</placeName>
+        <location>
+          <geo>21.3075 -157.8575</geo>
+        </location>
+        <idno type="WD">Q782</idno>
+      </place>
+      <place xml:id="dvp_086_place_61">
+        <placeName>Pago Pago</placeName>
+        <location>
+          <geo>-14.279444444444445 -170.70055555555555</geo>
+        </location>
+        <idno type="WD">Q51678</idno>
+      </place>
+      <place xml:id="dvp_086_place_62">
+        <placeName>American Samoa</placeName>
+        <location>
+          <geo>-14.295833 -170.7075</geo>
+        </location>
+        <idno type="WD">Q16641</idno>
+      </place>
+      <place xml:id="dvp_086_place_63">
+        <placeName>Tokyo</placeName>
+        <location>
+          <geo>35.689722222222 139.69222222222</geo>
+        </location>
+        <idno type="WD">Q1490</idno>
+      </place>
+      <place xml:id="dvp_086_place_64">
+        <placeName>Mount Fuji</placeName>
+        <location>
+          <geo>35.3625 138.73055555556</geo>
+        </location>
+        <idno type="WD">Q39231</idno>
+      </place>
+      <place xml:id="dvp_086_place_65">
+        <placeName>Tokyo</placeName>
+        <location>
+          <geo>35.689722222222 139.69222222222</geo>
+        </location>
+        <idno type="WD">Q1490</idno>
+      </place>
+      <place xml:id="dvp_086_place_66">
+        <placeName>Tokyo</placeName>
+        <location>
+          <geo>35.689722222222 139.69222222222</geo>
+        </location>
+        <idno type="WD">Q1490</idno>
+      </place>
+      <place xml:id="dvp_086_place_67">
+        <placeName>Tokyo Imperial Palace</placeName>
+        <location>
+          <geo>35.6825 139.7521</geo>
+        </location>
+        <idno type="WD">Q500681</idno>
+      </place>
+      <place xml:id="dvp_086_place_68">
+        <placeName>Sanno Hotel</placeName>
+        <location>
+          <geo>35.673139 139.740667</geo>
+        </location>
+        <idno type="WD">Q11470034</idno>
+      </place>
+      <place xml:id="dvp_086_place_69">
+        <placeName>Sanno Hotel</placeName>
+        <location>
+          <geo>35.673139 139.740667</geo>
+        </location>
+        <idno type="WD">Q11470034</idno>
+      </place>
+      <place xml:id="dvp_086_place_70">
+        <placeName>Vietnam</placeName>
+        <location>
+          <geo>16 108</geo>
+        </location>
+        <idno type="WD">Q881</idno>
+      </place>
+      <place xml:id="dvp_086_place_71">
+        <placeName>Japan</placeName>
+        <location>
+          <geo>35 136</geo>
+        </location>
+        <idno type="WD">Q17</idno>
+      </place>
+      <place xml:id="dvp_086_place_72">
+        <placeName>Japan</placeName>
+        <location>
+          <geo>35 136</geo>
+        </location>
+        <idno type="WD">Q17</idno>
+      </place>
+      <place xml:id="dvp_086_place_73">
+        <placeName>Japan</placeName>
+        <location>
+          <geo>35 136</geo>
+        </location>
+        <idno type="WD">Q17</idno>
+      </place>
+      <place xml:id="dvp_086_place_74">
+        <placeName>Sanno Hotel</placeName>
+        <location>
+          <geo>35.673139 139.740667</geo>
+        </location>
+        <idno type="WD">Q11470034</idno>
+      </place>
+      <place xml:id="dvp_086_place_75">
+        <placeName>Japan</placeName>
+        <location>
+          <geo>35 136</geo>
+        </location>
+        <idno type="WD">Q17</idno>
+      </place>
+      <place xml:id="dvp_086_place_76">
+        <placeName>Japan</placeName>
+        <location>
+          <geo>35 136</geo>
+        </location>
+        <idno type="WD">Q17</idno>
+      </place>
+      <place xml:id="dvp_086_place_77">
+        <placeName>Japan</placeName>
+        <location>
+          <geo>35 136</geo>
+        </location>
+        <idno type="WD">Q17</idno>
+      </place>
+      <place xml:id="dvp_086_place_78">
+        <placeName>Texas</placeName>
+        <location>
+          <geo>31 -100</geo>
+        </location>
+        <idno type="WD">Q1439</idno>
+      </place>
+      <place xml:id="dvp_086_place_79">
+        <placeName>Pittsburgh</placeName>
+        <location>
+          <geo>40.44166666666667 -80</geo>
+        </location>
+        <idno type="WD">Q1342</idno>
+      </place>
+      <place xml:id="dvp_086_place_80">
+        <placeName>McKeesport</placeName>
+        <location>
+          <geo>40.341877777778 -79.845005555556</geo>
+        </location>
+        <idno type="WD">Q949739</idno>
+      </place>
+      <place xml:id="dvp_086_place_81">
+        <placeName>Pittsburgh</placeName>
+        <location>
+          <geo>40.44166666666667 -80</geo>
+        </location>
+        <idno type="WD">Q1342</idno>
+      </place>
+      <place xml:id="dvp_086_place_82">
+        <placeName>McKeesport</placeName>
+        <location>
+          <geo>40.341877777778 -79.845005555556</geo>
+        </location>
+        <idno type="WD">Q949739</idno>
+      </place>
+      <place xml:id="dvp_086_place_83">
+        <placeName>California</placeName>
+        <location>
+          <geo>37 -120</geo>
+        </location>
+        <idno type="WD">Q99</idno>
+      </place>
+      <place xml:id="dvp_086_place_84">
+        <placeName>New York City</placeName>
+        <location>
+          <geo>40.712728 -74.006015</geo>
+        </location>
+        <idno type="WD">Q60</idno>
+      </place>
+      <place xml:id="dvp_086_place_85">
+        <placeName>California</placeName>
+        <location>
+          <geo>37 -120</geo>
+        </location>
+        <idno type="WD">Q99</idno>
+      </place>
+      <place xml:id="dvp_086_place_86">
+        <placeName>Europe</placeName>
+      </place>
+      <place xml:id="dvp_086_place_87">
+        <placeName>California</placeName>
+        <location>
+          <geo>37 -120</geo>
+        </location>
+        <idno type="WD">Q99</idno>
+      </place>
+      <place xml:id="dvp_086_place_88">
+        <placeName>San Francisco</placeName>
+        <location>
+          <geo>37.7775 -122.41638888888889</geo>
+        </location>
+        <idno type="WD">Q62</idno>
+      </place>
+      <place xml:id="dvp_086_place_89">
+        <placeName>Japan</placeName>
+        <location>
+          <geo>35 136</geo>
+        </location>
+        <idno type="WD">Q17</idno>
+      </place>
+      <place xml:id="dvp_086_place_90">
+        <placeName>California</placeName>
+        <location>
+          <geo>37 -120</geo>
+        </location>
+        <idno type="WD">Q99</idno>
+      </place>
+      <place xml:id="dvp_086_place_91">
+        <placeName>California</placeName>
+        <location>
+          <geo>37 -120</geo>
+        </location>
+        <idno type="WD">Q99</idno>
+      </place>
+      <place xml:id="dvp_086_place_92">
+        <placeName>Aspen</placeName>
+        <location>
+          <geo>39.192222222222 -106.82444444444</geo>
+        </location>
+        <idno type="WD">Q205842</idno>
+      </place>
+      <place xml:id="dvp_086_place_93">
+        <placeName>New York City</placeName>
+        <location>
+          <geo>40.712728 -74.006015</geo>
+        </location>
+        <idno type="WD">Q60</idno>
+      </place>
+      <place xml:id="dvp_086_place_94">
+        <placeName>Van Nuys</placeName>
+        <location>
+          <geo>34.1833 -118.4333</geo>
+        </location>
+        <idno type="WD">Q769446</idno>
+      </place>
+      <place xml:id="dvp_086_place_95">
+        <placeName>Los Angeles</placeName>
+        <location>
+          <geo>34.05223 -118.24368</geo>
+        </location>
+        <idno type="WD">Q65</idno>
+      </place>
+      <place xml:id="dvp_086_place_96">
+        <placeName>Niles</placeName>
+        <location>
+          <geo>42.0278 -87.81</geo>
+        </location>
+        <idno type="WD">Q601166</idno>
+      </place>
+      <place xml:id="dvp_086_place_97">
+        <placeName>Chicago</placeName>
+        <location>
+          <geo>41.881944444444 -87.627777777778</geo>
+        </location>
+        <idno type="WD">Q1297</idno>
+      </place>
+      <place xml:id="dvp_086_place_98">
+        <placeName>Niles</placeName>
+        <location>
+          <geo>42.0278 -87.81</geo>
+        </location>
+        <idno type="WD">Q601166</idno>
+      </place>
+      <place xml:id="dvp_086_place_99">
+        <placeName>Chicago</placeName>
+        <location>
+          <geo>41.881944444444 -87.627777777778</geo>
+        </location>
+        <idno type="WD">Q1297</idno>
+      </place>
+      <place xml:id="dvp_086_place_100">
+        <placeName>California</placeName>
+        <location>
+          <geo>37 -120</geo>
+        </location>
+        <idno type="WD">Q99</idno>
+      </place>
+      <place xml:id="dvp_086_place_101">
+        <placeName>Chicago</placeName>
+        <location>
+          <geo>41.881944444444 -87.627777777778</geo>
+        </location>
+        <idno type="WD">Q1297</idno>
+      </place>
+      <place xml:id="dvp_086_place_102">
+        <placeName>California</placeName>
+        <location>
+          <geo>37 -120</geo>
+        </location>
+        <idno type="WD">Q99</idno>
+      </place>
+      <place xml:id="dvp_086_place_103">
+        <placeName>United States of America</placeName>
+        <location>
+          <geo>39.828175 -98.5795</geo>
+        </location>
+        <idno type="WD">Q30</idno>
+      </place>
+      <place xml:id="dvp_086_place_104">
+        <placeName>St. Louis</placeName>
+        <location>
+          <geo>38.616666666667 -90.2</geo>
+        </location>
+        <idno type="WD">Q38022</idno>
+      </place>
+      <place xml:id="dvp_086_place_105">
+        <placeName>San Diego</placeName>
+        <location>
+          <geo>32.715 -117.1625</geo>
+        </location>
+        <idno type="WD">Q16552</idno>
+      </place>
+      <place xml:id="dvp_086_place_106">
+        <placeName>Indianapolis</placeName>
+        <location>
+          <geo>39.768611111111 -86.158055555556</geo>
+        </location>
+        <idno type="WD">Q6346</idno>
+      </place>
+      <place xml:id="dvp_086_place_107">
+        <placeName>Japan</placeName>
+        <location>
+          <geo>35 136</geo>
+        </location>
+        <idno type="WD">Q17</idno>
+      </place>
+      <place xml:id="dvp_086_place_108">
+        <placeName>Vietnam</placeName>
+        <location>
+          <geo>16 108</geo>
+        </location>
+        <idno type="WD">Q881</idno>
+      </place>
+      <place xml:id="dvp_086_place_109">
+        <placeName>Japan</placeName>
+        <location>
+          <geo>35 136</geo>
+        </location>
+        <idno type="WD">Q17</idno>
+      </place>
+      <place xml:id="dvp_086_place_110">
+        <placeName>Yokota Air Base</placeName>
+        <location>
+          <geo>35.748611111111 139.34861111111</geo>
+        </location>
+        <idno type="WD">Q1806489</idno>
+      </place>
+      <place xml:id="dvp_086_place_111">
+        <placeName>Vietnam</placeName>
+        <location>
+          <geo>16 108</geo>
+        </location>
+        <idno type="WD">Q881</idno>
+      </place>
+      <place xml:id="dvp_086_place_112">
+        <placeName>United States of America</placeName>
+        <location>
+          <geo>39.828175 -98.5795</geo>
+        </location>
+        <idno type="WD">Q30</idno>
+      </place>
+      <place xml:id="dvp_086_place_113">
+        <placeName>United States of America</placeName>
+        <location>
+          <geo>39.828175 -98.5795</geo>
+        </location>
+        <idno type="WD">Q30</idno>
+      </place>
+      <place xml:id="dvp_086_place_114">
+        <placeName>Japan</placeName>
+        <location>
+          <geo>35 136</geo>
+        </location>
+        <idno type="WD">Q17</idno>
+      </place>
+      <place xml:id="dvp_086_place_115">
+        <placeName>California</placeName>
+        <location>
+          <geo>37 -120</geo>
+        </location>
+        <idno type="WD">Q99</idno>
+      </place>
+      <place xml:id="dvp_086_place_116">
+        <placeName>California</placeName>
+        <location>
+          <geo>37 -120</geo>
+        </location>
+        <idno type="WD">Q99</idno>
+      </place>
+      <place xml:id="dvp_086_place_117">
+        <placeName>Mexico</placeName>
+        <location>
+          <geo>23 -102</geo>
+        </location>
+        <idno type="WD">Q96</idno>
+      </place>
+      <place xml:id="dvp_086_place_118">
+        <placeName>Cabo San Lucas</placeName>
+        <location>
+          <geo>22.889722222222 -109.91555555556</geo>
+        </location>
+        <idno type="WD">Q1020776</idno>
+      </place>
+      <place xml:id="dvp_086_place_119">
+        <placeName>Vietnam</placeName>
+        <location>
+          <geo>16 108</geo>
+        </location>
+        <idno type="WD">Q881</idno>
+      </place>
+      <place xml:id="dvp_086_place_120">
+        <placeName>Japan</placeName>
+        <location>
+          <geo>35 136</geo>
+        </location>
+        <idno type="WD">Q17</idno>
+      </place>
+      <place xml:id="dvp_086_place_121">
+        <placeName>Vietnam</placeName>
+        <location>
+          <geo>16 108</geo>
+        </location>
+        <idno type="WD">Q881</idno>
+      </place>
+      <place xml:id="dvp_086_place_122">
+        <placeName>Japan</placeName>
+        <location>
+          <geo>35 136</geo>
+        </location>
+        <idno type="WD">Q17</idno>
+      </place>
+      <place xml:id="dvp_086_place_123">
+        <placeName>Vietnam</placeName>
+        <location>
+          <geo>16 108</geo>
+        </location>
+        <idno type="WD">Q881</idno>
+      </place>
+      <place xml:id="dvp_086_place_124">
+        <placeName>Japan</placeName>
+        <location>
+          <geo>35 136</geo>
+        </location>
+        <idno type="WD">Q17</idno>
+      </place>
+      <place xml:id="dvp_086_place_125">
+        <placeName>Ghana</placeName>
+        <location>
+          <geo>8 -0.5</geo>
+        </location>
+        <idno type="WD">Q117</idno>
+      </place>
+      <place xml:id="dvp_086_place_126">
+        <placeName>Kenya</placeName>
+        <location>
+          <geo>0.1 38</geo>
+        </location>
+        <idno type="WD">Q114</idno>
+      </place>
+      <place xml:id="dvp_086_place_127">
+        <placeName>Tanzania</placeName>
+        <location>
+          <geo>-6.307 34.854</geo>
+        </location>
+        <idno type="WD">Q924</idno>
+      </place>
+      <place xml:id="dvp_086_place_128">
+        <placeName>Ghana</placeName>
+        <location>
+          <geo>8 -0.5</geo>
+        </location>
+        <idno type="WD">Q117</idno>
+      </place>
+    </listPlace>
+    <listEvent>
+      <event xml:id="dvp_086_event_0">
+        <desc>50th [reunion]</desc>
+      </event>
+      <event xml:id="dvp_086_event_1" from-iso="1959-01-01T00:00:00Z" to-iso="1975-04-30T00:00:00Z">
+        <desc>Vietnam War</desc>
+        <idno type="WD">Q8740</idno>
+      </event>
+      <event xml:id="dvp_086_event_2" from-iso="1959-01-01T00:00:00Z" to-iso="1975-04-30T00:00:00Z">
+        <desc>Vietnam War</desc>
+        <idno type="WD">Q8740</idno>
+      </event>
+      <event xml:id="dvp_086_event_3" from-iso="1959-01-01T00:00:00Z" to-iso="1975-04-30T00:00:00Z">
+        <desc>Vietnam War</desc>
+        <idno type="WD">Q8740</idno>
+      </event>
+      <event xml:id="dvp_086_event_4" from-iso="1959-01-01T00:00:00Z" to-iso="1975-04-30T00:00:00Z">
+        <desc>Vietnam War</desc>
+        <idno type="WD">Q8740</idno>
+      </event>
+      <event xml:id="dvp_086_event_5" from-iso="1959-01-01T00:00:00Z" to-iso="1975-04-30T00:00:00Z">
+        <desc>Vietnam War</desc>
+        <idno type="WD">Q8740</idno>
+      </event>
+      <event xml:id="dvp_086_event_6">
+        <desc>50th</desc>
+      </event>
+      <event xml:id="dvp_086_event_7">
+        <desc>50th reunion</desc>
+      </event>
+    </listEvent>
+    <listPerson>
+      <person xml:id="dvp_086_person_0">
+        <persName>Alexa Sonnenfeld</persName>
+        <idno type="project">dvp_0824</idno>
+      </person>
+      <person xml:id="dvp_086_person_1">
+        <persName>Rob Cox</persName>
+        <idno type="project">dvp_0825</idno>
+      </person>
+      <person xml:id="dvp_086_person_2">
+        <persName>Rob</persName>
+        <idno type="project">dvp_0825</idno>
+      </person>
+      <person xml:id="dvp_086_person_3">
+        <persName>Rob</persName>
+        <idno type="project">dvp_0825</idno>
+      </person>
+      <person xml:id="dvp_086_person_4">
+        <persName>[Thomas] “Tom” Saxer</persName>
+        <idno type="project">dvp_0826</idno>
+      </person>
+      <person xml:id="dvp_086_person_5">
+        <persName>Mike</persName>
+        <idno type="project">dvp_0827</idno>
+      </person>
+      <person xml:id="dvp_086_person_6">
+        <persName>Mack</persName>
+        <idno type="project">dvp_0873</idno>
+      </person>
+      <person xml:id="dvp_086_person_7">
+        <persName>[J. S. Mack]</persName>
+        <idno type="project">dvp_0874</idno>
+      </person>
+      <person xml:id="dvp_086_person_8">
+        <persName>Tom Saxer</persName>
+        <idno type="project">dvp_0826</idno>
+      </person>
+      <person xml:id="dvp_086_person_9">
+        <persName>Mike Mack</persName>
+        <idno type="project">dvp_0827</idno>
+      </person>
+      <person xml:id="dvp_086_person_10">
+        <persName>Harry [R.] Wellman</persName>
+        <idno type="project">dvp_0828</idno>
+      </person>
+      <person xml:id="dvp_086_person_11">
+        <persName>Ayn Rand</persName>
+        <idno type="WD">Q132524</idno>
+      </person>
+      <person xml:id="dvp_086_person_12">
+        <persName>George Plimpton</persName>
+        <idno type="WD">Q1508079</idno>
+      </person>
+      <person xml:id="dvp_086_person_13">
+        <persName>George Plimpton</persName>
+        <idno type="WD">Q1508079</idno>
+      </person>
+      <person xml:id="dvp_086_person_14">
+        <persName>George Plimpton</persName>
+        <idno type="WD">Q1508079</idno>
+      </person>
+      <person xml:id="dvp_086_person_15">
+        <persName>George Plimpton</persName>
+        <idno type="WD">Q1508079</idno>
+      </person>
+      <person xml:id="dvp_086_person_16">
+        <persName>Chauncey C. Loomis</persName>
+        <idno type="WD">Q5088215</idno>
+      </person>
+      <person xml:id="dvp_086_person_17">
+        <persName>Rob</persName>
+        <idno type="project">dvp_0825</idno>
+      </person>
+      <person xml:id="dvp_086_person_18">
+        <persName>John F. Kennedy</persName>
+        <idno type="WD">Q9696</idno>
+      </person>
+      <person xml:id="dvp_086_person_19">
+        <persName>[William H.] “Bill” King [Jr.</persName>
+        <idno type="project">dvp_0829</idno>
+      </person>
+      <person xml:id="dvp_086_person_20">
+        <persName>Bob Blackman</persName>
+        <idno type="WD">Q4931848</idno>
+      </person>
+      <person xml:id="dvp_086_person_21">
+        <persName>Paul [C.] Pringle</persName>
+        <idno type="project">dvp_0830</idno>
+      </person>
+      <person xml:id="dvp_086_person_22">
+        <persName>Paul</persName>
+        <idno type="project">dvp_0830</idno>
+      </person>
+      <person xml:id="dvp_086_person_23">
+        <persName>[Edward A.] “Ed” Taber [III</persName>
+        <idno type="project">dvp_0831</idno>
+      </person>
+      <person xml:id="dvp_086_person_24">
+        <persName>[Alexander F.] “Sandy” Ritter</persName>
+        <idno type="project">dvp_0832</idno>
+      </person>
+      <person xml:id="dvp_086_person_25">
+        <persName>[Kenneth H.] “Ken” Jukes</persName>
+        <idno type="project">dvp_0833</idno>
+      </person>
+      <person xml:id="dvp_086_person_26">
+        <persName>Ken Jukes</persName>
+        <idno type="project">dvp_0833</idno>
+      </person>
+      <person xml:id="dvp_086_person_27">
+        <persName>Rob</persName>
+        <idno type="project">dvp_0825</idno>
+      </person>
+      <person xml:id="dvp_086_person_28">
+        <persName>Les Wexner</persName>
+        <idno type="WD">Q1675849</idno>
+      </person>
+      <person xml:id="dvp_086_person_29">
+        <persName>Les Wexner</persName>
+        <idno type="WD">Q1675849</idno>
+      </person>
+      <person xml:id="dvp_086_person_30">
+        <persName>[James A.] “Jim” Napoli</persName>
+        <idno type="project">dvp_0834</idno>
+      </person>
+      <person xml:id="dvp_086_person_31">
+        <persName>Murray Lindberg</persName>
+        <idno type="project">dvp_0835</idno>
+      </person>
+      <person xml:id="dvp_086_person_32">
+        <persName>Lyndon B. Johnson</persName>
+        <idno type="WD">Q9640</idno>
+      </person>
+      <person xml:id="dvp_086_person_33">
+        <persName>Jane Fonda</persName>
+        <idno type="WD">Q41142</idno>
+      </person>
+      <person xml:id="dvp_086_person_34">
+        <persName>Jane Fonda</persName>
+        <idno type="WD">Q41142</idno>
+      </person>
+      <person xml:id="dvp_086_person_35">
+        <persName>Lyndon B. Johnson</persName>
+        <idno type="WD">Q9640</idno>
+      </person>
+      <person xml:id="dvp_086_person_36">
+        <persName>Richard Nixon</persName>
+        <idno type="WD">Q9588</idno>
+      </person>
+      <person xml:id="dvp_086_person_37">
+        <persName>Rob</persName>
+        <idno type="project">dvp_0825</idno>
+      </person>
+      <person xml:id="dvp_086_person_38">
+        <persName>Mr. Cox</persName>
+        <idno type="project">dvp_0825</idno>
+      </person>
+    </listPerson>
+    <listOrg>
+      <org xml:id="dvp_086_org_0">
+        <orgName>Mercersburg Academy</orgName>
+        <idno type="WD">Q6818330</idno>
+      </org>
+      <org xml:id="dvp_086_org_1">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dvp_086_org_2">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dvp_086_org_3">
+        <orgName>Class of ’65</orgName>
+      </org>
+      <org xml:id="dvp_086_org_4">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dvp_086_org_5">
+        <orgName>Tuck School of Business</orgName>
+        <idno type="WD">Q1263832</idno>
+      </org>
+      <org xml:id="dvp_086_org_6">
+        <orgName>’31</orgName>
+      </org>
+      <org xml:id="dvp_086_org_7">
+        <orgName>’33</orgName>
+      </org>
+      <org xml:id="dvp_086_org_8">
+        <orgName>Colby–Sawyer College</orgName>
+        <idno type="WD">Q5142055</idno>
+      </org>
+      <org xml:id="dvp_086_org_9">
+        <orgName>Colby–Sawyer College</orgName>
+        <idno type="WD">Q5142055</idno>
+      </org>
+      <org xml:id="dvp_086_org_10">
+        <orgName>Little League Baseball</orgName>
+        <idno type="WD">Q608201</idno>
+      </org>
+      <org xml:id="dvp_086_org_11">
+        <orgName>Boy Scouts of America</orgName>
+        <idno type="WD">Q608132</idno>
+      </org>
+      <org xml:id="dvp_086_org_12">
+        <orgName>Boy Scouts of America</orgName>
+        <idno type="WD">Q608132</idno>
+      </org>
+      <org xml:id="dvp_086_org_13">
+        <orgName>Eagle Scout</orgName>
+        <idno type="WD">Q3046356</idno>
+      </org>
+      <org xml:id="dvp_086_org_14">
+        <orgName>Life Scout</orgName>
+        <idno type="WD">Q108704419</idno>
+      </org>
+      <org xml:id="dvp_086_org_15">
+        <orgName>Eagle Scout</orgName>
+        <idno type="WD">Q3046356</idno>
+      </org>
+      <org xml:id="dvp_086_org_16">
+        <orgName>Boy Scouts of America</orgName>
+        <idno type="WD">Q608132</idno>
+      </org>
+      <org xml:id="dvp_086_org_17">
+        <orgName>Boy Scouts of America</orgName>
+        <idno type="WD">Q608132</idno>
+      </org>
+      <org xml:id="dvp_086_org_18">
+        <orgName>Boy Scouts of America</orgName>
+        <idno type="WD">Q608132</idno>
+      </org>
+      <org xml:id="dvp_086_org_19">
+        <orgName>G. C. Murphy</orgName>
+        <idno type="WD">Q5512171</idno>
+      </org>
+      <org xml:id="dvp_086_org_20">
+        <orgName>Jones and Laughlin Steel Company</orgName>
+        <idno type="WD">Q16980830</idno>
+      </org>
+      <org xml:id="dvp_086_org_21">
+        <orgName>Boy Scouts of America</orgName>
+        <idno type="WD">Q608132</idno>
+      </org>
+      <org xml:id="dvp_086_org_22">
+        <orgName>Boy Scouts of America</orgName>
+        <idno type="WD">Q608132</idno>
+      </org>
+      <org xml:id="dvp_086_org_23">
+        <orgName>The Kiski School</orgName>
+        <idno type="WD">Q7744724</idno>
+      </org>
+      <org xml:id="dvp_086_org_24">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dvp_086_org_25">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dvp_086_org_26">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dvp_086_org_27">
+        <orgName>Tuck School of Business</orgName>
+        <idno type="WD">Q1263832</idno>
+      </org>
+      <org xml:id="dvp_086_org_28">
+        <orgName>[Class of 1907]</orgName>
+      </org>
+      <org xml:id="dvp_086_org_29">
+        <orgName>Tuck School of Business</orgName>
+        <idno type="WD">Q1263832</idno>
+      </org>
+      <org xml:id="dvp_086_org_30">
+        <orgName>Mercersburg Academy</orgName>
+        <idno type="WD">Q6818330</idno>
+      </org>
+      <org xml:id="dvp_086_org_31">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dvp_086_org_32">
+        <orgName>All School Octet</orgName>
+      </org>
+      <org xml:id="dvp_086_org_33">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dvp_086_org_34">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dvp_086_org_35">
+        <orgName>University of Pennsylvania</orgName>
+        <idno type="WD">Q49117</idno>
+      </org>
+      <org xml:id="dvp_086_org_36">
+        <orgName>Cornell University</orgName>
+        <idno type="WD">Q49115</idno>
+      </org>
+      <org xml:id="dvp_086_org_37">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dvp_086_org_38">
+        <orgName>Pennsylvania State University</orgName>
+        <idno type="WD">Q739627</idno>
+      </org>
+      <org xml:id="dvp_086_org_39">
+        <orgName>Brown University</orgName>
+        <idno type="WD">Q49114</idno>
+      </org>
+      <org xml:id="dvp_086_org_40">
+        <orgName>Brown University</orgName>
+        <idno type="WD">Q49114</idno>
+      </org>
+      <org xml:id="dvp_086_org_41">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dvp_086_org_42">
+        <orgName>Pennsylvania State University</orgName>
+        <idno type="WD">Q739627</idno>
+      </org>
+      <org xml:id="dvp_086_org_43">
+        <orgName>Pennsylvania State University</orgName>
+        <idno type="WD">Q739627</idno>
+      </org>
+      <org xml:id="dvp_086_org_44">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dvp_086_org_45">
+        <orgName>Brown University</orgName>
+        <idno type="WD">Q49114</idno>
+      </org>
+      <org xml:id="dvp_086_org_46">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dvp_086_org_47">
+        <orgName>National Football League</orgName>
+        <idno type="WD">Q1215884</idno>
+      </org>
+      <org xml:id="dvp_086_org_48">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dvp_086_org_49">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dvp_086_org_50">
+        <orgName>Class of ’65</orgName>
+      </org>
+      <org xml:id="dvp_086_org_51">
+        <orgName>Class of ’65</orgName>
+      </org>
+      <org xml:id="dvp_086_org_52">
+        <orgName>Deerfield Academy</orgName>
+        <idno type="WD">Q5250893</idno>
+      </org>
+      <org xml:id="dvp_086_org_53">
+        <orgName>Phillips Academy</orgName>
+        <idno type="WD">Q1432645</idno>
+      </org>
+      <org xml:id="dvp_086_org_54">
+        <orgName>Phillips Exeter Academy</orgName>
+        <idno type="WD">Q1426464</idno>
+      </org>
+      <org xml:id="dvp_086_org_55">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dvp_086_org_56">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dvp_086_org_57">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dvp_086_org_58">
+        <orgName>Colby–Sawyer College</orgName>
+        <idno type="WD">Q5142055</idno>
+      </org>
+      <org xml:id="dvp_086_org_59">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dvp_086_org_60">
+        <orgName>Sigma Alpha Epsilon</orgName>
+        <idno type="WD">Q7512272</idno>
+      </org>
+      <org xml:id="dvp_086_org_61">
+        <orgName>Sigma Alpha Epsilon</orgName>
+        <idno type="WD">Q7512272</idno>
+      </org>
+      <org xml:id="dvp_086_org_62">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dvp_086_org_63">
+        <orgName>Sigma Alpha Epsilon</orgName>
+        <idno type="WD">Q7512272</idno>
+      </org>
+      <org xml:id="dvp_086_org_64">
+        <orgName>Psi Upsilon</orgName>
+        <idno type="WD">Q953400</idno>
+      </org>
+      <org xml:id="dvp_086_org_65">
+        <orgName>Beta Alpha Omega</orgName>
+        <idno type="WD">Q101445652</idno>
+      </org>
+      <org xml:id="dvp_086_org_66">
+        <orgName>Class of 1963</orgName>
+      </org>
+      <org xml:id="dvp_086_org_67">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dvp_086_org_68">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dvp_086_org_69">
+        <orgName>Delta Kappa Epsilon</orgName>
+        <idno type="WD">Q975232</idno>
+      </org>
+      <org xml:id="dvp_086_org_70">
+        <orgName>York Barbell</orgName>
+      </org>
+      <org xml:id="dvp_086_org_71">
+        <orgName>Sigma Alpha Epsilon</orgName>
+        <idno type="WD">Q7512272</idno>
+      </org>
+      <org xml:id="dvp_086_org_72">
+        <orgName>Class of 1965</orgName>
+      </org>
+      <org xml:id="dvp_086_org_73">
+        <orgName>Class of 1965</orgName>
+      </org>
+      <org xml:id="dvp_086_org_74">
+        <orgName>Delta Kappa Epsilon</orgName>
+        <idno type="WD">Q975232</idno>
+      </org>
+      <org xml:id="dvp_086_org_75">
+        <orgName>Class of 1965</orgName>
+      </org>
+      <org xml:id="dvp_086_org_76">
+        <orgName>Sigma Alpha Epsilon</orgName>
+        <idno type="WD">Q7512272</idno>
+      </org>
+      <org xml:id="dvp_086_org_77">
+        <orgName>Sigma Alpha Epsilon</orgName>
+        <idno type="WD">Q7512272</idno>
+      </org>
+      <org xml:id="dvp_086_org_78">
+        <orgName>Taj Mahal</orgName>
+        <idno type="WD">Q353023</idno>
+      </org>
+      <org xml:id="dvp_086_org_79">
+        <orgName>Taj Mahal</orgName>
+        <idno type="WD">Q353023</idno>
+      </org>
+      <org xml:id="dvp_086_org_80">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dvp_086_org_81">
+        <orgName>Cornell University</orgName>
+        <idno type="WD">Q49115</idno>
+      </org>
+      <org xml:id="dvp_086_org_82">
+        <orgName>Cornell University</orgName>
+        <idno type="WD">Q49115</idno>
+      </org>
+      <org xml:id="dvp_086_org_83">
+        <orgName>United States Armed Forces</orgName>
+        <idno type="WD">Q11211</idno>
+      </org>
+      <org xml:id="dvp_086_org_84">
+        <orgName>United States Armed Forces</orgName>
+        <idno type="WD">Q11211</idno>
+      </org>
+      <org xml:id="dvp_086_org_85">
+        <orgName>United States Armed Forces</orgName>
+        <idno type="WD">Q11211</idno>
+      </org>
+      <org xml:id="dvp_086_org_86">
+        <orgName>United States Air Force</orgName>
+        <idno type="WD">Q11223</idno>
+      </org>
+      <org xml:id="dvp_086_org_87">
+        <orgName>United States Navy</orgName>
+        <idno type="WD">Q11220</idno>
+      </org>
+      <org xml:id="dvp_086_org_88">
+        <orgName>United States Navy Reserve</orgName>
+        <idno type="WD">Q3550750</idno>
+      </org>
+      <org xml:id="dvp_086_org_89">
+        <orgName>United States Navy Reserve</orgName>
+        <idno type="WD">Q3550750</idno>
+      </org>
+      <org xml:id="dvp_086_org_90">
+        <orgName>United States Armed Forces</orgName>
+        <idno type="WD">Q11211</idno>
+      </org>
+      <org xml:id="dvp_086_org_91">
+        <orgName>Class of 1965</orgName>
+      </org>
+      <org xml:id="dvp_086_org_92">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dvp_086_org_93">
+        <orgName>United States Air Force Academy</orgName>
+        <idno type="WD">Q1331280</idno>
+      </org>
+      <org xml:id="dvp_086_org_94">
+        <orgName>United States Navy Reserve</orgName>
+        <idno type="WD">Q3550750</idno>
+      </org>
+      <org xml:id="dvp_086_org_95">
+        <orgName>United States Navy</orgName>
+        <idno type="WD">Q11220</idno>
+      </org>
+      <org xml:id="dvp_086_org_96">
+        <orgName>United States Air Force Academy</orgName>
+        <idno type="WD">Q1331280</idno>
+      </org>
+      <org xml:id="dvp_086_org_97">
+        <orgName>United States Army</orgName>
+        <idno type="WD">Q9212</idno>
+      </org>
+      <org xml:id="dvp_086_org_98">
+        <orgName>United States Air Force</orgName>
+        <idno type="WD">Q11223</idno>
+      </org>
+      <org xml:id="dvp_086_org_99">
+        <orgName>United States Navy</orgName>
+        <idno type="WD">Q11220</idno>
+      </org>
+      <org xml:id="dvp_086_org_100">
+        <orgName>United States Navy</orgName>
+        <idno type="WD">Q11220</idno>
+      </org>
+      <org xml:id="dvp_086_org_101">
+        <orgName>United States Armed Forces</orgName>
+        <idno type="WD">Q11211</idno>
+      </org>
+      <org xml:id="dvp_086_org_102">
+        <orgName>United States Navy</orgName>
+        <idno type="WD">Q11220</idno>
+      </org>
+      <org xml:id="dvp_086_org_103">
+        <orgName>Boy Scouts of America</orgName>
+        <idno type="WD">Q608132</idno>
+      </org>
+      <org xml:id="dvp_086_org_104">
+        <orgName>United States Armed Forces</orgName>
+        <idno type="WD">Q11211</idno>
+      </org>
+      <org xml:id="dvp_086_org_105">
+        <orgName>United States Air Force Academy</orgName>
+        <idno type="WD">Q1331280</idno>
+      </org>
+      <org xml:id="dvp_086_org_106">
+        <orgName>United States Navy</orgName>
+        <idno type="WD">Q11220</idno>
+      </org>
+      <org xml:id="dvp_086_org_107">
+        <orgName>United States Air Force Academy</orgName>
+        <idno type="WD">Q1331280</idno>
+      </org>
+      <org xml:id="dvp_086_org_108">
+        <orgName>Kent State University</orgName>
+        <idno type="WD">Q1473615</idno>
+      </org>
+      <org xml:id="dvp_086_org_109">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dvp_086_org_110">
+        <orgName>United States Armed Forces</orgName>
+        <idno type="WD">Q11211</idno>
+      </org>
+      <org xml:id="dvp_086_org_111">
+        <orgName>United States Air Force Academy</orgName>
+        <idno type="WD">Q1331280</idno>
+      </org>
+      <org xml:id="dvp_086_org_112">
+        <orgName>United States Air Force Academy</orgName>
+        <idno type="WD">Q1331280</idno>
+      </org>
+      <org xml:id="dvp_086_org_113">
+        <orgName>United States Army</orgName>
+        <idno type="WD">Q9212</idno>
+      </org>
+      <org xml:id="dvp_086_org_114">
+        <orgName>United States Air Force Academy</orgName>
+        <idno type="WD">Q1331280</idno>
+      </org>
+      <org xml:id="dvp_086_org_115">
+        <orgName>United States Navy</orgName>
+        <idno type="WD">Q11220</idno>
+      </org>
+      <org xml:id="dvp_086_org_116">
+        <orgName>United States Navy</orgName>
+        <idno type="WD">Q11220</idno>
+      </org>
+      <org xml:id="dvp_086_org_117">
+        <orgName>United States Navy</orgName>
+        <idno type="WD">Q11220</idno>
+      </org>
+      <org xml:id="dvp_086_org_118">
+        <orgName>United States Air Force Academy</orgName>
+        <idno type="WD">Q1331280</idno>
+      </org>
+      <org xml:id="dvp_086_org_119">
+        <orgName>reserve fleet</orgName>
+        <idno type="WD">Q1760290</idno>
+      </org>
+      <org xml:id="dvp_086_org_120">
+        <orgName>United States Air Force Academy</orgName>
+        <idno type="WD">Q1331280</idno>
+      </org>
+      <org xml:id="dvp_086_org_121">
+        <orgName>358th Fighter Squadron</orgName>
+        <idno type="WD">Q4635529</idno>
+      </org>
+      <org xml:id="dvp_086_org_122">
+        <orgName>United States Air Force Academy</orgName>
+        <idno type="WD">Q1331280</idno>
+      </org>
+      <org xml:id="dvp_086_org_123">
+        <orgName>Martin-Baker</orgName>
+        <idno type="WD">Q1903235</idno>
+      </org>
+      <org xml:id="dvp_086_org_124">
+        <orgName>United States Air Force</orgName>
+        <idno type="WD">Q11223</idno>
+      </org>
+      <org xml:id="dvp_086_org_125">
+        <orgName>Central Intelligence Agency</orgName>
+        <idno type="WD">Q37230</idno>
+      </org>
+      <org xml:id="dvp_086_org_126">
+        <orgName>United States Joint Forces Command</orgName>
+        <idno type="WD">Q2116286</idno>
+      </org>
+      <org xml:id="dvp_086_org_127">
+        <orgName>United States Joint Forces Command</orgName>
+        <idno type="WD">Q2116286</idno>
+      </org>
+      <org xml:id="dvp_086_org_128">
+        <orgName>United States Armed Forces</orgName>
+        <idno type="WD">Q11211</idno>
+      </org>
+      <org xml:id="dvp_086_org_129">
+        <orgName>United States Air Force Academy</orgName>
+        <idno type="WD">Q1331280</idno>
+      </org>
+      <org xml:id="dvp_086_org_130">
+        <orgName>United States Air Force Academy</orgName>
+        <idno type="WD">Q1331280</idno>
+      </org>
+      <org xml:id="dvp_086_org_131">
+        <orgName>United States Air Force Academy</orgName>
+        <idno type="WD">Q1331280</idno>
+      </org>
+      <org xml:id="dvp_086_org_132">
+        <orgName>United States Air Force Academy</orgName>
+        <idno type="WD">Q1331280</idno>
+      </org>
+      <org xml:id="dvp_086_org_133">
+        <orgName>Air Force Reserve Command</orgName>
+        <idno type="WD">Q407191</idno>
+      </org>
+      <org xml:id="dvp_086_org_134">
+        <orgName>The Limited</orgName>
+        <idno type="WD">Q7747373</idno>
+      </org>
+      <org xml:id="dvp_086_org_135">
+        <orgName>L Brands</orgName>
+        <idno type="WD">Q931354</idno>
+      </org>
+      <org xml:id="dvp_086_org_136">
+        <orgName>The Limited</orgName>
+        <idno type="WD">Q7747373</idno>
+      </org>
+      <org xml:id="dvp_086_org_137">
+        <orgName>Judy's</orgName>
+        <idno type="WD">Q96384811</idno>
+      </org>
+      <org xml:id="dvp_086_org_138">
+        <orgName>Scoop [New York City]</orgName>
+      </org>
+      <org xml:id="dvp_086_org_139">
+        <orgName>Scoop</orgName>
+      </org>
+      <org xml:id="dvp_086_org_140">
+        <orgName>H&amp;M</orgName>
+        <idno type="WD">Q188326</idno>
+      </org>
+      <org xml:id="dvp_086_org_141">
+        <orgName>H&amp;M</orgName>
+        <idno type="WD">Q188326</idno>
+      </org>
+      <org xml:id="dvp_086_org_142">
+        <orgName>Sportmart</orgName>
+      </org>
+      <org xml:id="dvp_086_org_143">
+        <orgName>The Wall Street Journal</orgName>
+        <idno type="WD">Q164746</idno>
+      </org>
+      <org xml:id="dvp_086_org_144">
+        <orgName>Sportmart</orgName>
+      </org>
+      <org xml:id="dvp_086_org_145">
+        <orgName>Toys R Us</orgName>
+        <idno type="WD">Q696334</idno>
+      </org>
+      <org xml:id="dvp_086_org_146">
+        <orgName>Sportmart</orgName>
+      </org>
+      <org xml:id="dvp_086_org_147">
+        <orgName>Sportmart</orgName>
+      </org>
+      <org xml:id="dvp_086_org_148">
+        <orgName>Sportmarts</orgName>
+      </org>
+      <org xml:id="dvp_086_org_149">
+        <orgName>Gucci</orgName>
+        <idno type="WD">Q178516</idno>
+      </org>
+      <org xml:id="dvp_086_org_150">
+        <orgName>Bottega Veneta</orgName>
+        <idno type="WD">Q894874</idno>
+      </org>
+      <org xml:id="dvp_086_org_151">
+        <orgName>Louis Vuitton</orgName>
+        <idno type="WD">Q191485</idno>
+      </org>
+      <org xml:id="dvp_086_org_152">
+        <orgName>H&amp;M</orgName>
+        <idno type="WD">Q188326</idno>
+      </org>
+      <org xml:id="dvp_086_org_153">
+        <orgName>Forever 21</orgName>
+        <idno type="WD">Q1060537</idno>
+      </org>
+      <org xml:id="dvp_086_org_154">
+        <orgName>The May Department Stores Company</orgName>
+        <idno type="WD">Q7750720</idno>
+      </org>
+      <org xml:id="dvp_086_org_155">
+        <orgName>The May Department Stores Company</orgName>
+        <idno type="WD">Q7750720</idno>
+      </org>
+      <org xml:id="dvp_086_org_156">
+        <orgName>Macy's</orgName>
+        <idno type="WD">Q629269</idno>
+      </org>
+      <org xml:id="dvp_086_org_157">
+        <orgName>Trisacon</orgName>
+      </org>
+      <org xml:id="dvp_086_org_158">
+        <orgName>Simon Property Group</orgName>
+        <idno type="WD">Q2287759</idno>
+      </org>
+      <org xml:id="dvp_086_org_159">
+        <orgName>The May Department Stores Company</orgName>
+        <idno type="WD">Q7750720</idno>
+      </org>
+      <org xml:id="dvp_086_org_160">
+        <orgName>Simon Property Group</orgName>
+        <idno type="WD">Q2287759</idno>
+      </org>
+      <org xml:id="dvp_086_org_161">
+        <orgName>Simon Property Group</orgName>
+        <idno type="WD">Q2287759</idno>
+      </org>
+      <org xml:id="dvp_086_org_162">
+        <orgName>Simon Property Group</orgName>
+        <idno type="WD">Q2287759</idno>
+      </org>
+      <org xml:id="dvp_086_org_163">
+        <orgName>United States Armed Forces</orgName>
+        <idno type="WD">Q11211</idno>
+      </org>
+      <org xml:id="dvp_086_org_164">
+        <orgName>United States Armed Forces</orgName>
+        <idno type="WD">Q11211</idno>
+      </org>
+      <org xml:id="dvp_086_org_165">
+        <orgName>United States Air Force Academy</orgName>
+        <idno type="WD">Q1331280</idno>
+      </org>
+      <org xml:id="dvp_086_org_166">
+        <orgName>United States Air Force Academy</orgName>
+        <idno type="WD">Q1331280</idno>
+      </org>
+      <org xml:id="dvp_086_org_167">
+        <orgName>New Jersey Army National Guard</orgName>
+        <idno type="WD">Q11884279</idno>
+      </org>
+      <org xml:id="dvp_086_org_168">
+        <orgName>United States Air Force Academy</orgName>
+        <idno type="WD">Q1331280</idno>
+      </org>
+      <org xml:id="dvp_086_org_169">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dvp_086_org_170">
+        <orgName>United States Armed Forces</orgName>
+        <idno type="WD">Q11211</idno>
+      </org>
+      <org xml:id="dvp_086_org_171">
+        <orgName>United States Air Force Academy</orgName>
+        <idno type="WD">Q1331280</idno>
+      </org>
+      <org xml:id="dvp_086_org_172">
+        <orgName>United States Army</orgName>
+        <idno type="WD">Q9212</idno>
+      </org>
+      <org xml:id="dvp_086_org_173">
+        <orgName>United States Navy</orgName>
+        <idno type="WD">Q11220</idno>
+      </org>
+      <org xml:id="dvp_086_org_174">
+        <orgName>United States Air Force Academy</orgName>
+        <idno type="WD">Q1331280</idno>
+      </org>
+      <org xml:id="dvp_086_org_175">
+        <orgName>United States Armed Forces</orgName>
+        <idno type="WD">Q11211</idno>
+      </org>
+      <org xml:id="dvp_086_org_176">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dvp_086_org_177">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dvp_086_org_178">
+        <orgName>BraveHearts Expeditions</orgName>
+      </org>
+      <org xml:id="dvp_086_org_179">
+        <orgName>BraveHearts Expeditions</orgName>
+      </org>
+      <org xml:id="dvp_086_org_180">
+        <orgName>Dartmouth Vietnam Project</orgName>
+      </org>
+      <org xml:id="dvp_086_org_181">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dvp_086_org_182">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+    </listOrg>
+  </standOff>
+</TEI>
