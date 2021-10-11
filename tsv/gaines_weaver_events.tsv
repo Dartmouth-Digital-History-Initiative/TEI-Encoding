@@ -1,21 +1,21 @@
-id	name
-dvp_095_event_0	Second World War
-dvp_095_event_1	World War II
-dvp_095_event_2	World War II
-dvp_095_event_3	World War II
-dvp_095_event_4	Freedom Rides
-dvp_095_event_5	anti-war movement
-dvp_095_event_6	Kennedy assassination
-dvp_095_event_7	passage of the Civil Rights Act
-dvp_095_event_8	World War II
-dvp_095_event_9	World War II
-dvp_095_event_10	Geneva Convention
-dvp_095_event_11	Geneva Convention
-dvp_095_event_12	Tet [Offensive]
-dvp_095_event_13	 Korean War
-dvp_095_event_14	World War II
-dvp_095_event_15	Gulf War
-dvp_095_event_16	Gulf War
-dvp_095_event_17	Gulf War
-dvp_095_event_18	Gulf War
-dvp_095_event_19	 Vietnam War
+id	name	QID	dvp_id	start time	end time	point in time
+dvp_095_event_0	World War II	Q362		1939-09-01T00:00:00Z	1945-09-02T00:00:00Z	
+dvp_095_event_1	World War II	Q362		1939-09-01T00:00:00Z	1945-09-02T00:00:00Z	
+dvp_095_event_2	World War II	Q362		1939-09-01T00:00:00Z	1945-09-02T00:00:00Z	
+dvp_095_event_3	World War II	Q362		1939-09-01T00:00:00Z	1945-09-02T00:00:00Z	
+dvp_095_event_4	Freedom Riders	Q538790		1961-05-04T00:00:00Z	1961-12-10T00:00:00Z	
+dvp_095_event_5	anti-war movement					
+dvp_095_event_6	assassination of John F. Kennedy	Q193484				1963-11-22T00:00:00Z
+dvp_095_event_7	Civil Rights Act of 1964	Q585962				1964-07-02T00:00:00Z
+dvp_095_event_8	World War II	Q362		1939-09-01T00:00:00Z	1945-09-02T00:00:00Z	
+dvp_095_event_9	World War II	Q362		1939-09-01T00:00:00Z	1945-09-02T00:00:00Z	
+dvp_095_event_10	Geneva Convention	Q2594768				1949-01-01T00:00:00Z
+dvp_095_event_11	Geneva Convention	Q2594768				1949-01-01T00:00:00Z
+dvp_095_event_12	Tet Offensive	Q82542		1968-01-30T00:00:00Z	1968-09-23T00:00:00Z	 
+dvp_095_event_13	Korean War	Q8663		1950-06-25T00:00:00Z	1953-07-27T00:00:00Z	
+dvp_095_event_14	World War II	Q362		1939-09-01T00:00:00Z	1945-09-02T00:00:00Z	
+dvp_095_event_15	Gulf War	Q37643		1990-08-02T00:00:00Z	1991-02-28T00:00:00Z	
+dvp_095_event_16	Gulf War	Q37643		1990-08-02T00:00:00Z	1991-02-28T00:00:00Z	
+dvp_095_event_17	Gulf War	Q37643		1990-08-02T00:00:00Z	1991-02-28T00:00:00Z	
+dvp_095_event_18	Gulf War	Q37643		1990-08-02T00:00:00Z	1991-02-28T00:00:00Z	
+dvp_095_event_19	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
