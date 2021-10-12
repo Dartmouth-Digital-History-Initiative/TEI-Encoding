@@ -1,149 +1,149 @@
-id	placeName
-dvp_099_place_0	Baker-Berry Library
-dvp_099_place_1	Hanover
-dvp_099_place_2	Hanover
-dvp_099_place_3	Manchester, New Hampshire
-dvp_099_place_4	Japan
-dvp_099_place_5	Oxford, England
-dvp_099_place_6	Norton, MA
-dvp_099_place_7	Maine
-dvp_099_place_8	New Hampshire
-dvp_099_place_9	Washington
-dvp_099_place_10	Washington
-dvp_099_place_11	Peacock Alley
-dvp_099_place_12	National Gallery
-dvp_099_place_13	John Hopkins [University] School [of] Advanced International Studies
-dvp_099_place_14	Washington
-dvp_099_place_15	Montgomery County [MD]
-dvp_099_place_16	Cape Canaveral
-dvp_099_place_17	Vietnam
-dvp_099_place_18	Boston
-dvp_099_place_19	Washington, DC
-dvp_099_place_20	Montgomery County
-dvp_099_place_21	Montgomery County
-dvp_099_place_22	US
-dvp_099_place_23	Dartmouth College
-dvp_099_place_24	Quebec
-dvp_099_place_25	Quebec
-dvp_099_place_26	Chile
-dvp_099_place_27	Chile
-dvp_099_place_28	Vietnam
-dvp_099_place_29	Vietnam
-dvp_099_place_30	Vietnam
-dvp_099_place_31	Aleppo, Syria
-dvp_099_place_32	Vietnam
-dvp_099_place_33	DC
-dvp_099_place_34	Vietnam
-dvp_099_place_35	Paris
-dvp_099_place_36	Vietnam
-dvp_099_place_37	Vietnam
-dvp_099_place_38	Vietnam
-dvp_099_place_39	Africa
-dvp_099_place_40	Vietnam
-dvp_099_place_41	Philadelphia
-dvp_099_place_42	US
-dvp_099_place_43	Vietnam
-dvp_099_place_44	Pinkville
-dvp_099_place_45	Pinkville
-dvp_099_place_46	My Lai
-dvp_099_place_47	Pinkville
-dvp_099_place_48	Quang Ngai
-dvp_099_place_49	Quang Ngai
-dvp_099_place_50	Vietnam
-dvp_099_place_51	Vietnam
-dvp_099_place_52	Vietnam
-dvp_099_place_53	Chicago
-dvp_099_place_54	Vietnam
-dvp_099_place_55	San Francisco
-dvp_099_place_56	America
-dvp_099_place_57	Vietnam
-dvp_099_place_58	Vietnam
-dvp_099_place_59	Batangan Peninsula
-dvp_099_place_60	Pinkville
-dvp_099_place_61	Tra Khuc River
-dvp_099_place_62	Texas
-dvp_099_place_63	Syria
-dvp_099_place_64	Vietnam
-dvp_099_place_65	Da Nang
-dvp_099_place_66	America
-dvp_099_place_67	Chu Lai Air Base
-dvp_099_place_68	America
-dvp_099_place_69	America
-dvp_099_place_70	My Lai
-dvp_099_place_71	Hue
-dvp_099_place_72	Temple
-dvp_099_place_73	Quang Ngai
-dvp_099_place_74	Quang Ngai
-dvp_099_place_75	Saigon
-dvp_099_place_76	Vietnam
-dvp_099_place_77	Saigon
-dvp_099_place_78	Ho Chi Minh City
-dvp_099_place_79	Saigon
-dvp_099_place_80	Vietnam
-dvp_099_place_81	Paris
-dvp_099_place_82	North Vietnamese
-dvp_099_place_83	Republic of South Vietnam
-dvp_099_place_84	Paris
-dvp_099_place_85	US
-dvp_099_place_86	Washington
-dvp_099_place_87	Vietnam
-dvp_099_place_88	Vietnam
-dvp_099_place_89	North Vietnam
-dvp_099_place_90	Hanoi
-dvp_099_place_91	Hanoi
-dvp_099_place_92	Vietnam
-dvp_099_place_93	Quang Ngai
-dvp_099_place_94	Quang Nam
-dvp_099_place_95	Tan Ky
-dvp_099_place_96	Quang Ngai
-dvp_099_place_97	Vietnam
-dvp_099_place_98	Quang Ngai
-dvp_099_place_99	Saigon
-dvp_099_place_100	Vietnam
-dvp_099_place_101	Quang Ngai
-dvp_099_place_102	Quang Ngai Province
-dvp_099_place_103	Paris
-dvp_099_place_104	Paris
-dvp_099_place_105	Maine
-dvp_099_place_106	Da Nang
-dvp_099_place_107	Ban Me Thuot
-dvp_099_place_108	Thailand
-dvp_099_place_109	Ban Me Thuot
-dvp_099_place_110	San Francisco
-dvp_099_place_111	New York
-dvp_099_place_112	France
-dvp_099_place_113	Netherlands
-dvp_099_place_114	Germany
-dvp_099_place_115	Germany
-dvp_099_place_116	Vietnam
-dvp_099_place_117	Hanover
-dvp_099_place_118	Vietnam
-dvp_099_place_119	West Coast
-dvp_099_place_120	Vietnam
-dvp_099_place_121	Vietnam
-dvp_099_place_122	Vietnam
-dvp_099_place_123	San Francisco
-dvp_099_place_124	San Francisco
-dvp_099_place_125	San Francisco
-dvp_099_place_126	Washington
-dvp_099_place_127	Vietnam
-dvp_099_place_128	Vietnam
-dvp_099_place_129	England
-dvp_099_place_130	Hanoi
-dvp_099_place_131	Maine
-dvp_099_place_132	Vietnam
-dvp_099_place_133	Maine
-dvp_099_place_134	Vietnam
-dvp_099_place_135	Quang Ngai
-dvp_099_place_136	Vietnam
-dvp_099_place_137	Buddha Mountain
-dvp_099_place_138	Vietnam
-dvp_099_place_139	Russia
-dvp_099_place_140	Vietnam
-dvp_099_place_141	Texas
-dvp_099_place_142	North Carolina
-dvp_099_place_143	Texas
-dvp_099_place_144	Vietnam
-dvp_099_place_145	DC
-dvp_099_place_146	[National] Archives
-dvp_099_place_147	Vietnam
+id	placeName	QID	dvp_id	coordinate location
+dvp_099_place_0	Dartmouth College Library	Q52633263		43.704321310434494, -72.2889255728901
+dvp_099_place_1	Hanover	Q131908		43.7,-72.28333333333333
+dvp_099_place_2	Hanover	Q131908		43.7,-72.28333333333333
+dvp_099_place_3	Manchester	Q48370		42.990833333333,-71.463611111111
+dvp_099_place_4	Japan	Q17		35,136
+dvp_099_place_5	Oxford	Q34217		51.751944444444,-1.2577777777778
+dvp_099_place_6	Norton	Q2282049		41.966666666667,-71.1875
+dvp_099_place_7	Maine	Q724		45.5,-69
+dvp_099_place_8	New Hampshire	Q759		44,-71.5
+dvp_099_place_9	Washington, D.C.	Q61		38.895,-77.036666666667
+dvp_099_place_10	Washington, D.C.	Q61		38.895,-77.036666666667
+dvp_099_place_11	Willard InterContinental Washington	Q731089		38.896766,-77.032184
+dvp_099_place_12	National Gallery of Art	Q214867		38.89147,-77.02001
+dvp_099_place_13	Paul H. Nitze School of Advanced International Studies	Q1352632		38.908055555555556,-77.04027777777777
+dvp_099_place_14	Washington, D.C.	Q61		38.895,-77.036666666667
+dvp_099_place_15	Montgomery County	Q488659		39.13638888888889,-77.20416666666667
+dvp_099_place_16	Cape Canaveral	Q966657		28.388333333333,-80.603611111111
+dvp_099_place_17	Vietnam	Q881		16,108
+dvp_099_place_18	Boston	Q100		42.358333333333,-71.0625
+dvp_099_place_19	Washington, D.C.	Q61		38.895,-77.036666666667
+dvp_099_place_20	Montgomery County	Q488659		39.13638888888889,-77.20416666666667
+dvp_099_place_21	Montgomery County	Q488659		39.13638888888889,-77.20416666666667
+dvp_099_place_22	United States of America	Q30		39.828175,-98.5795
+dvp_099_place_23	Dartmouth College	Q49116		43.703333333333,-72.288333333333
+dvp_099_place_24	Quebec	Q176		52,-72
+dvp_099_place_25	Quebec	Q176		52,-72
+dvp_099_place_26	Chile	Q298		-33,-71
+dvp_099_place_27	Chile	Q298		-33,-71
+dvp_099_place_28	Vietnam	Q881		16,108
+dvp_099_place_29	Vietnam	Q881		16,108
+dvp_099_place_30	Vietnam	Q881		16,108
+dvp_099_place_31	Aleppo	Q41183		36.2,37.15
+dvp_099_place_32	Vietnam	Q881		16,108
+dvp_099_place_33	Washington, D.C.	Q61		38.895,-77.036666666667
+dvp_099_place_34	Vietnam	Q881		16,108
+dvp_099_place_35	Paris	Q90		48.856944444444,2.3513888888889
+dvp_099_place_36	Vietnam	Q881		16,108
+dvp_099_place_37	Vietnam	Q881		16,108
+dvp_099_place_38	Vietnam	Q881		16,108
+dvp_099_place_39	Africa			
+dvp_099_place_40	Vietnam	Q881		16,108
+dvp_099_place_41	Philadelphia	Q1345		39.952777777778,-75.163611111111
+dvp_099_place_42	United States of America	Q30		39.828175,-98.5795
+dvp_099_place_43	Vietnam	Q881		16,108
+dvp_099_place_44	Pinkville			
+dvp_099_place_45	Pinkville			
+dvp_099_place_46	Son My	Q10823351		15.18,108.886
+dvp_099_place_47	Pinkville			
+dvp_099_place_48	Quảng Ngãi	Q33304		15,108.66666666667
+dvp_099_place_49	Quảng Ngãi	Q33304		15,108.66666666667
+dvp_099_place_50	Vietnam	Q881		16,108
+dvp_099_place_51	Vietnam	Q881		16,108
+dvp_099_place_52	Vietnam	Q881		16,108
+dvp_099_place_53	Chicago	Q1297		41.881944444444,-87.627777777778
+dvp_099_place_54	Vietnam	Q881		16,108
+dvp_099_place_55	San Francisco	Q62		37.7775,-122.41638888888889
+dvp_099_place_56	United States of America	Q30		39.828175,-98.5795
+dvp_099_place_57	Vietnam	Q881		16,108
+dvp_099_place_58	Vietnam	Q881		16,108
+dvp_099_place_59	Batangan Peninsula	Q4868600		15.2194,108.967
+dvp_099_place_60	Pinkville			
+dvp_099_place_61	Tra Khuc River	Q7831041		15.105135003579754, 108.65728521351348
+dvp_099_place_62	Texas	Q1439		31,-100
+dvp_099_place_63	Syria	Q858		35.216667,38.583333
+dvp_099_place_64	Vietnam	Q881		16,108
+dvp_099_place_65	Da Nang	Q25282		16.069444444444443,108.20972222222223
+dvp_099_place_66	United States of America	Q30		39.828175,-98.5795
+dvp_099_place_67	Chu Lai Air Base	Q3274355		15.40611111,108.70555556
+dvp_099_place_68	United States of America	Q30		39.828175,-98.5795
+dvp_099_place_69	United States of America	Q30		39.828175,-98.5795
+dvp_099_place_70	Son My	Q10823351		15.18,108.886
+dvp_099_place_71	Huế	Q36167		16.46371111111111,107.590825
+dvp_099_place_72	Temple University	Q1420239		39.981388888889,-75.154444444444
+dvp_099_place_73	Quảng Ngãi	Q33304		15,108.66666666667
+dvp_099_place_74	Quảng Ngãi	Q33304		15,108.66666666667
+dvp_099_place_75	Ho Chi Minh City	Q1854		10.816666666667,106.63333333333
+dvp_099_place_76	Vietnam	Q881		16,108
+dvp_099_place_77	Ho Chi Minh City	Q1854		10.816666666667,106.63333333333
+dvp_099_place_78	Ho Chi Minh City	Q1854		10.816666666667,106.63333333333
+dvp_099_place_79	Ho Chi Minh City	Q1854		10.816666666667,106.63333333333
+dvp_099_place_80	Vietnam	Q881		16,108
+dvp_099_place_81	Paris	Q90		48.856944444444,2.3513888888889
+dvp_099_place_82	North Vietnam	Q172640		21.033333,105.85
+dvp_099_place_83	South Vietnam	Q180573		10.75,106.66666666667
+dvp_099_place_84	Paris	Q90		48.856944444444,2.3513888888889
+dvp_099_place_85	United States of America	Q30		39.828175,-98.5795
+dvp_099_place_86	Washington, D.C.	Q61		38.895,-77.036666666667
+dvp_099_place_87	Vietnam	Q881		16,108
+dvp_099_place_88	Vietnam	Q881		16,108
+dvp_099_place_89	North Vietnam	Q172640		21.033333,105.85
+dvp_099_place_90	Hanoi	Q1858		21.0245,105.84117
+dvp_099_place_91	Hanoi	Q1858		21.0245,105.84117
+dvp_099_place_92	Vietnam	Q881		16,108
+dvp_099_place_93	Quảng Ngãi	Q33304		15,108.66666666667
+dvp_099_place_94	Quảng Nam	Q33356		15.583333333333,107.91666666667
+dvp_099_place_95	Tân Kỳ	Q7682082		19.04222222222222,105.26444444444445
+dvp_099_place_96	Quảng Ngãi	Q33304		15,108.66666666667
+dvp_099_place_97	Vietnam	Q881		16,108
+dvp_099_place_98	Quảng Ngãi	Q33304		15,108.66666666667
+dvp_099_place_99	Ho Chi Minh City	Q1854		10.816666666667,106.63333333333
+dvp_099_place_100	Vietnam	Q881		16,108
+dvp_099_place_101	Quảng Ngãi	Q33304		15,108.66666666667
+dvp_099_place_102	Quảng Ngãi	Q33304		15,108.66666666667
+dvp_099_place_103	Paris	Q90		48.856944444444,2.3513888888889
+dvp_099_place_104	Paris	Q90		48.856944444444,2.3513888888889
+dvp_099_place_105	Maine	Q724		45.5,-69
+dvp_099_place_106	Da Nang	Q25282		16.069444444444443,108.20972222222223
+dvp_099_place_107	Buôn Ma Thuột	Q33469		12.666666666667,108.05
+dvp_099_place_108	Thailand	Q869		14,101
+dvp_099_place_109	Buôn Ma Thuột	Q33469		12.666666666667,108.05
+dvp_099_place_110	San Francisco	Q62		37.7775,-122.41638888888889
+dvp_099_place_111	New York	Q1384		43,-75
+dvp_099_place_112	France	Q142		47,2
+dvp_099_place_113	Netherlands	Q55		52.316666666667,5.55
+dvp_099_place_114	Germany	Q183		51,10
+dvp_099_place_115	Germany	Q183		51,10
+dvp_099_place_116	Vietnam	Q881		16,108
+dvp_099_place_117	Hanover	Q131908		43.7,-72.28333333333333
+dvp_099_place_118	Vietnam	Q881		16,108
+dvp_099_place_119	West Coast			
+dvp_099_place_120	Vietnam	Q881		16,108
+dvp_099_place_121	Vietnam	Q881		16,108
+dvp_099_place_122	Vietnam	Q881		16,108
+dvp_099_place_123	San Francisco	Q62		37.7775,-122.41638888888889
+dvp_099_place_124	San Francisco	Q62		37.7775,-122.41638888888889
+dvp_099_place_125	San Francisco	Q62		37.7775,-122.41638888888889
+dvp_099_place_126	Washington, D.C.	Q61		38.895,-77.036666666667
+dvp_099_place_127	Vietnam	Q881		16,108
+dvp_099_place_128	Vietnam	Q881		16,108
+dvp_099_place_129	England	Q21		53,-1
+dvp_099_place_130	Hanoi	Q1858		21.0245,105.84117
+dvp_099_place_131	Maine	Q724		45.5,-69
+dvp_099_place_132	Vietnam	Q881		16,108
+dvp_099_place_133	Maine	Q724		45.5,-69
+dvp_099_place_134	Vietnam	Q881		16,108
+dvp_099_place_135	Quảng Ngãi	Q33304		15,108.66666666667
+dvp_099_place_136	Vietnam	Q881		16,108
+dvp_099_place_137	Thousand Buddha Mountain	Q2208134		36.645278,117.026944
+dvp_099_place_138	Vietnam	Q881		16,108
+dvp_099_place_139	Russia	Q159		66.41666666666667,94.25
+dvp_099_place_140	Vietnam	Q881		16,108
+dvp_099_place_141	Texas	Q1439		31,-100
+dvp_099_place_142	North Carolina	Q1454		35.5,-80
+dvp_099_place_143	Texas	Q1439		31,-100
+dvp_099_place_144	Vietnam	Q881		16,108
+dvp_099_place_145	Washington, D.C.	Q61		38.895,-77.036666666667
+dvp_099_place_146	National Archives and Records Administration	Q518155		38.89278,-77.02298
+dvp_099_place_147	Vietnam	Q881		16,108
