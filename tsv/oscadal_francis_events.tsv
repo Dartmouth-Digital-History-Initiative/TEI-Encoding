@@ -1,33 +1,33 @@
-id	name
-dvp_015_event_0	Depression
-dvp_015_event_1	the Second World War
-dvp_015_event_2	Depression
-dvp_015_event_3	World War I
-dvp_015_event_4	World War II
-dvp_015_event_5	World War II
-dvp_015_event_6	World War I.
-dvp_015_event_7	[Allied invasion of] Sicily and Italian Campaign
-dvp_015_event_8	Sicily and Italian Campaign
-dvp_015_event_9	Vietnam
-dvp_015_event_10	1964 presidential election
-dvp_015_event_11	Vietnam
-dvp_015_event_12	Vietnam
-dvp_015_event_13	Gulf of Tonkin incident
-dvp_015_event_14	’64 election
-dvp_015_event_15	Vietnam
-dvp_015_event_16	election in ’64
-dvp_015_event_17	[Ngô Đình] Diệm cou
-dvp_015_event_18	election in ’64
-dvp_015_event_19	Vietnam
-dvp_015_event_20	’64 election
-dvp_015_event_21	Second World War
-dvp_015_event_22	World War II
-dvp_015_event_23	World War II
-dvp_015_event_24	March on Washington
-dvp_015_event_25	March on Washington
-dvp_015_event_26	Vietnam
-dvp_015_event_27	Stonewall [riots]
-dvp_015_event_28	Vietnam
-dvp_015_event_29	Vietnam
-dvp_015_event_30	Vietnam
-dvp_015_event_31	Watergate [the Watergate scandal]
+id	name	QID	dvp_id	start time	end time	point in time
+dvp_015_event_0	Great Depression in the United States	Q696482		1929-10-24T00:00:00Z	1939-01-01T00:00:00Z	
+dvp_015_event_1	World War II	Q362		1939-09-01T00:00:00Z	1945-09-02T00:00:00Z	
+dvp_015_event_2	Great Depression in the United States	Q696482		1929-10-24T00:00:00Z	1939-01-01T00:00:00Z	
+dvp_015_event_3	World War I	Q361		1914-07-28T00:00:00Z	1918-11-11T00:00:00Z	
+dvp_015_event_4	World War II	Q362		1939-09-01T00:00:00Z	1945-09-02T00:00:00Z	
+dvp_015_event_5	World War II	Q362		1939-09-01T00:00:00Z	1945-09-02T00:00:00Z	
+dvp_015_event_6	World War I	Q361		1914-07-28T00:00:00Z	1918-11-11T00:00:00Z	
+dvp_015_event_7	Allied invasion of Sicily	Q217981		1943-07-09T00:00:00Z	1944-08-17T00:00:00Z	1943-08-17T00:00:00Z
+dvp_015_event_8	Allied invasion of Sicily	Q217981		1943-07-09T00:00:00Z	1944-08-17T00:00:00Z	1943-08-17T00:00:00Z
+dvp_015_event_9	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_015_event_10	1964 United States presidential election	Q699646				1964-11-03T00:00:00Z
+dvp_015_event_11	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_015_event_12	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_015_event_13	Gulf of Tonkin incident	Q482402		1964-08-02T00:00:00Z	1964-08-04T00:00:00Z	1964-08-02T00:00:00Z
+dvp_015_event_14	1964 United States presidential election	Q699646				1964-11-03T00:00:00Z
+dvp_015_event_15	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_015_event_16	1964 United States Grand Prix	Q595551				1964-10-04T00:00:00Z
+dvp_015_event_17	[Ngô Đình] Diệm cou					
+dvp_015_event_18	1964 United States Grand Prix	Q595551				1964-10-04T00:00:00Z
+dvp_015_event_19	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_015_event_20	1964 United States presidential election	Q699646				1964-11-03T00:00:00Z
+dvp_015_event_21	World War II	Q362		1939-09-01T00:00:00Z	1945-09-02T00:00:00Z	
+dvp_015_event_22	World War II	Q362		1939-09-01T00:00:00Z	1945-09-02T00:00:00Z	
+dvp_015_event_23	World War II	Q362		1939-09-01T00:00:00Z	1945-09-02T00:00:00Z	
+dvp_015_event_24	March on Washington for Jobs and Freedom	Q1128871				1963-08-28T00:00:00Z
+dvp_015_event_25	March on Washington for Jobs and Freedom	Q1128871				1963-08-28T00:00:00Z
+dvp_015_event_26	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_015_event_27	Stonewall riots	Q51402				1969-06-28T00:00:00Z
+dvp_015_event_28	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_015_event_29	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_015_event_30	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_015_event_31	Watergate scandal	Q42761				1972-06-17T08:00:00Z
