@@ -1,4 +1,4 @@
-id	name	Qid	dvp_id	start time	end time	point in time
+id	name	QID	dvp_id	start time	end time	point in time
 dvp_070_event_0	assassination of John F. Kennedy	Q193484				1963-11-22T00:00:00Z
 dvp_070_event_1	American Civil War	Q8676		1861-04-11T00:00:00Z	1865-05-10T00:00:00Z	
 dvp_070_event_2	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
