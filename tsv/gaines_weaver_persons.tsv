@@ -1,59 +1,59 @@
-id	persName
-dvp_095_person_0	Riley Collins [‘18]
-dvp_095_person_1	Weaver Gaines
-dvp_095_person_2	Weaver
-dvp_095_person_3	Weaver
-dvp_095_person_4	Weaver
-dvp_095_person_5	Riley
-dvp_095_person_6	Riley
-dvp_095_person_7	Joe Yukica
-dvp_095_person_8	[Robert L.] Bob Blackmon
-dvp_095_person_9	Weaver
-dvp_095_person_10	Alfred P. Sloan
-dvp_095_person_11	Weaver
-dvp_095_person_12	Sergeant Major [William R.] Brown
-dvp_095_person_13	Gaines
-dvp_095_person_14	Gaines
-dvp_095_person_15	[John G.] Kemeny
-dvp_095_person_16	Weaver
-dvp_095_person_17	[James] Chaney
-dvp_095_person_18	[Michael] Schwerner
-dvp_095_person_19	Jeff Sessions
-dvp_095_person_20	[President Lyndon B.] Johnson
-dvp_095_person_21	Weaver
-dvp_095_person_22	Riley
-dvp_095_person_23	Schwerner
-dvp_095_person_24	Cheney
-dvp_095_person_25	Johnson
-dvp_095_person_26	Riley
-dvp_095_person_27	Riley
-dvp_095_person_28	Riley
-dvp_095_person_29	Napoleon
-dvp_095_person_30	Riley
-dvp_095_person_31	Riley
-dvp_095_person_32	John Seel
-dvp_095_person_33	Specialist 5 [John] Wheat
-dvp_095_person_34	Ralph
-dvp_095_person_35	John Seel
-dvp_095_person_36	John Wheat
-dvp_095_person_37	Wheat
-dvp_095_person_38	John [Seel]
-dvp_095_person_39	Mulderig
-dvp_095_person_40	Mulderig
-dvp_095_person_41	Mulderig
-dvp_095_person_42	Wheat
-dvp_095_person_43	Advocate
-dvp_095_person_44	Colonel Wayne
-dvp_095_person_45	Mulderig
-dvp_095_person_46	Martin Luther King [, Jr.]
-dvp_095_person_47	Martin Luther King
-dvp_095_person_48	Robert Kennedy
-dvp_095_person_49	Jonathan Schell
-dvp_095_person_50	General Giap [Vo Nguyen Giap]
-dvp_095_person_51	[Henry] Kissinger
-dvp_095_person_52	Riley
-dvp_095_person_53	Riley
-dvp_095_person_54	Riley
-dvp_095_person_55	John Seel
-dvp_095_person_56	Weaver
-dvp_095_person_57	Riley
+id	persName	QID	dvp_id
+dvp_095_person_0	Riley Collins [‘18]		dvp_0393
+dvp_095_person_1	Weaver Gaines		dvp_0916
+dvp_095_person_2	Weaver		dvp_0916
+dvp_095_person_3	Weaver		dvp_0916
+dvp_095_person_4	Weaver		dvp_0916
+dvp_095_person_5	Riley		dvp_0393
+dvp_095_person_6	Riley		dvp_0393
+dvp_095_person_7	Joe Yukica	Q6213091	
+dvp_095_person_8	Bob Blackmon	Q100752320	
+dvp_095_person_9	Weaver		dvp_0916
+dvp_095_person_10	Alfred P. Sloan	Q344045	
+dvp_095_person_11	Weaver		dvp_0916
+dvp_095_person_12	William R. Brown	Q101500331	
+dvp_095_person_13	Gaines		dvp_0916
+dvp_095_person_14	Gaines		dvp_0916
+dvp_095_person_15	John George Kemeny	Q28900	
+dvp_095_person_16	Weaver		dvp_0916
+dvp_095_person_17	James Chaney	Q2733240	
+dvp_095_person_18	Michael Schwerner	Q1354034	
+dvp_095_person_19	Jeff Sessions	Q358443	
+dvp_095_person_20	Lyndon B. Johnson	Q9640	
+dvp_095_person_21	Weaver		dvp_0916
+dvp_095_person_22	Riley		dvp_0393
+dvp_095_person_23	Michael Schwerner	Q1354034	
+dvp_095_person_24	Dick Cheney	Q48259	
+dvp_095_person_25	Lyndon B. Johnson	Q9640	
+dvp_095_person_26	Riley		dvp_0393
+dvp_095_person_27	Riley		dvp_0393
+dvp_095_person_28	Riley		dvp_0393
+dvp_095_person_29	Napoleon	Q517	
+dvp_095_person_30	Riley		dvp_0393
+dvp_095_person_31	Riley		dvp_0393
+dvp_095_person_32	John Charles Seel	Q107704457	
+dvp_095_person_33	Specialist 5 [John] Wheat		dvp_0917
+dvp_095_person_34	Ralph		dvp_0918
+dvp_095_person_35	John Charles Seel	Q107704457	
+dvp_095_person_36	John Wheat		dvp_0917
+dvp_095_person_37	Wheat		dvp_0917
+dvp_095_person_38	John Charles Seel	Q107704457	
+dvp_095_person_39	Mulderig		dvp_0919
+dvp_095_person_40	Mulderig		dvp_0919
+dvp_095_person_41	Mulderig		dvp_0919
+dvp_095_person_42	Wheat		dvp_0917
+dvp_095_person_43	Advocate		
+dvp_095_person_44	Colonel Wayne		dvp_0920
+dvp_095_person_45	Mulderig		dvp_0919
+dvp_095_person_46	Martin Luther King Jr.	Q8027	
+dvp_095_person_47	Martin Luther King Jr.	Q8027	
+dvp_095_person_48	Robert F. Kennedy	Q25310	
+dvp_095_person_49	Jonathan Schell	Q1703300	
+dvp_095_person_50	Võ Nguyên Giáp	Q179910	
+dvp_095_person_51	Henry Kissinger	Q66107	
+dvp_095_person_52	Riley		dvp_0393
+dvp_095_person_53	Riley		dvp_0393
+dvp_095_person_54	Riley		dvp_0393
+dvp_095_person_55	John Charles Seel	Q107704457	
+dvp_095_person_56	Weaver		dvp_0916
+dvp_095_person_57	Riley		dvp_0393
