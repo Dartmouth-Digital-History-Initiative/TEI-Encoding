@@ -1,113 +1,113 @@
-id	persName
-dvp_099_person_0	Leigh Steinberg [‘18]
-dvp_099_person_1	Jane Griffith Barton
-dvp_099_person_2	Jane
-dvp_099_person_3	Thomas Couser ‘68
-dvp_099_person_4	Angus King
-dvp_099_person_5	Martin Luther King
-dvp_099_person_6	JFK
-dvp_099_person_7	General Kelly
-dvp_099_person_8	Virgil
-dvp_099_person_9	Virgil
-dvp_099_person_10	Virgil
-dvp_099_person_11	Virgil
-dvp_099_person_12	Harriet Abrams
-dvp_099_person_13	Chuck Benson [‘66]
-dvp_099_person_14	[Bill] Clinton
-dvp_099_person_15	Bob [Robert] Reich
-dvp_099_person_16	Strobe Talbott
-dvp_099_person_17	[Madeleine] Albright
-dvp_099_person_18	David
-dvp_099_person_19	Professor Miller
-dvp_099_person_20	[Henry] Kissinger
-dvp_099_person_21	[President Gerald] Ford
-dvp_099_person_22	Ho Chi Minh
-dvp_099_person_23	Diane Jones
-dvp_099_person_24	Sophie Quinn Judge
-dvp_099_person_25	Paul Quinn Judge
-dvp_099_person_26	Che Mai
-dvp_099_person_27	Diane
-dvp_099_person_28	Claudia
-dvp_099_person_29	Claudia
-dvp_099_person_30	Diane
-dvp_099_person_31	Diane
-dvp_099_person_32	Sophie
-dvp_099_person_33	Paul
-dvp_099_person_34	Sophie
-dvp_099_person_35	Diane
-dvp_099_person_36	Diane
-dvp_099_person_37	Paul
-dvp_099_person_38	Sophie
-dvp_099_person_39	Paul
-dvp_099_person_40	Sophie
-dvp_099_person_41	Diane
-dvp_099_person_42	Diane
-dvp_099_person_43	Paul
-dvp_099_person_44	Sophie
-dvp_099_person_45	Diane
-dvp_099_person_46	Che Mai
-dvp_099_person_47	Paul
-dvp_099_person_48	Sophie
-dvp_099_person_49	Paul
-dvp_099_person_50	Sophie
-dvp_099_person_51	Che Mai
-dvp_099_person_52	Che Mai
-dvp_099_person_53	Che Mai
-dvp_099_person_54	Frances Fitzgerald
-dvp_099_person_55	Che Mai
-dvp_099_person_56	Mai’s
-dvp_099_person_57	Sophie
-dvp_099_person_58	Che Mai
-dvp_099_person_59	Mariah Mai
-dvp_099_person_60	Mai
-dvp_099_person_61	Mai
-dvp_099_person_62	Mai
-dvp_099_person_63	Thuy [Dang Thuy Tram]
-dvp_099_person_64	Thuy
-dvp_099_person_65	Che Mai
-dvp_099_person_66	Mai
-dvp_099_person_67	Thuy
-dvp_099_person_68	Mai
-dvp_099_person_69	Thuy
-dvp_099_person_70	Mai
-dvp_099_person_71	Mai
-dvp_099_person_72	Thuy
-dvp_099_person_73	Che Mai
-dvp_099_person_74	[James S.] Olso
-dvp_099_person_75	[Randy] Roberts
-dvp_099_person_76	Loi
-dvp_099_person_77	[Senator] Edward Kennedy
-dvp_099_person_78	Bob
-dvp_099_person_79	Bob
-dvp_099_person_80	Miller’s
-dvp_099_person_81	Diane
-dvp_099_person_82	Claudia
-dvp_099_person_83	Sophie
-dvp_099_person_84	Sophie
-dvp_099_person_85	Che Mai
-dvp_099_person_86	Che Mai
-dvp_099_person_87	Ho Chi Minh
-dvp_099_person_88	Frankie [Frances] Fitzgerald
-dvp_099_person_89	Thuy
-dvp_099_person_90	Thuy
-dvp_099_person_91	Fred Whitehurst
-dvp_099_person_92	Fred
-dvp_099_person_93	Fred
-dvp_099_person_94	Fred
-dvp_099_person_95	Rob
-dvp_099_person_96	Fred
-dvp_099_person_97	Rob
-dvp_099_person_98	Rob
-dvp_099_person_99	Fred
-dvp_099_person_100	Fred
-dvp_099_person_101	Fred
-dvp_099_person_102	Fred
-dvp_099_person_103	Fred
-dvp_099_person_104	Fred
-dvp_099_person_105	Fred
-dvp_099_person_106	Rob
-dvp_099_person_107	Tram
-dvp_099_person_108	Thuy
-dvp_099_person_109	Thuy
-dvp_099_person_110	Rob
-dvp_099_person_111	Thuy
+id	persName	QID	dvp_id
+dvp_099_person_0	Leigh Steinberg [‘18]		dvp_0933
+dvp_099_person_1	Jane Griffith Barton	Q108881351	
+dvp_099_person_2	Jane Griffith Barton	Q108881351	
+dvp_099_person_3	G Thomas Couser	Q60057633	
+dvp_099_person_4	Angus King	Q544464	
+dvp_099_person_5	Martin Luther King Jr.	Q8027	
+dvp_099_person_6	John F. Kennedy	Q9696	
+dvp_099_person_7	Mark Kelly	Q6768343	
+dvp_099_person_8	Virgil		
+dvp_099_person_9	Virgil		
+dvp_099_person_10	Virgil		
+dvp_099_person_11	Virgil		
+dvp_099_person_12	Harriett Abrams	Q11925257	
+dvp_099_person_13	Chuck Benson [‘66]		dvp_0934
+dvp_099_person_14	Bill Clinton	Q1124	
+dvp_099_person_15	Robert Reich	Q718828	
+dvp_099_person_16	Strobe Talbott	Q1287886	
+dvp_099_person_17	Madeleine Albright	Q174438	
+dvp_099_person_18	David		dvp_0938
+dvp_099_person_19	Edward J Miller	Q57219754	
+dvp_099_person_20	Henry Kissinger	Q66107	
+dvp_099_person_21	Gerald Ford	Q9582	
+dvp_099_person_22	Ho Chi Minh	Q36014	
+dvp_099_person_23	Diane Jones-Konihowski	Q5271488	
+dvp_099_person_24	Sophie Quinn Judge	Q108881342	
+dvp_099_person_25	Paul Quinn-Judge	Q108881344	
+dvp_099_person_26	Che Mai		dvp_0935
+dvp_099_person_27	Nadja Diane	Q13427045	
+dvp_099_person_28	Claudia		dvp_0936
+dvp_099_person_29	Claudia		dvp_0936
+dvp_099_person_30	Nadja Diane	Q13427045	
+dvp_099_person_31	Nadja Diane	Q13427045	
+dvp_099_person_32	Sophie Quinn Judge	Q108881342	
+dvp_099_person_33	Paul Quinn-Judge	Q108881344	
+dvp_099_person_34	Sophie Quinn Judge	Q108881342	
+dvp_099_person_35	Nadja Diane	Q13427045	
+dvp_099_person_36	Nadja Diane	Q13427045	
+dvp_099_person_37	Paul Quinn-Judge	Q108881344	
+dvp_099_person_38	Sophie Quinn Judge	Q108881342	
+dvp_099_person_39	Paul Quinn-Judge	Q108881344	
+dvp_099_person_40	Sophie Quinn Judge	Q108881342	
+dvp_099_person_41	Nadja Diane	Q13427045	
+dvp_099_person_42	Nadja Diane	Q13427045	
+dvp_099_person_43	Paul Quinn-Judge	Q108881344	
+dvp_099_person_44	Sophie Quinn Judge	Q108881342	
+dvp_099_person_45	Nadja Diane	Q13427045	
+dvp_099_person_46	Che Mai		dvp_0935
+dvp_099_person_47	Paul Quinn-Judge	Q108881344	
+dvp_099_person_48	Sophie Quinn Judge	Q108881342	
+dvp_099_person_49	Paul Quinn-Judge	Q108881344	
+dvp_099_person_50	Sophie Quinn Judge	Q108881342	
+dvp_099_person_51	Che Mai		dvp_0935
+dvp_099_person_52	Che Mai		dvp_0935
+dvp_099_person_53	Che Mai		dvp_0935
+dvp_099_person_54	Frances FitzGerald	Q540812	
+dvp_099_person_55	Che Mai		dvp_0935
+dvp_099_person_56	Mai’s		dvp_0935
+dvp_099_person_57	Sophie Quinn Judge	Q108881342	
+dvp_099_person_58	Che Mai		dvp_0935
+dvp_099_person_59	Mariah Mai		dvp_0937
+dvp_099_person_60	Mai		dvp_0935
+dvp_099_person_61	Mai		dvp_0935
+dvp_099_person_62	Mai		dvp_0935
+dvp_099_person_63	Dang Thuy Tram	Q910721	
+dvp_099_person_64	Dang Thuy Tram	Q910721	
+dvp_099_person_65	Che Mai		dvp_0935
+dvp_099_person_66	Mai		dvp_0935
+dvp_099_person_67	Dang Thuy Tram	Q910721	
+dvp_099_person_68	Mai		dvp_0935
+dvp_099_person_69	Dang Thuy Tram	Q910721	
+dvp_099_person_70	Mai		dvp_0935
+dvp_099_person_71	Mai		dvp_0935
+dvp_099_person_72	Dang Thuy Tram	Q910721	
+dvp_099_person_73	Che Mai		dvp_0935
+dvp_099_person_74	James S Olson	Q108881339	
+dvp_099_person_75	Randy Roberts	Q24007550	
+dvp_099_person_76	Loi		dvp_0939
+dvp_099_person_77	Ted Kennedy	Q134549	
+dvp_099_person_78	Robert Reich	Q718828	
+dvp_099_person_79	Robert Reich	Q718828	
+dvp_099_person_80	Edward J Miller	Q57219754	
+dvp_099_person_81	Nadja Diane	Q13427045	
+dvp_099_person_82	Claudia		dvp_0936
+dvp_099_person_83	Sophie Quinn Judge	Q108881342	
+dvp_099_person_84	Sophie Quinn Judge	Q108881342	
+dvp_099_person_85	Che Mai		dvp_0935
+dvp_099_person_86	Che Mai		dvp_0935
+dvp_099_person_87	Ho Chi Minh	Q36014	
+dvp_099_person_88	Frances FitzGerald		
+dvp_099_person_89	Dang Thuy Tram	Q910721	
+dvp_099_person_90	Dang Thuy Tram	Q910721	
+dvp_099_person_91	Fred Whitehurst		dvp_0940
+dvp_099_person_92	Fred		dvp_0940
+dvp_099_person_93	Fred		dvp_0940
+dvp_099_person_94	Fred		dvp_0940
+dvp_099_person_95	Rob		dvp_0941
+dvp_099_person_96	Fred		dvp_0940
+dvp_099_person_97	Rob		dvp_0941
+dvp_099_person_98	Rob		dvp_0941
+dvp_099_person_99	Fred		dvp_0940
+dvp_099_person_100	Fred		dvp_0940
+dvp_099_person_101	Fred		dvp_0940
+dvp_099_person_102	Fred		dvp_0940
+dvp_099_person_103	Fred		dvp_0940
+dvp_099_person_104	Fred		dvp_0940
+dvp_099_person_105	Fred		dvp_0940
+dvp_099_person_106	Rob		dvp_0941
+dvp_099_person_107	Nguyen Thi Ngoc Tram	Q36645551	
+dvp_099_person_108	Dang Thuy Tram	Q910721	
+dvp_099_person_109	Dang Thuy Tram	Q910721	
+dvp_099_person_110	Rob		dvp_0941
+dvp_099_person_111	Dang Thuy Tram	Q910721	
