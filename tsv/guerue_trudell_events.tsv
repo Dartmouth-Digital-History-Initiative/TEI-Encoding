@@ -1,20 +1,20 @@
-id	name
-dvp_100_event_0	World War I.
-dvp_100_event_1	World War I
-dvp_100_event_2	he was assassinated
-dvp_100_event_3	Kennedys were killed
-dvp_100_event_4	Vietnam War
-dvp_100_event_5	Tet Offensive
-dvp_100_event_6	World War II
-dvp_100_event_7	Korea
-dvp_100_event_8	World War II
-dvp_100_event_9	Tet Offensive
-dvp_100_event_10	Kent State shootings
-dvp_100_event_11	Vietnam
-dvp_100_event_12	Parkhurst takeover
-dvp_100_event_13	US withdrawing from Vietnam
-dvp_100_event_14	Vietnam
-dvp_100_event_15	Vietnam War
-dvp_100_event_16	Vietnam
-dvp_100_event_17	Vietnam
-dvp_100_event_18	Vietnam
+id	name	QID	start time	end time	point in time
+dvp_100_event_0	World War I	Q361	1914-07-28T00:00:00Z	1918-11-11T00:00:00Z	
+dvp_100_event_1	World War I	Q361	1914-07-28T00:00:00Z	1918-11-11T00:00:00Z	
+dvp_100_event_2	assassination of John F. Kennedy	Q193484			1963-11-22T00:00:00Z
+dvp_100_event_3	assassination of John F. Kennedy	Q193484			1963-11-22T00:00:00Z
+dvp_100_event_4	Vietnam War	Q8740	1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_100_event_5	Tet Offensive	Q82542	1968-01-30T00:00:00Z	1968-09-23T00:00:00Z	
+dvp_100_event_6	World War II	Q362	1939-09-01T00:00:00Z	1945-09-02T00:00:00Z	
+dvp_100_event_7	Korean War	Q8663	1950-06-25T00:00:00Z	1953-07-27T00:00:00Z	
+dvp_100_event_8	World War II	Q362	1939-09-01T00:00:00Z	1945-09-02T00:00:00Z	
+dvp_100_event_9	Tet Offensive	Q82542	1968-01-30T00:00:00Z	1968-09-23T00:00:00Z	
+dvp_100_event_10	Kent State shootings	Q482635	1970-05-04T00:00:00Z	1970-05-04T00:00:00Z	
+dvp_100_event_11	Vietnam War	Q8740	1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_100_event_12	Parkhurst Hall Takeover	Q101424872			1969-05-06T00:00:00Z
+dvp_100_event_13	Paris Peace Accords	Q696802			1973-01-27T00:00:00Z
+dvp_100_event_14	Vietnam War	Q8740	1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_100_event_15	Vietnam War	Q8740	1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_100_event_16	Vietnam War	Q8740	1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_100_event_17	Vietnam War	Q8740	1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_100_event_18	Vietnam War	Q8740	1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
