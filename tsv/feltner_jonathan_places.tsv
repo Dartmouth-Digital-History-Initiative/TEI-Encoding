@@ -1,4 +1,4 @@
-id	placeName	Qid	dvp_id	coordinate location
+id	placeName	QID	dvp_id	coordinate location
 dvp_093_place_0	Rauner Special Collections Library	Q98544730		43.70447,-72.28817
 dvp_093_place_1	New York	Q1384		43,-75
 dvp_093_place_2	Dartmouth–Hitchcock Medical Center	Q14705324		43.6761,-72.2733
@@ -31,6 +31,7 @@ dvp_093_place_28	Montreal	Q340		45.508888888889,-73.561666666667
 dvp_093_place_29	Montreal	Q340		45.508888888889,-73.561666666667
 dvp_093_place_30	Vietnam	Q881		16,108
 dvp_093_place_31	Marine Corps Base Quantico	Q1374564		38.50194,-77.30583
+				
 dvp_093_place_32	Vietnam	Q881		16,108
 dvp_093_place_33	Quantico	Q204315		38.521871,-77.289757
 dvp_093_place_34	Quantico	Q204315		38.521871,-77.289757
@@ -51,25 +52,26 @@ dvp_093_place_48	Vietnamese Demilitarized Zone	Q2349960		16.9875,107.0359
 dvp_093_place_49	Vietnamese Demilitarized Zone	Q2349960		16.9875,107.0359
 dvp_093_place_50	Vietnam	Q881		16,108
 dvp_093_place_51	South Vietnam	Q180573		10.75,106.66666666667
-dvp_093_place_52	I Corps	Q5976677		
+dvp_093_place_52	I Corps	Q1652977		16.68743, 106.884773
 dvp_093_place_53	II Corps	Q5971479		
 dvp_093_place_54	Institute of Infection and Immunity	Q30264176		46.769473,-71.282797
-dvp_093_place_55	IV Corps	Q5975531		
-dvp_093_place_56	I Corps	Q5976677		
-dvp_093_place_57	I Corps	Q5976677		
+dvp_093_place_55	IV Corps	Q105670558		10.1226,105.5356
+dvp_093_place_56	I Corps	Q1652977		16.68743, 106.884773
+dvp_093_place_57	I Corps	Q5976677		16.68743, 106.884773
 dvp_093_place_58	Quảng Trị	Q1320413		16.752222222222,107.18722222222
 dvp_093_place_59	17th parallel north	Q1204177		17,0
 dvp_093_place_60	Đông Hà	Q33343		16.805555555556,107.09055555556
 dvp_093_place_61	IV Corps	Q105670558		10.1226,105.5356
 dvp_093_place_62	III Corps	Q5971303		11.202314,107.079378
 dvp_093_place_63	II Corps	Q5971479		
-dvp_093_place_64	I Corps	Q5976677		
-dvp_093_place_65	I Corps	Q5976677		
-dvp_093_place_66	I Corps	Q5976677		
+dvp_093_place_64	I Corps	Q1652977		16.68743, 106.884773
+dvp_093_place_65	I Corps	Q1652977		16.68743, 106.884773
+dvp_093_place_66	I Corps	Q1652977		16.68743, 106.884773
 dvp_093_place_67	Mekong Delta	Q1052867		10.009,105.824
+				
 dvp_093_place_68	Central Highlands	Q1140648		13.75,108.25
 dvp_093_place_69	Quảng Trị	Q1320413		16.752222222222,107.18722222222
-dvp_093_place_70	I Corps	Q5976677		
+dvp_093_place_70	I Corps	Q1652977		16.68743, 106.884773
 dvp_093_place_71	Ho Chi Minh trail	Q695916		18.6852,104.8373
 dvp_093_place_72	Đông Hà	Q33343		16.805555555556,107.09055555556
 dvp_093_place_73	Vietnamese Demilitarized Zone	Q2349960		16.9875,107.0359
@@ -123,7 +125,7 @@ dvp_093_place_120	Mai Xa Thi
 dvp_093_place_121	Jones Creek			
 dvp_093_place_122	Boston	Q100		42.358333333333,-71.0625
 dvp_093_place_123	West Virginia	Q1371		39,-80.5
-dvp_093_place_124	Phu Bai Combat Base	Q18392575		
+dvp_093_place_124	Phu Bai Combat Base	Q18392575		16.401667, 107.702778
 dvp_093_place_125	Vietnam	Q881		16,108
 dvp_093_place_126	Vietnam	Q881		16,108
 dvp_093_place_127	Mai Xá, Gio Mai	Q6735198		16.8787,107.1325
@@ -143,30 +145,40 @@ dvp_093_place_140	Đông Hà	Q33343		16.805555555556,107.09055555556
 dvp_093_place_141	Thach Han River	Q7708871		16.9025,107.18888888889
 dvp_093_place_142	Thach Han River	Q7708871		16.9025,107.18888888889
 dvp_093_place_143	Vietnam	Q881		16,108
-dvp_093_place_144	National Route 1A	Q1372266		
-dvp_093_place_145	National Route 1A	Q1372266		
+dvp_093_place_144	National Route 1A	Q1372266		16.6178898,106.9961502
+dvp_093_place_145	National Route 1A	Q1372266		16.6178898,106.9961502
 dvp_093_place_146	Vietnam	Q881		16,108
-dvp_093_place_147	National Route 1A	Q1372266		
+dvp_093_place_147	National Route 1A	Q1372266		16.6178898,106.9961502
 dvp_093_place_148	National Route 9	Q936462		16.6415,105.6665
 dvp_093_place_149	National Route 9	Q936462		16.6415,105.6665
 dvp_093_place_150	Laos	Q819		18.2,104
 dvp_093_place_151	Khe Sanh	Q1924264		16.627211111111,106.73733333333
+				
 dvp_093_place_152	National Route 9	Q936462		16.6415,105.6665
 dvp_093_place_153	Khe Sanh	Q1924264		16.627211111111,106.73733333333
+				
 dvp_093_place_154	Ca Lu	Q5015163		16.69208611,106.88569167
 dvp_093_place_155	Hill 512			
 dvp_093_place_156	Khe Sanh	Q1924264		16.627211111111,106.73733333333
+				
 dvp_093_place_157	Khe Sanh	Q1924264		16.627211111111,106.73733333333
+				
 dvp_093_place_158	Khe Sanh	Q1924264		16.627211111111,106.73733333333
+				
 dvp_093_place_159	Khe Sanh Combat Base	Q3012164		16.65444444,106.73083333
 dvp_093_place_160	Laos	Q819		18.2,104
 dvp_093_place_161	Khe Sanh	Q1924264		16.627211111111,106.73733333333
+				
 dvp_093_place_162	Điện Biên Phủ	Q36027		21.383333333333,103.01694444444
 dvp_093_place_163	Điện Biên Phủ	Q36027		21.383333333333,103.01694444444
 dvp_093_place_164	Khe Sanh	Q1924264		16.627211111111,106.73733333333
+				
 dvp_093_place_165	Khe Sanh	Q1924264		16.627211111111,106.73733333333
+				
 dvp_093_place_166	Khe Sanh	Q1924264		16.627211111111,106.73733333333
+				
 dvp_093_place_167	Khe Sanh	Q1924264		16.627211111111,106.73733333333
+				
 dvp_093_place_168	National Route 9	Q936462		16.6415,105.6665
 dvp_093_place_169	National Route 9	Q936462		16.6415,105.6665
 dvp_093_place_170	Vietnam	Q881		16,108
@@ -175,15 +187,21 @@ dvp_093_place_172	Quang Tri River
 dvp_093_place_173	Quang Tri River			
 dvp_093_place_174	Quảng Trị	Q1320413		16.752222222222,107.18722222222
 dvp_093_place_175	Khe Sanh	Q1924264		16.627211111111,106.73733333333
+				
 dvp_093_place_176	Dakrong Bridge	Q61129922		16.657389,106.816496
 dvp_093_place_177	Khe Sanh	Q1924264		16.627211111111,106.73733333333
+				
 dvp_093_place_178	Đông Hà	Q33343		16.805555555556,107.09055555556
 dvp_093_place_179	Khe Sanh	Q1924264		16.627211111111,106.73733333333
+				
 dvp_093_place_180	National Route 9	Q936462		16.6415,105.6665
 dvp_093_place_181	Khe Sanh	Q1924264		16.627211111111,106.73733333333
+				
 dvp_093_place_182	Quảng Trị	Q1320413		16.752222222222,107.18722222222
 dvp_093_place_183	Khe Sanh	Q1924264		16.627211111111,106.73733333333
+				
 dvp_093_place_184	Khe Sanh	Q1924264		16.627211111111,106.73733333333
+				
 dvp_093_place_185	Quang Tri River			
 dvp_093_place_186	Monument Road			
 dvp_093_place_187	Ho Chi Minh trail	Q695916		18.6852,104.8373
