@@ -31,7 +31,6 @@ dvp_093_place_28	Montreal	Q340		45.508888888889,-73.561666666667
 dvp_093_place_29	Montreal	Q340		45.508888888889,-73.561666666667
 dvp_093_place_30	Vietnam	Q881		16,108
 dvp_093_place_31	Marine Corps Base Quantico	Q1374564		38.50194,-77.30583
-				
 dvp_093_place_32	Vietnam	Q881		16,108
 dvp_093_place_33	Quantico	Q204315		38.521871,-77.289757
 dvp_093_place_34	Quantico	Q204315		38.521871,-77.289757
@@ -53,7 +52,7 @@ dvp_093_place_49	Vietnamese Demilitarized Zone	Q2349960		16.9875,107.0359
 dvp_093_place_50	Vietnam	Q881		16,108
 dvp_093_place_51	South Vietnam	Q180573		10.75,106.66666666667
 dvp_093_place_52	I Corps	Q1652977		16.68743, 106.884773
-dvp_093_place_53	II Corps	Q5971479		
+dvp_093_place_53	II Corps	Q5971479		13.2420404,104.6480381
 dvp_093_place_54	Institute of Infection and Immunity	Q30264176		46.769473,-71.282797
 dvp_093_place_55	IV Corps	Q105670558		10.1226,105.5356
 dvp_093_place_56	I Corps	Q1652977		16.68743, 106.884773
@@ -63,12 +62,11 @@ dvp_093_place_59	17th parallel north	Q1204177		17,0
 dvp_093_place_60	Đông Hà	Q33343		16.805555555556,107.09055555556
 dvp_093_place_61	IV Corps	Q105670558		10.1226,105.5356
 dvp_093_place_62	III Corps	Q5971303		11.202314,107.079378
-dvp_093_place_63	II Corps	Q5971479		
+dvp_093_place_63	II Corps	Q5971479		13.2420404,104.6480381
 dvp_093_place_64	I Corps	Q1652977		16.68743, 106.884773
 dvp_093_place_65	I Corps	Q1652977		16.68743, 106.884773
 dvp_093_place_66	I Corps	Q1652977		16.68743, 106.884773
 dvp_093_place_67	Mekong Delta	Q1052867		10.009,105.824
-				
 dvp_093_place_68	Central Highlands	Q1140648		13.75,108.25
 dvp_093_place_69	Quảng Trị	Q1320413		16.752222222222,107.18722222222
 dvp_093_place_70	I Corps	Q1652977		16.68743, 106.884773
@@ -104,38 +102,38 @@ dvp_093_place_99	Ho Chi Minh City	Q1854		10.816666666667,106.63333333333
 dvp_093_place_100	Da Nang	Q25282		16.069444444444443,108.20972222222223
 dvp_093_place_101	Vietnam	Q881		16,108
 dvp_093_place_102	Okinawa Island	Q600614		26.483333333333,127.95
-dvp_093_place_103	Lam Xuan			
+dvp_093_place_103	Lâm Xuân	Q108904469		16.9061174,107.1246025
 dvp_093_place_104	Mỹ Lộc	Q6945935		20.467,106.183
 dvp_093_place_105	Mỹ Lộc	Q6945935		20.467,106.183
-dvp_093_place_106	Lam Xuan			
+dvp_093_place_106	Lâm Xuân	Q108904469		16.9061174,107.1246025
 dvp_093_place_107	Quantico	Q204315		38.521871,-77.289757
 dvp_093_place_108	Hawaii	Q782		21.3075,-157.8575
 dvp_093_place_109	Hawaii	Q782		21.3075,-157.8575
-dvp_093_place_110	Lam Xuan			
+dvp_093_place_110	Lâm Xuân	Q108904469		16.9061174,107.1246025
 dvp_093_place_111	Nha Trang	Q19491		12.249527,109.190764
 dvp_093_place_112	Mai Xá, Gio Mai	Q6735198		16.8787,107.1325
-dvp_093_place_113	Mai Xa Thi [pronounced mah-zee-tah-TIE]			
-dvp_093_place_114	Mai Xa Thi			
+dvp_093_place_113	Mai Xá, Gio Mai	Q6735198		16.8787, 107.1325
+dvp_093_place_114	Mai Xá, Gio Mai	Q6735198		16.8787, 107.1325
 dvp_093_place_115	Thach Han River	Q7708871		16.9025,107.18888888889
-dvp_093_place_116	Mai Xa Thi			
-dvp_093_place_117	Mai Xa Thi			
+dvp_093_place_116	Mai Xá, Gio Mai	Q6735198		16.8787, 107.1325
+dvp_093_place_117	Mai Xá, Gio Mai	Q6735198		16.8787, 107.1325
 dvp_093_place_118	Thach Han River	Q7708871		16.9025,107.18888888889
-dvp_093_place_119	Mai Xa Thi			
-dvp_093_place_120	Mai Xa Thi			
-dvp_093_place_121	Jones Creek			
+dvp_093_place_119	Mai Xá, Gio Mai	Q6735198		16.8787, 107.1325
+dvp_093_place_120	Mai Xá, Gio Mai	Q6735198		16.8787, 107.1325
+dvp_093_place_121	Jones' Creek	Q108904203		16.88597, 107.135486
 dvp_093_place_122	Boston	Q100		42.358333333333,-71.0625
 dvp_093_place_123	West Virginia	Q1371		39,-80.5
 dvp_093_place_124	Phu Bai Combat Base	Q18392575		16.401667, 107.702778
 dvp_093_place_125	Vietnam	Q881		16,108
 dvp_093_place_126	Vietnam	Q881		16,108
 dvp_093_place_127	Mai Xá, Gio Mai	Q6735198		16.8787,107.1325
-dvp_093_place_128	Mai Xa Thi			
+dvp_093_place_128	Mai Xá, Gio Mai	Q6735198		16.8787, 107.1325
 dvp_093_place_129	Vietnam	Q881		16,108
 dvp_093_place_130	Vietnam	Q881		16,108
 dvp_093_place_131	Ho Chi Minh City	Q1854		10.816666666667,106.63333333333
 dvp_093_place_132	Vietnam	Q881		16,108
 dvp_093_place_133	Da Nang	Q25282		16.069444444444443,108.20972222222223
-dvp_093_place_134	Mai Xa Thi			
+dvp_093_place_134	Mai Xá, Gio Mai	Q6735198		16.8787, 107.1325
 dvp_093_place_135	Mai Xá, Gio Mai	Q6735198		16.8787,107.1325
 dvp_093_place_136	Poland	Q36		52,19
 dvp_093_place_137	Czechoslovakia	Q33946		50.083333333333,14.416666666667
@@ -153,56 +151,40 @@ dvp_093_place_148	National Route 9	Q936462		16.6415,105.6665
 dvp_093_place_149	National Route 9	Q936462		16.6415,105.6665
 dvp_093_place_150	Laos	Q819		18.2,104
 dvp_093_place_151	Khe Sanh	Q1924264		16.627211111111,106.73733333333
-				
 dvp_093_place_152	National Route 9	Q936462		16.6415,105.6665
 dvp_093_place_153	Khe Sanh	Q1924264		16.627211111111,106.73733333333
-				
 dvp_093_place_154	Ca Lu	Q5015163		16.69208611,106.88569167
-dvp_093_place_155	Hill 512			
+dvp_093_place_155	Hill 512	Q108902460		16.67533, 106.816615
 dvp_093_place_156	Khe Sanh	Q1924264		16.627211111111,106.73733333333
-				
 dvp_093_place_157	Khe Sanh	Q1924264		16.627211111111,106.73733333333
-				
 dvp_093_place_158	Khe Sanh	Q1924264		16.627211111111,106.73733333333
-				
 dvp_093_place_159	Khe Sanh Combat Base	Q3012164		16.65444444,106.73083333
 dvp_093_place_160	Laos	Q819		18.2,104
 dvp_093_place_161	Khe Sanh	Q1924264		16.627211111111,106.73733333333
-				
 dvp_093_place_162	Điện Biên Phủ	Q36027		21.383333333333,103.01694444444
 dvp_093_place_163	Điện Biên Phủ	Q36027		21.383333333333,103.01694444444
 dvp_093_place_164	Khe Sanh	Q1924264		16.627211111111,106.73733333333
-				
 dvp_093_place_165	Khe Sanh	Q1924264		16.627211111111,106.73733333333
-				
 dvp_093_place_166	Khe Sanh	Q1924264		16.627211111111,106.73733333333
-				
 dvp_093_place_167	Khe Sanh	Q1924264		16.627211111111,106.73733333333
-				
 dvp_093_place_168	National Route 9	Q936462		16.6415,105.6665
 dvp_093_place_169	National Route 9	Q936462		16.6415,105.6665
 dvp_093_place_170	Vietnam	Q881		16,108
 dvp_093_place_171	Vietnam	Q881		16,108
-dvp_093_place_172	Quang Tri River			
-dvp_093_place_173	Quang Tri River			
+dvp_093_place_172	Thach Han River	Q7708871		16.9025, 107.188889
+dvp_093_place_173	Thach Han River	Q7708871		16.9025, 107.188889
 dvp_093_place_174	Quảng Trị	Q1320413		16.752222222222,107.18722222222
 dvp_093_place_175	Khe Sanh	Q1924264		16.627211111111,106.73733333333
-				
 dvp_093_place_176	Dakrong Bridge	Q61129922		16.657389,106.816496
 dvp_093_place_177	Khe Sanh	Q1924264		16.627211111111,106.73733333333
-				
 dvp_093_place_178	Đông Hà	Q33343		16.805555555556,107.09055555556
 dvp_093_place_179	Khe Sanh	Q1924264		16.627211111111,106.73733333333
-				
 dvp_093_place_180	National Route 9	Q936462		16.6415,105.6665
 dvp_093_place_181	Khe Sanh	Q1924264		16.627211111111,106.73733333333
-				
 dvp_093_place_182	Quảng Trị	Q1320413		16.752222222222,107.18722222222
 dvp_093_place_183	Khe Sanh	Q1924264		16.627211111111,106.73733333333
-				
 dvp_093_place_184	Khe Sanh	Q1924264		16.627211111111,106.73733333333
-				
-dvp_093_place_185	Quang Tri River			
+dvp_093_place_185	Thach Han River	Q7708871		16.9025, 107.188889
 dvp_093_place_186	Monument Road			
 dvp_093_place_187	Ho Chi Minh trail	Q695916		18.6852,104.8373
 dvp_093_place_188	Laos	Q819		18.2,104
@@ -233,8 +215,8 @@ dvp_093_place_212	Vietnam	Q881		16,108
 dvp_093_place_213	Vietnam	Q881		16,108
 dvp_093_place_214	Vietnam	Q881		16,108
 dvp_093_place_215	Russia	Q159		66.41666666666667,94.25
-dvp_093_place_216	Hill 512			
-dvp_093_place_217	Hill 512			
+dvp_093_place_216	Hill 512	Q108902460		16.67533, 106.816615
+dvp_093_place_217	Hill 512	Q108902460		16.67533, 106.816615
 dvp_093_place_218	Ca Lu	Q5015163		16.69208611,106.88569167
 dvp_093_place_219	Japan	Q17		35,136
 dvp_093_place_220	Guam	Q16635		13.5,144.8
