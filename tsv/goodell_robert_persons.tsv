@@ -1,26 +1,26 @@
-id	persName
-dvp_096_person_0	Bryan Bliek
-dvp_096_person_1	Mr. Rob Goodell
-dvp_096_person_2	Rob
-dvp_096_person_3	Rob
-dvp_096_person_4	Rumson
-dvp_096_person_5	Rumson
-dvp_096_person_6	Benfield Pressey
-dvp_096_person_7	[Miguel de] Cervantes
-dvp_096_person_8	Don Quixote
-dvp_096_person_9	Colin [D.] Campbell
-dvp_096_person_10	Colin Campbell
-dvp_096_person_11	Don Winlet [spelling unconfirmed]
-dvp_096_person_12	Erich Kunzel [Jr.]
-dvp_096_person_13	Chiang Kai-Shek
-dvp_096_person_14	President [Dwight D.] Eisenhower
-dvp_096_person_15	Chiang KaiShek
-dvp_096_person_16	Mao Tse Tung
-dvp_096_person_17	Eisenhower
-dvp_096_person_18	Eisenhower 
-dvp_096_person_19	[President John F.] Kennedy
-dvp_096_person_20	Kennedy
-dvp_096_person_21	Bryan
-dvp_096_person_22	Kennedy
-dvp_096_person_23	Khrushchev
-dvp_096_person_24	Hitler
+id	persName	QID	dvp_id
+dvp_096_person_0	Bryan Bliek		dvp_0911
+dvp_096_person_1	Mr. Rob Goodell		dvp_0912
+dvp_096_person_2	Rob		dvp_0912
+dvp_096_person_3	Rob		dvp_0912
+dvp_096_person_4	Rumson		
+dvp_096_person_5	Rumson		
+dvp_096_person_6	Benfield Pressey		dvp_0913
+dvp_096_person_7	Miguel de Cervantes	Q5682	
+dvp_096_person_8	Don Quixote		
+dvp_096_person_9	Colin [D.] Campbell		dvp_0914
+dvp_096_person_10	Colin Campbell		dvp_0914
+dvp_096_person_11	Don Winlet [spelling unconfirmed]		dvp_0915
+dvp_096_person_12	Erich Kunzel	Q724158	
+dvp_096_person_13	Chiang Kai-shek	Q16574	
+dvp_096_person_14	Dwight D. Eisenhower	Q9916	
+dvp_096_person_15	Chiang Kai-shek	Q16574	
+dvp_096_person_16	Mao Zedong	Q5816	
+dvp_096_person_17	Dwight D. Eisenhower	Q9916	
+dvp_096_person_18	Dwight D. Eisenhower	Q9916	
+dvp_096_person_19	John F. Kennedy	Q9696	
+dvp_096_person_20	John F. Kennedy	Q9696	
+dvp_096_person_21	Bryan		dvp_0911
+dvp_096_person_22	John F. Kennedy	Q9696	
+dvp_096_person_23	Nikita Khrushchev	Q35314	
+dvp_096_person_24	Adolf Hitler	Q352	
