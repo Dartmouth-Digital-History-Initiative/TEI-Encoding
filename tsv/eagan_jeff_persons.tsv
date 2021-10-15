@@ -1,54 +1,54 @@
-id	persName
-dvp_092_person_0	Bryan Bliek [’18]
-dvp_092_person_1	Jeff Eagan
-dvp_092_person_2	Jeff
-dvp_092_person_3	Bryan Bliek
-dvp_092_person_4	Jeff Eagan
-dvp_092_person_5	[Lyndon B.] Johnson
-dvp_092_person_6	[Senator Barry] Goldwater
-dvp_092_person_7	Jeff
-dvp_092_person_8	[President] John Sloan Dickey
-dvp_092_person_9	[George] Wallace
-dvp_092_person_10	[Zbigniew] Brzezinski
-dvp_092_person_11	Maria [Marysa] Navarro
-dvp_092_person_12	Jonathan Mirsky
-dvp_092_person_13	Jim Knowles
-dvp_092_person_14	Gene [R.] Garthwaite
-dvp_092_person_15	John [W.] Lamperti
-dvp_092_person_16	Brzezinski
-dvp_092_person_17	[Nguyen Van] Thieu
-dvp_092_person_18	[Frances FitzGerald]
-dvp_092_person_19	Johnson
-dvp_092_person_20	[Eugene] McCarthy
-dvp_092_person_21	Mirsky
-dvp_092_person_22	Johnson
-dvp_092_person_23	[Richard M.] Nixon
-dvp_092_person_24	president, John Sloan Dickey
-dvp_092_person_25	Bryan
-dvp_092_person_26	John
-dvp_092_person_27	dean’s efforts[Dean Carroll W. Brewster]
-dvp_092_person_28	Walter R. Peterson, Jr. ‘47
-dvp_092_person_29	president
-dvp_092_person_30	governor
-dvp_092_person_31	[John G.] Kemeny
-dvp_092_person_32	Kemeny
-dvp_092_person_33	Johnson
-dvp_092_person_34	Nixon
-dvp_092_person_35	[Vincent] Vince Starzinger
-dvp_092_person_36	Lord
-dvp_092_person_37	Gene [McCarthy]
-dvp_092_person_38	Nixon
-dvp_092_person_39	Bryan
-dvp_092_person_40	Nixon
-dvp_092_person_41	Bryan
-dvp_092_person_42	Nixon
-dvp_092_person_43	[William] Rehnquist
-dvp_092_person_44	[Newton L. “Newt”] Gingrich
-dvp_092_person_45	[President Bill] Clinton
-dvp_092_person_46	Ralph Nader
-dvp_092_person_47	[President George W.] Bush
-dvp_092_person_48	President [Donald Trump]
-dvp_092_person_49	governor
-dvp_092_person_50	Dickey
-dvp_092_person_51	President [James] Wright
-dvp_092_person_52	Jeff
+id	persName	QID	dvp_id
+dvp_092_person_0	Bryan Bliek [’18]		dvp_0698
+dvp_092_person_1	Jeff Eagan		dvp_0990
+dvp_092_person_2	Jeff		dvp_0990
+dvp_092_person_3	Bryan Bliek		dvp_0698
+dvp_092_person_4	Jeff Eagan		dvp_0990
+dvp_092_person_5	Lyndon B. Johnson	Q9640	
+dvp_092_person_6	Barry Goldwater	Q319129	
+dvp_092_person_7	Jeff		dvp_0990
+dvp_092_person_8	John Sloan Dickey	Q3182471	
+dvp_092_person_9	George Wallace	Q313776	
+dvp_092_person_10	Zbigniew Brzezinski	Q168041	
+dvp_092_person_11	Marysa Navarro	Q104765715	
+dvp_092_person_12	Jonathan Mirsky	Q108504984	
+dvp_092_person_13	Jim Knowles		dvp_0991
+dvp_092_person_14	Gene R. Garthwaite	Q104637606	
+dvp_092_person_15	John W. Lamperti	Q102115783	
+dvp_092_person_16	Zbigniew Brzezinski	Q168041	
+dvp_092_person_17	Nguyen Van Thieu	Q313707	
+dvp_092_person_18	Frances FitzGerald	Q5478653	
+dvp_092_person_19	Lyndon B. Johnson	Q9640	
+dvp_092_person_20	Eugene McCarthy	Q380550	
+dvp_092_person_21	Jonathan Mirsky	Q108504984	
+dvp_092_person_22	Lyndon B. Johnson	Q9640	
+dvp_092_person_23	Richard Nixon	Q9588	
+dvp_092_person_24	John Sloan Dickey	Q3182471	
+dvp_092_person_25	Bryan		dvp_0698
+dvp_092_person_26	John		dvp_0013
+dvp_092_person_27	dean’s efforts[Dean Carroll W. Brewster]		dvp_0983
+dvp_092_person_28	Walter R. Peterson	Q888929	
+dvp_092_person_29	John Sloan Dickey	Q3182471	
+dvp_092_person_30	Walter R. Peterson	Q888929	
+dvp_092_person_31	John George Kemeny	Q28900	
+dvp_092_person_32	John George Kemeny	Q28900	
+dvp_092_person_33	Lyndon B. Johnson	Q9640	
+dvp_092_person_34	Richard Nixon	Q9588	
+dvp_092_person_35	[Vincent] Vince Starzinger		dvp_0625
+dvp_092_person_36	Lord		dvp_0992
+dvp_092_person_37	Eugene McCarthy	Q380550	
+dvp_092_person_38	Richard Nixon	Q9588	
+dvp_092_person_39	Bryan		dvp_0698
+dvp_092_person_40	Richard Nixon	Q9588	
+dvp_092_person_41	Bryan		dvp_0698
+dvp_092_person_42	Richard Nixon	Q9588	
+dvp_092_person_43	William Rehnquist	Q311562	
+dvp_092_person_44	Newt Gingrich	Q182788	
+dvp_092_person_45	Bill Clinton	Q1124	
+dvp_092_person_46	Ralph Nader	Q193156	
+dvp_092_person_47	George W. Bush	Q207	
+dvp_092_person_48	Donald Trump	Q22686	
+dvp_092_person_49	Walter R. Peterson	Q888929	
+dvp_092_person_50	John Sloan Dickey	Q3182471	
+dvp_092_person_51	James Wright	Q3161056	
+dvp_092_person_52	Jeff		dvp_0990
