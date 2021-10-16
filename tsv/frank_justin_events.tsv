@@ -1,10 +1,10 @@
 id	name	QID	dvp_id	start time	end time	point in time
 dvp_094_event_0	Sacco and Vanzetti [Nicola Sacco and Bartolomeo Vanzetti]					
-dvp_094_event_1	Sacco and Vanzetti arrested		dvp_0994			1920-05-04T20:00:00Z
-dvp_094_event_2	Sacco and Vanzetti convicted of murder		dvp_0995			1921-07-13T20:00:00Z
-dvp_094_event_3	Sacco and Vanzetti executed		dvp_0996			1927-09-22T20:00:00Z
-dvp_094_event_4	Sacco and Vanzetti executed		dvp_0996			1927-09-22T20:00:00Z
-dvp_094_event_5	Sacco and Vanzetti executed		dvp_0996			1927-09-22T20:00:00Z
+dvp_094_event_1	arrest of Sacco and Vanzetti	Q108910163				1920-05-05T00:00:00Z
+dvp_094_event_2	conviction of Sacco and Vanzetti	Q108910177				1921-07-14T00:00:00Z
+dvp_094_event_3	execution of Sacco and Vanzetti	Q108910202				1927-08-23T00:00:00Z
+dvp_094_event_4	execution of Sacco and Vanzetti	Q108910202				1927-08-23T00:00:00Z
+dvp_094_event_5	execution of Sacco and Vanzetti	Q108910202				1927-08-23T00:00:00Z
 dvp_094_event_6	1960 Democratic National Convention	Q4569935		1960-07-11T00:00:00Z	1960-07-15T00:00:00Z	
 dvp_094_event_7	1960 Democratic National Convention	Q4569935		1960-07-11T00:00:00Z	1960-07-15T00:00:00Z	
 dvp_094_event_8	The Holocaust	Q2763		1941-01-01T00:00:00Z	1945-01-01T00:00:00Z	
@@ -59,7 +59,7 @@ dvp_094_event_56	Watts riots	Q377682		1965-08-11T00:00:00Z	1965-08-16T00:00:00Z
 dvp_094_event_57	Watts riots	Q377682		1965-08-11T00:00:00Z	1965-08-16T00:00:00Z	
 dvp_094_event_58	Watts riots	Q377682		1965-08-11T00:00:00Z	1965-08-16T00:00:00Z	
 dvp_094_event_59	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
-dvp_094_event_60	fired the air traffic controllers’ union		dvp_0997			1981-08-04T20:00:00Z
+dvp_094_event_60	Ronald Reagan firing Professional Air Traffic Controllers Organization strikers	Q108910286				1981-08-05T00:00:00Z
 dvp_094_event_61	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
 dvp_094_event_62	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
 dvp_094_event_63	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
