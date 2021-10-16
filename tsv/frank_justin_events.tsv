@@ -5,16 +5,16 @@ dvp_094_event_2	Sacco and Vanzetti convicted of murder		dvp_0995			1921-07-13T20
 dvp_094_event_3	Sacco and Vanzetti executed		dvp_0996			1927-09-22T20:00:00Z
 dvp_094_event_4	Sacco and Vanzetti executed		dvp_0996			1927-09-22T20:00:00Z
 dvp_094_event_5	Sacco and Vanzetti executed		dvp_0996			1927-09-22T20:00:00Z
-dvp_094_event_6	1960 Democratic National Convention			1960-07-11T00:00:00Z	1960-07-15T00:00:00Z	
-dvp_094_event_7	1960 Democratic National Convention			1960-07-11T00:00:00Z	1960-07-15T00:00:00Z	
-dvp_094_event_8	The Holocaust			1941-01-01T00:00:00Z	1945-01-01T00:00:00Z	
-dvp_094_event_9	1960 World Series					1960-01-01T00:00:00Z
+dvp_094_event_6	1960 Democratic National Convention	Q4569935		1960-07-11T00:00:00Z	1960-07-15T00:00:00Z	
+dvp_094_event_7	1960 Democratic National Convention	Q4569935		1960-07-11T00:00:00Z	1960-07-15T00:00:00Z	
+dvp_094_event_8	The Holocaust	Q2763		1941-01-01T00:00:00Z	1945-01-01T00:00:00Z	
+dvp_094_event_9	1960 World Series	Q869082				1960-01-01T00:00:00Z
 dvp_094_event_10	Sacco and Vanzetti					
-dvp_094_event_11	Democratic Convention					
+dvp_094_event_11	1960 Democratic National Convention	Q4569935		1960-07-11T00:00:00Z	1960-07-15T00:00:00Z	
 dvp_094_event_12	assassination of John F. Kennedy	Q193484				1963-11-22T00:00:00Z
 dvp_094_event_13	Gulf of Tonkin Resolution	Q240352				1964-08-07T00:00:00Z
 dvp_094_event_14	Gulf of Tonkin Resolution	Q240352				1964-08-06T20:00:00Z
-dvp_094_event_15	1964 presidential election	Q4571741				1964-11-02T19:00:00Z
+dvp_094_event_15	1964 United States presidential election	Q699646				1964-11-03T19:00:00Z
 dvp_094_event_16	Gulf of Tonkin Resolution	Q240352				1964-08-07T00:00:00Z
 dvp_094_event_17	Gulf of Tonkin Resolution	Q240352				1964-08-07T00:00:00Z
 dvp_094_event_18	Gulf of Tonkin Resolution	Q240352				1964-08-07T00:00:00Z
@@ -30,7 +30,7 @@ dvp_094_event_27	1968 Democratic National Convention	Q83516				1968-01-01T00:00:
 dvp_094_event_28	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
 dvp_094_event_29	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
 dvp_094_event_30	assassination of John F. Kennedy	Q193484				1963-11-22T00:00:00Z
-dvp_094_event_31	fighting at Sproul Hall		dvp_0993			1964-12-01T19:00:00Z
+dvp_094_event_31	Occupation of Sproul Hall	Q108906922				1964-12-02T00:00:00Z
 dvp_094_event_32	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
 dvp_094_event_33	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
 dvp_094_event_34	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
@@ -49,17 +49,17 @@ dvp_094_event_46	first inauguration of Ronald Reagan	Q3401697				1981-01-20T00:0
 dvp_094_event_47	first inauguration of Ronald Reagan	Q3401697				1981-01-20T00:00:00Z
 dvp_094_event_48	assassination of John F. Kennedy	Q193484				1963-11-22T00:00:00Z
 dvp_094_event_49	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
-dvp_094_event_50	2003 invasion of Iraq	Q107802		2003-03-20T00:00:00Z	2003-05-01T00:00:00Z	
-dvp_094_event_51	Iraq War	Q545449		2003-03-20T00:00:00Z	2011-12-15T00:00:00Z	
-dvp_094_event_52	inauguration of George H. W. Bush	Q3153922				1989-01-20T00:00:00Z
+dvp_094_event_50	Iraq War	Q545449		2003-03-20T00:00:00Z	2011-12-15T00:00:00Z	
+dvp_094_event_51	American-led intervention in Iraq (2014–present)	Q18159629		2014-06-15T00:00:00Z		
+dvp_094_event_52	first inauguration of George W. Bush	Q5454187				2001-01-20T00:00:00Z
 dvp_094_event_53	September 11 attacks	Q10806				2001-09-11T00:00:00Z
 dvp_094_event_54	1982 Lebanon War	Q49103		1982-06-06T00:00:00Z	1985-05-17T00:00:00Z	
-dvp_094_event_55	war					
+dvp_094_event_55	Six-Day War	Q49077		1967-06-05T00:00:00Z	1967-06-10T00:00:00Z	
 dvp_094_event_56	Watts riots	Q377682		1965-08-11T00:00:00Z	1965-08-16T00:00:00Z	
 dvp_094_event_57	Watts riots	Q377682		1965-08-11T00:00:00Z	1965-08-16T00:00:00Z	
 dvp_094_event_58	Watts riots	Q377682		1965-08-11T00:00:00Z	1965-08-16T00:00:00Z	
 dvp_094_event_59	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
-dvp_094_event_60	Reagan fired the air traffic controllers’ union		dvp_0997			1981-08-04T20:00:00Z
+dvp_094_event_60	fired the air traffic controllers’ union		dvp_0997			1981-08-04T20:00:00Z
 dvp_094_event_61	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
 dvp_094_event_62	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
 dvp_094_event_63	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
