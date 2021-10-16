@@ -13,7 +13,7 @@ dvp_097_org_10	United States Navy	Q11220
 dvp_097_org_11	United States Navy	Q11220	
 dvp_097_org_12	Naval Reserve Officers Training Corps	Q6981909	
 dvp_097_org_13	Naval Reserve Officers Training Corps	Q6981909	
-dvp_097_org_14	The Air Force	Q7712925	
+dvp_097_org_14	United States Air Force	Q11223	
 dvp_097_org_15	United States Armed Forces	Q11211	
 dvp_097_org_16	United States Armed Forces	Q11211	
 dvp_097_org_17	United States Navy	Q11220	
@@ -50,7 +50,7 @@ dvp_097_org_47	Students for a Democratic Society	Q2250103
 dvp_097_org_48	Dartmouth College	Q49116	
 dvp_097_org_49	Dartmouth College	Q49116	
 dvp_097_org_50	Dartmouth College	Q49116	
-dvp_097_org_51	Wheeler Hall	Q12072823	
+dvp_097_org_51	Wheeler Hall		
 dvp_097_org_52	Kappa Sigma	Q6367086	
 dvp_097_org_53	Kappa Sigma	Q6367086	
 dvp_097_org_54	Kappa Sigma	Q6367086	
@@ -119,8 +119,8 @@ dvp_097_org_116	Naval Reserve Officers Training Corps	Q6981909
 dvp_097_org_117	United States Armed Forces	Q11211	
 dvp_097_org_118	United States Navy	Q11220	
 dvp_097_org_119	United States Navy	Q11220	
-dvp_097_org_120	Communists	Q21027324	
-dvp_097_org_121	USS Hull	Q4052235	
+dvp_097_org_120	Communists	Q233591	
+dvp_097_org_121	USS Hull		
 dvp_097_org_122	United States Navy	Q11220	
 dvp_097_org_123	National Front for the Liberation of South Vietnam	Q174423	
 dvp_097_org_124	United States Navy	Q11220	
@@ -134,7 +134,7 @@ dvp_097_org_131	United States Navy	Q11220
 dvp_097_org_132	United States Navy	Q11220	
 dvp_097_org_133	Vietnam People's Navy	Q1324290	
 dvp_097_org_134	United States Navy	Q11220	
-dvp_097_org_135	Ford Mustang	Q183476	
+dvp_097_org_135	Ford Mustang		
 dvp_097_org_136	United States Navy	Q11220	
 dvp_097_org_137	United States Navy	Q11220	
 dvp_097_org_138	United States Navy	Q11220	
@@ -162,15 +162,15 @@ dvp_097_org_159	University of Virginia	Q213439
 dvp_097_org_160	United States Navy	Q11220	
 dvp_097_org_161	Dartmouth College	Q49116	
 dvp_097_org_162	United States Navy	Q11220	
-dvp_097_org_163	Connecticut General Life Insurance Company. (GM salaried workers).	Q44556167	
-dvp_097_org_164	Connecticut General Life Insurance Company v. Johnson	Q5161535	
+dvp_097_org_163	Connecticut General Life Insurance Company	Q108900377	
+dvp_097_org_164	Connecticut General Life Insurance Company	Q108900377	
 dvp_097_org_165	Cigna	Q642271	
 dvp_097_org_166	Cigna	Q642271	
 dvp_097_org_167	Cigna	Q642271	
 dvp_097_org_168	Cigna	Q642271	
-dvp_097_org_169	Connecticut General Life Insurance Company v. Johnson	Q5161535	
-dvp_097_org_170	Connecticut General Life Insurance Company v. Johnson	Q5161535	
-dvp_097_org_171	Cigna	Q642271	
+dvp_097_org_169	Cigna	Q642271	
+dvp_097_org_170	Connecticut General Life Insurance Company	Q108900377	
+dvp_097_org_171	Insurance Company of North America	Q17016611	
 dvp_097_org_172	Cigna	Q642271	
 dvp_097_org_173	Marsh & McLennan Companies	Q1786345	
 dvp_097_org_174	Guy Carpenter	Q60739802	
