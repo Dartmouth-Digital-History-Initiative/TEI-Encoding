@@ -1,69 +1,69 @@
-id	name
-dvp_094_event_0	Sacco and Vanzetti [Nicola Sacco and Bartolomeo Vanzetti]
-dvp_094_event_1	arrested
-dvp_094_event_2	convicted of murder
-dvp_094_event_3	executed
-dvp_094_event_4	executed
-dvp_094_event_5	executed them
-dvp_094_event_6	[1960] Democratic National Convention
-dvp_094_event_7	convention
-dvp_094_event_8	Holocaust
-dvp_094_event_9	World Series
-dvp_094_event_10	Sacco and Vanzetti
-dvp_094_event_11	Democratic Convention
-dvp_094_event_12	Kennedy was killed
-dvp_094_event_13	Gulf of Tonkin [Resolution]
-dvp_094_event_14	Gulf of Tonkin
-dvp_094_event_15	he was reelected
-dvp_094_event_16	Resolution
-dvp_094_event_17	resolution
-dvp_094_event_18	resolution
-dvp_094_event_19	Vietnam
-dvp_094_event_20	war
-dvp_094_event_21	Vietnam War
-dvp_094_event_22	war
-dvp_094_event_23	war
-dvp_094_event_24	[Robert F.] “Bobby” Kennedy was killed
-dvp_094_event_25	Martin Luther King was killed
-dvp_094_event_26	King was assassinated
-dvp_094_event_27	Chicago Convention
-dvp_094_event_28	war
-dvp_094_event_29	war
-dvp_094_event_30	he was killed
-dvp_094_event_31	fighting at Sproul Hall
-dvp_094_event_32	war
-dvp_094_event_33	war
-dvp_094_event_34	war
-dvp_094_event_35	murders of—Kent State [University]
-dvp_094_event_36	Kent State
-dvp_094_event_37	war
-dvp_094_event_38	war
-dvp_094_event_39	Vietnam War
-dvp_094_event_40	war
-dvp_094_event_41	World War II
-dvp_094_event_42	war
-dvp_094_event_43	World War II
-dvp_094_event_44	Vietnam
-dvp_094_event_45	war
-dvp_094_event_46	[President Ronald W.] Reagan was inaugurated
-dvp_094_event_47	Reagan was inaugurated
-dvp_094_event_48	he was assassinated
-dvp_094_event_49	Vietnam
-dvp_094_event_50	Iraq I [the 2003 invasion of Iraq]
-dvp_094_event_51	Iraq II
-dvp_094_event_52	Bush was inaugurated
-dvp_094_event_53	9/11
-dvp_094_event_54	Lebanon invasion,
-dvp_094_event_55	war
-dvp_094_event_56	Watts riots
-dvp_094_event_57	Watts riots
-dvp_094_event_58	Watts riots
-dvp_094_event_59	Vietnam War
-dvp_094_event_60	fired the air traffic controllers’ union
-dvp_094_event_61	Vietnam
-dvp_094_event_62	Vietnam
-dvp_094_event_63	war
-dvp_094_event_64	Vietnam
-dvp_094_event_65	Vietnam War
-dvp_094_event_66	war
-dvp_094_event_67	Vietnam War
+id	name	QID	dvp_id	start time	end time	point in time
+dvp_094_event_0	Sacco and Vanzetti [Nicola Sacco and Bartolomeo Vanzetti]					
+dvp_094_event_1	arrest of Sacco and Vanzetti	Q108910163				1920-05-05T00:00:00Z
+dvp_094_event_2	conviction of Sacco and Vanzetti	Q108910177				1921-07-14T00:00:00Z
+dvp_094_event_3	execution of Sacco and Vanzetti	Q108910202				1927-08-23T00:00:00Z
+dvp_094_event_4	execution of Sacco and Vanzetti	Q108910202				1927-08-23T00:00:00Z
+dvp_094_event_5	execution of Sacco and Vanzetti	Q108910202				1927-08-23T00:00:00Z
+dvp_094_event_6	1960 Democratic National Convention	Q4569935		1960-07-11T00:00:00Z	1960-07-15T00:00:00Z	
+dvp_094_event_7	1960 Democratic National Convention	Q4569935		1960-07-11T00:00:00Z	1960-07-15T00:00:00Z	
+dvp_094_event_8	The Holocaust	Q2763		1941-01-01T00:00:00Z	1945-01-01T00:00:00Z	
+dvp_094_event_9	1960 World Series	Q869082				1960-01-01T00:00:00Z
+dvp_094_event_10	Sacco and Vanzetti					
+dvp_094_event_11	1960 Democratic National Convention	Q4569935		1960-07-11T00:00:00Z	1960-07-15T00:00:00Z	
+dvp_094_event_12	assassination of John F. Kennedy	Q193484				1963-11-22T00:00:00Z
+dvp_094_event_13	Gulf of Tonkin Resolution	Q240352				1964-08-07T00:00:00Z
+dvp_094_event_14	Gulf of Tonkin Resolution	Q240352				1964-08-06T20:00:00Z
+dvp_094_event_15	1964 United States presidential election	Q699646				1964-11-03T19:00:00Z
+dvp_094_event_16	Gulf of Tonkin Resolution	Q240352				1964-08-07T00:00:00Z
+dvp_094_event_17	Gulf of Tonkin Resolution	Q240352				1964-08-07T00:00:00Z
+dvp_094_event_18	Gulf of Tonkin Resolution	Q240352				1964-08-07T00:00:00Z
+dvp_094_event_19	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_094_event_20	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_094_event_21	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_094_event_22	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_094_event_23	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_094_event_24	assassination of Robert F. Kennedy	Q1187550				1968-06-05T00:00:00Z
+dvp_094_event_25	assassination of Martin Luther King Jr.	Q757963				1968-04-04T00:00:00Z
+dvp_094_event_26	assassination of Martin Luther King Jr.	Q757963				1968-04-04T00:00:00Z
+dvp_094_event_27	1968 Democratic National Convention	Q83516				1968-01-01T00:00:00Z
+dvp_094_event_28	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_094_event_29	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_094_event_30	assassination of John F. Kennedy	Q193484				1963-11-22T00:00:00Z
+dvp_094_event_31	Occupation of Sproul Hall	Q108906922				1964-12-02T00:00:00Z
+dvp_094_event_32	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_094_event_33	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_094_event_34	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_094_event_35	Kent State shootings	Q482635		1970-05-04T00:00:00Z	1970-05-04T00:00:00Z	
+dvp_094_event_36	Kent State shootings	Q482635		1970-05-04T00:00:00Z	1970-05-04T00:00:00Z	
+dvp_094_event_37	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_094_event_38	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_094_event_39	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_094_event_40	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_094_event_41	World War II	Q362		1939-09-01T00:00:00Z	1945-09-02T00:00:00Z	
+dvp_094_event_42	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_094_event_43	World War II	Q362		1939-09-01T00:00:00Z	1945-09-02T00:00:00Z	
+dvp_094_event_44	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_094_event_45	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_094_event_46	first inauguration of Ronald Reagan	Q3401697				1981-01-20T00:00:00Z
+dvp_094_event_47	first inauguration of Ronald Reagan	Q3401697				1981-01-20T00:00:00Z
+dvp_094_event_48	assassination of John F. Kennedy	Q193484				1963-11-22T00:00:00Z
+dvp_094_event_49	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_094_event_50	Iraq War	Q545449		2003-03-20T00:00:00Z	2011-12-15T00:00:00Z	
+dvp_094_event_51	American-led intervention in Iraq (2014–present)					
+dvp_094_event_52	first inauguration of George W. Bush	Q5454187				2001-01-20T00:00:00Z
+dvp_094_event_53	September 11 attacks	Q10806				2001-09-11T00:00:00Z
+dvp_094_event_54	1982 Lebanon War	Q49103		1982-06-06T00:00:00Z	1985-05-17T00:00:00Z	
+dvp_094_event_55	Six-Day War	Q49077		1967-06-05T00:00:00Z	1967-06-10T00:00:00Z	
+dvp_094_event_56	Watts riots	Q377682		1965-08-11T00:00:00Z	1965-08-16T00:00:00Z	
+dvp_094_event_57	Watts riots	Q377682		1965-08-11T00:00:00Z	1965-08-16T00:00:00Z	
+dvp_094_event_58	Watts riots	Q377682		1965-08-11T00:00:00Z	1965-08-16T00:00:00Z	
+dvp_094_event_59	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_094_event_60	Ronald Reagan firing Professional Air Traffic Controllers Organization strikers	Q108910286				1981-08-05T00:00:00Z
+dvp_094_event_61	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_094_event_62	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_094_event_63	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_094_event_64	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_094_event_65	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_094_event_66	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_094_event_67	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
