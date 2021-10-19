@@ -1,52 +1,52 @@
-id	persName
-dvp_062_person_0	Sandor Farkas
-dvp_062_person_1	Nicholas Steffen
-dvp_062_person_2	Nicholas Steffen
-dvp_062_person_3	Nicholas Steffen
-dvp_062_person_4	Robert
-dvp_062_person_5	Betty Steffen
-dvp_062_person_6	[Maximilian] “Max” Conrad
-dvp_062_person_7	Max Conrad
-dvp_062_person_8	Max Conrad
-dvp_062_person_9	Deacon [William] Peck
-dvp_062_person_10	Charlemagne
-dvp_062_person_11	Rollo
-dvp_062_person_12	Pappy
-dvp_062_person_13	Sandor Farkas
-dvp_062_person_14	Nicholas Steffen
-dvp_062_person_15	[Edward F.] “Ed” Brown [Class of 1966]
-dvp_062_person_16	Ed Brown
-dvp_062_person_17	Bob
-dvp_062_person_18	Sandor Farkas
-dvp_062_person_19	Nicholas Steffen
-dvp_062_person_20	Admiral [Hyman G.] Rickover
-dvp_062_person_21	Kirk [J.] Ditzler
-dvp_062_person_22	[Peter B.] “Pete” Richardson [Class of 1966]
-dvp_062_person_23	[William B.] “Bill” Hayden
-dvp_062_person_24	Evan [K.] “Pat” Woodworth [Class of 1966]
-dvp_062_person_25	Sandor
-dvp_062_person_26	Sandor
-dvp_062_person_27	John Wayne
-dvp_062_person_28	Mai Ly
-dvp_062_person_29	Nick
-dvp_062_person_30	Pete Richardson
-dvp_062_person_31	[President Richard M.] Nixon
-dvp_062_person_32	Nixon
-dvp_062_person_33	Nixon
-dvp_062_person_34	[President Lyndon B.] Johnson
-dvp_062_person_35	Johnson
-dvp_062_person_36	Nixon
-dvp_062_person_37	[President Gerald R.] Ford [Jr.]
-dvp_062_person_38	Nixon
-dvp_062_person_39	Sandor
-dvp_062_person_40	Nixon
-dvp_062_person_41	[Lt. William L.] [Calley] [Jr., who was convicted for murdering 22 Vietnamese civilians in what became known as the My Lai Massacre]
-dvp_062_person_42	Jane Fonda
-dvp_062_person_43	Hanoi Jane
-dvp_062_person_44	Nixon
-dvp_062_person_45	Ford
-dvp_062_person_46	Sandor
-dvp_062_person_47	Eledenia [H.]
-dvp_062_person_48	[Stephen R.] “Steve” Farrow
-dvp_062_person_49	Saddam Hussein [Abd al-Majid al-Tikriti]
-dvp_062_person_50	Johnson
+id	persName	Qid	dvp_id
+dvp_062_person_0	Sandor Farkas		dvp_1027
+dvp_062_person_1	Nicholas M. Steffens	Q18912329	
+dvp_062_person_2	Nicholas M. Steffens	Q18912329	
+dvp_062_person_3	Nicholas M. Steffens	Q18912329	
+dvp_062_person_4	Robert		dvp_1026
+dvp_062_person_5	Betty Steffen		dvp_1028
+dvp_062_person_6	Max Conrad	Q6794661	
+dvp_062_person_7	Max Conrad	Q6794661	
+dvp_062_person_8	Max Conrad	Q6794661	
+dvp_062_person_9	Deacon William Peck	Q107211211	
+dvp_062_person_10	Charlemagne	Q3044	
+dvp_062_person_11	Rollo	Q273773	
+dvp_062_person_12	Pappy		
+dvp_062_person_13	Sandor Farkas		dvp_1027
+dvp_062_person_14	Nicholas M. Steffens	Q18912329	
+dvp_062_person_15	[Edward F.] “Ed” Brown [Class of 1966]		dvp_1029
+dvp_062_person_16	Ed Brown		dvp_1029
+dvp_062_person_17	Bob		dvp_1026
+dvp_062_person_18	Sandor Farkas		dvp_1027
+dvp_062_person_19	Nicholas M. Steffens	Q18912329	
+dvp_062_person_20	Hyman G. Rickover	Q541637	
+dvp_062_person_21	Kirk [J.] Ditzler		dvp_1031
+dvp_062_person_22	[Peter B.] “Pete” Richardson [Class of 1966]		dvp_1032
+dvp_062_person_23	[William B.] “Bill” Hayden		dvp_1011
+dvp_062_person_24	Evan [K.] “Pat” Woodworth [Class of 1966]		dvp_1033
+dvp_062_person_25	Sandor		dvp_1027
+dvp_062_person_26	Sandor		dvp_1027
+dvp_062_person_27	John Wayne	Q40531	
+dvp_062_person_28	Mai Ly	Q53773493	
+dvp_062_person_29	Nick	Q18912329	
+dvp_062_person_30	Pete Richardson	Q7172215	
+dvp_062_person_31	Richard Nixon	Q9588	
+dvp_062_person_32	Richard Nixon	Q9588	
+dvp_062_person_33	Richard Nixon	Q9588	
+dvp_062_person_34	Lyndon B. Johnson	Q9640	
+dvp_062_person_35	Lyndon B. Johnson	Q9640	
+dvp_062_person_36	Richard Nixon	Q9588	
+dvp_062_person_37	Gerald Ford	Q9582	
+dvp_062_person_38	Richard Nixon	Q9588	
+dvp_062_person_39	Sandor		dvp_1027
+dvp_062_person_40	Richard Nixon	Q9588	
+dvp_062_person_41	William Calley	Q374315	
+dvp_062_person_42	Jane Fonda	Q41142	
+dvp_062_person_43	Jane Fonda	Q41142	
+dvp_062_person_44	Richard Nixon	Q9588	
+dvp_062_person_45	Gerald Ford	Q9582	
+dvp_062_person_46	Sandor		dvp_1027
+dvp_062_person_47	Eledenia [H.]		dvp_1030
+dvp_062_person_48	[Stephen R.] “Steve” Farrow		dvp_1034
+dvp_062_person_49	Saddam Hussein	Q1316	
+dvp_062_person_50	Lyndon B. Johnson	Q9640	
