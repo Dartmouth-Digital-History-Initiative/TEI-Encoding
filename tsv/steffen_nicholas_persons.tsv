@@ -1,4 +1,4 @@
-id	persName	Qid	dvp_id
+id	persName	QID	dvp_id
 dvp_062_person_0	Sandor Farkas		dvp_1027
 dvp_062_person_1	Nicholas M. Steffens	Q18912329	
 dvp_062_person_2	Nicholas M. Steffens	Q18912329	
@@ -11,7 +11,7 @@ dvp_062_person_8	Max Conrad	Q6794661
 dvp_062_person_9	Deacon William Peck	Q107211211	
 dvp_062_person_10	Charlemagne	Q3044	
 dvp_062_person_11	Rollo	Q273773	
-dvp_062_person_12	Pappy		
+dvp_062_person_12	Pappy		dvp_1026
 dvp_062_person_13	Sandor Farkas		dvp_1027
 dvp_062_person_14	Nicholas M. Steffens	Q18912329	
 dvp_062_person_15	[Edward F.] “Ed” Brown [Class of 1966]		dvp_1029
