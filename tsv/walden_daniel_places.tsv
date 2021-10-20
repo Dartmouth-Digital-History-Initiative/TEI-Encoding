@@ -1,111 +1,111 @@
-id	placeName
-dvp_067_place_0	Rauner [Special Collections] Library
-dvp_067_place_1	Boston, Massachusetts
-dvp_067_place_2	Watertown
-dvp_067_place_3	Los Angeles
-dvp_067_place_4	Charles River
-dvp_067_place_5	Charles
-dvp_067_place_6	Cambridge
-dvp_067_place_7	Brighton
-dvp_067_place_8	Charles River
-dvp_067_place_9	Dartmouth
-dvp_067_place_10	Los Angeles
-dvp_067_place_11	Vietnam
-dvp_067_place_12	New Hampshire
-dvp_067_place_13	Los Angeles
-dvp_067_place_14	Connecticut
-dvp_067_place_15	Connecticut
-dvp_067_place_16	New Hampshire
-dvp_067_place_17	New Hampshire
-dvp_067_place_18	United States
-dvp_067_place_19	[Dartmouth] Skiway
-dvp_067_place_20	New Hampshire
-dvp_067_place_21	Boston
-dvp_067_place_22	Cambridge
-dvp_067_place_23	Hanover
-dvp_067_place_24	Germany
-dvp_067_place_25	Germany
-dvp_067_place_26	Germany
-dvp_067_place_27	Los Angeles
-dvp_067_place_28	Los Angeles
-dvp_067_place_29	Vietnam
-dvp_067_place_30	Saigon
-dvp_067_place_31	Saigon
-dvp_067_place_32	Fort Gordon, Georgia
-dvp_067_place_33	Fort Sill, Oklahoma
-dvp_067_place_34	Fort Benning, Georgia
-dvp_067_place_35	Fort Benning
-dvp_067_place_36	Fort Gordon
-dvp_067_place_37	Fort Benning
-dvp_067_place_38	Fort Bragg [North Carolina]
-dvp_067_place_39	Detroit
-dvp_067_place_40	Detroit
-dvp_067_place_41	Detroit
-dvp_067_place_42	Detroit
-dvp_067_place_43	Detroit
-dvp_067_place_44	Detroit
-dvp_067_place_45	Fort Bragg
-dvp_067_place_46	Vietnam
-dvp_067_place_47	Nam
-dvp_067_place_48	South
-dvp_067_place_49	Nam
-dvp_067_place_50	Fort Monmouth [New Jersey]
-dvp_067_place_51	Vietnam
-dvp_067_place_52	Los Angeles
-dvp_067_place_53	Nam
-dvp_067_place_54	Duc Pho
-dvp_067_place_55	I Corps [I is pronounced like eye], Vietnam
-dvp_067_place_56	Vietnam
-dvp_067_place_57	Da Nang
-dvp_067_place_58	III [pronounced three] Corps
-dvp_067_place_59	Saigon
-dvp_067_place_60	Route 1 [National Route 1A]
-dvp_067_place_61	Nam
-dvp_067_place_62	Biên Hòa
-dvp_067_place_63	Camp Eagle
-dvp_067_place_64	Phu Bai [Combat Base]
-dvp_067_place_65	Da Nang
-dvp_067_place_66	Hué
-dvp_067_place_67	DMZ [Demilitarized Zone]
-dvp_067_place_68	North Vietnam
-dvp_067_place_69	Fort Campbell, Kentucky
-dvp_067_place_70	Phu Bai
-dvp_067_place_71	Vietnam
-dvp_067_place_72	I Corps
-dvp_067_place_73	Da Nang
-dvp_067_place_74	Saigon
-dvp_067_place_75	Saigon
-dvp_067_place_76	Vietnam
-dvp_067_place_77	I Corps
-dvp_067_place_78	England
-dvp_067_place_79	Japan
-dvp_067_place_80	Da Nang
-dvp_067_place_81	Vietnam
-dvp_067_place_82	Vietnam
-dvp_067_place_83	Fairfield, Connecticut
-dvp_067_place_84	Vietnam
-dvp_067_place_85	Vietnam
-dvp_067_place_86	Vietnam
-dvp_067_place_87	Vietnam
-dvp_067_place_88	Vietnam
-dvp_067_place_89	Kentucky
-dvp_067_place_90	Da Nang
-dvp_067_place_91	Stateside
-dvp_067_place_92	States
-dvp_067_place_93	Brooklyn
-dvp_067_place_94	New York
-dvp_067_place_95	Vietnam
-dvp_067_place_96	Vietnam
-dvp_067_place_97	Vietnam
-dvp_067_place_98	Fairfield
-dvp_067_place_99	Nam
-dvp_067_place_100	Wall [Vietnam Veterans Memorial]
-dvp_067_place_101	Washington
-dvp_067_place_102	Wall
-dvp_067_place_103	Memorial
-dvp_067_place_104	Vietnam
-dvp_067_place_105	Nam
-dvp_067_place_106	Dickey’s
-dvp_067_place_107	Second College Grant
-dvp_067_place_108	Mooselauke Ravine Lodge
-dvp_067_place_109	Vietnam
+id	placeName	QID	dvp_id	coordinate location
+dvp_067_place_0	Rauner Special Collections Library	Q98544730		43.70447,-72.28817
+dvp_067_place_1	Boston	Q100		42.358333333333,-71.0625
+dvp_067_place_2	Watertown	Q54172		42.370833333333,-71.183333333333
+dvp_067_place_3	Los Angeles	Q65		34.05223,-118.24368
+dvp_067_place_4	Charles River	Q794927		42.3706,-71.0536
+dvp_067_place_5	Charles River	Q794927		42.3706,-71.0536
+dvp_067_place_6	Cambridge	Q49111		42.375,-71.106111111111
+dvp_067_place_7	Brighton	Q915760		42.35,-71.16
+dvp_067_place_8	Charles River	Q794927		42.3706,-71.0536
+dvp_067_place_9	Dartmouth College	Q49116		43.703333333333,-72.288333333333
+dvp_067_place_10	Los Angeles	Q65		34.05223,-118.24368
+dvp_067_place_11	Vietnam	Q881		16,108
+dvp_067_place_12	New Hampshire	Q759		44,-71.5
+dvp_067_place_13	Los Angeles	Q65		34.05223,-118.24368
+dvp_067_place_14	Connecticut River	Q379648		45.2375,-71.2
+dvp_067_place_15	Connecticut River	Q379648		45.2375,-71.2
+dvp_067_place_16	New Hampshire	Q759		44,-71.5
+dvp_067_place_17	New Hampshire	Q759		44,-71.5
+dvp_067_place_18	United States of America	Q30		39.828175,-98.5795
+dvp_067_place_19	Dartmouth Skiway	Q5225725		43.7869,-72.1008
+dvp_067_place_20	New Hampshire	Q759		44,-71.5
+dvp_067_place_21	Boston	Q100		42.358333333333,-71.0625
+dvp_067_place_22	Cambridge	Q49111		42.375,-71.106111111111
+dvp_067_place_23	Hanover	Q131908		43.7,-72.28333333333333
+dvp_067_place_24	Germany	Q183		51,10
+dvp_067_place_25	Germany	Q183		51,10
+dvp_067_place_26	Germany	Q183		51,10
+dvp_067_place_27	Los Angeles	Q65		34.05223,-118.24368
+dvp_067_place_28	Los Angeles	Q65		34.05223,-118.24368
+dvp_067_place_29	Vietnam	Q881		16,108
+dvp_067_place_30	Saigon	Q105076255		10.8,106.65
+dvp_067_place_31	Saigon	Q105076255		10.8,106.65
+dvp_067_place_32	Fort Gordon	Q1368958		33.413333333333,-82.135277777778
+dvp_067_place_33	Fort Sill	Q1018681		34.704166666667,-98.508333333333
+dvp_067_place_34	Fort Benning	Q1438462		32.366111111111,-84.969166666667
+dvp_067_place_35	Fort Benning	Q1438462		32.366111111111,-84.969166666667
+dvp_067_place_36	Fort Gordon	Q1368958		33.413333333333,-82.135277777778
+dvp_067_place_37	Fort Benning	Q1438462		32.366111111111,-84.969166666667
+dvp_067_place_38	Fort Bragg	Q991369		35.139166666667,-78.999166666667
+dvp_067_place_39	Detroit	Q12439		42.331666666667,-83.0475
+dvp_067_place_40	Detroit	Q12439		42.331666666667,-83.0475
+dvp_067_place_41	Detroit	Q12439		42.331666666667,-83.0475
+dvp_067_place_42	Detroit	Q12439		42.331666666667,-83.0475
+dvp_067_place_43	Detroit	Q12439		42.331666666667,-83.0475
+dvp_067_place_44	Detroit	Q12439		42.331666666667,-83.0475
+dvp_067_place_45	Fort Bragg	Q991369		35.139166666667,-78.999166666667
+dvp_067_place_46	Vietnam	Q881		16,108
+dvp_067_place_47	Vietnam	Q881		16,108
+dvp_067_place_48	South			
+dvp_067_place_49	Vietnam	Q881		16,108
+dvp_067_place_50	Fort Monmouth	Q5471699		40.314,-74.045
+dvp_067_place_51	Vietnam	Q881		16,108
+dvp_067_place_52	Los Angeles	Q65		34.05223,-118.24368
+dvp_067_place_53	Vietnam	Q881		16,108
+dvp_067_place_54	Nguyễn Nghiêm	Q10842418		14.805,108.9525
+dvp_067_place_55	I Corps	Q98611610		15.5597,108.1172
+dvp_067_place_56	Vietnam	Q881		16,108
+dvp_067_place_57	Da Nang	Q25282		16.069444444444443,108.20972222222223
+dvp_067_place_58	III Corps	Q5971303		11.202314,107.079378
+dvp_067_place_59	Saigon	Q105076255		10.8,106.65
+dvp_067_place_60	National Route 1A	Q1372266		15.098604,108.817229
+dvp_067_place_61	Vietnam	Q881		16,108
+dvp_067_place_62	Biên Hòa	Q19316		10.927686,106.868067
+dvp_067_place_63	Camp Eagle	Q18391342		16.408056,107.631111
+dvp_067_place_64	Phu Bai Combat Base	Q18392575		16.401667,107.702778
+dvp_067_place_65	Da Nang	Q25282		16.069444444444443,108.20972222222223
+dvp_067_place_66	Huế	Q36167		16.46371111111111,107.590825
+dvp_067_place_67	Vietnamese Demilitarized Zone	Q2349960		16.9875,107.0359
+dvp_067_place_68	North Vietnam	Q172640		21.033333,105.85
+dvp_067_place_69	Fort Campbell	Q1385040		36.65,-87.4667
+dvp_067_place_70	Phu Bai Combat Base	Q18392575		16.401667,107.702778
+dvp_067_place_71	Vietnam	Q881		16,108
+dvp_067_place_72	I Corps	Q98611610		15.5597,108.1172
+dvp_067_place_73	Da Nang	Q25282		16.069444444444443,108.20972222222223
+dvp_067_place_74	Saigon	Q105076255		10.8,106.65
+dvp_067_place_75	Saigon	Q105076255		10.8,106.65
+dvp_067_place_76	Vietnam	Q881		16,108
+dvp_067_place_77	I Corps	Q98611610		15.5597,108.1172
+dvp_067_place_78	England	Q21		53,-1
+dvp_067_place_79	Japan	Q17		35,136
+dvp_067_place_80	Da Nang	Q25282		16.069444444444443,108.20972222222223
+dvp_067_place_81	Vietnam	Q881		16,108
+dvp_067_place_82	Vietnam	Q881		16,108
+dvp_067_place_83	Fairfield	Q754635		41.175833333333,-73.271944444444
+dvp_067_place_84	Vietnam	Q881		16,108
+dvp_067_place_85	Vietnam	Q881		16,108
+dvp_067_place_86	Vietnam	Q881		16,108
+dvp_067_place_87	Vietnam	Q881		16,108
+dvp_067_place_88	Vietnam	Q881		16,108
+dvp_067_place_89	Kentucky	Q1603		37.5,-85
+dvp_067_place_90	Da Nang	Q25282		16.069444444444443,108.20972222222223
+dvp_067_place_91	United States of America	Q30		39.828175,-98.5795
+dvp_067_place_92	United States of America	Q30		39.828175,-98.5795
+dvp_067_place_93	Brooklyn	Q18419		40.692777777778,-73.990277777778
+dvp_067_place_94	New York City	Q60		40.712728,-74.006015
+dvp_067_place_95	Vietnam	Q881		16,108
+dvp_067_place_96	Vietnam	Q881		16,108
+dvp_067_place_97	Vietnam	Q881		16,108
+dvp_067_place_98	Fairfield	Q754635		41.175833333333,-73.271944444444
+dvp_067_place_99	Vietnam	Q881		16,108
+dvp_067_place_100	Vietnam Veterans Memorial	Q713628		38.891111111111,-77.047777777778
+dvp_067_place_101	Washington, D.C.	Q61		38.895,-77.036666666667
+dvp_067_place_102	Vietnam Veterans Memorial	Q713628		38.891111111111,-77.047777777778
+dvp_067_place_103	Vietnam Veterans Memorial	Q713628		38.891111111111,-77.047777777778
+dvp_067_place_104	Vietnam	Q881		16,108
+dvp_067_place_105	Vietnam	Q881		16,108
+dvp_067_place_106	Dickey’s			
+dvp_067_place_107	Second College Grant	Q7443207		44.913888888889,-71.113055555556
+dvp_067_place_108	Moosilauke Ravine Lodge	Q14705352		43.9933,-71.8164
+dvp_067_place_109	Vietnam	Q881		16,108
