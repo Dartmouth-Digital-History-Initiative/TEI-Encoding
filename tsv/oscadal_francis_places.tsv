@@ -1,12 +1,12 @@
 id	placeName	QID	dvp_id	coordinate location
 dvp_015_place_0	Rauner Special Collections Library	Q98544730		43.70447,-72.28817
 dvp_015_place_1	Buffalo	Q40435		42.904722222222,-78.849444444444
-dvp_015_place_2	First Ward		dvp_0176	42.8667, -78.8623
+dvp_015_place_2	First Ward	Q108938161		42.8667, -78.8623
 dvp_015_place_3	Buffalo	Q40435		42.904722222222,-78.849444444444
 dvp_015_place_4	Buffalo	Q40435		42.904722222222,-78.849444444444
 dvp_015_place_5	Great Lakes	Q7347		45.75,-84
 dvp_015_place_6	Pillsbury Flour Mill			
-dvp_015_place_7	First Ward		dvp_0176	42.8667, -78.8623
+dvp_015_place_7	First Ward	Q108938161		42.8667, -78.8623
 dvp_015_place_8	South Buffalo	Q7566450		42.847,-78.824
 dvp_015_place_9	Buffalo	Q40435		42.904722222222,-78.849444444444
 dvp_015_place_10	South Buffalo	Q7566450		42.847,-78.824
@@ -15,7 +15,7 @@ dvp_015_place_12	Buffalo	Q40435		42.904722222222,-78.849444444444
 dvp_015_place_13	South Buffalo	Q7566450		42.847,-78.824
 dvp_015_place_14	Buffalo	Q40435		42.904722222222,-78.849444444444
 dvp_015_place_15	Buffalo	Q40435		42.904722222222,-78.849444444444
-dvp_015_place_16	First Ward		dvp_0176	
+dvp_015_place_16	First Ward	Q108938161		42.8667, -78.8623
 dvp_015_place_17	Buffalo	Q40435		42.904722222222,-78.849444444444
 dvp_015_place_18	Republic [Steel]			
 dvp_015_place_19	Bethlehem Steel [Corporation]			
@@ -26,8 +26,8 @@ dvp_015_place_23	Buffalo	Q40435		42.904722222222,-78.849444444444
 dvp_015_place_24	Buffalo	Q40435		42.904722222222,-78.849444444444
 dvp_015_place_25	South Buffalo	Q7566450		42.847,-78.824
 dvp_015_place_26	Ridgewood Road		dvp_0177	42.8388256,-78.8200476
-dvp_015_place_27	First Ward		dvp_0176	42.8667, -78.8623
-dvp_015_place_28	First Ward		dvp_0176	42.8667, -78.8623
+dvp_015_place_27	First Ward	Q108938161		42.8667, -78.8623
+dvp_015_place_28	First Ward	Q108938161		42.8667, -78.8623
 dvp_015_place_29	South Buffalo	Q7566450		42.847,-78.824
 dvp_015_place_30	United States of America	Q30		39.828175,-98.5795
 dvp_015_place_31	Georgia	Q1428		33,-83.5
@@ -87,7 +87,7 @@ dvp_015_place_84	Buffalo	Q40435		42.904722222222,-78.849444444444
 dvp_015_place_85	Buffalo	Q40435		42.904722222222,-78.849444444444
 dvp_015_place_86	University at Buffalo	Q681025		43,-78.789166666667
 dvp_015_place_87	Buffalo	Q40435		42.904722222222,-78.849444444444
-dvp_015_place_88	City Hall	Q5123193		44.699167,-73.4525
+dvp_015_place_88	City Hall	Q1001988		42.886592, -78.879303
 dvp_015_place_89	Vietnam	Q881		16,108
 dvp_015_place_90	Vietnam	Q881		16,108
 dvp_015_place_91	Washington, D.C.	Q61		38.895,-77.036666666667
