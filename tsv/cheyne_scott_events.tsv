@@ -1,20 +1,20 @@
-id	name
-dvp_080_event_0	World War II
-dvp_080_event_1	World War II
-dvp_080_event_2	the Vietnam War
-dvp_080_event_3	World War II
-dvp_080_event_4	Korea [the Korean War]
-dvp_080_event_5	Korea
-dvp_080_event_6	Korea
-dvp_080_event_7	Vietnam
-dvp_080_event_8	Vietnam
-dvp_080_event_9	Vietnam
-dvp_080_event_10	the Japanese attack in 1941
-dvp_080_event_11	Vietnam
-dvp_080_event_12	the Vietnam War
-dvp_080_event_13	Vietnam
-dvp_080_event_14	the war in Vietnam
-dvp_080_event_15	Vietnam
-dvp_080_event_16	Vietnam
-dvp_080_event_17	the effort in Vietnam
-dvp_080_event_18	the Vietnam War
+id	name	QID	dvp_id	start time	end time	point in time
+dvp_080_event_0	World War II	Q362		1939-09-01T00:00:00Z	1945-09-02T00:00:00Z	
+dvp_080_event_1	World War II	Q362		1939-09-01T00:00:00Z	1945-09-02T00:00:00Z	
+dvp_080_event_2	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_080_event_3	World War II	Q362		1939-09-01T00:00:00Z	1945-09-02T00:00:00Z	
+dvp_080_event_4	Korean War	Q8663		1950-06-25T00:00:00Z	1953-07-27T00:00:00Z	
+dvp_080_event_5	Korean War	Q8663		1950-06-25T00:00:00Z	1953-07-27T00:00:00Z	
+dvp_080_event_6	Korean War	Q8663		1950-06-25T00:00:00Z	1953-07-27T00:00:00Z	
+dvp_080_event_7	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_080_event_8	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_080_event_9	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_080_event_10	Attack on Pearl Harbor	Q52418				1941-12-07T00:00:00Z
+dvp_080_event_11	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_080_event_12	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_080_event_13	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_080_event_14	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_080_event_15	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_080_event_16	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_080_event_17	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_080_event_18	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	

@@ -1,43 +1,43 @@
-id	persName
-dvp_080_person_0	Alexa Sonnenfeld
-dvp_080_person_1	Robert Scott Cheyne
-dvp_080_person_2	Scott
-dvp_080_person_3	Shirley [Buckler], last name Cheyne
-dvp_080_person_4	Robert, Robert B., not Robert S
-dvp_080_person_5	Smith
-dvp_080_person_6	Richard [M.] Nixon
-dvp_080_person_7	Richard M. Nixon
-dvp_080_person_8	[D.] David Eisenhower [II]
-dvp_080_person_9	[President] Dwight [D.] Eisenhower
-dvp_080_person_10	David Eisenhower
-dvp_080_person_11	Richard Nixon
-dvp_080_person_12	Nixon
-dvp_080_person_13	[the Rev. Dr.] Martin Luther King [Jr.]
-dvp_080_person_14	Fidel Castro
-dvp_080_person_15	Lyndon [B.] Johnson
-dvp_080_person_16	Lyndon Johnson
-dvp_080_person_17	Nixon
-dvp_080_person_18	Nixon
-dvp_080_person_19	Lyndon Johnson
-dvp_080_person_20	Lyndon Johnson
-dvp_080_person_21	President Johnson
-dvp_080_person_22	Admiral [Elmo R., Jr.] Zumwalt’s
-dvp_080_person_23	Admiral Zumwalt
-dvp_080_person_24	Hillary [Rodham] Clinton
-dvp_080_person_25	Bob Hope
-dvp_080_person_26	Bob Hope
-dvp_080_person_27	Bob Hope
-dvp_080_person_28	[J. Edward] “Ed” Snyder
-dvp_080_person_29	Donald R. Dwight
-dvp_080_person_30	Francis Sargent
-dvp_080_person_31	Michael [S.] Dukakis
-dvp_080_person_32	Frank Sargent
-dvp_080_person_33	Michael Dukakis
-dvp_080_person_34	Don Dwight
-dvp_080_person_35	Governor Sargent
-dvp_080_person_36	Lieutenant Governor Dwight
-dvp_080_person_37	Michael Dukakis
-dvp_080_person_38	Frank Sargent
-dvp_080_person_39	Jack Connors [Jr.]
-dvp_080_person_40	Scott
-dvp_080_person_41	Scott
+id	persName	QID	dvp_id
+dvp_080_person_0	Alexa Sonnenfeld		dvp_1041
+dvp_080_person_1	Robert Scott Cheyne		dvp_1042
+dvp_080_person_2	Scott		dvp_1042
+dvp_080_person_3	Shirley [Buckler], last name Cheyne		dvp_1043
+dvp_080_person_4	Robert, Robert B., not Robert S		dvp_1044
+dvp_080_person_5	Smith		
+dvp_080_person_6	Richard Nixon	Q9588	
+dvp_080_person_7	Richard Nixon	Q9588	
+dvp_080_person_8	Dwight D. Eisenhower	Q9916	
+dvp_080_person_9	Dwight D. Eisenhower	Q9916	
+dvp_080_person_10	David Eisenhower	Q3368157	
+dvp_080_person_11	Richard Nixon	Q9588	
+dvp_080_person_12	Richard Nixon	Q9588	
+dvp_080_person_13	Martin Luther King Jr.	Q8027	
+dvp_080_person_14	Fidel Castro	Q11256	
+dvp_080_person_15	Lyndon B. Johnson	Q9640	
+dvp_080_person_16	Lyndon B. Johnson	Q9640	
+dvp_080_person_17	Richard Nixon	Q9588	
+dvp_080_person_18	Richard Nixon	Q9588	
+dvp_080_person_19	Lyndon B. Johnson	Q9640	
+dvp_080_person_20	Lyndon B. Johnson	Q9640	
+dvp_080_person_21	Lyndon B. Johnson	Q9640	
+dvp_080_person_22	Elmo Zumwalt	Q666620	
+dvp_080_person_23	Elmo Zumwalt	Q666620	
+dvp_080_person_24	Hillary Clinton	Q6294	
+dvp_080_person_25	Bob Hope	Q94081	
+dvp_080_person_26	Bob Hope	Q94081	
+dvp_080_person_27	Bob Hope	Q94081	
+dvp_080_person_28	[J. Edward] “Ed” Snyder		dvp_1045
+dvp_080_person_29	Donald R. Dwight	Q5295017	
+dvp_080_person_30	Francis W. Sargent	Q441536	
+dvp_080_person_31	Michael Dukakis	Q319099	
+dvp_080_person_32	Frank Joseph Sargent	Q105687570	
+dvp_080_person_33	Michael Dukakis	Q319099	
+dvp_080_person_34	Donald R. Dwight	Q5295017	
+dvp_080_person_35	Francis W. Sargent	Q441536	
+dvp_080_person_36	Donald R. Dwight	Q5295017	
+dvp_080_person_37	Michael Dukakis	Q319099	
+dvp_080_person_38	Frank Joseph Sargent	Q105687570	
+dvp_080_person_39	Jack Connors [Jr.]		dvp_1046
+dvp_080_person_40	Scott		dvp_1042
+dvp_080_person_41	Scott		dvp_1042
