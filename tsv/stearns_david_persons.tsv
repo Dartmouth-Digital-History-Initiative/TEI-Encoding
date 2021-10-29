@@ -1,42 +1,42 @@
-id	persName
-dvp_061_person_0	Elena Ridker
-dvp_061_person_1	Dave Stearns
-dvp_061_person_2	David
-dvp_061_person_3	Howard Gordon Stearns
-dvp_061_person_4	Grace Harvey Stearns
-dvp_061_person_5	Grace
-dvp_061_person_6	Joe [Nathan] Wright [Class of 1968]
-dvp_061_person_7	Duncan [B.] Sleigh
-dvp_061_person_8	Duncan
-dvp_061_person_9	Duncan
-dvp_061_person_10	[James W.] “Jamie” Newton
-dvp_061_person_11	Duncan Sleigh
-dvp_061_person_12	Duncan Sleigh
-dvp_061_person_13	Admiral [Samuel B.] Frankel
-dvp_061_person_14	Bonnie [Stearns]
-dvp_061_person_15	John Paul Vann
-dvp_061_person_16	Hồ Chí [which he pronounces to rhyme with sky] Minh
-dvp_061_person_17	[Secretary of State] John Foster Dulles
-dvp_061_person_18	[Secretary of Defense Robert S.] McNamara
-dvp_061_person_19	[President Lyndon B.] Johnson’s
-dvp_061_person_20	McNamara
-dvp_061_person_21	[Rear Admiral] Grace [M.] Hopper
-dvp_061_person_22	Eric Clapton
-dvp_061_person_23	Eric Clapton
-dvp_061_person_24	[Lt. William L.] Calley [Jr.]
-dvp_061_person_25	[President Barack H.] Obama’s
-dvp_061_person_26	George[W.] Bush
-dvp_061_person_27	W
-dvp_061_person_28	Herbert Walker Bush
-dvp_061_person_29	W
-dvp_061_person_30	Obama
-dvp_061_person_31	[Richard S.] “Dick” Durrance’s
-dvp_061_person_32	Dick Durrance
-dvp_061_person_33	Doug
-dvp_061_person_34	Doug
-dvp_061_person_35	Obama
-dvp_061_person_36	Bill
-dvp_061_person_37	[Robert B.] “Bob” Reich [Class of 1968]
-dvp_061_person_38	[President William J.] “Bill” Clinton
-dvp_061_person_39	Dave
-dvp_061_person_40	Durrance
+id	persName	QID	dvp_id
+dvp_061_person_0	Elena Ridker		dvp_0046
+dvp_061_person_1	Dave Stearns		dvp_1067
+dvp_061_person_2	David		dvp_1067
+dvp_061_person_3	Howard Gordon Stearns		dvp_1068
+dvp_061_person_4	Grace Harvey Stearns		dvp_1069
+dvp_061_person_5	Grace		dvp_1069
+dvp_061_person_6	Joe [Nathan] Wright [Class of 1968]		dvp_1070
+dvp_061_person_7	Duncan [B.] Sleigh		dvp_0895
+dvp_061_person_8	Duncan		dvp_0895
+dvp_061_person_9	Duncan		dvp_0895
+dvp_061_person_10	[James W.] “Jamie” Newton		dvp_0563
+dvp_061_person_11	Duncan Sleigh		dvp_0895
+dvp_061_person_12	Duncan Sleigh		dvp_0895
+dvp_061_person_13	Admiral [Samuel B.] Frankel		dvp_1071
+dvp_061_person_14	Bonnie [Stearns]		dvp_1072
+dvp_061_person_15	John Paul Vann	Q6252282	
+dvp_061_person_16	Ho Chi Minh	Q36014	
+dvp_061_person_17	John Foster Dulles	Q223677	
+dvp_061_person_18	Robert McNamara	Q191999	
+dvp_061_person_19	Lyndon B. Johnson	Q9640	
+dvp_061_person_20	Robert McNamara	Q191999	
+dvp_061_person_21	Grace Hopper	Q11641	
+dvp_061_person_22	Eric Clapton	Q48187	
+dvp_061_person_23	Eric Clapton	Q48187	
+dvp_061_person_24	William Calley	Q374315	
+dvp_061_person_25	Barack Obama	Q76	
+dvp_061_person_26	George W. Bush	Q207	
+dvp_061_person_27	Felix Aderca	Q925452	
+dvp_061_person_28	George H. W. Bush	Q23505	
+dvp_061_person_29	Felix Aderca	Q925452	
+dvp_061_person_30	Barack Obama	Q76	
+dvp_061_person_31	Dick Durrance II	Q27948789	
+dvp_061_person_32	Dick Durrance II	Q27948789	
+dvp_061_person_33	Douglas L. Altshuler	Q46352885	
+dvp_061_person_34	Douglas L. Altshuler	Q46352885	
+dvp_061_person_35	Barack Obama	Q76	
+dvp_061_person_36	Bill		
+dvp_061_person_37	[Robert B.] “Bob” Reich [Class of 1968]		dvp_0524
+dvp_061_person_38	Bill Clinton	Q1124	
+dvp_061_person_39	Dave		dvp_1067
+dvp_061_person_40	Dick Durrance II	Q27948789	
