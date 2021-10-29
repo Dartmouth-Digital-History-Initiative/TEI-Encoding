@@ -42,7 +42,7 @@ dvp_063_place_39	Darien	Q165613		41.07871,-73.46929
 dvp_063_place_40	Lausanne	Q807		46.533333333333,6.6333333333333
 dvp_063_place_41	California	Q99		37,-120
 dvp_063_place_42	Occom Pond	Q102220750		43.71127,-72.28796
-dvp_063_place_43	Main Street		dvp_0910	43.69622197788141, -72.28977660207013
+dvp_063_place_43	Main Street	Q107523326		43.424079,72.1722056
 dvp_063_place_44	Connecticut River	Q379648		45.2375,-71.2
 dvp_063_place_45	West Wheelock Street	Q104906195		43.7030386,-72.2996561
 dvp_063_place_46	West Wheelock Street	Q104906195		43.7030386,-72.2996561
@@ -164,7 +164,7 @@ dvp_063_place_161	California	Q99		37,-120
 dvp_063_place_162	Long Island	Q18438		40.805805,-73.253616
 dvp_063_place_163	Long Island	Q18438		40.805805,-73.253616
 dvp_063_place_164	Long Island	Q18438		40.805805,-73.253616
-dvp_063_place_165	Five Towns			
+dvp_063_place_165	Five Towns	Q5456173		40.2276793,-77.2118143
 dvp_063_place_166	Carmel-by-the-Sea	Q625458		36.555277777778,-121.92333333333
 dvp_063_place_167	Carmel-by-the-Sea	Q625458		36.555277777778,-121.92333333333
 dvp_063_place_168	Monterey	Q487315		36.60024,-121.89468
@@ -241,7 +241,7 @@ dvp_063_place_238	California	Q99		37,-120
 dvp_063_place_239	United States of America	Q30		39.828175,-98.5795
 dvp_063_place_240	Vietnam	Q881		16,108
 dvp_063_place_241	Vietnam	Q881		16,108
-dvp_063_place_242	[American] Embassy			
+dvp_063_place_242	[American] Embassy	Q894834		10.47003,106.42134
 dvp_063_place_243	Cambodia	Q424		12.6,105
 dvp_063_place_244	Vietnam	Q881		16,108
 dvp_063_place_245	Vietnam	Q881		16,108
@@ -290,6 +290,6 @@ dvp_063_place_287	Moosilauke Ravine Lodge	Q14705352		43.9933,-71.8164
 dvp_063_place_288	Moosilauke Ravine Lodge	Q14705352		43.9933,-71.8164
 dvp_063_place_289	United States of America	Q30		39.828175,-98.5795
 dvp_063_place_290	United States of America	Q30		39.828175,-98.5795
-dvp_063_place_291	French			
-dvp_063_place_292	American			
-dvp_063_place_293	American			
+dvp_063_place_291	French	Q142		47,2
+dvp_063_place_292	American	Q30		39.4941430,98.3446200
+dvp_063_place_293	American	Q30		39.4941430,98.3446200

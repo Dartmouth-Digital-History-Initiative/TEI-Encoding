@@ -1,4 +1,4 @@
-id	name	QID	dvd_id
+id	name	QID	dvp_id
 dvp_063_event_0	Vietnam War	Q8740	
 dvp_063_event_1	World War II	Q362	
 dvp_063_event_2	Korean War	Q8663	
@@ -40,8 +40,8 @@ dvp_063_event_37	Iraq War	Q545449
 dvp_063_event_38	Gulf of Tonkin incident	Q482402	
 dvp_063_event_39	Vietnam War	Q8740	
 dvp_063_event_40	atomic bombings of Hiroshima and Nagasaki	Q488	
-dvp_063_event_41	Iraq		
-dvp_063_event_42	Afghanistan		
+dvp_063_event_41	Iraq	Q545449	
+dvp_063_event_42	Afghanistan	Q182865	
 dvp_063_event_43	Vietnam War	Q8740	
 dvp_063_event_44	World War II	Q362	
 dvp_063_event_45	Vietnam War	Q8740	
