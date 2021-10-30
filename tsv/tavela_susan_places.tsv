@@ -1,90 +1,90 @@
-id	placeName
-dvp_066_place_0	Rauner [Special Collections] Library
-dvp_066_place_1	Silver Spring, Maryland
-dvp_066_place_2	Washington, D.C.
-dvp_066_place_3	Washington, D.C.
-dvp_066_place_4	Vietnam
-dvp_066_place_5	Utah
-dvp_066_place_6	Pennsylvania
-dvp_066_place_7	Utah
-dvp_066_place_8	Ogden
-dvp_066_place_9	Indiana
-dvp_066_place_10	Utah
-dvp_066_place_11	Indiana
-dvp_066_place_12	Oak Park, Illinois
-dvp_066_place_13	Chicago
-dvp_066_place_14	Wisconsin
-dvp_066_place_15	West Chicago
-dvp_066_place_16	west side of Chicago
-dvp_066_place_17	Milwaukee [Wisconsin]
-dvp_066_place_18	Wauwatosa, Wisconsin
-dvp_066_place_19	New York
-dvp_066_place_20	Pleasantville
-dvp_066_place_21	Armonk
-dvp_066_place_22	New York
-dvp_066_place_23	Wauwatosa
-dvp_066_place_24	Wauwatosa
-dvp_066_place_25	Baltimore
-dvp_066_place_26	Pleasantville
-dvp_066_place_27	Milwaukee
-dvp_066_place_28	Copper Ridge [Memory Care]
-dvp_066_place_29	Milwaukee
-dvp_066_place_30	Wauwatosa
-dvp_066_place_31	Milwaukee, Wisconsin
-dvp_066_place_32	Chicago
-dvp_066_place_33	New York
-dvp_066_place_34	Baltimore
-dvp_066_place_35	D.C.
-dvp_066_place_36	the White House
-dvp_066_place_37	Vermont
-dvp_066_place_38	Washington
-dvp_066_place_39	Vietnam
-dvp_066_place_40	Wisconsin
-dvp_066_place_41	Canada
-dvp_066_place_42	Fort Sam Houston [in Texas]
-dvp_066_place_43	Fort Knox, Kentucky
-dvp_066_place_44	Kentucky
-dvp_066_place_45	Elizabethtown, Kentucky
-dvp_066_place_46	Fort Knox
-dvp_066_place_47	Vietnam
-dvp_066_place_48	Fort Sam
-dvp_066_place_49	Vietnam
-dvp_066_place_50	Vietnam
-dvp_066_place_51	Vietnam
-dvp_066_place_52	Thailand
-dvp_066_place_53	Maryland
-dvp_066_place_54	Hawaii
-dvp_066_place_55	Hawaii
-dvp_066_place_56	Vermont
-dvp_066_place_57	Norwich
-dvp_066_place_58	the Upper Valley [region of New Hampshire and Vermont]
-dvp_066_place_59	Hanover High [School]
-dvp_066_place_60	Massachusetts
-dvp_066_place_61	Norwich
-dvp_066_place_62	Norwich
-dvp_066_place_63	Norwich
-dvp_066_place_64	Norwich
-dvp_066_place_65	Vietnam
-dvp_066_place_66	BEMA [Big Empty Meeting Area]
-dvp_066_place_67	the United States
-dvp_066_place_68	Vietnam
-dvp_066_place_69	D.C.
-dvp_066_place_70	Vietnam
-dvp_066_place_71	Vietnam
-dvp_066_place_72	North Korea
-dvp_066_place_73	Fort Huachuca [Arizona]
-dvp_066_place_74	Silver Spring Library
-dvp_066_place_75	Washington
-dvp_066_place_76	Washington
-dvp_066_place_77	White House
-dvp_066_place_78	Vietnam
-dvp_066_place_79	Maryland
-dvp_066_place_80	Maryland
-dvp_066_place_81	Fort Knox
-dvp_066_place_82	Vietnam
-dvp_066_place_83	Vietnam
-dvp_066_place_84	the Wall [the Vietnam Veterans Memorial in Washington, D.C.]
-dvp_066_place_85	Wall
-dvp_066_place_86	[National] World War II [Memorial
-dvp_066_place_87	the Vietnam Memorial
-dvp_066_place_88	[National] Mall
+id	placeName	QID	dvp_id	coordinate location
+dvp_066_place_0	Rauner Special Collections Library	Q98544730		43.70447,-72.28817
+dvp_066_place_1	Silver Spring	Q755741		39.002441,-77.020791
+dvp_066_place_2	Washington, D.C.	Q61		38.895,-77.036666666667
+dvp_066_place_3	Washington, D.C.	Q61		38.895,-77.036666666667
+dvp_066_place_4	Vietnam	Q881		16,108
+dvp_066_place_5	Utah	Q829		39.5,-111.5
+dvp_066_place_6	Pennsylvania	Q103771030		58.74734655994511,-3.067697758587727
+dvp_066_place_7	Utah	Q829		39.5,-111.5
+dvp_066_place_8	Ogden	Q52471		41.227777777778,-111.96111111111
+dvp_066_place_9	Indiana	Q1184769		40.6211,-79.155
+dvp_066_place_10	Utah	Q829		39.5,-111.5
+dvp_066_place_11	Indiana	Q1184769		40.6211,-79.155
+dvp_066_place_12	Oak Park	Q331397		41.883333333333,-87.8
+dvp_066_place_13	Chicago	Q1297		41.881944444444,-87.627777777778
+dvp_066_place_14	Wisconsin	Q8027102		42.5327,-87.7087
+dvp_066_place_15	West Chicago	Q580487		41.9021603,-88.2419807
+dvp_066_place_16	West Side, Chicago	Q3567445		41.8671,-87.6216
+dvp_066_place_17	Milwaukee	Q37836		43.05,-87.95
+dvp_066_place_18	Wauwatosa	Q1006865		43.058888888889,-88.026111111111
+dvp_066_place_19	New York City	Q60		40.712728,-74.006015
+dvp_066_place_20	Pleasantville	Q1084372		39.3888,-74.5143
+dvp_066_place_21	Armonk	Q688830		41.128611111111,-73.707777777778
+dvp_066_place_22	New York City	Q60		40.712728,-74.006015
+dvp_066_place_23	Wauwatosa	Q1006865		43.058888888889,-88.026111111111
+dvp_066_place_24	Wauwatosa	Q1006865		43.058888888889,-88.026111111111
+dvp_066_place_25	Baltimore	Q5092		39.286388888889,-76.615
+dvp_066_place_26	Pleasantville	Q1084372		39.3888,-74.5143
+dvp_066_place_27	Milwaukee	Q37836		43.05,-87.95
+dvp_066_place_28	Copper Ridge [Memory Care]		dvp_1082	39.3787942776074, -76.97569628933854
+dvp_066_place_29	Milwaukee	Q37836		43.05,-87.95
+dvp_066_place_30	Wauwatosa	Q1006865		43.058888888889,-88.026111111111
+dvp_066_place_31	Milwaukee	Q37836		43.05,-87.95
+dvp_066_place_32	Chicago	Q1297		41.881944444444,-87.627777777778
+dvp_066_place_33	New York City	Q60		40.712728,-74.006015
+dvp_066_place_34	Baltimore	Q5092		39.286388888889,-76.615
+dvp_066_place_35	Washington, D.C.	Q61		38.895,-77.036666666667
+dvp_066_place_36	White House	Q35525		38.897669444444,-77.03655
+dvp_066_place_37	Vermont	Q16551		44,-72.7
+dvp_066_place_38	Washington, D.C.	Q61		38.895,-77.036666666667
+dvp_066_place_39	Vietnam	Q881		16,108
+dvp_066_place_40	Wisconsin	Q8027102		42.5327,-87.7087
+dvp_066_place_41	Canada	Q16		56,-109
+dvp_066_place_42	Fort Sam Houston	Q1438706		29.4763,-98.4308
+dvp_066_place_43	Fort Knox	Q8962067		37.89278,-85.97444
+dvp_066_place_44	Kentucky	Q1603		37.5,-85
+dvp_066_place_45	Elizabethtown	Q946319		37.7,-85.866666666667
+dvp_066_place_46	Fort Knox	Q8962067		37.89278,-85.97444
+dvp_066_place_47	Vietnam	Q881		16,108
+dvp_066_place_48	Fort Sam Houston	Q1438706		29.4763,-98.4308
+dvp_066_place_49	Vietnam	Q881		16,108
+dvp_066_place_50	Vietnam	Q881		16,108
+dvp_066_place_51	Vietnam	Q881		16,108
+dvp_066_place_52	Thailand	Q869		14,101
+dvp_066_place_53	Maryland	Q1391		39,-76.7
+dvp_066_place_54	Hawaii	Q782		21.3075,-157.8575
+dvp_066_place_55	Hawaii	Q782		21.3075,-157.8575
+dvp_066_place_56	Vermont	Q16551		44,-72.7
+dvp_066_place_57	Norwich	Q1510465		43.730277777778,-72.303055555556
+dvp_066_place_58	Upper Valley	Q105076900		43.6574776,-72.2814202
+dvp_066_place_59	Hanover High School	Q5649389		43.6989,-72.2839
+dvp_066_place_60	Massachusetts	Q771		42.3,-71.8
+dvp_066_place_61	Norwich	Q1510465		43.730277777778,-72.303055555556
+dvp_066_place_62	Norwich	Q1510465		43.730277777778,-72.303055555556
+dvp_066_place_63	Norwich	Q1510465		43.730277777778,-72.303055555556
+dvp_066_place_64	Norwich	Q1510465		43.730277777778,-72.303055555556
+dvp_066_place_65	Vietnam	Q881		16,108
+dvp_066_place_66	BEMA [Big Empty Meeting Area]	Q98636182		43.70521,-72.28445
+dvp_066_place_67	United States of America	Q30		39.828175,-98.5795
+dvp_066_place_68	Vietnam	Q881		16,108
+dvp_066_place_69	Washington, D.C.	Q61		38.895,-77.036666666667
+dvp_066_place_70	Vietnam	Q881		16,108
+dvp_066_place_71	Vietnam	Q881		16,108
+dvp_066_place_72	North Korea	Q423		40,127
+dvp_066_place_73	Fort Huachuca	Q1327004		31.5554,-110.35
+dvp_066_place_74	Silver Spring Library	Q23137943		38.995141,-77.024382
+dvp_066_place_75	Washington, D.C.	Q61		38.895,-77.036666666667
+dvp_066_place_76	Washington, D.C.	Q61		38.895,-77.036666666667
+dvp_066_place_77	White House	Q35525		38.897669444444,-77.03655
+dvp_066_place_78	Vietnam	Q881		16,108
+dvp_066_place_79	Maryland	Q1391		39,-76.7
+dvp_066_place_80	Maryland	Q1391		39,-76.7
+dvp_066_place_81	Fort Knox	Q8962067		37.89278,-85.97444
+dvp_066_place_82	Vietnam	Q881		16,108
+dvp_066_place_83	Vietnam	Q881		16,108
+dvp_066_place_84	Vietnam Veterans Memorial	Q713628		38.891111111111,-77.047777777778
+dvp_066_place_85	Vietnam Veterans Memorial	Q713628		38.891111111111,-77.047777777778
+dvp_066_place_86	World War II memorial	Q64374896		38.8894,77.0405
+dvp_066_place_87	Vietnam Veterans Memorial	Q713628		38.891111111111,-77.047777777778
+dvp_066_place_88	National Mall	Q465811		38.88944444444444,-77.02305555555556
