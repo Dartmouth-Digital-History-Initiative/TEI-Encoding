@@ -8,7 +8,6 @@ dvp_065_place_5	Palmyra	Q1086818		40.006944444444,-75.028333333333
 dvp_065_place_6	Palmyra	Q1086818		40.006944444444,-75.028333333333
 dvp_065_place_7	Philadelphia	Q1345		39.952777777778,-75.163611111111
 dvp_065_place_8	Delaware River	Q143762		41.939,-75.2791
-				39.4326,-75.5288
 dvp_065_place_9	United States of America	Q30		39.828175,-98.5795
 dvp_065_place_10	New Jersey	Q1408		40,-74.5
 dvp_065_place_11	Brooklyn	Q18419		40.692777777778,-73.990277777778
@@ -27,7 +26,7 @@ dvp_065_place_23	Hopkins Center for the Arts	Q3140375		43.701666666667,-72.28861
 dvp_065_place_24	Dartmouth Hall	Q105669850		43.70376,-72.28706
 dvp_065_place_25	Baker Memorial Library	Q4849183		43.705,-72.289166666667
 dvp_065_place_26	North Massachusetts Hall	Q100952541		43.7041,-72.2906
-dvp_065_place_27	Bradley/Gerry Hall [Bradley Hall and Gerry Hall]			
+dvp_065_place_27	Bradley Hall	Q109354082		43.706167,-72.288546
 dvp_065_place_28	Dartmouth College	Q49116		43.703333333333,-72.288333333333
 dvp_065_place_29	United States of America	Q30		39.828175,-98.5795
 dvp_065_place_30	Boston	Q100		42.358333333333,-71.0625
@@ -61,7 +60,7 @@ dvp_065_place_57	Vietnam	Q881		16,108
 dvp_065_place_58	Vietnam	Q881		16,108
 dvp_065_place_59	Princeton University	Q21578		40.345277777778,-74.656111111111
 dvp_065_place_60	Princeton University	Q21578		40.345277777778,-74.656111111111
-dvp_065_place_61	Wilson School	Q8023204		39.5256,-80.3347
+dvp_065_place_61	Princeton School of Public and International Affairs	Q2349578		40.34835,-74.65467
 dvp_065_place_62	Princeton School of Public and International Affairs	Q2349578		40.34835,-74.65467
 dvp_065_place_63	Vietnam	Q881		16,108
 dvp_065_place_64	Princeton University	Q21578		40.345277777778,-74.656111111111
@@ -69,8 +68,8 @@ dvp_065_place_65	Canada	Q16		56,-109
 dvp_065_place_66	South Vietnam	Q180573		10.75,106.66666666667
 dvp_065_place_67	United States of America	Q30		39.828175,-98.5795
 dvp_065_place_68	Russia	Q159		66.41666666666667,94.25
-dvp_065_place_69	Kampung Gual Mesa	Q7680669		6,102.016667
-dvp_065_place_70	Magallanes	Q31810196		12.82917,123.83639
+dvp_065_place_69	Malaysia	Q833		3.780511,102.314362
+dvp_065_place_70	Philippines	Q928		12,123
 dvp_065_place_71	Vietnam	Q881		16,108
 dvp_065_place_72	Ho Chi Minh City	Q1854		10.816666666667,106.63333333333
 dvp_065_place_73	Ho Chi Minh City	Q1854		10.816666666667,106.63333333333
@@ -96,7 +95,7 @@ dvp_065_place_92	Washington, D.C.	Q61		38.895,-77.036666666667
 dvp_065_place_93	The Pentagon	Q11208		38.871111,-77.055833
 dvp_065_place_94	Ho Chi Minh City	Q1854		10.816666666667,106.63333333333
 dvp_065_place_95	Travis Air Force Base	Q3497425		38.262777777778,-121.9275
-dvp_065_place_96	Travis	Q7836192		31.1356,-97.0028
+dvp_065_place_96	Travis Air Force Base	Q3497425		38.262777777778,-121.9275
 dvp_065_place_97	Seattle	Q5083		47.60621,-122.33207
 dvp_065_place_98	Tokyo	Q1490		35.689722222222,139.69222222222
 dvp_065_place_99	Haneda Airport	Q11610321		35.55333333,139.7811111
@@ -115,11 +114,7 @@ dvp_065_place_111	Tan Son Nhut Air Base	Q4115006		10.818888888889,106.6519444444
 dvp_065_place_112	United States of America	Q30		39.828175,-98.5795
 dvp_065_place_113	Ho Chi Minh City	Q1854		10.816666666667,106.63333333333
 dvp_065_place_114	Saigon River	Q1060805		10.75,106.75
-				11.6574,106.4553
-				10.7439,106.7556
 dvp_065_place_115	Saigon River	Q1060805		10.75,106.75
-				11.6574,106.4553
-				10.7439,106.7556
 dvp_065_place_116	Ho Chi Minh City	Q1854		10.816666666667,106.63333333333
 dvp_065_place_117	Vietnam	Q881		16,108
 dvp_065_place_118	Ho Chi Minh City	Q1854		10.816666666667,106.63333333333
@@ -136,9 +131,7 @@ dvp_065_place_128	Vietnam	Q881		16,108
 dvp_065_place_129	Da Nang	Q25282		16.069444444444443,108.20972222222223
 dvp_065_place_130	Da Nang	Q25282		16.069444444444443,108.20972222222223
 dvp_065_place_131	Khe Sanh	Q1924264		16.627211111111,106.73733333333
-				16.631111111111,106.73555555556
 dvp_065_place_132	Khe Sanh	Q1924264		16.627211111111,106.73733333333
-				16.631111111111,106.73555555556
 dvp_065_place_133	Vietnam	Q881		16,108
 dvp_065_place_134	Vietnam	Q881		16,108
 dvp_065_place_135	Vietnam	Q881		16,108
@@ -155,12 +148,10 @@ dvp_065_place_145	Ho Chi Minh City	Q1854		10.816666666667,106.63333333333
 dvp_065_place_146	Ho Chi Minh City	Q1854		10.816666666667,106.63333333333
 dvp_065_place_147	Ho Chi Minh City	Q1854		10.816666666667,106.63333333333
 dvp_065_place_148	Saigon River	Q1060805		10.75,106.75
-				11.6574,106.4553
-				10.7439,106.7556
 dvp_065_place_149	Ho Chi Minh City	Q1854		10.816666666667,106.63333333333
 dvp_065_place_150	Ho Chi Minh City	Q1854		10.816666666667,106.63333333333
 dvp_065_place_151	Ho Chi Minh City	Q1854		10.816666666667,106.63333333333
-dvp_065_place_152	Magallanes	Q31810196		12.82917,123.83639
+dvp_065_place_152	Philippines	Q928		12,123
 dvp_065_place_153	Australia	Q3960		-26,141
 dvp_065_place_154	Ho Chi Minh City	Q1854		10.816666666667,106.63333333333
 dvp_065_place_155	Ho Chi Minh City	Q1854		10.816666666667,106.63333333333
@@ -196,13 +187,13 @@ dvp_065_place_184	United States of America	Q30		39.828175,-98.5795
 dvp_065_place_185	Canada	Q16		56,-109
 dvp_065_place_186	Caribbean	Q664609		16.256944,-73.300833
 dvp_065_place_187	Mexico	Q96		23,-102
-dvp_065_place_188	Africa	Q15		21.09375,7.1881
-dvp_065_place_189	Europe	Q46		48.690959,9.14062
-dvp_065_place_190	South America	Q18		-21,-59
+dvp_065_place_188	Africa			
+dvp_065_place_189	Europe			
+dvp_065_place_190	South America			
 dvp_065_place_191	Vietnam	Q881		16,108
 dvp_065_place_192	Ho Chi Minh City	Q1854		10.816666666667,106.63333333333
 dvp_065_place_193	Japan	Q17		35,136
-dvp_065_place_194	Magallanes	Q31810196		12.82917,123.83639
+dvp_065_place_194	Philippines	Q928		12,123
 dvp_065_place_195	Hong Kong	Q8646		22.278333333333,114.15861111111
 dvp_065_place_196	Thailand	Q869		14,101
 dvp_065_place_197	Australia	Q3960		-26,141
@@ -270,7 +261,7 @@ dvp_065_place_258	Vietnam	Q881		16,108
 dvp_065_place_259	Vũng Tàu	Q21194		10.404166666667,107.14166666667
 dvp_065_place_260	Ho Chi Minh City	Q1854		10.816666666667,106.63333333333
 dvp_065_place_261	Vũng Tàu	Q21194		10.404166666667,107.14166666667
-dvp_065_place_262	Núi Dat	Q31638810		22.135,104.9533
+dvp_065_place_262	Nui Dat	Q7068799		10.556944,107.222222
 dvp_065_place_263	Australia	Q3960		-26,141
 dvp_065_place_264	New South Wales	Q3224		-32,147
 dvp_065_place_265	United States of America	Q30		39.828175,-98.5795
@@ -280,7 +271,6 @@ dvp_065_place_268	Australia	Q3960		-26,141
 dvp_065_place_269	Sydney	Q3130		-33.866666666667,151.2
 dvp_065_place_270	Australia	Q3960		-26,141
 dvp_065_place_271	Gallipoli	Q192860		40.367222222222,26.455
-				40.33333,26.5
 dvp_065_place_272	Australia	Q3960		-26,141
 dvp_065_place_273	Sydney	Q3130		-33.866666666667,151.2
 dvp_065_place_274	Australia	Q3960		-26,141
