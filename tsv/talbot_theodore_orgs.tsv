@@ -20,8 +20,8 @@ dvp_065_org_17	Dartmouth College	Q49116
 dvp_065_org_18	Panarchy	Q104894613	
 dvp_065_org_19	Dartmouth Outing Club	Q5225718	
 dvp_065_org_20	Dartmouth Outing Club	Q5225718	
-dvp_065_org_21	Phi Kappa Psi	Q3378723	
-dvp_065_org_22	Phi Kappa Psi	Q3378723	
+dvp_065_org_21	Panarchy	Q104894613	
+dvp_065_org_22	Panarchy	Q104894613	
 dvp_065_org_23	Panarchy	Q104894613	
 dvp_065_org_24	Dartmouth Outing Club	Q5225718	
 dvp_065_org_25	Dartmouth Outing Club	Q5225718	
@@ -68,7 +68,7 @@ dvp_065_org_65	United States Army	Q9212
 dvp_065_org_66	Dartmouth College	Q49116	
 dvp_065_org_67	Reserve Officers' Training Corps	Q489983	
 dvp_065_org_68	United States Army	Q9212	
-dvp_065_org_69	Regular Army of USA	Q4992216	
+dvp_065_org_69	Regular Army (United States)	Q4992216	
 dvp_065_org_70	United States Army	Q9212	
 dvp_065_org_71	DARPA	Q207361	
 dvp_065_org_72	United States Marine Corps	Q11218	
@@ -76,10 +76,10 @@ dvp_065_org_73	DARPA	Q207361
 dvp_065_org_74	Army of the Republic of Vietnam	Q18917	
 dvp_065_org_75	United States of America	Q30	
 dvp_065_org_76	Army of the Republic of Vietnam	Q18917	
-dvp_065_org_77	Combat Development and Test Center Saigon	Q109335044	
+dvp_065_org_77	Combat Development and Test Center	Q109335044	
 dvp_065_org_78	DARPA	Q207361	
 dvp_065_org_79	DARPA	Q207361	
-dvp_065_org_80	the Combat Development and Test Center		
+dvp_065_org_80	Combat Development and Test Center	Q109335044	
 dvp_065_org_81	Army of the Republic of Vietnam	Q18917	
 dvp_065_org_82	Army of the Republic of Vietnam	Q18917	
 dvp_065_org_83	Army of the Republic of Vietnam	Q18917	
@@ -90,7 +90,7 @@ dvp_065_org_87	Army of the Republic of Vietnam	Q18917
 dvp_065_org_88	Army of the Republic of Vietnam	Q18917	
 dvp_065_org_89	Army of the Republic of Vietnam	Q18917	
 dvp_065_org_90	Army of the Republic of Vietnam	Q18917	
-dvp_065_org_91	Combat Development and Test Center Saigon	Q109335044	
+dvp_065_org_91	Combat Development and Test Center	Q109335044	
 dvp_065_org_92	Army of the Republic of Vietnam	Q18917	
 dvp_065_org_93	United States Department of State	Q789915	
 dvp_065_org_94	National Front for the Liberation of South Vietnam	Q174423	
@@ -134,7 +134,7 @@ dvp_065_org_131	Soviet Union	Q15180
 dvp_065_org_132	South Vietnam	Q180573	
 dvp_065_org_133	Honda	Q9584	
 dvp_065_org_134	People's Army of Vietnam	Q3936506	
-dvp_065_org_135	Government of Vietnam	Q5589338	
+dvp_065_org_135	Vietnam	Q881	
 dvp_065_org_136	National Front for the Liberation of South Vietnam	Q174423	
 dvp_065_org_137	National Front for the Liberation of South Vietnam	Q174423	
 dvp_065_org_138	National Front for the Liberation of South Vietnam	Q174423	
@@ -164,8 +164,8 @@ dvp_065_org_161	Procter & Gamble	Q212405
 dvp_065_org_162	Procter & Gamble	Q212405	
 dvp_065_org_163	Procter & Gamble	Q212405	
 dvp_065_org_164	S. C. Johnson & Son	Q683170	
-dvp_065_org_165	Vietnam People's Navy	Q1324290	
-dvp_065_org_166	Vietnam People's Navy	Q1324290	
+dvp_065_org_165	Republic of Vietnam Navy	Q649920	
+dvp_065_org_166	Republic of Vietnam Navy	Q649920	
 dvp_065_org_167	United States of America	Q30	
 dvp_065_org_168	Procter & Gamble	Q212405	
 dvp_065_org_169	S. C. Johnson & Son	Q683170	
