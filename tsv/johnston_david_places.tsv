@@ -1,30 +1,30 @@
 id	placeName
-dvp_035_place_0	Rauner [Special Collections] Library
+dvp_035_place_0	Rauner Special Collections Library
 dvp_035_place_1	Dartmouth College
-dvp_035_place_2	West Hartford, Connecticut
-dvp_035_place_3	Elgin, Illinois
+dvp_035_place_2	West Hartford
+dvp_035_place_3	Elgin
 dvp_035_place_4	Lords Park
 dvp_035_place_5	Elgin
 dvp_035_place_6	Lords Park
 dvp_035_place_7	Hanover
 dvp_035_place_8	Elgin
-dvp_035_place_9	Belfast, Northern Ireland
+dvp_035_place_9	Belfast
 dvp_035_place_10	Ireland
 dvp_035_place_11	England
-dvp_035_place_12	the Upper Peninsula
+dvp_035_place_12	Upper Peninsula of Michigan
 dvp_035_place_13	Michigan
 dvp_035_place_14	Pentoga
 dvp_035_place_15	Gladstone
 dvp_035_place_16	Lake Michigan
-dvp_035_place_17	Belfast, Northern Ireland
+dvp_035_place_17	Belfast
 dvp_035_place_18	Belfast
 dvp_035_place_19	Belfast
-dvp_035_place_20	Harland and Wolf [Heavy Industries] shipyard
-dvp_035_place_21	Southampton, England
+dvp_035_place_20	Harland and Wolff
+dvp_035_place_21	Southampton
 dvp_035_place_22	Ireland
-dvp_035_place_23	Great Britain
+dvp_035_place_23	SS Great Britain
 dvp_035_place_24	Northern Ireland
-dvp_035_place_25	Winnipeg, Manitoba
+dvp_035_place_25	Winnipeg
 dvp_035_place_26	Canada
 dvp_035_place_27	Northern Ireland
 dvp_035_place_28	Ireland
@@ -44,30 +44,30 @@ dvp_035_place_41	Elgin
 dvp_035_place_42	Chicago
 dvp_035_place_43	Chicago
 dvp_035_place_44	England
-dvp_035_place_45	Lake Forest, Illinois
+dvp_035_place_45	Lake Forest
 dvp_035_place_46	Chicago
-dvp_035_place_47	City of Lake Forest
+dvp_035_place_47	Lake Forest
 dvp_035_place_48	Elgin
-dvp_035_place_49	Dartmouth
+dvp_035_place_49	Dartmouth College
 dvp_035_place_50	Hong Kong
 dvp_035_place_51	Kowloon
 dvp_035_place_52	Hong Kong
 dvp_035_place_53	Hong Kong
-dvp_035_place_54	China
-dvp_035_place_55	United States
+dvp_035_place_54	People's Republic of China
+dvp_035_place_55	United States of America
 dvp_035_place_56	New York City
-dvp_035_place_57	Alaska Pipeline [Trans-Alaska Pipeline System]
+dvp_035_place_57	Trans-Alaska Pipeline System
 dvp_035_place_58	Prudhoe Bay
 dvp_035_place_59	New York City
 dvp_035_place_60	New York City
 dvp_035_place_61	Harlem
 dvp_035_place_62	Harlem
-dvp_035_place_63	New York
+dvp_035_place_63	New York City
 dvp_035_place_64	Mecca
 dvp_035_place_65	Illinois
-dvp_035_place_66	Birmingham, Alabama
+dvp_035_place_66	Birmingham
 dvp_035_place_67	Mississippi
-dvp_035_place_68	Newtown[,Connecticut]
+dvp_035_place_68	Newtown
 dvp_035_place_69	Connecticut
 dvp_035_place_70	Illinois
 dvp_035_place_71	Elgin
@@ -79,28 +79,28 @@ dvp_035_place_76	West Hartford
 dvp_035_place_77	New Hampshire
 dvp_035_place_78	Chicago
 dvp_035_place_79	Chicago
-dvp_035_place_80	Dartmouth
+dvp_035_place_80	Dartmouth College
 dvp_035_place_81	the Quarry
 dvp_035_place_82	Chicago
 dvp_035_place_83	Elgin
 dvp_035_place_84	Lords Park
 dvp_035_place_85	Elgin
-dvp_035_place_86	Great Lakes Naval Training Center [sic; Recruit Training Command, Naval Station Great Lakes]
+dvp_035_place_86	Recruit Training Command, Great Lakes, Illinois
 dvp_035_place_87	Lake Michigan
-dvp_035_place_88	South Wigwam [Hall, now French Hall]
-dvp_035_place_89	South Middle [Wigwam Hall, now Judge Hall]
+dvp_035_place_88	French Hall
+dvp_035_place_89	Judge Hall
 dvp_035_place_90	North Wigwam [Hall; demolished in 2006]
-dvp_035_place_91	River Complex [sic; River Cluster]
+dvp_035_place_91	River Cluster
 dvp_035_place_92	Maine
 dvp_035_place_93	Virginia
-dvp_035_place_94	Canton, Ohio
+dvp_035_place_94	Canton
 dvp_035_place_95	Scotland
-dvp_035_place_96	South Wigwam
-dvp_035_place_97	Smith [College]
-dvp_035_place_98	Mount Holyoke [College]
-dvp_035_place_99	Skidmore [College]
+dvp_035_place_96	French Hall
+dvp_035_place_97	Smith College
+dvp_035_place_98	Mount Holyoke College
+dvp_035_place_99	Skidmore College
 dvp_035_place_100	Baker Library [now Baker-Berry Library]
-dvp_035_place_101	Northampton, Massachusetts
+dvp_035_place_101	Northampton
 dvp_035_place_102	Madison
 dvp_035_place_103	Madison
 dvp_035_place_104	Boston
@@ -121,7 +121,7 @@ dvp_035_place_118	Vietnam
 dvp_035_place_119	Cambodia
 dvp_035_place_120	Vietnam
 dvp_035_place_121	San Diego
-dvp_035_place_122	Washington[,D.C.,]
+dvp_035_place_122	Washington, D.C.
 dvp_035_place_123	U.S.
 dvp_035_place_124	Vietnam
 dvp_035_place_125	Cambodia
@@ -153,7 +153,7 @@ dvp_035_place_150	Madison
 dvp_035_place_151	Madison
 dvp_035_place_152	Vietnam
 dvp_035_place_153	Madison
-dvp_035_place_154	Dartmouth
+dvp_035_place_154	Dartmouth College
 dvp_035_place_155	Madison
 dvp_035_place_156	Memphis
 dvp_035_place_157	Memphis
@@ -167,8 +167,8 @@ dvp_035_place_164	Vietnam
 dvp_035_place_165	Vietnam
 dvp_035_place_166	Rauner Library
 dvp_035_place_167	Dartmouth College
-dvp_035_place_168	Hanover, New Hampshire
-dvp_035_place_169	West Hartford, Connecticut
+dvp_035_place_168	Hanover
+dvp_035_place_169	West Hartford
 dvp_035_place_170	Wisconsin
 dvp_035_place_171	Madison
 dvp_035_place_172	The [sic; Der] Rathskeller
@@ -203,7 +203,7 @@ dvp_035_place_200	Los Angeles
 dvp_035_place_201	San Diego
 dvp_035_place_202	Vietnam
 dvp_035_place_203	Vietnam
-dvp_035_place_204	Winnipeg, Manitoba
+dvp_035_place_204	Winnipeg
 dvp_035_place_205	Canada
 dvp_035_place_206	Canada
 dvp_035_place_207	Illinois
@@ -225,7 +225,7 @@ dvp_035_place_222	Washington
 dvp_035_place_223	Iraq
 dvp_035_place_224	Vietnam
 dvp_035_place_225	Japan
-dvp_035_place_226	China
+dvp_035_place_226	People's Republic of China
 dvp_035_place_227	Hungary
 dvp_035_place_228	Czechoslovakia
 dvp_035_place_229	Romania
@@ -242,7 +242,7 @@ dvp_035_place_239	New York City
 dvp_035_place_240	Madison
 dvp_035_place_241	New York
 dvp_035_place_242	San Diego
-dvp_035_place_243	Northampton, Massachusetts
+dvp_035_place_243	Northampton
 dvp_035_place_244	California
 dvp_035_place_245	California
 dvp_035_place_246	San Diego
@@ -284,7 +284,7 @@ dvp_035_place_281	Vietnam
 dvp_035_place_282	Cambodia
 dvp_035_place_283	North Vietnam
 dvp_035_place_284	West Hartford
-dvp_035_place_285	New Haven, Connecticut
+dvp_035_place_285	New Haven
 dvp_035_place_286	New England
 dvp_035_place_287	White River Junction
 dvp_035_place_288	New England
@@ -296,7 +296,7 @@ dvp_035_place_293	Conne-
 dvp_035_place_294	California
 dvp_035_place_295	Hartford
 dvp_035_place_296	Hartford
-dvp_035_place_297	Meriden, Connecticut
+dvp_035_place_297	Meriden
 dvp_035_place_298	New York City
 dvp_035_place_299	New York
 dvp_035_place_300	India
