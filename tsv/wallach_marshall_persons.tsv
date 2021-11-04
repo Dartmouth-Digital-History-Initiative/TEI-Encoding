@@ -1,29 +1,29 @@
-id	persName
-dvp_068_person_0	Riley [C.] Collins
-dvp_068_person_1	Marshall [F.] Wallach
-dvp_068_person_2	Mr. Wallach
-dvp_068_person_3	Marshall
-dvp_068_person_4	Riley
-dvp_068_person_5	Robert [L.] Frost’s
-dvp_068_person_6	H. R. McMaster
-dvp_068_person_7	[Robert S.] McNamara
-dvp_068_person_8	Maxwell [D.] Taylor
-dvp_068_person_9	Lyndon [B.] Johnson
-dvp_068_person_10	Maxwell Taylor
-dvp_068_person_11	McMaster
-dvp_068_person_12	Jack
-dvp_068_person_13	John [E.] Kelly
-dvp_068_person_14	Lt. Wallach
-dvp_068_person_15	Lt. Wallach
-dvp_068_person_16	[USNS] General [Nelson M.] Walker
-dvp_068_person_17	Riley Collins
-dvp_068_person_18	Mr. Wallach
-dvp_068_person_19	Riley Collins
-dvp_068_person_20	Marshall Wallach
-dvp_068_person_21	Marshall
-dvp_068_person_22	Capt. Wallach
-dvp_068_person_23	Marshall
-dvp_068_person_24	[President Richard M.] Nixon
-dvp_068_person_25	Nixon
-dvp_068_person_26	[Secretary of State Henry A.] Kissinger
-dvp_068_person_27	Nixon
+id	persName	QID	dvp_id
+dvp_068_person_0	Riley [C.] Collins		dvp_0393
+dvp_068_person_1	Marshall [F.] Wallach		dvp_1135
+dvp_068_person_2	Mr. Wallach		dvp_1135
+dvp_068_person_3	Marshall		dvp_1135
+dvp_068_person_4	Riley		dvp_0393
+dvp_068_person_5	Robert Frost	Q168728	
+dvp_068_person_6	H. R. McMaster	Q5628492	
+dvp_068_person_7	Robert McNamara	Q191999	
+dvp_068_person_8	Maxwell Davenport Taylor	Q313972	
+dvp_068_person_9	Lyndon B. Johnson	Q9640	
+dvp_068_person_10	Maxwell Davenport Taylor	Q313972	
+dvp_068_person_11	H. R. McMaster	Q5628492	
+dvp_068_person_12	John Edward Kelly	Q6231313	
+dvp_068_person_13	John Edward Kelly	Q6231313	
+dvp_068_person_14	Lt. Wallach		dvp_1135
+dvp_068_person_15	Lt. Wallach		dvp_1135
+dvp_068_person_16	[USNS] General [Nelson M.] Walker		
+dvp_068_person_17	Riley Collins		dvp_0393
+dvp_068_person_18	Mr. Wallach		dvp_1135
+dvp_068_person_19	Riley Collins		dvp_0393
+dvp_068_person_20	Marshall Wallach		dvp_1135
+dvp_068_person_21	Marshall		dvp_1135
+dvp_068_person_22	Capt. Wallach		dvp_1135
+dvp_068_person_23	Marshall		dvp_1135
+dvp_068_person_24	Richard Nixon	Q9588	
+dvp_068_person_25	Richard Nixon	Q9588	
+dvp_068_person_26	Henry Kissinger	Q66107	
+dvp_068_person_27	Richard Nixon	Q9588	
