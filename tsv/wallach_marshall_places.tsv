@@ -32,8 +32,7 @@ dvp_068_place_29	Dartmouth College	Q49116		43.703333333333,-72.288333333333
 dvp_068_place_30	Philadelphia	Q1345		39.952777777778,-75.163611111111
 dvp_068_place_31	Hanover	Q131908		43.7,-72.28333333333333
 dvp_068_place_32	Washington, D.C.	Q61		38.895,-77.036666666667
-dvp_068_place_33	Connecticut River	Q379648		45.2375,-71.2
-				
+dvp_068_place_33	Connecticut River	Q379648		45.2375,-71.2				
 dvp_068_place_34	Boston	Q100		42.358333333333,-71.0625
 dvp_068_place_35	United States Military Academy	Q9219		41.39277778,-73.95833333
 dvp_068_place_36	Dartmouth College	Q49116		43.703333333333,-72.288333333333
@@ -146,15 +145,14 @@ dvp_068_place_142	Kon Tum	Q36493		14.341666666667,107.97916666667
 dvp_068_place_143	Đắk Tô	Q8079957		14.7,107.80833333333
 dvp_068_place_144	Qui Nhơn	Q36081		13.769580555555555,109.23137222222222
 dvp_068_place_145	Qui Nhơn	Q36081		13.769580555555555,109.23137222222222
-dvp_068_place_146	U.S. Route 19	Q407866		"42.0627,-80.0939
-"
+dvp_068_place_146	U.S. Route 19	Q407866		42.0627,-80.0939
 dvp_068_place_147	Kon Tum	Q36493		14.341666666667,107.97916666667
 dvp_068_place_148	Đắk Tô	Q8079957		14.7,107.80833333333
 dvp_068_place_149	Qui Nhơn	Q36081		13.769580555555555,109.23137222222222
 dvp_068_place_150	Pleiku	Q30599		13.971519,108.014673
 dvp_068_place_151	An Khê	Q15179893		13.9530664,108.6569463
 dvp_068_place_152	Texas	Q1439		31,-100
-dvp_068_place_153	North Vietnam			
+dvp_068_place_153	North Vietnam	Q172640		21.0284, 105.8499
 dvp_068_place_154	Australia	Q408		-28,137
 dvp_068_place_155	U.S. Route 19	Q407866		42.0627,-80.0939
 dvp_068_place_156	Camp Enari	Q18386286		13.877,108.02
@@ -201,9 +199,9 @@ dvp_068_place_196	Vietnam	Q881		16,108
 dvp_068_place_197	Seattle	Q5083		47.60621,-122.33207
 dvp_068_place_198	Tacoma	Q199797		47.241388888889,-122.45944444444
 dvp_068_place_199	Fort Knox	Q8962067		37.89278,-85.97444
-dvp_068_place_200	Harvard Square			42,71
-dvp_068_place_201	North Vietnamese			
-dvp_068_place_202	North Vietnamese			
+dvp_068_place_200	Harvard Square	Q1587858		42,71
+dvp_068_place_201	North Vietnamese	Q172640		21.0284, 105.8499
+dvp_068_place_202	North Vietnamese	Q172640		21.0284, 105.8499
 dvp_068_place_203	Cambridge	Q49111		42.3736,71.1097
 dvp_068_place_204	Harvard Business School	Q49126		42,71
 dvp_068_place_205	Harvard Business School	Q49126		42,71
