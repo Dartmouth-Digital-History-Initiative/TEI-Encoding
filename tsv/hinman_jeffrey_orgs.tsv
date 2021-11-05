@@ -1,4 +1,4 @@
-id	orgName	Qid	dvp_id
+id	orgName	QID	dvp_id
 dvp_040_org_0	Dartmouth College	Q49116	
 dvp_040_org_1	Revere Copper Company	Q7318097	
 dvp_040_org_2	Rome Cable Corporation	Q109413786	
@@ -67,11 +67,11 @@ dvp_040_org_64	United States Army	Q9212
 dvp_040_org_65	Selective Service System	Q1750391	
 dvp_040_org_66	Rome Sentinel	Q55668394	
 dvp_040_org_67	United States Marine Corps	Q11218	
-dvp_040_org_68	US Marines	Q2471656	
+dvp_040_org_68	United States Marine Corps	Q11218	
 dvp_040_org_69	United States Marine Corps	Q11218	
-dvp_040_org_70	US Marines	Q2471656	
+dvp_040_org_70	United States Marine Corps	Q11218	
 dvp_040_org_71	United States Army	Q9212	
-dvp_040_org_72	US Marines	Q2471656	
+dvp_040_org_72	United States Marine Corps	Q11218	
 dvp_040_org_73	Republican Party	Q29468	
 dvp_040_org_74	General Motors	Q81965	
 dvp_040_org_75	United States Army	Q9212	
@@ -90,7 +90,7 @@ dvp_040_org_87	United States Army	Q9212
 dvp_040_org_88	United States Army	Q9212	
 dvp_040_org_89	United States Army	Q9212	
 dvp_040_org_90	United States Air Force	Q11223	
-dvp_040_org_91	3rd Brigade of the 82 Airborne	Q109413322	
+dvp_040_org_91	3rd Brigade Combat Team, 82nd Airborne Division	Q56734195	
 dvp_040_org_92	25th Infantry Division	Q217777	
 dvp_040_org_93	3rd Brigade Combat Team, 82nd Airborne Division	Q56734195	
 dvp_040_org_94	National Front for the Liberation of South Vietnam	Q174423	
@@ -126,7 +126,7 @@ dvp_040_org_123	82nd Airborne Division	Q2358
 dvp_040_org_124	25th Infantry Division	Q217777	
 dvp_040_org_125	25th Infantry Division	Q217777	
 dvp_040_org_126	25th Infantry Division	Q217777	
-dvp_040_org_127	Company A, 2nd Battalion, 12th Infantry Regiment, 25th Infantry Division of the U.S. Army	Q109413371	
+dvp_040_org_127	Company A, 2nd Battalion, 12th Infantry Regiment	Q109413371	
 dvp_040_org_128	3rd Brigade Combat Team, 82nd Airborne Division	Q56734195	
 dvp_040_org_129	25th Infantry Division	Q217777	
 dvp_040_org_130	United States Army	Q9212	
@@ -138,11 +138,11 @@ dvp_040_org_135	25th Infantry Division	Q217777
 dvp_040_org_136	25th Infantry Division	Q217777	
 dvp_040_org_137	Dartmouth College	Q49116	
 dvp_040_org_138	Dartmouth Rugby	Q16989138	
-dvp_040_org_139	2nd Battalion of the 12th Infantry Regiment	Q109413438	
-dvp_040_org_140	Charlie & Co.	Q5084411	
-dvp_040_org_141	Company A, 2nd Battalion, 12th Infantry Regiment, 25th Infantry Division of the U.S. Army	Q109413371	
-dvp_040_org_142	Headquarters and Headquarters Company	Q5689909	
-dvp_040_org_143	Headquarters and Headquarters Company	Q5689909	
+dvp_040_org_139	2nd Battalion, 12th Infantry Regiment	Q109413438	
+dvp_040_org_140	Company C, 2nd Battalion, 12th Infantry Regiment	Q109417326	
+dvp_040_org_141	Company A, 2nd Battalion, 12th Infantry Regiment	Q109413371	
+dvp_040_org_142	Headquarters Company, 2nd Battalion, 12th Infantry Regiment	Q109417325	
+dvp_040_org_143	Headquarters Company, 2nd Battalion, 12th Infantry Regiment	Q109417325	
 dvp_040_org_144	25th Infantry Division	Q217777	
 dvp_040_org_145	25th Infantry Division	Q217777	
 dvp_040_org_146	United States Army	Q9212	
@@ -168,7 +168,7 @@ dvp_040_org_165	United States Army	Q9212
 dvp_040_org_166	United States Army	Q9212	
 dvp_040_org_167	United States Army	Q9212	
 dvp_040_org_168	25th Infantry Division	Q217777	
-dvp_040_org_169	2nd Battalion of the 12th Infantry Regiment	Q109413438	
+dvp_040_org_169	2nd Battalion, 12th Infantry Regiment	Q109413438	
 dvp_040_org_170	Columbia University	Q49088	
 dvp_040_org_171	Trinity College	Q73079	
 dvp_040_org_172	United States Army	Q9212	
@@ -194,11 +194,11 @@ dvp_040_org_191	Vietnam Veterans of America	Q7928567
 dvp_040_org_192	Veterans of Foreign Wars	Q3556413	
 dvp_040_org_193	American Legion	Q468865	
 dvp_040_org_194	United States Air Force	Q11223	
-dvp_040_org_195	US Marines	Q2471656	
+dvp_040_org_195	United States Marine Corps	Q11218	
 dvp_040_org_196	Syracuse University	Q617433	
 dvp_040_org_197	United States Army	Q9212	
 dvp_040_org_198	Dartmouth College	Q49116	
 dvp_040_org_199	United States Department of Veterans Affairs	Q592576	
 dvp_040_org_200	United States Navy	Q11220	
-dvp_040_org_201	US Marines	Q2471656	
+dvp_040_org_201	United States Marine Corps	Q11218	
 dvp_040_org_202	Maine Humanities Council	Q6736377	
