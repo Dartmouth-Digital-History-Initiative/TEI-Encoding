@@ -18,7 +18,7 @@
         <recordingStmt>
           <recording xml:id="primary_recording" type="audio" dur-iso="9">
             <!-- https://www.digi.com/resources/documentation/digidocs/90001437-13/reference/r_iso_8601_duration_format.htm -->
-            <media url="" mimeType="MIMEaudio/wav"/>
+            <media url="//rcweb.dartmouth.edu/DDHI/histories/yrchik-shoemaker_kent/yrchik-shoemaker_kent.mp3" mimeType="MIMEaudio/mpeg"/>
           </recording>
         </recordingStmt>
         <bibl xml:id="primary_transcription">
