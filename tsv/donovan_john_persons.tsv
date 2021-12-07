@@ -1,67 +1,67 @@
-id	persName
-dvp_090_person_0	Paulina [C.] Calcaterra
-dvp_090_person_1	Mr. John [J.] Donovan
-dvp_090_person_2	Donovan
-dvp_090_person_3	John Joseph [Donovan]
-dvp_090_person_4	Joe
-dvp_090_person_5	Joe Donovan
-dvp_090_person_6	Bernice [Hobbs Donovan]
-dvp_090_person_7	Milton
-dvp_090_person_8	[President John F.] Kennedy
-dvp_090_person_9	Co Tung
-dvp_090_person_10	Hồ Chí Minh
-dvp_090_person_11	Lee [Shreve? 35:38]
-dvp_090_person_12	Bernard [B.] Fall
-dvp_090_person_13	Don
-dvp_090_person_14	Don [Whit? 42:16]
-dvp_090_person_15	Professor [Edward G.] Miller
-dvp_090_person_16	[Nguyen Hoang] Minh
-dvp_090_person_17	Minh
-dvp_090_person_18	Minh
-dvp_090_person_19	Minh
-dvp_090_person_20	 Minh 
-dvp_090_person_21	Minh
-dvp_090_person_22	Don [Whit? 52:50]
-dvp_090_person_23	John Wayne
-dvp_090_person_24	John Wayne
-dvp_090_person_25	Arnold [A.] Schwarzenegger
-dvp_090_person_26	John Paul Vann
-dvp_090_person_27	John Paul Vann
-dvp_090_person_28	[Ngô Đình] Diệm
-dvp_090_person_29	Diệm
-dvp_090_person_30	Professor Miller
-dvp_090_person_31	[Kenneth L.] “Ken” Burns
-dvp_090_person_32	Ken
-dvp_090_person_33	Mike Maheaney [sic; Michael K. Heaney]
-dvp_090_person_34	Ed
-dvp_090_person_35	Ed
-dvp_090_person_36	Bernard Fall
-dvp_090_person_37	Martin Luther King [Jr.]
-dvp_090_person_38	[Robert F.] “Bobby” Kennedy
-dvp_090_person_39	King
-dvp_090_person_40	Ken Burns
-dvp_090_person_41	Tom Vallely
-dvp_090_person_42	Mike
-dvp_090_person_43	Mike
-dvp_090_person_44	John Fishman
-dvp_090_person_45	Donald [J.] Trump
-dvp_090_person_46	John
-dvp_090_person_47	John
-dvp_090_person_48	David [T.] McLaughlin [Class of 1954, Tuck 1955]
-dvp_090_person_49	Outward
-dvp_090_person_50	McLaughlin
-dvp_090_person_51	Barnes Boffey
-dvp_090_person_52	Mm-hm
-dvp_090_person_53	Jan [C.] Struggs—Scruggs
-dvp_090_person_54	John [D.] Sherwood
-dvp_090_person_55	Ken Burns
-dvp_090_person_56	Ken Burns
-dvp_090_person_57	Ken Burns
-dvp_090_person_58	Rusty Sachs
-dvp_090_person_59	Rusty
-dvp_090_person_60	Rusty
-dvp_090_person_61	Rusty
-dvp_090_person_62	Rusty
-dvp_090_person_63	Rusty
-dvp_090_person_64	Mike Hixenbaugh
-dvp_090_person_65	Mike
+id	persName	QID	dvp_id
+dvp_090_person_0	Paulina [C.] Calcaterra		dvp_0662
+dvp_090_person_1	Mr. John [J.] Donovan		dvp_1167
+dvp_090_person_2	Donovan		dvp_1167
+dvp_090_person_3	John Joseph [Donovan]		dvp_1168
+dvp_090_person_4	Joe		dvp_1168
+dvp_090_person_5	Joe Donovan		dvp_1168
+dvp_090_person_6	Bernice [Hobbs Donovan]		dvp_1169
+dvp_090_person_7	Milton		
+dvp_090_person_8	John F. Kennedy	Q9696	
+dvp_090_person_9	Co Tung		dvp_1170
+dvp_090_person_10	Ho Chi Minh	Q36014	
+dvp_090_person_11	Lee [Shreve? 35:38]		dvp_1171
+dvp_090_person_12	Bernard B. Fall	Q213957	
+dvp_090_person_13	Don		dvp_1172
+dvp_090_person_14	Don [Whit? 42:16]		dvp_1172
+dvp_090_person_15	Professor [Edward G.] Miller		dvp_0039
+dvp_090_person_16	[Nguyen Hoang] Minh		dvp_1173
+dvp_090_person_17	Minh		dvp_1173
+dvp_090_person_18	Minh		dvp_1173
+dvp_090_person_19	Minh		dvp_1173
+dvp_090_person_20	Minh		dvp_1173
+dvp_090_person_21	Minh		dvp_1173
+dvp_090_person_22	Don [Whit? 52:50]		dvp_1172
+dvp_090_person_23	John Wayne	Q40531	
+dvp_090_person_24	John Wayne	Q40531	
+dvp_090_person_25	Arnold Schwarzenegger	Q2685	
+dvp_090_person_26	John Paul Vann	Q6252282	
+dvp_090_person_27	John Paul Vann	Q6252282	
+dvp_090_person_28	Ngo Dinh Diem	Q192502	
+dvp_090_person_29	Ngo Dinh Diem	Q192502	
+dvp_090_person_30	Professor Miller		dvp_0039
+dvp_090_person_31	Ken Burns	Q616886	
+dvp_090_person_32	Ken Burns	Q616886	
+dvp_090_person_33	Mike Maheaney [sic; Michael K. Heaney]		dvp_1174
+dvp_090_person_34	Ed		dvp_0039
+dvp_090_person_35	Ed		dvp_0039
+dvp_090_person_36	Bernard B. Fall	Q213957	
+dvp_090_person_37	Martin Luther King Jr.	Q8027	
+dvp_090_person_38	Robert F. Kennedy	Q25310	
+dvp_090_person_39	Martin Luther King Jr.	Q8027	
+dvp_090_person_40	Ken Burns	Q616886	
+dvp_090_person_41	Thomas J. Vallely	Q105230188	
+dvp_090_person_42	Mike Maheaney [sic; Michael K. Heaney]		dvp_1174
+dvp_090_person_43	Mike		dvp_1174
+dvp_090_person_44	John Fishman		dvp_1175
+dvp_090_person_45	Donald Trump	Q22686	
+dvp_090_person_46	John		dvp_1167
+dvp_090_person_47	John		dvp_1167
+dvp_090_person_48	"David [T.] McLaughlin [Class of 1954, Tuck 1955]"		dvp_0138
+dvp_090_person_49	Outward		
+dvp_090_person_50	McLaughlin		dvp_0138
+dvp_090_person_51	Barnes Boffey		dvp_1176
+dvp_090_person_52	Mm-hm		
+dvp_090_person_53	Jan Scruggs	Q6149885	
+dvp_090_person_54	John Darrell Sherwood	Q6228592	
+dvp_090_person_55	Ken Burns	Q616886	
+dvp_090_person_56	Ken Burns	Q616886	
+dvp_090_person_57	Ken Burns	Q616886	
+dvp_090_person_58	Rusty Sachs	Q109466278	
+dvp_090_person_59	Rusty Sachs	Q109466278	
+dvp_090_person_60	Rusty Sachs	Q109466278	
+dvp_090_person_61	Rusty Sachs	Q109466278	
+dvp_090_person_62	Rusty Sachs	Q109466278	
+dvp_090_person_63	Rusty Sachs	Q109466278	
+dvp_090_person_64	Mike Hixenbaugh	Q109466288	
+dvp_090_person_65	Mike Hixenbaugh	Q109466288	
