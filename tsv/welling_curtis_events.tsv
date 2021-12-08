@@ -1,32 +1,32 @@
-id	name
-dvp_069_event_0	Depression
-dvp_069_event_1	Vietnam
-dvp_069_event_2	Vietnam
-dvp_069_event_3	Vietnam
-dvp_069_event_4	Vietnam
-dvp_069_event_5	Cambodian incursion
-dvp_069_event_6	Parkhurst [Hall] takeover
-dvp_069_event_7	incursion into Cambodia
-dvp_069_event_8	Cambodia
-dvp_069_event_9	Chicago [Democratic] Convention
-dvp_069_event_10	Kent State
-dvp_069_event_11	Kent State
-dvp_069_event_12	excursion into Cambodia
-dvp_069_event_13	Kent State
-dvp_069_event_14	Vietnam
-dvp_069_event_15	Vietnam
-dvp_069_event_16	Vietnam
-dvp_069_event_17	Vietnam
-dvp_069_event_18	September 11th [the attacks on September 11, 2001]
-dvp_069_event_19	Southeast Asia tsunami
-dvp_069_event_20	Hurricane Katrina
-dvp_069_event_21	Hurricane Katrina
-dvp_069_event_22	Pakistan earthquake
-dvp_069_event_23	triple disaster [2001 earthquake, tsunami, Fukushima disaster]
-dvp_069_event_24	Vietnam
-dvp_069_event_25	Cold War
-dvp_069_event_26	Vietnam
-dvp_069_event_27	Vietnam
-dvp_069_event_28	assassination of Martin Luther King
-dvp_069_event_29	assassination of [Robert F.] “Bobby” Kennedy
-dvp_069_event_30	Martin Luther King assassinated
+id	name	QID	dvp_id	start time	end time	point in time
+dvp_069_event_0	Great Depression	Q8698		1929-10-24T00:00:00Z	1941-01-01T00:00:00Z	
+dvp_069_event_1	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_069_event_2	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_069_event_3	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_069_event_4	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_069_event_5	Cambodian campaign	Q2994973		1970-04-29T00:00:00Z	1970-07-22T00:00:00Z	
+dvp_069_event_6	Parkhurst Hall Takeover	Q101424872				1969-05-06T00:00:00Z
+dvp_069_event_7	Cambodian campaign	Q2994973		1970-04-29T00:00:00Z	1970-07-22T00:00:00Z	
+dvp_069_event_8	Cambodian campaign	Q2994973		1970-04-29T00:00:00Z	1970-07-22T00:00:00Z	
+dvp_069_event_9	1968 Democratic National Convention	Q83516		1968-08-26T00:00:00Z	1968-08-29T00:00:00Z	
+dvp_069_event_10	Kent State shootings	Q482635		1970-05-04T00:00:00Z	1970-05-04T00:00:00Z	
+dvp_069_event_11	Kent State shootings	Q482635		1970-05-04T00:00:00Z	1970-05-04T00:00:00Z	
+dvp_069_event_12	Cambodian campaign	Q2994973		1970-04-29T00:00:00Z	1970-07-22T00:00:00Z	
+dvp_069_event_13	Kent State shootings	Q482635		1970-05-04T00:00:00Z	1970-05-04T00:00:00Z	
+dvp_069_event_14	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_069_event_15	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_069_event_16	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_069_event_17	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_069_event_18	September 11 attacks	Q10806				2001-09-11T00:00:00Z
+dvp_069_event_19	Indian Ocean tsunami	Q17983450				2004-10-25T00:00:00Z
+dvp_069_event_20	Hurricane Katrina	Q16422		2005-08-23T00:00:00Z	2005-08-31T00:00:00Z	
+dvp_069_event_21	Hurricane Katrina	Q16422		2005-08-23T00:00:00Z	2005-08-31T00:00:00Z	
+dvp_069_event_22	2005 Kashmir earthquake	Q210137				2005-10-08T00:00:00Z
+dvp_069_event_23	Triple Disaster	Q109647778				2011-03-11T00:00:00Z
+dvp_069_event_24	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_069_event_25	Cold War	Q8683		1945-01-01T00:00:00Z	1991-12-25T00:00:00Z	
+dvp_069_event_26	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_069_event_27	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_069_event_28	assassination of Martin Luther King Jr.	Q757963				1968-04-04T00:00:00Z
+dvp_069_event_29	assassination of Robert F. Kennedy	Q1187550				1968-06-05T00:00:00Z
+dvp_069_event_30	assassination of Martin Luther King Jr.	Q757963				1968-04-04T00:00:00Z
