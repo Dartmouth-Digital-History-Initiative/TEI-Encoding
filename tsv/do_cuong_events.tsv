@@ -1,15 +1,15 @@
-id	name
-dvp_089_event_0	Vietnam War
-dvp_089_event_1	Vietnam War
-dvp_089_event_2	Vietnam War
-dvp_089_event_3	Vietnam War
-dvp_089_event_4	Vietnam War
-dvp_089_event_5	Vietnam War
-dvp_089_event_6	Vietnam War
-dvp_089_event_7	Vietnam War
-dvp_089_event_8	Vietnam War
-dvp_089_event_9	dissolution of the Soviet Union
-dvp_089_event_10	Geneva Conventions
-dvp_089_event_11	Battle of Dien Bien Phu
-dvp_089_event_12	Vietnam War
-dvp_089_event_13	Vietnam War
+id	name	QID	dvp_id
+dvp_089_event_0	Vietnam War	Q8740	
+dvp_089_event_1	Vietnam War	Q8740	
+dvp_089_event_2	Vietnam War	Q8740	
+dvp_089_event_3	Vietnam War	Q8740	
+dvp_089_event_4	Vietnam War	Q8740	
+dvp_089_event_5	Vietnam War	Q8740	
+dvp_089_event_6	Vietnam War	Q8740	
+dvp_089_event_7	Vietnam War	Q8740	
+dvp_089_event_8	Vietnam War	Q8740	
+dvp_089_event_9	dissolution of the Soviet Union	Q5167679	
+dvp_089_event_10	Geneva Conventions	Q133536	
+dvp_089_event_11	Battle of Dien Bien Phu	Q604897	
+dvp_089_event_12	Vietnam War	Q8740	
+dvp_089_event_13	Vietnam War	Q8740	
