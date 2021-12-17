@@ -1,15 +1,15 @@
-id	name
-dvp_089_event_0	war
-dvp_089_event_1	war
-dvp_089_event_2	war
-dvp_089_event_3	war
-dvp_089_event_4	war
-dvp_089_event_5	war
-dvp_089_event_6	war
-dvp_089_event_7	war
-dvp_089_event_8	war
-dvp_089_event_9	Iron Curtain fell
-dvp_089_event_10	Geneva Convention[s]
-dvp_089_event_11	[the Battle of] Dien Bien Phu
-dvp_089_event_12	Vietnam
-dvp_089_event_13	the Vietnam War
+id	name	QID	dvp_id	start time	end time	point in time
+dvp_089_event_0	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_089_event_1	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_089_event_2	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_089_event_3	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_089_event_4	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_089_event_5	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_089_event_6	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_089_event_7	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_089_event_8	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_089_event_9	dissolution of the Soviet Union	Q5167679				1991-12-26T00:00:00Z
+dvp_089_event_10	Geneva Convention[s]					
+dvp_089_event_11	Battle of Dien Bien Phu	Q604897		1954-03-13T00:00:00Z	1954-05-07T00:00:00Z	
+dvp_089_event_12	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_089_event_13	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
