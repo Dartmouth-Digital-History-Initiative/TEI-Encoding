@@ -1,39 +1,39 @@
-id	persName
-dvp_077_person_0	Claire Rafson [‘19]
-dvp_077_person_1	Mark Boettcher
-dvp_077_person_2	Mark
-dvp_077_person_3	Edward George Boettcher
-dvp_077_person_4	Priscilla Ann
-dvp_077_person_5	[Senator George S.] McGovern
-dvp_077_person_6	[Governor] George [C.] Wallace
-dvp_077_person_7	George Wallace
-dvp_077_person_8	George Wallace
-dvp_077_person_9	John Lennon
-dvp_077_person_10	Yoko
-dvp_077_person_11	[President] George W. [Bush]
-dvp_077_person_12	George Bush
-dvp_077_person_13	Trump’s
-dvp_077_person_14	Frank Zappa
-dvp_077_person_15	Frank Zappa
-dvp_077_person_16	Alice Cooper
-dvp_077_person_17	Art Munn
-dvp_077_person_18	George W.
-dvp_077_person_19	Donald Trump
-dvp_077_person_20	Tricky Dick
-dvp_077_person_21	[President] Richard [M.] Nixon
-dvp_077_person_22	Alvin
-dvp_077_person_23	Stephen Hawking
-dvp_077_person_24	Joe
-dvp_077_person_25	George W.
-dvp_077_person_26	Bush
-dvp_077_person_27	George W. Bush
-dvp_077_person_28	Green Day
-dvp_077_person_29	Bush
-dvp_077_person_30	Obama
-dvp_077_person_31	Edward Miller
-dvp_077_person_32	Jennifer Miller
-dvp_077_person_33	[Professor Daniel] Dan Rockmore
-dvp_077_person_34	[William H.] Bill Neukom
-dvp_077_person_35	Dan Rockmore
-dvp_077_person_36	Bill Neukom
-dvp_077_person_37	Zork
+id	persName	QID	dvp_id
+dvp_077_person_0	Claire Rafson [‘19]		dvp_0691
+dvp_077_person_1	Mark Boettcher		dvp_0692
+dvp_077_person_2	Mark		dvp_0692
+dvp_077_person_3	Edward George Boettcher		dvp_0693
+dvp_077_person_4	Priscilla Ann		dvp_0694
+dvp_077_person_5	George McGovern	Q331742	
+dvp_077_person_6	George Wallace	Q313776	
+dvp_077_person_7	George Wallace	Q313776	
+dvp_077_person_8	George Wallace	Q313776	
+dvp_077_person_9	John Lennon	Q1203	
+dvp_077_person_10	Yoko Ono	Q117012	
+dvp_077_person_11	George W. Bush	Q207	
+dvp_077_person_12	George W. Bush	Q207	
+dvp_077_person_13	Donald Trump	Q22686	
+dvp_077_person_14	Frank Zappa	Q127330	
+dvp_077_person_15	Frank Zappa	Q127330	
+dvp_077_person_16	Alice Cooper	Q332032	
+dvp_077_person_17	Art Munn		dvp_0695
+dvp_077_person_18	George H. W. Bush	Q23505	
+dvp_077_person_19	Donald Trump	Q22686	
+dvp_077_person_20	Richard Nixon	Q9588	
+dvp_077_person_21	Richard Nixon	Q9588	
+dvp_077_person_22	Alvin		
+dvp_077_person_23	Stephen Hawking	Q17714	
+dvp_077_person_24	Joe		
+dvp_077_person_25	George H. W. Bush	Q23505	
+dvp_077_person_26	George H. W. Bush	Q23505	
+dvp_077_person_27	George W. Bush	Q207	
+dvp_077_person_28	Green Day	Q47871	
+dvp_077_person_29	George H. W. Bush	Q23505	
+dvp_077_person_30	Barack Obama	Q76	
+dvp_077_person_31	Edward Miller		dvp_0039
+dvp_077_person_32	Jennifer Miller		dvp_0696
+dvp_077_person_33	[Professor Daniel] Dan Rockmore		dvp_0697
+dvp_077_person_34	Bill Neukom	Q4910332	
+dvp_077_person_35	Dan Rockmore		dvp_0697
+dvp_077_person_36	Bill Neukom	Q4910332	
+dvp_077_person_37	Hendrik Martenszoon Sorgh	Q1237823	

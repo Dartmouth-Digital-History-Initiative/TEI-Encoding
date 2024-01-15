@@ -59,7 +59,7 @@
   </teiHeader>
   <text>
     <body>
-      <u who="EVERHARD">This is <persName ref="#dvp_078_person_0">Emily [R.] Everhard</persName>. I’m at <placeName ref="#dvp_078_place_0">Rauner [Special Collections] Library</placeName> at <placeName ref="#dvp_078_place_1">Dartmouth College</placeName> in <placeName ref="#dvp_078_place_2">Hanover&gt;, New Hampshire</placeName>. Today is the <date when="2016-10-21">21st of October 16th</date> [sic; October 21, 2016]. I’m interviewing <persName ref="#dvp_078_person_1">John [E.] Brelsford</persName>, and this interview is for the <orgName ref="#dvp_078_org_0">Dartmouth Vietnam Project</orgName>.So to start off this interview, can we just learn about where you were—where and when you were born?</u>
+      <u who="EVERHARD">This is <persName ref="#dvp_078_person_0">Emily [R.] Everhard</persName>. I’m at <placeName ref="#dvp_078_place_0">Rauner [Special Collections] Library</placeName> at <placeName ref="#dvp_078_place_1">Dartmouth College</placeName> in <placeName ref="#dvp_078_place_2">Hanover, New Hampshire</placeName>. Today is the <date when="2016-10-21">21st of October 16th</date> [sic; October 21, 2016]. I’m interviewing <persName ref="#dvp_078_person_1">John [E.] Brelsford</persName>, and this interview is for the <orgName ref="#dvp_078_org_0">Dartmouth Vietnam Project</orgName>.So to start off this interview, can we just learn about where you were—where and when you were born?</u>
       <u who="BRELSFORD">I was born in <placeName ref="#dvp_078_place_3">Perry, Iowa</placeName>, in <date when="1950-10">October of 1950</date>.</u>
       <u who="EVERHARD">And do you have any brothers or sisters?</u>
       <u who="BRELSFORD">I have an older sister.</u>
@@ -379,7 +379,7 @@
         <placeName>Dartmouth College</placeName>
       </place>
       <place xml:id="dvp_078_place_2">
-        <placeName>Hanover&gt;, New Hampshire</placeName>
+        <placeName>Hanover, New Hampshire</placeName>
       </place>
       <place xml:id="dvp_078_place_3">
         <placeName>Perry, Iowa</placeName>

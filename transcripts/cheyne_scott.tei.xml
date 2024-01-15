@@ -1,0 +1,1748 @@
+<?xml-model href="../schemas/ddhi.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="dvp_080">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Transcript of an Interview with a Scott Cheyne</title>
+      </titleStmt>
+      <publicationStmt>
+        <authority>
+          <orgName>Dartmouth Digital History Initiative</orgName>
+        </authority>
+        <date>
+          <!--  Date of publication, e.g. for citation purposes  -->
+        </date>
+        <idno type="DDHI">dvp_080</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <recordingStmt>
+          <recording xml:id="primary_recording" type="audio" dur-iso="9">
+            <!-- https://www.digi.com/resources/documentation/digidocs/90001437-13/reference/r_iso_8601_duration_format.htm -->
+            <media url="" mimeType="MIMEaudio/wav"/>
+          </recording>
+        </recordingStmt>
+        <bibl xml:id="primary_transcription">
+          <respStmt>
+            <persName>Mimi Eisenberg</persName>
+            <orgName>Wordcraft</orgName>
+            <resp ref="http://id.loc.gov/vocabulary/relators/trc.html">Transcriber</resp>
+          </respStmt>
+          <ref target="path_to_file">Primary transcription</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>The Dartmouth Vietnam Project</p>
+      </projectDesc>
+      <appInfo>
+        <application ident="DDHIEncoder" version="1.0">
+          <desc>Conversion from Word docx to TEI xml.</desc>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en-us">English</language>
+      </langUsage>
+      <particDesc>
+        <person xml:id="SONNENFELD"/>
+        <person xml:id="CHEYNE"/>
+      </particDesc>
+      <settingDesc>
+        <setting>
+          <date when-iso="2016-06-07"/>
+          <locale/>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <u who="SONNENFELD">This is <persName ref="#dvp_080_person_0">Alexa Sonnenfeld</persName> in <placeName ref="#dvp_080_place_0">Hanover, New Hampshire</placeName>, speaking with <persName ref="#dvp_080_person_1">Robert Scott Cheyne</persName> in <placeName ref="#dvp_080_place_1">Boxford, Massachusetts</placeName>. The date is <date when="2016-06-07">June 7th</date>. It’s approximately 10 a.m.So, <persName ref="#dvp_080_person_2">Scott</persName>, could you tell me a little bit about where you’re from, where you grew up?</u>
+      <u who="CHEYNE">Yeah, I grew up for the most part in a small town north of <placeName ref="#dvp_080_place_2">Boston</placeName>, called <placeName ref="#dvp_080_place_3">Stoneham, Massachusetts</placeName>. <placeName ref="#dvp_080_place_4">Stoneham</placeName> is S-t-o-n-e-h-a-m. I went—I went to all 12 years of public school in <placeName ref="#dvp_080_place_5">Stoneham</placeName>, graduating in <date when="1962-06">June of 1962</date>. I played hockey and golf on the—on the teams when I was in high school. And I entered <orgName ref="#dvp_080_org_0">Dartmouth</orgName> as a freshman in <date when="1962-09">September of 1962</date>, <orgName ref="#dvp_080_org_1">Class of ’66</orgName>.</u>
+      <u who="SONNENFELD">Mm-hm. Let’s take a moment to backtrack. Can you tell me both of your parents’ names and what they did as a profession, if - if applicable.</u>
+      <u who="CHEYNE">Yes. My—my parents are both deceased at this point, which is no surprise, I suppose. My mother’s name was <persName ref="#dvp_080_person_3">Shirley [Buckler], last name Cheyne</persName>, obviously. And from the time I was born, she was a homemaker/housewife. That’s sort of the way the world worked back in the ’40s and the ’50s. She had worked previously, I believe, but for only for a very short time before I was—I was born. She was probably 24, 23 years old when I was—when I was born.My father is also named <persName ref="#dvp_080_person_4">Robert, Robert B., not Robert S</persName>. And he—his career was in the television and newspaper industry in—in <placeName ref="#dvp_080_place_6">Boston</placeName>. He was—he worked for a company called the <orgName ref="#dvp_080_org_2">[Boston] Herald-Traveler Corporation</orgName>, which used to publish two newspapers, the <orgName ref="#dvp_080_org_3">Boston Herald</orgName> and the <orgName ref="#dvp_080_org_4">Boston Traveler</orgName>. And that corporation also owned a television station in <placeName ref="#dvp_080_place_7">Boston</placeName>, <orgName ref="#dvp_080_org_5">WHDH</orgName>, which was Channel 5 at the time. The channel still exists, but the ownership has changed, and the—and the call letters have changed. But he was—basically he worked in the area of—of sales promotion and—and advertising for both the newspapers and for the—for the television station.And prior to his working in - actually prior to his marriage to my mother, he had also—he had—he had also served in the <orgName ref="#dvp_080_org_6">[U.S.] Navy</orgName> during <name type="event" ref="#dvp_080_event_0">World War II</name>. He was a pilot. And I—I’m—his service in the <orgName ref="#dvp_080_org_7">Navy</orgName> was in part responsible for my decision to enter the <orgName ref="#dvp_080_org_8">Navy</orgName>.</u>
+      <u who="SONNENFELD">Mm-hm. And could I get your mom’s maiden name?</u>
+      <u who="CHEYNE">Yes, her—Buckler, B-u-c-k-l-e-r.</u>
+      <u who="SONNENFELD">Great.So tell me a little bit more about growing up. Did you have siblings? What did you like to do kind of as a child, growing up, moving through elementary school?</u>
+      <u who="CHEYNE">I—I have one sibling, who’s still alive. He’s a—he’s a brother. He’s about three and a half, four years younger than I. And I—we grew up—or I grew up—the house where we lived was right across the street from a golf course in <placeName ref="#dvp_080_place_8">Stoneham, Massachusetts</placeName>, and so at a very early age, I—I sort of took up golf, and I started as a caddy. I then subsequently worked in—in the pro shop at the golf club. I subsequently worked on the grounds crew, cutting fairways and greens and—and raking bunkers. And a lot of what I did was—was involved with—with golf.</u>
+      <u who="SONNENFELD">Mm-hm. </u>
+      <u who="CHEYNE">And I played on the high school golf team, as I think I mentioned.</u>
+      <u who="SONNENFELD">How about in school? Did—who did you tend to be friends with, and what was kind of the demographics of your area, growing up?</u>
+      <u who="CHEYNE">I would call the—the demographics sort of a—a middle- —middle-class suburban community. It’s about 10, 12 miles north of <placeName ref="#dvp_080_place_9">Boston</placeName>. It was primarily a—a white community. There were—there were some African-Americans in—in town. There were some Latino people in the town, but it was primarily a—sort of a white, middle-class suburb. Population of probably—at that time, probably 25,000.</u>
+      <u who="SONNENFELD">Mm-hm. </u>
+      <u who="CHEYNE">And I think you asked who I was—I was friendly with. My—my graduating class in high school was only 150 people, so it was a relatively small class. And I tended to be friendly with most everybody who was in my class because the class was so small, everybody knew everybody. And I—I guess—my—my closest friends in high school were—were the guys that I played—played sports with, which is probably not an uncommon phenomenon.</u>
+      <u who="SONNENFELD">Sure.Academically, how would you have described yourself as a student, and were there any subjects that you particularly were interested in?</u>
+      <u who="CHEYNE">In—in high school?</u>
+      <u who="SONNENFELD">Sure, yeah.</u>
+      <u who="CHEYNE">Yeah.</u>
+      <u who="SONNENFELD">Mm-hm.</u>
+      <u who="CHEYNE">I was a fairly good student. I mean, to get into <orgName ref="#dvp_080_org_9">Dartmouth</orgName>, obviously you had to be a fairly good student. I was probably in the top three or four grade wise and SAT [Scholastic Aptitude Test] wise in—in—in my class. I took a general course load. I think my favorite class or subject in high school was French, and I sort of took a—for some reason, I took a liking to the—to French courses and the French language, and I ended up doing my—when I was at <orgName ref="#dvp_080_org_10">Dartmouth</orgName>, I ended up doing my junior—at that time, it was a term; I don’t know if it’s still the same program, but I did a term abroad in <placeName ref="#dvp_080_place_10">Caen, France</placeName>, which is in <placeName ref="#dvp_080_place_11">Normandy</placeName>, to the northwest of <placeName ref="#dvp_080_place_12">Paris</placeName>, not too far from the <placeName ref="#dvp_080_place_13">English Channel</placeName>.Went to the <orgName ref="#dvp_080_org_11">Université de du Caen [sic; Université de Caen Normandie]</orgName>, spelled C-a-e-n. And I—I lived with a French family, and at the time, I—I became pretty adept at speaking the language because the family I lived with didn’t speak English, and there was sort of—one had no choice. I enjoyed speaking the language. I enjoyed going to school over there. I haven’t used it much since I returned, and since that was almost 50 years ago, I—I don’t—I wouldn’t consider myself a—a French speaker anymore, although I can still sort of understand it, especially the—the written part. But when they speak, it’s too quick for me to understand totally.</u>
+      <u who="SONNENFELD">Mm-hm. You mentioned that your dad was a <orgName ref="#dvp_080_org_12">Navy</orgName> pilot in <name type="event" ref="#dvp_080_event_1">World War II</name>. Was that something that he talked about, growing up, or what was your kind of relation—your dad’s relationship with his service during your childhood?</u>
+      <u who="CHEYNE">He didn’t talk about it a lot. He was a—I said he was a pilot. He was a—a—a blimp pilot. I don’t know if you even know what a blimp is, but it’s a dirigible, a lighter-than-air craft that doesn’t go very fast. And his role, believe it or not, was flying over the South Atlantic [Ocean] out of—off of South America. And—and their mission was to find and attempt to destroy <orgName ref="#dvp_080_org_13">German submarines</orgName> with depth charges.</u>
+      <u who="SONNENFELD">Mm-hm.</u>
+      <u who="CHEYNE">He—he didn’t—like a lot of people who—who serve in a war, they tend not to talk about it very much, so growing up, I—I—I wouldn’t say that I remember him speaking a whole lot of his—of his <orgName ref="#dvp_080_org_14">Navy</orgName> experience, although it was—I was well aware of what he had done.One interesting sort of aside is that he—he didn’t see me literally until I was nine months old because he was—my mother was expecting me when he was deployed, and he was gone for the better part of a year. So when he returned, I was—I was nine months old. And during that period, my mother lived with her parents. I and—my mother and I lived with her parents in a—in another local <placeName ref="#dvp_080_place_14">Boston</placeName> area town.And when my—when my dad came back, we moved out of that house and—and moved into a—another house I think in the same town or maybe one town removed.</u>
+      <u who="SONNENFELD">And how about his connection to the television and newspaper industry? How did that influence your childhood, if at all?</u>
+      <u who="CHEYNE">I’d say it did influence it in—in some part because after <orgName ref="#dvp_080_org_15">Dartmouth</orgName>, or while I was in <orgName ref="#dvp_080_org_16">Dartmouth</orgName>, I decided to pursue a—a degree in radio and television, and my—my thought at the time, my intent at the time was to—to pursue a career in radio and television. I went to <orgName ref="#dvp_080_org_17">Syracuse [University]</orgName>, a school called the <orgName ref="#dvp_080_org_18">[S.I.] Newhouse School [of Public Communications]</orgName>, immediately after graduating from <orgName ref="#dvp_080_org_19">Dartmouth</orgName>. I entered <orgName ref="#dvp_080_org_20">Syracuse</orgName> in September of 19- —I’m sorry, <date when="1967-08">August of 1967</date>, and I got an M.S. [master of science]. The degree they give in communications for some reason is an M.S., not a—not an M.B. But I got an M.S. in communications from—from the <orgName ref="#dvp_080_org_21">Newhouse School at Syracuse University</orgName> in <date when="1967-08">August of—of 1967</date>. I entered in <date when="1966">’66</date>. If I said <date when="1967">’67</date>, I meant <date when="1966">’66</date>. I entered <orgName ref="#dvp_080_org_22">Syracuse</orgName> in—in <date when="1966-08">August of ’66</date>, and I—and I got my degree from <orgName ref="#dvp_080_org_23">Syracuse</orgName> in August or September of <date when="1967">’67</date>. </u>
+      <u who="SONNENFELD">And what was your interest—what was your interest in radio and television?</u>
+      <u who="CHEYNE">Production, producing programming.</u>
+      <u who="SONNENFELD">Mm-hm. Was there any reason in particular you were attracted to—to that as a potential career?</u>
+      <u who="CHEYNE">Well, I think—certainly, my—my dad—my dad’s role in the business had an influence on me. And because of his work, even back when I was in high school and especially when I was going through college, I was constantly aware of what he was doing for work, and I would—from time to time, I would go in to visit him at the—his office was in the television station. Even as a—the newspaper and the television station were in separate buildings about four miles apart, and he was physically based at the television station. So I would go in there from time to time and sort of get behind the scenes and see how things happen, how a news program gets put together and how some of the—the—the editing gets done and production work and so forth. So I think that experience certainly gave me an interest in the industry, and that’s probably why I went to <orgName ref="#dvp_080_org_24">Syracuse</orgName> and—and why my original intent was to pursue a career in radio and television.</u>
+      <u who="SONNENFELD">Mm-hm. So let’s move up to the point of your high school graduation. You had decided to attend <orgName ref="#dvp_080_org_25">Dartmouth</orgName>. Were you considering other schools, and what—what was kind of your outlook, moving from high school to college?</u>
+      <u who="CHEYNE">Well, because I was—I was fairly high up academically in my class, I—I believed that I could probably gain acceptance to a—to a high-quality school. I ended up applying to only two schools, <orgName ref="#dvp_080_org_26">Dartmouth</orgName> and <orgName ref="#dvp_080_org_27">Bowdoin [College]</orgName>, <orgName ref="#dvp_080_org_28">Bowdoin</orgName>, which as you probably know, is in <placeName ref="#dvp_080_place_15">Maine</placeName>. And I was—I was accepted at both, and I had previously visited the <orgName ref="#dvp_080_org_29">Dartmouth</orgName> campus. I don’t know how many times, not a lot of times, but I had been up there, and I—I really li- —I actually had visited both colleges, but I—I really liked <orgName ref="#dvp_080_org_30">Dartmouth</orgName> just overall—you know, the physical plant, the—the location, the—the—you know, the country as opposed to the city. I didn’t want to go to school in a—in a city; I wanted to go in a more rural area, I guess.</u>
+      <u who="SONNENFELD">Mm-hm. So what were you—what was—what were you thinking when you entered college? What were your concerns? Were you—were there any relationships you were leaving behind? What were you looking forward to?</u>
+      <u who="CHEYNE">I was just looking forward to going to a good college and getting a good education and graduating.</u>
+      <u who="SONNENFELD">Mm-hm.</u>
+      <u who="CHEYNE">And because <placeName ref="#dvp_080_place_16">Dartmouth</placeName> is only about two hours or two and a half hours by automobile from where I grew up, I really didn’t leave much behind. I didn’t cross the country or I didn’t go into a different country; I was—I was two hours away. And I had a—I was in—I was in a relationship with a high school classmate, a—I guess you’d call her a girl because we were 17 or 18 years old. And she would come up and visit me from time to time or I would come home for—for a weekend and visit her. We actually ended up getting married while I was in the <orgName ref="#dvp_080_org_31">Navy</orgName>, after I graduated from both <orgName ref="#dvp_080_org_32">Dartmouth</orgName> and <orgName ref="#dvp_080_org_33">Syracuse</orgName>, so I maintained that relationship throughout my—my Dartmouth years. And I was also a member of a fraternity up there, and that was I guess a big focus of my—my life at <orgName ref="#dvp_080_org_34">Dartmouth</orgName>.</u>
+      <u who="SONNENFELD">Mm-hm. What was freshman year like at <orgName ref="#dvp_080_org_35">Dartmouth</orgName>? How—how was the transition, and were there classes you were interested in? Were the academics a challenge?</u>
+      <u who="CHEYNE">The transition was—was fairly easy, as I recall. I—I obviously found the course work and the—the content of—of various classes I was taking a lot more difficult than—than was high school. But I was—I mean, I was not a great student at <orgName ref="#dvp_080_org_36">Dartmouth</orgName>. In high school I was in the top two or three in my class, and at <orgName ref="#dvp_080_org_37">Dartmouth</orgName> I was definitely in the—in the middle of the pack. My—my freshman class matriculated, I believe, 812 individuals, and academically, by the time I finished, I was somewhere near dead center in terms of grade-point average. I was—I was not a great student, but I did well enough to not get in trouble and to proceed all the way through to the point where I graduated on time in <date when="1966-06">June of 1966</date>.</u>
+      <u who="SONNENFELD">Mm-hm. </u>
+      <u who="CHEYNE">I majored in sociology. I also took some French courses at <orgName ref="#dvp_080_org_38">Dartmouth</orgName>, and I continued to enjoy French courses and—and—and the French language. And obviously that was the reason that I ended up, during my junior year, going to school in—in <placeName ref="#dvp_080_place_17">France</placeName> for a term.</u>
+      <u who="SONNENFELD">What was your attraction to sociology as a major?</u>
+      <u who="CHEYNE">I was interested in behavior, I guess. Well, for one thing, I was not great at—at math and science, so those were not—those were not strong options for me in terms of a major. I was also interested in English, in the English language and English literature and so forth, and I remember I had a—when I went to school, and I don’t know if it’s still the same, but you—you don’t pick a major until the end of your freshman year. It doesn’t actually begin until the beginning of your sophomore year. So you go through freshman year just taking the basic courses—course load that everybody—everybody takes basically the same course load. And one of those courses was English. I had an English class, probably English 1. I don’t remember what the number was. And I had a English professor. I don’t remember his name, but I think it was—is it <placeName ref="#dvp_080_place_18">Sanborn House</placeName>? Is that the name of the building that’s sort of to the left of <placeName ref="#dvp_080_place_19">Baker Library [Fisher Ames Baker Memorial Library, now Baker-Berry Library]</placeName>?</u>
+      <u who="SONNENFELD">Sure is, yeah.</u>
+      <u who="CHEYNE">Where the English department is located?</u>
+      <u who="SONNENFELD">Mm-hm.</u>
+      <u who="CHEYNE">My first choice was to—or my first thought was to major in English, so I remember at some point toward the end of my freshman year I—I asked for a meeting with my English professor and—specifically to talk about the possibility of—of majoring in English. It was just a one-on-one meeting. And I went into the meeting and—and told him what my interest was, and I told him I was thinking of majoring in English. And he—he sort of suggested, “Maybe you want to think about something else.” Obviously, his implication was that I wasn’t as good as I probably thought I was—</u>
+      <u who="SONNENFELD">[Chuckles.]</u>
+      <u who="CHEYNE">—as a potential English major. So he said, “Why don’t you try something else?” And I knew I wasn’t going to major in—in either math or science because those were not my strengths, so, you know, it was sort of a process of elimination, and it came—probably got down to, like, sociology or anthropology or history, and I ended up choosing sociology because I was—you know, at the time I was interested in sociology and in human behavior and interaction and so forth.</u>
+      <u who="SONNENFELD">Mm-hm. </u>
+      <u who="CHEYNE">So that’s why I chose sociology. And I didn’t do great as a sociology major, either, but I got through it.</u>
+      <u who="SONNENFELD">Mm-hm.Can you speak a little bit about the campus climate during your time at <orgName ref="#dvp_080_org_39">Dartmouth</orgName>? What were students’ concerns, and what was—what was sort of the, you know, prevailing sentiments on campus?</u>
+      <u who="CHEYNE">There was not a lot of political activism. I don’t know if that’s what you’re referring to or not, but it was—it was pretty much a happy place, or an enjoyable place if not a happy place. I mean, everybody—at least all my friends, you know, took—took their academic activities fairly seriously. I was heavily involved with my fraternity, which is where—I actually lived there for two years.</u>
+      <u who="SONNENFELD">And which fraternity was that?</u>
+      <u who="CHEYNE">At the time it was called <orgName ref="#dvp_080_org_40">Chi Phi</orgName>. It subsequently became Heorot [pronounced HEHR-uht], and I think it’s now called <orgName ref="#dvp_080_org_41">Chi Heorot</orgName>. I’m still there.</u>
+      <u who="SONNENFELD">Mm-hm.</u>
+      <u who="CHEYNE">And I believe it is currently the house that is now predominantly hockey players. That was not that way when I was there. It was more beer drinkers than hockey players.</u>
+      <u who="SONNENFELD">[Chuckles.] Sure. Do you want to extend a little bit more on your experience with Greek life at <orgName ref="#dvp_080_org_42">Dartmouth</orgName>?</u>
+      <u who="CHEYNE">Yeah. I—I never really thought of it as Greek life. I know—I don’t even know how that term derived; it could be all the fraternities have Greek letters as their names. But I—I—I just thought of it more as a—as a social part of my life while I was at <placeName ref="#dvp_080_place_20">Dartmouth</placeName>, and I—I made a lot of close and—and lasting friends. In fact, I made friends there, some of whom I’ve—I’ve—I’ve maintained contact with to this day, 50 years later. Not all of them, but a number of them, and I’m actually looking forward to seeing several of them later this week, when I go up for my 50th reunion and—and—and commencement.But the fraternity was—other than going to class and—and—and going to <placeName ref="#dvp_080_place_21">Thayer [School of Engineering]</placeName> [sic] for meals, the fraternity was sort of the focal point of my life in <placeName ref="#dvp_080_place_22">Hanover</placeName>.</u>
+      <u who="SONNENFELD">Mm-hm.</u>
+      <u who="CHEYNE">I used to play—play a lot of cards. We had poker games quite a bit, quite often.</u>
+      <u who="SONNENFELD">Mm-hm. Which—which sorts of card games? Which sort of poker games?</u>
+      <u who="CHEYNE">Seven-card stud, five-card draw—you know, every—there were a lot of different poker games.</u>
+      <u who="SONNENFELD">Mm-hm.</u>
+      <u who="CHEYNE">And there was money involved, although never a lot, so that we didn’t play for enough money to—to the point where anybody could get seriously hurt or where anybody was going to make a serious amount of money. It was—you know, we played for nickels and dimes. And, you know, in those days, if you had a very strong game, you might come out ahead by six dollars,—</u>
+      <u who="SONNENFELD">[Chuckles.]</u>
+      <u who="CHEYNE">—and if you had a very weak game, you might end up losing eight dollars, but it was—you know, so it was not—the money was not the reason we played; it was jut because it was an enjoyable thing to do and the same bunch of guys—pretty much the same bunch of guys played all the time. We didn’t play every day, but we played, I would say, a few—at least a few times a week, maybe several times a week at different parts of the year.</u>
+      <u who="SONNENFELD"><orgName ref="#dvp_080_org_43">Dartmouth</orgName> at this time was obviously all male. How do you think that influenced your time at <orgName ref="#dvp_080_org_44">Dartmouth</orgName>? I know you mentioned that you had a girlfriend—</u>
+      <u who="CHEYNE">Yeah.</u>
+      <u who="SONNENFELD">—back home, but how do you think the male-dominated climate affected your time, if at all? </u>
+      <u who="CHEYNE">Well, first of all, the relationship of my—my high school girlfriend, even though we did subsequently get—end up getting married—the relationship began to get a little faint or less strong, if that’s the right word, while I was at—at <placeName ref="#dvp_080_place_23">Dartmouth</placeName>, and one manifestation of going to school at an all-male college is that you spend a lot of time on the road. We used to go—they may—they probably use—still use the same phrase. We used to go on road trips quite frequently.</u>
+      <u who="SONNENFELD">Mm-hm.</u>
+      <u who="CHEYNE"><placeName ref="#dvp_080_place_24">Skidmore [College]</placeName>, <placeName ref="#dvp_080_place_25">Green Mountain [Junior College, now Green Mountain College]</placeName>, <placeName ref="#dvp_080_place_26">Colby [Junior College for Women]</placeName>, which is now <placeName ref="#dvp_080_place_27">Colby-Sawyer [College]</placeName>, <persName ref="#dvp_080_person_5">Smith</persName> [College]—those were our most common destinations. And we did—we did that quite often—I mean, like, I would say at least once a week.</u>
+      <u who="SONNENFELD">Mm-hm. Did you vote for the first time you were at <orgName ref="#dvp_080_org_45">Dartmouth</orgName>?</u>
+      <u who="CHEYNE">No. I think I voted for the first time when I was in the <orgName ref="#dvp_080_org_46">Navy</orgName>, because I was born in <date when="1944">1944</date>, so I turned 21 in <date when="1965">1965</date>, but there was no presidential election until <date when="1968">1968</date>, because of the way the cycle works. So the first time I voted was in <date when="1968">1968</date>, and I was actually in the <orgName ref="#dvp_080_org_47">Navy</orgName>. I was on a ship. In fact, I was probably in <placeName ref="#dvp_080_place_28">Vietnam</placeName>. In fact, I know I was in <placeName ref="#dvp_080_place_29">Vietnam</placeName>. And—and when you’re in a ship deployed, you vote obviously by—by—I guess they call it absentee ballot or by mail. And you fill out your ballot and stick it in an envelope and bring it to the post office. The ship did have a post office. So I’m pretty sure the first time I actually voted was <date when="1968">1968</date>.</u>
+      <u who="SONNENFELD">Do you remember who you voted for?</u>
+      <u who="CHEYNE"><persName ref="#dvp_080_person_6">Richard [M.] Nixon</persName>.</u>
+      <u who="SONNENFELD">Mm-hm. Okay, so moving back to kind of the conclusion of your <orgName ref="#dvp_080_org_48">Dartmouth</orgName>—your time at <orgName ref="#dvp_080_org_49">Dartmouth</orgName>—again, can you walk me through a little bit what your thoughts were when you were graduating and what you—you—you had plans to attend <orgName ref="#dvp_080_org_50">Syracuse</orgName>.</u>
+      <u who="CHEYNE">Yeah.</u>
+      <u who="SONNENFELD">What did you kind of see in your future?</u>
+      <u who="CHEYNE">I was actually certain that I was going to go into the <orgName ref="#dvp_080_org_51">military</orgName>. There was no doubt in my mind. Even as I went—as I graduated from <orgName ref="#dvp_080_org_52">Dartmouth</orgName> in <date when="1966">’66</date> and went through <orgName ref="#dvp_080_org_53">Syracuse</orgName> in <date when="1967">’67</date> and <date when="1968">’68</date>—[Transcriber’s note: He said on page 5 that he graduated Syracuse in August or September of 1967.]—I actually signed up to join the <orgName ref="#dvp_080_org_54">Navy</orgName> while I was still at <orgName ref="#dvp_080_org_55">Syracuse</orgName> because at that time, every able-bodied male over the age of 18 had—had an obligation to serve unless you had some kind of physical disability. And so I knew I was going. It was never a question. The only question was which branch and—and how and where, but the—the fact that I was going to be going into the <orgName ref="#dvp_080_org_56">military</orgName> was—was an absolute certainty I would say throughout my entire senior year and through—through graduation and through my—my year at <orgName ref="#dvp_080_org_57">Syracuse</orgName>.</u>
+      <u who="SONNENFELD">Mm-hm. </u>
+      <u who="CHEYNE">And I knew if I—I knew that if I did—I—I—I volunteered for the <orgName ref="#dvp_080_org_58">Navy</orgName>, obviously, because you—you don’t—first of all, the draft was in full swing in <date when="1966">1966</date>, <date when="1967">1967</date>. It was before—there was no draft lottery because they didn’t need a lottery because everybody went. So it didn’t matter what number you had, so nobody had a number. Just—so—everybody who didn’t have an—an education—they used to give deferments for—for educa- —education at the time. As a—as a college student, you get—you’re deferred. And at the time, even as a graduate student, you were deferred, which I was while I was at <orgName ref="#dvp_080_org_59">Syracuse</orgName>. But I knew full well that upon completion of <orgName ref="#dvp_080_org_60">Syracuse</orgName>, if I didn’t do anything—if I didn’t initiate <orgName ref="#dvp_080_org_61">military</orgName> service on my own, I would be drafted and probably go serve in the—in the rice paddies in <placeName ref="#dvp_080_place_30">Vietnam</placeName> because that’s where everybody was going.And so I think the—the reason I chose to go into the <orgName ref="#dvp_080_org_62">Navy</orgName> was (a) I would ra- —I’d prefer to be at sea and on a ship than in the rice paddies in <placeName ref="#dvp_080_place_31">Vietnam</placeName>, and there was also the influence of my—my—my dad having been in the <orgName ref="#dvp_080_org_63">Navy</orgName> as well.</u>
+      <u who="SONNENFELD">What was your family’s reaction to your decision to join the <orgName ref="#dvp_080_org_64">Navy</orgName>?</u>
+      <u who="CHEYNE">It was—there was no reaction. It was—it was expected and understood. I think they were—they were probably glad that I—that I joined the <orgName ref="#dvp_080_org_65">Navy</orgName>, but there was—I mean, there was no—there was nothing to think about. It just was this—automatic.</u>
+      <u who="SONNENFELD">Mm-hm. </u>
+      <u who="CHEYNE">The <orgName ref="#dvp_080_org_66">Navy</orgName> wasn’t automatic, but the <orgName ref="#dvp_080_org_67">military</orgName> was automatic, s everybody knew, including my parents, that I was going to end up in the <orgName ref="#dvp_080_org_68">military</orgName>. And they were probably happy that I chose to go—go into the <orgName ref="#dvp_080_org_69">Navy</orgName>.</u>
+      <u who="SONNENFELD">So you signed up for the <orgName ref="#dvp_080_org_70">Navy</orgName> while you were still at <orgName ref="#dvp_080_org_71">Syracuse</orgName>.</u>
+      <u who="CHEYNE">Yes.</u>
+      <u who="SONNENFELD">How—how, then, did you transition from Syracu- —<orgName ref="#dvp_080_org_72">Syracuse</orgName> to the <orgName ref="#dvp_080_org_73">Navy</orgName>, and did that expedite your—your graduation plans at <orgName ref="#dvp_080_org_74">Syracuse</orgName>, or—or how did that all work?</u>
+      <u who="CHEYNE">No, no, it didn’t ex- —expe- —expedite it at all. First of all, I went to—when I joined the <orgName ref="#dvp_080_org_75">Navy</orgName>, I did it some time—<date when="1966">‘66</date>—in—in—in calendar year <date when="1967">1967</date>, while I was still a student at <orgName ref="#dvp_080_org_76">Syracuse</orgName>. My guess is it was probably the spring of <date when="1967">1967</date>, like, <date when="1967-04">April</date> or <date when="1967-05">May</date>, and I graduated from <orgName ref="#dvp_080_org_77">Syracuse</orgName> in <date when="1967-08">August</date> or <date when="1967-09">September</date>. And I wanted to go into the <orgName ref="#dvp_080_org_78">military</orgName> as an officer, and so I applied to go to <orgName ref="#dvp_080_org_79">Officer Candidate School</orgName>, which is in <placeName ref="#dvp_080_place_32">Newport, Rhode Island</placeName>, and—which I—to which I ultimately got accepted. But getting into <orgName ref="#dvp_080_org_80">OCS</orgName>, as it’s called, is a lot like applying to college. You—you take an aptitude test, you go through a series of interviews, and you have to be selected because the—the officer corps in all branches of the <orgName ref="#dvp_080_org_81">military</orgName> is a lot smaller than the enlisted corps, and, you know, they—they accept people who they think can become leaders of—of individuals and take on a leadership role in the <orgName ref="#dvp_080_org_82">military</orgName>. So that’s why I went to <orgName ref="#dvp_080_org_83">OCS</orgName> or why I thought to go to <orgName ref="#dvp_080_org_84">OCS</orgName>.And I—I—I had my orders to report to <placeName ref="#dvp_080_place_33">Newport</placeName> for <orgName ref="#dvp_080_org_85">OCS</orgName>. I had them in hand probably a couple of months before I actually graduated from <placeName ref="#dvp_080_place_34">Syracuse</placeName>. I mean, the <orgName ref="#dvp_080_org_86">Navy</orgName>—I was dealing with the—the <orgName ref="#dvp_080_org_87">Navy</orgName> office in—there was a recruitment office in <placeName ref="#dvp_080_place_35">Boston, Massachusetts</placeName>. And that office and the <orgName ref="#dvp_080_org_88">[U.S.] Department of Defense, DoD</orgName>, was well aware of my status as a student at <orgName ref="#dvp_080_org_89">Syracuse</orgName>, and they were well aware of my anticipated date of graduation.And so I graduated in late <date when="1967-08">August</date> or early <date when="1967-09">September</date>, and my orders had me showing up in <placeName ref="#dvp_080_place_36">Newport</placeName> in, like, the middle of <date when="1967-09">September</date>, so there was—there was virtually no time between graduating from <orgName ref="#dvp_080_org_90">Syracuse</orgName> and then going to <orgName ref="#dvp_080_org_91">OCS</orgName>, <placeName ref="#dvp_080_place_37">Newport [Rhode Island]</placeName>, like maybe two weeks, max, in between.</u>
+      <u who="SONNENFELD">What was <orgName ref="#dvp_080_org_92">OCS</orgName> training like?</u>
+      <u who="CHEYNE">It was fairly rigorous. It was a five-month program, and they—they—you take courses, a lot like you take college courses except you—instead of math and—and biogr- —biology, you—you—you take navigation and tactics and military history and stuff like that. And there were—there were—there were—there are tests, just like there are as—in college. And <orgName ref="#dvp_080_org_93">OCS</orgName> at the time was—was—had a lot of students in it because of <name type="event" ref="#dvp_080_event_2">the Vietnam War</name>, and so they were graduating probably two or three hundred brand-new officers every month. And they also emphasized the—the physical aspect—you know, there was physical training, and you learn navigation. You learn respect. You learned to pay attention to detail. And—you know, I would say it was—it was fairly rigorous, not a lot more—it was not easier than—than <orgName ref="#dvp_080_org_94">Dartmouth</orgName>. It was probably not harder than <orgName ref="#dvp_080_org_95">Dartmouth</orgName> academically. But the—the regimentation of the social life and the individual—individual liberty and so forth was totally different.For the first month you’re there, you’re not allowed to leave the base. And then it’s a total of—of about five months, four and a half months. And after your first month—there were four classes in <orgName ref="#dvp_080_org_96">OCS</orgName>. There were four grades—you know, there’s level one, level two, level three, level four. And I don’t know if they’re called levels, but in effect that’s what they are. But at level one, you’re not allowed to leave the base,  period, at any time, for any reason. I suppose in a family emergency you might, but other than that, you—you’re not allowed to leave the base.After you—you complete level one, you are then allowed to leave, like, on weekends, but you can’t leave until—my recollection is, like, noontime on Saturday, and you have to be back in—in the barracks by 6 or 8 p.m. on Sunday, so in other words, you get, like, 36 hours of what they call liberty. And because I lived in the <placeName ref="#dvp_080_place_38">Boston</placeName> area and—because that also wasn’t very far from <placeName ref="#dvp_080_place_39">Newport</placeName>; it’s about two hours in the other direction from <placeName ref="#dvp_080_place_40">Boston</placeName> south—I was able to come back—to return to my home in <placeName ref="#dvp_080_place_41">Stoneham</placeName> on those weekends when I was able to—to leave the base.</u>
+      <u who="SONNENFELD">How about relation- —did you develop any re- —close relationships in <orgName ref="#dvp_080_org_97">Officer Training School</orgName>, or what was your relationship with the officer trainers—officers in training like?</u>
+      <u who="CHEYNE">No, I got—I got along with them very well. I knew a lot of them. I didn’t establish any relationships there that lasted me for the rest of my life, but I—I established a few that—that lasted through my four years in the <orgName ref="#dvp_080_org_98">Navy</orgName>. But I actually established stronger relationships with people that I served aboard ship with, because you spend more time with them, and you’re sort of closer to them, and you go through various  operations and—and missions with them, so there—there are one or two guys that I served on the ship with that I maintain, even to this day—I maintain infrequent contact, not frequent contact with, but I did make some—some friends while I was serving aboard the ship.</u>
+      <u who="SONNENFELD">So once you graduated from <orgName ref="#dvp_080_org_99">Officer Training School</orgName>, what were your next steps?</u>
+      <u who="CHEYNE">I—in the—in the <orgName ref="#dvp_080_org_100">military</orgName>, you—you always- —everything you do is—is based on your—what they call orders, which is like, you know, a written assignment for your next duty, and you always get your orders for your next duty in advance of departing from your current duty. So while I was at <orgName ref="#dvp_080_org_101">OCS</orgName>, prior to graduating from <orgName ref="#dvp_080_org_102">OCS</orgName> and getting commissioned as an—as an ensign, which was in <date when="1968-02">February of 1968</date>. I already had orders to report to the <placeName ref="#dvp_080_place_42">Philadelphia Naval Shipyard</placeName> to what was then described as the pre-commissioning detail of the <orgName ref="#dvp_080_org_103">USS New Jersey</orgName>. That’s the ship that I served on. And the reason it was called a pre-commissioning detail is the <orgName ref="#dvp_080_org_104">New Jersey</orgName> was actually built in <date when="1943">1943</date>, served in <name type="event" ref="#dvp_080_event_3">World War II</name> in the Pacific [Ocean], was decommissioned, re-commissioned for <name type="event" ref="#dvp_080_event_4">Korea [the Korean War]</name>, served in <name type="event" ref="#dvp_080_event_5">Korea</name>, was decommissioned subsequent to <name type="event" ref="#dvp_080_event_6">Korea</name>, and I think that was the—the second decommissioning was—was where she was when I went—went aboard. But the ship had sat in what they—what is affectionately referred to as the mothball fleet in the <placeName ref="#dvp_080_place_43">Philadelphia Naval Shipyard</placeName> for 10 or 11 years prior to it being reactivated specifically and—and solely to serve in <name type="event" ref="#dvp_080_event_7">Vietnam</name>.And so I reported to <placeName ref="#dvp_080_place_44">Philadelphia</placeName>, and I—I might—I might have had, like, five days or seven days leave in between graduating from <orgName ref="#dvp_080_org_105">OCS</orgName> and reporting to <placeName ref="#dvp_080_place_45">Philadelphia</placeName>, but, again, there wasn’t much space in between assignments. So I—I returned home after I grad- —graduated from <orgName ref="#dvp_080_org_106">OCS</orgName>, and I stayed there for probably a week. And then I went down to <placeName ref="#dvp_080_place_46">Newport</placeName>. I was actually driven by my—my—my then future wife’s father, and she drove me down to <placeName ref="#dvp_080_place_47">Newport</placeName> and—and dropped me off, and that’s literally all they were allowed to do, is drop me off.And then I—I checked in, and the regimentation began immediately. You know, the first thing that happens is you get issued uniforms, you get your hair all shaved off, and you get assigned to a company, meaning a group of officer candidates, and you get assigned to a barracks, and the program begins. And the classwork starts almost immediately, within a couple—within a day or two.</u>
+      <u who="SONNENFELD">What was that work like?</u>
+      <u who="CHEYNE">It was demanding. It was extremely regimented. The—the <orgName ref="#dvp_080_org_107">military</orgName> is a pretty regimented enterprise. And particularly for—the more junior you are, I think, the more regimented your life is, and so as an officer candidate, you’re—you’re not very high up the pecking order in terms of the <orgName ref="#dvp_080_org_108">Navy</orgName>’s hierarchy. So there was a lot of—in addition to coursework—and everybody—you go to class, you march. I mean, you get in formation and you—and you march to your next class, which might be two or three buildings down the road.And there was a lot of drill work with—we—we—we all had a rifle. I only fired it once, but we were all issued M1s [carbines], which is—they’re antiques now, but the equivalent of it, I guess is an M16 [rifle]. And we had a lot of—we had a lot of drill work. And, you know, I think a lot of that has to do with they’re just trying to—to acclimate all the candidates—that’s what we were called, officer candidates; it’s like a cadet in the—at the <orgName ref="#dvp_080_org_109">military academy</orgName>, the <orgName ref="#dvp_080_org_110">Navy</orgName> academy. But the whole proc- —purpose of the process is to acclimate you to the—to the discipline and the regimentation of—of life in the <orgName ref="#dvp_080_org_111">Navy</orgName>. So it was—it was very structured.You know, lights had to—lights out at 10, reveille at 5:30, and every minute of the day was occupied with something, whether it be physical training or class work. You’re—you’re—you got a couple of hours in the evening to—to in effect do your homework or do your studying, and kind of lights out.And it’s a—it’s a totally alcohol-free world. I mean, there’s no question about it. And shipboard life was totally alcohol free as well. Alcohol is strictly prohibited aboard <orgName ref="#dvp_080_org_112">Navy</orgName> ships, and to this day, that’s—that’s still the case.</u>
+      <u who="SONNENFELD">Did you enjoy your time throughout this training course, or what were kind of your personal thoughts during this time?</u>
+      <u who="CHEYNE">Yeah, I—I liked it. I mean, I—I never—I didn’t really think about anything that was good in particular or anything bad particularly. I enjoyed it. I—I knew ahead of time what I was getting into, what—what I—what I had signed up for, and it was sort of what I expected. And I think the most important thing you think of when you’re in <orgName ref="#dvp_080_org_113">Officer Candidate School</orgName>—the most important thing you think of is successful completion of the program, because if you don’t complete the program successfully, you then revert to enlisted status, and you have an obligation to serve as an—as a sailor, as an enlisted individual, enlisted man, because there were no females in <orgName ref="#dvp_080_org_114">OCS</orgName> at the time. And so the—the primary focus for the four and a half months while I was at <placeName ref="#dvp_080_place_48">Newport</placeName> was the finish line, to successfully complete the program and get commissioned as an officer in the <orgName ref="#dvp_080_org_115">United States Navy</orgName>, which I did.</u>
+      <u who="SONNENFELD">Let’s talk about that. So you got your—you got your commission.</u>
+      <u who="CHEYNE">Yeah.</u>
+      <u who="SONNENFELD">Again, can you kind of walk me through that transition?</u>
+      <u who="CHEYNE">Well, one interesting thing I remember from my commissioning—there’s a—there’s a big ceremony, and the <orgName ref="#dvp_080_org_116">military</orgName> is big on ceremonies for lots of things, and—including the commissioning ceremony. What that means is that the entire—my class—and the graduated glass—at the time, they were graduating a class every single month. And my class had a couple of hundred or several hundred individuals in it. And families are invited, and you—you get to wear your—your officer’s uniform for the first time ever. It was in the morning. I remember that. In a huge building, like a Quonset hut, I think, on the—on the <orgName ref="#dvp_080_org_117">Navy</orgName> base in <placeName ref="#dvp_080_place_49">Newport</placeName>.And our—ironically, our guest speaker was <persName ref="#dvp_080_person_7">Richard M. Nixon</persName> and the—and the reason for that is he was—first of all, he was running for president at the time, but he wasn’t—he wasn’t president. He didn’t become president until November of 19- — or he got elected in <date when="1968">1968</date>, and then he became president actually in <date when="1969-01">January of ’69</date>. But his son-in-law, <persName ref="#dvp_080_person_8">[D.] David Eisenhower [II]</persName>, who was the grandson—I think the grandson of <persName ref="#dvp_080_person_9">[President] Dwight [D.] Eisenhower</persName>, was in my class.And he was—he, <persName ref="#dvp_080_person_10">David Eisenhower</persName>, was engaged or romantically involved with one of <persName ref="#dvp_080_person_11">Richard Nixon</persName>'s daughters. I don’t remember which one. But that combination of circumstances resulted in the fact that the future president of the <orgName ref="#dvp_080_org_118">United States</orgName> was the—the—like, in effect the commencement speaker or the—or the commissioning speaker at my graduation, or my commissioning ceremony. It’s called commissioning, not graduation, although it’s like graduation. So that’s—that’s one memory I have of it.</u>
+      <u who="SONNENFELD">And what did <persName ref="#dvp_080_person_12">Nixon</persName> have to say? Do you remember?</u>
+      <u who="CHEYNE">No, I have no idea. No, I have no recollection of what he had to say. I listened to him, but I—I don’t know what—what he had to say. I’m sure it had something to do with	his support for the <orgName ref="#dvp_080_org_119">military</orgName> and our mission, and I’m sure he talked about <name type="event" ref="#dvp_080_event_8">Vietnam</name> because a lot of guys that I—that I was commissioned with ended up in <name type="event" ref="#dvp_080_event_9">Vietnam</name>, probably the majority of them, although not everybody, because the <orgName ref="#dvp_080_org_120">Navy</orgName> is all over the world, not just in one part of the world.</u>
+      <u who="SONNENFELD">Mm-hm.</u>
+      <u who="CHEYNE">But a lot of guys, because of what was going on at the time, ended up in various assignments, as I did, in—in <placeName ref="#dvp_080_place_50">Vietnam</placeName>. So I’m sure he talked a little bit about that.</u>
+      <u who="SONNENFELD">Mm-hm. </u>
+      <u who="CHEYNE">And then one—</u>
+      <u who="SONNENFELD">After-</u>
+      <u who="CHEYNE">I’ve got one funny little anecdote—</u>
+      <u who="SONNENFELD">Sure.</u>
+      <u who="CHEYNE">—that happens. There’s a—there’s a tradition in the <orgName ref="#dvp_080_org_121">Navy</orgName> that when an officer becomes an officer—that is, gets commissioned—the first enlisted man that salutes him, you have to give him a buck. And so the—a lot of enlisted guys who were in—in various other commands at the—at the base in <placeName ref="#dvp_080_place_51">Newport</placeName>, because <orgName ref="#dvp_080_org_122">the Newport base</orgName> at the time was very big; it’s not so big anymore. But there are a lot of enlisted guys, a lot of sailors from a lot of different commands. And they all sort of stand around outside the doors, waiting for all the new officers to come—come rushing out the door.	And, you know, the first one that salutes you, you give him a dollar, a propos of nothing, but it—it’s a tradition that probably still occurs—still goes on.</u>
+      <u who="SONNENFELD">Mm-hm. After you—after you graduated, after you were commissioned, rather,—</u>
+      <u who="CHEYNE">Yeah.</u>
+      <u who="SONNENFELD">—did you go straight to your assignment, or any time off in that period?</u>
+      <u who="CHEYNE">No, I—I had about—as I said earlier, I had about five to seven days in between my commissioning, which was on <date when="1968-02-02">February 2nd, 1968</date>, and reporting to the <placeName ref="#dvp_080_place_52">Philadelphia Naval Shipyard</placeName>, which was probably around <date when="1968-02-10">February 10th, 1968</date>. So my parents had driven down from <placeName ref="#dvp_080_place_53">Boston</placeName> for the graduation, and my—my then fiancée, my first wife—and I’m now married to my second wife, but my—my first wife was there. We weren’t married yet; we were engaged at the time. So the three of them came down.And after the commissioning ceremony, you basically go back to your barracks and pack up all your stuff and—and load up into the car and head out. It’s not unlike graduating from <orgName ref="#dvp_080_org_123">Dartmouth</orgName>. I mean, on the day that you graduate, everybody congratulates everybody and wishes everybody the best, and then off you go.And so I went home to <placeName ref="#dvp_080_place_54">Stoneham</placeName> for a few days, and then several days later—I think I flew. I’m almost positive that I flew from <placeName ref="#dvp_080_place_55">Boston</placeName> to <placeName ref="#dvp_080_place_56">Philadelphia</placeName> because that’s where my ship was—was stationed at the time, at the <placeName ref="#dvp_080_place_57">Philadelphia Naval Shipyard</placeName>, which, by the way, is on the <placeName ref="#dvp_080_place_58">Delaware River</placeName>, 86 miles from the Atlantic Ocean.</u>
+      <u who="SONNENFELD">Mmm. Once you got to <placeName ref="#dvp_080_place_59">Philadelphia</placeName>, can you walk me through—through, again, the next steps towards your actual outpost?</u>
+      <u who="CHEYNE">Yeah. Yeah, it’s a—first of all, it was a somewhat unusual situation because the—the ship was not yet commissioned, meaning it had been in mothballs or in—they call it the <orgName ref="#dvp_080_org_124">reserve fleet</orgName>, but unofficially they call it mothballs—for 11 years. And so it was being refitted with electronics and—and weaponry and guidance and stuff like that, radar, so there was—there was a ton of work being done on the ship. And when I first got there, the ship wasn’t even occupiable. In other words, nobody was stationed physically—you didn’t sleep on the ship. You—you—you were on board the ship all day doing your—your job, and I got assigned to be the public affairs officer, which is like the press guy, and that was because of my—my degree at <orgName ref="#dvp_080_org_125">Syracuse</orgName>, I think. They—the <orgName ref="#dvp_080_org_126">Navy</orgName> assumed that I must have some ability to—to deal with media because of my degree, and so I was—I was the public affairs officer, meaning I dealt with media inquiries and requests. And because we were the only battleship, the only active battleship in the world, we had a fairly high level of media interest and attention.But I—I stayed in what was called the BOQ, Bachelor Officers’ Quarters, and it’s—it’s not unlike a dormitory. It’s on the—on the <placeName ref="#dvp_080_place_60">base at Philadelphia</placeName>, I think within walking distance of the—of the pier, where the—where the ship was. And I—I basically—you know, I would—I would sleep in the Officers’ Quarters at night. I think we had meals at the Officers’—at the—at the BOQ. They weren’t serving—they weren’t serving meals yet aboard ship, at least for the first part of my—my time in <placeName ref="#dvp_080_place_61">Philadelphia</placeName>.I was in <placeName ref="#dvp_080_place_62">Philadelphia</placeName>, by the way, for a total of about—<date when="1968-02">February</date>, <date when="1968-03">March</date>, <date when="1968-04">April</date>, <date when="1968-05">May</date>—four months. Yeah, I—I arrived in <date when="1968-02">February</date>, [scouted out? 48:23] at the BOQ. Meanwhile, the work of—of re-outfitting the ship and—and modernizing the ship with a ton of civilian workers in addition to <orgName ref="#dvp_080_org_127">Navy</orgName> personnel was—was ongoing. And we probably moved aboard sometime in the—in the middle of that—that period. In other words, I got there in <date>February</date>. We probably moved aboard in late <date when="1968-03">March</date> or—or—or the beginning of <date when="1968-04">April</date>, when—when the ship was getting close to being ready to go to sea.And in fact, we actually did go to sea—well, fi- —let me back up. The ship was—was commissioned, which means it’s an active ship of the <orgName ref="#dvp_080_org_128">United States Navy</orgName>, on <date when="1968-04-06">April 6th, 1968</date>. And I don’t know how familiar you are with—with dates, but <persName ref="#dvp_080_person_13">[the Rev. Dr.] Martin Luther King [Jr.]</persName> was assassinated in—I think in <placeName ref="#dvp_080_place_63">Tennessee</placeName> on <date when="1968-04-04">April 4th, 1968</date>. And that event obviously was a major national event, a major tragedy, and it—it heightened tensions. There was—there was concern—<placeName ref="#dvp_080_place_64">Philadelphia</placeName> has a large African-American population, and there was some concern that the—the commissioning process or the commissioning ceremony might get somehow disrupted because of all of these events that were happening. It turns out nothing—nothing like that happened, but—but they were concerned ahead of the commissioning ceremony that—that there might be problems or trouble, but there—it turns out there weren’t any.So we—we were commissioned on <date when="1968-04-06">April 6th</date>, and I think we went out to sea once and then came back to <placeName ref="#dvp_080_place_65">Philadelphia</placeName> before we actually left for good. But as I said a minute ago, it’s 86 miles down the <placeName ref="#dvp_080_place_66">Delaware River</placeName>, and for a ship—the ship is 887 feet long and 108 feet wide, and it draws 38 feet, meaning it’s 38 feet deep. So that’s a big—that’s a big vessel.</u>
+      <u who="SONNENFELD">Mm-hm.</u>
+      <u who="SONNENFELD">Sorry, yeah. Can you—can you hear me?</u>
+      <u who="CHEYNE">And to go down a river is a very arduous, precise process, so obviously we had tugs, we had a pilot aboard, and we—we went under a couple of bridges, and then—you know, there were a lot of—there’s a lot of public attention to us as we were going down the river. It’s kind of hard to hide a ship that’s 900 feet long. And we went—anyway, we went out to sea for a few days I want to say sometime in <date when="1968-04">April</date>, and we fired our guns for the first time out in the Atlantic at some pre-designated target area and probably spent three days at sea, and then we turned around and went back to <placeName ref="#dvp_080_place_67">Philadelphia</placeName> and back to the pier and completed the process of—of ammunition—you know, loading ammunition and loading food stores and fuel, yadda, yadda. And we ended up leaving <placeName ref="#dvp_080_place_68">Philadelphia</placeName> for good in—in <date when="1968-05">May of 1968</date>. I don’t remember the exact date, but it was in <date when="1968-05">May</date>, and we went—once again went down the river, out to sea. We sent straight to <placeName ref="#dvp_080_place_69">Norfolk, Virginia</placeName>, which was the—I believe it was the headquarters of the—of the <orgName ref="#dvp_080_org_129">[U.S.] Second Fleet</orgName>. The <orgName ref="#dvp_080_org_130">Navy</orgName>—or the <orgName ref="#dvp_080_org_131">Navy</orgName>—the floating <orgName ref="#dvp_080_org_132">Navy</orgName> is divided into fleets, and on the Atlantic side they’re all even numbered, so the <orgName ref="#dvp_080_org_133">Second Fleet</orgName> was East Coast <placeName ref="#dvp_080_place_70">United States</placeName>, the [<placeName ref="#dvp_080_place_71">U.S.</placeName>] <orgName ref="#dvp_080_org_134">Sixth Fleet</orgName> is in the <placeName ref="#dvp_080_place_72">Mediterranean</placeName> [Sea].We went to <placeName ref="#dvp_080_place_73">Norfolk, Virginia</placeName>, which I believe was the headquarters of the <orgName ref="#dvp_080_org_135">Second Fleet</orgName>, and we stayed there for two or three days, and all the dignitaries come aboard. Not really much happens.We then left <placeName ref="#dvp_080_place_74">Philadelphia</placeName>—I’m sorry, we left <placeName ref="#dvp_080_place_75">Norfolk</placeName> and went—headed—continued down the East Coast of the <placeName ref="#dvp_080_place_76">United States</placeName>. We went around <placeName ref="#dvp_080_place_77">Cuba</placeName>, and I remember we were close to <placeName ref="#dvp_080_place_78">Cuba</placeName> so that you could see it, and this was <date when="1968">1968</date>, not long after the—<persName ref="#dvp_080_person_14">Fidel Castro</persName> had taken over and <orgName ref="#dvp_080_org_136">Cuba</orgName> had become a communist state. And we—we sailed by—sailed to the south of <placeName ref="#dvp_080_place_79">Cuba</placeName>, close enough so you could see it but not close enough that we got into their territorial waters. We went past <placeName ref="#dvp_080_place_80">Cuba</placeName>, across the <placeName ref="#dvp_080_place_81">Gulf of Mexico</placeName> and through the <placeName ref="#dvp_080_place_82">Panama Canal</placeName>, which was an interesting process. It took about 12 hours to get through the <placeName ref="#dvp_080_place_83">Canal</placeName>. Very—again, a very slow and arduous process because the ship was so big.So we popped out the other side of the canal. Now we’re in the Pacific, and our home port was <placeName ref="#dvp_080_place_84">Long Beach, California</placeName>, so we—we continued—once we got through the <placeName ref="#dvp_080_place_85">canal</placeName>, we then went up the West Coast of the <placeName ref="#dvp_080_place_86">United States</placeName> in the—in the Pacific and straight up into <placeName ref="#dvp_080_place_87">Long Beach</placeName>, where we—where we then—we were assigned, by the way, to the <orgName ref="#dvp_080_org_137">[U.S.] First Fleet</orgName>, but I said the Atlantic has even numbers; the Pacific has odd numbers. The West Coast <orgName ref="#dvp_080_org_138">U.S.</orgName> ships were all in what was then known as the <orgName ref="#dvp_080_org_139">First Fleet</orgName>. Probably still the case.And we get into <placeName ref="#dvp_080_place_88">Long Beach</placeName>, and once again, all the—all the mucky-mucks, because we were the only battleship in the world—all the—all the high—you know, the brass came aboard to visit. And that lasted for a few days.And then we started the—the training process. And we—we spent the whole summer of <date when="1968">’68</date> back and forth between <placeName ref="#dvp_080_place_89">Long Beach</placeName> and <placeName ref="#dvp_080_place_90">San Diego [California]</placeName>, and we were at sea more than we were in port, basically training the crew, training the gun- —the gunnery teams, training, you know, the communications folks, and—and testing and—and becoming acclimated to all of our systems: our weapons systems, our engineering plant. We had—I think it was 212,000 horsepower. Four engines, four screws and an entire department of—the engineering department responsible for running that part of the ship, which, by the way, is the hot part of the ship because you’re down below, and in southern <placeName ref="#dvp_080_place_91">California</placeName>, no matter what time of year, you’re—it’s usually pretty warm, and it really got warm in <placeName ref="#dvp_080_place_92">Vietnam</placeName>.We stayed in—back and forth between <placeName ref="#dvp_080_place_93">Long Beach</placeName> and <placeName ref="#dvp_080_place_94">San Diego</placeName>, basically for the months of <date when="1968-05">May</date>, <date when="1968-06">June</date>, <date when="1968-07">July</date> and <date when="1968-08">August</date>, to complete our training, which we did. And then we—we deployed from <placeName ref="#dvp_080_place_95">Long Beach</placeName>, headed to <placeName ref="#dvp_080_place_96">Vietnam</placeName> sometime in the middle of <date when="1968-08">August</date>, and we—we stopped in <placeName ref="#dvp_080_place_97">Honolulu, in Hawaii</placeName>, in <placeName ref="#dvp_080_place_98">[the Naval Station] Pearl Harbor</placeName>, actually, on the way over. And <placeName ref="#dvp_080_place_99">Pearl Harbor</placeName> obviously is—is where <name type="event" ref="#dvp_080_event_10">the Japanese attack in 1941</name> occurred and where two or three battleships, of which we were one, but two or three battleships, most notably the <orgName ref="#dvp_080_org_140">[USS] Arizona</orgName>, were sunk. And the <placeName ref="#dvp_080_place_100">Arizona</placeName> memorial to <date>this day</date> is still there.And because we were a battleship and because <orgName ref="#dvp_080_org_141">the Arizona</orgName> was a battleship, you—you—you—there was a lot of ceremony and 21-gun salute with a—with a saluting battery, which shoots blank rounds, but it does make a big noise. So we had—we had—we manned the rail, which means the entire crew lines the rails of a ship, in your dress uniforms. We fired the salute in honor of <orgName ref="#dvp_080_org_142">the Arizona</orgName>, and the we—we pulled into our assigned pier at <placeName ref="#dvp_080_place_101">Pearl Harbor</placeName>. And we stayed there for a few days, probably three or four days.And then we departed <placeName ref="#dvp_080_place_102">Pearl Harbor</placeName> and went straight west to—to <placeName ref="#dvp_080_place_103">Vietnam</placeName>, off the coast of <placeName ref="#dvp_080_place_104">Vietnam</placeName>. On the way, we passed by <placeName ref="#dvp_080_place_105">Midway [Atoll]</placeName>, <placeName ref="#dvp_080_place_106">Wake [Island]</placeName> and <placeName ref="#dvp_080_place_107">Guam</placeName>. I remember that’s the order in which we passed them: <placeName ref="#dvp_080_place_108">Midway</placeName>, <placeName ref="#dvp_080_place_109">Wake</placeName> and <placeName ref="#dvp_080_place_110">Guam</placeName>, those three islands. I’m not sure they’re all <orgName ref="#dvp_080_org_143">U.S.</orgName> territories, but they are sort of milestones as you’re crossing the Pacific, all west of—of <placeName ref="#dvp_080_place_111">Hawaii</placeName>.And then we—we—You still there?</u>
+      <u who="CHEYNE">Yeah, I—something beeped. Is your recorder beeping?</u>
+      <u who="SONNENFELD">I heard that, too, but it’s still recording, so I think we’re okay.</u>
+      <u who="CHEYNE">Okay. You know what it is? Somebody is calling me, but I’ll just ignore it.So anyway, we get—we get assigned, while we were literally in the middle of the Pacific—we get reassigned from the <orgName ref="#dvp_080_org_144">First Fleet</orgName>, which was the West Coast of the <placeName ref="#dvp_080_place_112">United States</placeName>, to the <orgName ref="#dvp_080_org_145">[U.S.] Seventh Fleet</orgName>, which is the west, actually, western Pacific. And we were assigned to the—to the <orgName ref="#dvp_080_org_146">Seventh Fleet</orgName>, and then from that point, you take your—the ship takes its orders and instructions and directives from the—from the <orgName ref="#dvp_080_org_147">Seventh Fleet</orgName>.And we—we basically—when we first got over there, the—the war—and I don’t know how much you known about <name type="event" ref="#dvp_080_event_11">Vietnam</name>, because it ended 25 years before you were born, or 20 years before you were born, but when we first got over there, the <orgName ref="#dvp_080_org_148">U.S.</orgName> was—was literally at war with <orgName ref="#dvp_080_org_149">North Vietnam</orgName>. <placeName ref="#dvp_080_place_113">Vietnam</placeName> had been divided into two. I assume you’re aware of that. There’s the—there was the—<orgName ref="#dvp_080_org_150">South Vietnam</orgName>, which was the guys that were on our side, called the <orgName ref="#dvp_080_org_151">RVN, Republic  of Vietnam [sic; ARVN, pronounced AR-vin, the Army of the Republic of Vietnam]</orgName>, and then <orgName ref="#dvp_080_org_152">North Vietnam</orgName>, which was a communist government and was supported by <orgName ref="#dvp_080_org_153">China</orgName> and <orgName ref="#dvp_080_org_154">Russia</orgName>, and that was the guys that we were fighting.And our—for our first month or so in the—in the Pacific, we—we fired on targets in—in <placeName ref="#dvp_080_place_114">North Vietnam</placeName>, like ammunition dumps and hard targets: bridges and buildings and stuff like that. And by this point, <persName ref="#dvp_080_person_15">Lyndon [B.] Johnson</persName> has become president, in—is that right? Was <persName ref="#dvp_080_person_16">Lyndon Johnson</persName> president in <date when="1968">’68</date>? No, he was—</u>
+      <u who="SONNENFELD"><persName ref="#dvp_080_person_17">Nixon</persName>—</u>
+      <u who="CHEYNE"><persName ref="#dvp_080_person_18">Nixon</persName> was elected in <date when="1968">’68</date>.</u>
+      <u who="SONNENFELD">Right.</u>
+      <u who="CHEYNE">But in—but <persName ref="#dvp_080_person_19">Lyndon Johnson</persName> was still pres- —okay, I’m sort of confusing my presidents. <persName ref="#dvp_080_person_20">Lyndon Johnson</persName> was still president in <date when="1968-09">September</date>, <date when="1968-10">October of 1968</date> because the election didn’t happen until <date when="1968-11">November of ’68</date>. And <persName ref="#dvp_080_person_21">President Johnson</persName> declared a bombing halt on <placeName ref="#dvp_080_place_115">North Vietnam</placeName>, north of the <placeName ref="#dvp_080_place_116">DMZ, which stands for Demilitarized Zone</placeName>. He declared a bombing halt effective <date when="1968-11-01">November 1st, 1968</date>. And a bombing halt meant no aircraft can fly over and drop bombs. It also meant that that the battleship could no longer fire its 2,000-pound projectiles at targets in North—<placeName ref="#dvp_080_place_117">North Vietnam</placeName>.So our—our—our mission in <placeName ref="#dvp_080_place_118">North Vietnam</placeName> was effectively over because of the bombing halt, although no one—you know, at the time no one knew if it was going to be reinstated or whatever in the future. I don’t think it ever was.So for the rest of our deployment, starting in—in <date when="1968-11">November of ’68</date>, was spent off the coast of <placeName ref="#dvp_080_place_119">South Vietnam</placeName>, shooting at—we would be assigned to a shore-based unit, and most of them were <orgName ref="#dvp_080_org_155">United States</orgName> units, although we would occasionally be assigned to a <orgName ref="#dvp_080_org_156">South Vietnamese</orgName>—like, to a <orgName ref="#dvp_080_org_157">South Vietnamese army</orgName>. We’d be assigned to the <orgName ref="#dvp_080_org_158">United States Marines</orgName> or the <orgName ref="#dvp_080_org_159">United States Army</orgName>, the <orgName ref="#dvp_080_org_160">101st Airborne [Division]</orgName> or the <orgName ref="#dvp_080_org_161">3rd Marine Division</orgName>, the <orgName ref="#dvp_080_org_162">1st Marine Division</orgName>.The way <orgName ref="#dvp_080_org_163">South Vietnam</orgName> was—was structured in terms of the <orgName ref="#dvp_080_org_164">U.S. military</orgName> involvement is that it was divided into sort of geographic sectors, and each sector was the responsibility of a specific military ground unit, whether it be a <orgName ref="#dvp_080_org_165">Marine</orgName> division or a—or an <orgName ref="#dvp_080_org_166">Army</orgName> battalion. In some instances, the <orgName ref="#dvp_080_org_167">South Vietnamese Army</orgName>.  And in one or two instances—this is a little-known fact—the <orgName ref="#dvp_080_org_168">Republic of Korea</orgName>. <orgName ref="#dvp_080_org_169">South Korea</orgName> actually had <orgName ref="#dvp_080_org_170">military</orgName> in <placeName ref="#dvp_080_place_120">Vietnam</placeName> during <name type="event" ref="#dvp_080_event_12">the Vietnam War</name>. I don’t know if that was a big secret or not, but we—we were assigned once or twice to a—to a <orgName ref="#dvp_080_org_171">Korean</orgName> unit.And the purpose of the assignment was to fire at targets that—in support of this particular unit, and they—you know, we would be assigned targets by the ground unit. We didn’t select targets ourselves. They were—they were selected for us. And all of our main battery missions—a main battery is 16-inch guns—the rules of engagement required that we had to have aerial spotters, meaning an aircraft flying overhead to—to—to help pinpoint our rounds and—and give us coordinates to fire at.And the very first day we were over there—my recollection is the first day we were over there, our spotter, who was a—I think an <orgName ref="#dvp_080_org_172">Army</orgName> pilot—got shot down, although he bailed out, and he made it out—he made what’s called “feet wet,” which means he was able to get over the—across the beach and out over the ocean, which is the safest place to bail out, at least in that part of the world, and he was plucked out of the ocean by a helicopter, a U.S.—I don’t know whether it was <orgName ref="#dvp_080_org_173">Marine</orgName> or <orgName ref="#dvp_080_org_174">Navy</orgName>, but he was plucked out of the ocean by a helicopter.And I think it was our captain request—requested the spotter was flown out to the ship, just sort of for a meet-and-greet. And he came out by helicopter and hopped onto the bridge, and, you know, the captain thanked him for his work, and he thanked us for our work, and yadda, yadda, and then he left.</u>
+      <u who="SONNENFELD">Mmm.</u>
+      <u who="CHEYNE">And so we—we spent—starting in—in <date when="1968-09">September</date>, end of <date when="1968-09">September</date> and through <date when="1969-04">April of ’69</date>, we were up and down the—the coast of <placeName ref="#dvp_080_place_121">Vietnam</placeName>, shooting—at least after <date when="1969-10-01">October 1st</date>—shooting in support of friendly ground-based units in—in country.And our home away from home was in <placeName ref="#dvp_080_place_122">the Philippines</placeName>. There was at the time a <placeName ref="#dvp_080_place_123">U.S. Navy base in Subic Bay</placeName>. It’s called <placeName ref="#dvp_080_place_124">[Naval Base] Subic Bay</placeName>. And the <placeName ref="#dvp_080_place_125">Philippines</placeName> is only about 600 miles, which is one day’s sail from <placeName ref="#dvp_080_place_126">Vietnam</placeName>. So that was our home away from home. We would go there about once every 45 or so days for repair, renovation—you know, getting stuff fixed, getting stuff painted, getting resupplied. We were able to resupply at sea, but it was a lot easier to get resupplied in port, as well as rearmed, because the bullets weight 2,000 pounds apiece. It’s hard to load them at sea. So we would go back to the <placeName ref="#dvp_080_place_127">Philippines</placeName> every 45 days or so to get refueled, rearmed, resupplied, a little R&amp;R [rest and recuperation] for the—for the troops, and then go back to the—to the coast of <placeName ref="#dvp_080_place_128">Vietnam</placeName>. And we were there until—</u>
+      <u who="SONNENFELD">What was—</u>
+      <u who="CHEYNE">Go ahead.</u>
+      <u who="SONNENFELD">What was your role on the ship sort of day to day like?</u>
+      <u who="CHEYNE">I was a—I was a—my—everybody in the <orgName ref="#dvp_080_org_175">Navy</orgName> on a ship has two jobs. You can—one of them is standing watch, meaning—the ship is constantly in motion, constantly manned in the—on the bridge, which is where you drive the ship from, engineering spaces, the gunnery spaces. You stand watches. You know, I stood deck watches, and we were—we were either one in four or one in three. I think most of the time we were one in four, which means you have a watch—the—the—the watch lasts for four hours. And every fourth period of four hours, you’d go back to your post. In my case, it was on the bridge of the ship, where we drive the ship from, and the—it’s every four hours, so it doesn’t matter what time of day. In other words, it’s—the bridge is manned, the ship is operational 24/7. And so, you know, every other day you’d either get the mid watch, which is midnight to 4 a.m., or you get the 4 to 8, which is obviously 4 a.m. to 8 a.m. And so, you know, I stood deck watches every single day for the entire time we were there.I was also the public affairs officer. That was sort of my day job, which was—I was, like, the media relations guy for the ship. An unusual reporting relationship. Because we were such a high-interest unit and because our commanding officer was so keenly interested in what the world was saying about us, I would—in effect, I reported directly to the captain for—for that job, which was highly unusual in the <orgName ref="#dvp_080_org_176">military</orgName> because everything in the <orgName ref="#dvp_080_org_177">military</orgName> is chain of command. You go up one level to report, and ultimately, you know, some of the reports were top guy.But I used to write a press release every day when we were on a gun line, which is what it’s called. When we were on the gun line, I was—I was basically required, at the end of each day—and the end of each day would be, in round numbers, 1600, 1700, which is 4 o’clock, 5 o’clock in the afternoon. I was required to write a press release about what we did that day: what targets we engaged, what our results were, what we hit, what we—what we knocked out.And the first thing I had to do—once I wrote it—I had to go around the ship and talk to people, literally to gather information, to find out what we were shooting at and what we were hitting and what the resu- —what the GDA was. GDA is Gun Damage Assessment, the equivalent of BDA, which is Bomb Damage Assessment.So every day, I would—I would gather information about what we had done that particular in terms of operations and results, and write a press release, which was a classified document. And my first step was to get it approved by the executive officer, who’s the number two guy on the ship. And it couldn’t leave the ship until he had signed off on it.And if it was anything of significant import, the executive officer would either run it by or have me run it by the commanding officer, the captain, to make sure that he signed off on it. And once that happened, then I took it to the—to the radio room and sent it to <placeName ref="#dvp_080_place_129">Saigon</placeName>, where <persName ref="#dvp_080_person_22">Admiral [Elmo R., Jr.] Zumwalt’s</persName> staff—I don’t know if you ever heard of <persName ref="#dvp_080_person_23">Admiral Zumwalt</persName>, but he was—at the time, he was <orgName ref="#dvp_080_org_178">Commander, Naval Forces Vietnam [COMNAVFORV]</orgName>, and—based in <placeName ref="#dvp_080_place_130">Saigon</placeName>. And his office had a public affairs office group as well.And so I would send my press release to—into them every day, and every other unit operating in the area was required to do the same thing. In other words, the carriers that were operating aircraft would al- —would also submit daily press releases to the—to the <orgName ref="#dvp_080_org_179">COMNAVFORV</orgName>, which stands for <orgName ref="#dvp_080_org_180">Commander, Naval Forces Vietnam</orgName>. And then that office would sort of aggregate all of the—the information that was submitted by the operating units that day.And they would sort of boil it down into one overall press briefing, which was held at a hotel in <placeName ref="#dvp_080_place_131">Saigon</placeName>. I never got to go there, but it used to be held every day at 1700, which is 5 o’clock, and it became known as the 5 O’clock Follies. I’m not really sure why. But all of the major <placeName ref="#dvp_080_place_132">U.S.</placeName> media outlets had teams or reporters at the—in <placeName ref="#dvp_080_place_133">Saigon</placeName> and information that I had prepared at sea from—on—on what we did that day, I would submit to <placeName ref="#dvp_080_place_134">Saigon</placeName>—like, obviously, by—by radio transmission. And then they would release it to—They would—they would—first of all, they would declassify it, and then only they had the authority—when I said—when I left the ship, it was classified information. I mean, you hearing now about <persName ref="#dvp_080_person_24">Hillary [Rodham] Clinton</persName> and classified e-mails? Same thing. I was sending out messages that were—when they left the ship, they only went to the Vietnam—<orgName ref="#dvp_080_org_181">Commander, Naval Forces Vietnam</orgName> office in <placeName ref="#dvp_080_place_135">Saigon</placeName>. They were still classified. And that office had the authority to declassify them so that they could be released to the—to the media. And that happened every day. So I used to do that every day.And this was back bef- —this was totally pre-technology. I literally did my press releases on a manual typewriter. I don’t—I don’t even think we had an electric typewriter. Well, I might have had an <orgName ref="#dvp_080_org_182">IBM</orgName> Selectric. I don’t remember. But I think it was even before the <orgName ref="#dvp_080_org_183">IBM</orgName> Selectric. I would literally punch buttons, keys on a—on a manual typewriter, type my release on green paper, because green is confidential. Secret is yellow. Top secret is pink. So I would—I would type my press release on green paper, which is confidential, run it through my chain of command, which was the executive officer and the commanding officer, and dispatch it to <placeName ref="#dvp_080_place_136">Saigon</placeName>, or take it to the radio shack to get it dispatched to <placeName ref="#dvp_080_place_137">Saigon</placeName>, where it was declassified and—and released to the press.We also had fairly frequent visits by reporters, who would come out to us by helicopter because we were—we were up and down the coast of <placeName ref="#dvp_080_place_138">Vietnam</placeName> all the time. I mean, literally within—usually within two or three miles of the—of the beach, close enough so you could—you could see pretty clearly the—the—the coast. And it was a beautiful place, by the way. Sort of unfortunate there. It’s a—geographically it was a beautiful place.And we would get frequent visits from <orgName ref="#dvp_080_org_184">CBS News</orgName>, <orgName ref="#dvp_080_org_185">[The] New York Times</orgName>, <orgName ref="#dvp_080_org_186">TIME magazine</orgName>, and <orgName ref="#dvp_080_org_187">United—UPI (United Press International)</orgName>, <orgName ref="#dvp_080_org_188">AP (Associated Press)</orgName>. Reporters would come out by pre-arrangement and pre-clearance, and—and they would typically spend a couple of days with us.And another one of my jobs was to sort of babysit them while they were on board ship. I mean, that’s my word, not the <orgName ref="#dvp_080_org_189">Navy</orgName>’s word. But I was responsible for, you know, making sure that their quarters were adequate and making sure that they knew what time meals were served and where they—where they were served and stuff like that, and just basically be their escort while they were on—on board. So that was I guess almost like a third job that I had. 	But there was—there was—there was never a dull minute while I was on the ship, at least while were in <placeName ref="#dvp_080_place_139">Vietnam</placeName>. Every single day.Another highlight of my period on the—on the <orgName ref="#dvp_080_org_190">New Jersey</orgName> is—do you know who <persName ref="#dvp_080_person_25">Bob Hope</persName> is?</u>
+      <u who="SONNENFELD"><persName ref="#dvp_080_person_26">Bob Hope</persName>. A broadcaster, no?</u>
+      <u who="CHEYNE">No, he was an entertainer. He’s now deceased.</u>
+      <u who="SONNENFELD">Okay, yeah.</u>
+      <u who="CHEYNE">He—he was—I mean, he was—he was very famous in a—in a—back in another era, before you were born. But one of the things that he used to do was he used to travel around the world during the holiday season to visit <orgName ref="#dvp_080_org_191">United States military</orgName>, just to give them a little break from the—from the daily routine and entertainment.Well, he came aboard the <orgName ref="#dvp_080_org_192">USS New Jersey</orgName>, he and his entourage, which had about 40 people in it, on <date when="1968-12-25">Christmas Day in 1968</date>. And they put on a show. You know, he—he was basically a comedian. So he’d put on a show with—with—you know, a comedy show. He typically would have a—some famous singer or singers along with, who would perform musical numbers, and he had a group of young ladies called The <orgName ref="#dvp_080_org_193">Golddiggers</orgName>, who were like a dancing troupe, probably 15 or 20 young ladies in—in costume, who would perform. And that was on <date when="1968-12-25">Christmas Day 1968</date>.And I think they were only on board that—like, they came out in the morning, probably from <placeName ref="#dvp_080_place_140">Saigon</placeName>, and they unloaded, set up—they actually did their—their show on top of one of the turrets. The turret is where the guns are located, but they’re very large, space wise. On top of Turret 2. And the entire crew, which was 1,700 people, was basically massed on the—on the—on the main deck, forward, so they could all watch the show. I mean, a few people had to stay by because they had to continue to operate the ship, even while he was aboard. But they put on their show, and probably took a couple of hours, and at the end of the show, they—they packed up and they—they flew off. So they were there only, literally, <date when="1968-12-25">Christmas Day 1968</date>. But I remember it to this day. And if you ask your parents, they might remember who <persName ref="#dvp_080_person_27">Bob Hope</persName> was.</u>
+      <u who="SONNENFELD">Mm-hm.</u>
+      <u who="CHEYNE">Maybe your grandparents.</u>
+      <u who="SONNENFELD">So you—then you—you were still in [the] <orgName ref="#dvp_080_org_194">Navy</orgName>, but you were reassigned elsewhere, other than <placeName ref="#dvp_080_place_141">Vietnam</placeName>?</u>
+      <u who="CHEYNE">No, I was reassigned to <placeName ref="#dvp_080_place_142">Newport, Rhode Island</placeName>.</u>
+      <u who="SONNENFELD"><placeName ref="#dvp_080_place_143">Newport</placeName>, right.</u>
+      <u who="CHEYNE">Yeah. First of all, my—my obligation from <orgName ref="#dvp_080_org_195">OCS</orgName>—and everybody who goes into the service starts out with a—with an obligated period of service. My obligation was—was three years from the date of commissioning, which was <date when="1968-02-02">February 2nd, 1968</date>. The commanding officer of my ship, who was a captain, a four-striper,—well, first of all, after <placeName ref="#dvp_080_place_144">Vietnam</placeName> we came back to the West—West Coast of the <placeName ref="#dvp_080_place_145">United States</placeName>, and I stayed aboard [the] <orgName ref="#dvp_080_org_196">New Jersey</orgName>. We got—we back in <date when="1969-04">April</date>. I came east to get married in <date when="1969-05">May</date> and then drove back across the country with my—my first wife, still in <date when="1969-05">May</date>, back to <placeName ref="#dvp_080_place_146">Long Beach</placeName>, where we were—we were home ported. And then we had—we had a midshipman cruise. Midshipman is the freshman class at the <orgName ref="#dvp_080_org_197">United States Naval Academy</orgName>, and they—they are required to go on a cruise every—you know, at the end of their freshman year, basically, I guess. So we had a midshipman cruise, and we had about 150—I don’t know—I’m not sure what they call them—midshipmen. That’s what they call them, midshipmen, which are stud- —literally students at the <orgName ref="#dvp_080_org_198">United States Naval Academy</orgName>.And we had about 150 of them assigned to us for a period of six or eight weeks, and we went—we—we went back out to sea. We went to <placeName ref="#dvp_080_place_147">Hawaii</placeName>, back to <placeName ref="#dvp_080_place_148">Pearl Harbor</placeName>, and then we went up to <placeName ref="#dvp_080_place_149">Oakland, California</placeName>, and then we went to <placeName ref="#dvp_080_place_150">Tacoma, Washington</placeName>, up <placeName ref="#dvp_080_place_151">Puget Sound</placeName>.</u>
+      <u who="SONNENFELD">Mm-hm.</u>
+      <u who="SONNENFELD">Mm-hm.</u>
+      <u who="CHEYNE">—I did. I mean, it was—it was a lay-up. I mean, it was automatic. So I—so I agreed to extend my—my obligation for a year, and I—I left the <placeName ref="#dvp_080_place_152">New Jersey</placeName> in—someti- —I think it was in <date>August of 1968</date>, and my—my—my wife and I—my then wife and I, first wife, drove back across the country from <placeName ref="#dvp_080_place_153">Long Beach</placeName> back to <placeName ref="#dvp_080_place_154">the East Coast</placeName>, and we first went up to <placeName ref="#dvp_080_place_155">Stoneham</placeName> to see my parents and her parents, and then within a few days, I had to go down to <placeName ref="#dvp_080_place_156">Newport</placeName>.And my—my recollection is that when I first started in—in <placeName ref="#dvp_080_place_157">Newport</placeName>, we didn’t have a place to live down there, so I—I went down there by myself and—and—began—began my new assignment. And it didn’t take long, like a couple of weeks, before we were able to find a place, an apartment, a place to live off base in <placeName ref="#dvp_080_place_158">Newport</placeName>, and then she came down and joined me, and I spent the rest of my <orgName ref="#dvp_080_org_199">Navy</orgName> career in—in <placeName ref="#dvp_080_place_159">Newport</placeName>, <placeName ref="#dvp_080_place_160">Rhode Island</placeName>, and I was RAD, released from active duty, in probably <date>August of 1971</date>.</u>
+      <u who="CHEYNE">And the primary purpose of all this was—you know, was to give the midshipmen some sea- —seagoing experience. That was sort of the purpose of a midshipman cruise. And 	so, you know, they get assigned various duties on the ship.And so we—we get back from <placeName ref="#dvp_080_place_161">Vietnam</placeName> in <date when="1969-05">May.</date> I go home, get married, go back to the West Coast. Then the midshipman cruise probably started in <date when="1969-06">June</date> and took about two months, and then we came back into <placeName ref="#dvp_080_place_162">Long Beach</placeName>, and we had originally been scheduled to return to <placeName ref="#dvp_080_place_163">Vietnam</placeName> in the fall of—of <date when="1969">’69</date>, but because of budget cuts or political activity—I’m not really sure exactly what—what happened, but our second deployment was cancelled.And the ship was ordered to be decommissioned once again, I think up in <placeName ref="#dvp_080_place_164">Bremerton, Washington</placeName>. And meanwhile, the commanding officer of the ship, whose name was Captain, <persName ref="#dvp_080_person_28">[J. Edward] “Ed” Snyder</persName>, was—everybody gets reassigned. He got reassigned to be the chief of staff in <placeName ref="#dvp_080_place_165">Newport, Rhode Island</placeName>, for the <orgName ref="#dvp_080_org_200">Commander, Cruiser-Destroyer Force, Atlantic Fleet [now part of Commander, Naval Surface Force Atlantic]</orgName>. And because I had estab- —you know, because of the work—my job that I had on the ship, I had established a—almost a personal relationship with—with the captain, which was fairly unusual in the <orgName ref="#dvp_080_org_201">military</orgName>, where—where I—at this point, I was a lieutenant JG [junior grade], which is one step up from ensign. And he’s a—a four-striper, a captain. And yet I had established a—a semi-personal relationship with him, simply because I—I dealt with him every day while we were over in <placeName ref="#dvp_080_place_166">Vietnam</placeName>.And so he gets—he gets orders to go to <placeName ref="#dvp_080_place_167">Newport</placeName> to be commander of the <orgName ref="#dvp_080_org_202">cruiser and destroyer force</orgName>. And by this point, I had been in the <orgName ref="#dvp_080_org_203">Navy</orgName>—this is <date when="1969-08">August of ’69</date>. I had been—I had been in the <orgName ref="#dvp_080_org_204">Navy</orgName> since, like, <date when="1967-09">September of ’67</date>, so I was—I was coming up for a reassignment, myself. And one day, the captain called me into his cabin on the ship, and he—he told me about his new assignment. He was going to <placeName ref="#dvp_080_place_168">Newport, Rhode Island</placeName>. And he said, “[Gee?; 1:20:04], would you have any interest in coming with me?” He knew I came from the <placeName ref="#dvp_080_place_169">Boston</placeName> area, and he knew that I had just recently been married.And I said, “Absolutely I would.” The only issue was, and it was not a problem for me, but I had to agree to extend for a year. In other words, I had—I had a three-year obligation. I had completed two, so I had one year left, and the assignment to—to <placeName ref="#dvp_080_place_170">Newport</placeName>, in—to the public affairs office in <placeName ref="#dvp_080_place_171">Newport</placeName>, was a two-year assignment, so the <orgName ref="#dvp_080_org_205">Bureau of Personnel</orgName>, which is in <placeName ref="#dvp_080_place_172">Washington</placeName>—affectionately known as <orgName ref="#dvp_080_org_206">BuPers</orgName> [pronounced BYU-PERZ]—everything is abbreviated in the <orgName ref="#dvp_080_org_207">Navy</orgName>—the <orgName ref="#dvp_080_org_208">Bureau of Personnel</orgName> informed me—I forget what the form of communication was, but they in- —informed me that I was—I had been recommended for assignment to the <orgName ref="#dvp_080_org_209">Cruiser and Destroyer Force, Atlantic Fleet</orgName>, in <placeName ref="#dvp_080_place_173">Newport, Rhode Island</placeName>. But in order to accept the assignment, I would have to agree to extend my obligation for one year which I—</u>
+      <u who="SONNENFELD">Mm-hm.</u>
+      <u who="CHEYNE">Four years. So I served a total of four years, so I had roughly two years aboard [the] <orgName ref="#dvp_080_org_210">New Jersey</orgName>, including <placeName ref="#dvp_080_place_174">Vietnam</placeName>, and then two years in <placeName ref="#dvp_080_place_175">Newport</placeName>.</u>
+      <u who="SONNENFELD">And what was your primary responsibilities in <placeName ref="#dvp_080_place_176">Newport</placeName>?</u>
+      <u who="CHEYNE">Similar to what I had done on the ship. I was the assistant public affairs officer. On the ship, I was the public affairs officer, because it was—you know, the ship only had 1,700 people, so it didn’t merit a whole office. The <orgName ref="#dvp_080_org_211">Cruiser-Destroyer Force, Atlantic Fleet</orgName>, was respons- —responsible for about 50 vessels, 50 ships. And I was the assistant public affairs officer, and I dealt with media relative to inquiries about <orgName ref="#dvp_080_org_212">Atlantic Fleet</orgName> operations. I think we published, like, a monthly newsletter, which I—I worked on. And we had public affairs staff. But I basically dealt with—with the news media in connection with activities that were going on at this point, now, in the <orgName ref="#dvp_080_org_213">Atlantic Fleet</orgName>. But it was a shore-based duty. I lived first in—in <placeName ref="#dvp_080_place_177">Newport, Rhode Island</placeName>, and then subsequently in Middleton, Rhode Island—or, I’m sorry, Middletown, not Middleton—<placeName ref="#dvp_080_place_178">Middletown, Rhode Island</placeName>. And my—my first and turned out to be only child, a girl, was born at the <placeName ref="#dvp_080_place_179">Newport Navy Hospital</placeName> in <date when="1970-02">February of 1970</date>. For a total of seven dollars and fifty cents.</u>
+      <u who="SONNENFELD">[Chuckles.] How’s that?</u>
+      <u who="CHEYNE">Health care in the <orgName ref="#dvp_080_org_214">military</orgName> is—is part of the deal,—</u>
+      <u who="SONNENFELD">Ah. Right.</u>
+      <u who="CHEYNE">—including family, so my—there’s a <placeName ref="#dvp_080_place_180">Newport</placeName>—at the time, there was a hospital in <placeName ref="#dvp_080_place_181">Newport</placeName> called the <orgName ref="#dvp_080_org_215">Newport Navy Hospital</orgName>, which obviously was entirely staffed by <orgName ref="#dvp_080_org_216">Navy</orgName> medical personnel. And that’s where my—my wife delivered our child. And the only thing I had to pay for was her—her meals, and it was seven dollars and fifty cents for, like, three days. I don’t know how they did it for that cheap, but they did.</u>
+      <u who="SONNENFELD">So at that point, <date when="1970">1970</date>, you were finishing up with your commission. What were your—what were your plans for your own employment and for your family?</u>
+      <u who="CHEYNE">Well, it was <date when="1971">’71</date> when I—when I got—ultimately got discharged. My baby was born in <date when="1970">1970</date>, but I got out of the <orgName ref="#dvp_080_org_217">Navy</orgName> in <date when="1971-08">August of ’71</date>. And I had—I had earned a degree, a master of science degree in communications from <orgName ref="#dvp_080_org_218">Syracuse University</orgName>, which I mentioned earlier in this conversation, and my—my hope and intent at the time was to pursue a career in the—in the television industry, and so I literally started, probably the way a lot of—except we didn’t have any technology in those days, but, you know, you put together a résumé, and you send it to the various and sundry television stations and outlets. And I ended up getting hired by the television station where my father worked. And I’m sure that he had some role in helping me get that assignment. And I became a—a public affairs producer at a television station in <placeName ref="#dvp_080_place_182">Boston</placeName>, where I—which—it was an assignment that lasted about a year and a half, because the station was Channel 5—was at the time, even when I started, involved in a license—an <orgName ref="#dvp_080_org_219">FAA [sic; FCC, Federal Communications Commission]</orgName> license dispute with another entity, and they ended up losing the case, and went all the way to the <orgName ref="#dvp_080_org_220">Supreme Court of the United States</orgName>, but they—they lost the case in <date when="1972">1972</date>, I want to say, early <date when="1972">1972</date>. So I—I worked there for a y- —maybe less than a year, producing programming for a—a weekly public affairs show.And then a year after getting out of the <orgName ref="#dvp_080_org_221">Navy</orgName> and working at a television station, I was once again looking for work. I now had a wife and an - and an eight-month- or ten-month-old child. Maybe it was a year old. But a baby, anyway. And I—I poked around the—the <placeName ref="#dvp_080_place_183">Boston</placeName> area, and somehow I ended up hearing about a—a—a job working for the lieutenant governor of <orgName ref="#dvp_080_org_222">Massachusetts</orgName> as—as his press secretary. His name was <persName ref="#dvp_080_person_29">Donald R. Dwight</persName>. He was lieutenant governor when <persName ref="#dvp_080_person_30">Francis Sargent</persName> was governor. This was <date when="1972">1972</date>.And I ended up getting hired, and I worked in the <placeName ref="#dvp_080_place_184">[Massachusetts] State House</placeName> in <placeName ref="#dvp_080_place_185">Boston</placeName>. Have you ever been to <placeName ref="#dvp_080_place_186">the State House</placeName> in <placeName ref="#dvp_080_place_187">Boston</placeName>? Or do you know where it is?</u>
+      <u who="SONNENFELD">I have not.</u>
+      <u who="CHEYNE">It’s right across from the—the <placeName ref="#dvp_080_place_188">Boston Common</placeName>? Yeah, <placeName ref="#dvp_080_place_189">Boston Common</placeName>. Anyway, I worked there a couple of years, and then he or they ran for reelection in <date when="1974">1974</date>, and they got defeated by <persName ref="#dvp_080_person_31">Michael [S.] Dukakis</persName>. Ever heard of him?</u>
+      <u who="SONNENFELD">Mm-hm. I certainly have.</u>
+      <u who="CHEYNE"><persName ref="#dvp_080_person_32">Frank Sargent</persName> was—was beaten by <persName ref="#dvp_080_person_33">Michael Dukakis</persName>. And so after another short stint of probably two years, I was out on the street again, looking for work. And during the process of the election campaign—that was at a time—back in a day when candidates for office, for public office, would frequently hire full-service advertising agencies to do their campaign advertising. It doesn’t work that way anymore, but that’s the way it worked then.And so we—while I was working for—for <persName ref="#dvp_080_person_34">Don Dwight</persName> as his—his public affairs officer—I think that’s what it was called—or press officer, something like that, media relations officer—I was involved in—in the advertising agency review process, and I met the principals of an agency, a then startup of—virtually a startup agency called <orgName ref="#dvp_080_org_223">Hill, Holliday</orgName> in <placeName ref="#dvp_080_place_190">Boston</placeName>.</u>
+      <u who="SONNENFELD">Mm-hm.</u>
+      <u who="CHEYNE">And I got to know—I got to know a couple of the—you know, at the time, the agency was—was so small that literally it was the owners of the agency who came to make presentations for business. And I got to know a couple of the owners, and during the process of the campaign—we ended up with a different agency, by the way; we ended up with an agency out of <placeName ref="#dvp_080_place_191">New York</placeName>. But while the campaign was going on, one of the owners of the—of the advertising agency, <orgName ref="#dvp_080_org_224">Hill, Holliday</orgName>, called me and asked me if I wanted to go to work for him, because he was thinking of starting a—the political advertising unit. And because of the commitment that I had or that I felt to <persName ref="#dvp_080_person_35">Governor Sargent</persName> and <persName ref="#dvp_080_person_36">Lieutenant Governor Dwight</persName>, I say—I said to him, “I appreciate it, but I’m really committed to these guys until the end of the campaign, or through the campaign, and so I’m afraid I can’t take you up on your offer.” And he said, “Okay, stay in touch.” And so that was the end of that.Well, next thing is along comes the election in <date when="1974">November of ’74</date>, and <persName ref="#dvp_080_person_37">Michael Dukakis</persName> beat <persName ref="#dvp_080_person_38">Frank Sargent</persName>, so I was going to be out on the street again, for, like, the third time in six years.</u>
+      <u who="SONNENFELD">Right.</u>
+      <u who="CHEYNE">And so I—I called this—this—<persName ref="#dvp_080_person_39">Jack Connors [Jr.]</persName> was his name. He was the Connors of <orgName ref="#dvp_080_org_225">Hill, Holliday, Connors[, Cosmopulos]</orgName>, because [Mark was? 1:30:50]—I—I called him and said—you know, reintroduced myself. I hadn’t spoken to him for several weeks, if not months. And I said, “Is the offer you made to me last summer—is that still on the table?” And he said, “No.” And then there was a brief pause, and then he said, “But if you’d like to, we can get together—you know, get together for lunch and chat.”So I took him up on that offer, and, you know, a week later I had lunch with him, and the bottom line is he—he sort of rethought his—his needs, and he offered me a job running the—the public relations department or division of <orgName ref="#dvp_080_org_226">Hill, Holliday</orgName>. That was in—I actually got hired in probably <date when="1974-12">December of 1974</date>, just as the—as the <orgName ref="#dvp_080_org_227">Sargent administration</orgName> was winding down, and I actually began work in <date when="1975-01">January of 1975</date>. And I—and I worked there for 32 years. And that’s where I basically retired from, in round numbers, <date when="2007">2007</date>.I—I—I stayed on as a consultant. I did some freelance stuff, and I—and I did some—sort of some part-time stuff, but my—my formal career with <orgName ref="#dvp_080_org_228">Hill, Holliday</orgName> ended in—in—in—at the end of <date when="2006">2006</date>, beginning of <date when="2007">2007</date>.</u>
+      <u who="SONNENFELD">Mm-hm. And do you think that your experience in <name type="event" ref="#dvp_080_event_13">Vietnam</name>, other than the nature of sort of practice with press relations, had any lasting impact on—on how you conducted yourself in the office or—and so forth?</u>
+      <u who="CHEYNE">Yes, I definitely do. In terms of all that I did in my life professionally or work wise, the—the two institutions that most contributed to my—whatever success that I had, and it wasn’t huge, but the two institutions that made—made the greatest contributions were <orgName ref="#dvp_080_org_229">Dartmouth College</orgName> and the <orgName ref="#dvp_080_org_230">United States Navy</orgName>. And I think the—the most important thing that I—that I took away from both of those places—the first one is an ability to write. I mean, I’m—I’m not a—I’m not a novelist or—or a—or a fiction writer, but I—I—I—I can write fairly decently. At least I could.And the other was what I call attention to detail. Particularly in the <orgName ref="#dvp_080_org_231">military</orgName>, you have to constantly be aware of the details of what you’re doing and what—what the implications are and what’s involved and so forth, or you’re going to get hurt, or you’re going to go—go astray.But I really didn’t know how well I could write until—until actually I was in the <orgName ref="#dvp_080_org_232">Navy</orgName> and I—and I started writing these daily press releases, and then I ended up writing the ship’s history. And I—I think that my—my <orgName ref="#dvp_080_org_233">Dartmouth</orgName> experience was the greatest contributor to that discipline. And then I sort of was able to refine it and hone it or practice it while I was—was in the <orgName ref="#dvp_080_org_234">Navy</orgName>.</u>
+      <u who="SONNENFELD">Mm-hm. Great. Well, <persName ref="#dvp_080_person_40">Scott</persName>, if—if you don’t—if you—unless you have any final thoughts you want to include, I think that might be a good note to conclude on.</u>
+      <u who="CHEYNE">One of the—there is—there’s one other dynamic that you haven’t asked me about that I’d just like to—</u>
+      <u who="SONNENFELD">Sure.</u>
+      <u who="CHEYNE">—to comment briefly on.</u>
+      <u who="SONNENFELD">Absolutely.</u>
+      <u who="CHEYNE">When I was still a student at <orgName ref="#dvp_080_org_235">Dartmouth</orgName> and heading to <orgName ref="#dvp_080_org_236">Syracuse</orgName> and thinking about military service, that was <date when="1966">1966</date>—<date when="1965">’65</date>, <date when="1966">’66</date>—the beginnings of the antiwar movement in the <placeName ref="#dvp_080_place_192">United States</placeName> had—had started to show. There was—as you may know, there was a fair amount of public opposition to our presence in <placeName ref="#dvp_080_place_193">Vietnam</placeName> and <name type="event" ref="#dvp_080_event_14">the war in Vietnam</name>. And it just sort of began, I would say, in sixty- —at least in my perception—<date when="1965">’65</date>, <date when="1966">’66</date>. And I didn’t really think a lot about it or I didn’t pay a lot of attention to it. It didn’t bother me.By the time I came back from <placeName ref="#dvp_080_place_194">Vietnam</placeName>, which was <date when="1969">’69</date>—was it <date when="1969">’69</date>? Yeah, I was there <date when="1968">’68</date>, <date when="1969">’69</date>. While I was over there, presumably, and by the time I came back, the—the—the public opposition to our presence in <placeName ref="#dvp_080_place_195">Vietnam</placeName> had increased fairly significantly. And as a result, people who were in the <orgName ref="#dvp_080_org_237">military</orgName> at the time were sort of the brunt of public expressions of displeasure.And I—I felt a little—I felt it more after I got back than I did before I went. I didn’t feel it at all while I was over there. But I became aware of it after I got back, and that sort of bothered me a little bit. But it’s sort of an aside. I mean, it didn’t really have a major impact on my life, but I just—you said is there anything else I wanted to add, and I just thought that would be appropriate to include in your—in your research.How many people are you talking to, approximately? Like, hundreds, or dozens, or tens, or?</u>
+      <u who="SONNENFELD">I personally have only interviewed a handful, but the—but <orgName ref="#dvp_080_org_238">DVP</orgName> as an organization has probably—approaching 20 or—somewhere between 20 and 40 interviews, I would guess.[Transcriber's note: I personally have transcribed 191 interviews so far from 2012 to 10/12/17.]</u>
+      <u who="CHEYNE">Yeah, okay. I mean, my—my guess is, or my assumption is that you’re talking to people who—who served over there but that you’re also talking to people who didn’t serve at all, or at least didn’t serve over there, and—including some people who had—were politically opposed to the—to the effort. </u>
+      <u who="SONNENFELD">Right.</u>
+      <u who="CHEYNE">So there’s a series of them. And—and—and you should. I mean, if you haven’t, you should, because that was part of the whole <name type="event" ref="#dvp_080_event_15">Vietnam</name> experience. And I know that I—I—my 50th reunion is just this week, and as part of it, they publish a yearbook that my class did, with little bios from everybody in the class, and it’s a—it’s a very well put together piece, and it’s got a—one of the questions that they asked was <name type="event" ref="#dvp_080_event_16">Vietnam</name> and your experience and recollections and yadda, yadda. And there were a lot of guys who served over there who talk about their experience, but there were also some people who were actively opposed to <name type="event" ref="#dvp_080_event_17">the effort in Vietnam</name>, including at least one that I know of, who relocated to <placeName ref="#dvp_080_place_196">Canada</placeName> and ultimately became a Canadian citizen as a result of his opposition to the—to <name type="event" ref="#dvp_080_event_18">the Vietnam War</name>. And that whole dynamic is I think an important part of the—of the whole project, or at least it should be, in my view.</u>
+      <u who="SONNENFELD">Mm-hm.  Yeah, those are definitely narratives we’re—we’re recording. Anyway, thank you again, <persName ref="#dvp_080_person_41">Scott</persName>, for your time. It’s been a pleasure.</u>
+      <u who="CHEYNE">Okay. </u>
+      <u who="SONNENFELD">And, yeah, I hope you enjoy your 50th reunion later this week.[End of interview.]</u>
+    </body>
+  </text>
+  <standOff>
+    <listPlace>
+      <place xml:id="dvp_080_place_0">
+        <placeName>Hanover, New Hampshire</placeName>
+      </place>
+      <place xml:id="dvp_080_place_1">
+        <placeName>Boxford, Massachusetts</placeName>
+      </place>
+      <place xml:id="dvp_080_place_2">
+        <placeName>Boston</placeName>
+      </place>
+      <place xml:id="dvp_080_place_3">
+        <placeName>Stoneham, Massachusetts</placeName>
+      </place>
+      <place xml:id="dvp_080_place_4">
+        <placeName>Stoneham</placeName>
+      </place>
+      <place xml:id="dvp_080_place_5">
+        <placeName>Stoneham</placeName>
+      </place>
+      <place xml:id="dvp_080_place_6">
+        <placeName>Boston</placeName>
+      </place>
+      <place xml:id="dvp_080_place_7">
+        <placeName>Boston</placeName>
+      </place>
+      <place xml:id="dvp_080_place_8">
+        <placeName>Stoneham, Massachusetts</placeName>
+      </place>
+      <place xml:id="dvp_080_place_9">
+        <placeName>Boston</placeName>
+      </place>
+      <place xml:id="dvp_080_place_10">
+        <placeName>Caen, France</placeName>
+      </place>
+      <place xml:id="dvp_080_place_11">
+        <placeName>Normandy</placeName>
+      </place>
+      <place xml:id="dvp_080_place_12">
+        <placeName>Paris</placeName>
+      </place>
+      <place xml:id="dvp_080_place_13">
+        <placeName>English Channel</placeName>
+      </place>
+      <place xml:id="dvp_080_place_14">
+        <placeName>Boston</placeName>
+      </place>
+      <place xml:id="dvp_080_place_15">
+        <placeName>Maine</placeName>
+      </place>
+      <place xml:id="dvp_080_place_16">
+        <placeName>Dartmouth</placeName>
+      </place>
+      <place xml:id="dvp_080_place_17">
+        <placeName>France</placeName>
+      </place>
+      <place xml:id="dvp_080_place_18">
+        <placeName>Sanborn House</placeName>
+      </place>
+      <place xml:id="dvp_080_place_19">
+        <placeName>Baker Library [Fisher Ames Baker Memorial Library, now Baker-Berry Library]</placeName>
+      </place>
+      <place xml:id="dvp_080_place_20">
+        <placeName>Dartmouth</placeName>
+      </place>
+      <place xml:id="dvp_080_place_21">
+        <placeName>Thayer [School of Engineering]</placeName>
+      </place>
+      <place xml:id="dvp_080_place_22">
+        <placeName>Hanover</placeName>
+      </place>
+      <place xml:id="dvp_080_place_23">
+        <placeName>Dartmouth</placeName>
+      </place>
+      <place xml:id="dvp_080_place_24">
+        <placeName>Skidmore [College]</placeName>
+      </place>
+      <place xml:id="dvp_080_place_25">
+        <placeName>Green Mountain [Junior College, now Green Mountain College]</placeName>
+      </place>
+      <place xml:id="dvp_080_place_26">
+        <placeName>Colby [Junior College for Women]</placeName>
+      </place>
+      <place xml:id="dvp_080_place_27">
+        <placeName>Colby-Sawyer [College]</placeName>
+      </place>
+      <place xml:id="dvp_080_place_28">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="dvp_080_place_29">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="dvp_080_place_30">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="dvp_080_place_31">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="dvp_080_place_32">
+        <placeName>Newport, Rhode Island</placeName>
+      </place>
+      <place xml:id="dvp_080_place_33">
+        <placeName>Newport</placeName>
+      </place>
+      <place xml:id="dvp_080_place_34">
+        <placeName>Syracuse</placeName>
+      </place>
+      <place xml:id="dvp_080_place_35">
+        <placeName>Boston, Massachusetts</placeName>
+      </place>
+      <place xml:id="dvp_080_place_36">
+        <placeName>Newport</placeName>
+      </place>
+      <place xml:id="dvp_080_place_37">
+        <placeName>Newport [Rhode Island]</placeName>
+      </place>
+      <place xml:id="dvp_080_place_38">
+        <placeName>Boston</placeName>
+      </place>
+      <place xml:id="dvp_080_place_39">
+        <placeName>Newport</placeName>
+      </place>
+      <place xml:id="dvp_080_place_40">
+        <placeName>Boston</placeName>
+      </place>
+      <place xml:id="dvp_080_place_41">
+        <placeName>Stoneham</placeName>
+      </place>
+      <place xml:id="dvp_080_place_42">
+        <placeName>Philadelphia Naval Shipyard</placeName>
+      </place>
+      <place xml:id="dvp_080_place_43">
+        <placeName>Philadelphia Naval Shipyard</placeName>
+      </place>
+      <place xml:id="dvp_080_place_44">
+        <placeName>Philadelphia</placeName>
+      </place>
+      <place xml:id="dvp_080_place_45">
+        <placeName>Philadelphia</placeName>
+      </place>
+      <place xml:id="dvp_080_place_46">
+        <placeName>Newport</placeName>
+      </place>
+      <place xml:id="dvp_080_place_47">
+        <placeName>Newport</placeName>
+      </place>
+      <place xml:id="dvp_080_place_48">
+        <placeName>Newport</placeName>
+      </place>
+      <place xml:id="dvp_080_place_49">
+        <placeName>Newport</placeName>
+      </place>
+      <place xml:id="dvp_080_place_50">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="dvp_080_place_51">
+        <placeName>Newport</placeName>
+      </place>
+      <place xml:id="dvp_080_place_52">
+        <placeName>Philadelphia Naval Shipyard</placeName>
+      </place>
+      <place xml:id="dvp_080_place_53">
+        <placeName>Boston</placeName>
+      </place>
+      <place xml:id="dvp_080_place_54">
+        <placeName>Stoneham</placeName>
+      </place>
+      <place xml:id="dvp_080_place_55">
+        <placeName>Boston</placeName>
+      </place>
+      <place xml:id="dvp_080_place_56">
+        <placeName>Philadelphia</placeName>
+      </place>
+      <place xml:id="dvp_080_place_57">
+        <placeName>Philadelphia Naval Shipyard</placeName>
+      </place>
+      <place xml:id="dvp_080_place_58">
+        <placeName>Delaware River</placeName>
+      </place>
+      <place xml:id="dvp_080_place_59">
+        <placeName>Philadelphia</placeName>
+      </place>
+      <place xml:id="dvp_080_place_60">
+        <placeName>base at Philadelphia</placeName>
+      </place>
+      <place xml:id="dvp_080_place_61">
+        <placeName>Philadelphia</placeName>
+      </place>
+      <place xml:id="dvp_080_place_62">
+        <placeName>Philadelphia</placeName>
+      </place>
+      <place xml:id="dvp_080_place_63">
+        <placeName>Tennessee</placeName>
+      </place>
+      <place xml:id="dvp_080_place_64">
+        <placeName>Philadelphia</placeName>
+      </place>
+      <place xml:id="dvp_080_place_65">
+        <placeName>Philadelphia</placeName>
+      </place>
+      <place xml:id="dvp_080_place_66">
+        <placeName>Delaware River</placeName>
+      </place>
+      <place xml:id="dvp_080_place_67">
+        <placeName>Philadelphia</placeName>
+      </place>
+      <place xml:id="dvp_080_place_68">
+        <placeName>Philadelphia</placeName>
+      </place>
+      <place xml:id="dvp_080_place_69">
+        <placeName>Norfolk, Virginia</placeName>
+      </place>
+      <place xml:id="dvp_080_place_70">
+        <placeName>United States</placeName>
+      </place>
+      <place xml:id="dvp_080_place_71">
+        <placeName>U.S.</placeName>
+      </place>
+      <place xml:id="dvp_080_place_72">
+        <placeName>Mediterranean</placeName>
+      </place>
+      <place xml:id="dvp_080_place_73">
+        <placeName>Norfolk, Virginia</placeName>
+      </place>
+      <place xml:id="dvp_080_place_74">
+        <placeName>Philadelphia</placeName>
+      </place>
+      <place xml:id="dvp_080_place_75">
+        <placeName>Norfolk</placeName>
+      </place>
+      <place xml:id="dvp_080_place_76">
+        <placeName>United States</placeName>
+      </place>
+      <place xml:id="dvp_080_place_77">
+        <placeName>Cuba</placeName>
+      </place>
+      <place xml:id="dvp_080_place_78">
+        <placeName>Cuba</placeName>
+      </place>
+      <place xml:id="dvp_080_place_79">
+        <placeName>Cuba</placeName>
+      </place>
+      <place xml:id="dvp_080_place_80">
+        <placeName>Cuba</placeName>
+      </place>
+      <place xml:id="dvp_080_place_81">
+        <placeName>Gulf of Mexico</placeName>
+      </place>
+      <place xml:id="dvp_080_place_82">
+        <placeName>Panama Canal</placeName>
+      </place>
+      <place xml:id="dvp_080_place_83">
+        <placeName>Canal</placeName>
+      </place>
+      <place xml:id="dvp_080_place_84">
+        <placeName>Long Beach, California</placeName>
+      </place>
+      <place xml:id="dvp_080_place_85">
+        <placeName>canal</placeName>
+      </place>
+      <place xml:id="dvp_080_place_86">
+        <placeName>United States</placeName>
+      </place>
+      <place xml:id="dvp_080_place_87">
+        <placeName>Long Beach</placeName>
+      </place>
+      <place xml:id="dvp_080_place_88">
+        <placeName>Long Beach</placeName>
+      </place>
+      <place xml:id="dvp_080_place_89">
+        <placeName>Long Beach</placeName>
+      </place>
+      <place xml:id="dvp_080_place_90">
+        <placeName>San Diego [California]</placeName>
+      </place>
+      <place xml:id="dvp_080_place_91">
+        <placeName>California</placeName>
+      </place>
+      <place xml:id="dvp_080_place_92">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="dvp_080_place_93">
+        <placeName>Long Beach</placeName>
+      </place>
+      <place xml:id="dvp_080_place_94">
+        <placeName>San Diego</placeName>
+      </place>
+      <place xml:id="dvp_080_place_95">
+        <placeName>Long Beach</placeName>
+      </place>
+      <place xml:id="dvp_080_place_96">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="dvp_080_place_97">
+        <placeName>Honolulu, in Hawaii</placeName>
+      </place>
+      <place xml:id="dvp_080_place_98">
+        <placeName>[the Naval Station] Pearl Harbor</placeName>
+      </place>
+      <place xml:id="dvp_080_place_99">
+        <placeName>Pearl Harbor</placeName>
+      </place>
+      <place xml:id="dvp_080_place_100">
+        <placeName>Arizona</placeName>
+      </place>
+      <place xml:id="dvp_080_place_101">
+        <placeName>Pearl Harbor</placeName>
+      </place>
+      <place xml:id="dvp_080_place_102">
+        <placeName>Pearl Harbor</placeName>
+      </place>
+      <place xml:id="dvp_080_place_103">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="dvp_080_place_104">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="dvp_080_place_105">
+        <placeName>Midway [Atoll]</placeName>
+      </place>
+      <place xml:id="dvp_080_place_106">
+        <placeName>Wake [Island]</placeName>
+      </place>
+      <place xml:id="dvp_080_place_107">
+        <placeName>Guam</placeName>
+      </place>
+      <place xml:id="dvp_080_place_108">
+        <placeName>Midway</placeName>
+      </place>
+      <place xml:id="dvp_080_place_109">
+        <placeName>Wake</placeName>
+      </place>
+      <place xml:id="dvp_080_place_110">
+        <placeName>Guam</placeName>
+      </place>
+      <place xml:id="dvp_080_place_111">
+        <placeName>Hawaii</placeName>
+      </place>
+      <place xml:id="dvp_080_place_112">
+        <placeName>United States</placeName>
+      </place>
+      <place xml:id="dvp_080_place_113">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="dvp_080_place_114">
+        <placeName>North Vietnam</placeName>
+      </place>
+      <place xml:id="dvp_080_place_115">
+        <placeName>North Vietnam</placeName>
+      </place>
+      <place xml:id="dvp_080_place_116">
+        <placeName>DMZ, which stands for Demilitarized Zone</placeName>
+      </place>
+      <place xml:id="dvp_080_place_117">
+        <placeName>North Vietnam</placeName>
+      </place>
+      <place xml:id="dvp_080_place_118">
+        <placeName>North Vietnam</placeName>
+      </place>
+      <place xml:id="dvp_080_place_119">
+        <placeName>South Vietnam</placeName>
+      </place>
+      <place xml:id="dvp_080_place_120">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="dvp_080_place_121">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="dvp_080_place_122">
+        <placeName>the Philippines</placeName>
+      </place>
+      <place xml:id="dvp_080_place_123">
+        <placeName>U.S. Navy base in Subic Bay</placeName>
+      </place>
+      <place xml:id="dvp_080_place_124">
+        <placeName>[Naval Base] Subic Bay</placeName>
+      </place>
+      <place xml:id="dvp_080_place_125">
+        <placeName>Philippines</placeName>
+      </place>
+      <place xml:id="dvp_080_place_126">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="dvp_080_place_127">
+        <placeName>Philippines</placeName>
+      </place>
+      <place xml:id="dvp_080_place_128">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="dvp_080_place_129">
+        <placeName>Saigon</placeName>
+      </place>
+      <place xml:id="dvp_080_place_130">
+        <placeName>Saigon</placeName>
+      </place>
+      <place xml:id="dvp_080_place_131">
+        <placeName>Saigon</placeName>
+      </place>
+      <place xml:id="dvp_080_place_132">
+        <placeName>U.S.</placeName>
+      </place>
+      <place xml:id="dvp_080_place_133">
+        <placeName>Saigon</placeName>
+      </place>
+      <place xml:id="dvp_080_place_134">
+        <placeName>Saigon</placeName>
+      </place>
+      <place xml:id="dvp_080_place_135">
+        <placeName>Saigon</placeName>
+      </place>
+      <place xml:id="dvp_080_place_136">
+        <placeName>Saigon</placeName>
+      </place>
+      <place xml:id="dvp_080_place_137">
+        <placeName>Saigon</placeName>
+      </place>
+      <place xml:id="dvp_080_place_138">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="dvp_080_place_139">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="dvp_080_place_140">
+        <placeName>Saigon</placeName>
+      </place>
+      <place xml:id="dvp_080_place_141">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="dvp_080_place_142">
+        <placeName>Newport, Rhode Island</placeName>
+      </place>
+      <place xml:id="dvp_080_place_143">
+        <placeName>Newport</placeName>
+      </place>
+      <place xml:id="dvp_080_place_144">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="dvp_080_place_145">
+        <placeName>United States</placeName>
+      </place>
+      <place xml:id="dvp_080_place_146">
+        <placeName>Long Beach</placeName>
+      </place>
+      <place xml:id="dvp_080_place_147">
+        <placeName>Hawaii</placeName>
+      </place>
+      <place xml:id="dvp_080_place_148">
+        <placeName>Pearl Harbor</placeName>
+      </place>
+      <place xml:id="dvp_080_place_149">
+        <placeName>Oakland, California</placeName>
+      </place>
+      <place xml:id="dvp_080_place_150">
+        <placeName>Tacoma, Washington</placeName>
+      </place>
+      <place xml:id="dvp_080_place_151">
+        <placeName>Puget Sound</placeName>
+      </place>
+      <place xml:id="dvp_080_place_152">
+        <placeName>New Jersey</placeName>
+      </place>
+      <place xml:id="dvp_080_place_153">
+        <placeName>Long Beach</placeName>
+      </place>
+      <place xml:id="dvp_080_place_154">
+        <placeName>the East Coast</placeName>
+      </place>
+      <place xml:id="dvp_080_place_155">
+        <placeName>Stoneham</placeName>
+      </place>
+      <place xml:id="dvp_080_place_156">
+        <placeName>Newport</placeName>
+      </place>
+      <place xml:id="dvp_080_place_157">
+        <placeName>Newport</placeName>
+      </place>
+      <place xml:id="dvp_080_place_158">
+        <placeName>Newport</placeName>
+      </place>
+      <place xml:id="dvp_080_place_159">
+        <placeName>Newport</placeName>
+      </place>
+      <place xml:id="dvp_080_place_160">
+        <placeName>Rhode Island</placeName>
+      </place>
+      <place xml:id="dvp_080_place_161">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="dvp_080_place_162">
+        <placeName>Long Beach</placeName>
+      </place>
+      <place xml:id="dvp_080_place_163">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="dvp_080_place_164">
+        <placeName>Bremerton, Washington</placeName>
+      </place>
+      <place xml:id="dvp_080_place_165">
+        <placeName>Newport, Rhode Island</placeName>
+      </place>
+      <place xml:id="dvp_080_place_166">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="dvp_080_place_167">
+        <placeName>Newport</placeName>
+      </place>
+      <place xml:id="dvp_080_place_168">
+        <placeName>Newport, Rhode Island</placeName>
+      </place>
+      <place xml:id="dvp_080_place_169">
+        <placeName>Boston</placeName>
+      </place>
+      <place xml:id="dvp_080_place_170">
+        <placeName>Newport</placeName>
+      </place>
+      <place xml:id="dvp_080_place_171">
+        <placeName>Newport</placeName>
+      </place>
+      <place xml:id="dvp_080_place_172">
+        <placeName>Washington</placeName>
+      </place>
+      <place xml:id="dvp_080_place_173">
+        <placeName>Newport, Rhode Island</placeName>
+      </place>
+      <place xml:id="dvp_080_place_174">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="dvp_080_place_175">
+        <placeName>Newport</placeName>
+      </place>
+      <place xml:id="dvp_080_place_176">
+        <placeName>Newport</placeName>
+      </place>
+      <place xml:id="dvp_080_place_177">
+        <placeName>Newport, Rhode Island</placeName>
+      </place>
+      <place xml:id="dvp_080_place_178">
+        <placeName>Middletown, Rhode Island</placeName>
+      </place>
+      <place xml:id="dvp_080_place_179">
+        <placeName>Newport Navy Hospital</placeName>
+      </place>
+      <place xml:id="dvp_080_place_180">
+        <placeName>Newport</placeName>
+      </place>
+      <place xml:id="dvp_080_place_181">
+        <placeName>Newport</placeName>
+      </place>
+      <place xml:id="dvp_080_place_182">
+        <placeName>Boston</placeName>
+      </place>
+      <place xml:id="dvp_080_place_183">
+        <placeName>Boston</placeName>
+      </place>
+      <place xml:id="dvp_080_place_184">
+        <placeName>[Massachusetts] State House</placeName>
+      </place>
+      <place xml:id="dvp_080_place_185">
+        <placeName>Boston</placeName>
+      </place>
+      <place xml:id="dvp_080_place_186">
+        <placeName>the State House</placeName>
+      </place>
+      <place xml:id="dvp_080_place_187">
+        <placeName>Boston</placeName>
+      </place>
+      <place xml:id="dvp_080_place_188">
+        <placeName>Boston Common</placeName>
+      </place>
+      <place xml:id="dvp_080_place_189">
+        <placeName>Boston Common</placeName>
+      </place>
+      <place xml:id="dvp_080_place_190">
+        <placeName>Boston</placeName>
+      </place>
+      <place xml:id="dvp_080_place_191">
+        <placeName>New York</placeName>
+      </place>
+      <place xml:id="dvp_080_place_192">
+        <placeName>United States</placeName>
+      </place>
+      <place xml:id="dvp_080_place_193">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="dvp_080_place_194">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="dvp_080_place_195">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="dvp_080_place_196">
+        <placeName>Canada</placeName>
+      </place>
+    </listPlace>
+    <listEvent>
+      <event xml:id="dvp_080_event_0">
+        <desc>World War II</desc>
+      </event>
+      <event xml:id="dvp_080_event_1">
+        <desc>World War II</desc>
+      </event>
+      <event xml:id="dvp_080_event_2">
+        <desc>the Vietnam War</desc>
+      </event>
+      <event xml:id="dvp_080_event_3">
+        <desc>World War II</desc>
+      </event>
+      <event xml:id="dvp_080_event_4">
+        <desc>Korea [the Korean War]</desc>
+      </event>
+      <event xml:id="dvp_080_event_5">
+        <desc>Korea</desc>
+      </event>
+      <event xml:id="dvp_080_event_6">
+        <desc>Korea</desc>
+      </event>
+      <event xml:id="dvp_080_event_7">
+        <desc>Vietnam</desc>
+      </event>
+      <event xml:id="dvp_080_event_8">
+        <desc>Vietnam</desc>
+      </event>
+      <event xml:id="dvp_080_event_9">
+        <desc>Vietnam</desc>
+      </event>
+      <event xml:id="dvp_080_event_10">
+        <desc>the Japanese attack in 1941</desc>
+      </event>
+      <event xml:id="dvp_080_event_11">
+        <desc>Vietnam</desc>
+      </event>
+      <event xml:id="dvp_080_event_12">
+        <desc>the Vietnam War</desc>
+      </event>
+      <event xml:id="dvp_080_event_13">
+        <desc>Vietnam</desc>
+      </event>
+      <event xml:id="dvp_080_event_14">
+        <desc>the war in Vietnam</desc>
+      </event>
+      <event xml:id="dvp_080_event_15">
+        <desc>Vietnam</desc>
+      </event>
+      <event xml:id="dvp_080_event_16">
+        <desc>Vietnam</desc>
+      </event>
+      <event xml:id="dvp_080_event_17">
+        <desc>the effort in Vietnam</desc>
+      </event>
+      <event xml:id="dvp_080_event_18">
+        <desc>the Vietnam War</desc>
+      </event>
+    </listEvent>
+    <listPerson>
+      <person xml:id="dvp_080_person_0">
+        <persName>Alexa Sonnenfeld</persName>
+      </person>
+      <person xml:id="dvp_080_person_1">
+        <persName>Robert Scott Cheyne</persName>
+      </person>
+      <person xml:id="dvp_080_person_2">
+        <persName>Scott</persName>
+      </person>
+      <person xml:id="dvp_080_person_3">
+        <persName>Shirley [Buckler], last name Cheyne</persName>
+      </person>
+      <person xml:id="dvp_080_person_4">
+        <persName>Robert, Robert B., not Robert S</persName>
+      </person>
+      <person xml:id="dvp_080_person_5">
+        <persName>Smith</persName>
+      </person>
+      <person xml:id="dvp_080_person_6">
+        <persName>Richard [M.] Nixon</persName>
+      </person>
+      <person xml:id="dvp_080_person_7">
+        <persName>Richard M. Nixon</persName>
+      </person>
+      <person xml:id="dvp_080_person_8">
+        <persName>[D.] David Eisenhower [II]</persName>
+      </person>
+      <person xml:id="dvp_080_person_9">
+        <persName>[President] Dwight [D.] Eisenhower</persName>
+      </person>
+      <person xml:id="dvp_080_person_10">
+        <persName>David Eisenhower</persName>
+      </person>
+      <person xml:id="dvp_080_person_11">
+        <persName>Richard Nixon</persName>
+      </person>
+      <person xml:id="dvp_080_person_12">
+        <persName>Nixon</persName>
+      </person>
+      <person xml:id="dvp_080_person_13">
+        <persName>[the Rev. Dr.] Martin Luther King [Jr.]</persName>
+      </person>
+      <person xml:id="dvp_080_person_14">
+        <persName>Fidel Castro</persName>
+      </person>
+      <person xml:id="dvp_080_person_15">
+        <persName>Lyndon [B.] Johnson</persName>
+      </person>
+      <person xml:id="dvp_080_person_16">
+        <persName>Lyndon Johnson</persName>
+      </person>
+      <person xml:id="dvp_080_person_17">
+        <persName>Nixon</persName>
+      </person>
+      <person xml:id="dvp_080_person_18">
+        <persName>Nixon</persName>
+      </person>
+      <person xml:id="dvp_080_person_19">
+        <persName>Lyndon Johnson</persName>
+      </person>
+      <person xml:id="dvp_080_person_20">
+        <persName>Lyndon Johnson</persName>
+      </person>
+      <person xml:id="dvp_080_person_21">
+        <persName>President Johnson</persName>
+      </person>
+      <person xml:id="dvp_080_person_22">
+        <persName>Admiral [Elmo R., Jr.] Zumwalt’s</persName>
+      </person>
+      <person xml:id="dvp_080_person_23">
+        <persName>Admiral Zumwalt</persName>
+      </person>
+      <person xml:id="dvp_080_person_24">
+        <persName>Hillary [Rodham] Clinton</persName>
+      </person>
+      <person xml:id="dvp_080_person_25">
+        <persName>Bob Hope</persName>
+      </person>
+      <person xml:id="dvp_080_person_26">
+        <persName>Bob Hope</persName>
+      </person>
+      <person xml:id="dvp_080_person_27">
+        <persName>Bob Hope</persName>
+      </person>
+      <person xml:id="dvp_080_person_28">
+        <persName>[J. Edward] “Ed” Snyder</persName>
+      </person>
+      <person xml:id="dvp_080_person_29">
+        <persName>Donald R. Dwight</persName>
+      </person>
+      <person xml:id="dvp_080_person_30">
+        <persName>Francis Sargent</persName>
+      </person>
+      <person xml:id="dvp_080_person_31">
+        <persName>Michael [S.] Dukakis</persName>
+      </person>
+      <person xml:id="dvp_080_person_32">
+        <persName>Frank Sargent</persName>
+      </person>
+      <person xml:id="dvp_080_person_33">
+        <persName>Michael Dukakis</persName>
+      </person>
+      <person xml:id="dvp_080_person_34">
+        <persName>Don Dwight</persName>
+      </person>
+      <person xml:id="dvp_080_person_35">
+        <persName>Governor Sargent</persName>
+      </person>
+      <person xml:id="dvp_080_person_36">
+        <persName>Lieutenant Governor Dwight</persName>
+      </person>
+      <person xml:id="dvp_080_person_37">
+        <persName>Michael Dukakis</persName>
+      </person>
+      <person xml:id="dvp_080_person_38">
+        <persName>Frank Sargent</persName>
+      </person>
+      <person xml:id="dvp_080_person_39">
+        <persName>Jack Connors [Jr.]</persName>
+      </person>
+      <person xml:id="dvp_080_person_40">
+        <persName>Scott</persName>
+      </person>
+      <person xml:id="dvp_080_person_41">
+        <persName>Scott</persName>
+      </person>
+    </listPerson>
+    <listOrg>
+      <org xml:id="dvp_080_org_0">
+        <orgName>Dartmouth</orgName>
+      </org>
+      <org xml:id="dvp_080_org_1">
+        <orgName>Class of ’66</orgName>
+      </org>
+      <org xml:id="dvp_080_org_2">
+        <orgName>[Boston] Herald-Traveler Corporation</orgName>
+      </org>
+      <org xml:id="dvp_080_org_3">
+        <orgName>Boston Herald</orgName>
+      </org>
+      <org xml:id="dvp_080_org_4">
+        <orgName>Boston Traveler</orgName>
+      </org>
+      <org xml:id="dvp_080_org_5">
+        <orgName>WHDH</orgName>
+      </org>
+      <org xml:id="dvp_080_org_6">
+        <orgName>[U.S.] Navy</orgName>
+      </org>
+      <org xml:id="dvp_080_org_7">
+        <orgName>Navy</orgName>
+      </org>
+      <org xml:id="dvp_080_org_8">
+        <orgName>Navy</orgName>
+      </org>
+      <org xml:id="dvp_080_org_9">
+        <orgName>Dartmouth</orgName>
+      </org>
+      <org xml:id="dvp_080_org_10">
+        <orgName>Dartmouth</orgName>
+      </org>
+      <org xml:id="dvp_080_org_11">
+        <orgName>Université de du Caen [sic; Université de Caen Normandie]</orgName>
+      </org>
+      <org xml:id="dvp_080_org_12">
+        <orgName>Navy</orgName>
+      </org>
+      <org xml:id="dvp_080_org_13">
+        <orgName>German submarines</orgName>
+      </org>
+      <org xml:id="dvp_080_org_14">
+        <orgName>Navy</orgName>
+      </org>
+      <org xml:id="dvp_080_org_15">
+        <orgName>Dartmouth</orgName>
+      </org>
+      <org xml:id="dvp_080_org_16">
+        <orgName>Dartmouth</orgName>
+      </org>
+      <org xml:id="dvp_080_org_17">
+        <orgName>Syracuse [University]</orgName>
+      </org>
+      <org xml:id="dvp_080_org_18">
+        <orgName>[S.I.] Newhouse School [of Public Communications]</orgName>
+      </org>
+      <org xml:id="dvp_080_org_19">
+        <orgName>Dartmouth</orgName>
+      </org>
+      <org xml:id="dvp_080_org_20">
+        <orgName>Syracuse</orgName>
+      </org>
+      <org xml:id="dvp_080_org_21">
+        <orgName>Newhouse School at Syracuse University</orgName>
+      </org>
+      <org xml:id="dvp_080_org_22">
+        <orgName>Syracuse</orgName>
+      </org>
+      <org xml:id="dvp_080_org_23">
+        <orgName>Syracuse</orgName>
+      </org>
+      <org xml:id="dvp_080_org_24">
+        <orgName>Syracuse</orgName>
+      </org>
+      <org xml:id="dvp_080_org_25">
+        <orgName>Dartmouth</orgName>
+      </org>
+      <org xml:id="dvp_080_org_26">
+        <orgName>Dartmouth</orgName>
+      </org>
+      <org xml:id="dvp_080_org_27">
+        <orgName>Bowdoin [College]</orgName>
+      </org>
+      <org xml:id="dvp_080_org_28">
+        <orgName>Bowdoin</orgName>
+      </org>
+      <org xml:id="dvp_080_org_29">
+        <orgName>Dartmouth</orgName>
+      </org>
+      <org xml:id="dvp_080_org_30">
+        <orgName>Dartmouth</orgName>
+      </org>
+      <org xml:id="dvp_080_org_31">
+        <orgName>Navy</orgName>
+      </org>
+      <org xml:id="dvp_080_org_32">
+        <orgName>Dartmouth</orgName>
+      </org>
+      <org xml:id="dvp_080_org_33">
+        <orgName>Syracuse</orgName>
+      </org>
+      <org xml:id="dvp_080_org_34">
+        <orgName>Dartmouth</orgName>
+      </org>
+      <org xml:id="dvp_080_org_35">
+        <orgName>Dartmouth</orgName>
+      </org>
+      <org xml:id="dvp_080_org_36">
+        <orgName>Dartmouth</orgName>
+      </org>
+      <org xml:id="dvp_080_org_37">
+        <orgName>Dartmouth</orgName>
+      </org>
+      <org xml:id="dvp_080_org_38">
+        <orgName>Dartmouth</orgName>
+      </org>
+      <org xml:id="dvp_080_org_39">
+        <orgName>Dartmouth</orgName>
+      </org>
+      <org xml:id="dvp_080_org_40">
+        <orgName>Chi Phi</orgName>
+      </org>
+      <org xml:id="dvp_080_org_41">
+        <orgName>Chi Heorot</orgName>
+      </org>
+      <org xml:id="dvp_080_org_42">
+        <orgName>Dartmouth</orgName>
+      </org>
+      <org xml:id="dvp_080_org_43">
+        <orgName>Dartmouth</orgName>
+      </org>
+      <org xml:id="dvp_080_org_44">
+        <orgName>Dartmouth</orgName>
+      </org>
+      <org xml:id="dvp_080_org_45">
+        <orgName>Dartmouth</orgName>
+      </org>
+      <org xml:id="dvp_080_org_46">
+        <orgName>Navy</orgName>
+      </org>
+      <org xml:id="dvp_080_org_47">
+        <orgName>Navy</orgName>
+      </org>
+      <org xml:id="dvp_080_org_48">
+        <orgName>Dartmouth</orgName>
+      </org>
+      <org xml:id="dvp_080_org_49">
+        <orgName>Dartmouth</orgName>
+      </org>
+      <org xml:id="dvp_080_org_50">
+        <orgName>Syracuse</orgName>
+      </org>
+      <org xml:id="dvp_080_org_51">
+        <orgName>military</orgName>
+      </org>
+      <org xml:id="dvp_080_org_52">
+        <orgName>Dartmouth</orgName>
+      </org>
+      <org xml:id="dvp_080_org_53">
+        <orgName>Syracuse</orgName>
+      </org>
+      <org xml:id="dvp_080_org_54">
+        <orgName>Navy</orgName>
+      </org>
+      <org xml:id="dvp_080_org_55">
+        <orgName>Syracuse</orgName>
+      </org>
+      <org xml:id="dvp_080_org_56">
+        <orgName>military</orgName>
+      </org>
+      <org xml:id="dvp_080_org_57">
+        <orgName>Syracuse</orgName>
+      </org>
+      <org xml:id="dvp_080_org_58">
+        <orgName>Navy</orgName>
+      </org>
+      <org xml:id="dvp_080_org_59">
+        <orgName>Syracuse</orgName>
+      </org>
+      <org xml:id="dvp_080_org_60">
+        <orgName>Syracuse</orgName>
+      </org>
+      <org xml:id="dvp_080_org_61">
+        <orgName>military</orgName>
+      </org>
+      <org xml:id="dvp_080_org_62">
+        <orgName>Navy</orgName>
+      </org>
+      <org xml:id="dvp_080_org_63">
+        <orgName>Navy</orgName>
+      </org>
+      <org xml:id="dvp_080_org_64">
+        <orgName>Navy</orgName>
+      </org>
+      <org xml:id="dvp_080_org_65">
+        <orgName>Navy</orgName>
+      </org>
+      <org xml:id="dvp_080_org_66">
+        <orgName>Navy</orgName>
+      </org>
+      <org xml:id="dvp_080_org_67">
+        <orgName>military</orgName>
+      </org>
+      <org xml:id="dvp_080_org_68">
+        <orgName>military</orgName>
+      </org>
+      <org xml:id="dvp_080_org_69">
+        <orgName>Navy</orgName>
+      </org>
+      <org xml:id="dvp_080_org_70">
+        <orgName>Navy</orgName>
+      </org>
+      <org xml:id="dvp_080_org_71">
+        <orgName>Syracuse</orgName>
+      </org>
+      <org xml:id="dvp_080_org_72">
+        <orgName>Syracuse</orgName>
+      </org>
+      <org xml:id="dvp_080_org_73">
+        <orgName>Navy</orgName>
+      </org>
+      <org xml:id="dvp_080_org_74">
+        <orgName>Syracuse</orgName>
+      </org>
+      <org xml:id="dvp_080_org_75">
+        <orgName>Navy</orgName>
+      </org>
+      <org xml:id="dvp_080_org_76">
+        <orgName>Syracuse</orgName>
+      </org>
+      <org xml:id="dvp_080_org_77">
+        <orgName>Syracuse</orgName>
+      </org>
+      <org xml:id="dvp_080_org_78">
+        <orgName>military</orgName>
+      </org>
+      <org xml:id="dvp_080_org_79">
+        <orgName>Officer Candidate School</orgName>
+      </org>
+      <org xml:id="dvp_080_org_80">
+        <orgName>OCS</orgName>
+      </org>
+      <org xml:id="dvp_080_org_81">
+        <orgName>military</orgName>
+      </org>
+      <org xml:id="dvp_080_org_82">
+        <orgName>military</orgName>
+      </org>
+      <org xml:id="dvp_080_org_83">
+        <orgName>OCS</orgName>
+      </org>
+      <org xml:id="dvp_080_org_84">
+        <orgName>OCS</orgName>
+      </org>
+      <org xml:id="dvp_080_org_85">
+        <orgName>OCS</orgName>
+      </org>
+      <org xml:id="dvp_080_org_86">
+        <orgName>Navy</orgName>
+      </org>
+      <org xml:id="dvp_080_org_87">
+        <orgName>Navy</orgName>
+      </org>
+      <org xml:id="dvp_080_org_88">
+        <orgName>[U.S.] Department of Defense, DoD</orgName>
+      </org>
+      <org xml:id="dvp_080_org_89">
+        <orgName>Syracuse</orgName>
+      </org>
+      <org xml:id="dvp_080_org_90">
+        <orgName>Syracuse</orgName>
+      </org>
+      <org xml:id="dvp_080_org_91">
+        <orgName>OCS</orgName>
+      </org>
+      <org xml:id="dvp_080_org_92">
+        <orgName>OCS</orgName>
+      </org>
+      <org xml:id="dvp_080_org_93">
+        <orgName>OCS</orgName>
+      </org>
+      <org xml:id="dvp_080_org_94">
+        <orgName>Dartmouth</orgName>
+      </org>
+      <org xml:id="dvp_080_org_95">
+        <orgName>Dartmouth</orgName>
+      </org>
+      <org xml:id="dvp_080_org_96">
+        <orgName>OCS</orgName>
+      </org>
+      <org xml:id="dvp_080_org_97">
+        <orgName>Officer Training School</orgName>
+      </org>
+      <org xml:id="dvp_080_org_98">
+        <orgName>Navy</orgName>
+      </org>
+      <org xml:id="dvp_080_org_99">
+        <orgName>Officer Training School</orgName>
+      </org>
+      <org xml:id="dvp_080_org_100">
+        <orgName>military</orgName>
+      </org>
+      <org xml:id="dvp_080_org_101">
+        <orgName>OCS</orgName>
+      </org>
+      <org xml:id="dvp_080_org_102">
+        <orgName>OCS</orgName>
+      </org>
+      <org xml:id="dvp_080_org_103">
+        <orgName>USS New Jersey</orgName>
+      </org>
+      <org xml:id="dvp_080_org_104">
+        <orgName>New Jersey</orgName>
+      </org>
+      <org xml:id="dvp_080_org_105">
+        <orgName>OCS</orgName>
+      </org>
+      <org xml:id="dvp_080_org_106">
+        <orgName>OCS</orgName>
+      </org>
+      <org xml:id="dvp_080_org_107">
+        <orgName>military</orgName>
+      </org>
+      <org xml:id="dvp_080_org_108">
+        <orgName>Navy</orgName>
+      </org>
+      <org xml:id="dvp_080_org_109">
+        <orgName>military academy</orgName>
+      </org>
+      <org xml:id="dvp_080_org_110">
+        <orgName>Navy</orgName>
+      </org>
+      <org xml:id="dvp_080_org_111">
+        <orgName>Navy</orgName>
+      </org>
+      <org xml:id="dvp_080_org_112">
+        <orgName>Navy</orgName>
+      </org>
+      <org xml:id="dvp_080_org_113">
+        <orgName>Officer Candidate School</orgName>
+      </org>
+      <org xml:id="dvp_080_org_114">
+        <orgName>OCS</orgName>
+      </org>
+      <org xml:id="dvp_080_org_115">
+        <orgName>United States Navy</orgName>
+      </org>
+      <org xml:id="dvp_080_org_116">
+        <orgName>military</orgName>
+      </org>
+      <org xml:id="dvp_080_org_117">
+        <orgName>Navy</orgName>
+      </org>
+      <org xml:id="dvp_080_org_118">
+        <orgName>United States</orgName>
+      </org>
+      <org xml:id="dvp_080_org_119">
+        <orgName>military</orgName>
+      </org>
+      <org xml:id="dvp_080_org_120">
+        <orgName>Navy</orgName>
+      </org>
+      <org xml:id="dvp_080_org_121">
+        <orgName>Navy</orgName>
+      </org>
+      <org xml:id="dvp_080_org_122">
+        <orgName>the Newport base</orgName>
+      </org>
+      <org xml:id="dvp_080_org_123">
+        <orgName>Dartmouth</orgName>
+      </org>
+      <org xml:id="dvp_080_org_124">
+        <orgName>reserve fleet</orgName>
+      </org>
+      <org xml:id="dvp_080_org_125">
+        <orgName>Syracuse</orgName>
+      </org>
+      <org xml:id="dvp_080_org_126">
+        <orgName>Navy</orgName>
+      </org>
+      <org xml:id="dvp_080_org_127">
+        <orgName>Navy</orgName>
+      </org>
+      <org xml:id="dvp_080_org_128">
+        <orgName>United States Navy</orgName>
+      </org>
+      <org xml:id="dvp_080_org_129">
+        <orgName>[U.S.] Second Fleet</orgName>
+      </org>
+      <org xml:id="dvp_080_org_130">
+        <orgName>Navy</orgName>
+      </org>
+      <org xml:id="dvp_080_org_131">
+        <orgName>Navy</orgName>
+      </org>
+      <org xml:id="dvp_080_org_132">
+        <orgName>Navy</orgName>
+      </org>
+      <org xml:id="dvp_080_org_133">
+        <orgName>Second Fleet</orgName>
+      </org>
+      <org xml:id="dvp_080_org_134">
+        <orgName>Sixth Fleet</orgName>
+      </org>
+      <org xml:id="dvp_080_org_135">
+        <orgName>Second Fleet</orgName>
+      </org>
+      <org xml:id="dvp_080_org_136">
+        <orgName>Cuba</orgName>
+      </org>
+      <org xml:id="dvp_080_org_137">
+        <orgName>[U.S.] First Fleet</orgName>
+      </org>
+      <org xml:id="dvp_080_org_138">
+        <orgName>U.S.</orgName>
+      </org>
+      <org xml:id="dvp_080_org_139">
+        <orgName>First Fleet</orgName>
+      </org>
+      <org xml:id="dvp_080_org_140">
+        <orgName>[USS] Arizona</orgName>
+      </org>
+      <org xml:id="dvp_080_org_141">
+        <orgName>the Arizona</orgName>
+      </org>
+      <org xml:id="dvp_080_org_142">
+        <orgName>the Arizona</orgName>
+      </org>
+      <org xml:id="dvp_080_org_143">
+        <orgName>U.S.</orgName>
+      </org>
+      <org xml:id="dvp_080_org_144">
+        <orgName>First Fleet</orgName>
+      </org>
+      <org xml:id="dvp_080_org_145">
+        <orgName>[U.S.] Seventh Fleet</orgName>
+      </org>
+      <org xml:id="dvp_080_org_146">
+        <orgName>Seventh Fleet</orgName>
+      </org>
+      <org xml:id="dvp_080_org_147">
+        <orgName>Seventh Fleet</orgName>
+      </org>
+      <org xml:id="dvp_080_org_148">
+        <orgName>U.S.</orgName>
+      </org>
+      <org xml:id="dvp_080_org_149">
+        <orgName>North Vietnam</orgName>
+      </org>
+      <org xml:id="dvp_080_org_150">
+        <orgName>South Vietnam</orgName>
+      </org>
+      <org xml:id="dvp_080_org_151">
+        <orgName>RVN, Republic  of Vietnam [sic; ARVN, pronounced AR-vin, the Army of the Republic of Vietnam]</orgName>
+      </org>
+      <org xml:id="dvp_080_org_152">
+        <orgName>North Vietnam</orgName>
+      </org>
+      <org xml:id="dvp_080_org_153">
+        <orgName>China</orgName>
+      </org>
+      <org xml:id="dvp_080_org_154">
+        <orgName>Russia</orgName>
+      </org>
+      <org xml:id="dvp_080_org_155">
+        <orgName>United States</orgName>
+      </org>
+      <org xml:id="dvp_080_org_156">
+        <orgName>South Vietnamese</orgName>
+      </org>
+      <org xml:id="dvp_080_org_157">
+        <orgName>South Vietnamese army</orgName>
+      </org>
+      <org xml:id="dvp_080_org_158">
+        <orgName>United States Marines</orgName>
+      </org>
+      <org xml:id="dvp_080_org_159">
+        <orgName>United States Army</orgName>
+      </org>
+      <org xml:id="dvp_080_org_160">
+        <orgName>101st Airborne [Division]</orgName>
+      </org>
+      <org xml:id="dvp_080_org_161">
+        <orgName>3rd Marine Division</orgName>
+      </org>
+      <org xml:id="dvp_080_org_162">
+        <orgName>1st Marine Division</orgName>
+      </org>
+      <org xml:id="dvp_080_org_163">
+        <orgName>South Vietnam</orgName>
+      </org>
+      <org xml:id="dvp_080_org_164">
+        <orgName>U.S. military</orgName>
+      </org>
+      <org xml:id="dvp_080_org_165">
+        <orgName>Marine</orgName>
+      </org>
+      <org xml:id="dvp_080_org_166">
+        <orgName>Army</orgName>
+      </org>
+      <org xml:id="dvp_080_org_167">
+        <orgName>South Vietnamese Army</orgName>
+      </org>
+      <org xml:id="dvp_080_org_168">
+        <orgName>Republic of Korea</orgName>
+      </org>
+      <org xml:id="dvp_080_org_169">
+        <orgName>South Korea</orgName>
+      </org>
+      <org xml:id="dvp_080_org_170">
+        <orgName>military</orgName>
+      </org>
+      <org xml:id="dvp_080_org_171">
+        <orgName>Korean</orgName>
+      </org>
+      <org xml:id="dvp_080_org_172">
+        <orgName>Army</orgName>
+      </org>
+      <org xml:id="dvp_080_org_173">
+        <orgName>Marine</orgName>
+      </org>
+      <org xml:id="dvp_080_org_174">
+        <orgName>Navy</orgName>
+      </org>
+      <org xml:id="dvp_080_org_175">
+        <orgName>Navy</orgName>
+      </org>
+      <org xml:id="dvp_080_org_176">
+        <orgName>military</orgName>
+      </org>
+      <org xml:id="dvp_080_org_177">
+        <orgName>military</orgName>
+      </org>
+      <org xml:id="dvp_080_org_178">
+        <orgName>Commander, Naval Forces Vietnam [COMNAVFORV]</orgName>
+      </org>
+      <org xml:id="dvp_080_org_179">
+        <orgName>COMNAVFORV</orgName>
+      </org>
+      <org xml:id="dvp_080_org_180">
+        <orgName>Commander, Naval Forces Vietnam</orgName>
+      </org>
+      <org xml:id="dvp_080_org_181">
+        <orgName>Commander, Naval Forces Vietnam</orgName>
+      </org>
+      <org xml:id="dvp_080_org_182">
+        <orgName>IBM</orgName>
+      </org>
+      <org xml:id="dvp_080_org_183">
+        <orgName>IBM</orgName>
+      </org>
+      <org xml:id="dvp_080_org_184">
+        <orgName>CBS News</orgName>
+      </org>
+      <org xml:id="dvp_080_org_185">
+        <orgName>[The] New York Times</orgName>
+      </org>
+      <org xml:id="dvp_080_org_186">
+        <orgName>TIME magazine</orgName>
+      </org>
+      <org xml:id="dvp_080_org_187">
+        <orgName>United—UPI (United Press International)</orgName>
+      </org>
+      <org xml:id="dvp_080_org_188">
+        <orgName>AP (Associated Press)</orgName>
+      </org>
+      <org xml:id="dvp_080_org_189">
+        <orgName>Navy</orgName>
+      </org>
+      <org xml:id="dvp_080_org_190">
+        <orgName>New Jersey</orgName>
+      </org>
+      <org xml:id="dvp_080_org_191">
+        <orgName>United States military</orgName>
+      </org>
+      <org xml:id="dvp_080_org_192">
+        <orgName>USS New Jersey</orgName>
+      </org>
+      <org xml:id="dvp_080_org_193">
+        <orgName>Golddiggers</orgName>
+      </org>
+      <org xml:id="dvp_080_org_194">
+        <orgName>Navy</orgName>
+      </org>
+      <org xml:id="dvp_080_org_195">
+        <orgName>OCS</orgName>
+      </org>
+      <org xml:id="dvp_080_org_196">
+        <orgName>New Jersey</orgName>
+      </org>
+      <org xml:id="dvp_080_org_197">
+        <orgName>United States Naval Academy</orgName>
+      </org>
+      <org xml:id="dvp_080_org_198">
+        <orgName>United States Naval Academy</orgName>
+      </org>
+      <org xml:id="dvp_080_org_199">
+        <orgName>Navy</orgName>
+      </org>
+      <org xml:id="dvp_080_org_200">
+        <orgName>Commander, Cruiser-Destroyer Force, Atlantic Fleet [now part of Commander, Naval Surface Force Atlantic]</orgName>
+      </org>
+      <org xml:id="dvp_080_org_201">
+        <orgName>military</orgName>
+      </org>
+      <org xml:id="dvp_080_org_202">
+        <orgName>cruiser and destroyer force</orgName>
+      </org>
+      <org xml:id="dvp_080_org_203">
+        <orgName>Navy</orgName>
+      </org>
+      <org xml:id="dvp_080_org_204">
+        <orgName>Navy</orgName>
+      </org>
+      <org xml:id="dvp_080_org_205">
+        <orgName>Bureau of Personnel</orgName>
+      </org>
+      <org xml:id="dvp_080_org_206">
+        <orgName>BuPers</orgName>
+      </org>
+      <org xml:id="dvp_080_org_207">
+        <orgName>Navy</orgName>
+      </org>
+      <org xml:id="dvp_080_org_208">
+        <orgName>Bureau of Personnel</orgName>
+      </org>
+      <org xml:id="dvp_080_org_209">
+        <orgName>Cruiser and Destroyer Force, Atlantic Fleet</orgName>
+      </org>
+      <org xml:id="dvp_080_org_210">
+        <orgName>New Jersey</orgName>
+      </org>
+      <org xml:id="dvp_080_org_211">
+        <orgName>Cruiser-Destroyer Force, Atlantic Fleet</orgName>
+      </org>
+      <org xml:id="dvp_080_org_212">
+        <orgName>Atlantic Fleet</orgName>
+      </org>
+      <org xml:id="dvp_080_org_213">
+        <orgName>Atlantic Fleet</orgName>
+      </org>
+      <org xml:id="dvp_080_org_214">
+        <orgName>military</orgName>
+      </org>
+      <org xml:id="dvp_080_org_215">
+        <orgName>Newport Navy Hospital</orgName>
+      </org>
+      <org xml:id="dvp_080_org_216">
+        <orgName>Navy</orgName>
+      </org>
+      <org xml:id="dvp_080_org_217">
+        <orgName>Navy</orgName>
+      </org>
+      <org xml:id="dvp_080_org_218">
+        <orgName>Syracuse University</orgName>
+      </org>
+      <org xml:id="dvp_080_org_219">
+        <orgName>FAA [sic; FCC, Federal Communications Commission]</orgName>
+      </org>
+      <org xml:id="dvp_080_org_220">
+        <orgName>Supreme Court of the United States</orgName>
+      </org>
+      <org xml:id="dvp_080_org_221">
+        <orgName>Navy</orgName>
+      </org>
+      <org xml:id="dvp_080_org_222">
+        <orgName>Massachusetts</orgName>
+      </org>
+      <org xml:id="dvp_080_org_223">
+        <orgName>Hill, Holliday</orgName>
+      </org>
+      <org xml:id="dvp_080_org_224">
+        <orgName>Hill, Holliday</orgName>
+      </org>
+      <org xml:id="dvp_080_org_225">
+        <orgName>Hill, Holliday, Connors[, Cosmopulos]</orgName>
+      </org>
+      <org xml:id="dvp_080_org_226">
+        <orgName>Hill, Holliday</orgName>
+      </org>
+      <org xml:id="dvp_080_org_227">
+        <orgName>Sargent administration</orgName>
+      </org>
+      <org xml:id="dvp_080_org_228">
+        <orgName>Hill, Holliday</orgName>
+      </org>
+      <org xml:id="dvp_080_org_229">
+        <orgName>Dartmouth College</orgName>
+      </org>
+      <org xml:id="dvp_080_org_230">
+        <orgName>United States Navy</orgName>
+      </org>
+      <org xml:id="dvp_080_org_231">
+        <orgName>military</orgName>
+      </org>
+      <org xml:id="dvp_080_org_232">
+        <orgName>Navy</orgName>
+      </org>
+      <org xml:id="dvp_080_org_233">
+        <orgName>Dartmouth</orgName>
+      </org>
+      <org xml:id="dvp_080_org_234">
+        <orgName>Navy</orgName>
+      </org>
+      <org xml:id="dvp_080_org_235">
+        <orgName>Dartmouth</orgName>
+      </org>
+      <org xml:id="dvp_080_org_236">
+        <orgName>Syracuse</orgName>
+      </org>
+      <org xml:id="dvp_080_org_237">
+        <orgName>military</orgName>
+      </org>
+      <org xml:id="dvp_080_org_238">
+        <orgName>DVP</orgName>
+      </org>
+    </listOrg>
+  </standOff>
+</TEI>

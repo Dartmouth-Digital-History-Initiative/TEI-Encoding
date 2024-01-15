@@ -1,83 +1,83 @@
-id	persName
-dvp_073_person_0	Bryan [M.] Bliek [’18]
-dvp_073_person_1	Mr. Paul Beach
-dvp_073_person_2	Paul
-dvp_073_person_3	Paul
-dvp_073_person_4	Paul
-dvp_073_person_5	Paul
-dvp_073_person_6	Beach
-dvp_073_person_7	John [G.] Kemeny
-dvp_073_person_8	George Wallace
-dvp_073_person_9	[Rev.] George Kalbfleish
-dvp_073_person_10	Dietrich Bonhoeffer
-dvp_073_person_11	George
-dvp_073_person_12	Bonhoeffer
-dvp_073_person_13	Bonhoeffer
-dvp_073_person_14	George
-dvp_073_person_15	Richard Joseph
-dvp_073_person_16	George
-dvp_073_person_17	George Wallace
-dvp_073_person_18	[Robert L. Heilbroner]
-dvp_073_person_19	Malcolm X
-dvp_073_person_20	Michael Harrington
-dvp_073_person_21	Michael Harrington
-dvp_073_person_22	Malcolm X
-dvp_073_person_23	Malcolm X
-dvp_073_person_24	Tom Hayden
-dvp_073_person_25	Michael Harrington
-dvp_073_person_26	Eric Fromm
-dvp_073_person_27	Martin Luther King[, Jr.]
-dvp_073_person_28	[Rafael] Trujillo
-dvp_073_person_29	Castro
-dvp_073_person_30	Juan Bosch
-dvp_073_person_31	[George McTurnan] Kahin
-dvp_073_person_32	[John W.] Lewis
-dvp_073_person_33	[President Dwight D.] Eisenhower
-dvp_073_person_34	Eisenhower
-dvp_073_person_35	Ho Chi Minh
-dvp_073_person_36	Norris Cotton
-dvp_073_person_37	Norris Cotton
-dvp_073_person_38	Norris Cotton
-dvp_073_person_39	George Kalbfleish
-dvp_073_person_40	Lewis Hershey
-dvp_073_person_41	Paul Leary
-dvp_073_person_42	Jonathan Mirsky
-dvp_073_person_43	[William] Bill Lind [‘69]
-dvp_073_person_44	David Horowitz
-dvp_073_person_45	David Horowitz
-dvp_073_person_46	[Prime Minister Patrice] Lumumba
-dvp_073_person_47	Martin Luther King
-dvp_073_person_48	Norman Mailer
-dvp_073_person_49	Noam Chomsky
-dvp_073_person_50	Allen Ginsburg
-dvp_073_person_51	Kahin
-dvp_073_person_52	Lewis
-dvp_073_person_53	Stokely Carmichael
-dvp_073_person_54	Stokely Carmichael
-dvp_073_person_55	George Wallace
-dvp_073_person_56	John [G.] Spritzler [‘68]
-dvp_073_person_57	Don Pease [‘66]
-dvp_073_person_58	Don Pease
-dvp_073_person_59	Professor Don Pease
-dvp_073_person_60	Don Pease
-dvp_073_person_61	Cesar Chavez
-dvp_073_person_62	Paul Stetzer [‘67]
-dvp_073_person_63	Don Pease
-dvp_073_person_64	Cathy Wilkerson
-dvp_073_person_65	Cathy Wilkerson
-dvp_073_person_66	Cathy Wilkerson
-dvp_073_person_67	Dylan
-dvp_073_person_68	Cathy Wilkerson
-dvp_073_person_69	Cathy Wilkerson
-dvp_073_person_70	John Spritzler
-dvp_073_person_71	John Spritzler
-dvp_073_person_72	Lyndon Johnson
-dvp_073_person_73	[Eugene] McCarthy
-dvp_073_person_74	Martin Luther King
-dvp_073_person_75	Paul Stetzer
-dvp_073_person_76	Paul
-dvp_073_person_77	Paul
-dvp_073_person_78	John Spritzler
-dvp_073_person_79	John
-dvp_073_person_80	[Bob] Dylan
-dvp_073_person_81	Ho Chi Minh
+id	persName	QID	dvp_id
+dvp_073_person_0	Bryan [M.] Bliek [’18]		dvp_0698
+dvp_073_person_1	Mr. Paul Beach		dvp_0699
+dvp_073_person_2	Paul		dvp_0699
+dvp_073_person_3	Paul		dvp_0699
+dvp_073_person_4	Paul		dvp_0699
+dvp_073_person_5	Paul		dvp_0699
+dvp_073_person_6	Beach		dvp_0699
+dvp_073_person_7	John George Kemeny	Q28900	
+dvp_073_person_8	George Wallace	Q313776	
+dvp_073_person_9	George Randolph Kalbfleisch	Q5543716	
+dvp_073_person_10	Dietrich Bonhoeffer	Q76326	
+dvp_073_person_11	George Randolph Kalbfleisch	Q5543716	
+dvp_073_person_12	Dietrich Bonhoeffer	Q76326	
+dvp_073_person_13	Dietrich Bonhoeffer	Q76326	
+dvp_073_person_14	George Randolph Kalbfleisch	Q5543716	
+dvp_073_person_15	Richard A. Joseph	Q106145269	
+dvp_073_person_16	George Randolph Kalbfleisch	Q5543716	
+dvp_073_person_17	George Wallace	Q313776	
+dvp_073_person_18	[Robert L. Heilbroner]		
+dvp_073_person_19	Malcolm X	Q43303	
+dvp_073_person_20	Michael Harrington	Q434828	
+dvp_073_person_21	Michael Harrington	Q434828	
+dvp_073_person_22	Malcolm X	Q43303	
+dvp_073_person_23	Malcolm X	Q43303	
+dvp_073_person_24	Tom Hayden	Q352953	
+dvp_073_person_25	Michael Harrington	Q434828	
+dvp_073_person_26	Erich Fromm	Q57085	
+dvp_073_person_27	Martin Luther King Jr.	Q8027	
+dvp_073_person_28	Rafael Leónidas Trujillo Molina	Q152474	
+dvp_073_person_29	Fidel Castro	Q11256	
+dvp_073_person_30	Juan Bosch	Q439980	
+dvp_073_person_31	George McTurnan Kahin	Q5542374	
+dvp_073_person_32	John Wilson Lewis	Q39556195	
+dvp_073_person_33	Dwight D. Eisenhower	Q9916	
+dvp_073_person_34	Dwight D. Eisenhower	Q9916	
+dvp_073_person_35	Ho Chi Minh	Q36014	
+dvp_073_person_36	Norris H. Cotton	Q2000103	
+dvp_073_person_37	Norris H. Cotton	Q2000103	
+dvp_073_person_38	Norris H. Cotton	Q2000103	
+dvp_073_person_39	George Randolph Kalbfleisch	Q5543716	
+dvp_073_person_40	Lewis Blaine Hershey	Q6536326	
+dvp_073_person_41	Paul Leary		dvp_700
+dvp_073_person_42	Jonathan Mirsky		dvp_0701
+dvp_073_person_43	William S. Lind	Q2580683	
+dvp_073_person_44	David Horowitz	Q722462	
+dvp_073_person_45	David Horowitz	Q722462	
+dvp_073_person_46	Patrice Lumumba	Q161672	
+dvp_073_person_47	Martin Luther King Jr.	Q8027	
+dvp_073_person_48	Norman Mailer	Q180962	
+dvp_073_person_49	Noam Chomsky	Q9049	
+dvp_073_person_50	Allen Ginsberg	Q6711	
+dvp_073_person_51	George McTurnan Kahin	Q5542374	
+dvp_073_person_52	John Wilson Lewis	Q39556195	
+dvp_073_person_53	Stokely Carmichael	Q509860	
+dvp_073_person_54	Stokely Carmichael	Q509860	
+dvp_073_person_55	George Wallace	Q313776	
+dvp_073_person_56	John [G.] Spritzler [‘68]		dvp_0013
+dvp_073_person_57	Don Pease [‘66]		dvp_0702
+dvp_073_person_58	Donald J. Pease	Q5294581	
+dvp_073_person_59	Professor Don Pease		dvp_0703
+dvp_073_person_60	Donald J. Pease	Q5294581	
+dvp_073_person_61	Cesar Chavez	Q355425	
+dvp_073_person_62	Paul Stetzer [‘67]		dvp_0704
+dvp_073_person_63	Donald J. Pease	Q5294581	
+dvp_073_person_64	Cathlyn Platt Wilkerson	Q5053052	
+dvp_073_person_65	Cathlyn Platt Wilkerson	Q5053052	
+dvp_073_person_66	Cathlyn Platt Wilkerson	Q5053052	
+dvp_073_person_67	Bob Dylan	Q392	
+dvp_073_person_68	Cathlyn Platt Wilkerson	Q5053052	
+dvp_073_person_69	Cathlyn Platt Wilkerson	Q5053052	
+dvp_073_person_70	John Spritzler		dvp_0013
+dvp_073_person_71	John Spritzler		dvp_0013
+dvp_073_person_72	Lyndon B. Johnson	Q9640	
+dvp_073_person_73	Eugene McCarthy	Q380550	
+dvp_073_person_74	Martin Luther King Jr.	Q8027	
+dvp_073_person_75	Paul Stetzer		dvp_0704
+dvp_073_person_76	Paul		dvp_0704
+dvp_073_person_77	Paul		dvp_0704
+dvp_073_person_78	John Spritzler		dvp_0013
+dvp_073_person_79	John		dvp_0013
+dvp_073_person_80	Bob Dylan	Q392	
+dvp_073_person_81	Ho Chi Minh	Q36014	

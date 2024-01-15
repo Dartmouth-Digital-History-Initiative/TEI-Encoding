@@ -1,0 +1,2225 @@
+<?xml-model href="../schemas/ddhi.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="dvp_091">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Transcript of an Interview with John de Regt</title>
+      </titleStmt>
+      <publicationStmt>
+        <authority>
+          <orgName>Dartmouth Digital History Initiative</orgName>
+        </authority>
+        <date>
+          <!--  Date of publication, e.g. for citation purposes  -->
+        </date>
+        <idno type="DDHI">dvp_091</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <recordingStmt>
+          <recording xml:id="primary_recording" type="audio" dur-iso="9">
+            <!-- https://www.digi.com/resources/documentation/digidocs/90001437-13/reference/r_iso_8601_duration_format.htm -->
+            <media url="//rcweb.dartmouth.edu/DDHI/histories/de_regt_john/de_regt_john.mp3" mimeType="audio/mpeg"/>
+          </recording>
+        </recordingStmt>
+        <bibl xml:id="primary_transcription">
+          <respStmt>
+            <persName>Mimi Eisenberg</persName>
+            <orgName>Wordcraft</orgName>
+            <resp ref="http://id.loc.gov/vocabulary/relators/trc.html">Transcriber</resp>
+          </respStmt>
+          <ref target="path_to_file">Primary transcription</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>The Dartmouth Vietnam Project</p>
+      </projectDesc>
+      <appInfo>
+        <application ident="DDHIEncoder" version="1.0">
+          <desc>Conversion from Word docx to TEI xml.</desc>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en-us">English</language>
+      </langUsage>
+      <particDesc>
+        <person xml:id="DEREGT"/>
+        <person xml:id="RAFSON"/>
+      </particDesc>
+      <settingDesc>
+        <setting>
+          <date when-iso="2018-05-17"/>
+          <locale/>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <u who="RAFSON">Hi, this is <persName ref="#dvp_091_person_0">Claire Rafson [‘19]</persName>. I’m sitting in <placeName ref="#dvp_091_place_0">Rauner [Special Collections] Library</placeName> at <placeName ref="#dvp_091_place_1">Dartmouth College</placeName> in <placeName ref="#dvp_091_place_2">Hanover, New Hampshire</placeName>. Today’s Thursday, <date when="2018-05-17">May 17th, 2018</date>, and it’s around 10:30 a.m. I’m here with <persName ref="#dvp_091_person_1">John de Regt</persName>. Hi, <persName ref="#dvp_091_person_2">John</persName>.</u>
+      <u who="DEREGT">Hi, <persName ref="#dvp_091_person_3">Claire</persName>.</u>
+      <u who="RAFSON">Thank you so much for being here with me today.</u>
+      <u who="DEREGT">My pleasure.</u>
+      <u who="RAFSON">Great. So, let’s start with some basic biographical information. Would you mind telling me when and where you were born?</u>
+      <u who="DEREGT">I was born in <placeName ref="#dvp_091_place_3">Berkeley, California</placeName>, on <date when="1950-02-21">February 21st, 1950</date>.</u>
+      <u who="RAFSON">And what were the names of your parents?</u>
+      <u who="DEREGT"><persName ref="#dvp_091_person_4">Marian</persName> and <orgName ref="#dvp_091_org_0">Pieter de Regt</orgName>.</u>
+      <u who="RAFSON">What did they do?</u>
+      <u who="DEREGT">Dad was a consultant. He worked for <orgName ref="#dvp_091_org_1">Booz Allen [Hamilton, Inc.]</orgName> among others. Mom was principally a housewife, but she taught school for about 15 years when we were all in private high school, so it was free tuition. So she taught third grade. And then after that, she was an office administrator for the <orgName ref="#dvp_091_org_2">National Science Foundation</orgName>.</u>
+      <u who="RAFSON">And did you have siblings?</u>
+      <u who="DEREGT">Yep. Still do.</u>
+      <u who="RAFSON">What were their names?</u>
+      <u who="DEREGT"><persName ref="#dvp_091_person_5">Paul</persName>, <persName ref="#dvp_091_person_6">Mark</persName> and <persName ref="#dvp_091_person_7">Jan</persName>. They’re all younger.</u>
+      <u who="RAFSON">So, what was it like growing up in <placeName ref="#dvp_091_place_4">Berkeley</placeName>?</u>
+      <u who="DEREGT">We didn’t grow up in <placeName ref="#dvp_091_place_5">Berkeley</placeName>. So, my dad moved around a fair amount. So we moved to northern <placeName ref="#dvp_091_place_6">Virginia</placeName>, <placeName ref="#dvp_091_place_7">Arlington</placeName>, in I’m thinking <date when="1960">1960</date>, and so I grew up in northern <placeName ref="#dvp_091_place_8">Virginia</placeName>. We lived in <placeName ref="#dvp_091_place_9">Arlington</placeName> and <placeName ref="#dvp_091_place_10">Falls Church</placeName>, and then in <date when="1968">1968</date>, just after I came to <orgName ref="#dvp_091_org_3">Dartmouth</orgName> for freshman year, the family moved to <placeName ref="#dvp_091_place_11">Alexandria</placeName>.</u>
+      <u who="RAFSON">So, was moving around, even just a few times, what was that like?</u>
+      <u who="DEREGT">Oh, it was actually kind of fun. We moved from—so I was born in <placeName ref="#dvp_091_place_12">Berkeley, California</placeName>, and we moved from there to <placeName ref="#dvp_091_place_13">Denver, Colorado</placeName>. And we moved there in like <date when="1951">’51</date>, because my two brothers were born in <placeName ref="#dvp_091_place_14">Denver</placeName>. And then, in like <date when="1953">’53</date> we moved to <placeName ref="#dvp_091_place_15">Seattle, Washington</placeName>, and we were there for about four years, because my sister was born in <date when="1957">1957</date> and she was born in <placeName ref="#dvp_091_place_16">Seattle</placeName>. And then we moved to <placeName ref="#dvp_091_place_17">Santa Ana, California</placeName>, which is a suburb of <placeName ref="#dvp_091_place_18">Los Angeles</placeName>. Interestingly, it’s <placeName ref="#dvp_091_place_19">Orange County</placeName>, and at the time we moved, our house we lived in had been carved out of an orange grove. So we would go play in the orange groves. And there’s not an orange tree in <placeName ref="#dvp_091_place_20">Orange County</placeName> anymore, just as in how long ago that was. And then, so then we moved from <placeName ref="#dvp_091_place_21">Santa Ana</placeName> to <placeName ref="#dvp_091_place_22">Arlington</placeName> in about <date when="1960">1960</date>. And the interesting thing, just to give you a sense of perspective, as a 10-year-old I was concerned about the fact that we couldn’t wear jeans to school. So, we got to <placeName ref="#dvp_091_place_23">Arlington</placeName> and my brother, <persName ref="#dvp_091_person_8">Paul</persName>, was tan. They thought he was black, and wouldn’t let him in school.</u>
+      <u who="RAFSON">Wow.</u>
+      <u who="DEREGT">That’s how it was in northern <placeName ref="#dvp_091_place_24">Virginia</placeName> in <date when="1960">1960</date>. And my mom and dad had to jump through hoops and show his birth certificate that he was just a tanned eight-year-old, he was Caucasian. So, that is what it was like in <placeName ref="#dvp_091_place_25">Virginia</placeName> in <date when="1960">1960</date>. Very segregated.</u>
+      <u who="RAFSON">Yeah, how did that change, so coming from somewhere where you didn’t…</u>
+      <u who="DEREGT">It was jarring. I mean, it was really kind of jarring. So, the public school we all went to was all white. I recall seeing signs that said “No colored at the lunch counter.” And there was one job I had, high school job I had, in like <date when="1966">1966</date> maybe, something like that, where I worked at the lunch counter at a drugstore, and I was the only white person. Everybody else was black. So, I mean, all the workers were black. I was the only white person. So, there were things that you would see a real segregation, and it was more striking in <placeName ref="#dvp_091_place_26">Virginia</placeName> than it had been in <placeName ref="#dvp_091_place_27">California</placeName>.</u>
+      <u who="RAFSON">And did that impact you at all, like politically did that?</u>
+      <u who="DEREGT">We were—my parents were Democrats. They were fairly liberal, but not, you know, crazy. So, my father is an immigrant. He was born in the <placeName ref="#dvp_091_place_28">Netherlands</placeName>, and my mom was first generation Greek. So, in Mom’s family they talked politics. My grandfather on my mom’s side was president of the <orgName ref="#dvp_091_org_4">Greek American Society</orgName> in <placeName ref="#dvp_091_place_29">Detroit</placeName>. So, we talked politics. We talked current affairs, or what’s going on in the country. When there was big news, we talked about that. One of our seminal moments was the <name type="event" ref="#dvp_091_event_0">assassination of John Kennedy</name>, <date when="1963">1963</date>. We had just bought, I think the year before, our first TV, black-and-white TV, a big monstrous thing. And before that, we had gotten our entertainment over the radio, so we would sit and listen to, as kids, we would listen to radio programs: Lone Ranger, Sky King, Amos and Andy. Do you remember Amos and Andy?</u>
+      <u who="RAFSON">Can’t say I do.</u>
+      <u who="DEREGT">Amos and Andy was a comedy series featuring two black people, and in retrospect, the reason you’ve never heard of it and you’ll never see an Amos and Andy or hear one is because it was racist. But that was normal. So, I remember vividly the <name type="event" ref="#dvp_091_event_1">assassination of John Kennedy</name>. And we sat in front of the TV for three days. And, you know, the whole <name type="event" ref="#dvp_091_event_2">Lee Harvey Oswald getting shot</name>, and then the <name type="event" ref="#dvp_091_event_3">funeral</name>, and the <name type="event" ref="#dvp_091_event_4">swearing in of [Lyndon B.] Johnson</name>. It was really quite something.</u>
+      <u who="RAFSON">Do you remember how you felt at the time?</u>
+      <u who="DEREGT">Oh, we were devastated. I mean, I remember in I think it was <date when="1962">’62</date>, so I would have been in the sixth grade, in <date when="1962-11">November of ‘’62</date> when <name type="event" ref="#dvp_091_event_5">Kennedy was elected</name>—no, no, no, <date when="1960-11">November of ’60</date> when <name type="event" ref="#dvp_091_event_6">Kennedy was elected</name>, so I was 10, I was probably in the fifth grade, in northern <placeName ref="#dvp_091_place_30">Virginia</placeName>, <persName ref="#dvp_091_person_9">Kennedy</persName> was reviled. And I remember standing in the hallway of the school shouting at one of my fifth grade—he was going “<persName ref="#dvp_091_person_10">Nixon</persName>!” and I said “<persName ref="#dvp_091_person_11">Kennedy</persName>!” We were shouting at each other, and I remember when the word came in our class in <date when="1963">’63</date> that <name type="event" ref="#dvp_091_event_7">Kennedy had been assassinated</name>, and people cheered. Isn’t that something?</u>
+      <u who="RAFSON">That is. So, that’s an interesting climate, I feel like, to grow up in.</u>
+      <u who="DEREGT">Yeah. Well, I mean, it was so… Yeah, it was very interesting. And it kind of woke us up. I mean, I remember the <name type="event" ref="#dvp_091_event_8">race riots in the mid-‘60s</name>. We were living in a suburb of <placeName ref="#dvp_091_place_31">Washington, D.C.</placeName>, and the ghettos of <placeName ref="#dvp_091_place_32">Washington, D.C.</placeName> erupted. I remember the <orgName ref="#dvp_091_org_5">National Guard</orgName> having to be called out and patrolling in the streets with their guns and their tanks, and shooting, people getting shot at. It was really… And so, I also remember the cops were stationed about every couple of blocks from <placeName ref="#dvp_091_place_33">D.C.</placeName> all the way out to all the suburbs, to make sure no rioters came. So, it was really kind of a—and I haven’t thought of this for 60 years—it was really quite something. It’s hard to fathom, right? Now?</u>
+      <u who="RAFSON">Yeah, to picture it. And so, I guess a little bit more. What was your day to day life like? How were you as a student?</u>
+      <u who="DEREGT">I was a good student. I mean, I got into <orgName ref="#dvp_091_org_6">Dartmouth</orgName>, right? [laughter]</u>
+      <u who="RAFSON">Did you participate in any activities?</u>
+      <u who="DEREGT">Yeah, of course. I did sports. I did football, I did wrestling, and I did track. And I was a <orgName ref="#dvp_091_org_7">Boy Scout</orgName>.</u>
+      <u who="RAFSON">And so, all that prepared you for going to <orgName ref="#dvp_091_org_8">Dartmouth</orgName>.</u>
+      <u who="DEREGT">Yeah. So, as we went through, my grades were good, and I had wanted to go into the <orgName ref="#dvp_091_org_9">Navy</orgName>. With four kids, there wasn’t enough money for college. And those are in the days when a term at <orgName ref="#dvp_091_org_10">Dartmouth</orgName> cost $700. And my son graduated from here in <date when="2011">’11</date>, and it wasn’t $700 then. [laughter] So, I either had to go to a service academy, which was free, or get an <orgName ref="#dvp_091_org_11">ROTC</orgName> scholarship. So, I applied to six schools, got into all of them, and two <orgName ref="#dvp_091_org_12">ROTC</orgName> programs and got accepted to both. So, I chose, out of that array of choices, <orgName ref="#dvp_091_org_13">Navy ROTC</orgName> at <orgName ref="#dvp_091_org_14">Dartmouth</orgName>. And the interesting thing at the time, vis-à-vis race riots, was that was in the spring of <date when="1968">1968</date>. You had to be accepted to <orgName ref="#dvp_091_org_15">Dartmouth</orgName>, you had to be accepted into the <orgName ref="#dvp_091_org_16">Navy ROTC</orgName> program, and then you had to be further accepted into <orgName ref="#dvp_091_org_17">Dartmouth</orgName>’s <orgName ref="#dvp_091_org_18">ROTC</orgName>. So, there were three acceptances. So I got—back in the day important news was delivered by telegram. Have you ever heard of telegram?</u>
+      <u who="RAFSON">I’ve heard of one.</u>
+      <u who="DEREGT">Okay. I still have now my acceptance telegram. It’s yellow paper and it’s “Western Union” on the top. And the message is on paper strips that get glued to your yellow piece of paper. And so there’s a <orgName ref="#dvp_091_org_19">Western Union</orgName> guy who shows up at the door and says, “Here.” And we opened it up, and my mom was just hysterical with joy. I got into <orgName ref="#dvp_091_org_20">Dartmouth</orgName>, <orgName ref="#dvp_091_org_21">Navy ROTC</orgName>. I had three days to send it to accept. Well, in the spring of <date when="1968">1968</date>, there was a race riot the day that my acceptance arrived, and <orgName ref="#dvp_091_org_22">Western Union</orgName> wouldn’t take outgoing calls, and the telephone system was down. I couldn’t call <orgName ref="#dvp_091_org_23">Dartmouth</orgName> for three days. And so finally, when we could communicate, my time was up. And, you know, great apprehension. So, we communicated with <orgName ref="#dvp_091_org_24">Dartmouth</orgName> and they said, “That’s okay. We understand what happened. You’re fine. You’re in.”</u>
+      <u who="RAFSON">Oh, what a story.</u>
+      <u who="DEREGT">Yeah.</u>
+      <u who="RAFSON">And when you were applying to the <orgName ref="#dvp_091_org_25">ROTC</orgName>, were you thinking about the actual service aspect of it?</u>
+      <u who="DEREGT">Yeah.</u>
+      <u who="RAFSON">And how did you feel?</u>
+      <u who="DEREGT">Well, so I applied to <orgName ref="#dvp_091_org_26">Army</orgName> and <orgName ref="#dvp_091_org_27">Navy ROTC</orgName>, and at that time <name type="event" ref="#dvp_091_event_9">Vietnam</name> was going hot and heavy. So, in <date when="1967">1967</date>, for example, there might be a hundred people a day killed in <placeName ref="#dvp_091_place_34">Vietnam</placeName>. It was very hot and heavy. And, since I wanted to go to college, and since I couldn’t pay for it, I said, “All right, I’ll apply to the <orgName ref="#dvp_091_org_28">Army</orgName>, and if the war’s still going, I’ll do what I have to do. But I think the <orgName ref="#dvp_091_org_29">Navy</orgName> will be better, because you’re not in the jungles, your chances of getting killed in the <orgName ref="#dvp_091_org_30">Navy</orgName> were much less than getting killed in the <orgName ref="#dvp_091_org_31">Army</orgName>. So I’d also applied to the <orgName ref="#dvp_091_org_32">Coast Guard Academy [New London, CT]</orgName> and gotten in, and I had applied the <orgName ref="#dvp_091_org_33">United States Merchant Marine Academy</orgName> in <placeName ref="#dvp_091_place_35">King’s Point [NY]</placeName> and gotten in. So, I had some choices. So, the <orgName ref="#dvp_091_org_34">Army ROTC</orgName> was the least attractive choice, but since I didn’t know what I was going to get accepted to, I figured I would cast my net as far as I could.</u>
+      <u who="RAFSON">That’s interesting. So, you came to <orgName ref="#dvp_091_org_35">Dartmouth</orgName>.</u>
+      <u who="DEREGT">Yeah. So, there are some things that you might find interesting, given this project. Once you got accepted, there was summer reading, and so the book I was assigned was The Arrogance of Power by <persName ref="#dvp_091_person_12">[Senator] J. William Fulbright</persName>. And <persName ref="#dvp_091_person_13">Fulbright</persName> was a senator. You’ve probably heard of <orgName ref="#dvp_091_org_36">Fulbright</orgName> scholarships. So, The Arrogance of Power was the story of <persName ref="#dvp_091_person_14">Johnson</persName> and <persName ref="#dvp_091_person_15">Kennedy</persName> putting us into the <name type="event" ref="#dvp_091_event_10">Vietnam War</name>, and it was very critical of the politics around… And that was the first I ever read—I knew there were protests, but it’s the first I had ever read of open criticism of the President of the United States. I’d never been exposed to that before. It was always “aye, aye, sir,” right? So, I read the book, and there was a couple of other books I read, but that one was obviously, 50 years ago, that’s the one that really stuck out.So we get to <orgName ref="#dvp_091_org_37">Dartmouth</orgName> for freshman week, and did the freshman trip, and mine was I went hiking in <placeName ref="#dvp_091_place_36">[Mount] Moosilauke [NH]</placeName> and some other places. And the guys on my freshman—just so you know, the <orgName ref="#dvp_091_org_38">class of ’72</orgName> was the last all-male graduating class at <orgName ref="#dvp_091_org_39">Dartmouth</orgName>, so we had no girls. So, when I say guys, that’s all there was, right? So, the guys I was on my freshman trip with turned out to be my best friends all four years. And I’m on our <orgName ref="#dvp_091_org_40">Executive Committee</orgName>; it’s the same guys. So, the freshman trip was great. But then we had as part of it talking about—we’d all read the same book. And my friends were in support of the thesis of The Arrogance of Power. And I found myself as the only one in the group defending <name type="event" ref="#dvp_091_event_11">Vietnam</name>.</u>
+      <u who="RAFSON">And so, were you the only <orgName ref="#dvp_091_org_41">ROTC</orgName>?</u>
+      <u who="DEREGT">No. One of the guys on my freshman trip was also <orgName ref="#dvp_091_org_42">Navy ROTC</orgName>, <persName ref="#dvp_091_person_16">Bill Price</persName> [’72]. He’s our class president now. And he grew up in the suburbs of <placeName ref="#dvp_091_place_37">Baltimore</placeName>, so not very far from <placeName ref="#dvp_091_place_38">D.C.</placeName> And his view was different. His view was it was a tremendous mistake, it’s illegal, blah, blah, blah, blah, blah, right? All the arguments against <name type="event" ref="#dvp_091_event_12">Vietnam</name>.</u>
+      <u who="RAFSON">And you really hadn’t been exposed to those before?</u>
+      <u who="DEREGT">No. I had never had to—I’d never been in a conversation with somebody who was opposed to the war and could argue the “against” case rationally and calmly.</u>
+      <u who="RAFSON">What did that feel like when you heard that?</u>
+      <u who="DEREGT">It was very strange, because I’m thinking, But, it’s the country, right? The President has said this is a good thing to do, and is he lying? It took me a long time to really come to peace with the fact that the President was lying.</u>
+      <u who="RAFSON">So, I don’t want to jump too far ahead, but so, I guess why don’t you tell me a little bit about the climate of campus when you arrived after your trip?</u>
+      <u who="DEREGT">So, the campus at the time, we were about 3,000 guys. Each class had about 750. We started off—we’d had some attrition—so we started off with about 800 or so and, ironically, we graduated 650. There was a lot of attrition from <date when="1968">’68</date> to <date when="1972">’72</date>. So, there were three <orgName ref="#dvp_091_org_43">ROTC</orgName> units on campus: <orgName ref="#dvp_091_org_44">Army</orgName>, <orgName ref="#dvp_091_org_45">Navy</orgName>, <orgName ref="#dvp_091_org_46">Air Force</orgName>. And every Wednesday, we, the <orgName ref="#dvp_091_org_47">Navy</orgName>, had drill. So we had to get into our uniforms and walk to the—actually, we learned navigation in the basement of this building. So, what is now <placeName ref="#dvp_091_place_39">College Hall [Collis Center for Student Involvement]</placeName>, that’s where the unit was. We were on the third floor. Had to walk across campus, check in at the <orgName ref="#dvp_091_org_48">ROTC</orgName> offices, and then we did drill, close order drill. And the rifles were in the armory in the gym. So, we had to walk in our uniforms across campus, and then we formed up and marched for an hour, and then went back to our rooms. And so, you can imagine there were people who would shout at us in our uniforms. They wouldn’t physically assault us, because we would have made short order of that. But, there was active hostility.</u>
+      <u who="RAFSON">And how did that impact you?</u>
+      <u who="DEREGT">I said to myself, Well, he’s an asshole, frankly. I mean, You can have your opinion, but you don’t have to do that. So, it basically, it didn’t affect my political views. It more affected my opinion of whoever was doing it.</u>
+      <u who="RAFSON">So you were still in support of the war at this point?</u>
+      <u who="DEREGT">Yeah, I was still in support. That was when I was a freshman. It changed.</u>
+      <u who="RAFSON">Do you want to talk a little bit about what brought that?</u>
+      <u who="DEREGT">Sure. So, as I began to learn more about the anti- side, the “against” side, I began to realize this really was stupid. It was killing thousands of people, Americans, and many more thousands of Vietnamese. It was costing a great deal of money, and we weren’t going to win. There’s no way you can win a land war in <placeName ref="#dvp_091_place_40">Asia</placeName>. You just can’t. There’s too much land, there are too many people, and we’re halfway around the world. There was no winning. And the <orgName ref="#dvp_091_org_49">South Vietnamese</orgName> were corrupt; I mean, the government, not the people, but the government was corrupt. So, this was a fool’s errand. And then I began to be more and more in opposition.</u>
+      <u who="RAFSON">Were there any specific events? How were you exposed to the anti-war?</u>
+      <u who="DEREGT">Oh, well, there were protests all the time, I mean. So, <name type="event" ref="#dvp_091_event_13">Kent State</name> was I think in <date when="1970">1970</date>?</u>
+      <u who="RAFSON">That sounds right.</u>
+      <u who="DEREGT">Yeah. So, <name type="event" ref="#dvp_091_event_14">Kent State</name> was in <date when="1970">1970</date>, at the same time as it became publicly known that not only were we in <placeName ref="#dvp_091_place_41">Vietnam</placeName>, we were in <placeName ref="#dvp_091_place_42">Cambodia</placeName> and <placeName ref="#dvp_091_place_43">Laos</placeName>, as well. So, following the <name type="event" ref="#dvp_091_event_15">killings of the students at Kent State</name> by the <orgName ref="#dvp_091_org_50">National Guard</orgName>, there was declared this moratorium. And we went to <placeName ref="#dvp_091_place_44">Washington</placeName> to protest. So, I said to my parents… And I don’t know how many people came, many hundreds of thousands. <orgName ref="#dvp_091_org_51">Dartmouth</orgName> declared the term “Pass/Fail.” You didn’t have to complete your courses. That was spring term of <date when="1970">1970</date>. And so we went to <placeName ref="#dvp_091_place_45">Washington</placeName> and protested. I called my parents and said, “My fraternity brothers and I are all coming down,” and they said, “Bring as many as you want. We’ll have them sleep on couches. Just bring them all.” So, we did that, and since my fraternity brothers and I were football players and wrestlers and stuff—</u>
+      <u who="RAFSON">What house were you in?</u>
+      <u who="DEREGT">It was called <orgName ref="#dvp_091_org_52">Kappa Sigma</orgName>. <orgName ref="#dvp_091_org_53">Kappa Sigma</orgName> is now I think called <orgName ref="#dvp_091_org_54">Chi something [Chi Gamma Epsilon]</orgName>. It’s <placeName ref="#dvp_091_place_46">7 Webster Avenue</placeName>. So, they asked us to guard the speakers’ platform, in case… And so, at that point, by <date when="1970">1970</date>, I was against. And it was clear to me and lots of other people that <name type="event" ref="#dvp_091_event_16">Vietnam</name> was a huge mistake and we should leave. And so, they wanted us to guard the speakers’ platform in case the “pro” wanted to come and disrupt the speakers. So, we were down there for about three days, I think, as I recall. And it was quite—I mean, if I had had any lingering doubts, I didn’t after that.</u>
+      <u who="RAFSON">And so, how did being against the war, but still being part of <orgName ref="#dvp_091_org_55">ROTC</orgName>, was that a conflict for you?</u>
+      <u who="DEREGT">Not really, because the country needs a military, and the way our country is set up is the military does what the civilian leaders tell it to do. It’s not like the generals said, “Oh, let’s go have a war,” which is a good thing. Now, another thing that happened on campus was the <name type="event" ref="#dvp_091_event_17">occupation of Parkhurst [Hall]</name> [Transcriber’s note: Dartmouth College administration building]. And you’re aware of that, right?</u>
+      <u who="RAFSON">Uh-huh.</u>
+      <u who="DEREGT">And that was, I believe, the spring of <date when="1971">’71</date>, I think.</u>
+      <u who="RAFSON">That sounds right also.</u>
+      <u who="DEREGT">It was either the spring of <date when="1971">’71</date> or the spring or <date when="1972">’72</date>, and I don’t think it was the spring of <date when="1972">’72</date>. So, there was the <orgName ref="#dvp_091_org_56">SDS [Students for a Democratic Society]</orgName>, and the <orgName ref="#dvp_091_org_57">SDS</orgName> was here, and the <orgName ref="#dvp_091_org_58">SDS</orgName> was active here. And during that time, the <orgName ref="#dvp_091_org_59">SDS</orgName> were occupying administration buildings, and they occupied <placeName ref="#dvp_091_place_47">Parkhurst</placeName>. And I was in front of <placeName ref="#dvp_091_place_48">Parkhurst</placeName> the whole night, and then when the <orgName ref="#dvp_091_org_60">State Police</orgName> showed up, I said, I probably shouldn’t be here anymore, so I left. But, that was about the time when the <orgName ref="#dvp_091_org_61">ROTC</orgName> units, maybe it was <date when="1970">’70</date> or <date when="1971">’71</date>, they were all terminated. And what the rule was, “If you’re in, you can stay, but we’re not accepting any more <orgName ref="#dvp_091_org_62">ROTC</orgName> students.” So, for instance, <orgName ref="#dvp_091_org_63">Navy ROTC</orgName> when I was a freshman, in our class we had 50 members of <orgName ref="#dvp_091_org_64">ROTC</orgName>: 25 were scholarships and 25 were what’s called “contract;” in other words, you could be in the <orgName ref="#dvp_091_org_65">Navy</orgName>; you weren’t getting your tuition paid. And when we graduated, there were, I think, 11, 10 scholarships and one contract. So there was a lot of attrition.</u>
+      <u who="RAFSON">And do those people leave school or…</u>
+      <u who="DEREGT">No, either they leave school if they can’t pay for it or they stay and their parents pay or they borrow money.</u>
+      <u who="RAFSON">And can we go back to specifically the <name type="event" ref="#dvp_091_event_18">Parkhurst takeover</name>? So, could you just go through what that day was like?</u>
+      <u who="DEREGT">Well, I don’t remember the day. I do remember having heard that the <orgName ref="#dvp_091_org_66">SDS</orgName> had taken over <placeName ref="#dvp_091_place_49">Parkhurst</placeName>. So, like lots of us, we ran over to <placeName ref="#dvp_091_place_50">Parkhurst</placeName>, and just stood around and watched. And as I recall, the occupiers were, they were ill-mannered, they were shouting at the administrator. The dean of the school was trying to accommodate them, and the jerk would have his feet up on <persName ref="#dvp_091_person_17">Dean [Carroll W.] Brewster’s</persName> desk, yelling at him. I’m thinking, That’s not right. That’s not right. So, a lot of us outside were opposed to the occupation. Now, we weren’t going to go charging in and have a big fight, but when the <orgName ref="#dvp_091_org_67">State Police</orgName> showed up, we said, “Great.” And then, since the possibility of violence was quite evident, I said, “Ciao, baby. I’ve seen what I want to see.”</u>
+      <u who="RAFSON">Did you know anybody on the inside of <placeName ref="#dvp_091_place_51">Parkhurst</placeName>?</u>
+      <u who="DEREGT">Uh-hum. I forget their names now, but I knew a few of them.</u>
+      <u who="RAFSON">And were you friends with any of them or was it—</u>
+      <u who="DEREGT">Acquaintances, you know. It’s not a very big school. You know, I might have been in classes with them, but, you know, no close friends.</u>
+      <u who="RAFSON">I can imagine they were pretty anti-ROTC, as well.</u>
+      <u who="DEREGT">Yeah, I mean, so really, there’s a lot of difference between those folks and me.</u>
+      <u who="RAFSON">It’s an interesting thing to watch happen.</u>
+      <u who="DEREGT">It is, I mean… so, I’ll go forward a little bit. So the way <orgName ref="#dvp_091_org_68">ROTC</orgName> works is you can leave, you can resign your scholarship up until the time you start your junior year. Then, if you resign your scholarship, you go into the <orgName ref="#dvp_091_org_69">Navy</orgName> as an enlisted man. Bam, boom. So, fall of junior year, I said, “Sign me up.” Fast forward to spring term senior year, and we’re getting our orders. And so, I had asked for a ship based on the East Coast, a destroyer, because I figured that was probably the best way I could avoid doing this thing I really didn’t want to do. Not because I was afraid, but because I was politically opposed. So, the way you graduate is you are commissioned an ensign in the <orgName ref="#dvp_091_org_70">Navy</orgName>, and therefore subject to military law the day before you graduate. So they commissioned us, we’re subject to military law, and the next day we graduated dressed in our <orgName ref="#dvp_091_org_71">Navy</orgName> uniforms as ensigns. So, the day before we were commissioned, I got a call—I was passed out in the morning in the fraternity house from having stayed up all night—“John, you gotta go down to the <persName ref="#dvp_091_person_18">ROTC</persName> office. They want to see you right away.” So I said, “Okay.” So I walked on down, and in the next room one of the clerks was making airplane reservations from <placeName ref="#dvp_091_place_52">Travis Air Force Base [CA]</placeName>. Now, in those days, there were two major <orgName ref="#dvp_091_org_72">Air Force</orgName> bases from which people were sent overseas. One is <placeName ref="#dvp_091_place_53">McGuire [Air Force Base, NJ]</placeName> and one is <placeName ref="#dvp_091_place_54">Travis</placeName>. So, I heard them making reservations for <persName ref="#dvp_091_person_19">Ensign John de Regt</persName> out of <placeName ref="#dvp_091_place_55">Travis Air Force Base</placeName>. So I said to the chief, the chief yeoman, the clerk, so I said to him, “<placeName ref="#dvp_091_place_56">Travis</placeName>? That’s in <placeName ref="#dvp_091_place_57">New Jersey</placeName>, right?” And he had this big smile on his face and he said, “No. You are going to war, young man.” So my East Coast destroyer in April, unbeknownst to me, had been ordered to <placeName ref="#dvp_091_place_58">Vietnam</placeName>. So, it was on the East Coast; it was the east coast of <placeName ref="#dvp_091_place_59">Vietnam</placeName>.So, I had a day to make a decision. So I called home and said to Mom and Dad, “I’ve got orders to <placeName ref="#dvp_091_place_60">Vietnam</placeName>, and I don’t know what I’m gonna do,” because I could have gone down to <placeName ref="#dvp_091_place_61">White River</placeName>, gotten on a bus, and been in <placeName ref="#dvp_091_place_62">Montreal</placeName> in three hours. Because a lot of people were doing that. My draft number was 363. I was in the first lottery, so, I mean, I could have—at that point it was too late, because it was my junior year, so I was cooked anyway—so I could have fled the country. So, Dad and Mom said over the telephone, not having any idea this happened, “You do whatever you want. If you want to go to <placeName ref="#dvp_091_place_63">Canada</placeName>, we’ll move the family and be Canadians.” So I said, Well, the core of my dilemma was ‘my country, right or wrong,’ which I’m an American and I believe in supporting the country, and I still do, or doing something that I completely didn’t agree with. So they said, “We can’t help you make your decision, and whatever, just let us know.”So, I then went to <persName ref="#dvp_091_person_20">Dean Brewster’s</persName> office, dean of the college. He and I knew each other, not from my academic achievements, but for some of my other things. For example, shortly after the <name type="event" ref="#dvp_091_event_19">SDS occupied Parkhurst</name>, we were down in the basement of the fraternity house and said, “You know what? Aside from the fact that they weren’t very nice people, that looked like a lot of fun. So, let’s occupy something.” So, we decided to occupy <placeName ref="#dvp_091_place_64">Fort Ticonderoga [NY]</placeName>.And so, about 150 of us one morning drove from <placeName ref="#dvp_091_place_65">Hanover</placeName> to <placeName ref="#dvp_091_place_66">Fort Ticonderoga</placeName> before it opened. And most of us hid in the woods and got dressed up like Indians, because <orgName ref="#dvp_091_org_73">Dartmouth</orgName> was the Dartmouth Indians then. And the advance party dressed up like tourists, went into <placeName ref="#dvp_091_place_67">Fort Ticonderoga</placeName> with a beer keg and ropes. And the tourists thought this was a show, and the park rangers didn’t know what it was. But, as soon as the inside party threw the ropes over the wall, they pulled the gates of the fort shut, dropped the bar, and said, “We have taken over <placeName ref="#dvp_091_place_68">Fort Ticonderoga</placeName> and we’re gonna sacrifice any virgins we can find unless all the beer gets drunk.” And, so the throwing—if you look in the archives of the daily <orgName ref="#dvp_091_org_74">Dartmouth [The Dartmouth]</orgName>, you’ll see it—so the throwing of the ropes over the walls was our sign to come screaming across the field, which we all did, and the tourists thought this was part of the show. We climbed up the ropes and occupied <placeName ref="#dvp_091_place_69">Fort Ticonderoga</placeName>. So, about 10 minutes later, the <orgName ref="#dvp_091_org_75">New York State Police</orgName> show up, and they said, “You guys have to come out of there,” and we said, “Never.” And they said, “We’ll give you one minute, and if you surrender within one minute, we’ll let you go.” We said, “We surrender.” [laughter] So, I had come to <persName ref="#dvp_091_person_21">Carroll Brewster’s</persName> attention from that escapade. So he and I knew each other.So I went to see <persName ref="#dvp_091_person_22">Carroll Brewster</persName> and said, “Look, this is what happened. Tomorrow I’m getting commissioned and I’m subject to the Uniform Code of Military Justice, and if I desert, I’m a criminal. But I haven’t taken the oath yet, because it’s still today. And I have this dilemma: do I do this thing that I really am opposed to or do I say ‘my country, right or wrong,’ and do what my country is asking me to do, even if I think it’s wrong?” So he says, “<persName ref="#dvp_091_person_23">John</persName>, I can’t tell you what to do.” So he pulls up on his lower drawer, brings out two shot glasses and a bottle of scotch. And he pours us each one and he says, “<persName ref="#dvp_091_person_24">John</persName>, knock it back. Here’s to life and its compromises.” So, I knocked it back and said, “Thank you very much.” And I decided. I called home and said, “Look, I’m gonna go do this. Even if I’m opposed, I’m still gonna go do it.” So, that’s what I did. So, to answer your question, that is what happened with me. I was against the war I’d come to <orgName ref="#dvp_091_org_76">Dartmouth</orgName> in <date when="1968">’68</date> being favor of, learned how awful it was, became opposed to, participated in demonstrations while I was in <orgName ref="#dvp_091_org_77">ROTC</orgName>, not in my uniform, opposed to, and then I got orders and I went anyway.</u>
+      <u who="RAFSON">So, once you made the decision, what was the feeling? Did you feel proud?</u>
+      <u who="DEREGT">Well, you know, the feeling was, I had decided ‘my country, right or wrong.’ That is a decision I made, that I was going to follow my orders, fulfill my obligation, because the <orgName ref="#dvp_091_org_78">Navy</orgName> had paid for my whole college. And so, I felt comfortable with the decision. I wasn’t looking forward to fight, and you know, not because I was afraid, but because I was part of something I didn’t believe in.</u>
+      <u who="RAFSON">Was there any fear of the actual…</u>
+      <u who="DEREGT">No. I mean, I never… I mean, we were in combat, I don’t know, 20 times, 25 times, so we were, what our job was… So, anyway, so I graduate from <orgName ref="#dvp_091_org_79">Dartmouth</orgName>, get my—put my stuff in the car and go home, and about a week later I’m on the airplane on my way to <placeName ref="#dvp_091_place_70">Vietnam</placeName>. So, <placeName ref="#dvp_091_place_71">D.C.</placeName> to <placeName ref="#dvp_091_place_72">Travis</placeName>, <placeName ref="#dvp_091_place_73">Travis</placeName> hopping across the Pacific, the plane landed in the <placeName ref="#dvp_091_place_74">Philippines</placeName>, I got on a ship, a tanker, that took me out to where the <placeName ref="#dvp_091_place_75">Sarsfield</placeName> was, I went from the tanker to the destroyer on a rope while the ship was refueling. So, about two weeks or so, or maybe three, after I graduated, I was on a ship at war.</u>
+      <u who="RAFSON">So, was there more supplemental training? </u>
+      <u who="DEREGT">None. Just, boom, off you go. So, I didn’t know anything. I mean, I had been—in the summertime, I’d been on ships and I knew, you know, the basic routine. But, I was going to be gunnery officer, and I had no training in gunnery. But I got a lot of training in a real hurry. </u>
+      <u who="RAFSON">That was all kind of on the job?</u>
+      <u who="DEREGT">It was on the job.</u>
+      <u who="RAFSON">And so, what exactly does a gunnery officer do?</u>
+      <u who="DEREGT">So, the ship was the <orgName ref="#dvp_091_org_80">USS Sarsfield (DD-837)</orgName>. It had been built right at the end of <name type="event" ref="#dvp_091_event_20">World War II</name>, and modified in the early ‘60s. So, this was in <date when="1972">1972</date>. So the ship was at that point 27 years old. Still in good shape. We had two twin 5-inch .38 gun mounts. I wish I had a photo of it. I could probably look it up. We had two 5-inch—we had four 5-inch guns. And the job of gunnery officer was the care and feeding of the gun fire system. So in other words, making sure the guns worked, making sure we had enough ammunition of the right kinds, and that the aiming system worked. So, I was responsible for the gunner’s mates and the fire control technicians. And what we were doing… [pause] Oh, there it is, <orgName ref="#dvp_091_org_81">Sarsfield Vietnam</orgName>, that ship right there.</u>
+      <u who="RAFSON">Oh, wow. So, those front guns?</u>
+      <u who="DEREGT">Yeah, and then there was another one in the back. So, yeah, there she is.</u>
+      <u who="RAFSON">And so, you were responsible for the upkeep essentially of them?</u>
+      <u who="DEREGT">Uh-huh. Upkeep and operation. So, we were doing three things. We would escort the aircraft carriers. And you’ve heard of the <placeName ref="#dvp_091_place_76">Gulf of Tonkin</placeName>?</u>
+      <u who="RAFSON">Uh-hum.</u>
+      <u who="DEREGT">You’ve heard of <placeName ref="#dvp_091_place_77">Yankee Station</placeName>? </u>
+      <u who="RAFSON">Could you…</u>
+      <u who="DEREGT"><placeName ref="#dvp_091_place_78">Yankee Station</placeName> was the spot in the <placeName ref="#dvp_091_place_79">Gulf of Tonkin</placeName> where the aircraft carriers would stay, launching raids into North Vietnam. So, we would escort the carriers. We would go off North Vietnam and shoot inland, trying to hit trucks on the supply roads, and that’s when they would shoot back at us. We got hit twice. And then, off South Vietnam, we would do what’s called gunfire support, which is if there was a battle going on, we would get as close as we could to the shore, and fire artillery at the bad guys, fire our guns at the bad guys.</u>
+      <u who="RAFSON">So, what was the team or unit that you served on like?</u>
+      <u who="DEREGT">You mean, the ship?</u>
+      <u who="RAFSON">Or the people even?</u>
+      <u who="DEREGT">The guys were pretty good. The captain was a complete idiot. I’ll tell you another story about that.</u>
+      <u who="RAFSON">What was his name?</u>
+      <u who="DEREGT">His name was Jumping <persName ref="#dvp_091_person_25">Jack Felderman</persName>. [laughter] <persName ref="#dvp_091_person_26">Jumping Jack</persName>. So the guys were pretty good. I mean, the ward room was nice, the people who worked for me were sharp and did their job well.</u>
+      <u who="RAFSON">Did it help build relationships? What was your day to day…</u>
+      <u who="DEREGT">Well, so the days were endless. I mean, we didn’t get very much sleep. So, sometimes we’d be up for 36 hours in a row. So, what my day was is I had—we were either standing six on and six off, or four on and eight off. But usually six on and six off. So, I would have six hours on the bridge as the assistant officer of the deck, basically giving engine orders and steering orders and, you know, having the ship be in the right place. And then the six hours off I was sometimes eating, sometimes sleeping, but most of the time being involved—we did a lot of shooting. So I was either in the gun mount in the fire control plot or in the magazines doing that. So, we didn’t get very much sleep.</u>
+      <u who="RAFSON">And so, how did it feel? Did it feel like you were—obviously, you were never on the ground directly, but you were right up next to it.</u>
+      <u who="DEREGT">Yeah, well, so the first time I was in combat, I didn’t even know it. We were off North Vietnam shooting trucks. And it’s a point about 60 miles north of the <placeName ref="#dvp_091_place_80">DMZ</placeName>, and there’s a coastal ridge of mountains that comes right down to the shore, and the north-south route comes right around the tip of the mountain on the beach, and all the trucks have to pass by there. And, so we would shoot them as they came around the corner. And the North Vietnamese didn’t like this, so they shot back at us. And, so that morning, I forget what day of the week it was, I had had the 4:00 to 8:00 watch on the bridge, 4:00 a.m. to 8:00 a.m., and I had just gone—it was a lovely day, and we were shooting, but I had just come off watch. So, the officers eat in what’s called the ward room. So I was down in the ward room having breakfast, and General Quarters sounds, and that’s the alarm to man your battle stations. So, at that time, my battle station was in the forward gun mount. So I jumped up, ran out on deck, and there was water coming down out of the sky. And I said, What? I just was on watch. There’s not a cloud in the sky. Water coming out of… And I heard this booming and a popping. What the hell’s that? There’s no thunder. And there were these white circles in the water next to the ship where the shells had exploded. And I said, “What the hell is that?” And the guys—and I was standing there with my mouth open, and the guys in the gun mount using, as you can imagine, colorful language, said, “Get in here so we can close the door,” because the gun mount had thick walls and would stop shrapnel, you know, the pieces. And that’s when I realized we were getting shot at. And that day they hit the ship with shrapnel; so in other words, a shell landed close enough so that pieces of it hit the ship. Nobody got hurt. But, that was my first time in combat and I didn’t even know it. </u>
+      <u who="RAFSON">What did you think once you really realized what—</u>
+      <u who="DEREGT">I realized holy shit! And I was very lucky, because I was standing there on the deck with shells landing in the water all around the ship. I’m just glad that their aim wasn’t any better.</u>
+      <u who="RAFSON">So, how frequently would something like that occur?</u>
+      <u who="DEREGT">That happened, that getting shot at happened while I was aboard twice. Before I got aboard, the <orgName ref="#dvp_091_org_82">Sarsfield</orgName> and a couple of other ships had actually raided <placeName ref="#dvp_091_place_81">Haiphong Harbor</placeName>, had gone into <placeName ref="#dvp_091_place_82">Haiphong Harbor</placeName> on a raid and shot, and had gotten shot back at, and then left again after they blew up—I think they were shooting a refinery and maybe oil tank storage, or oil storage, and they didn’t get hit. But, that only happened twice when I was aboard. Most of the combat was South Vietnam, you know, right up next to the beach, supporting either our guys or the <orgName ref="#dvp_091_org_83">South Vietnamese Army</orgName>. </u>
+      <u who="RAFSON">And did you have any interaction with the <orgName ref="#dvp_091_org_84">South Vietnamese Army</orgName>?</u>
+      <u who="DEREGT">Just listening to the spotter saying… So, the way it works is they tell you the coordinates on the map where to shoot, and then they’ll say, “Left 50 yards, up 50 yards,” and then so we’ll correct. And the ship equipment was very good, so we could literally drop our bullets right down a pickle barrel. So, the interaction was with the spotters, and not with the troops.</u>
+      <u who="RAFSON">And while you were serving, did you ever actually go—or were you on the ship most of the time?</u>
+      <u who="DEREGT">Well, we never stepped foot in <placeName ref="#dvp_091_place_83">Vietnam</placeName>. But we were right there.</u>
+      <u who="RAFSON">And so, throughout all this, you came in with your duty to serve essentially, how are you feeling at this point after a while?</u>
+      <u who="DEREGT">Well, so, about three or four days after I got on the ship, and at that point I was the juniorest officer in the ward room, because I’d been only commissioned for a couple of weeks, right?</u>
+      <u who="RAFSON">And how old were you?</u>
+      <u who="DEREGT">22. So, one day at breakfast, the captain then—so, the ship rises toward the bow, and the ward room is in the forward part of the ship, and the table is horizontal, but the ward room is sloped. And so the captain sits at the head of the table, like he would be sitting where that head of the statue is, and I was sitting where you are, at the bottom of the table, because I was the juniorest. So he says to me, “So, <persName ref="#dvp_091_person_27">Mr. de Regt</persName>”—<persName ref="#dvp_091_person_28">Johnson</persName> was President at the time—so he says to me, “So, what do you think of the Commander in Chief?” I said, “I think he’s an asshole and should get fired.” And then I realized I’m an officer on a ship at war, and I just said that about the Commander in Chief, because in my head I was still in the basement of the fraternity house. So, I had to make some rapid adjustments. </u>
+      <u who="RAFSON">Yeah, how was, culturally…</u>
+      <u who="DEREGT">That was not well received. That was not well received. And I didn’t say it again.</u>
+      <u who="RAFSON">And, coming from <orgName ref="#dvp_091_org_85">Dartmouth</orgName>, was it a huge adjustment?</u>
+      <u who="DEREGT">Yes, it was a huge adjustment.</u>
+      <u who="RAFSON">What parts specifically were?</u>
+      <u who="DEREGT">Well, I mean, in this—and I’m sure it’s still true today—in this environment, you can say pretty much whatever you want. Now, you might get challenged to support it, which is legitimate. But there’s no, at <orgName ref="#dvp_091_org_86">Dartmouth</orgName> then and I’m sure now, there’s no sort of thought police; there’s no taboo subjects, right? And then I realized in the <orgName ref="#dvp_091_org_87">Navy</orgName> there are, especially when you’re at war. There are some customs in the ward room. You’re not supposed to talk about politics, religion or sex, which you can imagine why, right? So, the captain asking me about my political views was a violation of that taboo, and I didn’t have my filters up yet.</u>
+      <u who="RAFSON">And were most of the people surrounding you, was it a lot of people from the draft?</u>
+      <u who="DEREGT">No, see, the thing is, in those days, the draft only went into the <orgName ref="#dvp_091_org_88">Army</orgName>. And before, and in the late ‘60s, when <name type="event" ref="#dvp_091_event_21">Vietnam</name> was hot and heavy, you would occasionally get drafted into the <orgName ref="#dvp_091_org_89">Marine Corps</orgName>, which was awful. But, to avoid being drafted, you would join the <orgName ref="#dvp_091_org_90">Air Force</orgName> or the <orgName ref="#dvp_091_org_91">Navy</orgName>. So there were a lot of people, a lot of enlisted men, on the ship who didn’t want to be there, were opposed to the war, but being on a ship was a lot safer than having a rifle in the jungle. So, there were some times when, I mean, the guys always did their duty, but you could tell they would rather be somewhere else.</u>
+      <u who="RAFSON">Do you think that impacts the culture on the ship? </u>
+      <u who="DEREGT">It does. I mean, you know, in <name type="event" ref="#dvp_091_event_22">World War II</name>, for instance, it was pretty clear who the enemy was, and there wasn’t any doubt about it, right? And so, they were trying to kill you as hard as you were trying to kill them. Here, yeah, we were trying to kill them and we did, but there was a definite undertone of I really don’t want to be here.</u>
+      <u who="RAFSON">That’s an interesting way of… Are there any other specific points in your service that had a really profound impact on you?</u>
+      <u who="DEREGT">Not like that. Not like that. The next year—so we got back from <placeName ref="#dvp_091_place_84">Vietnam</placeName> in <date when="1972-12">December of ’72</date>. So we got back to <placeName ref="#dvp_091_place_85">Mayport</placeName>. The ship was home ported in <placeName ref="#dvp_091_place_86">Mayport, Florida</placeName>, which is outside of <placeName ref="#dvp_091_place_87">Jacksonville</placeName>, in <date when="1972-12">December of ‘72</date>. And we stayed in port, did some local stuff, did some modifications to the ship. And then in like April or <date when="1973-05">May of ’73</date>, we did a six month deployment to the Mediterranean. So we were gone again for six months. And I was a bachelor, and I wasn’t in any relationships, but I really felt sorry for the married guys, because they had just gotten back from <placeName ref="#dvp_091_place_88">Vietnam</placeName>, we’re home for six months, and off we went again for another six months. So, that kind of decided me that when my obligated service was up, I was going to get out, because I didn’t want to be married and be gone all the time, or and have my wife be without me all the time. So, in like <date when="1973-04">April</date> or <date when="1973-05">May of ’73</date>, we went to northern Europe and did some exercises with the <orgName ref="#dvp_091_org_92">British Navy</orgName> and the <orgName ref="#dvp_091_org_93">French Navy</orgName> and all, and then, one day in a storm came the word that the <name type="event" ref="#dvp_091_event_23">Arab-Israeli War</name> of ’73 had started. And it wasn’t going well for the <orgName ref="#dvp_091_org_94">Israelis</orgName>. They were getting their planes shot down. So, we were with an aircraft carrier which I think was the JFK, the <orgName ref="#dvp_091_org_95">[USS John F.] Kennedy, CV-67</orgName>. So, at top speed, we were then off the northern coast of <placeName ref="#dvp_091_place_89">Norway</placeName>. We were north of the <placeName ref="#dvp_091_place_90">Arctic Circle</placeName> chasing Russian submarines. So, we come screaming down and stopped about a hundred miles west of the <placeName ref="#dvp_091_place_91">Strait of Gibraltar</placeName>. So, how’s your geography?</u>
+      <u who="RAFSON">Decent. Yeah, I’m still with you.</u>
+      <u who="DEREGT">Okay. So we go screaming down to park ourselves a hundred miles west of <placeName ref="#dvp_091_place_92">Gibraltar</placeName>, and this is not just a sea story. There’s a reason for this, <persName ref="#dvp_091_person_29">Claire</persName>. All right, so here you go [Transcriber’s note: shows her a map]. So we were up here chasing Russian submarines and doing exercises. We came down here to right around in here, about a hundred miles off the <placeName ref="#dvp_091_place_93">Strait of Gibraltar</placeName>. Now, the <orgName ref="#dvp_091_org_96">Israeli Air Force</orgName> at the time was composed primarily of F-4 Phantoms and A-4 Skyhawks, both of which are <orgName ref="#dvp_091_org_97">Navy</orgName> airplanes. And so, the <orgName ref="#dvp_091_org_98">US Navy</orgName> was flying <orgName ref="#dvp_091_org_99">Navy</orgName> airplanes from the <placeName ref="#dvp_091_place_94">US</placeName> to our carrier, they would hop to another carrier—there were three carriers involved—they would hop to another carrier about off of <placeName ref="#dvp_091_place_95">Sicily</placeName>, and then the third carrier off of <placeName ref="#dvp_091_place_96">Crete</placeName>, and then fly to <placeName ref="#dvp_091_place_97">Israel</placeName>. And they would paint out the stars and stripes, put on the star of David, and the airplanes would go into combat right away. So we were doing that for about a week. And then came the word—and in those days, the <orgName ref="#dvp_091_org_100">Russian Navy</orgName> was very strong—and then came the word everybody had to be full speed to the eastern Med, right off of <placeName ref="#dvp_091_place_98">Israel</placeName>. So, we were right in here somewhere [Transcriber’s note: pointing at the map]. We were over the horizon. You couldn’t see either <placeName ref="#dvp_091_place_99">Egypt</placeName> or <placeName ref="#dvp_091_place_100">Israel</placeName>, but it was only 50 miles away. And we were surrounded by the <orgName ref="#dvp_091_org_101">Russians</orgName>. And I remember on the transit through the <placeName ref="#dvp_091_place_101">Straits of Gibraltar</placeName>, we were going full speed, and it was a storm, and so we were about a quarter of a mile behind the aircraft carrier, and it was breaking the waves for us. But right between us and the aircraft carrier was a Russian nuclear submarine, and we could hear it on the sonar, because it was making so much noise. But they didn’t care. They wanted us to know they were right there.So, you asked the question, what other things in my service made an impression? [laughter]—there’s one more after this—was realizing that actually in the <name type="event" ref="#dvp_091_event_24">Arab-Israeli War</name> of <date when="1973">1973</date> in the Med, we were all in much more danger than we were off <placeName ref="#dvp_091_place_102">Vietnam</placeName> the year before, because it very easily could have tripped into a shooting war, and then it would have been serious. It didn’t, but it could have been.</u>
+      <u who="RAFSON">And so, when you guys were stationed right off of <placeName ref="#dvp_091_place_103">Israel</placeName> and <placeName ref="#dvp_091_place_104">Egypt</placeName>, were you doing similar day to day?</u>
+      <u who="DEREGT">Yeah, the day to day was, we weren’t shooting, but we were certainly ready for it. And there’s a duty called “plane guard,” and so, that’s where a destroyer will follow right behind an aircraft carrier while airplanes are landing and taking off, so that if one crashes, you’re right there to pick up the pilot. So, we were doing mostly plane guard, and we were doing screens around the aircraft carrier, and occasionally the <orgName ref="#dvp_091_org_102">Russians</orgName> would try to break the screen and we had to—we didn’t hit them, but had to get in the way so they couldn’t penetrate the screen. And we were chasing submarines, too.</u>
+      <u who="RAFSON">And what does chasing submarines entail exactly?</u>
+      <u who="DEREGT">Well, so, you’ve heard of radar, right?</u>
+      <u who="RAFSON">Yep.</u>
+      <u who="DEREGT">Have you heard of sonar?</u>
+      <u who="RAFSON">Uh-huh.</u>
+      <u who="DEREGT">Okay, it’s pinging them with our sonar, because the ship has various anti-submarine weapons, as well, that weren’t part of my responsibility, but it’s the ability to sink submarines. And so, before you do that, you have to know where they are. And it’s good for them to know that you know where they are. So that’s what chasing submarines means.</u>
+      <u who="RAFSON">Letting them know that you’re there.</u>
+      <u who="DEREGT">Letting them know that you’re there, right. So, we were at sea for 91 days in a row, from the time we left—what was our last port? I think it was <placeName ref="#dvp_091_place_105">Scotland</placeName>—by the time we got away from <placeName ref="#dvp_091_place_106">Scotland</placeName>, went up north chasing submarines, all the way back into the Med, we were at sea for 91 days. And, of course, you get food and fuel and ammunition from supply ships. So, came the word when the <name type="event" ref="#dvp_091_event_25">Arab-Israeli War</name> had cooled off, they’d stopped fighting, we were going into <placeName ref="#dvp_091_place_107">Piraeus</placeName>, which is <placeName ref="#dvp_091_place_108">Greece</placeName>, it’s <placeName ref="#dvp_091_place_109">Athens</placeName>, for a port call. I’m half Greek. I notified my uncle, he came down and got me, and I had dinner at their apartment. And that night, there was a revolution in <placeName ref="#dvp_091_place_110">Greece</placeName>.</u>
+      <u who="RAFSON">What year was this?</u>
+      <u who="DEREGT">This was <date when="1973">’73</date>. And, of course, the guys on the ship had taken it apart to fix it, because the ship had been continuously operating for <date>three months</date>, stuff needed to get worked on. So, the machine guns were going in the streets, the cops were shooting the revolutionaries and the revolutionaries were shooting back. So my uncle said, “We’ve got to get out of here.” So he hopped in his car, drove me back to the base, he went back to his apartment, didn’t get shot, and we left for home the next morning. So, from the time we left <placeName ref="#dvp_091_place_111">Scotland</placeName> to the time we got back to <placeName ref="#dvp_091_place_112">Mayport</placeName>, we had been underway for about 110 days with one day in port.</u>
+      <u who="RAFSON">Wow.</u>
+      <u who="DEREGT">Yeah. So, the last thing that affected me was from <date when="1975">’75</date> to <date when="1978">’78</date>, I was an instructor at the <orgName ref="#dvp_091_org_103">New York State [State University of New York] Maritime College [Bronx, NY]</orgName>, which it’s a merchant marine college, a state merchant marine college, and they had an <orgName ref="#dvp_091_org_104">ROTC</orgName> unit. So I was now an assistant professor of naval science. So, that was from <date when="1975">’75</date> to <date when="1978">’78</date>. And in <date when="1976">’76</date>, I think it was, or it might have been <date>’77</date>. I’m just looking something up here. Oh, it’s <date when="1975-11">November of ’75</date>. I had just gotten there. So, in <date when="1975-11">November of ’75</date>, the <orgName ref="#dvp_091_org_105">Belknap</orgName> [Transcriber’s note: USS Belknap (DLG-26/CG-26)], which was a guided missile destroyer, was in a collision with one of our aircraft carriers. And when I was on the ship, I was officer of the deck. I eventually became in charge, right? So, one of the things you learn is to stay out of the way of the aircraft carrier. I remember the first time I was on the bridge in the presence of an aircraft carrier, and I was junior officer of the deck, the captain comes over to me and says, “So, <persName ref="#dvp_091_person_30">Mr. de Regt</persName>, what is that over there?” I said, “That, sir, is an aircraft carrier.” He goes, “Yep, and do you know what we call aircraft carriers?” I said, “No, sir.” He says, “Can openers.” Because slang for a destroyer was “a tin can,” because it had no armor, and “can openers” mean they run over and kill you. “Don’t get run over.” So, the <orgName ref="#dvp_091_org_106">Belknap</orgName> was in a head-on with the <orgName ref="#dvp_091_org_107">Kennedy</orgName>. And aircraft carriers, as you can imagine, have lots of aviation fuel. Well, the pipes for the aviation fuel to move back and forth on the ship run outside the ship, because obviously if you have a pipe full of jet fuel inside and there’s a fire, or you get hit by a bomb or something, it’s awful. So, the <orgName ref="#dvp_091_org_108">Belknap</orgName>—and the superstructure of the <orgName ref="#dvp_091_org_109">Belknap</orgName> was aluminum, and that’s important—I’ll tell you in a minute. So, the <orgName ref="#dvp_091_org_110">Kennedy</orgName> was coming this way, the angle deck is over here with a plane to take off, and the <orgName ref="#dvp_091_org_111">Belknap</orgName> came just like this, and the <orgName ref="#dvp_091_org_112">Kennedy</orgName> sheared off—you can see from that picture—the entire superstructure, and poured jet fuel from the ruptured pipes down into the boilers of the <orgName ref="#dvp_091_org_113">Belknap</orgName>, and burned them to the water line. So, there were about, you can see it there, there were a number of sailors killed, and I and my best friend in the unit had to get in our very finest uniforms and tell a woman in <placeName ref="#dvp_091_place_113">Brooklyn</placeName> that her son had been killed. And that was really difficult. We stood there. And she saw us pull up in the <orgName ref="#dvp_091_org_114">Navy</orgName> car and get out of it, two officers in their dress blues, and she knew what it was. And so we knocked on the door. She wouldn’t let us in. We said, “It is our sad duty to tell you that your son was killed on the <orgName ref="#dvp_091_org_115">Belknap</orgName> yesterday.” And I’ll never forget that. Can you imagine?</u>
+      <u who="RAFSON">Yeah, how does a moment like that, how does that change how you view anything?</u>
+      <u who="DEREGT">Well, it talks to the sanctity of life, right? It talks to the very thin line between life and death, because the guy was doing nothing wrong. Somebody screwed up on the bridge, probably got killed in it as well. But he was doing nothing wrong and he’s dead. So, it kind of—you know, we’re not very far from death at any given point in time. Drive your car, you know, walk down the street. So, that was kind of the, you know, I said to myself, Jesus! It’s not very far away.</u>
+      <u who="RAFSON">And that was right after you had just finished your service?</u>
+      <u who="DEREGT">No, no, that was right after I got off the ship. So, I was in the <orgName ref="#dvp_091_org_116">Navy</orgName> from <date when="1972">’72</date> to <date when="1978">’78</date>. I was on the ship from <date when="1972">’72</date> to <date when="1975">’75</date>, and then from <date when="1975">’75</date> to <date when="1978">’78</date>, I was at the <orgName ref="#dvp_091_org_117">SUNY [State University of New York] Maritime</orgName> as a teacher, and active duty in the <orgName ref="#dvp_091_org_118">Navy</orgName>.</u>
+      <u who="RAFSON">So, can you tell me a little bit about your time teaching?</u>
+      <u who="DEREGT">Yeah. So, our job was—it’s so interesting—the cadets were basically of two types. They were going to be deck students, you know, driving merchant ships on the bridge, or they were going to be engineers down in the engine room running the engines on the merchant ships. And those kind of people are obviously in high demand as naval officers, because they really know their stuff. So, our job was to teach—or I taught naval science, which is: “Here’s what the <orgName ref="#dvp_091_org_119">Navy</orgName> is all about. Here’s how the <orgName ref="#dvp_091_org_120">Navy</orgName> works.” And I taught leadership and management, which is: “Here’s how you behave as a leader.” And I really enjoyed it. I thought I was pretty good at it. So, I did that for three years, got out, and then, about—this is now <date when="2018">’18</date>, so last year, in <date when="2017">’17</date>, I got an email from one of the people who I had taught, and he said in his note, “We just had our 40th and you were remembered fondly. Would you like to get together with us, a couple of us, and have lunch?” So I did. And I had made an impression that I wasn’t aware of, which was, “You are really cool. We liked you. You were an effective teacher. You didn’t put up with any nonsense, but we enjoyed your class.” And, so this is a reach from after 40 years, you know? And you can’t make that up. So, I’m on the Fort Schuyler [NY] Facebook page now and I talk to these guys all the time. And it is now really cool. It was nice when I did it. I sort of check in the box, see you, bye. But then, when you get a call after 40 years that, you know, “We really did like you. We thought you were pretty neat. We want to have lunch with you,” that was pretty neat.</u>
+      <u who="RAFSON">Do you think there was anything in particular from before your teaching that helped you be so effective? Like, was it your service that impacted the way you taught?</u>
+      <u who="DEREGT">I think it was a couple things. So I was a <orgName ref="#dvp_091_org_121">Boy Scout</orgName>, and I was an Eagle Scout, which almost nobody ever does. So you have to get a whole bunch of merit badges. And did you do any scouting, <orgName ref="#dvp_091_org_122">Girl Scouting</orgName>?</u>
+      <u who="RAFSON">No, but I had some friends who did.</u>
+      <u who="DEREGT">Okay, so you know you have the sash with all the, you know… So, one of them was public speaking. And so I had learned when I was a teenager how to speak. And I think that—I don’t know how conscious I was, but back in the back of my head was that, and having had a division, having had 15 guys work for me, and having been in charge of the ship when I was on watch. I was in charge of everything, I knew how to present myself. And then, being half Greek. Oh, you’ve heard of the Socratic method?</u>
+      <u who="RAFSON">Uh-huh.</u>
+      <u who="DEREGT">Right. So I used the Socratic method to teach, and learned by doing that that you’re a much more effective teacher if you don’t talk all the time. [laughter] Is that true?</u>
+      <u who="RAFSON">Yeah.</u>
+      <u who="DEREGT">So I think that’s the kind of thing that I was doing. I made a point of trying to be interesting. I tried to tell stories that I thought were relevant. I asked them questions. I wasn’t a jerk. So, I think those things, and I mean, obviously, right, they didn’t know me from Adam after 40 years, but they said, “You.” So I think those are the kinds of things that made a difference.</u>
+      <u who="RAFSON">And so, you taught for three years?</u>
+      <u who="DEREGT">Three years, yeah.</u>
+      <u who="RAFSON">And so, what after that happened?</u>
+      <u who="DEREGT">Okay, so, I really liked driving the ship. It was like—a destroyer is like a high powered sports car, has lots of power, lots of speed, lots of maneuverability, and I was really good at driving it. So one of the things that we did was, you would come alongside a tanker, and match speeds and refuel, or take ammunition or food. And I loved doing that, just put it right there. There was one time, so UNREPs, they’re called, Underway Replenishments, they last anywhere from half an hour to three hours, depending on how much she was taking, right? I put the ship alongside, and you have to do these minute little changes all of the time, and I didn’t have to change engine speed or course for 20 minutes—which every 30 seconds usually you’re “come left, come right, speed up, slow down”—to the point where the engine room called up to the bridge and said, “Are we still alongside?” [laughter] So, I really liked… I have a sailboat. My wife and I sail all the time. I just love the maneuvering. It’s something that resonates with me. So, I wanted to stay in shipping. I tried to get a license. I said, “I’ve been driving a ship.” “You can’t get a license.” You have to go through all the courses to get a license, so I couldn’t be a mate on a ship. So, <orgName ref="#dvp_091_org_123">SUNY</orgName> has, had and has, a master of science degree in transportation management. So, I mean, I was only teaching 10 hours a week. I said, “I’ll do that.” And so, I got the graduate degree with honors, because I said, You know what? I am smart enough to get this thing with honors. [laughter] So, I just did it, got straight A’s.Got a job in a shipping company. The company owned 40 ships, and they were tankers and ships that carry coal. They’re called bulk carriers. And we leased them. We rented them out, and we would rent them for a voyage, you know, just out and back, or 10 years, depending—without getting into all the details. So, my job was chartering manager. So, my job was to find the leases for the ships. And I loved it. It was a great job. We had ships all over the world. Chartering is one of the world’s oldest professions. Way, way, way back, 2,000 years before Christ, ships were being chartered. And if this is boring, just tell me. [laughter]</u>
+      <u who="RAFSON">No. Keep going.</u>
+      <u who="DEREGT">So, back before paper, the agreement, “You’re going to haul these casks of olive oil from <placeName ref="#dvp_091_place_114">Naples</placeName> to <placeName ref="#dvp_091_place_115">Alexandria, Egypt</placeName>.” That agreement was written down on a wet clay tablet, and when the clay tablet dried, it was broken in half. And the way that, on the other end, the ship owner was paid is he had his half, and the merchant sent his half to <placeName ref="#dvp_091_place_116">Alexandria</placeName>, and if the two halves matched up, then we knew, indeed, this is the right guy to pay and this is my cargo. So, in Latin the term for that was cartes partes, and in modern English the lease agreement is called a “charter party.” And one of the real cool things was, your word was your bond. It’s called “trading a ship.” If I was trading a ship in the middle of the night, and with the ship broker, I was representing the ship, he was representing the cargo, and we made a deal at 3:00 in the morning, with nothing in writing, I knew that I had a deal and the cargo knew that they had a deal. So, personal honor, I mean, how great is that, right? Personal honor was everything. And then you would have telexes before, emails, you would get “clutter, clutter, clutter” telex, and then eventually—sometimes the actual contract wouldn’t get to your office for six months. You know, the trip was over, and finally you read it, and it was a great job. But I wasn’t getting paid, because the only guy who makes money in a shipping company is the ship owner. I was just an expense. But I loved it. I was really good at it. So, that was from <date when="1978">’78</date> to <date when="1974">’84</date>. I met my wife-to-be in <date when="1979">’79</date> in a sailboat race, because I liked sailing. Long story short, we got married in <date when="1982">’82</date>, and I realized I didn’t make enough—she was making more than I was—and I didn’t make enough money to support my wife and baby. So I had to make a change. So, while I was at—the company was called <orgName ref="#dvp_091_org_124">Ogden Marine</orgName>—so, while I was at <orgName ref="#dvp_091_org_125">Ogden</orgName>, I went to school at night and got an MBA [Master of Business Administration] from <orgName ref="#dvp_091_org_126">New York University</orgName>. So then I had two master’s degrees, and off I went into the real world. So, then… Do you want to know the rest of the story?</u>
+      <u who="RAFSON">Sure.</u>
+      <u who="DEREGT">Okay. So then, in <date when="1984">’84</date>, realizing that I really had to make a change here, as much as I liked the job, I got a job in a real estate company called <orgName ref="#dvp_091_org_127">LaSalle Partners</orgName>, and it was a real estate broker and manager. And my job was to find renters. Well, I knew how to do that. [laughter] So, I was good at that, too. But, the people I was working for were jerks, and so I realized—I mean, I knew that when I left <orgName ref="#dvp_091_org_128">Ogden</orgName>, I should find something I already knew how to do and would be good at it and make some money. But, renting real estate, renting in <placeName ref="#dvp_091_place_117">midtown Manhattan</placeName> wasn’t it. So I knew it was sort of a means to an end. So, in <date when="1985">’85</date> I showed space to a guy named <persName ref="#dvp_091_person_31">Russell Reynolds</persName>, and <orgName ref="#dvp_091_org_129">Russell Reynolds Associates</orgName> is one of the big search firms. So, after I showed him the space, he called me up and said afterwards, would I like to come to <orgName ref="#dvp_091_org_130">Russell Reynolds</orgName> and be a headhunter? And I said, “What? A headhunter? Huh.” So, I said, “I just got started here, and I’m still getting my feet on the ground.” So he says, “Okay, do you mind if I call you in <date>a year</date>?” I said, “Sure.” So, a year passes, and I’m pretty sure it’s time for me to find something else to do, and he calls up, and he says, “Would you like to talk now?” So I said, “Sure.” So, we talked. And I was pretty sure I’d be a good headhunter.So, chit chat, chit chat, and then I said to him, “Have you found the space that you were looking for?” And he said, “Yeah, and I’m just about ready to sign the lease.” I said, “Do you use a broker?” He said, “No.” He negotiated directly with the landlord. And I said to myself, You are a fool, because here you’re doing something you do every 10 or 15 years with somebody who does it for a living? You probably got cheated, I said to myself. So I said, “Well, let’s keep talking about me joining <orgName ref="#dvp_091_org_131">Russell Reynolds</orgName> to be a headhunter, but for nothing, I’ll take a look at your lease if you want.” So, I took a look at his lease, and he had overpaid for a 10-year lease by a net present value of $5 million. So then, I called him up and said, “So, <persName ref="#dvp_091_person_32">Russ</persName>, I don’t know—I mean, I know you’re a very successful recruiter. Does $5 million piled up in front of you on the table mean anything?” And there was this long silence. He said, “Yes, it does.” I said, “That’s how much you’ve overpaid by.” So, we continued to negotiate me being a headhunter. I found him space. I did his lease. And as soon as the lease was signed and the ink was dry, I resigned from <orgName ref="#dvp_091_org_132">LaSalle</orgName> and joined <orgName ref="#dvp_091_org_133">Russell Reynolds</orgName> as a recruiter. Yeah, so that was in <date when="1986">’86</date>.So then, for the next 25 years I was an executive recruiter, a partner in three firms. So, getting back to your interest in recruiting, if you ever are interested—I’ll give you my card when we’re done—just let me know, and I can introduce you. I still have good relationships at <orgName ref="#dvp_091_org_134">Heidrick [&amp; Struggles]</orgName> and <orgName ref="#dvp_091_org_135">Spencer Stuart</orgName>. <orgName ref="#dvp_091_org_136">Russell Reynolds</orgName> was too long ago.So, I did search for 25 years, specialized in aerospace, defense, had a great run. And then around <date when="2009">2009</date>, I realized I was getting bored, and I figured, So, if I know I’m bored, it’s only a matter of time before the clients know I’m bored or management knows I’m bored and I get a tap on the shoulder. So at that point I was 58 or 59. <persName ref="#dvp_091_person_33">Kevin</persName>, our younger son, was a student at <orgName ref="#dvp_091_org_137">Dartmouth</orgName>, and he’s <orgName ref="#dvp_091_org_138">class of ’11</orgName>. So, my last tuition check was going to be <date when="2010-12">December of ’10</date>. So I decided I would retire in <date when="2010-12">December of ’10</date>. And I had to find something else to do. So I looked around and found executive coaching, which is helping senior executives be better, be better leaders and managers, so the business outcomes are better. And they usually—people have sometimes bad habits. So, helping a senior executive, a 50-year-old or a 60year-old, change an element of their behavior so as to be more effective.So, there was a couple of schools for that, so I went to one of them, retired at the end of <date when="2010">’10</date>, and part of the program I went through required that you provide 50 hours of life coaching. So I said to my search clients, “I’m going to retire at the end of <date when="2010">’10</date>, and I’m going to be an executive coach. I have to do some coaching as part of the program. Would you like a free sample?” And enough did, and then started paying, so that when I hung out my shingle in <date when="2011-01">January of ’11</date>, I had business. I was generating revenue and I had clients. So, that’s what I do now. So, I work about half time. I’m an executive coach. I have my own business. My wife does the books. And we live on our boat half the year, so I can work from the boat. We’re going to spend all summer in <placeName ref="#dvp_091_place_118">Maine</placeName> this year. So that’s what I’m doing now.</u>
+      <u who="RAFSON">And you’re also still very active at <orgName ref="#dvp_091_org_139">Dartmouth</orgName>, I would assume?</u>
+      <u who="DEREGT">Yeah, uh-hum. So, for <orgName ref="#dvp_091_org_140">Dartmouth</orgName>, we have this thing called the <orgName ref="#dvp_091_org_141">Executive Council</orgName>, or <orgName ref="#dvp_091_org_142">Executive Committee</orgName> for our class, which means anybody who raises their hand’s on it. [laughter] So, for my class I’ve done—I did our 35th reunion. I’ve been secretary, writing the notes, which is painful. And now I’m on <orgName ref="#dvp_091_org_143">the Alumni Council</orgName>, so it’s a three-year term, started last fall. And basically what the <orgName ref="#dvp_091_org_144">Alumni Council</orgName> is is it’s how the college represents itself to the alumni body. So, each class has a representative, and there are six meetings, two a year, and then each major <orgName ref="#dvp_091_org_145">Dartmouth</orgName> club has a representative. So, it starts tonight, go all day tomorrow, and then half of Saturday. And then the other thing I do for <orgName ref="#dvp_091_org_146">Dartmouth</orgName> is—so my wife went to <orgName ref="#dvp_091_org_147">Tuck [Tuck School of Business at Dartmouth College</orgName>]. <persName ref="#dvp_091_person_34">Kevin</persName> went to <orgName ref="#dvp_091_org_148">Tuck</orgName>. And <orgName ref="#dvp_091_org_149">Tuck</orgName> has a coaching program. So, it’s part of their leadership training. So I do some coaching at <orgName ref="#dvp_091_org_150">Tuck</orgName>. I’m going to talk to the right person at <orgName ref="#dvp_091_org_151">Thayer [Thayer School of Engineering at Dartmouth College]</orgName> tomorrow night about doing the same thing at <orgName ref="#dvp_091_org_152">Thayer</orgName>. And then, when <persName ref="#dvp_091_person_35">Kevin</persName> was in high school, a friend of mine whose son was <persName ref="#dvp_091_person_36">Kevin</persName>’s best friend, he’s a retired accountant, retired partner of <orgName ref="#dvp_091_org_153">PwC [Pricewaterhouse Coopers]</orgName>, said, “What about financial literacy? What if we teach the kids in <placeName ref="#dvp_091_place_119">Kevin</placeName> and <persName ref="#dvp_091_person_37">Jeff</persName>’s class, who are about to go to college, and have the ability to get themselves in financial trouble by using a credit card, let’s say?” You’ve probably seen some of that.</u>
+      <u who="RAFSON">Yeah.</u>
+      <u who="DEREGT">Yeah. “Here are the fundamentals of financial literacy.” So we did that. And then, spring term of <persName ref="#dvp_091_person_38">Kevin</persName>’s senior year in <date when="2011">’11</date>, he says, “Hey, Dad, would you come up and talk to me and my fraternity brothers about financial literacy?” “Sure.” So I did. And then, one thing led to another. <persName ref="#dvp_091_person_39">Martha [Johnson] Beattie</persName>, who’s <orgName ref="#dvp_091_org_154">Class of ’76</orgName>, was head, and she just retired as head of <orgName ref="#dvp_091_org_155">Alumni Affairs [Alumni Relations]</orgName>, I called her up and said, “Would Dartmouth be interested in me teaching financial literacy to the seniors in the spring term, senior year?” And she said, “Of course.” So I’ve been doing that for six or seven years. It’s great fun.</u>
+      <u who="RAFSON">Yeah. Is there anything in particular that keeps you coming back to <orgName ref="#dvp_091_org_156">Dartmouth</orgName>? What made you want to be so involved?</u>
+      <u who="DEREGT">The place is awesome, you know. And I really like <orgName ref="#dvp_091_org_157">Dartmouth</orgName>. I think it’s a great place. I don’t always agree with what the president does, whether it could be this president or some other president. But it’s a little bit like, so why did I go to <placeName ref="#dvp_091_place_120">Vietnam</placeName>? “My country right or wrong.” So, why do I continue to support <orgName ref="#dvp_091_org_158">Dartmouth</orgName> and to give money and all? Why do I continue to do that? Because <orgName ref="#dvp_091_org_159">Dartmouth</orgName> is a wonderful place. <orgName ref="#dvp_091_org_160">Dartmouth</orgName> is a wonderful—as you know, right—wonderful experience. It’s in me forever. It changed me. And I want to do whatever I can do, so that <orgName ref="#dvp_091_org_161">Dartmouth</orgName> can continue to be a wonderful place to go to school. And that’s pretty much it. Make sense?</u>
+      <u who="RAFSON">Yeah, it makes a lot of sense. Is there anything else you have in mind to share?</u>
+      <u who="DEREGT">I mean, whatever—have we kind of hit the nail on the head? Or is there anything else that you would like to know, <persName ref="#dvp_091_person_40">Claire</persName>?</u>
+      <u who="RAFSON">I guess a little bit more big picture. If you heard once again that you were going to go to <placeName ref="#dvp_091_place_121">Vietnam</placeName>, would you do it all the same?</u>
+      <u who="DEREGT">I would. I would go again. I would go again. I would make the same decision again. I would make the same decision again. Would I get out? So, as you may already know, but as you will find out, as life goes along, you come to forks in the road, where you have to make a decision. So, the sister of my best friend’s first wife had taken an interest in me, and she was three years younger. Her dad—do you know what a harbor pilot is? It’s a captain who drove, steered ships in and out of the ports. In other words, these pilots have the chart memorized and the bottom contours, and so they help the big ships come in from the sea, tie up, and then leave and go back out again. Her father was a Virginia harbor pilot in <placeName ref="#dvp_091_place_122">Hampton Roads</placeName>. So, if I could roll myself back to 21, and so I’d said to <persName ref="#dvp_091_person_41">Jenny</persName>, you know, “I’m going off to the <orgName ref="#dvp_091_org_162">Navy</orgName>, and I don’t want to have any entanglements. You’re wonderful. See ya.” And I have a great marriage, you know. But if I could roll the clock back, I might say to myself, Hang in there with <persName ref="#dvp_091_person_42">Jenny</persName>. Instead of asking for a ship in <placeName ref="#dvp_091_place_123">Mayport</placeName>, get one in <placeName ref="#dvp_091_place_124">Norfolk</placeName>. And then, do my six years, and become a harbor pilot, where I could direct ships all the time, and can stay on at night. So, you know, that is, when I think back, not out of any sense of regret, but there was a fork in the road. I did what I did. I would do it again. But, that in retrospect would have been a cool alternative.</u>
+      <u who="RAFSON">And then, I guess, without getting too political, but I mean, looking back now on the <name type="event" ref="#dvp_091_event_26">Vietnam War</name>, are there any legacies or things that you think about today?</u>
+      <u who="DEREGT">Yeah. So, when I think about <name type="event" ref="#dvp_091_event_27">Desert Storm</name>, which was in <date when="1991">’91</date>. Were you born then? No.</u>
+      <u who="RAFSON">I was not born yet.</u>
+      <u who="DEREGT">[laughter] So, when I think of <name type="event" ref="#dvp_091_event_28">Desert Storm</name>, the generals in charge of the military in <name type="event" ref="#dvp_091_event_29">Desert Storm</name> had been junior officers in <placeName ref="#dvp_091_place_125">Vietnam</placeName>, and saw the idiocy. There was a time when we could not sink a ship off North Vietnam that was unloading supplies because it was Chinese, and the supplies it was unloading were going to go help the people who were killing our people. We were not allowed to sink it. The idiot thinking like that. The people who fought <name type="event" ref="#dvp_091_event_30">Desert Storm</name> were the officers who had to fight <name type="event" ref="#dvp_091_event_31">Vietnam</name> with idiot rules. And so, it was with great satisfaction that I saw in a hundred hours we got the job done. Overwhelming force, everything militarily correct. And then, when we went into <placeName ref="#dvp_091_place_126">Iraq</placeName>, it was idiocy. It was the same damned thing all over again. I mean, it was—and you can see I get—it still bothers me, right?</u>
+      <u who="RAFSON">Yeah.</u>
+      <u who="DEREGT">It’s the same thing that <persName ref="#dvp_091_person_43">Johnson</persName> and <persName ref="#dvp_091_person_44">[Secretary of Defense Robert] McNamara</persName> did, fabricating reasons to go into a war that was a disaster. And <persName ref="#dvp_091_person_45">[President George W.] Bush</persName> and <persName ref="#dvp_091_person_46">[Dick] Cheney</persName> and <persName ref="#dvp_091_person_47">Condoleezza Rice</persName> and <persName ref="#dvp_091_person_48">[Deputy Secretary of Defense Paul] Wolfowitz</persName> and <persName ref="#dvp_091_person_49">[Secretary of Defense Donald] Rumsfeld</persName> did exactly the same thing, exactly the same thing: create this war that didn’t need to be created that has resulted in disaster. Disaster. Why is <orgName ref="#dvp_091_org_163">Iran</orgName> a powerful, a more powerful force in the Mideast for evil? Because we went into <placeName ref="#dvp_091_place_127">Iraq</placeName> and took out <persName ref="#dvp_091_person_50">Saddam Hussein</persName>. It was lunacy. And it was a political thing. It was a fabrication of the facts, to go fight a war for ideological reasons that were stupid. And when I think of the people who died… I’m on a not-for-profit board called <orgName ref="#dvp_091_org_164">Warfighter Advance</orgName>, and it helps people who deal with post-traumatic stress to do so not using drugs. The <orgName ref="#dvp_091_org_165">VA</orgName> routinely prescribes all these powerful psychotropic drugs which make the problem worse. Twenty veterans of all wars a day shoot themselves. We have lost more <name type="event" ref="#dvp_091_event_32">Vietnam War</name> veterans to themselves than we lost to the <orgName ref="#dvp_091_org_166">Viet Cong</orgName>. We have lost more <name type="event" ref="#dvp_091_event_33">Iraqi [War]</name> veterans to their own hand than to the <orgName ref="#dvp_091_org_167">Taliban</orgName>. So, I’m on this not-for-profit that helps people like that. So, to answer your question, I feel strongly about the idiocy of <name type="event" ref="#dvp_091_event_34">Vietnam</name> and the idiocy of things like <name type="event" ref="#dvp_091_event_35">Iraq</name>. Not <name type="event" ref="#dvp_091_event_36">Afghanistan</name>. Of <name type="event" ref="#dvp_091_event_37">Iraq</name>.</u>
+      <u who="RAFSON">Yeah, that makes sense.</u>
+      <u who="DEREGT">Yeah. I mean…</u>
+      <u who="RAFSON">Those are the bulk of my questions.</u>
+      <u who="DEREGT">Do you have anything that I said that you’re curious about, <persName ref="#dvp_091_person_51">Claire</persName>, or want to know more about?</u>
+      <u who="RAFSON">I think, maybe just, and this is going back pretty far, but just to hear a little bit more about your actual <orgName ref="#dvp_091_org_168">Dartmouth</orgName> experience. So, even just things like what did you study?</u>
+      <u who="DEREGT">I studied economics. So, I held down an honorable place, I think, in the third fifth of my class. [laughter] I was around the middle academically. I had a great social time. I was in a fraternity. I was on the <orgName ref="#dvp_091_org_169">Dartmouth Outing Club</orgName>, winter sports. And I came from <placeName ref="#dvp_091_place_128">Virginia</placeName>, didn’t know how to ski. And I remember the first time I went, I had these old wooden skis I bought secondhand, I could get on the lift, and I went up the lift—and do you do <orgName ref="#dvp_091_org_170">DOC</orgName>?</u>
+      <u who="RAFSON">I do do a bit.</u>
+      <u who="DEREGT">So, winter sports or <orgName ref="#dvp_091_org_171">cabin and trail</orgName>?</u>
+      <u who="RAFSON">Yeah, more <orgName ref="#dvp_091_org_172">cabin and trail</orgName>.</u>
+      <u who="DEREGT">So, what you do in winter sports is, among the things you do, is you man gates at ski races, and so if one of the gates falls down, you have to stick it back in the snow. So, there I was at the top of I can’t remember what ski area it was, having never skied, and you know, getting off the lift, and looking over the tips of my skis and you can see the parking lot. Holy cow! How did I get into this situation? So I had a great time. I had my good buddies, and we’re still friends. I probably drank more beer than I should have. I should have studied a little bit more. If I could do that again, I probably would have done more studying, less beer drinking. I might have learned a language. I mean, <persName ref="#dvp_091_person_52">[John A.] Rassias</persName> and his French program. I would have learned a language. I might have taken a course like—I took a course in art, but I might have taken a course in philosophy or something, you know, a little bit off the trail. You’re a senior, right?</u>
+      <u who="RAFSON">I’m a junior.</u>
+      <u who="DEREGT">Junior, so you have a whole other year, right?</u>
+      <u who="RAFSON">Some time.</u>
+      <u who="DEREGT">So you’ve got still some time to experiment, you know, and go take a course that is way far off. But I didn’t do that. I took an art course. I took some literature courses. I took a course in Shakespeare. So, I had a great time. But, if I were to do it again, I would probably do a little less playing and a little more school work, you know, getting into the… This is a unique place. I mean, the knowledge that’s available just for the asking is pretty remarkable. So there you go.</u>
+      <u who="RAFSON">Great. Well, thank you so much for joining me today.</u>
+      <u who="DEREGT">You’re welcome.</u>
+      <u who="RAFSON">It was a pleasure.</u>
+      <u who="DEREGT">My pleasure.[End of interview.]</u>
+    </body>
+  </text>
+  <standOff>
+    <listPlace>
+      <place xml:id="dvp_091_place_0">
+        <placeName>Rauner Special Collections Library</placeName>
+        <location>
+          <geo>43.70447 -72.28817</geo>
+        </location>
+        <idno type="WD">Q98544730</idno>
+      </place>
+      <place xml:id="dvp_091_place_1">
+        <placeName>Dartmouth College</placeName>
+        <location>
+          <geo>43.703333333333 -72.288333333333</geo>
+        </location>
+        <idno type="WD">Q49116</idno>
+      </place>
+      <place xml:id="dvp_091_place_2">
+        <placeName>Hanover</placeName>
+        <location>
+          <geo>43.7 -72.28333333333333</geo>
+        </location>
+        <idno type="WD">Q131908</idno>
+      </place>
+      <place xml:id="dvp_091_place_3">
+        <placeName>Berkeley</placeName>
+        <location>
+          <geo>37.870277777778 -122.26805555556</geo>
+        </location>
+        <idno type="WD">Q484678</idno>
+      </place>
+      <place xml:id="dvp_091_place_4">
+        <placeName>Berkeley</placeName>
+        <location>
+          <geo>37.870277777778 -122.26805555556</geo>
+        </location>
+        <idno type="WD">Q484678</idno>
+      </place>
+      <place xml:id="dvp_091_place_5">
+        <placeName>Berkeley</placeName>
+        <location>
+          <geo>37.870277777778 -122.26805555556</geo>
+        </location>
+        <idno type="WD">Q484678</idno>
+      </place>
+      <place xml:id="dvp_091_place_6">
+        <placeName>Virginia</placeName>
+        <location>
+          <geo>37.5 -79</geo>
+        </location>
+        <idno type="WD">Q1370</idno>
+      </place>
+      <place xml:id="dvp_091_place_7">
+        <placeName>Arlington County</placeName>
+        <location>
+          <geo>38.880277777778 -77.108333333333</geo>
+        </location>
+        <idno type="WD">Q107126</idno>
+      </place>
+      <place xml:id="dvp_091_place_8">
+        <placeName>Virginia</placeName>
+        <location>
+          <geo>37.5 -79</geo>
+        </location>
+        <idno type="WD">Q1370</idno>
+      </place>
+      <place xml:id="dvp_091_place_9">
+        <placeName>Arlington County</placeName>
+        <location>
+          <geo>38.880277777778 -77.108333333333</geo>
+        </location>
+        <idno type="WD">Q107126</idno>
+      </place>
+      <place xml:id="dvp_091_place_10">
+        <placeName>Falls Church</placeName>
+        <location>
+          <geo>38.882222222222 -77.171111111111</geo>
+        </location>
+        <idno type="WD">Q408744</idno>
+      </place>
+      <place xml:id="dvp_091_place_11">
+        <placeName>Alexandria</placeName>
+        <location>
+          <geo>38.804722222222 -77.047222222222</geo>
+        </location>
+        <idno type="WD">Q88</idno>
+      </place>
+      <place xml:id="dvp_091_place_12">
+        <placeName>Berkeley</placeName>
+        <location>
+          <geo>37.870277777778 -122.26805555556</geo>
+        </location>
+        <idno type="WD">Q484678</idno>
+      </place>
+      <place xml:id="dvp_091_place_13">
+        <placeName>Denver</placeName>
+        <location>
+          <geo>39.739166666667 -104.98472222222</geo>
+        </location>
+        <idno type="WD">Q16554</idno>
+      </place>
+      <place xml:id="dvp_091_place_14">
+        <placeName>Denver</placeName>
+        <location>
+          <geo>39.739166666667 -104.98472222222</geo>
+        </location>
+        <idno type="WD">Q16554</idno>
+      </place>
+      <place xml:id="dvp_091_place_15">
+        <placeName>Seattle</placeName>
+        <location>
+          <geo>47.60621 -122.33207</geo>
+        </location>
+        <idno type="WD">Q5083</idno>
+      </place>
+      <place xml:id="dvp_091_place_16">
+        <placeName>Seattle</placeName>
+        <location>
+          <geo>47.60621 -122.33207</geo>
+        </location>
+        <idno type="WD">Q5083</idno>
+      </place>
+      <place xml:id="dvp_091_place_17">
+        <placeName>Santa Ana</placeName>
+        <location>
+          <geo>33.740833333333 -117.88138888889</geo>
+        </location>
+        <idno type="WD">Q49244</idno>
+      </place>
+      <place xml:id="dvp_091_place_18">
+        <placeName>Los Angeles</placeName>
+        <location>
+          <geo>34.05223 -118.24368</geo>
+        </location>
+        <idno type="WD">Q65</idno>
+      </place>
+      <place xml:id="dvp_091_place_19">
+        <placeName>Orange County</placeName>
+        <location>
+          <geo>33.67 -117.78</geo>
+        </location>
+        <idno type="WD">Q5925</idno>
+      </place>
+      <place xml:id="dvp_091_place_20">
+        <placeName>Orange County</placeName>
+        <location>
+          <geo>33.67 -117.78</geo>
+        </location>
+        <idno type="WD">Q5925</idno>
+      </place>
+      <place xml:id="dvp_091_place_21">
+        <placeName>Santa Ana</placeName>
+        <location>
+          <geo>33.740833333333 -117.88138888889</geo>
+        </location>
+        <idno type="WD">Q49244</idno>
+      </place>
+      <place xml:id="dvp_091_place_22">
+        <placeName>Arlington County</placeName>
+        <location>
+          <geo>38.880277777778 -77.108333333333</geo>
+        </location>
+        <idno type="WD">Q107126</idno>
+      </place>
+      <place xml:id="dvp_091_place_23">
+        <placeName>Arlington County</placeName>
+        <location>
+          <geo>38.880277777778 -77.108333333333</geo>
+        </location>
+        <idno type="WD">Q107126</idno>
+      </place>
+      <place xml:id="dvp_091_place_24">
+        <placeName>Virginia</placeName>
+        <location>
+          <geo>37.5 -79</geo>
+        </location>
+        <idno type="WD">Q1370</idno>
+      </place>
+      <place xml:id="dvp_091_place_25">
+        <placeName>Virginia</placeName>
+        <location>
+          <geo>37.5 -79</geo>
+        </location>
+        <idno type="WD">Q1370</idno>
+      </place>
+      <place xml:id="dvp_091_place_26">
+        <placeName>Virginia</placeName>
+        <location>
+          <geo>37.5 -79</geo>
+        </location>
+        <idno type="WD">Q1370</idno>
+      </place>
+      <place xml:id="dvp_091_place_27">
+        <placeName>California</placeName>
+        <location>
+          <geo>37 -120</geo>
+        </location>
+        <idno type="WD">Q99</idno>
+      </place>
+      <place xml:id="dvp_091_place_28">
+        <placeName>Netherlands</placeName>
+        <location>
+          <geo>52.316666666667 5.55</geo>
+        </location>
+        <idno type="WD">Q55</idno>
+      </place>
+      <place xml:id="dvp_091_place_29">
+        <placeName>Detroit</placeName>
+        <location>
+          <geo>42.331666666667 -83.0475</geo>
+        </location>
+        <idno type="WD">Q12439</idno>
+      </place>
+      <place xml:id="dvp_091_place_30">
+        <placeName>Virginia</placeName>
+        <location>
+          <geo>37.5 -79</geo>
+        </location>
+        <idno type="WD">Q1370</idno>
+      </place>
+      <place xml:id="dvp_091_place_31">
+        <placeName>Washington, D.C.</placeName>
+        <location>
+          <geo>38.895 -77.036666666667</geo>
+        </location>
+        <idno type="WD">Q61</idno>
+      </place>
+      <place xml:id="dvp_091_place_32">
+        <placeName>Washington, D.C.</placeName>
+        <location>
+          <geo>38.895 -77.036666666667</geo>
+        </location>
+        <idno type="WD">Q61</idno>
+      </place>
+      <place xml:id="dvp_091_place_33">
+        <placeName>Washington, D.C.</placeName>
+        <location>
+          <geo>38.895 -77.036666666667</geo>
+        </location>
+        <idno type="WD">Q61</idno>
+      </place>
+      <place xml:id="dvp_091_place_34">
+        <placeName>Vietnam</placeName>
+        <location>
+          <geo>16 108</geo>
+        </location>
+        <idno type="WD">Q881</idno>
+      </place>
+      <place xml:id="dvp_091_place_35">
+        <placeName>Kings Point</placeName>
+        <location>
+          <geo>40.8156 -73.7378</geo>
+        </location>
+        <idno type="WD">Q3449107</idno>
+      </place>
+      <place xml:id="dvp_091_place_36">
+        <placeName>Mount Moosilauke</placeName>
+        <location>
+          <geo>44.024511111111 -71.830916666667</geo>
+        </location>
+        <idno type="WD">Q3321961</idno>
+      </place>
+      <place xml:id="dvp_091_place_37">
+        <placeName>Baltimore</placeName>
+        <location>
+          <geo>39.286388888889 -76.615</geo>
+        </location>
+        <idno type="WD">Q5092</idno>
+      </place>
+      <place xml:id="dvp_091_place_38">
+        <placeName>Washington, D.C.</placeName>
+        <location>
+          <geo>38.895 -77.036666666667</geo>
+        </location>
+        <idno type="WD">Q61</idno>
+      </place>
+      <place xml:id="dvp_091_place_39">
+        <placeName>Collis Center for Student Involvement</placeName>
+        <location>
+          <geo>43.70277 -72.28991</geo>
+        </location>
+        <idno type="WD">Q100725367</idno>
+      </place>
+      <place xml:id="dvp_091_place_40">
+        <placeName>Asia</placeName>
+      </place>
+      <place xml:id="dvp_091_place_41">
+        <placeName>Vietnam</placeName>
+        <location>
+          <geo>16 108</geo>
+        </location>
+        <idno type="WD">Q881</idno>
+      </place>
+      <place xml:id="dvp_091_place_42">
+        <placeName>Cambodia</placeName>
+        <location>
+          <geo>12.6 105</geo>
+        </location>
+        <idno type="WD">Q424</idno>
+      </place>
+      <place xml:id="dvp_091_place_43">
+        <placeName>Laos</placeName>
+        <location>
+          <geo>18.2 104</geo>
+        </location>
+        <idno type="WD">Q819</idno>
+      </place>
+      <place xml:id="dvp_091_place_44">
+        <placeName>Washington, D.C.</placeName>
+        <location>
+          <geo>38.895 -77.036666666667</geo>
+        </location>
+        <idno type="WD">Q61</idno>
+      </place>
+      <place xml:id="dvp_091_place_45">
+        <placeName>Washington, D.C.</placeName>
+        <location>
+          <geo>38.895 -77.036666666667</geo>
+        </location>
+        <idno type="WD">Q61</idno>
+      </place>
+      <place xml:id="dvp_091_place_46">
+        <placeName>7 Webster Avenue</placeName>
+        <location>
+          <geo>43.706689  -72.291622</geo>
+        </location>
+        <idno type="WD">Q5095062</idno>
+      </place>
+      <place xml:id="dvp_091_place_47">
+        <placeName>Parkhurst Hall</placeName>
+        <location>
+          <geo>43.70404 -72.28995</geo>
+        </location>
+        <idno type="WD">Q100952777</idno>
+      </place>
+      <place xml:id="dvp_091_place_48">
+        <placeName>Parkhurst Hall</placeName>
+        <location>
+          <geo>43.70404 -72.28995</geo>
+        </location>
+        <idno type="WD">Q100952777</idno>
+      </place>
+      <place xml:id="dvp_091_place_49">
+        <placeName>Parkhurst Hall</placeName>
+        <location>
+          <geo>43.70404 -72.28995</geo>
+        </location>
+        <idno type="WD">Q100952777</idno>
+      </place>
+      <place xml:id="dvp_091_place_50">
+        <placeName>Parkhurst Hall</placeName>
+        <location>
+          <geo>43.70404 -72.28995</geo>
+        </location>
+        <idno type="WD">Q100952777</idno>
+      </place>
+      <place xml:id="dvp_091_place_51">
+        <placeName>Parkhurst Hall</placeName>
+        <location>
+          <geo>43.70404 -72.28995</geo>
+        </location>
+        <idno type="WD">Q100952777</idno>
+      </place>
+      <place xml:id="dvp_091_place_52">
+        <placeName>Travis Air Force Base</placeName>
+        <location>
+          <geo>38.262777777778 -121.9275</geo>
+        </location>
+        <idno type="WD">Q3497425</idno>
+      </place>
+      <place xml:id="dvp_091_place_53">
+        <placeName>McGuire Air Force Base</placeName>
+        <location>
+          <geo>40.027988 -74.587795</geo>
+        </location>
+        <idno type="WD">Q10860392</idno>
+      </place>
+      <place xml:id="dvp_091_place_54">
+        <placeName>Travis Air Force Base</placeName>
+        <location>
+          <geo>38.262777777778 -121.9275</geo>
+        </location>
+        <idno type="WD">Q3497425</idno>
+      </place>
+      <place xml:id="dvp_091_place_55">
+        <placeName>Travis Air Force Base</placeName>
+        <location>
+          <geo>38.262777777778 -121.9275</geo>
+        </location>
+        <idno type="WD">Q3497425</idno>
+      </place>
+      <place xml:id="dvp_091_place_56">
+        <placeName>Travis Air Force Base</placeName>
+        <location>
+          <geo>38.262777777778 -121.9275</geo>
+        </location>
+        <idno type="WD">Q3497425</idno>
+      </place>
+      <place xml:id="dvp_091_place_57">
+        <placeName>New Jersey</placeName>
+        <location>
+          <geo>40 -74.5</geo>
+        </location>
+        <idno type="WD">Q1408</idno>
+      </place>
+      <place xml:id="dvp_091_place_58">
+        <placeName>Vietnam</placeName>
+        <location>
+          <geo>16 108</geo>
+        </location>
+        <idno type="WD">Q881</idno>
+      </place>
+      <place xml:id="dvp_091_place_59">
+        <placeName>Vietnam</placeName>
+        <location>
+          <geo>16 108</geo>
+        </location>
+        <idno type="WD">Q881</idno>
+      </place>
+      <place xml:id="dvp_091_place_60">
+        <placeName>Vietnam</placeName>
+        <location>
+          <geo>16 108</geo>
+        </location>
+        <idno type="WD">Q881</idno>
+      </place>
+      <place xml:id="dvp_091_place_61">
+        <placeName>White River Junction</placeName>
+        <location>
+          <geo>43.6503 -72.3214</geo>
+        </location>
+        <idno type="WD">Q1898562</idno>
+      </place>
+      <place xml:id="dvp_091_place_62">
+        <placeName>Montreal</placeName>
+        <location>
+          <geo>45.508888888889 -73.561666666667</geo>
+        </location>
+        <idno type="WD">Q340</idno>
+      </place>
+      <place xml:id="dvp_091_place_63">
+        <placeName>Canada</placeName>
+        <location>
+          <geo>56 -109</geo>
+        </location>
+        <idno type="WD">Q16</idno>
+      </place>
+      <place xml:id="dvp_091_place_64">
+        <placeName>Fort Ticonderoga</placeName>
+        <location>
+          <geo>43.841667 -73.3875</geo>
+        </location>
+        <idno type="WD">Q1438776</idno>
+      </place>
+      <place xml:id="dvp_091_place_65">
+        <placeName>Hanover</placeName>
+        <location>
+          <geo>43.7 -72.28333333333333</geo>
+        </location>
+        <idno type="WD">Q131908</idno>
+      </place>
+      <place xml:id="dvp_091_place_66">
+        <placeName>Fort Ticonderoga</placeName>
+        <location>
+          <geo>43.841667 -73.3875</geo>
+        </location>
+        <idno type="WD">Q1438776</idno>
+      </place>
+      <place xml:id="dvp_091_place_67">
+        <placeName>Fort Ticonderoga</placeName>
+        <location>
+          <geo>43.841667 -73.3875</geo>
+        </location>
+        <idno type="WD">Q1438776</idno>
+      </place>
+      <place xml:id="dvp_091_place_68">
+        <placeName>Fort Ticonderoga</placeName>
+        <location>
+          <geo>43.841667 -73.3875</geo>
+        </location>
+        <idno type="WD">Q1438776</idno>
+      </place>
+      <place xml:id="dvp_091_place_69">
+        <placeName>Fort Ticonderoga</placeName>
+        <location>
+          <geo>43.841667 -73.3875</geo>
+        </location>
+        <idno type="WD">Q1438776</idno>
+      </place>
+      <place xml:id="dvp_091_place_70">
+        <placeName>Vietnam</placeName>
+        <location>
+          <geo>16 108</geo>
+        </location>
+        <idno type="WD">Q881</idno>
+      </place>
+      <place xml:id="dvp_091_place_71">
+        <placeName>Washington, D.C.</placeName>
+        <location>
+          <geo>38.895 -77.036666666667</geo>
+        </location>
+        <idno type="WD">Q61</idno>
+      </place>
+      <place xml:id="dvp_091_place_72">
+        <placeName>Travis Air Force Base</placeName>
+        <location>
+          <geo>38.262777777778 -121.9275</geo>
+        </location>
+        <idno type="WD">Q3497425</idno>
+      </place>
+      <place xml:id="dvp_091_place_73">
+        <placeName>Travis Air Force Base</placeName>
+        <location>
+          <geo>38.262777777778 -121.9275</geo>
+        </location>
+        <idno type="WD">Q3497425</idno>
+      </place>
+      <place xml:id="dvp_091_place_74">
+        <placeName>Philippines</placeName>
+        <location>
+          <geo>12 123</geo>
+        </location>
+        <idno type="WD">Q928</idno>
+      </place>
+      <place xml:id="dvp_091_place_75">
+        <placeName>Sarsfield</placeName>
+      </place>
+      <place xml:id="dvp_091_place_76">
+        <placeName>Gulf of Tonkin</placeName>
+        <location>
+          <geo>19.75 107.75</geo>
+        </location>
+        <idno type="WD">Q212428</idno>
+      </place>
+      <place xml:id="dvp_091_place_77">
+        <placeName>Yankee Station</placeName>
+        <location>
+          <geo>17.5 108.5</geo>
+        </location>
+        <idno type="WD">Q458106</idno>
+      </place>
+      <place xml:id="dvp_091_place_78">
+        <placeName>Yankee Station</placeName>
+        <location>
+          <geo>17.5 108.5</geo>
+        </location>
+        <idno type="WD">Q458106</idno>
+      </place>
+      <place xml:id="dvp_091_place_79">
+        <placeName>Gulf of Tonkin</placeName>
+        <location>
+          <geo>19.75 107.75</geo>
+        </location>
+        <idno type="WD">Q212428</idno>
+      </place>
+      <place xml:id="dvp_091_place_80">
+        <placeName>Vietnamese Demilitarized Zone</placeName>
+        <location>
+          <geo>16.9875 107.0359</geo>
+        </location>
+        <idno type="WD">Q2349960</idno>
+      </place>
+      <place xml:id="dvp_091_place_81">
+        <placeName>Hai Phong Port</placeName>
+        <location>
+          <geo>20.8645 106.6850
+</geo>
+        </location>
+        <idno type="WD">Q10752271</idno>
+      </place>
+      <place xml:id="dvp_091_place_82">
+        <placeName>Hai Phong Port</placeName>
+        <location>
+          <geo>20.8645 106.6850</geo>
+        </location>
+        <idno type="WD">Q10752271</idno>
+      </place>
+      <place xml:id="dvp_091_place_83">
+        <placeName>Vietnam</placeName>
+        <location>
+          <geo>16 108</geo>
+        </location>
+        <idno type="WD">Q881</idno>
+      </place>
+      <place xml:id="dvp_091_place_84">
+        <placeName>Vietnam</placeName>
+        <location>
+          <geo>16 108</geo>
+        </location>
+        <idno type="WD">Q881</idno>
+      </place>
+      <place xml:id="dvp_091_place_85">
+        <placeName>Mayport</placeName>
+        <location>
+          <geo>30.3945 -81.42991667</geo>
+        </location>
+        <idno type="WD">Q16888914</idno>
+      </place>
+      <place xml:id="dvp_091_place_86">
+        <placeName>Mayport</placeName>
+        <location>
+          <geo>30.3945 -81.42991667</geo>
+        </location>
+        <idno type="WD">Q16888914</idno>
+      </place>
+      <place xml:id="dvp_091_place_87">
+        <placeName>Jacksonville</placeName>
+        <location>
+          <geo>30.316666666667 -81.65</geo>
+        </location>
+        <idno type="WD">Q16568</idno>
+      </place>
+      <place xml:id="dvp_091_place_88">
+        <placeName>Vietnam</placeName>
+        <location>
+          <geo>16 108</geo>
+        </location>
+        <idno type="WD">Q881</idno>
+      </place>
+      <place xml:id="dvp_091_place_89">
+        <placeName>Norway</placeName>
+        <location>
+          <geo>65 11</geo>
+        </location>
+        <idno type="WD">Q20</idno>
+      </place>
+      <place xml:id="dvp_091_place_90">
+        <placeName>Arctic Circle</placeName>
+        <location>
+          <geo>66.56369277777777 0</geo>
+        </location>
+        <idno type="WD">Q176609</idno>
+      </place>
+      <place xml:id="dvp_091_place_91">
+        <placeName>Strait of Gibraltar</placeName>
+        <location>
+          <geo>35.971666666667 -5.4858333333333</geo>
+        </location>
+        <idno type="WD">Q36124</idno>
+      </place>
+      <place xml:id="dvp_091_place_92">
+        <placeName>Strait of Gibraltar</placeName>
+        <location>
+          <geo>35.971666666667 -5.4858333333333</geo>
+        </location>
+        <idno type="WD">Q36124</idno>
+      </place>
+      <place xml:id="dvp_091_place_93">
+        <placeName>Strait of Gibraltar</placeName>
+        <location>
+          <geo>35.971666666667 -5.4858333333333</geo>
+        </location>
+        <idno type="WD">Q36124</idno>
+      </place>
+      <place xml:id="dvp_091_place_94">
+        <placeName>United States of America</placeName>
+        <location>
+          <geo>39.828175 -98.5795</geo>
+        </location>
+        <idno type="WD">Q30</idno>
+      </place>
+      <place xml:id="dvp_091_place_95">
+        <placeName>Sicily</placeName>
+        <location>
+          <geo>37.599958333333 14.015377777778</geo>
+        </location>
+        <idno type="WD">Q1460</idno>
+      </place>
+      <place xml:id="dvp_091_place_96">
+        <placeName>Crete</placeName>
+        <location>
+          <geo>35.309722222222 24.893333333333</geo>
+        </location>
+        <idno type="WD">Q34374</idno>
+      </place>
+      <place xml:id="dvp_091_place_97">
+        <placeName>Israel</placeName>
+        <location>
+          <geo>31 35</geo>
+        </location>
+        <idno type="WD">Q801</idno>
+      </place>
+      <place xml:id="dvp_091_place_98">
+        <placeName>Israel</placeName>
+        <location>
+          <geo>31 35</geo>
+        </location>
+        <idno type="WD">Q801</idno>
+      </place>
+      <place xml:id="dvp_091_place_99">
+        <placeName>Egypt</placeName>
+        <location>
+          <geo>27 29</geo>
+        </location>
+        <idno type="WD">Q79</idno>
+      </place>
+      <place xml:id="dvp_091_place_100">
+        <placeName>Israel</placeName>
+        <location>
+          <geo>31 35</geo>
+        </location>
+        <idno type="WD">Q801</idno>
+      </place>
+      <place xml:id="dvp_091_place_101">
+        <placeName>Strait of Gibraltar</placeName>
+        <location>
+          <geo>35.971666666667 -5.4858333333333</geo>
+        </location>
+        <idno type="WD">Q36124</idno>
+      </place>
+      <place xml:id="dvp_091_place_102">
+        <placeName>Vietnam</placeName>
+        <location>
+          <geo>16 108</geo>
+        </location>
+        <idno type="WD">Q881</idno>
+      </place>
+      <place xml:id="dvp_091_place_103">
+        <placeName>Israel</placeName>
+        <location>
+          <geo>31 35</geo>
+        </location>
+        <idno type="WD">Q801</idno>
+      </place>
+      <place xml:id="dvp_091_place_104">
+        <placeName>Egypt</placeName>
+        <location>
+          <geo>27 29</geo>
+        </location>
+        <idno type="WD">Q79</idno>
+      </place>
+      <place xml:id="dvp_091_place_105">
+        <placeName>Scotland</placeName>
+        <location>
+          <geo>57 -5</geo>
+        </location>
+        <idno type="WD">Q22</idno>
+      </place>
+      <place xml:id="dvp_091_place_106">
+        <placeName>Scotland</placeName>
+        <location>
+          <geo>57 -5</geo>
+        </location>
+        <idno type="WD">Q22</idno>
+      </place>
+      <place xml:id="dvp_091_place_107">
+        <placeName>Piraeus</placeName>
+        <location>
+          <geo>37.943 23.646944444444</geo>
+        </location>
+        <idno type="WD">Q58976</idno>
+      </place>
+      <place xml:id="dvp_091_place_108">
+        <placeName>Greece</placeName>
+        <location>
+          <geo>38.5 23</geo>
+        </location>
+        <idno type="WD">Q41</idno>
+      </place>
+      <place xml:id="dvp_091_place_109">
+        <placeName>Athens</placeName>
+        <location>
+          <geo>37.98416666666667 23.728055555555557</geo>
+        </location>
+        <idno type="WD">Q1524</idno>
+      </place>
+      <place xml:id="dvp_091_place_110">
+        <placeName>Greece</placeName>
+        <location>
+          <geo>38.5 23</geo>
+        </location>
+        <idno type="WD">Q41</idno>
+      </place>
+      <place xml:id="dvp_091_place_111">
+        <placeName>Scotland</placeName>
+        <location>
+          <geo>57 -5</geo>
+        </location>
+        <idno type="WD">Q22</idno>
+      </place>
+      <place xml:id="dvp_091_place_112">
+        <placeName>Mayport</placeName>
+        <location>
+          <geo>30.3945 -81.42991667</geo>
+        </location>
+        <idno type="WD">Q16888914</idno>
+      </place>
+      <place xml:id="dvp_091_place_113">
+        <placeName>Brooklyn</placeName>
+        <location>
+          <geo>40.692777777778 -73.990277777778</geo>
+        </location>
+        <idno type="WD">Q18419</idno>
+      </place>
+      <place xml:id="dvp_091_place_114">
+        <placeName>Naples</placeName>
+        <location>
+          <geo>40.833333333333 14.25</geo>
+        </location>
+        <idno type="WD">Q2634</idno>
+      </place>
+      <place xml:id="dvp_091_place_115">
+        <placeName>Alexandria</placeName>
+        <location>
+          <geo>31.2 29.916666666667</geo>
+        </location>
+        <idno type="WD">Q87</idno>
+      </place>
+      <place xml:id="dvp_091_place_116">
+        <placeName>Alexandria</placeName>
+        <location>
+          <geo>38.804722222222 -77.047222222222</geo>
+        </location>
+        <idno type="WD">Q88</idno>
+      </place>
+      <place xml:id="dvp_091_place_117">
+        <placeName>Midtown Manhattan</placeName>
+        <location>
+          <geo>40.7549309 -73.9840195</geo>
+        </location>
+        <idno type="WD">Q11249</idno>
+      </place>
+      <place xml:id="dvp_091_place_118">
+        <placeName>Maine</placeName>
+        <location>
+          <geo>45.5 -69</geo>
+        </location>
+        <idno type="WD">Q724</idno>
+      </place>
+      <place xml:id="dvp_091_place_119">
+        <placeName>Kevin</placeName>
+      </place>
+      <place xml:id="dvp_091_place_120">
+        <placeName>Vietnam</placeName>
+        <location>
+          <geo>16 108</geo>
+        </location>
+        <idno type="WD">Q881</idno>
+      </place>
+      <place xml:id="dvp_091_place_121">
+        <placeName>Vietnam</placeName>
+        <location>
+          <geo>16 108</geo>
+        </location>
+        <idno type="WD">Q881</idno>
+      </place>
+      <place xml:id="dvp_091_place_122">
+        <placeName>Hampton Roads</placeName>
+        <location>
+          <geo>36.97515 -76.34967</geo>
+        </location>
+        <idno type="WD">Q1011895</idno>
+      </place>
+      <place xml:id="dvp_091_place_123">
+        <placeName>Mayport</placeName>
+        <location>
+          <geo>30.3945 -81.42991667</geo>
+        </location>
+        <idno type="WD">Q16888914</idno>
+      </place>
+      <place xml:id="dvp_091_place_124">
+        <placeName>Norfolk</placeName>
+        <location>
+          <geo>36.854627777778 -76.274394444444</geo>
+        </location>
+        <idno type="WD">Q49231</idno>
+      </place>
+      <place xml:id="dvp_091_place_125">
+        <placeName>Vietnam</placeName>
+        <location>
+          <geo>16 108</geo>
+        </location>
+        <idno type="WD">Q881</idno>
+      </place>
+      <place xml:id="dvp_091_place_126">
+        <placeName>Iraq</placeName>
+        <location>
+          <geo>33 43</geo>
+        </location>
+        <idno type="WD">Q796</idno>
+      </place>
+      <place xml:id="dvp_091_place_127">
+        <placeName>Iraq</placeName>
+        <location>
+          <geo>33 43</geo>
+        </location>
+        <idno type="WD">Q796</idno>
+      </place>
+      <place xml:id="dvp_091_place_128">
+        <placeName>Virginia</placeName>
+        <location>
+          <geo>37.5 -79</geo>
+        </location>
+        <idno type="WD">Q1370</idno>
+      </place>
+    </listPlace>
+    <listEvent>
+      <event xml:id="dvp_091_event_0" when-iso="1963-11-22T00:00:00Z">
+        <desc>assassination of John F. Kennedy</desc>
+        <idno type="WD">Q193484</idno>
+      </event>
+      <event xml:id="dvp_091_event_1" when-iso="1963-11-22T00:00:00Z">
+        <desc>assassination of John F. Kennedy</desc>
+        <idno type="WD">Q193484</idno>
+      </event>
+      <event xml:id="dvp_091_event_2" when-iso="1963-11-24T14:00:00Z">
+        <desc>Assassination of Lee Harvey Oswald</desc>
+        <idno type="WD">Q96273342</idno>
+      </event>
+      <event xml:id="dvp_091_event_3" from-iso="1963-11-23T00:00:00Z" to-iso="1963-11-25T00:00:00Z">
+        <desc>State funeral of John F. Kennedy</desc>
+        <idno type="WD">Q1133692</idno>
+      </event>
+      <event xml:id="dvp_091_event_4" when-iso="1963-11-22T00:00:00Z">
+        <desc>first inauguration of Lyndon B. Johnson</desc>
+        <idno type="WD">Q5454196</idno>
+      </event>
+      <event xml:id="dvp_091_event_5" when-iso="1960-11-08T00:00:00Z">
+        <desc>1960 United States presidential election</desc>
+        <idno type="WD">Q699590</idno>
+      </event>
+      <event xml:id="dvp_091_event_6" when-iso="1960-11-08T00:00:00Z">
+        <desc>1960 United States presidential election</desc>
+        <idno type="WD">Q699590</idno>
+      </event>
+      <event xml:id="dvp_091_event_7" when-iso="1963-11-22T00:00:00Z">
+        <desc>assassination of John F. Kennedy</desc>
+        <idno type="WD">Q193484</idno>
+      </event>
+      <event xml:id="dvp_091_event_8">
+        <desc>race riots in the mid-‘60s</desc>
+      </event>
+      <event xml:id="dvp_091_event_9" from-iso="1959-01-01T00:00:00Z" to-iso="1975-04-30T00:00:00Z">
+        <desc>Vietnam War</desc>
+        <idno type="WD">Q8740</idno>
+      </event>
+      <event xml:id="dvp_091_event_10" from-iso="1959-01-01T00:00:00Z" to-iso="1975-04-30T00:00:00Z">
+        <desc>Vietnam War</desc>
+        <idno type="WD">Q8740</idno>
+      </event>
+      <event xml:id="dvp_091_event_11" from-iso="1959-01-01T00:00:00Z" to-iso="1975-04-30T00:00:00Z">
+        <desc>Vietnam War</desc>
+        <idno type="WD">Q8740</idno>
+      </event>
+      <event xml:id="dvp_091_event_12" from-iso="1959-01-01T00:00:00Z" to-iso="1975-04-30T00:00:00Z">
+        <desc>Vietnam War</desc>
+        <idno type="WD">Q8740</idno>
+      </event>
+      <event xml:id="dvp_091_event_13" from-iso="1970-05-03T20:00:00Z" to-iso="1970-05-03T20:00:00Z">
+        <desc>Kent State shootings</desc>
+        <idno type="WD">Q80218378</idno>
+      </event>
+      <event xml:id="dvp_091_event_14" from-iso="1970-05-03T20:00:00Z" to-iso="1970-05-03T20:00:00Z">
+        <desc>Kent State shootings</desc>
+        <idno type="WD">Q80218378</idno>
+      </event>
+      <event xml:id="dvp_091_event_15" from-iso="1970-05-04T00:00:00Z" to-iso="1970-05-04T00:00:00Z">
+        <desc>Kent State shootings</desc>
+        <idno type="WD">Q482635</idno>
+      </event>
+      <event xml:id="dvp_091_event_16" from-iso="1959-01-01T00:00:00Z" to-iso="1975-04-30T00:00:00Z">
+        <desc>Vietnam War</desc>
+        <idno type="WD">Q8740</idno>
+      </event>
+      <event xml:id="dvp_091_event_17" when-iso="1969-05-06T00:00:00Z">
+        <desc>Parkhurst Hall Takeover</desc>
+        <idno type="WD">Q101424872</idno>
+      </event>
+      <event xml:id="dvp_091_event_18" when-iso="1969-05-06T00:00:00Z">
+        <desc>Parkhurst Hall Takeover</desc>
+        <idno type="WD">Q101424872</idno>
+      </event>
+      <event xml:id="dvp_091_event_19" when-iso="1969-05-06T00:00:00Z">
+        <desc>Parkhurst Hall Takeover</desc>
+        <idno type="WD">Q101424872</idno>
+      </event>
+      <event xml:id="dvp_091_event_20" from-iso="1939-09-01T00:00:00Z" to-iso="1945-09-02T00:00:00Z">
+        <desc>World War II</desc>
+        <idno type="WD">Q362</idno>
+      </event>
+      <event xml:id="dvp_091_event_21" from-iso="1959-01-01T00:00:00Z" to-iso="1975-04-30T00:00:00Z">
+        <desc>Vietnam War</desc>
+        <idno type="WD">Q8740</idno>
+      </event>
+      <event xml:id="dvp_091_event_22" from-iso="1939-09-01T00:00:00Z" to-iso="1945-09-02T00:00:00Z">
+        <desc>World War II</desc>
+        <idno type="WD">Q362</idno>
+      </event>
+      <event xml:id="dvp_091_event_23" from-iso="1967-06-05T00:00:00Z" to-iso="1967-06-10T00:00:00Z">
+        <desc>Six-Day War</desc>
+        <idno type="WD">Q49077</idno>
+      </event>
+      <event xml:id="dvp_091_event_24" from-iso="1967-06-05T00:00:00Z" to-iso="1967-06-10T00:00:00Z">
+        <desc>Six-Day War</desc>
+        <idno type="WD">Q49077</idno>
+      </event>
+      <event xml:id="dvp_091_event_25" from-iso="1967-06-05T00:00:00Z" to-iso="1967-06-10T00:00:00Z">
+        <desc>Six-Day War</desc>
+        <idno type="WD">Q49077</idno>
+      </event>
+      <event xml:id="dvp_091_event_26" from-iso="1959-01-01T00:00:00Z" to-iso="1975-04-30T00:00:00Z">
+        <desc>Vietnam War</desc>
+        <idno type="WD">Q8740</idno>
+      </event>
+      <event xml:id="dvp_091_event_27" from-iso="1991-01-17T00:00:00Z" to-iso="1991-02-28T00:00:00Z">
+        <desc>Operation Desert Storm</desc>
+        <idno type="WD">Q2349281</idno>
+      </event>
+      <event xml:id="dvp_091_event_28" from-iso="1991-01-17T00:00:00Z" to-iso="1991-02-28T00:00:00Z">
+        <desc>Operation Desert Storm</desc>
+        <idno type="WD">Q2349281</idno>
+      </event>
+      <event xml:id="dvp_091_event_29" from-iso="1991-01-17T00:00:00Z" to-iso="1991-02-28T00:00:00Z">
+        <desc>Operation Desert Storm</desc>
+        <idno type="WD">Q2349281</idno>
+      </event>
+      <event xml:id="dvp_091_event_30" from-iso="1991-01-17T00:00:00Z" to-iso="1991-02-28T00:00:00Z">
+        <desc>Operation Desert Storm</desc>
+        <idno type="WD">Q2349281</idno>
+      </event>
+      <event xml:id="dvp_091_event_31" from-iso="1959-01-01T00:00:00Z" to-iso="1975-04-30T00:00:00Z">
+        <desc>Vietnam War</desc>
+        <idno type="WD">Q8740</idno>
+      </event>
+      <event xml:id="dvp_091_event_32" from-iso="1959-01-01T00:00:00Z" to-iso="1975-04-30T00:00:00Z">
+        <desc>Vietnam War</desc>
+        <idno type="WD">Q8740</idno>
+      </event>
+      <event xml:id="dvp_091_event_33" from-iso="2003-03-20T00:00:00Z" to-iso="2011-12-15T00:00:00Z">
+        <desc>Iraq War</desc>
+        <idno type="WD">Q545449</idno>
+      </event>
+      <event xml:id="dvp_091_event_34" from-iso="1959-01-01T00:00:00Z" to-iso="1975-04-30T00:00:00Z">
+        <desc>Vietnam War</desc>
+        <idno type="WD">Q8740</idno>
+      </event>
+      <event xml:id="dvp_091_event_35" from-iso="2003-03-20T00:00:00Z" to-iso="2011-12-15T00:00:00Z">
+        <desc>Iraq War</desc>
+        <idno type="WD">Q545449</idno>
+      </event>
+      <event xml:id="dvp_091_event_36" from-iso="2001-10-07T00:00:00Z" to-iso="2021-08-30T00:00:00Z">
+        <desc>War in Afghanistan</desc>
+        <idno type="WD">Q182865</idno>
+      </event>
+      <event xml:id="dvp_091_event_37" from-iso="2003-03-20T00:00:00Z" to-iso="2011-12-15T00:00:00Z">
+        <desc>Iraq War</desc>
+        <idno type="WD">Q545449</idno>
+      </event>
+    </listEvent>
+    <listPerson>
+      <person xml:id="dvp_091_person_0">
+        <persName>Claire Rafson [‘19]</persName>
+        <idno type="project">dvp_0972</idno>
+      </person>
+      <person xml:id="dvp_091_person_1">
+        <persName>John de Regt</persName>
+        <idno type="project">dvp_0974</idno>
+      </person>
+      <person xml:id="dvp_091_person_2">
+        <persName>John</persName>
+        <idno type="project">dvp_0974</idno>
+      </person>
+      <person xml:id="dvp_091_person_3">
+        <persName>Claire</persName>
+        <idno type="project">dvp_0972</idno>
+      </person>
+      <person xml:id="dvp_091_person_4">
+        <persName>Marian</persName>
+        <idno type="project">dvp_0976</idno>
+      </person>
+      <person xml:id="dvp_091_person_5">
+        <persName>Paul</persName>
+        <idno type="project">dvp_0978</idno>
+      </person>
+      <person xml:id="dvp_091_person_6">
+        <persName>Mark</persName>
+        <idno type="project">dvp_0979</idno>
+      </person>
+      <person xml:id="dvp_091_person_7">
+        <persName>Jan</persName>
+        <idno type="project">dvp_0980</idno>
+      </person>
+      <person xml:id="dvp_091_person_8">
+        <persName>Paul</persName>
+        <idno type="project">dvp_0978</idno>
+      </person>
+      <person xml:id="dvp_091_person_9">
+        <persName>John F. Kennedy</persName>
+        <idno type="WD">Q9696</idno>
+      </person>
+      <person xml:id="dvp_091_person_10">
+        <persName>Richard Nixon</persName>
+        <idno type="WD">Q9588</idno>
+      </person>
+      <person xml:id="dvp_091_person_11">
+        <persName>John F. Kennedy</persName>
+        <idno type="WD">Q9696</idno>
+      </person>
+      <person xml:id="dvp_091_person_12">
+        <persName>J. William Fulbright</persName>
+        <idno type="WD">Q550255</idno>
+      </person>
+      <person xml:id="dvp_091_person_13">
+        <persName>J. William Fulbright</persName>
+        <idno type="WD">Q550255</idno>
+      </person>
+      <person xml:id="dvp_091_person_14">
+        <persName>Lyndon B. Johnson</persName>
+        <idno type="WD">Q9640</idno>
+      </person>
+      <person xml:id="dvp_091_person_15">
+        <persName>John F. Kennedy</persName>
+        <idno type="WD">Q9696</idno>
+      </person>
+      <person xml:id="dvp_091_person_16">
+        <persName>Bill Price</persName>
+        <idno type="project">dvp_0982</idno>
+      </person>
+      <person xml:id="dvp_091_person_17">
+        <persName>Dean [Carroll W.] Brewster’s</persName>
+        <idno type="project">dvp_0983</idno>
+      </person>
+      <person xml:id="dvp_091_person_18">
+        <persName>ROTC</persName>
+      </person>
+      <person xml:id="dvp_091_person_19">
+        <persName>Ensign John de Regt</persName>
+        <idno type="project">dvp_0974</idno>
+      </person>
+      <person xml:id="dvp_091_person_20">
+        <persName>Dean Brewster’s</persName>
+        <idno type="project">dvp_0983</idno>
+      </person>
+      <person xml:id="dvp_091_person_21">
+        <persName>Carroll Brewster’s</persName>
+        <idno type="project">dvp_0983</idno>
+      </person>
+      <person xml:id="dvp_091_person_22">
+        <persName>Carroll Brewster</persName>
+        <idno type="project">dvp_0983</idno>
+      </person>
+      <person xml:id="dvp_091_person_23">
+        <persName>John</persName>
+        <idno type="project">dvp_0974</idno>
+      </person>
+      <person xml:id="dvp_091_person_24">
+        <persName>John</persName>
+        <idno type="project">dvp_0974</idno>
+      </person>
+      <person xml:id="dvp_091_person_25">
+        <persName>Jack Felderman</persName>
+        <idno type="project">dvp_0985</idno>
+      </person>
+      <person xml:id="dvp_091_person_26">
+        <persName>Jumping Jack</persName>
+        <idno type="project">dvp_0985</idno>
+      </person>
+      <person xml:id="dvp_091_person_27">
+        <persName>Mr. de Regt</persName>
+        <idno type="project">dvp_0974</idno>
+      </person>
+      <person xml:id="dvp_091_person_28">
+        <persName>Lyndon B. Johnson</persName>
+        <idno type="WD">Q9640</idno>
+      </person>
+      <person xml:id="dvp_091_person_29">
+        <persName>Claire</persName>
+        <idno type="project">dvp_0972</idno>
+      </person>
+      <person xml:id="dvp_091_person_30">
+        <persName>Mr. de Regt</persName>
+        <idno type="project">dvp_0974</idno>
+      </person>
+      <person xml:id="dvp_091_person_31">
+        <persName>Russell Burton Reynolds</persName>
+        <idno type="WD">Q7381396</idno>
+      </person>
+      <person xml:id="dvp_091_person_32">
+        <persName>Russell Burton Reynolds</persName>
+        <idno type="WD">Q7381396</idno>
+      </person>
+      <person xml:id="dvp_091_person_33">
+        <persName>Kevin</persName>
+        <idno type="project">dvp_0986</idno>
+      </person>
+      <person xml:id="dvp_091_person_34">
+        <persName>Kevin</persName>
+        <idno type="project">dvp_0986</idno>
+      </person>
+      <person xml:id="dvp_091_person_35">
+        <persName>Kevin</persName>
+        <idno type="project">dvp_0986</idno>
+      </person>
+      <person xml:id="dvp_091_person_36">
+        <persName>Kevin</persName>
+        <idno type="project">dvp_0986</idno>
+      </person>
+      <person xml:id="dvp_091_person_37">
+        <persName>Jeff</persName>
+      </person>
+      <person xml:id="dvp_091_person_38">
+        <persName>Kevin</persName>
+        <idno type="project">dvp_0986</idno>
+      </person>
+      <person xml:id="dvp_091_person_39">
+        <persName>Martha [Johnson] Beattie</persName>
+        <idno type="project">dvp_0987</idno>
+      </person>
+      <person xml:id="dvp_091_person_40">
+        <persName>Claire</persName>
+        <idno type="project">dvp_0972</idno>
+      </person>
+      <person xml:id="dvp_091_person_41">
+        <persName>Jenny</persName>
+        <idno type="project">dvp_0988</idno>
+      </person>
+      <person xml:id="dvp_091_person_42">
+        <persName>Jenny</persName>
+        <idno type="project">dvp_0988</idno>
+      </person>
+      <person xml:id="dvp_091_person_43">
+        <persName>Lyndon B. Johnson</persName>
+        <idno type="WD">Q9640</idno>
+      </person>
+      <person xml:id="dvp_091_person_44">
+        <persName>Robert McNamara</persName>
+        <idno type="WD">Q191999</idno>
+      </person>
+      <person xml:id="dvp_091_person_45">
+        <persName>George W. Bush</persName>
+        <idno type="WD">Q207</idno>
+      </person>
+      <person xml:id="dvp_091_person_46">
+        <persName>Dick Cheney</persName>
+        <idno type="WD">Q48259</idno>
+      </person>
+      <person xml:id="dvp_091_person_47">
+        <persName>Condoleezza Rice</persName>
+        <idno type="WD">Q47216</idno>
+      </person>
+      <person xml:id="dvp_091_person_48">
+        <persName>Paul Wolfowitz</persName>
+        <idno type="WD">Q219861</idno>
+      </person>
+      <person xml:id="dvp_091_person_49">
+        <persName>Donald Rumsfeld</persName>
+        <idno type="WD">Q184650</idno>
+      </person>
+      <person xml:id="dvp_091_person_50">
+        <persName>Saddam Hussein</persName>
+        <idno type="WD">Q1316</idno>
+      </person>
+      <person xml:id="dvp_091_person_51">
+        <persName>Claire</persName>
+        <idno type="project">dvp_0972</idno>
+      </person>
+      <person xml:id="dvp_091_person_52">
+        <persName>John Rassias</persName>
+        <idno type="WD">Q6254272</idno>
+      </person>
+    </listPerson>
+    <listOrg>
+      <org xml:id="dvp_091_org_0">
+        <orgName>Pieter de Regt</orgName>
+      </org>
+      <org xml:id="dvp_091_org_1">
+        <orgName>Booz Allen Hamilton</orgName>
+        <idno type="WD">Q893221</idno>
+      </org>
+      <org xml:id="dvp_091_org_2">
+        <orgName>National Science Foundation</orgName>
+        <idno type="WD">Q304878</idno>
+      </org>
+      <org xml:id="dvp_091_org_3">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dvp_091_org_4">
+        <orgName>Greek American Society</orgName>
+      </org>
+      <org xml:id="dvp_091_org_5">
+        <orgName>National Guard of the United States</orgName>
+        <idno type="WD">Q928670</idno>
+      </org>
+      <org xml:id="dvp_091_org_6">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dvp_091_org_7">
+        <orgName>Scouts BSA</orgName>
+        <idno type="WD">Q7887340</idno>
+      </org>
+      <org xml:id="dvp_091_org_8">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dvp_091_org_9">
+        <orgName>United States Navy</orgName>
+        <idno type="WD">Q11220</idno>
+      </org>
+      <org xml:id="dvp_091_org_10">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dvp_091_org_11">
+        <orgName>Reserve Officers' Training Corps</orgName>
+        <idno type="WD">Q489983</idno>
+      </org>
+      <org xml:id="dvp_091_org_12">
+        <orgName>Reserve Officers' Training Corps</orgName>
+        <idno type="WD">Q489983</idno>
+      </org>
+      <org xml:id="dvp_091_org_13">
+        <orgName>Naval Reserve Officers Training Corps</orgName>
+        <idno type="WD">Q6981909</idno>
+      </org>
+      <org xml:id="dvp_091_org_14">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dvp_091_org_15">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dvp_091_org_16">
+        <orgName>Naval Reserve Officers Training Corps</orgName>
+        <idno type="WD">Q6981909</idno>
+      </org>
+      <org xml:id="dvp_091_org_17">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dvp_091_org_18">
+        <orgName>Reserve Officers' Training Corps</orgName>
+        <idno type="WD">Q489983</idno>
+      </org>
+      <org xml:id="dvp_091_org_19">
+        <orgName>Western Union</orgName>
+        <idno type="WD">Q861042</idno>
+      </org>
+      <org xml:id="dvp_091_org_20">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dvp_091_org_21">
+        <orgName>Naval Reserve Officers Training Corps</orgName>
+        <idno type="WD">Q6981909</idno>
+      </org>
+      <org xml:id="dvp_091_org_22">
+        <orgName>Western Union</orgName>
+        <idno type="WD">Q861042</idno>
+      </org>
+      <org xml:id="dvp_091_org_23">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dvp_091_org_24">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dvp_091_org_25">
+        <orgName>Reserve Officers' Training Corps</orgName>
+        <idno type="WD">Q489983</idno>
+      </org>
+      <org xml:id="dvp_091_org_26">
+        <orgName>United States Army</orgName>
+        <idno type="WD">Q9212</idno>
+      </org>
+      <org xml:id="dvp_091_org_27">
+        <orgName>Naval Reserve Officers Training Corps</orgName>
+        <idno type="WD">Q6981909</idno>
+      </org>
+      <org xml:id="dvp_091_org_28">
+        <orgName>United States Army</orgName>
+        <idno type="WD">Q9212</idno>
+      </org>
+      <org xml:id="dvp_091_org_29">
+        <orgName>United States Navy</orgName>
+        <idno type="WD">Q11220</idno>
+      </org>
+      <org xml:id="dvp_091_org_30">
+        <orgName>United States Navy</orgName>
+        <idno type="WD">Q11220</idno>
+      </org>
+      <org xml:id="dvp_091_org_31">
+        <orgName>United States Army</orgName>
+        <idno type="WD">Q9212</idno>
+      </org>
+      <org xml:id="dvp_091_org_32">
+        <orgName>United States Coast Guard Academy</orgName>
+        <idno type="WD">Q650935</idno>
+      </org>
+      <org xml:id="dvp_091_org_33">
+        <orgName>United States Merchant Marine Academy</orgName>
+        <idno type="WD">Q1806541</idno>
+      </org>
+      <org xml:id="dvp_091_org_34">
+        <orgName>Army Reserve Officers' Training Corps</orgName>
+        <idno type="WD">Q4794233</idno>
+      </org>
+      <org xml:id="dvp_091_org_35">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dvp_091_org_36">
+        <orgName>Fulbright Association</orgName>
+        <idno type="WD">Q5507794</idno>
+      </org>
+      <org xml:id="dvp_091_org_37">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dvp_091_org_38">
+        <orgName>class of ’72</orgName>
+        <idno type="project">dvp_0210</idno>
+      </org>
+      <org xml:id="dvp_091_org_39">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dvp_091_org_40">
+        <orgName>Executive Committee</orgName>
+        <idno type="project">dvp_0968</idno>
+      </org>
+      <org xml:id="dvp_091_org_41">
+        <orgName>Reserve Officers' Training Corps</orgName>
+        <idno type="WD">Q489983</idno>
+      </org>
+      <org xml:id="dvp_091_org_42">
+        <orgName>Naval Reserve Officers Training Corps</orgName>
+        <idno type="WD">Q6981909</idno>
+      </org>
+      <org xml:id="dvp_091_org_43">
+        <orgName>Reserve Officers' Training Corps</orgName>
+        <idno type="WD">Q489983</idno>
+      </org>
+      <org xml:id="dvp_091_org_44">
+        <orgName>United States Army</orgName>
+        <idno type="WD">Q9212</idno>
+      </org>
+      <org xml:id="dvp_091_org_45">
+        <orgName>United States Navy</orgName>
+        <idno type="WD">Q11220</idno>
+      </org>
+      <org xml:id="dvp_091_org_46">
+        <orgName>United States Air Force</orgName>
+        <idno type="WD">Q11223</idno>
+      </org>
+      <org xml:id="dvp_091_org_47">
+        <orgName>United States Navy</orgName>
+        <idno type="WD">Q11220</idno>
+      </org>
+      <org xml:id="dvp_091_org_48">
+        <orgName>Reserve Officers' Training Corps</orgName>
+        <idno type="WD">Q489983</idno>
+      </org>
+      <org xml:id="dvp_091_org_49">
+        <orgName>Army of the Republic of Vietnam</orgName>
+        <idno type="WD">Q18917</idno>
+      </org>
+      <org xml:id="dvp_091_org_50">
+        <orgName>National Guard of the United States</orgName>
+        <idno type="WD">Q928670</idno>
+      </org>
+      <org xml:id="dvp_091_org_51">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dvp_091_org_52">
+        <orgName>Chi Gamma Epsilon</orgName>
+        <idno type="WD">Q5095062</idno>
+      </org>
+      <org xml:id="dvp_091_org_53">
+        <orgName>Chi Gamma Epsilon</orgName>
+        <idno type="WD">Q5095062</idno>
+      </org>
+      <org xml:id="dvp_091_org_54">
+        <orgName>Chi Gamma Epsilon</orgName>
+        <idno type="WD">Q5095062</idno>
+      </org>
+      <org xml:id="dvp_091_org_55">
+        <orgName>Reserve Officers' Training Corps</orgName>
+        <idno type="WD">Q489983</idno>
+      </org>
+      <org xml:id="dvp_091_org_56">
+        <orgName>Students for a Democratic Society at Dartmouth</orgName>
+        <idno type="WD">Q105445832</idno>
+      </org>
+      <org xml:id="dvp_091_org_57">
+        <orgName>Students for a Democratic Society at Dartmouth</orgName>
+        <idno type="WD">Q105445832</idno>
+      </org>
+      <org xml:id="dvp_091_org_58">
+        <orgName>Students for a Democratic Society at Dartmouth</orgName>
+        <idno type="WD">Q105445832</idno>
+      </org>
+      <org xml:id="dvp_091_org_59">
+        <orgName>Students for a Democratic Society at Dartmouth</orgName>
+        <idno type="WD">Q105445832</idno>
+      </org>
+      <org xml:id="dvp_091_org_60">
+        <orgName>New Hampshire State Police</orgName>
+        <idno type="WD">Q17109452</idno>
+      </org>
+      <org xml:id="dvp_091_org_61">
+        <orgName>Reserve Officers' Training Corps</orgName>
+        <idno type="WD">Q489983</idno>
+      </org>
+      <org xml:id="dvp_091_org_62">
+        <orgName>Reserve Officers' Training Corps</orgName>
+        <idno type="WD">Q489983</idno>
+      </org>
+      <org xml:id="dvp_091_org_63">
+        <orgName>Naval Reserve Officers Training Corps</orgName>
+        <idno type="WD">Q6981909</idno>
+      </org>
+      <org xml:id="dvp_091_org_64">
+        <orgName>Reserve Officers' Training Corps</orgName>
+        <idno type="WD">Q489983</idno>
+      </org>
+      <org xml:id="dvp_091_org_65">
+        <orgName>United States Navy</orgName>
+        <idno type="WD">Q11220</idno>
+      </org>
+      <org xml:id="dvp_091_org_66">
+        <orgName>Students for a Democratic Society at Dartmouth</orgName>
+        <idno type="WD">Q105445832</idno>
+      </org>
+      <org xml:id="dvp_091_org_67">
+        <orgName>New Hampshire State Police</orgName>
+        <idno type="WD">Q17109452</idno>
+      </org>
+      <org xml:id="dvp_091_org_68">
+        <orgName>Reserve Officers' Training Corps</orgName>
+        <idno type="WD">Q489983</idno>
+      </org>
+      <org xml:id="dvp_091_org_69">
+        <orgName>United States Navy</orgName>
+        <idno type="WD">Q11220</idno>
+      </org>
+      <org xml:id="dvp_091_org_70">
+        <orgName>United States Navy</orgName>
+        <idno type="WD">Q11220</idno>
+      </org>
+      <org xml:id="dvp_091_org_71">
+        <orgName>United States Navy</orgName>
+        <idno type="WD">Q11220</idno>
+      </org>
+      <org xml:id="dvp_091_org_72">
+        <orgName>United States Air Force</orgName>
+        <idno type="WD">Q11223</idno>
+      </org>
+      <org xml:id="dvp_091_org_73">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dvp_091_org_74">
+        <orgName>The Dartmouth</orgName>
+        <idno type="WD">Q7729068</idno>
+      </org>
+      <org xml:id="dvp_091_org_75">
+        <orgName>New York State Police</orgName>
+        <idno type="WD">Q1057860</idno>
+      </org>
+      <org xml:id="dvp_091_org_76">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dvp_091_org_77">
+        <orgName>Reserve Officers' Training Corps</orgName>
+        <idno type="WD">Q489983</idno>
+      </org>
+      <org xml:id="dvp_091_org_78">
+        <orgName>United States Navy</orgName>
+        <idno type="WD">Q11220</idno>
+      </org>
+      <org xml:id="dvp_091_org_79">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dvp_091_org_80">
+        <orgName>USS Sarsfield</orgName>
+        <idno type="WD">Q7873871</idno>
+      </org>
+      <org xml:id="dvp_091_org_81">
+        <orgName>USS Sarsfield</orgName>
+        <idno type="WD">Q7873871</idno>
+      </org>
+      <org xml:id="dvp_091_org_82">
+        <orgName>USS Sarsfield</orgName>
+        <idno type="WD">Q7873871</idno>
+      </org>
+      <org xml:id="dvp_091_org_83">
+        <orgName>Army of the Republic of Vietnam</orgName>
+        <idno type="WD">Q18917</idno>
+      </org>
+      <org xml:id="dvp_091_org_84">
+        <orgName>Army of the Republic of Vietnam</orgName>
+        <idno type="WD">Q18917</idno>
+      </org>
+      <org xml:id="dvp_091_org_85">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dvp_091_org_86">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dvp_091_org_87">
+        <orgName>United States Navy</orgName>
+        <idno type="WD">Q11220</idno>
+      </org>
+      <org xml:id="dvp_091_org_88">
+        <orgName>United States Army</orgName>
+        <idno type="WD">Q9212</idno>
+      </org>
+      <org xml:id="dvp_091_org_89">
+        <orgName>United States Marine Corps</orgName>
+        <idno type="WD">Q11218</idno>
+      </org>
+      <org xml:id="dvp_091_org_90">
+        <orgName>United States Air Force</orgName>
+        <idno type="WD">Q11223</idno>
+      </org>
+      <org xml:id="dvp_091_org_91">
+        <orgName>United States Navy</orgName>
+        <idno type="WD">Q11220</idno>
+      </org>
+      <org xml:id="dvp_091_org_92">
+        <orgName>Royal Navy</orgName>
+        <idno type="WD">Q172771</idno>
+      </org>
+      <org xml:id="dvp_091_org_93">
+        <orgName>French Navy</orgName>
+        <idno type="WD">Q217406</idno>
+      </org>
+      <org xml:id="dvp_091_org_94">
+        <orgName>Israel Defense Forces</orgName>
+        <idno type="WD">Q58967</idno>
+      </org>
+      <org xml:id="dvp_091_org_95">
+        <orgName>USS John F. Kennedy</orgName>
+        <idno type="WD">Q507410</idno>
+      </org>
+      <org xml:id="dvp_091_org_96">
+        <orgName>Israeli Air Force</orgName>
+        <idno type="WD">Q462211</idno>
+      </org>
+      <org xml:id="dvp_091_org_97">
+        <orgName>United States Navy</orgName>
+        <idno type="WD">Q11220</idno>
+      </org>
+      <org xml:id="dvp_091_org_98">
+        <orgName>United States Navy</orgName>
+        <idno type="WD">Q11220</idno>
+      </org>
+      <org xml:id="dvp_091_org_99">
+        <orgName>United States Navy</orgName>
+        <idno type="WD">Q11220</idno>
+      </org>
+      <org xml:id="dvp_091_org_100">
+        <orgName>Russian Navy</orgName>
+        <idno type="WD">Q465283</idno>
+      </org>
+      <org xml:id="dvp_091_org_101">
+        <orgName>Russia</orgName>
+        <idno type="WD">Q159</idno>
+      </org>
+      <org xml:id="dvp_091_org_102">
+        <orgName>Russia</orgName>
+        <idno type="WD">Q159</idno>
+      </org>
+      <org xml:id="dvp_091_org_103">
+        <orgName>State University of New York Maritime College</orgName>
+        <idno type="WD">Q7603615</idno>
+      </org>
+      <org xml:id="dvp_091_org_104">
+        <orgName>Reserve Officers' Training Corps</orgName>
+        <idno type="WD">Q489983</idno>
+      </org>
+      <org xml:id="dvp_091_org_105">
+        <orgName>USS Belknap</orgName>
+        <idno type="WD">Q2713873</idno>
+      </org>
+      <org xml:id="dvp_091_org_106">
+        <orgName>USS Belknap</orgName>
+        <idno type="WD">Q2713873</idno>
+      </org>
+      <org xml:id="dvp_091_org_107">
+        <orgName>USS Kennedy</orgName>
+        <idno type="WD">Q7870721</idno>
+      </org>
+      <org xml:id="dvp_091_org_108">
+        <orgName>USS Belknap</orgName>
+        <idno type="WD">Q2713873</idno>
+      </org>
+      <org xml:id="dvp_091_org_109">
+        <orgName>USS Belknap</orgName>
+        <idno type="WD">Q2713873</idno>
+      </org>
+      <org xml:id="dvp_091_org_110">
+        <orgName>USS Kennedy</orgName>
+        <idno type="WD">Q7870721</idno>
+      </org>
+      <org xml:id="dvp_091_org_111">
+        <orgName>USS Belknap</orgName>
+        <idno type="WD">Q2713873</idno>
+      </org>
+      <org xml:id="dvp_091_org_112">
+        <orgName>USS Kennedy</orgName>
+        <idno type="WD">Q7870721</idno>
+      </org>
+      <org xml:id="dvp_091_org_113">
+        <orgName>USS Belknap</orgName>
+        <idno type="WD">Q2713873</idno>
+      </org>
+      <org xml:id="dvp_091_org_114">
+        <orgName>United States Navy</orgName>
+        <idno type="WD">Q11220</idno>
+      </org>
+      <org xml:id="dvp_091_org_115">
+        <orgName>USS Belknap</orgName>
+        <idno type="WD">Q2713873</idno>
+      </org>
+      <org xml:id="dvp_091_org_116">
+        <orgName>United States Navy</orgName>
+        <idno type="WD">Q11220</idno>
+      </org>
+      <org xml:id="dvp_091_org_117">
+        <orgName>State University of New York Maritime College</orgName>
+        <idno type="WD">Q7603615</idno>
+      </org>
+      <org xml:id="dvp_091_org_118">
+        <orgName>United States Navy</orgName>
+        <idno type="WD">Q11220</idno>
+      </org>
+      <org xml:id="dvp_091_org_119">
+        <orgName>United States Navy</orgName>
+        <idno type="WD">Q11220</idno>
+      </org>
+      <org xml:id="dvp_091_org_120">
+        <orgName>United States Navy</orgName>
+        <idno type="WD">Q11220</idno>
+      </org>
+      <org xml:id="dvp_091_org_121">
+        <orgName>Scouts BSA</orgName>
+        <idno type="WD">Q7887340</idno>
+      </org>
+      <org xml:id="dvp_091_org_122">
+        <orgName>Girl Scouts of the USA</orgName>
+        <idno type="WD">Q2576280</idno>
+      </org>
+      <org xml:id="dvp_091_org_123">
+        <orgName>State University of New York</orgName>
+        <idno type="WD">Q1140241</idno>
+      </org>
+      <org xml:id="dvp_091_org_124">
+        <orgName>Ogden Marine</orgName>
+        <idno type="WD">Q108885464</idno>
+      </org>
+      <org xml:id="dvp_091_org_125">
+        <orgName>Ogden</orgName>
+        <idno type="WD">Q108885464</idno>
+      </org>
+      <org xml:id="dvp_091_org_126">
+        <orgName>New York University</orgName>
+        <idno type="WD">Q49210</idno>
+      </org>
+      <org xml:id="dvp_091_org_127">
+        <orgName>LaSalle Investment Management</orgName>
+        <idno type="WD">Q6460875</idno>
+      </org>
+      <org xml:id="dvp_091_org_128">
+        <orgName>Ogden</orgName>
+        <idno type="WD">Q108885464</idno>
+      </org>
+      <org xml:id="dvp_091_org_129">
+        <orgName>Russell Reynolds Associates</orgName>
+        <idno type="WD">Q39047403</idno>
+      </org>
+      <org xml:id="dvp_091_org_130">
+        <orgName>Russell Reynolds Associates</orgName>
+        <idno type="WD">Q39047403</idno>
+      </org>
+      <org xml:id="dvp_091_org_131">
+        <orgName>Russell Reynolds Associates</orgName>
+        <idno type="WD">Q39047403</idno>
+      </org>
+      <org xml:id="dvp_091_org_132">
+        <orgName>LaSalle Investment Management</orgName>
+        <idno type="WD">Q6460875</idno>
+      </org>
+      <org xml:id="dvp_091_org_133">
+        <orgName>Russell Reynolds Associates</orgName>
+        <idno type="WD">Q39047403</idno>
+      </org>
+      <org xml:id="dvp_091_org_134">
+        <orgName>Heidrick &amp; Struggles</orgName>
+        <idno type="WD">Q17110635</idno>
+      </org>
+      <org xml:id="dvp_091_org_135">
+        <orgName>Spencer Stuart</orgName>
+        <idno type="WD">Q7576188</idno>
+      </org>
+      <org xml:id="dvp_091_org_136">
+        <orgName>Russell Reynolds Associates</orgName>
+        <idno type="WD">Q39047403</idno>
+      </org>
+      <org xml:id="dvp_091_org_137">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dvp_091_org_138">
+        <orgName>class of ’11</orgName>
+        <idno type="project">dvp_0969</idno>
+      </org>
+      <org xml:id="dvp_091_org_139">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dvp_091_org_140">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dvp_091_org_141">
+        <orgName>Executive Council</orgName>
+        <idno type="project">dvp_0968</idno>
+      </org>
+      <org xml:id="dvp_091_org_142">
+        <orgName>Executive Committee</orgName>
+        <idno type="project">dvp_0968</idno>
+      </org>
+      <org xml:id="dvp_091_org_143">
+        <orgName>the Alumni Council</orgName>
+        <idno type="project">dvp_0968</idno>
+      </org>
+      <org xml:id="dvp_091_org_144">
+        <orgName>Alumni Council</orgName>
+        <idno type="project">dvp_0968</idno>
+      </org>
+      <org xml:id="dvp_091_org_145">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dvp_091_org_146">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dvp_091_org_147">
+        <orgName>Tuck School of Business</orgName>
+        <idno type="WD">Q1263832</idno>
+      </org>
+      <org xml:id="dvp_091_org_148">
+        <orgName>Tuck School of Business</orgName>
+        <idno type="WD">Q1263832</idno>
+      </org>
+      <org xml:id="dvp_091_org_149">
+        <orgName>Tuck School of Business</orgName>
+        <idno type="WD">Q1263832</idno>
+      </org>
+      <org xml:id="dvp_091_org_150">
+        <orgName>Tuck School of Business</orgName>
+        <idno type="WD">Q1263832</idno>
+      </org>
+      <org xml:id="dvp_091_org_151">
+        <orgName>Thayer School of Engineering</orgName>
+        <idno type="WD">Q7711553</idno>
+      </org>
+      <org xml:id="dvp_091_org_152">
+        <orgName>Thayer School of Engineering</orgName>
+        <idno type="WD">Q7711553</idno>
+      </org>
+      <org xml:id="dvp_091_org_153">
+        <orgName>PricewaterhouseCoopers</orgName>
+        <idno type="WD">Q488048</idno>
+      </org>
+      <org xml:id="dvp_091_org_154">
+        <orgName>Class of ’76</orgName>
+        <idno type="project">dvp_0795</idno>
+      </org>
+      <org xml:id="dvp_091_org_155">
+        <orgName>Alumni Affairs [Alumni Relations]</orgName>
+        <idno type="WD">Q108885556</idno>
+      </org>
+      <org xml:id="dvp_091_org_156">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dvp_091_org_157">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dvp_091_org_158">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dvp_091_org_159">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dvp_091_org_160">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dvp_091_org_161">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dvp_091_org_162">
+        <orgName>United States Navy</orgName>
+        <idno type="WD">Q11220</idno>
+      </org>
+      <org xml:id="dvp_091_org_163">
+        <orgName>Iran</orgName>
+        <idno type="WD">Q794</idno>
+      </org>
+      <org xml:id="dvp_091_org_164">
+        <orgName>Warfighter Advance</orgName>
+        <idno type="WD">Q108885614</idno>
+      </org>
+      <org xml:id="dvp_091_org_165">
+        <orgName>United States Department of Veterans Affairs</orgName>
+        <idno type="WD">Q592576</idno>
+      </org>
+      <org xml:id="dvp_091_org_166">
+        <orgName>National Front for the Liberation of South Vietnam</orgName>
+        <idno type="WD">Q174423</idno>
+      </org>
+      <org xml:id="dvp_091_org_167">
+        <orgName>Taliban</orgName>
+        <idno type="WD">Q42418</idno>
+      </org>
+      <org xml:id="dvp_091_org_168">
+        <orgName>Dartmouth College</orgName>
+        <idno type="WD">Q49116</idno>
+      </org>
+      <org xml:id="dvp_091_org_169">
+        <orgName>Dartmouth Outing Club (DOC)</orgName>
+        <idno type="WD">Q101243244</idno>
+      </org>
+      <org xml:id="dvp_091_org_170">
+        <orgName>Dartmouth Outing Club (DOC)</orgName>
+        <idno type="WD">Q101243244</idno>
+      </org>
+      <org xml:id="dvp_091_org_171">
+        <orgName>cabin and trail</orgName>
+        <idno type="WD">Q108885584</idno>
+      </org>
+      <org xml:id="dvp_091_org_172">
+        <orgName>cabin and trail</orgName>
+        <idno type="WD">Q108885584</idno>
+      </org>
+    </listOrg>
+  </standOff>
+</TEI>

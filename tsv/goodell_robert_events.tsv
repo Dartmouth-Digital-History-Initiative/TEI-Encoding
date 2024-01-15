@@ -1,0 +1,20 @@
+id	name	QID	dvp_id	start time	end time	point in time
+dvp_096_event_0	Great Depression	Q8698		1929-10-24T00:00:00Z	1941-01-01T00:00:00Z	
+dvp_096_event_1	Stone Age	Q11759			2000-01-01T00:00:00Z	
+dvp_096_event_2	Korean War	Q8663		1950-06-25T00:00:00Z	1953-07-27T00:00:00Z	
+dvp_096_event_3	World War II	Q362		1939-09-01T00:00:00Z	1945-09-02T00:00:00Z	
+dvp_096_event_4	Korean War	Q8663		1950-06-25T00:00:00Z	1953-07-27T00:00:00Z	
+dvp_096_event_5	World War II	Q362		1939-09-01T00:00:00Z	1945-09-02T00:00:00Z	
+dvp_096_event_6	World War II	Q362		1939-09-01T00:00:00Z	1945-09-02T00:00:00Z	
+dvp_096_event_7	World War II	Q362		1939-09-01T00:00:00Z	1945-09-02T00:00:00Z	
+dvp_096_event_8	World War III					
+dvp_096_event_9	World War III					
+dvp_096_event_10	World War III					
+dvp_096_event_11	World War III					
+dvp_096_event_12	World War III					
+dvp_096_event_13	First Taiwan Strait Crisis	Q2421268		1954-09-03T00:00:00Z	1955-05-01T00:00:00Z	1954-09-03T00:00:00Z
+dvp_096_event_14	Cold War	Q8683		1945-01-01T00:00:00Z	1991-12-25T00:00:00Z	
+dvp_096_event_15	Cuban Missile Crisis	Q128160		1962-10-14T00:00:00Z	1962-10-28T00:00:00Z	1962-01-01T00:00:00Z
+dvp_096_event_16	September 11 attacks	Q10806				2001-09-11T00:00:00Z
+dvp_096_event_17	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	
+dvp_096_event_18	Vietnam War	Q8740		1959-01-01T00:00:00Z	1975-04-30T00:00:00Z	

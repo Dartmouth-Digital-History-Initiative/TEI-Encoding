@@ -1,146 +1,146 @@
-id	placeName
-dvp_015_place_0	Rauner [Special Collections] Library
-dvp_015_place_1	Buffalo, New York
-dvp_015_place_2	First Ward
-dvp_015_place_3	Buffalo
-dvp_015_place_4	Buffalo
-dvp_015_place_5	Great Lakes
-dvp_015_place_6	Pillsbury Flour Mill
-dvp_015_place_7	First Ward
-dvp_015_place_8	South Buffalo
-dvp_015_place_9	Buffalo
-dvp_015_place_10	South Buffalo
-dvp_015_place_11	United States
-dvp_015_place_12	Buffalo
-dvp_015_place_13	South Buffalo
-dvp_015_place_14	Buffalo
-dvp_015_place_15	Buffalo
-dvp_015_place_16	First Ward
-dvp_015_place_17	Buffalo
-dvp_015_place_18	Republic [Steel]
-dvp_015_place_19	Bethlehem Steel [Corporation]
-dvp_015_place_20	Bethlehem Steel
-dvp_015_place_21	Lake Erie
-dvp_015_place_22	Ford [Motors] Stamping Plant
-dvp_015_place_23	Buffalo
-dvp_015_place_24	Buffalo
-dvp_015_place_25	South Buffalo
-dvp_015_place_26	Ridgewood Road
-dvp_015_place_27	First Ward
-dvp_015_place_28	First Ward
-dvp_015_place_29	South Buffalo
-dvp_015_place_30	States
-dvp_015_place_31	Georgia
-dvp_015_place_32	Philippines
-dvp_015_place_33	Philippines
-dvp_015_place_34	Buffalo
-dvp_015_place_35	Buffalo
-dvp_015_place_36	Buffalo
-dvp_015_place_37	Canisius High School
-dvp_015_place_38	Buffalo
-dvp_015_place_39	America
-dvp_015_place_40	South Buffalo
-dvp_015_place_41	South Boston
-dvp_015_place_42	United States
-dvp_015_place_43	Vietnam
-dvp_015_place_44	Buffalo
-dvp_015_place_45	Washington
-dvp_015_place_46	U.S.
-dvp_015_place_47	Buffalo
-dvp_015_place_48	Buffalo
-dvp_015_place_49	Vietnam
-dvp_015_place_50	U.S.
-dvp_015_place_51	Vietnam
-dvp_015_place_52	France
-dvp_015_place_53	Điện Biên Phủ
-dvp_015_place_54	U.S.
-dvp_015_place_55	Iraq
-dvp_015_place_56	Buffalo
-dvp_015_place_57	Canisius Collage
-dvp_015_place_58	Marquette University
-dvp_015_place_59	Marquette
-dvp_015_place_60	Marquette
-dvp_015_place_61	Buffalo
-dvp_015_place_62	Canisius
-dvp_015_place_63	Marquette
-dvp_015_place_64	Buffalo
-dvp_015_place_65	Canisius
-dvp_015_place_66	Canisius
-dvp_015_place_67	South Buffalo
-dvp_015_place_68	Vietnam
-dvp_015_place_69	Vietnam
-dvp_015_place_70	Canisius
-dvp_015_place_71	[Military and] Draft Counseling Center [of Buffalo]
-dvp_015_place_72	Canisius
-dvp_015_place_73	Rauner Library
-dvp_015_place_74	Quaker Meeting House
-dvp_015_place_75	Quaker Meeting House
-dvp_015_place_76	Boston
-dvp_015_place_77	New York
-dvp_015_place_78	Chicago
-dvp_015_place_79	Philadelphia
-dvp_015_place_80	Miami
-dvp_015_place_81	Atlanta
-dvp_015_place_82	Canada
-dvp_015_place_83	Canada
-dvp_015_place_84	Buffalo
-dvp_015_place_85	Buffalo
-dvp_015_place_86	SUNY Buffalo
-dvp_015_place_87	Buffalo
-dvp_015_place_88	City Hall
-dvp_015_place_89	Vietnam
-dvp_015_place_90	Vietnam
-dvp_015_place_91	Washington, D.C.
-dvp_015_place_92	D.C.
-dvp_015_place_93	D.C.
-dvp_015_place_94	D.C.
-dvp_015_place_95	Library of Congress
-dvp_015_place_96	Buffalo
-dvp_015_place_97	Buffalo
-dvp_015_place_98	D.C.
-dvp_015_place_99	Buffalo
-dvp_015_place_100	Buffalo
-dvp_015_place_101	New York City
-dvp_015_place_102	D.C.
-dvp_015_place_103	Buffalo
-dvp_015_place_104	Rochester, New York
-dvp_015_place_105	St. John Fisher [College]
-dvp_015_place_106	SUNY Buffal
-dvp_015_place_107	Rhode Island
-dvp_015_place_108	Dartmouth
-dvp_015_place_109	Hollywood
-dvp_015_place_110	Buffalo
-dvp_015_place_111	Buffalo
-dvp_015_place_112	Buffalo
-dvp_015_place_113	Buffalo
-dvp_015_place_114	Buffalo
-dvp_015_place_115	Buffalo
-dvp_015_place_116	Boston
-dvp_015_place_117	Boston
-dvp_015_place_118	Boston
-dvp_015_place_119	Buffalo
-dvp_015_place_120	South Buffalo
-dvp_015_place_121	Boston
-dvp_015_place_122	Boston
-dvp_015_place_123	New Mexico
-dvp_015_place_124	New Mexico
-dvp_015_place_125	Buffalo
-dvp_015_place_126	Buffalo
-dvp_015_place_127	Boston
-dvp_015_place_128	Buffalo
-dvp_015_place_129	Buffalo
-dvp_015_place_130	Buffalo
-dvp_015_place_131	Albany
-dvp_015_place_132	Boston
-dvp_015_place_133	Buffalo
-dvp_015_place_134	Buffalo
-dvp_015_place_135	New Mexico
-dvp_015_place_136	New Mexico
-dvp_015_place_137	Boston
-dvp_015_place_138	Buffalo
-dvp_015_place_139	Dartmouth
-dvp_015_place_140	Dartmouth
-dvp_015_place_141	Buffalo
-dvp_015_place_142	Boston
-dvp_015_place_143	New Mexico
-dvp_015_place_144	Buffalo
+id	placeName	QID	dvp_id	coordinate location
+dvp_015_place_0	Rauner Special Collections Library	Q98544730		43.70447,-72.28817
+dvp_015_place_1	Buffalo	Q40435		42.904722222222,-78.849444444444
+dvp_015_place_2	First Ward	Q108938161		42.8667, -78.8623
+dvp_015_place_3	Buffalo	Q40435		42.904722222222,-78.849444444444
+dvp_015_place_4	Buffalo	Q40435		42.904722222222,-78.849444444444
+dvp_015_place_5	Great Lakes	Q7347		45.75,-84
+dvp_015_place_6	Pillsbury Flour Mill			
+dvp_015_place_7	First Ward	Q108938161		42.8667, -78.8623
+dvp_015_place_8	South Buffalo	Q7566450		42.847,-78.824
+dvp_015_place_9	Buffalo	Q40435		42.904722222222,-78.849444444444
+dvp_015_place_10	South Buffalo	Q7566450		42.847,-78.824
+dvp_015_place_11	United States of America	Q30		39.828175,-98.5795
+dvp_015_place_12	Buffalo	Q40435		42.904722222222,-78.849444444444
+dvp_015_place_13	South Buffalo	Q7566450		42.847,-78.824
+dvp_015_place_14	Buffalo	Q40435		42.904722222222,-78.849444444444
+dvp_015_place_15	Buffalo	Q40435		42.904722222222,-78.849444444444
+dvp_015_place_16	First Ward	Q108938161		42.8667, -78.8623
+dvp_015_place_17	Buffalo	Q40435		42.904722222222,-78.849444444444
+dvp_015_place_18	Republic [Steel]			
+dvp_015_place_19	Bethlehem Steel [Corporation]			
+dvp_015_place_20	Bethlehem Steel			
+dvp_015_place_21	Lake Erie	Q5492		42.149115,-81.24101
+dvp_015_place_22	Hermosillo Stamping & Assembly	Q5742089		29.01361111,-110.91694444
+dvp_015_place_23	Buffalo	Q40435		42.904722222222,-78.849444444444
+dvp_015_place_24	Buffalo	Q40435		42.904722222222,-78.849444444444
+dvp_015_place_25	South Buffalo	Q7566450		42.847,-78.824
+dvp_015_place_26	Ridgewood Road		dvp_0177	42.8388256,-78.8200476
+dvp_015_place_27	First Ward	Q108938161		42.8667, -78.8623
+dvp_015_place_28	First Ward	Q108938161		42.8667, -78.8623
+dvp_015_place_29	South Buffalo	Q7566450		42.847,-78.824
+dvp_015_place_30	United States of America	Q30		39.828175,-98.5795
+dvp_015_place_31	Georgia	Q1428		33,-83.5
+dvp_015_place_32	Philippines	Q928		12,123
+dvp_015_place_33	Philippines	Q928		12,123
+dvp_015_place_34	Buffalo	Q40435		42.904722222222,-78.849444444444
+dvp_015_place_35	Buffalo	Q40435		42.904722222222,-78.849444444444
+dvp_015_place_36	Buffalo	Q40435		42.904722222222,-78.849444444444
+dvp_015_place_37	Canisius High School	Q5032454		42.9164,-78.8697
+dvp_015_place_38	Buffalo	Q40435		42.904722222222,-78.849444444444
+dvp_015_place_39	United States of America	Q30		39.828175,-98.5795
+dvp_015_place_40	South Buffalo	Q7566450		42.847,-78.824
+dvp_015_place_41	South Boston	Q1759693		42.28582,-71.12909
+dvp_015_place_42	United States of America	Q30		39.828175,-98.5795
+dvp_015_place_43	Vietnam	Q881		16,108
+dvp_015_place_44	Buffalo	Q40435		42.904722222222,-78.849444444444
+dvp_015_place_45	Washington, D.C.	Q61		38.895,-77.036666666667
+dvp_015_place_46	United States of America	Q30		39.828175,-98.5795
+dvp_015_place_47	Buffalo	Q40435		42.904722222222,-78.849444444444
+dvp_015_place_48	Buffalo	Q40435		42.904722222222,-78.849444444444
+dvp_015_place_49	Vietnam	Q881		16,108
+dvp_015_place_50	United States of America	Q30		39.828175,-98.5795
+dvp_015_place_51	Vietnam	Q881		16,108
+dvp_015_place_52	France	Q142		47,2
+dvp_015_place_53	Điện Biên Phủ	Q36027		21.383333333333,103.01694444444
+dvp_015_place_54	United States of America	Q30		39.828175,-98.5795
+dvp_015_place_55	Iraq	Q796		33,43
+dvp_015_place_56	Buffalo	Q40435		42.904722222222,-78.849444444444
+dvp_015_place_57	Canisius College	Q1033335		42.92528,-78.85278
+dvp_015_place_58	Marquette University	Q188370		43.038,-87.928
+dvp_015_place_59	Marquette University	Q188370		43.038,-87.928
+dvp_015_place_60	Marquette University	Q188370		43.038,-87.928
+dvp_015_place_61	Buffalo	Q40435		42.904722222222,-78.849444444444
+dvp_015_place_62	Canisius College	Q1033335		42.92528,-78.85278
+dvp_015_place_63	Marquette University	Q188370		43.038,-87.928
+dvp_015_place_64	Buffalo	Q40435		42.904722222222,-78.849444444444
+dvp_015_place_65	Canisius College	Q1033335		42.92528,-78.85278
+dvp_015_place_66	Canisius College	Q1033335		42.92528,-78.85278
+dvp_015_place_67	South Buffalo	Q7566450		42.847,-78.824
+dvp_015_place_68	Vietnam	Q881		16,108
+dvp_015_place_69	Vietnam	Q881		16,108
+dvp_015_place_70	Canisius College	Q1033335		42.92528,-78.85278
+dvp_015_place_71	Military and Draft Counseling Center of Buffalo	Q104923347		42.91878,-78.868398
+dvp_015_place_72	Canisius College	Q1033335		42.92528,-78.85278
+dvp_015_place_73	Rauner Special Collections Library	Q98544730		43.70447,-72.28817
+dvp_015_place_74	Quaker Meeting-house	Q7268557		40.7175,-73.9962
+dvp_015_place_75	Quaker Meeting-house	Q7268557		40.7175,-73.9962
+dvp_015_place_76	Boston	Q100		42.358333333333,-71.0625
+dvp_015_place_77	New York City	Q60		40.67,-73.94
+dvp_015_place_78	Chicago	Q1297		41.881944444444,-87.627777777778
+dvp_015_place_79	Philadelphia	Q1345		39.952777777778,-75.163611111111
+dvp_015_place_80	Miami	Q8652		25.783333333333,-80.216666666667
+dvp_015_place_81	Atlanta	Q23556		33.756944444444,-84.390277777778
+dvp_015_place_82	Canada	Q16		56,-109
+dvp_015_place_83	Canada	Q16		56,-109
+dvp_015_place_84	Buffalo	Q40435		42.904722222222,-78.849444444444
+dvp_015_place_85	Buffalo	Q40435		42.904722222222,-78.849444444444
+dvp_015_place_86	University at Buffalo	Q681025		43,-78.789166666667
+dvp_015_place_87	Buffalo	Q40435		42.904722222222,-78.849444444444
+dvp_015_place_88	City Hall	Q1001988		42.886592, -78.879303
+dvp_015_place_89	Vietnam	Q881		16,108
+dvp_015_place_90	Vietnam	Q881		16,108
+dvp_015_place_91	Washington, D.C.	Q61		38.895,-77.036666666667
+dvp_015_place_92	Washington, D.C.	Q61		38.895,-77.036666666667
+dvp_015_place_93	Washington, D.C.	Q61		38.895,-77.036666666667
+dvp_015_place_94	Washington, D.C.	Q61		38.895,-77.036666666667
+dvp_015_place_95	Library of Congress	Q131454		38.888333333333335,-77.00444444444445
+dvp_015_place_96	Buffalo	Q40435		42.904722222222,-78.849444444444
+dvp_015_place_97	Buffalo	Q40435		42.904722222222,-78.849444444444
+dvp_015_place_98	Washington, D.C.	Q61		38.895,-77.036666666667
+dvp_015_place_99	Buffalo	Q40435		42.904722222222,-78.849444444444
+dvp_015_place_100	Buffalo	Q40435		42.904722222222,-78.849444444444
+dvp_015_place_101	New York City	Q60		40.67,-73.94
+dvp_015_place_102	Washington, D.C.	Q61		38.895,-77.036666666667
+dvp_015_place_103	Buffalo	Q40435		42.904722222222,-78.849444444444
+dvp_015_place_104	Rochester	Q49218		43.165555555556,-77.611388888889
+dvp_015_place_105	St. John Fisher College	Q7588902		43.116111111111,-77.511666666667
+dvp_015_place_106	University at Buffalo	Q681025		43,-78.789166666667
+dvp_015_place_107	Rhode Island	Q1387		41.7,-71.5
+dvp_015_place_108	Dartmouth College	Q49116		43.703333333333,-72.288333333333
+dvp_015_place_109	Hollywood			
+dvp_015_place_110	Buffalo	Q40435		42.904722222222,-78.849444444444
+dvp_015_place_111	Buffalo	Q40435		42.904722222222,-78.849444444444
+dvp_015_place_112	Buffalo	Q40435		42.904722222222,-78.849444444444
+dvp_015_place_113	Buffalo	Q40435		42.904722222222,-78.849444444444
+dvp_015_place_114	Buffalo	Q40435		42.904722222222,-78.849444444444
+dvp_015_place_115	Buffalo	Q40435		42.904722222222,-78.849444444444
+dvp_015_place_116	Boston	Q100		42.358333333333,-71.0625
+dvp_015_place_117	Boston	Q100		42.358333333333,-71.0625
+dvp_015_place_118	Boston	Q100		42.358333333333,-71.0625
+dvp_015_place_119	Buffalo	Q40435		42.904722222222,-78.849444444444
+dvp_015_place_120	South Buffalo	Q7566450		42.847,-78.824
+dvp_015_place_121	Boston	Q100		42.358333333333,-71.0625
+dvp_015_place_122	Boston	Q100		42.358333333333,-71.0625
+dvp_015_place_123	New Mexico	Q1522		34,-106
+dvp_015_place_124	New Mexico	Q1522		34,-106
+dvp_015_place_125	Buffalo	Q40435		42.904722222222,-78.849444444444
+dvp_015_place_126	Buffalo	Q40435		42.904722222222,-78.849444444444
+dvp_015_place_127	Boston	Q100		42.358333333333,-71.0625
+dvp_015_place_128	Buffalo	Q40435		42.904722222222,-78.849444444444
+dvp_015_place_129	Buffalo	Q40435		42.904722222222,-78.849444444444
+dvp_015_place_130	Buffalo	Q40435		42.904722222222,-78.849444444444
+dvp_015_place_131	Albany	Q24861		42.65,-73.766666666667
+dvp_015_place_132	Boston	Q100		42.358333333333,-71.0625
+dvp_015_place_133	Buffalo	Q40435		42.904722222222,-78.849444444444
+dvp_015_place_134	Buffalo	Q40435		42.904722222222,-78.849444444444
+dvp_015_place_135	New Mexico	Q1522		34,-106
+dvp_015_place_136	New Mexico	Q1522		34,-106
+dvp_015_place_137	Boston	Q100		42.358333333333,-71.0625
+dvp_015_place_138	Buffalo	Q40435		42.904722222222,-78.849444444444
+dvp_015_place_139	Dartmouth College	Q49116		43.703333333333,-72.288333333333
+dvp_015_place_140	Dartmouth College	Q49116		43.703333333333,-72.288333333333
+dvp_015_place_141	Buffalo	Q40435		42.904722222222,-78.849444444444
+dvp_015_place_142	Boston	Q100		42.358333333333,-71.0625
+dvp_015_place_143	New Mexico	Q1522		34,-106
+dvp_015_place_144	Buffalo	Q40435		42.904722222222,-78.849444444444

@@ -1,0 +1,1292 @@
+<?xml-model href="../schemas/ddhi.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="dvp_092">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Transcript of an Interview with a Narrator</title>
+      </titleStmt>
+      <publicationStmt>
+        <authority>
+          <orgName>Dartmouth Digital History Initiative</orgName>
+        </authority>
+        <date>
+          <!--  Date of publication, e.g. for citation purposes  -->
+        </date>
+        <idno type="DDHI">dvp_092</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <recordingStmt>
+          <recording xml:id="primary_recording" type="audio" dur-iso="9">
+            <!-- https://www.digi.com/resources/documentation/digidocs/90001437-13/reference/r_iso_8601_duration_format.htm -->
+            <media url="" mimeType="MIMEaudio/wav"/>
+          </recording>
+        </recordingStmt>
+        <bibl xml:id="primary_transcription">
+          <respStmt>
+            <persName>Mimi Eisenberg</persName>
+            <orgName>Wordcraft</orgName>
+            <resp ref="http://id.loc.gov/vocabulary/relators/trc.html">Transcriber</resp>
+          </respStmt>
+          <ref target="path_to_file">Primary transcription</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>The Dartmouth Vietnam Project</p>
+      </projectDesc>
+      <appInfo>
+        <application ident="DDHIEncoder" version="1.0">
+          <desc>Conversion from Word docx to TEI xml.</desc>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en-us">English</language>
+      </langUsage>
+      <particDesc>
+        <person xml:id="EAGAN"/>
+        <person xml:id="BLIEK"/>
+      </particDesc>
+      <settingDesc>
+        <setting>
+          <date when-iso="9"/>
+          <locale/>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <u who="BLIEK">Good afternoon. This is <persName ref="#dvp_092_person_0">Bryan Bliek [’18]</persName> and I am on campus at <orgName ref="#dvp_092_org_0">Dartmouth College</orgName> in <placeName ref="#dvp_092_place_0">Rauner Special Collections Library</placeName>, located in <placeName ref="#dvp_092_place_1">Hanover, New Hampshire</placeName>. The narrator I am speaking to today is Mr. <persName ref="#dvp_092_person_1">Jeff Eagan</persName>, who is with me over the phone. The date is Thursday, <date when="2017-05-25">May 25th, 2017</date>, and it’s my pleasure speaking to you, <persName ref="#dvp_092_person_2">Jeff</persName>.</u>
+      <u who="EAGAN">Good afternoon.</u>
+      <u who="BLIEK">So, why don’t we start with your early life? Could you tell me where you were born and in what year?</u>
+      <u who="EAGAN">I was born in <placeName ref="#dvp_092_place_2">Marietta, Ohio</placeName>, in <date when="1948">1948</date>.</u>
+      <u who="BLIEK">And was that also where you ended up growing up?</u>
+      <u who="EAGAN">No. Very soon after, my parents relocated to <placeName ref="#dvp_092_place_3">Milwaukee, Wisconsin</placeName>, where I was raised.</u>
+      <u who="BLIEK">Great. If you give me just a second, I think I have an issue with the audio recording. So, just give me one second and we’ll just pick up from here. [Pause] This is <persName ref="#dvp_092_person_3">Bryan Bliek</persName>. I am back with <persName ref="#dvp_092_person_4">Jeff Eagan</persName>. We’ve just gone over a couple details of his early life. He was born in <placeName ref="#dvp_092_place_4">Marietta, Ohio</placeName>, in <date when="1948">1948</date>, but later moved to <placeName ref="#dvp_092_place_5">Milwaukee</placeName>. Is that correct?</u>
+      <u who="EAGAN">My family moved and I moved with them, yes.</u>
+      <u who="BLIEK">Okay. And so, in what year did you end up moving to <placeName ref="#dvp_092_place_6">Milwaukee</placeName>?</u>
+      <u who="EAGAN">I believe I was somewhere between one and two.</u>
+      <u who="BLIEK">So, can you tell me a little bit about who your parents were?</u>
+      <u who="EAGAN">My father and mother were both raised in <placeName ref="#dvp_092_place_7">Chicago</placeName>. My father graduated from <orgName ref="#dvp_092_org_1">Oak Park High [Oak Park, IL]</orgName>, and was the first member of his family to graduate from college. He was a chemical engineer major at <orgName ref="#dvp_092_org_2">Notre Dame University [Notre Dame, IN]</orgName>. My mother grew up on the west side of <placeName ref="#dvp_092_place_8">Chicago</placeName> in the <placeName ref="#dvp_092_place_9">Austin neighborhood</placeName>, and went to <orgName ref="#dvp_092_org_3">Austin High</orgName>, and attended the <orgName ref="#dvp_092_org_4">University of Chicago [Chicago, IL]</orgName>, but ended up graduating from <orgName ref="#dvp_092_org_5">Hamnison Junior College</orgName> [spelling unconfirmed].</u>
+      <u who="BLIEK">And did you have any siblings?</u>
+      <u who="EAGAN">I have three brothers, all younger.</u>
+      <u who="BLIEK">So, what can you tell me about growing up in <placeName ref="#dvp_092_place_10">Milwaukee</placeName>? What was the neighborhood you grew up in?</u>
+      <u who="EAGAN">I grew up in <placeName ref="#dvp_092_place_11">Whitefish Bay [WI]</placeName>, which is an affluent middle-class suburb north of downtown, and attended a parochial school there, and then public high school, <orgName ref="#dvp_092_org_6">Whitefish Bay High School</orgName>.</u>
+      <u who="BLIEK">And did you like growing up in <placeName ref="#dvp_092_place_12">Milwaukee</placeName> in <placeName ref="#dvp_092_place_13">Whitefish</placeName>?</u>
+      <u who="EAGAN"><placeName ref="#dvp_092_place_14">Whitefish Bay</placeName>. You know, it had its moments. It’s a very nice place to live, and I was lucky enough to be in a family that was a middle-, upper middle-class family. So, my folks were able to provide for myself and my brothers well.</u>
+      <u who="BLIEK">So, what sort of things were you involved in as a child?</u>
+      <u who="EAGAN">Well, let’s see. I participated in sports on an informal basis, I was an Eagle Scout. Over time I got active in community affairs, particularly by the time I was in high school, and was very active in both academics and extracurricular activities.</u>
+      <u who="BLIEK">What sort of community affairs were you involved in?</u>
+      <u who="EAGAN">Well, you know, standard civics stuff. I had an interest in politics, policy, from an early age. My father was a moderate—a Republican. My mother was a liberal Democrat. My mother was an activist of sorts, and was engaged in community activities, and particularly in building bridges with people on both an interfaith basis and on an racial basis. One of her great triumphs was, frankly, restoring <orgName ref="#dvp_092_org_7">Girl Scouting</orgName> to the inner city of <placeName ref="#dvp_092_place_15">Milwaukee</placeName>. So, through her I was exposed to people from different faiths and different racial backgrounds.</u>
+      <u who="BLIEK">And in what capacity was she carrying out these sorts of—your mother—</u>
+      <u who="EAGAN">Oh, as a community volunteer.</u>
+      <u who="BLIEK">And was she part of an organization or doing this on her own?</u>
+      <u who="EAGAN">She participated in different organizations. The <orgName ref="#dvp_092_org_8">Girl Scouts</orgName> was a very large organization, but one of the defining issues of the day was the issue of race in general, and the issue of civil rights in particular. And I’ll just say she was active in a variety of groups, trying to promote civil rights, and also had a commitment particularly to working with young women and helping them grow, develop leadership skills, and so that was her interest in the <orgName ref="#dvp_092_org_9">Girl Scouts</orgName>.</u>
+      <u who="BLIEK">I see. And you mentioned that through your mother you gained some exposure to these contemporary social issues.</u>
+      <u who="EAGAN">Yeah.</u>
+      <u who="BLIEK">So, when you were growing up, was there a point at which you turned exposure these issues towards active participation? Did you ever work with your mother or were you influenced by your mother to work towards any of these social issues?</u>
+      <u who="EAGAN">You know, in a very rudimentary way, writing letters, and then going to demonstrations and rallies as I got older through high school, and particularly as the civil rights struggles began to sharpen, I became more interested. I also gained a greater interest in foreign affairs. By that time I was, by <date when="1964">’64</date>, at the time I was a sophomore, I was writing letters about the <name type="event" ref="#dvp_092_event_0">war in Vietnam</name> to local media, and began to become more and more engaged, more and more concerned about social issues.</u>
+      <u who="BLIEK">So, who were you writing to in these <name type="event" ref="#dvp_092_event_1">Vietnam War</name> letters? The local media?</u>
+      <u who="EAGAN">Well, yes. The only one I actually had published was in my high school newspaper, [laughter] but I would write to the <orgName ref="#dvp_092_org_10">Milwaukee Journal</orgName>, the <orgName ref="#dvp_092_org_11">Milwaukee Sentinel</orgName>, publications like that.</u>
+      <u who="BLIEK">And, so what was in those letters? What did you have to say?</u>
+      <u who="EAGAN">Well, I was extremely concerned. We had gone through a situation with, first of all with <name type="event" ref="#dvp_092_event_2">[President John F.] Kennedy’s slaying</name>, and then <persName ref="#dvp_092_person_5">[Lyndon B.] Johnson</persName> becoming President, the campaign against <persName ref="#dvp_092_person_6">[Senator Barry] Goldwater</persName>, his success, the beginnings of really the expansion of a civil rights struggle across the country. It began to become part and parcel of everyday discourse. You would go to woodshop, and the teacher there would talk about what it was like to go home and turn on the television and watch people being beaten with clubs by the police, referring to the early coverage of the Southern civil rights struggle. As it turned out, it was only later that I discovered he was a <name type="event" ref="#dvp_092_event_3">Holocaust</name> survivor himself, and that these things really provoked strong, strong memories and reactions for him. So, over time, these issues began to become sharper and sharper, and then the struggle came home. I mean, there began to be the seeds of a civil rights struggle in <placeName ref="#dvp_092_place_16">Milwaukee</placeName>, as well, that ultimately really began to flourish by the time I was a senior in high school.</u>
+      <u who="BLIEK">So, were you viewing the <name type="event" ref="#dvp_092_event_4">Vietnam War</name> through the lens of civil rights then?</u>
+      <u who="EAGAN">It was, you know, it was more foreign, it was exotic, but through the medium of television, this stuff came into your home every night, and with only three networks, we watched it, we were exposed to it, and we could begin to see that <name type="event" ref="#dvp_092_event_5">this war</name> was not going to, you know, was not succeeding; it was failing. And then, that led to further questions: Why is <name type="event" ref="#dvp_092_event_6">this war</name> failing? Why is it that the most powerful country in the world can’t succeed in, quote, “bringing democracy to <placeName ref="#dvp_092_place_17">Vietnam</placeName>”? And that led to more questions, and more reading. And, so by the time I was off to college, I was extremely concerned. And as the <orgName ref="#dvp_092_org_12">draft</orgName> was beginning to pick up at that point, you know, you sign up as a high school senior, and if you don’t, they sign you up, and at that point, you began to see high school classmates who weren’t going on to college were going to be cycled into the war machine. And that was an increasing concern. As the death toll mounted, as Americans started coming back in boxes, clearly the degree of concern about that increased dramatically, and at the same time it was clear that the civil rights struggle was not just a Southern struggle, but was really a national struggle in inner cities and in cities across the country.</u>
+      <u who="BLIEK">So, you mentioned just now that it seemed that your classmates who weren’t going off to college were getting “cycled into the war machine,” as you say. So, did you feel like the <name type="event" ref="#dvp_092_event_7">Vietnam War</name> was impacting different segments of society differently?</u>
+      <u who="EAGAN">Absolutely. No, it was very clearly a class-based phenomena. The community that I grew up in, predominantly high school graduates went off to college and they had a deferment. And this was a war which was being fought by blue collar and people of color, and it really began to resonate that this was reflecting the struggles in our own society.</u>
+      <u who="BLIEK">And was that interpretation of the <name type="event" ref="#dvp_092_event_8">Vietnam War</name> common at the time, that it was…</u>
+      <u who="EAGAN">Yeah, you know, you could get a deferment. I mean, the “2S” was, you know, get yourself into a college somewhere just to protect yourself. Now, I’m talking about males specifically, not women. But, otherwise you very well could be, six months later could be in the jungle.</u>
+      <u who="BLIEK">Let me come back to something you had mentioned just a couple of minutes ago. You had said that the <orgName ref="#dvp_092_org_13">draft</orgName> came to <placeName ref="#dvp_092_place_18">Milwaukee</placeName>. So, did you have to register when you were in high school?</u>
+      <u who="EAGAN">Of course. It was a school disciplinarian who forced you to sign. Yeah.</u>
+      <u who="BLIEK">Could you tell me a little bit more about that process?</u>
+      <u who="EAGAN">He was just a vice principal who made sure that you signed up for the draft, that you registered with the <orgName ref="#dvp_092_org_14">Selective Service System</orgName>.</u>
+      <u who="BLIEK">And did you have to go somewhere or was that done in the school?</u>
+      <u who="EAGAN">No, it was done in the classroom. It was done in homeroom.</u>
+      <u who="BLIEK">And how were people feeling about this? Was there concern among your classmates that they’d be ending up going to <placeName ref="#dvp_092_place_19">Vietnam</placeName>?</u>
+      <u who="EAGAN">No, because most of them were going to be going to college. They assumed they had an out.</u>
+      <u who="BLIEK">Okay. Let me take another step back, and just ask you a little bit more about your high school experience. So, you mentioned that you had a growing political consciousness as you were growing up. In high school, did that have an impact on the sorts of subjects you were interested in?</u>
+      <u who="EAGAN">I was omnivorous in that I studied science, I studied math, but I particularly enjoyed social science, I enjoyed history. And, so I tried to read widely and was encouraged to do so by my parents and by my teachers.</u>
+      <u who="BLIEK">How did you end up deciding to, first of all, go to college, and then second of all, tell me about the process of applying to <orgName ref="#dvp_092_org_15">Dartmouth</orgName>? How did <orgName ref="#dvp_092_org_16">Dartmouth</orgName> come onto your radar?</u>
+      <u who="EAGAN">Let’s see. Well, first of all, it was a given that I would go to college. That was the expectation in my family. No questions that I would go, and that was just assumed. Everybody we knew went to college. Parents for the most part were college educated, and that was the assumption. So there was no question there. It simply… And in those days, a large number of my classmates went to college in the <orgName ref="#dvp_092_org_17">University of Wisconsin system</orgName>. It was a very good education, it was very cheap, and it wasn’t too far from home. And so, to go off somewhere else was a little unusual, but because I was in the elite or the advanced classes, the kids I socialized with were applying to rigorous elite universities and colleges across the country, primarily on the East Coast. So, I went to the orientation sessions. I listened to the counselors. I never actually made a college trip, except to <orgName ref="#dvp_092_org_18">Madison [WI]</orgName>, and so I applied to a bunch of schools, and I got into all of them. So then I had to make a decision where I was going to go.</u>
+      <u who="BLIEK">So, what did you end up—or I’m sorry…</u>
+      <u who="EAGAN">How did I end up picking <orgName ref="#dvp_092_org_19">Dartmouth</orgName>? I mean, actually I was strongly attracted to <orgName ref="#dvp_092_org_20">Carleton [College, Northfield, MN]</orgName>, as were some of my colleagues. But, you know, I was in at <orgName ref="#dvp_092_org_21">Columbia [University, New York City, NY]</orgName>, I was in at <orgName ref="#dvp_092_org_22">Cornell [University, Ithaca, NY]</orgName>, let’s see, I don’t know if I even applied to <orgName ref="#dvp_092_org_23">Penn [University of Pennsylvania, Philadelphia, PA]</orgName> or not. But, you know, [<orgName ref="#dvp_092_org_24">University of] Chicago</orgName> and some other pretty good schools. But, <orgName ref="#dvp_092_org_25">Dartmouth</orgName> looked to be the most exotic and adventurous of all of them. So, without a lot of knowledge, I selected <orgName ref="#dvp_092_org_26">Dartmouth</orgName>, [laughter] never having been there, never really having assessed what it would be like to go to a single sex school, or what the culture of the school was at that point. So, I went off and, you know, certainly learned a lot and had a lot of surprises. [laughter]</u>
+      <u who="BLIEK">While you were in this decision making process, were you nervous about sort of jumping into any one of the schools that you could have gone to, without having made a college trip?</u>
+      <u who="EAGAN">It was funny. A number of the kids had not actually been to the schools they applied to. We were just out there in the Midwest. And some had gone and had seen some of the schools. I never applied to the <orgName ref="#dvp_092_org_27">Harvard</orgName> or the <orgName ref="#dvp_092_org_28">Princeton</orgName> or the <orgName ref="#dvp_092_org_29">Yale</orgName>. I just didn’t think those were in my wheelhouse or my class, and I don’t think I thought that I would fit in very well at those schools. So, I did enjoy being out of doors, I enjoyed camping, I enjoyed hiking, and that clearly was one of the features at <orgName ref="#dvp_092_org_30">Dartmouth</orgName>. I think one person made the argument that “look, <persName ref="#dvp_092_person_7">Jeff</persName>, you’re gonna spend the rest of your life inside cubicles with the fluorescent lights. This is your chance to get out and get outside for a few years.” So, probably it was the out of doors as much as anything that attracted me to <orgName ref="#dvp_092_org_31">Dartmouth</orgName>.</u>
+      <u who="BLIEK">So, tell me a little bit, then, about the transition process into college. So, what did you have to do before you arrived on campus?</u>
+      <u who="EAGAN">I don’t know. It wasn’t a big deal, you know. The irony was we missed the bus, so we ended up taking a cab all the way from <placeName ref="#dvp_092_place_20">Boston</placeName> to <placeName ref="#dvp_092_place_21">Dartmouth</placeName> [laughter] so my mother could see the campus and meet the president, which she did. So she shook hands with <persName ref="#dvp_092_person_8">[President] John Sloan Dickey</persName> at the reception for freshmen. But, apart from that, you know, I was open to new experiences and I certainly had a lot of them at <orgName ref="#dvp_092_org_32">Dartmouth</orgName>. Ended up, because I was public school and, yeah, I don’t know where I was on the—I think they used to rate your applications based on when you applied, and there were kids who had applied in the womb, whose parents had submitted their applications before they were even born. They got the better ratings for the better dorm rooms, you know, up on the <placeName ref="#dvp_092_place_22">Green</placeName>, close to the <placeName ref="#dvp_092_place_23">dining room</placeName>, and so forth. I ended up in the <placeName ref="#dvp_092_place_24">Wigwam [dorms, now known as the River Cluster]</placeName>, which were, then as now, amongst the more removed and more utilitarian spaces on campus. And there was a higher percentage of public school kids down there than you might find… More of the preppies were up towards the <placeName ref="#dvp_092_place_25">Green</placeName>.</u>
+      <u who="BLIEK">So, when you arrived—I’m sorry, was there something you wanted to say?</u>
+      <u who="EAGAN">No, no, no. That’s all. The biggest experience my freshman first term was playing soccer in the physical education class which I was required, and being on a breakaway, being followed by the assistant soccer coach who was teaching PE [Physical Education], who ended up hooking my ankle in such a way that he stripped all the ligaments out of my ankle, worse than if I had broken it. So, I ended up on crutches for about 16 weeks while my leg healed, and had to every day schlep stuff in my book bag up and back between the <placeName ref="#dvp_092_place_26">Wigwams</placeName> and the campus. [laughter] So, that was probably the most exciting experience I had in my first term at <orgName ref="#dvp_092_org_33">Dartmouth</orgName>.</u>
+      <u who="BLIEK">Yikes. So, when you first got to campus, though, and you got out of that cab with your parents, what was your first impression of the school?</u>
+      <u who="EAGAN">Well, look, at that point it’s still warm, it’s green, they ran the reception in front of the <placeName ref="#dvp_092_place_27">library</placeName>, you know, it looks pretty nice. And then you go down to your dorm room and it’s a cinder block shell half a mile or three quarters of a mile away, and, you know, you start to figure out how to survive in this environment. And one of the things I began to notice, of course, was the lack of women. I don’t want to dwell on that too much in this discussion, but it is striking to be in an environment and come from a coeducational environment your whole life and then be in a single sex environment. I know that that was true for the service, but I’ll just say on a college level, it was pretty striking.</u>
+      <u who="BLIEK">You mentioned before that there were some surprises that you encountered at <orgName ref="#dvp_092_org_34">Dartmouth</orgName>. Did any of those manifest during your first year?</u>
+      <u who="EAGAN">Oh, sure. You know, the variety of things: the socialization, the drinking, the fraternities, you know, the social stuff. And the social life frankly was pretty weird. And then, you know, it was the rigor of the academic environment. And that was tough. Clearly I’m in with a lot of smart people, more smart people than I had in my entire high school. So, the academic challenge was very significant. And I did okay. I was a mediocre to above mediocre student, but I wasn’t setting the world on fire. And, you know, you make mistakes. I got enrolled in two semesters of organic chemistry before I finally figured out that not only was I not going to be a chemist like my father, but the fact is I was in with all of these cutthroat pre-meds, and that this was not the liberal arts environment that I had expected I would participate in at <orgName ref="#dvp_092_org_35">Dartmouth</orgName> where I could kind of pursue an omnivorous quest for knowledge. It was just rough. And so, so figuring, getting your academic and intellectual bearings during that period is a challenge.</u>
+      <u who="BLIEK">So, how did you manage to adapt to this new academic environment? Was it just a function of spending more time at the <orgName ref="#dvp_092_org_36">College</orgName>?</u>
+      <u who="EAGAN">Well, yeah, sure, you get better at it after a while. Your writing skills get enhanced. You start to take classes that are probably closer to your aptitude. You discover that really beyond two semesters of calculus, you’re really beginning to push the envelope, you know, in terms of your math skills and also your math needs, and so you begin to focus more, or try to anyway, and still take advantage of the liberal arts environment. But, you know, you’re trying to figure you know, What is it that I’m going to really focus on? What will be my major? All those kinds of things that students go through.</u>
+      <u who="BLIEK">And at what point did you have an answer to those questions? When did you decide what major you were going to be, and perhaps what you were going to do with that major afterwards?</u>
+      <u who="EAGAN">Well, it’s interesting because there was a disconnect. I didn’t particularly think about that my major would necessarily lead to a career, to a focus. I thought a major was an effort in some ways to really master a particular chunk of intellectual knowledge, to discover your own capacities and aptitudes, and to kind of being able to demonstrate that. And so, it was interesting. I ended up taking a lot of different kinds of classes, and then trying to decide what did I like most? And I ended up majoring in religion. And I took a lot of introductory courses: Eastern thought, Christian theology, exegesis, the sociology of religion, the anthropology of religion. And as we used to joke, sometimes you take the religion of anthropology, as well. So, you know, I got along well with the faculty, and then over time, as I began to meet other challenges at the <orgName ref="#dvp_092_org_37">college</orgName>, the faculty became more important to me. They helped to harbor me and protect me. And that became important over time.</u>
+      <u who="BLIEK">I certainly want to ask you about some of those challenges. But before I do, I want to go back to what you were saying about social life. So you said in addition to some of the challenges adjusting to the new academic environment at <orgName ref="#dvp_092_org_38">Dartmouth</orgName>, you also found the social life weird. So, did you have some challenges fitting in? And if so, did you find a way to overcome them?</u>
+      <u who="EAGAN">Well, look, I guess… I don’t want to spend a lot of time discoursing on the limits of single sex education, but I found that to be difficult. I was not used to meeting women in a kind of a special selective environment. I was used to encountering them on a daily basis in whatever I did, school or after school or work or whatever. This was a completely different, you know, this was different. It was like you were going to school, but you’re missing half the population. And similarly, trying to get to know other people, trying to get to meet different kinds of folks, I was somewhat successful in that regard, in meeting international students and students from other parts of the country and students who clearly culturally were different than I was. So that was enjoyable. But, I didn’t, couldn’t figure—the fraternity thing didn’t work for me, so that kind of cuts you out of about, you know, two-thirds of the campus right there. So, you know, I began to explore other kinds of concerns. And then, there’s this world going on outside of <orgName ref="#dvp_092_org_39">Dartmouth</orgName> and around <orgName ref="#dvp_092_org_40">Dartmouth</orgName>, and then ultimately engaging <orgName ref="#dvp_092_org_41">Dartmouth</orgName>, as well. You know, the Governor of <placeName ref="#dvp_092_place_28">Alabama</placeName> shows up, <persName ref="#dvp_092_person_9">[George] Wallace</persName>. And they come after him and they are rocking his limousine back and forth, a variety of older students, taking him on for his racist statements. You know, that’s very moving, that’s an experience that sticks with you. And so, this stuff would come back to you. I will say the other outlet that I found was the outlet of the out of doors, and I got engaged with the <orgName ref="#dvp_092_org_42">Outing Club</orgName>. I wasn’t a plaid shirt guy, but I spent a lot of time in the mountains, the <placeName ref="#dvp_092_place_29">White Mountains</placeName>, and really enjoying myself with others, and really learning to ski and improving my ice skating. So, that was good. I also eventually engaged in sports. After my ankle healed, I was on the wrestling club. So, those are the kind of standard things people do, right? They find out, they get engaged in stuff. And those are the traditional kinds of college experiences.</u>
+      <u who="BLIEK">Right. Let’s now talk a little bit about the political mood on campus. So you mentioned that, at least for you, you had started to think about international events impacting <orgName ref="#dvp_092_org_43">Dartmouth</orgName>. So, was that a common strain of thought on the campus body or not?</u>
+      <u who="EAGAN">Well, first of all, you had a small, but growing number of people who were demonstrating against the <name type="event" ref="#dvp_092_event_9">war</name>. It began with the demonstrations on the <placeName ref="#dvp_092_place_30">Green</placeName>, and then there were other kinds of activities, and people were being pulled and drawn into stuff both on campus and off campus. You might go down to <placeName ref="#dvp_092_place_31">Boston</placeName> for a demonstration. Sophomore year there was the moratorium march in <placeName ref="#dvp_092_place_32">Washington [DC]</placeName>. There were opportunities like this for people to get engaged and begin to be involved. And similarly, there were programs, there were teach-ins, you know, a variety of things going on campus which were bringing the outside in to what was kind of a closed community. And you take advantage of that. There were also a small set of professors who were extremely concerned about <orgName ref="#dvp_092_org_44">US</orgName> involvement even then, and international affairs in general, in terms of struggles in Central and South America, and other issues across the world. And these were people that you not only took classes from, but you could talk to. They’d be involved in programs and activities, so you’d meet with them.</u>
+      <u who="BLIEK">So, did you become involved in some of these things that were going on on campus related to marches in <placeName ref="#dvp_092_place_33">Washington</placeName> and teach-ins and other things that were either related to civil rights or the <name type="event" ref="#dvp_092_event_10">Vietnam War</name>?</u>
+      <u who="EAGAN">Yes. And, so gradually over time I got more and more involved. It was interesting that you just had the confluence of the politics and the anti-war movement and campus activities really coming together. I remember at one point the <orgName ref="#dvp_092_org_45">State Department</orgName>, for example, sending out big shots to the elite schools to try to educate us. It was kind of a reaction to the teach-ins, which were often presenting a fairly progressive view as to why the <name type="event" ref="#dvp_092_event_11">war</name> was not a good thing for the <orgName ref="#dvp_092_org_46">US</orgName> to be engaged in. And so, they were sending out… I just remember literally sitting in front of <placeName ref="#dvp_092_place_34">Dartmouth Hall</placeName> one day for a seminar. It was <persName ref="#dvp_092_person_10">[Zbigniew] Brzezinski</persName>, [laughter] who absolutely was one of the top four or five foreign policy people, and having a discussion with him where within about 10 or 15 minutes he was so disgusted, he got up, shook his head, and walked off the seminar, [laughter] because I was asking him some pretty pointed questions. And so, those kinds of things were going on. We were raising more and more questions, and questions of a broader nature about <orgName ref="#dvp_092_org_47">US</orgName> involvement, not just in <placeName ref="#dvp_092_place_35">Vietnam</placeName>, but across the world. And this would be considered “anti-imperialist” was the term that was used, to really look at <orgName ref="#dvp_092_org_48">US</orgName> involvement, you know, as part of the Empire from one corner of the globe to another. And so, there were professors who were regional experts who could speak to what was going on in Central and South America, like <persName ref="#dvp_092_person_11">Maria [Marysa] Navarro</persName> or others you could talk to, and begin to develop a more holistic view as to what’s going on. <persName ref="#dvp_092_person_12">Jonathan Mirsky</persName> talking about Asia. <persName ref="#dvp_092_person_13">Jim Knowles</persName>, the economist, presenting a kind of a left wing perspective on just how the world economy worked and the unique <orgName ref="#dvp_092_org_49">US</orgName> role within it. So, these were people that you spent time with, that you talked to. <persName ref="#dvp_092_person_14">Gene [R.] Garthwaite</persName> on, I believe, Africa, or the Middle East. So, you know, <persName ref="#dvp_092_person_15">John [W.] Lamperti</persName>, the well-known peace activist, I think driven by perhaps more <orgName ref="#dvp_092_org_50">Quaker</orgName> orientation. So, these were people that you began to associate with as part of your community. And similarly you began to get to know more and more students who had similar views. And so, you know, we began to do stuff. And over time, began to become more organized, and we were reflective of a national student movement that really began to pick up speed, so that by <date when="1967">’67</date>, <date when="1968">’68</date>, the campuses were really alive with activity. And even though <orgName ref="#dvp_092_org_51">Dartmouth</orgName> was way up north, we began to develop organizations and, you know, the <orgName ref="#dvp_092_org_52">Students for a Democratic Society [SDS]</orgName> got underway, and with some older students who were leaders, and then began to take on issues at the <orgName ref="#dvp_092_org_53">college</orgName> level, and take on the broader issues, as well. So…</u>
+      <u who="BLIEK">Great. Yeah, let me ask you some follow-up questions. So, let me come back to the <persName ref="#dvp_092_person_16">Brzezinski</persName> seminar. Do you remember when that was?</u>
+      <u who="EAGAN">I wish I could. I’m sorry. You know, this is a long time ago. But I remember it vividly, I really do. It was actually a very nice, just a perfect warm day with the sun shining. You couldn’t have asked for—if you had taken a picture of it, it looked like a college brochure picture. [laughter] Right? And here’s this guy cross-legged with his suit on and his wingtip shoes, and here’s these students in their blue jeans and their T-shirts and their tie-dyed clothes, and rapping with the people from, you know, the policy makers. And no, it just happens to be one discussion. I’m sure it was about the <name type="event" ref="#dvp_092_event_12">war</name>. I’m sure it was about the <orgName ref="#dvp_092_org_54">US</orgName> role. And I’m sure he was defending it, and I know I was attacking it. And that’s all I can recall, sorry.</u>
+      <u who="BLIEK">Yeah, not an issue at all. So, at this point, what grounds were you attacking the <name type="event" ref="#dvp_092_event_13">Vietnam War</name> on?</u>
+      <u who="EAGAN">Well, over time… I mean, first of all, we began with the fact that it wasn’t succeeding, the <name type="event" ref="#dvp_092_event_14">war</name> was failing. And then, as you began to—as the <name type="event" ref="#dvp_092_event_15">war</name> progressed, the <name type="event" ref="#dvp_092_event_16">assassination of the Diems [Ngo Dinh Diem]</name>, and then basically the parade of generals led by <persName ref="#dvp_092_person_17">[Nguyen Van] Thieu</persName>, you began to see more and more the bankruptcy of the leadership of <orgName ref="#dvp_092_org_55">South Vietnam</orgName>. And as we began to read more, to talk more, to go to more lectures, we began to understand more of the history of this struggle, both within <placeName ref="#dvp_092_place_36">Vietnam</placeName>, but then the broader struggle within Southeast Asia around, frankly, imperialism. And that, as we began to learn more, that created more and more questions, and these questions were everywhere. They weren’t just being asked by progressive students such as me. They were beginning to be asked by students who were in <orgName ref="#dvp_092_org_56">ROTC</orgName>. Particularly even the <orgName ref="#dvp_092_org_57">Naval ROTC</orgName> people, who were the most elite of service groups on campus, were starting to raise real questions about why are we there? Why are we supporting this regime? And I’m struck by—recently I was at a—not recently, a year or two ago I was at a seminar with <persName ref="#dvp_092_person_18">[Frances FitzGerald]</persName>, the woman, the author who wrote Fire on the Lake, one of the great early journalists in <placeName ref="#dvp_092_place_37">Vietnam</placeName>, who got there around <date when="1965">’65</date>, which is earlier than the period I’m speaking. And she said by the time she got there, she discovered that the <name type="event" ref="#dvp_092_event_17">war</name> was already over, the <orgName ref="#dvp_092_org_58">US</orgName> had already lost. But it took us another nine years to realize that. And I think that’s a real telling quote. But, you could just understand that the Vietnamese were fighting for their independence, were winning, and there was a reason why they were winning, and that’s because this was a national war of liberation. This was not the Communist dominoes. The theories that the <orgName ref="#dvp_092_org_59">United States</orgName> had applied, diplomatic, historical and otherwise to <placeName ref="#dvp_092_place_38">Vietnam</placeName> did not answer, did not explain what was taking place there, and that there were other explanations that resonated much more strongly, that for a country which had a 950 year history, this was simply another set of foreign oppressors who were occupying their country. And they were going to throw them out, just like they threw out the French, just like they threw out the Japanese, just like they stood down the Chinese.</u>
+      <u who="BLIEK">Could you tell me a little bit more of the types of people that you were associating with on campus at this point? So you frequently mentioned a “we.” So there’s a body of I’m assuming professors and students and organizations who are all engaged in similar activist activities similar to what you were doing. So, do you have specific recollection of any of the professors or student groups or students individually who were out there doing similar things to you?</u>
+      <u who="EAGAN">Well, I don’t know if I want to—you know, I don’t know who will be reading this and I don’t want to get anybody in trouble. But, there was a community of academics and scholars and students who were really questioning many of the assumptions of American society, and, you know, this was natural in view of the times. This is <date when="1967">1967</date>, this is <date when="1968">1968</date>. We were in the process of forcing <persName ref="#dvp_092_person_19">Johnson</persName> out of office, and the efforts in <placeName ref="#dvp_092_place_39">New Hampshire</placeName> played a role in that. I knew people who were extremely active in the <persName ref="#dvp_092_person_20">[Eugene] McCarthy</persName> campaign, so that was more from the liberal and the, let’s say the electoral sense, and then there were people who were building close ties directly with the Vietnamese, and in some cases with the Chinese, like <persName ref="#dvp_092_person_21">Mirsky</persName> and others. So, there was a real culture, that’s all I can say, of folks who were asking questions and coming up with different answers than the conventional wisdom which was being taught in our high schools and in some of our classes at <orgName ref="#dvp_092_org_60">Dartmouth</orgName>.</u>
+      <u who="BLIEK">Was there a division on campus between the different components that comprised the <orgName ref="#dvp_092_org_61">Dartmouth</orgName> community at the time? </u>
+      <u who="EAGAN">Oh, sure.</u>
+      <u who="BLIEK">So, what did that look like?</u>
+      <u who="EAGAN">Oh, you know, I don’t know, I mean, in many regards most of us looked the same, right? We all wore blue jeans. Many of us had beards. You know, from that standpoint, the bunch of folks smoked dope. It didn’t matter whether you were left or right, or fraternity or independent. But the fact is that beyond those cultural similarities, yes, there were differences of opinion. But, at the same time, the opinions were changing and moving. I remember one example, and I’m sorry I can’t give you more specifics, but there was a regular solemn silent presence on the <placeName ref="#dvp_092_place_40">Green</placeName> of anti-war people, and this took place regularly, I believe every week. And over time, that group grew and got longer and more people joined. And it got bigger. And then at one point, I believe, conservative elements on campus said, “Well, we’ll show them. There’s more of us than there are of them.” And then there was a day when there was ultimately a face-off, in which the pro-war people literally were on one side of the walk, you know those large walks across the <placeName ref="#dvp_092_place_41">Green</placeName>, and the anti-war people were on the other side. And not surprisingly, the anti-war group was twice as large as the pro-war group. That didn’t really tell you anything. It wasn’t even an informal poll, but it was a symbolic statement about where people stood. We had <orgName ref="#dvp_092_org_62">ROTC</orgName> people. Many of them were there because they could get their schooling paid. A lot of them came from less elite families, and <orgName ref="#dvp_092_org_63">Dartmouth</orgName> was not cheap even then, and that was a great way to pay your way. But, many of them began to question where were they going and what were they doing? And there were some very prominent people who walked away from <orgName ref="#dvp_092_org_64">ROTC</orgName>, who quit, in a couple of cases court-martialed, but because of their stance. They changed their minds. Some of them became pacifists. Some of them just opposed the <name type="event" ref="#dvp_092_event_18">war</name> and didn’t want to serve. So, you saw this going on around campus. And then, increasingly, concerns about your future after you graduated. You could maintain a 2S deferment, you know, if you went on to graduate school for a while, and then that was no longer valid. You could get a deferment if you taught in public school, but then eventually that was lost. So, over time, there was an increasing amount of concern amongst people with regards to whether or not they would have to serve in the <name type="event" ref="#dvp_092_event_19">war</name>. So, that was a driving factor, particularly for a school of all male students. There’s going to be more people who potentially are going to really have to make that decision: Do I want to serve? And is this a just war? Am I doing the right thing here? And so there were a lot of moral questioning, there was a lot of training in pacifism, conscientious objection classes being run, all that kind of activity. And then there were other students who weren’t pacifists by any means, but did not think this <name type="event" ref="#dvp_092_event_20">war</name> was appropriate. And so, we began to get more and more involved, and more and more oppositional, and to a certain extent we were also becoming more and more influenced by what was a growing student anti-war movement across the country. And, as it began to meet with some success, that only spurred people on all the more. Clearly, getting <persName ref="#dvp_092_person_22">Johnson</persName>—<name type="event" ref="#dvp_092_event_21">pushing Johnson out of office</name> was an extraordinary accomplishment and the anti-war movement played a very significant role in that. We began to see an impact on electoral politics. We began to see an impact in a variety of areas. But, the situation in <placeName ref="#dvp_092_place_42">Vietnam</placeName> was escalating. It wasn’t de-escalating. <persName ref="#dvp_092_person_23">[Richard M.] Nixon</persName> had run on the basis that he had a secret plan to end the <name type="event" ref="#dvp_092_event_22">war</name>. And then, here we are, he’s mining Haiphong Harbor. The body count was increasing year by year, I believe something like 16,000 in <date when="1968">’68</date>, roughly, maybe 18,000, 19,000 in <date when="1969">’69</date>, which I believe was the peak. And thousands more injured, maimed, otherwise hurt, and coming back from the <name type="event" ref="#dvp_092_event_23">war</name>. At the same time, the civil rights struggles were moving into a whole ’nother level, and, you know, you had the assassinations. I mean, the country really was in many regards in social turmoil. So, that’s the backdrop under which this was taking place. That’s the context. And I got active in <orgName ref="#dvp_092_org_65">SDS</orgName>, and we began to raise sharper and sharper critiques of the <name type="event" ref="#dvp_092_event_24">war</name>, of resistance, calling out really professors who were pro-war and challenging them, and really also debating and discussing with our fellow students whether the <orgName ref="#dvp_092_org_66">United States</orgName> should be there. And over time, the campus began to move our way. In particular, the struggles around <orgName ref="#dvp_092_org_67">ROTC</orgName> really sharpened that, and this was part of a national struggle. It was how do we tackle the war machine? How do we take it on? Where is it visible in our immediate communities? And <orgName ref="#dvp_092_org_68">ROTC</orgName> was the face of the war machine. We were training elite officers to go on and help carry out <orgName ref="#dvp_092_org_69">United States</orgName> foreign policy in <placeName ref="#dvp_092_place_43">Vietnam</placeName> and elsewhere. And so, <orgName ref="#dvp_092_org_70">ROTC</orgName> became an increasing attack. <orgName ref="#dvp_092_org_71">ROTC</orgName> buildings across the country were being bombed, fire bombed. There were major challenges. And this was taking place very much in the Northeast <placeName ref="#dvp_092_place_44">United States</placeName>. It was taking place at elite colleges. And pressure was being put on administrations to stop <orgName ref="#dvp_092_org_72">ROTC</orgName>, and that was the focus at <orgName ref="#dvp_092_org_73">Dartmouth</orgName>. Over time, the struggle sharpened. The faculty began to vote. Increasingly, they voted not to keep <orgName ref="#dvp_092_org_74">ROTC</orgName> on campus. They had questions about its academics, questions about a variety of issues. The <orgName ref="#dvp_092_org_75">trustees</orgName> were targeted, and the <persName ref="#dvp_092_person_24">president, John Sloan Dickey</persName>, became embattled and very much a defender of the status quo. <orgName ref="#dvp_092_org_76">Dartmouth</orgName> had, I believe, at least two and probably three <orgName ref="#dvp_092_org_77">ROTC</orgName> organizations at that point. The biggest, the most important, was the <orgName ref="#dvp_092_org_78">Navy</orgName>. It was the most elite, and gave everybody the best free ride. There was <orgName ref="#dvp_092_org_79">Army ROTC</orgName>. I don’t believe there was <orgName ref="#dvp_092_org_80">Air Force</orgName>. But, you know, those were the two major programs. And so, over time, these discussions got sharper and sharper, there were more demonstrations, more focus on <placeName ref="#dvp_092_place_45">Parkhurst</placeName> as the symbol of the administration, and then finally there was an effort to get <orgName ref="#dvp_092_org_81">ROTC</orgName> off campus during the spring. And, interestingly enough, let’s say a group of neoliberal student government types came up with a strategy. We were pushing, we were pushing hard. As you know, there’s a limited shelf life in student organizing. If you can’t get it done by graduation, particularly before year-round operation, students disappeared. And so, there was a real push in the spring to get movement on <orgName ref="#dvp_092_org_82">ROTC</orgName> to get the <orgName ref="#dvp_092_org_83">trustees</orgName> to agree to modify or eliminate the program. And as the momentum was building, the kind of the middle ground people developed a strategy to kind of delay the issue in the form of a referendum. And I don’t know how familiar you are with this, <persName ref="#dvp_092_person_25">Bryan</persName>, but it’s an interesting story. The <name type="event" ref="#dvp_092_event_25">referendum</name>, frankly, was opposed by the anti-<orgName ref="#dvp_092_org_84">ROTC</orgName> forces. It was an effort to have a non-binding referendum that would give people some options. And there was option A, B, C and D. A was to keep the status quo. B was to—I can’t even remember anymore. C was, I think, to think about getting rid of it in a few years. And D was “let’s get rid of it now.” And I believe this was an effective plebiscite designed to divide the anti-<orgName ref="#dvp_092_org_85">ROTC</orgName> forces, and it also, it was an effort to delay things until basically school was out. And we were extremely upset about this because it was non-binding. In other words, it was an exercise, it was a great diversion, but it didn’t ultimately have any consequence. Nevertheless, the anti-war forces rose to the challenge, and we began to canvas the entire campus, night after night, room after room, going into the fraternities, all the dorms, the off-campus, trying to build support. And ironically, as a result of that work, which I met a lot of students I’d never met before—talked to a lot of folks including a number of members of <orgName ref="#dvp_092_org_86">ROTC</orgName>. Some of them agreed with me. They wanted the <name type="event" ref="#dvp_092_event_26">war</name> over, they wanted the <name type="event" ref="#dvp_092_event_27">war</name> done, they didn’t want to serve in the <name type="event" ref="#dvp_092_event_28">war</name>. Ultimately, the <name type="event" ref="#dvp_092_event_29">referendum</name> was held, and Proposition D, the opposition forces, won, even though we had been outmaneuvered and outspent. I mean, there were commercials on <orgName ref="#dvp_092_org_87">WDCR</orgName> saying, “Vote C. No <orgName ref="#dvp_092_org_88">ROTC</orgName>, no cops, no violence.” In effect presenting anybody else as potentially pro-cop or pro-<orgName ref="#dvp_092_org_89">ROTC</orgName> or pro-violence. And we were able to win the <name type="event" ref="#dvp_092_event_30">referendum</name> substantially in a larger number than I even thought we expected, and demonstrated that there was a real constituency on campus that supported our position. However, we were running out of time at that point. School was going to be out in a matter of weeks, and <persName ref="#dvp_092_person_26">John</persName> and some of our other leaders decided now was the time to move, and so we moved on <name type="event" ref="#dvp_092_event_31">occupying Parkhurst</name>. It was done in a nonviolent way, despite the <persName ref="#dvp_092_person_27">dean’s efforts[Dean Carroll W. Brewster]</persName> to portray himself as somehow being violently pushed by the students, and we occupied <placeName ref="#dvp_092_place_46">Parkhurst</placeName> for about 12 hours. That was all. It was fascinating because hundreds and thousands of students came out on campus, surrounded <placeName ref="#dvp_092_place_47">Parkhurst</placeName>, some were in favor, most were in favor; some were opposed. At one point, there was an effort by some of the fraternities to break into the building and haul us out. It was kind of ironic because I went out the door to confront some of them, and there was a guy who I knew from home, a fairly elite background, who was waving a golf club, and there were others waving hockey sticks [laughter] who wanted to beat the crap out of us, baseball bats and so forth. So, we said, “No, this is a nonviolent demonstration. We’re not here to get into fights, and we’re certainly not about to pick a fight with you guys.” So, we closed the door on them. But, I was there with a number of other people, and we ended up… It turned out that, of course, the administration was completely prepared for us. They knew the details probably better than we did. And so, within a matter of hours, the <orgName ref="#dvp_092_org_90">Sheriff of Rockingham County [NH]</orgName> was knocking an order to the door and announcing that we were in violation of an old ordinance, which I believe was actually an anti-labor ordinance about illegal assemblies. And so, along before dawn, they showed up, principally the <orgName ref="#dvp_092_org_91">State Police</orgName> from <orgName ref="#dvp_092_org_92">New Hampshire</orgName> and <orgName ref="#dvp_092_org_93">Vermont</orgName>, yeah, just a hundred, 150 of them, so we were outnumbered, and we were not there to get into a fight with them anyway. And they broke down the door of <placeName ref="#dvp_092_place_48">Parkhurst</placeName> and started hauling us out. I, being nonviolent, I went passive, and then got directly sprayed by mace from about 12 inches away, which really knocked me for a loop, to say the least. I hadn’t expected that. And then they dragged me down the stairs on my head. [laughter] But, in any case, they dumped us in the buses and took us off to the armory, and we were in court within 48 hours, and the governor [<persName ref="#dvp_092_person_28">Walter R. Peterson, Jr. ‘47</persName>] had met with the judge, and the district attorney came in, told us that because we were so bad, that he was going to give us an unusually difficult penalty, and told us that he was recommending 15 days’ jail for each of us. Now, we were expecting that we would probably be out within 24 or 48 hours, and that was a surprise. But it was a greater surprise when the judge doubled the penalty and said, “You’re all going to jail for 30 days." It was only after they’d processed and convicted about 40 of us that someone had the forethought to say, “You know, I don’t have a lawyer. I’ve never been allowed to have one.” And then brought the proceedings to a halt. So, the remaining 20 or so were allowed to get legal representation, but they were very quickly brought back and they were sent off to 30 days, as well. At that point, what we had not planned was that because the entire leadership of the anti-war movement from the students’ side had basically been convicted and was being sentenced to incarceration, there were only about three or four activists left on campus to carry on the fight. The <persName ref="#dvp_092_person_29">president</persName> and the <orgName ref="#dvp_092_org_94">trustees</orgName> took a position where they were not budging, they were not—you know, they were going to retain <orgName ref="#dvp_092_org_95">ROTC</orgName> at all costs. However, the <orgName ref="#dvp_092_org_96">Armed Forces</orgName> had a different perspective, and within a number of months, they began to announce that they were withdrawing from campus.  And so they did. So, <orgName ref="#dvp_092_org_97">Navy ROTC</orgName> left, <orgName ref="#dvp_092_org_98">Army ROTC</orgName> left. There was a <orgName ref="#dvp_092_org_99">military</orgName> school in <placeName ref="#dvp_092_place_49">Norwich [VT]</placeName> the people could attend to finish out their <orgName ref="#dvp_092_org_100">Army</orgName> service. But, the fact is that we basically won that struggle, but it was at a Pyrrhic cost. Most all of us who were students were brought back and tried again before courts of administrators, faculty, and then a handpicked group of students. I remember one of our students, for example, who was in <orgName ref="#dvp_092_org_101">naval ROTC</orgName> who was there to pass judgment on me. They threw some of us out of school, some of us they retained and kept us in for probationary purposes. I ended up—eventually I had anticipated that I would like to try a different school, but I was unable to find another school that would take me because of the arrest. The <orgName ref="#dvp_092_org_102">state of Wisconsin</orgName> had passed a law prohibiting any campus protestors who were arrested from transferring to a campus in the state of <placeName ref="#dvp_092_place_50">Wisconsin</placeName>. Similarly, I thought I’d been accepted at <orgName ref="#dvp_092_org_103">Antioch College</orgName>, but then received a long letter there from the director of admissions who it turned out was a <orgName ref="#dvp_092_org_104">Dartmouth</orgName> graduate and was withdrawing any acceptances that I had there. So, I ended up returning to <orgName ref="#dvp_092_org_105">Dartmouth</orgName>, and that was tough. I ended up pretty much finishing much of my—it was hard coming back. And even though we had won, the cost had been terrific for many of us. Over time, I had developed a number of incompletes, and then I ended up I think ultimately with a full year of incompletes that I had to clean up and finish. So, there was a lot of struggle. People left school. One individual died of an overdose. It was not a good situation. In order to graduate, I ended up spending most of my time finishing my <orgName ref="#dvp_092_org_106">Dartmouth</orgName> degree off-campus, teaching in <placeName ref="#dvp_092_place_51">Jersey City [NJ]</placeName>, teaching in <placeName ref="#dvp_092_place_52">Lebanon [NH]</placeName>, studying in <placeName ref="#dvp_092_place_53">Mexico City</placeName>. And those were all very important and formative experiences for me. But, I had really had it with <orgName ref="#dvp_092_org_107">Dartmouth</orgName>, and I think <orgName ref="#dvp_092_org_108">Dartmouth</orgName> had had it with me. I was active in helping to support the reaction to the <name type="event" ref="#dvp_092_event_32">Kent State</name>, which ended up basically as a campus moratorium, and we closed the campus for business. The difference was that, having gone through the <orgName ref="#dvp_092_org_109">Dickey administration</orgName> who relied on state power, the <persName ref="#dvp_092_person_30">governor</persName> and the <orgName ref="#dvp_092_org_110">state police</orgName>, <persName ref="#dvp_092_person_31">[John G.] Kemeny</persName>, his successor, you know, who, Eastern Europe and very different perspective on life, closed the campus basically, allowed us to pursue our academic activities if we wanted, but people went off and canvassed for anti-war activities. I actually ended up, interestingly, supporting community support in a variety of anti-war activities that spring, including particularly focusing on campus employees, especially the <orgName ref="#dvp_092_org_111">B&amp;G</orgName> workers, the guys in the green shirts. And one of my favorite memories from that period was a Friday afternoon when we had looked out on the <placeName ref="#dvp_092_place_54">Green</placeName>, and as opposed to seeing always the students hanging out on the <placeName ref="#dvp_092_place_55">Green</placeName>, there was two teams of <orgName ref="#dvp_092_org_112">B&amp;G</orgName> workers playing softball against each other at 3:00 on a Friday afternoon. And I felt at that point that we really had built the base of support. I’d also been active in supporting the workers on campus and helping them get an increase in their wages. They had been frozen for years, and again, partly with the <persName ref="#dvp_092_person_32">Kemeny</persName> administration, but also with the political pressure and the community support we brought on, they got the first real raise that they had seen in a long time. So, I ultimately ended up graduating from <orgName ref="#dvp_092_org_113">Dartmouth</orgName>, and then becoming an activist and taking my commitments into other issues and other fights in other communities. And basically that’s what I’ve been doing for the last 50 years.</u>
+      <u who="BLIEK">That is an incredible story and I have a lot of questions for you, if you don’t mind me asking them.</u>
+      <u who="EAGAN">Sure.</u>
+      <u who="BLIEK">Let me come back to <orgName ref="#dvp_092_org_114">ROTC</orgName>. So, who was defending <orgName ref="#dvp_092_org_115">ROTC</orgName> and why was there such a strong defense of <orgName ref="#dvp_092_org_116">ROTC</orgName>?</u>
+      <u who="EAGAN">Well, it was tied into the, you know, literally there was a struggle over the <orgName ref="#dvp_092_org_117">American state</orgName> at that point. Who was it for? I mean, this was a very broad difficult time for our country, let’s be clear. We threw out two Presidents in five, six years. That hasn’t happened before or since, right? <persName ref="#dvp_092_person_33">Johnson</persName> first of all. Now he technically finished his term, but basically he was done. And then of course, throwing <persName ref="#dvp_092_person_34">Nixon</persName> out, as well. The country was involved in an intense set of social struggles around a variety of issues. And so, you know, I don’t even want to categorize it as simply left versus right, but there were professors at <orgName ref="#dvp_092_org_118">Dartmouth</orgName> who were very committed to a strong country, strong foreign policy as they would call it, stopping Communism. And, you know, whether it was <persName ref="#dvp_092_person_35">[Vincent] Vince Starzinger</persName> or <persName ref="#dvp_092_person_36">Lord</persName> or some of the others, there was a constituency on campus, very much so. Interestingly enough, we were in the ascendancy. I would have to say, there were more students probably more liberal then than certainly you saw during the <orgName ref="#dvp_092_org_119">Dartmouth Review</orgName> period, when a large amount of right wing money began to come into campus to fund student activities, and basically put these right wing kids on payroll. At that point, I would say that it was even the more conservative of us who were the ones who cleaned up and went clean for <persName ref="#dvp_092_person_37">Gene [McCarthy]</persName> and canvassed for him or ended up getting involved in electoral politics elsewhere. But, there were a bunch of us that did that. And as a result, this is a few years later, but you had an extraordinary group of progressives elected to the <orgName ref="#dvp_092_org_120">US Senate</orgName> in <date when="1972">’72</date>, and then in the <orgName ref="#dvp_092_org_121">House</orgName> in <date when="1974">’74</date>, as a reaction to the <name type="event" ref="#dvp_092_event_33">war</name>. <persName ref="#dvp_092_person_38">Nixon</persName> Vietnamesed the war. His concept was that he would reduce the <orgName ref="#dvp_092_org_122">American</orgName> footprint as far as the soldiers were concerned and take these fighters out, but it frankly expanded our commitment in terms of bombing, our air war, other kinds of war, and then try to do everything he could to provide the <orgName ref="#dvp_092_org_123">South Vietnamese</orgName> regimes with the necessary support so that they could survive. And it wasn’t enough. The images of the helicopters coming to the embassy, you know, are still some of the most visible statements about the failure of our <orgName ref="#dvp_092_org_124">American</orgName> foreign policy you can imagine. You’ve seen those pictures, I assume, and it’s just striking. But it didn’t fail ultimately until <date when="1975">’75</date>. That’s when the Vietnamese won. And that’s not to say that there weren’t good people on the <orgName ref="#dvp_092_org_125">South Vietnamese</orgName> side, but the fact is that they could not sustain themselves against an effort which was largely a homegrown Vietnamese effort. I finally got a chance to go to <placeName ref="#dvp_092_place_56">Vietnam</placeName> a few years ago, myself. I envy you, <persName ref="#dvp_092_person_39">Bryan</persName>, for going there. I encourage you to—I don’t know if we could take this off the record, but we could talk later about things you ought to see and things you ought to do. But it was eye opening for us to learn and experience and to see the country now, and then to look back and to see where it was. Clearly, there was no domino theory, there was no international Communist conspiracy. There were a whole set of national liberation struggles, and many of those developed in different ways. I would argue that the <placeName ref="#dvp_092_place_57">Cambodian</placeName> experience, for example, was a direct result of reaction against the <name type="event" ref="#dvp_092_event_34">American intervention</name> there. And we could talk and debate foreign policy for a long time. But, the fact is that clearly <orgName ref="#dvp_092_org_126">American</orgName> empire, the notion that we needed to go in as the <orgName ref="#dvp_092_org_127">French</orgName> had been kicked out, and play the role of intervening on their behalf, was a horrible mistake. The notion that later research indicated that during the <orgName ref="#dvp_092_org_128">Eisenhower Administration</orgName>, even the consideration of nuclear weapons being used in <placeName ref="#dvp_092_place_58">Vietnam</placeName> is just unthinkable looking back now, but it was a serious policy proposal and debate. The notion that <persName ref="#dvp_092_person_40">Nixon</persName> strongly considered bombing the dams in <placeName ref="#dvp_092_place_59">Vietnam</placeName>, which would have not only flooded the rice fields, but would have slaughtered tens of thousands of people is unthinkable today, but it was a realistic policy concern then. These were extremely difficult times, and very challenging, and, you know, I was just simply a foot soldier in that movement like a lot of others. But I did learn a lot about myself. I learned some things about what I was good at and what I wasn’t good at, and ultimately there were life lessons there that I’ve continued that have marked me to this day, that put me on certain paths and certain directions that have stayed with me, for better or for worse, but I know that that is true of many, many other people that came through that period. And there’s others that were involved, and then moved on to other things, and that’s life, and that’s terrific. Everybody should have options and opportunities. But for some of us, it marked us in certain ways, so that we have continued to be committed to certain issues, like social justice, economic justice. We have an aversion to <orgName ref="#dvp_092_org_129">American</orgName> interventionism. We don’t automatically think that the <placeName ref="#dvp_092_place_60">United States</placeName> has the best or the right idea when it comes to the policy of other countries, or that we have the right to get involved in their internal affairs. And unfortunately, we’re still living the consequences of, you know, three wars going on right now. It’s shocking to me still that we, 40 years, 45 years after <name type="event" ref="#dvp_092_event_35">Vietnam</name>, that we could be in a position where we’re engaged in so many struggles in so many countries. This is, in my mind, says we did not learn the lessons that we needed to learn from our intervention in Southeast Asia, and that we continue to learn them over again. And in my mind, in a lot of ways that’s, frankly, it’s driven by economic concerns, it’s driven by the concerns of our world globalist, capitalist economy. And that’s one of the reasons why we continue to remain committed to such involvement in places like <placeName ref="#dvp_092_place_61">Afghanistan</placeName> or <placeName ref="#dvp_092_place_62">Libya</placeName> or <placeName ref="#dvp_092_place_63">Syria</placeName>, or obviously <placeName ref="#dvp_092_place_64">Iraq</placeName>, or engaged in direct struggle with <orgName ref="#dvp_092_org_130">Iran</orgName>. You know, that’s the price of empire, and we’re continuing to pay it to this day. We have been unable to build the kinds of coalitions that we need with other countries to be able to look towards diplomatic and other kinds of alternatives. I could go on much longer, and this is a tangent, so I’m going to stop now. But, those are some of the lessons that I’ve taken away from this experience. And, for better or worse, that’s how I’ve been living my life, and those are some of the challenges that I’ve tried to meet. So, I know you have other questions, <persName ref="#dvp_092_person_41">Bryan</persName>, so go on.</u>
+      <u who="BLIEK">Well, let me just follow up on that by asking, so once you graduated <orgName ref="#dvp_092_org_131">Dartmouth</orgName>, you said there had been a lot of personal growth, and you had started to take these lessons away from your time on campus. So, what happened next? I know you mentioned in the little biography that you submitted to us that at some point you had been jailed for civil disobedience in <placeName ref="#dvp_092_place_65">Washington, DC</placeName>. Also, a couple of minutes ago you’d also mentioned that after <orgName ref="#dvp_092_org_132">Dartmouth</orgName> you went on to different activist endeavors. So, I was hoping you could talk a little bit about the things you did after <orgName ref="#dvp_092_org_133">Dartmouth</orgName> that were nonetheless influenced by your time here.</u>
+      <u who="EAGAN">Well, I was engaged in—the anti-war movement became very frustrated. You know, it was palpable, because the <name type="event" ref="#dvp_092_event_36">war</name> was grinding on, even though we could reduce—you know what I mean, the American soldiers were being withdrawn, the casualty rates were plummeting, there were fewer people coming home in body bags. The war continued, and more lives were being lost in Southeast Asia. And, of course, <persName ref="#dvp_092_person_42">Nixon</persName>, with his <name type="event" ref="#dvp_092_event_37">invasion of Cambodia</name> in <date>’70</date> had expanded the footprint of the war dramatically, and taken it really to two other countries besides <placeName ref="#dvp_092_place_66">Vietnam</placeName>. And so, there was a demonstration in <placeName ref="#dvp_092_place_67">Washington</placeName> in <date>the spring</date> while I was still in school, and I believe it was <date when="1971">’71</date>, called <name type="event" ref="#dvp_092_event_38">“May Day,”</name> which was an effort to bring the war home. And many thousands of demonstrators came to the city, <placeName ref="#dvp_092_place_68">Washington, DC</placeName>, to shut it down, to interfere with the operations of the city. And this was, in my mind, an extension of the frustration and the anger and the feeling that despite having built the national movement, that we were unable to ultimately win the policies that we needed to really reduce the—to stop the <name type="event" ref="#dvp_092_event_39">war in Vietnam</name>. And so, I was in <placeName ref="#dvp_092_place_69">Washington</placeName>, and there was a series of demonstrations that took place, and a lot of actions. Some of them were very, very disruptive. I remember watching—I was not involved, but I remember watching demonstrators tip a panel rental truck over on the <placeName ref="#dvp_092_place_70">14th Street bridge</placeName> to block the bridge. And then I remember watching a giant helicopter—I don’t know if it was a Chinook or another—but a huge helicopter come out of nowhere within four or five minutes and drop a crane, and literally drag the truck off the bridge so the traffic could proceed. There were thousands of folks in town, streets were being blocked, buildings were being invaded. I ended up at a demonstration at the <orgName ref="#dvp_092_org_134">Justice Department</orgName> where we were demonstrating in front of the <placeName ref="#dvp_092_place_71">Justice Department</placeName>, and <persName ref="#dvp_092_person_43">[William] Rehnquist</persName> actually came out and looked at us from the balcony, and then went back in, a future <orgName ref="#dvp_092_org_135">Supreme Court</orgName> Justice, and the police cut us off on both sides, trapped us, and they arrested thousands of us in front of the <placeName ref="#dvp_092_place_72">Justice Department</placeName> for an illegal demonstration. And we were taken to the <placeName ref="#dvp_092_place_73">RFK Stadium</placeName> and booked, and given baloney sandwiches, and released two or three days later. It was—I hadn’t quite expected my weekend would end up that way. [laughter] Eventually that particular arrest was, I believe, was erased as an illegal and unconstitutional arrest, but I believe that took place two or three years later. I continued to be involved in opposing the <name type="event" ref="#dvp_092_event_40">war</name>. I also got involved, actively involved, in opposing <orgName ref="#dvp_092_org_136">US</orgName> intervention in Central America, which was kind of the <name type="event" ref="#dvp_092_event_41">Vietnam</name> after <name type="event" ref="#dvp_092_event_42">Vietnam</name>. And, while we didn’t have soldiers down there, we supported the <orgName ref="#dvp_092_org_137">Contras</orgName>, and then were involved in other countries down there, as well. So, I continued in my own way to fight these things. I ended up working, actually ironically, as a librarian in <placeName ref="#dvp_092_place_74">Jersey City</placeName>, where I had taught school off and on for a year through the <orgName ref="#dvp_092_org_138">Dartmouth</orgName> program, and began to get involved in community efforts and became a very, what can I say, an unpaid volunteer community organizer, talking to people, working with people, trying to get them to solve problems. In that case, it was the drug dealers coming in from <placeName ref="#dvp_092_place_75">New York</placeName>, and we were able to push them out of some of the neighborhoods. My mother died. I ended up moving home to be with my family, and then kind of continued my work in community organizing, and did a variety of things, and eventually became a professional community organizer, built some powerful city neighborhood groups, a citywide coalition, and then ended up going down to <placeName ref="#dvp_092_place_76">Illinois</placeName> and doing the same thing on a statewide basis. I returned to <placeName ref="#dvp_092_place_77">Wisconsin</placeName>, built a powerful statewide senior citizen group, and then I became director of a very broad-based coalition of unions, farmers, community activists, religious people and others, and got very engaged in both public policy, passing legislation, and also electing progressives to office, with time out for similar work in <placeName ref="#dvp_092_place_78">Pennsylvania</placeName>. I did that pretty much through <date when="1992">’92</date>, <date when="1993">’93</date>. And then, my wife, who was a union organizer, got called to <placeName ref="#dvp_092_place_79">Washington</placeName> to work for her national union, and I accompanied her with the two kids and came out to <placeName ref="#dvp_092_place_80">DC</placeName>. My first couple of years here, I helped to direct the <orgName ref="#dvp_092_org_139">National Coalition to Save Medicaid</orgName> during the <persName ref="#dvp_092_person_44">[Newton L. “Newt”] Gingrich</persName> years, and we were ultimately successful in working with <persName ref="#dvp_092_person_45">[President Bill] Clinton</persName> and others to protect and save the <orgName ref="#dvp_092_org_140">Medicaid</orgName> program. Ironically, of course, here we are 25 years later, and the program is under attack again. But, we were very successful in turning around a very challenging situation in protecting the <orgName ref="#dvp_092_org_141">Medicaid</orgName> program. I then went on ultimately to work for other NGOs [non-governmental organizations] here. I was a health lobbyist for <orgName ref="#dvp_092_org_142">Public Citizen</orgName> and <persName ref="#dvp_092_person_46">Ralph Nader</persName>, working on getting the prescription drugs covered by <orgName ref="#dvp_092_org_143">Medicare</orgName>, again building national coalitions and local and state organizations. And then finally was recruited into the federal government to run an effort to help the <orgName ref="#dvp_092_org_144">Department of Energy</orgName> take care of thousands of workers who had been involved in the nuclear weapons industry and had suffered health threatening environmental exposures, cancers and so forth, as a result of their exposure to dangerous materials, some of the most dangerous materials known to mankind, like Plutonium or Beryllium. We were successful in passing an entitlement to take care of those sick workers, and then I stayed on for about five years to run the <orgName ref="#dvp_092_org_145">program</orgName>. <persName ref="#dvp_092_person_47">[President George W.] Bush</persName> ultimately fired me from the <orgName ref="#dvp_092_org_146">program</orgName>. I became an environmentalist, and have been successfully involved in environmental affairs, but now am winding up my career at the <orgName ref="#dvp_092_org_147">Energy Department [Department of Energy]</orgName> as the president of the <orgName ref="#dvp_092_org_148">union</orgName>, representing the federal employees. And so, here we are once again engaged in a great struggle. It happens to be now around the <persName ref="#dvp_092_person_48">President [Donald Trump]</persName>’s budget, his efforts to overturn climate change reforms and to cripple and hurt the renewable energy work that we do here. So, I’m actively engaged now as the head of the <orgName ref="#dvp_092_org_149">union</orgName> and trying to defend the employees and defend the mission of the <orgName ref="#dvp_092_org_150">Department of Energy</orgName>, which is to try to secure safe and secure energy that can allow our country to become energy independent and not rely on foreign supplies from the Middle East or from <placeName ref="#dvp_092_place_81">Russia</placeName>, and presumably reduce our domestic requirements to be engaged in foreign wars. So, that’s a long answer, but that’s kind of the path that I’ve been on for the last approximately 50 years.</u>
+      <u who="BLIEK">So, you mentioned that you had been arrested a couple of times, and even spent some time in <orgName ref="#dvp_092_org_151">Rockingham County jail</orgName>. Down the line in your professional career, did that end up hurting some of your prospects?</u>
+      <u who="EAGAN">Well, it’s ironic. I probably on a few points, maybe I, I don’t know, maybe I overreacted or I was conservative about discussing that portion of my life, but the real irony was when I went to work in the <placeName ref="#dvp_092_place_82">White House</placeName> for the <orgName ref="#dvp_092_org_152">Obama Administration</orgName>. And you go in and, of course, you’re vetted for a top secret clearance by the <orgName ref="#dvp_092_org_153">FBI</orgName>, and so I go in and—there’s the woman who is in charge of my case is like 20 years younger than I am—and so you go in and she puts you at ease and she says, “You know, we don’t see many of you ‘60s people here anymore.” [laughter] Which makes me feel really good and really young. But, and I said, “Well, you know, here it is and, you know, here are my arrests, and including one on a labor disturbance where I was a nonviolent civil disobedience around labor issues.” And she says, “Oh, those are all more than 10 years ago. We don’t care about those anymore. You can forget about them.” Well, I haven’t forgotten about them. They’re part of me. But, it was truly ironic that those kinds of issues, and I know they may be important to others, but are not considered important enough to deter me from getting a top secret clearance or to work in the <placeName ref="#dvp_092_place_83">White House</placeName>.</u>
+      <u who="BLIEK">I see. Let me go back to you actually coming out of jail. So, it sounds to me like the <name type="event" ref="#dvp_092_event_43">Parkhurst protest</name> had like, as you said, a terrific impact and came at a terrific cost to a lot of the anti-war activists and their affiliates on campus. So when you got back to campus, how did those of you who were left and hadn’t been expelled or otherwise removed from the <orgName ref="#dvp_092_org_154">college</orgName>, how did you all rebuild that movement?</u>
+      <u who="EAGAN">It wasn’t easy. First of all, student organizing isn’t easy, because you lose a big chunk of your constituency every year. You’ve always got to rebuild every year. And a lot of those people who came back were not very happy about the <orgName ref="#dvp_092_org_155">college</orgName>. I mean, the <orgName ref="#dvp_092_org_156">college</orgName> had basically taken a quarter, you know, taken a month of our lives, and because I was maced, I was sick in jail, I developed pneumonia, I still have… you know, you still see the scars on the x-rays. But, the fact is that those were the times, and, you know, you get on with your life. And you are attending an elite school. Presumably you have qualities and skills, and you rebuild and you move forward. In some ways I was very envious of some of the folks, for example, who moved off into <placeName ref="#dvp_092_place_84">Vermont</placeName> and onto the land, and that was not for me. But, for many of them, that was an extraordinary experience. And yes, they withdrew. Others went on to graduate school and traditional occupations. Then there’s some that went in different directions. It’s a part of me. I think about it every May. I think about it. And it’s been, you know, how many years now? It’ll be 50 years coming up. And it’s just, you know, I’ll be clear, it was not the best month of my life. But, I think I learned a lot from it. I certainly have been supportive of efforts to reduce incarceration and to look for alternatives and redistributive justice programs, partly because of my own experience. I know it doesn’t work. But the fact is that, you know, that’s the immediate impact, but from a broader standpoint, I learned that I had some skills. I really see community organizing or organizing as adult education, and that’s kind of the field I’ve been in and working in a variety of ways since. I’ve lived much of my life, I try to live at the intersection of politics and policy. And, you know, good policy should be good politics, and good politics should be good policy, and those are the struggles that I’ve been involved in. I’ve helped to throw bad people out of office. I’ve helped to put good people into office. I’ve helped to pass some laws, make some things better for some folks. And to a certain extent, that might have been the way that I was bent, but I think ultimately the struggles at <orgName ref="#dvp_092_org_157">Dartmouth</orgName> moved me further in that direction, and gave me a skill set. One of the things I did learn is, if you’re the organizer, you don’t go to jail, because there’s nobody left to organize [laughter] after you go. And that was part of the short-term downfall of the <orgName ref="#dvp_092_org_158">Dartmouth</orgName> movement was, because we were all in jail, there was almost nobody left on campus then to build on that momentum and to organize accordingly. And we made a lot of mistakes organizing, and I’ve learned from those. But, still it was a noble effort, and I think it was an important statement, and I would do it differently, but I would do it.</u>
+      <u who="BLIEK">Where do you think some of those missteps came in that time period, during the <name type="event" ref="#dvp_092_event_44">Parkhurst protest</name>?</u>
+      <u who="EAGAN">Well, you know, it’s hard to say. We were always, I felt we were always a step behind and a day late, partly because the <orgName ref="#dvp_092_org_159">administration</orgName> knew everything we were doing, and they knew it in advance. I mean, literally they were calling up the <orgName ref="#dvp_092_org_160">State Police</orgName> days before we moved into the building, to let them know that that was probably going to be the date and they should be ready to come on in, bring the buses, and to get ready to put the armory and even figure out what jails we were going to be going to. I don’t believe ultimately that there’s an advantage now to surprise your opponents. I think you need to build power, and we did build a certain amount of power at <orgName ref="#dvp_092_org_161">Dartmouth</orgName>. It’s easy to critique it now, you know, after a lifetime, and go back and say, I’d do this differently or I would have done that differently. The fact is, we were 18, 19, 20 years old, we didn’t know what we were doing, and we were figuring it out as we went along. I’m still shocked that we won that <name type="event" ref="#dvp_092_event_45">referendum</name>, and the fact is, we underestimated the amount of support we had, and then the question is, what do you do with that? And I think it did mean that—it meant that there were a bunch of us who were willing to take a risk and get into a building, and ultimately to take an arrest. We didn’t, I think, figure out what the roles were for some of the other people on the outside, what we could do, and how we could build further. And so, yeah, there’s things obviously you would look back now and you would look at it differently, things that we could never—we never thought we were going away for 30 days. In previous demonstrations, whether it’s <name type="event" ref="#dvp_092_event_46">Columbia</name> or <name type="event" ref="#dvp_092_event_47">Harvard</name> or elsewhere, everybody was out within 24 or 48 hours, and then they went back to campus and they organized. <orgName ref="#dvp_092_org_162">Dartmouth</orgName> took us out, and took us out completely past graduation. So, there was nobody left on campus to organize when we got out. They were all gone. Smart use of power. And the <persName ref="#dvp_092_person_49">governor</persName> at that point at least was on the <orgName ref="#dvp_092_org_163">board of governors</orgName> and was a <orgName ref="#dvp_092_org_164">Dartmouth</orgName> grad and was clearly working extremely closely with <persName ref="#dvp_092_person_50">Dickey</persName> and the others. You know, it was really a well-organized and well-integrated process on their part. In many regards, they were smarter than us, but ultimately, they may have won the battle, but in some ways they lost the war. <orgName ref="#dvp_092_org_165">ROTC</orgName> decided to move on. Now I understand in some small ways it’s coming back, and I feel kind of funny about that. But the fact is that we were able to make a difference, and the only question is, What capacity, what did we build for the next step in terms of the struggle? And the struggle includes educating people and organizing people and involving them ultimately. And, while there might be things, like I said, that I might do differently, if I were there and I were there then, I would do it, and, you know, that’s where I’m at.</u>
+      <u who="BLIEK">Let me ask you one thing about getting <orgName ref="#dvp_092_org_166">ROTC</orgName> off campus. You had mentioned earlier in our conversation that for a lot of people, well, even at the time you were at <orgName ref="#dvp_092_org_167">Dartmouth</orgName>, <orgName ref="#dvp_092_org_168">Dartmouth</orgName> was not…</u>
+      <u who="EAGAN">Tell you what, I’m going to have to stop for just a minute, okay?  Just hang on. I’ll be back in two minutes.</u>
+      <u who="BLIEK">Okay, yep, sure. [Pause]</u>
+      <u who="EAGAN">Okay, I’m back.</u>
+      <u who="BLIEK">Hi again. Yeah. Let me see, where did we leave off? Oh, I wanted to ask you about the impact of having <orgName ref="#dvp_092_org_169">ROTC</orgName> closed, or moved off campus, in the sense that you had mentioned earlier that <orgName ref="#dvp_092_org_170">Dartmouth</orgName>, even at the time you were there, was by no means an affordable place to come to school, and for a lot of lower income students, <orgName ref="#dvp_092_org_171">ROTC</orgName> gave them a free ride to come and get an education at <orgName ref="#dvp_092_org_172">Dartmouth</orgName>, an elite institution. So, did you take into consideration what would happen to those students once <orgName ref="#dvp_092_org_173">ROTC</orgName> got kicked off campus? And once <orgName ref="#dvp_092_org_174">ROTC</orgName> was no longer on campus, how that would impact the accessibility of <orgName ref="#dvp_092_org_175">Dartmouth</orgName> for future incoming classes?</u>
+      <u who="EAGAN">Look, <orgName ref="#dvp_092_org_176">Dartmouth</orgName> was rich even then, and it’s richer now. We didn’t know—I mean, I don’t think anybody would have ever imagined it would be as rich as it is. Look, this <orgName ref="#dvp_092_org_177">school</orgName> has an endowment that most state universities would die to have, and it’s a <orgName ref="#dvp_092_org_178">school</orgName> of a few thousand people. We never worried too much about whether or not there would be the means there to support students. It’s ironic, because I believe there were actually more vets there on campus during the time I was there than there are now, despite <persName ref="#dvp_092_person_51">President [James] Wright</persName>’s efforts to get vets to come to <orgName ref="#dvp_092_org_179">Dartmouth</orgName>. I would argue the <orgName ref="#dvp_092_org_180">school</orgName> has become far more elite, with far fewer poor students, and there’s some recent studies that demonstrate that, I believe. And I believe that’s a reflection of admissions policy. That’s not financial aid. They could take care of more poor kids if they wanted to. But the fact that it runs amongst the lowest in the <orgName ref="#dvp_092_org_181">Pell [grant]</orgName> participants and the highest in the high income participants amongst any of the elite competitive colleges and universities, is a sad statement about <orgName ref="#dvp_092_org_182">Dartmouth</orgName>, in my mind.</u>
+      <u who="BLIEK">Okay. Well, at this point I think I’ve wrapped up all of the questions that I wanted to ask you. Are there any final thoughts you want to contribute to the record before we wrap up?</u>
+      <u who="EAGAN">Just to put the discussion that we’ve had, which is a personal discussion, into a national and an international context, and to say that this was a movement that ultimately ousted two Presidents of the <orgName ref="#dvp_092_org_183">United States</orgName>, a movement that helped to lay the groundwork for a variety of other movements that have changed our society, whether it’s feminism, environmentalism. Many, many, many other kinds of issues and efforts, in my mind, can be traced and can be linked to the efforts of the student movement against the <name type="event" ref="#dvp_092_event_48">war in Vietnam</name>. And that’s the broader context. Did it build long-standing organization? No. Did it ultimately change American interventionism? Hard to say after our current experiences in the Middle East. But the fact is that it has had, in my mind, a positive impact upon American society and American history, and I think I’m grateful for the fact that I had the experience, and that I can draw on it and put those lessons to good use.</u>
+      <u who="BLIEK">Well, <persName ref="#dvp_092_person_52">Jeff</persName>, it’s been a real pleasure having this conversation with you over the last two hours.	[End of interview.]</u>
+    </body>
+  </text>
+  <standOff>
+    <listPlace>
+      <place xml:id="dvp_092_place_0">
+        <placeName>Rauner Special Collections Library</placeName>
+      </place>
+      <place xml:id="dvp_092_place_1">
+        <placeName>Hanover, New Hampshire</placeName>
+      </place>
+      <place xml:id="dvp_092_place_2">
+        <placeName>Marietta, Ohio</placeName>
+      </place>
+      <place xml:id="dvp_092_place_3">
+        <placeName>Milwaukee, Wisconsin</placeName>
+      </place>
+      <place xml:id="dvp_092_place_4">
+        <placeName>Marietta, Ohio</placeName>
+      </place>
+      <place xml:id="dvp_092_place_5">
+        <placeName>Milwaukee</placeName>
+      </place>
+      <place xml:id="dvp_092_place_6">
+        <placeName>Milwaukee</placeName>
+      </place>
+      <place xml:id="dvp_092_place_7">
+        <placeName>Chicago</placeName>
+      </place>
+      <place xml:id="dvp_092_place_8">
+        <placeName>Chicago</placeName>
+      </place>
+      <place xml:id="dvp_092_place_9">
+        <placeName>Austin neighborhood</placeName>
+      </place>
+      <place xml:id="dvp_092_place_10">
+        <placeName>Milwaukee</placeName>
+      </place>
+      <place xml:id="dvp_092_place_11">
+        <placeName>Whitefish Bay [WI]</placeName>
+      </place>
+      <place xml:id="dvp_092_place_12">
+        <placeName>Milwaukee</placeName>
+      </place>
+      <place xml:id="dvp_092_place_13">
+        <placeName>Whitefish</placeName>
+      </place>
+      <place xml:id="dvp_092_place_14">
+        <placeName>Whitefish Bay</placeName>
+      </place>
+      <place xml:id="dvp_092_place_15">
+        <placeName>Milwaukee</placeName>
+      </place>
+      <place xml:id="dvp_092_place_16">
+        <placeName>Milwaukee</placeName>
+      </place>
+      <place xml:id="dvp_092_place_17">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="dvp_092_place_18">
+        <placeName>Milwaukee</placeName>
+      </place>
+      <place xml:id="dvp_092_place_19">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="dvp_092_place_20">
+        <placeName>Boston</placeName>
+      </place>
+      <place xml:id="dvp_092_place_21">
+        <placeName>Dartmouth</placeName>
+      </place>
+      <place xml:id="dvp_092_place_22">
+        <placeName>Green</placeName>
+      </place>
+      <place xml:id="dvp_092_place_23">
+        <placeName>dining room</placeName>
+      </place>
+      <place xml:id="dvp_092_place_24">
+        <placeName>Wigwam [dorms, now known as the River Cluster]</placeName>
+      </place>
+      <place xml:id="dvp_092_place_25">
+        <placeName>Green</placeName>
+      </place>
+      <place xml:id="dvp_092_place_26">
+        <placeName>Wigwams</placeName>
+      </place>
+      <place xml:id="dvp_092_place_27">
+        <placeName>library</placeName>
+      </place>
+      <place xml:id="dvp_092_place_28">
+        <placeName>Alabama</placeName>
+      </place>
+      <place xml:id="dvp_092_place_29">
+        <placeName>White Mountains</placeName>
+      </place>
+      <place xml:id="dvp_092_place_30">
+        <placeName>Green</placeName>
+      </place>
+      <place xml:id="dvp_092_place_31">
+        <placeName>Boston</placeName>
+      </place>
+      <place xml:id="dvp_092_place_32">
+        <placeName>Washington [DC]</placeName>
+      </place>
+      <place xml:id="dvp_092_place_33">
+        <placeName>Washington</placeName>
+      </place>
+      <place xml:id="dvp_092_place_34">
+        <placeName>Dartmouth Hall</placeName>
+      </place>
+      <place xml:id="dvp_092_place_35">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="dvp_092_place_36">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="dvp_092_place_37">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="dvp_092_place_38">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="dvp_092_place_39">
+        <placeName>New Hampshire</placeName>
+      </place>
+      <place xml:id="dvp_092_place_40">
+        <placeName>Green</placeName>
+      </place>
+      <place xml:id="dvp_092_place_41">
+        <placeName>Green</placeName>
+      </place>
+      <place xml:id="dvp_092_place_42">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="dvp_092_place_43">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="dvp_092_place_44">
+        <placeName>United States</placeName>
+      </place>
+      <place xml:id="dvp_092_place_45">
+        <placeName>Parkhurst</placeName>
+      </place>
+      <place xml:id="dvp_092_place_46">
+        <placeName>Parkhurst</placeName>
+      </place>
+      <place xml:id="dvp_092_place_47">
+        <placeName>Parkhurst</placeName>
+      </place>
+      <place xml:id="dvp_092_place_48">
+        <placeName>Parkhurst</placeName>
+      </place>
+      <place xml:id="dvp_092_place_49">
+        <placeName>Norwich [VT]</placeName>
+      </place>
+      <place xml:id="dvp_092_place_50">
+        <placeName>Wisconsin</placeName>
+      </place>
+      <place xml:id="dvp_092_place_51">
+        <placeName>Jersey City [NJ]</placeName>
+      </place>
+      <place xml:id="dvp_092_place_52">
+        <placeName>Lebanon [NH]</placeName>
+      </place>
+      <place xml:id="dvp_092_place_53">
+        <placeName>Mexico City</placeName>
+      </place>
+      <place xml:id="dvp_092_place_54">
+        <placeName>Green</placeName>
+      </place>
+      <place xml:id="dvp_092_place_55">
+        <placeName>Green</placeName>
+      </place>
+      <place xml:id="dvp_092_place_56">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="dvp_092_place_57">
+        <placeName>Cambodian</placeName>
+      </place>
+      <place xml:id="dvp_092_place_58">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="dvp_092_place_59">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="dvp_092_place_60">
+        <placeName>United States</placeName>
+      </place>
+      <place xml:id="dvp_092_place_61">
+        <placeName>Afghanistan</placeName>
+      </place>
+      <place xml:id="dvp_092_place_62">
+        <placeName>Libya</placeName>
+      </place>
+      <place xml:id="dvp_092_place_63">
+        <placeName>Syria</placeName>
+      </place>
+      <place xml:id="dvp_092_place_64">
+        <placeName>Iraq</placeName>
+      </place>
+      <place xml:id="dvp_092_place_65">
+        <placeName>Washington, DC</placeName>
+      </place>
+      <place xml:id="dvp_092_place_66">
+        <placeName>Vietnam</placeName>
+      </place>
+      <place xml:id="dvp_092_place_67">
+        <placeName>Washington</placeName>
+      </place>
+      <place xml:id="dvp_092_place_68">
+        <placeName>Washington, DC</placeName>
+      </place>
+      <place xml:id="dvp_092_place_69">
+        <placeName>Washington</placeName>
+      </place>
+      <place xml:id="dvp_092_place_70">
+        <placeName>14th Street bridge</placeName>
+      </place>
+      <place xml:id="dvp_092_place_71">
+        <placeName>Justice Department</placeName>
+      </place>
+      <place xml:id="dvp_092_place_72">
+        <placeName>Justice Department</placeName>
+      </place>
+      <place xml:id="dvp_092_place_73">
+        <placeName>RFK Stadium</placeName>
+      </place>
+      <place xml:id="dvp_092_place_74">
+        <placeName>Jersey City</placeName>
+      </place>
+      <place xml:id="dvp_092_place_75">
+        <placeName>New York</placeName>
+      </place>
+      <place xml:id="dvp_092_place_76">
+        <placeName>Illinois</placeName>
+      </place>
+      <place xml:id="dvp_092_place_77">
+        <placeName>Wisconsin</placeName>
+      </place>
+      <place xml:id="dvp_092_place_78">
+        <placeName>Pennsylvania</placeName>
+      </place>
+      <place xml:id="dvp_092_place_79">
+        <placeName>Washington</placeName>
+      </place>
+      <place xml:id="dvp_092_place_80">
+        <placeName>DC</placeName>
+      </place>
+      <place xml:id="dvp_092_place_81">
+        <placeName>Russia</placeName>
+      </place>
+      <place xml:id="dvp_092_place_82">
+        <placeName>White House</placeName>
+      </place>
+      <place xml:id="dvp_092_place_83">
+        <placeName>White House</placeName>
+      </place>
+      <place xml:id="dvp_092_place_84">
+        <placeName>Vermont</placeName>
+      </place>
+    </listPlace>
+    <listEvent>
+      <event xml:id="dvp_092_event_0">
+        <desc>war in Vietnam</desc>
+      </event>
+      <event xml:id="dvp_092_event_1">
+        <desc>Vietnam War</desc>
+      </event>
+      <event xml:id="dvp_092_event_2">
+        <desc>[President John F.] Kennedy’s slaying</desc>
+      </event>
+      <event xml:id="dvp_092_event_3">
+        <desc>Holocaust</desc>
+      </event>
+      <event xml:id="dvp_092_event_4">
+        <desc>Vietnam War</desc>
+      </event>
+      <event xml:id="dvp_092_event_5">
+        <desc>this war</desc>
+      </event>
+      <event xml:id="dvp_092_event_6">
+        <desc>this war</desc>
+      </event>
+      <event xml:id="dvp_092_event_7">
+        <desc>Vietnam War</desc>
+      </event>
+      <event xml:id="dvp_092_event_8">
+        <desc>Vietnam War</desc>
+      </event>
+      <event xml:id="dvp_092_event_9">
+        <desc>war</desc>
+      </event>
+      <event xml:id="dvp_092_event_10">
+        <desc>Vietnam War</desc>
+      </event>
+      <event xml:id="dvp_092_event_11">
+        <desc>war</desc>
+      </event>
+      <event xml:id="dvp_092_event_12">
+        <desc>war</desc>
+      </event>
+      <event xml:id="dvp_092_event_13">
+        <desc>Vietnam War</desc>
+      </event>
+      <event xml:id="dvp_092_event_14">
+        <desc>war</desc>
+      </event>
+      <event xml:id="dvp_092_event_15">
+        <desc>war</desc>
+      </event>
+      <event xml:id="dvp_092_event_16">
+        <desc>assassination of the Diems [Ngo Dinh Diem]</desc>
+      </event>
+      <event xml:id="dvp_092_event_17">
+        <desc>war</desc>
+      </event>
+      <event xml:id="dvp_092_event_18">
+        <desc>war</desc>
+      </event>
+      <event xml:id="dvp_092_event_19">
+        <desc>war</desc>
+      </event>
+      <event xml:id="dvp_092_event_20">
+        <desc>war</desc>
+      </event>
+      <event xml:id="dvp_092_event_21">
+        <desc>pushing Johnson out of office</desc>
+      </event>
+      <event xml:id="dvp_092_event_22">
+        <desc>war</desc>
+      </event>
+      <event xml:id="dvp_092_event_23">
+        <desc>war</desc>
+      </event>
+      <event xml:id="dvp_092_event_24">
+        <desc>war</desc>
+      </event>
+      <event xml:id="dvp_092_event_25">
+        <desc>referendum</desc>
+      </event>
+      <event xml:id="dvp_092_event_26">
+        <desc>war</desc>
+      </event>
+      <event xml:id="dvp_092_event_27">
+        <desc>war</desc>
+      </event>
+      <event xml:id="dvp_092_event_28">
+        <desc>war</desc>
+      </event>
+      <event xml:id="dvp_092_event_29">
+        <desc>referendum</desc>
+      </event>
+      <event xml:id="dvp_092_event_30">
+        <desc>referendum</desc>
+      </event>
+      <event xml:id="dvp_092_event_31">
+        <desc>occupying Parkhurst</desc>
+      </event>
+      <event xml:id="dvp_092_event_32">
+        <desc>Kent State</desc>
+      </event>
+      <event xml:id="dvp_092_event_33">
+        <desc>war</desc>
+      </event>
+      <event xml:id="dvp_092_event_34">
+        <desc>American intervention</desc>
+      </event>
+      <event xml:id="dvp_092_event_35">
+        <desc>Vietnam</desc>
+      </event>
+      <event xml:id="dvp_092_event_36">
+        <desc>war</desc>
+      </event>
+      <event xml:id="dvp_092_event_37">
+        <desc>invasion of Cambodia</desc>
+      </event>
+      <event xml:id="dvp_092_event_38">
+        <desc>“May Day,”</desc>
+      </event>
+      <event xml:id="dvp_092_event_39">
+        <desc>war in Vietnam</desc>
+      </event>
+      <event xml:id="dvp_092_event_40">
+        <desc>war</desc>
+      </event>
+      <event xml:id="dvp_092_event_41">
+        <desc>Vietnam</desc>
+      </event>
+      <event xml:id="dvp_092_event_42">
+        <desc>Vietnam</desc>
+      </event>
+      <event xml:id="dvp_092_event_43">
+        <desc>Parkhurst protest</desc>
+      </event>
+      <event xml:id="dvp_092_event_44">
+        <desc>Parkhurst protest</desc>
+      </event>
+      <event xml:id="dvp_092_event_45">
+        <desc>referendum</desc>
+      </event>
+      <event xml:id="dvp_092_event_46">
+        <desc>Columbia</desc>
+      </event>
+      <event xml:id="dvp_092_event_47">
+        <desc>Harvard</desc>
+      </event>
+      <event xml:id="dvp_092_event_48">
+        <desc>war in Vietnam</desc>
+      </event>
+    </listEvent>
+    <listPerson>
+      <person xml:id="dvp_092_person_0">
+        <persName>Bryan Bliek [’18]</persName>
+      </person>
+      <person xml:id="dvp_092_person_1">
+        <persName>Jeff Eagan</persName>
+      </person>
+      <person xml:id="dvp_092_person_2">
+        <persName>Jeff</persName>
+      </person>
+      <person xml:id="dvp_092_person_3">
+        <persName>Bryan Bliek</persName>
+      </person>
+      <person xml:id="dvp_092_person_4">
+        <persName>Jeff Eagan</persName>
+      </person>
+      <person xml:id="dvp_092_person_5">
+        <persName>[Lyndon B.] Johnson</persName>
+      </person>
+      <person xml:id="dvp_092_person_6">
+        <persName>[Senator Barry] Goldwater</persName>
+      </person>
+      <person xml:id="dvp_092_person_7">
+        <persName>Jeff</persName>
+      </person>
+      <person xml:id="dvp_092_person_8">
+        <persName>[President] John Sloan Dickey</persName>
+      </person>
+      <person xml:id="dvp_092_person_9">
+        <persName>[George] Wallace</persName>
+      </person>
+      <person xml:id="dvp_092_person_10">
+        <persName>[Zbigniew] Brzezinski</persName>
+      </person>
+      <person xml:id="dvp_092_person_11">
+        <persName>Maria [Marysa] Navarro</persName>
+      </person>
+      <person xml:id="dvp_092_person_12">
+        <persName>Jonathan Mirsky</persName>
+      </person>
+      <person xml:id="dvp_092_person_13">
+        <persName>Jim Knowles</persName>
+      </person>
+      <person xml:id="dvp_092_person_14">
+        <persName>Gene [R.] Garthwaite</persName>
+      </person>
+      <person xml:id="dvp_092_person_15">
+        <persName>John [W.] Lamperti</persName>
+      </person>
+      <person xml:id="dvp_092_person_16">
+        <persName>Brzezinski</persName>
+      </person>
+      <person xml:id="dvp_092_person_17">
+        <persName>[Nguyen Van] Thieu</persName>
+      </person>
+      <person xml:id="dvp_092_person_18">
+        <persName>[Frances FitzGerald]</persName>
+      </person>
+      <person xml:id="dvp_092_person_19">
+        <persName>Johnson</persName>
+      </person>
+      <person xml:id="dvp_092_person_20">
+        <persName>[Eugene] McCarthy</persName>
+      </person>
+      <person xml:id="dvp_092_person_21">
+        <persName>Mirsky</persName>
+      </person>
+      <person xml:id="dvp_092_person_22">
+        <persName>Johnson</persName>
+      </person>
+      <person xml:id="dvp_092_person_23">
+        <persName>[Richard M.] Nixon</persName>
+      </person>
+      <person xml:id="dvp_092_person_24">
+        <persName>president, John Sloan Dickey</persName>
+      </person>
+      <person xml:id="dvp_092_person_25">
+        <persName>Bryan</persName>
+      </person>
+      <person xml:id="dvp_092_person_26">
+        <persName>John</persName>
+      </person>
+      <person xml:id="dvp_092_person_27">
+        <persName>dean’s efforts[Dean Carroll W. Brewster]</persName>
+      </person>
+      <person xml:id="dvp_092_person_28">
+        <persName>Walter R. Peterson, Jr. ‘47</persName>
+      </person>
+      <person xml:id="dvp_092_person_29">
+        <persName>president</persName>
+      </person>
+      <person xml:id="dvp_092_person_30">
+        <persName>governor</persName>
+      </person>
+      <person xml:id="dvp_092_person_31">
+        <persName>[John G.] Kemeny</persName>
+      </person>
+      <person xml:id="dvp_092_person_32">
+        <persName>Kemeny</persName>
+      </person>
+      <person xml:id="dvp_092_person_33">
+        <persName>Johnson</persName>
+      </person>
+      <person xml:id="dvp_092_person_34">
+        <persName>Nixon</persName>
+      </person>
+      <person xml:id="dvp_092_person_35">
+        <persName>[Vincent] Vince Starzinger</persName>
+      </person>
+      <person xml:id="dvp_092_person_36">
+        <persName>Lord</persName>
+      </person>
+      <person xml:id="dvp_092_person_37">
+        <persName>Gene [McCarthy]</persName>
+      </person>
+      <person xml:id="dvp_092_person_38">
+        <persName>Nixon</persName>
+      </person>
+      <person xml:id="dvp_092_person_39">
+        <persName>Bryan</persName>
+      </person>
+      <person xml:id="dvp_092_person_40">
+        <persName>Nixon</persName>
+      </person>
+      <person xml:id="dvp_092_person_41">
+        <persName>Bryan</persName>
+      </person>
+      <person xml:id="dvp_092_person_42">
+        <persName>Nixon</persName>
+      </person>
+      <person xml:id="dvp_092_person_43">
+        <persName>[William] Rehnquist</persName>
+      </person>
+      <person xml:id="dvp_092_person_44">
+        <persName>[Newton L. “Newt”] Gingrich</persName>
+      </person>
+      <person xml:id="dvp_092_person_45">
+        <persName>[President Bill] Clinton</persName>
+      </person>
+      <person xml:id="dvp_092_person_46">
+        <persName>Ralph Nader</persName>
+      </person>
+      <person xml:id="dvp_092_person_47">
+        <persName>[President George W.] Bush</persName>
+      </person>
+      <person xml:id="dvp_092_person_48">
+        <persName>President [Donald Trump]</persName>
+      </person>
+      <person xml:id="dvp_092_person_49">
+        <persName>governor</persName>
+      </person>
+      <person xml:id="dvp_092_person_50">
+        <persName>Dickey</persName>
+      </person>
+      <person xml:id="dvp_092_person_51">
+        <persName>President [James] Wright</persName>
+      </person>
+      <person xml:id="dvp_092_person_52">
+        <persName>Jeff</persName>
+      </person>
+    </listPerson>
+    <listOrg>
+      <org xml:id="dvp_092_org_0">
+        <orgName>Dartmouth College</orgName>
+      </org>
+      <org xml:id="dvp_092_org_1">
+        <orgName>Oak Park High [Oak Park, IL]</orgName>
+      </org>
+      <org xml:id="dvp_092_org_2">
+        <orgName>Notre Dame University [Notre Dame, IN]</orgName>
+      </org>
+      <org xml:id="dvp_092_org_3">
+        <orgName>Austin High</orgName>
+      </org>
+      <org xml:id="dvp_092_org_4">
+        <orgName>University of Chicago [Chicago, IL]</orgName>
+      </org>
+      <org xml:id="dvp_092_org_5">
+        <orgName>Hamnison Junior College</orgName>
+      </org>
+      <org xml:id="dvp_092_org_6">
+        <orgName>Whitefish Bay High School</orgName>
+      </org>
+      <org xml:id="dvp_092_org_7">
+        <orgName>Girl Scouting</orgName>
+      </org>
+      <org xml:id="dvp_092_org_8">
+        <orgName>Girl Scouts</orgName>
+      </org>
+      <org xml:id="dvp_092_org_9">
+        <orgName>Girl Scouts</orgName>
+      </org>
+      <org xml:id="dvp_092_org_10">
+        <orgName>Milwaukee Journal</orgName>
+      </org>
+      <org xml:id="dvp_092_org_11">
+        <orgName>Milwaukee Sentinel</orgName>
+      </org>
+      <org xml:id="dvp_092_org_12">
+        <orgName>draft</orgName>
+      </org>
+      <org xml:id="dvp_092_org_13">
+        <orgName>draft</orgName>
+      </org>
+      <org xml:id="dvp_092_org_14">
+        <orgName>Selective Service System</orgName>
+      </org>
+      <org xml:id="dvp_092_org_15">
+        <orgName>Dartmouth</orgName>
+      </org>
+      <org xml:id="dvp_092_org_16">
+        <orgName>Dartmouth</orgName>
+      </org>
+      <org xml:id="dvp_092_org_17">
+        <orgName>University of Wisconsin system</orgName>
+      </org>
+      <org xml:id="dvp_092_org_18">
+        <orgName>Madison [WI]</orgName>
+      </org>
+      <org xml:id="dvp_092_org_19">
+        <orgName>Dartmouth</orgName>
+      </org>
+      <org xml:id="dvp_092_org_20">
+        <orgName>Carleton [College, Northfield, MN]</orgName>
+      </org>
+      <org xml:id="dvp_092_org_21">
+        <orgName>Columbia [University, New York City, NY]</orgName>
+      </org>
+      <org xml:id="dvp_092_org_22">
+        <orgName>Cornell [University, Ithaca, NY]</orgName>
+      </org>
+      <org xml:id="dvp_092_org_23">
+        <orgName>Penn [University of Pennsylvania, Philadelphia, PA]</orgName>
+      </org>
+      <org xml:id="dvp_092_org_24">
+        <orgName>University of] Chicago</orgName>
+      </org>
+      <org xml:id="dvp_092_org_25">
+        <orgName>Dartmouth</orgName>
+      </org>
+      <org xml:id="dvp_092_org_26">
+        <orgName>Dartmouth</orgName>
+      </org>
+      <org xml:id="dvp_092_org_27">
+        <orgName>Harvard</orgName>
+      </org>
+      <org xml:id="dvp_092_org_28">
+        <orgName>Princeton</orgName>
+      </org>
+      <org xml:id="dvp_092_org_29">
+        <orgName>Yale</orgName>
+      </org>
+      <org xml:id="dvp_092_org_30">
+        <orgName>Dartmouth</orgName>
+      </org>
+      <org xml:id="dvp_092_org_31">
+        <orgName>Dartmouth</orgName>
+      </org>
+      <org xml:id="dvp_092_org_32">
+        <orgName>Dartmouth</orgName>
+      </org>
+      <org xml:id="dvp_092_org_33">
+        <orgName>Dartmouth</orgName>
+      </org>
+      <org xml:id="dvp_092_org_34">
+        <orgName>Dartmouth</orgName>
+      </org>
+      <org xml:id="dvp_092_org_35">
+        <orgName>Dartmouth</orgName>
+      </org>
+      <org xml:id="dvp_092_org_36">
+        <orgName>College</orgName>
+      </org>
+      <org xml:id="dvp_092_org_37">
+        <orgName>college</orgName>
+      </org>
+      <org xml:id="dvp_092_org_38">
+        <orgName>Dartmouth</orgName>
+      </org>
+      <org xml:id="dvp_092_org_39">
+        <orgName>Dartmouth</orgName>
+      </org>
+      <org xml:id="dvp_092_org_40">
+        <orgName>Dartmouth</orgName>
+      </org>
+      <org xml:id="dvp_092_org_41">
+        <orgName>Dartmouth</orgName>
+      </org>
+      <org xml:id="dvp_092_org_42">
+        <orgName>Outing Club</orgName>
+      </org>
+      <org xml:id="dvp_092_org_43">
+        <orgName>Dartmouth</orgName>
+      </org>
+      <org xml:id="dvp_092_org_44">
+        <orgName>US</orgName>
+      </org>
+      <org xml:id="dvp_092_org_45">
+        <orgName>State Department</orgName>
+      </org>
+      <org xml:id="dvp_092_org_46">
+        <orgName>US</orgName>
+      </org>
+      <org xml:id="dvp_092_org_47">
+        <orgName>US</orgName>
+      </org>
+      <org xml:id="dvp_092_org_48">
+        <orgName>US</orgName>
+      </org>
+      <org xml:id="dvp_092_org_49">
+        <orgName>US</orgName>
+      </org>
+      <org xml:id="dvp_092_org_50">
+        <orgName>Quaker</orgName>
+      </org>
+      <org xml:id="dvp_092_org_51">
+        <orgName>Dartmouth</orgName>
+      </org>
+      <org xml:id="dvp_092_org_52">
+        <orgName>Students for a Democratic Society [SDS]</orgName>
+      </org>
+      <org xml:id="dvp_092_org_53">
+        <orgName>college</orgName>
+      </org>
+      <org xml:id="dvp_092_org_54">
+        <orgName>US</orgName>
+      </org>
+      <org xml:id="dvp_092_org_55">
+        <orgName>South Vietnam</orgName>
+      </org>
+      <org xml:id="dvp_092_org_56">
+        <orgName>ROTC</orgName>
+      </org>
+      <org xml:id="dvp_092_org_57">
+        <orgName>Naval ROTC</orgName>
+      </org>
+      <org xml:id="dvp_092_org_58">
+        <orgName>US</orgName>
+      </org>
+      <org xml:id="dvp_092_org_59">
+        <orgName>United States</orgName>
+      </org>
+      <org xml:id="dvp_092_org_60">
+        <orgName>Dartmouth</orgName>
+      </org>
+      <org xml:id="dvp_092_org_61">
+        <orgName>Dartmouth</orgName>
+      </org>
+      <org xml:id="dvp_092_org_62">
+        <orgName>ROTC</orgName>
+      </org>
+      <org xml:id="dvp_092_org_63">
+        <orgName>Dartmouth</orgName>
+      </org>
+      <org xml:id="dvp_092_org_64">
+        <orgName>ROTC</orgName>
+      </org>
+      <org xml:id="dvp_092_org_65">
+        <orgName>SDS</orgName>
+      </org>
+      <org xml:id="dvp_092_org_66">
+        <orgName>United States</orgName>
+      </org>
+      <org xml:id="dvp_092_org_67">
+        <orgName>ROTC</orgName>
+      </org>
+      <org xml:id="dvp_092_org_68">
+        <orgName>ROTC</orgName>
+      </org>
+      <org xml:id="dvp_092_org_69">
+        <orgName>United States</orgName>
+      </org>
+      <org xml:id="dvp_092_org_70">
+        <orgName>ROTC</orgName>
+      </org>
+      <org xml:id="dvp_092_org_71">
+        <orgName>ROTC</orgName>
+      </org>
+      <org xml:id="dvp_092_org_72">
+        <orgName>ROTC</orgName>
+      </org>
+      <org xml:id="dvp_092_org_73">
+        <orgName>Dartmouth</orgName>
+      </org>
+      <org xml:id="dvp_092_org_74">
+        <orgName>ROTC</orgName>
+      </org>
+      <org xml:id="dvp_092_org_75">
+        <orgName>trustees</orgName>
+      </org>
+      <org xml:id="dvp_092_org_76">
+        <orgName>Dartmouth</orgName>
+      </org>
+      <org xml:id="dvp_092_org_77">
+        <orgName>ROTC</orgName>
+      </org>
+      <org xml:id="dvp_092_org_78">
+        <orgName>Navy</orgName>
+      </org>
+      <org xml:id="dvp_092_org_79">
+        <orgName>Army ROTC</orgName>
+      </org>
+      <org xml:id="dvp_092_org_80">
+        <orgName>Air Force</orgName>
+      </org>
+      <org xml:id="dvp_092_org_81">
+        <orgName>ROTC</orgName>
+      </org>
+      <org xml:id="dvp_092_org_82">
+        <orgName>ROTC</orgName>
+      </org>
+      <org xml:id="dvp_092_org_83">
+        <orgName>trustees</orgName>
+      </org>
+      <org xml:id="dvp_092_org_84">
+        <orgName>ROTC</orgName>
+      </org>
+      <org xml:id="dvp_092_org_85">
+        <orgName>ROTC</orgName>
+      </org>
+      <org xml:id="dvp_092_org_86">
+        <orgName>ROTC</orgName>
+      </org>
+      <org xml:id="dvp_092_org_87">
+        <orgName>WDCR</orgName>
+      </org>
+      <org xml:id="dvp_092_org_88">
+        <orgName>ROTC</orgName>
+      </org>
+      <org xml:id="dvp_092_org_89">
+        <orgName>ROTC</orgName>
+      </org>
+      <org xml:id="dvp_092_org_90">
+        <orgName>Sheriff of Rockingham County [NH]</orgName>
+      </org>
+      <org xml:id="dvp_092_org_91">
+        <orgName>State Police</orgName>
+      </org>
+      <org xml:id="dvp_092_org_92">
+        <orgName>New Hampshire</orgName>
+      </org>
+      <org xml:id="dvp_092_org_93">
+        <orgName>Vermont</orgName>
+      </org>
+      <org xml:id="dvp_092_org_94">
+        <orgName>trustees</orgName>
+      </org>
+      <org xml:id="dvp_092_org_95">
+        <orgName>ROTC</orgName>
+      </org>
+      <org xml:id="dvp_092_org_96">
+        <orgName>Armed Forces</orgName>
+      </org>
+      <org xml:id="dvp_092_org_97">
+        <orgName>Navy ROTC</orgName>
+      </org>
+      <org xml:id="dvp_092_org_98">
+        <orgName>Army ROTC</orgName>
+      </org>
+      <org xml:id="dvp_092_org_99">
+        <orgName>military</orgName>
+      </org>
+      <org xml:id="dvp_092_org_100">
+        <orgName>Army</orgName>
+      </org>
+      <org xml:id="dvp_092_org_101">
+        <orgName>naval ROTC</orgName>
+      </org>
+      <org xml:id="dvp_092_org_102">
+        <orgName>state of Wisconsin</orgName>
+      </org>
+      <org xml:id="dvp_092_org_103">
+        <orgName>Antioch College</orgName>
+      </org>
+      <org xml:id="dvp_092_org_104">
+        <orgName>Dartmouth</orgName>
+      </org>
+      <org xml:id="dvp_092_org_105">
+        <orgName>Dartmouth</orgName>
+      </org>
+      <org xml:id="dvp_092_org_106">
+        <orgName>Dartmouth</orgName>
+      </org>
+      <org xml:id="dvp_092_org_107">
+        <orgName>Dartmouth</orgName>
+      </org>
+      <org xml:id="dvp_092_org_108">
+        <orgName>Dartmouth</orgName>
+      </org>
+      <org xml:id="dvp_092_org_109">
+        <orgName>Dickey administration</orgName>
+      </org>
+      <org xml:id="dvp_092_org_110">
+        <orgName>state police</orgName>
+      </org>
+      <org xml:id="dvp_092_org_111">
+        <orgName>B&amp;G</orgName>
+      </org>
+      <org xml:id="dvp_092_org_112">
+        <orgName>B&amp;G</orgName>
+      </org>
+      <org xml:id="dvp_092_org_113">
+        <orgName>Dartmouth</orgName>
+      </org>
+      <org xml:id="dvp_092_org_114">
+        <orgName>ROTC</orgName>
+      </org>
+      <org xml:id="dvp_092_org_115">
+        <orgName>ROTC</orgName>
+      </org>
+      <org xml:id="dvp_092_org_116">
+        <orgName>ROTC</orgName>
+      </org>
+      <org xml:id="dvp_092_org_117">
+        <orgName>American state</orgName>
+      </org>
+      <org xml:id="dvp_092_org_118">
+        <orgName>Dartmouth</orgName>
+      </org>
+      <org xml:id="dvp_092_org_119">
+        <orgName>Dartmouth Review</orgName>
+      </org>
+      <org xml:id="dvp_092_org_120">
+        <orgName>US Senate</orgName>
+      </org>
+      <org xml:id="dvp_092_org_121">
+        <orgName>House</orgName>
+      </org>
+      <org xml:id="dvp_092_org_122">
+        <orgName>American</orgName>
+      </org>
+      <org xml:id="dvp_092_org_123">
+        <orgName>South Vietnamese</orgName>
+      </org>
+      <org xml:id="dvp_092_org_124">
+        <orgName>American</orgName>
+      </org>
+      <org xml:id="dvp_092_org_125">
+        <orgName>South Vietnamese</orgName>
+      </org>
+      <org xml:id="dvp_092_org_126">
+        <orgName>American</orgName>
+      </org>
+      <org xml:id="dvp_092_org_127">
+        <orgName>French</orgName>
+      </org>
+      <org xml:id="dvp_092_org_128">
+        <orgName>Eisenhower Administration</orgName>
+      </org>
+      <org xml:id="dvp_092_org_129">
+        <orgName>American</orgName>
+      </org>
+      <org xml:id="dvp_092_org_130">
+        <orgName>Iran</orgName>
+      </org>
+      <org xml:id="dvp_092_org_131">
+        <orgName>Dartmouth</orgName>
+      </org>
+      <org xml:id="dvp_092_org_132">
+        <orgName>Dartmouth</orgName>
+      </org>
+      <org xml:id="dvp_092_org_133">
+        <orgName>Dartmouth</orgName>
+      </org>
+      <org xml:id="dvp_092_org_134">
+        <orgName>Justice Department</orgName>
+      </org>
+      <org xml:id="dvp_092_org_135">
+        <orgName>Supreme Court</orgName>
+      </org>
+      <org xml:id="dvp_092_org_136">
+        <orgName>US</orgName>
+      </org>
+      <org xml:id="dvp_092_org_137">
+        <orgName>Contras</orgName>
+      </org>
+      <org xml:id="dvp_092_org_138">
+        <orgName>Dartmouth</orgName>
+      </org>
+      <org xml:id="dvp_092_org_139">
+        <orgName>National Coalition to Save Medicaid</orgName>
+      </org>
+      <org xml:id="dvp_092_org_140">
+        <orgName>Medicaid</orgName>
+      </org>
+      <org xml:id="dvp_092_org_141">
+        <orgName>Medicaid</orgName>
+      </org>
+      <org xml:id="dvp_092_org_142">
+        <orgName>Public Citizen</orgName>
+      </org>
+      <org xml:id="dvp_092_org_143">
+        <orgName>Medicare</orgName>
+      </org>
+      <org xml:id="dvp_092_org_144">
+        <orgName>Department of Energy</orgName>
+      </org>
+      <org xml:id="dvp_092_org_145">
+        <orgName>program</orgName>
+      </org>
+      <org xml:id="dvp_092_org_146">
+        <orgName>program</orgName>
+      </org>
+      <org xml:id="dvp_092_org_147">
+        <orgName>Energy Department [Department of Energy]</orgName>
+      </org>
+      <org xml:id="dvp_092_org_148">
+        <orgName>union</orgName>
+      </org>
+      <org xml:id="dvp_092_org_149">
+        <orgName>union</orgName>
+      </org>
+      <org xml:id="dvp_092_org_150">
+        <orgName>Department of Energy</orgName>
+      </org>
+      <org xml:id="dvp_092_org_151">
+        <orgName>Rockingham County jail</orgName>
+      </org>
+      <org xml:id="dvp_092_org_152">
+        <orgName>Obama Administration</orgName>
+      </org>
+      <org xml:id="dvp_092_org_153">
+        <orgName>FBI</orgName>
+      </org>
+      <org xml:id="dvp_092_org_154">
+        <orgName>college</orgName>
+      </org>
+      <org xml:id="dvp_092_org_155">
+        <orgName>college</orgName>
+      </org>
+      <org xml:id="dvp_092_org_156">
+        <orgName>college</orgName>
+      </org>
+      <org xml:id="dvp_092_org_157">
+        <orgName>Dartmouth</orgName>
+      </org>
+      <org xml:id="dvp_092_org_158">
+        <orgName>Dartmouth</orgName>
+      </org>
+      <org xml:id="dvp_092_org_159">
+        <orgName>administration</orgName>
+      </org>
+      <org xml:id="dvp_092_org_160">
+        <orgName>State Police</orgName>
+      </org>
+      <org xml:id="dvp_092_org_161">
+        <orgName>Dartmouth</orgName>
+      </org>
+      <org xml:id="dvp_092_org_162">
+        <orgName>Dartmouth</orgName>
+      </org>
+      <org xml:id="dvp_092_org_163">
+        <orgName>board of governors</orgName>
+      </org>
+      <org xml:id="dvp_092_org_164">
+        <orgName>Dartmouth</orgName>
+      </org>
+      <org xml:id="dvp_092_org_165">
+        <orgName>ROTC</orgName>
+      </org>
+      <org xml:id="dvp_092_org_166">
+        <orgName>ROTC</orgName>
+      </org>
+      <org xml:id="dvp_092_org_167">
+        <orgName>Dartmouth</orgName>
+      </org>
+      <org xml:id="dvp_092_org_168">
+        <orgName>Dartmouth</orgName>
+      </org>
+      <org xml:id="dvp_092_org_169">
+        <orgName>ROTC</orgName>
+      </org>
+      <org xml:id="dvp_092_org_170">
+        <orgName>Dartmouth</orgName>
+      </org>
+      <org xml:id="dvp_092_org_171">
+        <orgName>ROTC</orgName>
+      </org>
+      <org xml:id="dvp_092_org_172">
+        <orgName>Dartmouth</orgName>
+      </org>
+      <org xml:id="dvp_092_org_173">
+        <orgName>ROTC</orgName>
+      </org>
+      <org xml:id="dvp_092_org_174">
+        <orgName>ROTC</orgName>
+      </org>
+      <org xml:id="dvp_092_org_175">
+        <orgName>Dartmouth</orgName>
+      </org>
+      <org xml:id="dvp_092_org_176">
+        <orgName>Dartmouth</orgName>
+      </org>
+      <org xml:id="dvp_092_org_177">
+        <orgName>school</orgName>
+      </org>
+      <org xml:id="dvp_092_org_178">
+        <orgName>school</orgName>
+      </org>
+      <org xml:id="dvp_092_org_179">
+        <orgName>Dartmouth</orgName>
+      </org>
+      <org xml:id="dvp_092_org_180">
+        <orgName>school</orgName>
+      </org>
+      <org xml:id="dvp_092_org_181">
+        <orgName>Pell [grant]</orgName>
+      </org>
+      <org xml:id="dvp_092_org_182">
+        <orgName>Dartmouth</orgName>
+      </org>
+      <org xml:id="dvp_092_org_183">
+        <orgName>United States</orgName>
+      </org>
+    </listOrg>
+  </standOff>
+</TEI>

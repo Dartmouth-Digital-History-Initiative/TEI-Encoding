@@ -1,40 +1,40 @@
-id	persName
-dvp_031_person_0	Anne Reed-Weston
-dvp_031_person_1	Jim Laughlin
-dvp_031_person_2	[Frances C.] Bud McGrath
-dvp_031_person_3	Glen [R.] Kendall
-dvp_031_person_4	[Furman K.] Neal Stanley [Jr.]
-dvp_031_person_5	Neal
-dvp_031_person_6	[President Lyndon B.] Johnson
-dvp_031_person_7	[Edmund] Ed Frost
-dvp_031_person_8	Hồ Chí Minh
-dvp_031_person_9	Lê Tuẩn [Lê Duc Duẩn]
-dvp_031_person_10	Viet Cong
-dvp_031_person_11	President [John F.] Kennedy
-dvp_031_person_12	[Ambassador] Henry Cabot Lodge [Jr.]
-dvp_031_person_13	Ngô Đình Diệm
-dvp_031_person_14	Nguyễn Cao Kỳ
-dvp_031_person_15	[Nguyễn Văn] Thiệu
-dvp_031_person_16	Johnson
-dvp_031_person_17	Lt. [William] Calley [Jr.]
-dvp_031_person_18	[Capt.] Ernest [L.] Medina
-dvp_031_person_19	Medina
-dvp_031_person_20	William [C.] Westmoreland
-dvp_031_person_21	Johnson
-dvp_031_person_22	Steven Burlingham [William J. Burlingham]
-dvp_031_person_23	Robert [F.] Goheen
-dvp_031_person_24	Goheen
-dvp_031_person_25	Jim
-dvp_031_person_26	Larry
-dvp_031_person_27	Larry
-dvp_031_person_28	President Lyndon Johnson
-dvp_031_person_29	Johnson
-dvp_031_person_30	Johnson
-dvp_031_person_31	Turner J. Hite
-dvp_031_person_32	Johnson
-dvp_031_person_33	Pam
-dvp_031_person_34	Professor [Edward G.] Miller
-dvp_031_person_35	Johnson
-dvp_031_person_36	[U.S. Secretary of Defense Robert S.] McNamara
-dvp_031_person_37	Johnson
-dvp_031_person_38	[former U.S. Secretary of State and, at the time of the interview, declared candidate for the U.S. presidency] Hillary [Rodham] Clinton
+id	persName	QID	dvp_id
+dvp_031_person_0	Anne Reed-Weston	Q108911849	
+dvp_031_person_1	James Laughlin III	Q108911858	
+dvp_031_person_2	Frances C. McGrath	Q108911835	
+dvp_031_person_3	Glen [R.] Kendall		dvp_1020
+dvp_031_person_4	Furman K. Neal Stanley [Jr.]	Q108911845	
+dvp_031_person_5	Furman K. Neal Stanley [Jr.]	Q108911845	
+dvp_031_person_6	Lyndon B. Johnson	Q9640	
+dvp_031_person_7	[Edmund] Ed Frost		dvp_1021
+dvp_031_person_8	Ho Chi Minh	Q36014	
+dvp_031_person_9	Le Duan	Q466001	
+dvp_031_person_10	Viet Cong		
+dvp_031_person_11	John F. Kennedy	Q9696	
+dvp_031_person_12	Henry Cabot Lodge Jr.	Q450984	
+dvp_031_person_13	Ngo Dinh Diem	Q192502	
+dvp_031_person_14	Nguyen Cao Ky	Q372591	
+dvp_031_person_15	Nguyen Van Thieu	Q313707	
+dvp_031_person_16	Lyndon B. Johnson	Q9640	
+dvp_031_person_17	William Calley	Q374315	
+dvp_031_person_18	Ernest Medina	Q374329	
+dvp_031_person_19	Ernest Medina	Q374329	
+dvp_031_person_20	William Westmoreland	Q298793	
+dvp_031_person_21	Lyndon B. Johnson	Q9640	
+dvp_031_person_22	Steven Burlingham [William J. Burlingham]		dvp_1023
+dvp_031_person_23	Robert F. Goheen	Q7344173	
+dvp_031_person_24	Robert F. Goheen	Q7344173	
+dvp_031_person_25	James Laughlin III	Q108911858	
+dvp_031_person_26	Robert F. Goheen	Q7344173	
+dvp_031_person_27	Robert F. Goheen	Q7344173	
+dvp_031_person_28	Lyndon B. Johnson	Q9640	
+dvp_031_person_29	Lyndon B. Johnson	Q9640	
+dvp_031_person_30	Lyndon B. Johnson	Q9640	
+dvp_031_person_31	Turner J. Hite		dvp_1022
+dvp_031_person_32	Lyndon B. Johnson	Q9640	
+dvp_031_person_33	Pam		dvp_1024
+dvp_031_person_34	Edward J Miller	Q57219754	
+dvp_031_person_35	Lyndon B. Johnson	Q9640	
+dvp_031_person_36	Robert McNamara	Q191999	
+dvp_031_person_37	Lyndon B. Johnson	Q9640	
+dvp_031_person_38	Hillary Clinton	Q6294	
