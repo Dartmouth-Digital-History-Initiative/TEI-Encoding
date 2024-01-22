@@ -18,12 +18,12 @@
         <recordingStmt>
           <recording xml:id="primary_recording" type="audio" dur-iso="9">
             <!-- https://www.digi.com/resources/documentation/digidocs/90001437-13/reference/r_iso_8601_duration_format.htm -->
-            <media url="http://rcweb.dartmouth.edu/DDHI/histories/stanley_neal/stanley_neal.mp3" mimeType="audio/mpeg"/>
+            <media url="http://rcweb.dartmouth.edu/DDHI/histories/stanley_neal/stanley_neal.mp3" mimeType="video/mp4"/>
           </recording>
         </recordingStmt>
         <bibl xml:id="primary_transcription">
           <respStmt>
-            <persName>Mimi Eisenberg</persName>
+            <persName>Brian Bliek</persName>
             <orgName>Wordcraft</orgName>
             <resp ref="http://id.loc.gov/vocabulary/relators/trc.html">Transcriber</resp>
           </respStmt>
@@ -59,7 +59,7 @@
   </teiHeader>
   <text>
     <body>
-      <u who="BLIEK">Good afternoon. This is <persName>Bryan Bliek</persName> (<date when="2018">’18</date>), and I’m on campus at <placeName>Dartmouth College</placeName> in the Ticknor Room of <placeName>Rauner Special Collections Library</placeName> located in <placeName>Hanover, New Hampshire</placeName>. The narrator I am speaking to today is Mr. <persName>Neal Stanley</persName>, Class of <date when="1964">1964</date>, who is with me in person. The date today is <date when="2017-10-23">Monday, October 23rd, 2017</date>. Good afternoon, <persName>Neal</persName>. Welcome back to campus.</u>
+      <u who="BLIEK">Good afternoon. This is <persName>Bryan Bliek</persName> (<orgName>’18</orgName>), and I’m on campus at <placeName>Dartmouth College</placeName> in the Ticknor Room of <placeName>Rauner Special Collections Library</placeName> located in <placeName>Hanover, New Hampshire</placeName>. The narrator I am speaking to today is Mr. <persName>Neal Stanley</persName>, Class of <date when="1964">1964</date>, who is with me in person. The date today is <date when="2017-10-23">Monday, October 23rd, 2017</date>. Good afternoon, <persName>Neal</persName>. Welcome back to campus.</u>
       <u who="STANLEY">Thanks, <persName>Bryan</persName>. Nice to be here.</u>
       <u who="BLIEK">So, <persName>Neal</persName>, let’s take it back to the beginning. Can you tell me where you’re from and when you were born?</u>
       <u who="STANLEY">I was born <date when="1942-10-01">October 1st, 1942</date>, in <placeName>Morristown, New Jersey</placeName>.</u>
