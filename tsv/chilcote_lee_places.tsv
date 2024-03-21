@@ -1,4 +1,5 @@
-﻿id	placeName	QID	dvp_id	coordinate location
+chilcote_lee_places	Column	Column2	Column3	Column4
+id	placeName	QID	dvp_id	coordinate location
 dvp_021_place_0	Rauner Special Collections Library	Q98544730		43.70447,-72.28817
 dvp_021_place_1	Beachwood	Q812890		41.4822,-81.5039
 dvp_021_place_2	Ohio	Q1397		40.5,-82.5
@@ -56,7 +57,6 @@ dvp_021_place_53	Bay of Pigs	Q208508		22.216666666667,-81.166666666667
 dvp_021_place_54	Quantico	Q204315		38.521871,-77.289757
 dvp_021_place_55	Parris Island	Q2337823		32.3289,-80.6947
 dvp_021_place_56	FBI Academy	Q2822407		38.530219444444,-77.445927777778
-dvp_021_place_57	Hill Trail
 dvp_021_place_58	Virginia	Q1370		37.5,-79
 dvp_021_place_59	Dartmouth College	Q49116		43.703333333333,-72.288333333333
 dvp_021_place_60	Dartmouth College	Q49116		43.703333333333,-72.288333333333
@@ -65,20 +65,20 @@ dvp_021_place_62	Dartmouth College	Q49116		43.703333333333,-72.288333333333
 dvp_021_place_63	Dartmouth College	Q49116		43.703333333333,-72.288333333333
 dvp_021_place_64	Dartmouth College	Q49116		43.703333333333,-72.288333333333
 dvp_021_place_65	Quantico	Q204315		38.521871,-77.289757
-dvp_021_place_66	Vietnam	Q881		16,108
-dvp_021_place_67	Vietnam	Q881		16,108
-dvp_021_place_68	Vietnam	Q881		16,108
-dvp_021_place_69	Vietnam	Q881		16,108
-dvp_021_place_70	North Korea	Q423		40,127
-dvp_021_place_71	South Korea	Q884		36,128
-dvp_021_place_72	Japan	Q17		35,136
+dvp_021_place_66	Vietnam	Q881		16108
+dvp_021_place_67	Vietnam	Q881		16108
+dvp_021_place_68	Vietnam	Q881		16108
+dvp_021_place_69	Vietnam	Q881		16108
+dvp_021_place_70	North Korea	Q423		40127
+dvp_021_place_71	South Korea	Q884		36128
+dvp_021_place_72	Japan	Q17		35136
 dvp_021_place_73	Germany	Q183		51,10
 dvp_021_place_74	United States of America	Q30		39.828175,-98.5795
-dvp_021_place_75	Vietnam	Q881		16,108
+dvp_021_place_75	Vietnam	Q881		16108
 dvp_021_place_76	Korea	Q18097		38.316666666667,127.23333333333
-dvp_021_place_77	Vietnam	Q881		16,108
+dvp_021_place_77	Vietnam	Q881		16108
 dvp_021_place_78	United States of America	Q30		39.828175,-98.5795
-dvp_021_place_79	Vietnam	Q881		16,108
+dvp_021_place_79	Vietnam	Q881		16108
 dvp_021_place_80	United States of America	Q30		39.828175,-98.5795
 dvp_021_place_81	United States of America	Q30		39.828175,-98.5795
 dvp_021_place_82	New Mexico	Q1522		34,-106
@@ -86,34 +86,34 @@ dvp_021_place_83	California	Q99		37,-120
 dvp_021_place_84	Arizona	Q816		34.286667,-111.656944
 dvp_021_place_85	Marine Corps Base Camp Pendleton	Q195334		33.333333333333,-117.41666666667
 dvp_021_place_86	Marine Corps Base Camp Pendleton	Q195334		33.333333333333,-117.41666666667
-dvp_021_place_87	Vietnam	Q881		16,108
+dvp_021_place_87	Vietnam	Q881		16108
 dvp_021_place_88	Dartmouth College	Q49116		43.703333333333,-72.288333333333
 dvp_021_place_89	South America	Q18		-21,-59
 dvp_021_place_90	United States of America	Q30		39.828175,-98.5795
-dvp_021_place_91	Vietnam	Q881		16,108
+dvp_021_place_91	Vietnam	Q881		16108
 dvp_021_place_92	Marine Corps Base Camp Pendleton	Q195334		33.333333333333,-117.41666666667
-dvp_021_place_93	Vietnam	Q881		16,108
+dvp_021_place_93	Vietnam	Q881		16108
 dvp_021_place_94	FBI Academy	Q2822407		38.530219444444,-77.445927777778
-dvp_021_place_95	Vietnam	Q881		16,108
-dvp_021_place_96	Vietnam	Q881		16,108
+dvp_021_place_95	Vietnam	Q881		16108
+dvp_021_place_96	Vietnam	Q881		16108
 dvp_021_place_97	Okinawa Island	Q600614		26.483333333333,127.95
 dvp_021_place_98	Okinawa Island	Q600614		26.483333333333,127.95
 dvp_021_place_99	United States of America	Q30		39.828175,-98.5795
 dvp_021_place_100	Okinawa Island	Q600614		26.483333333333,127.95
 dvp_021_place_101	Okinawa Island	Q600614		26.483333333333,127.95
 dvp_021_place_102	Da Nang	Q25282		16.069444444444443,108.20972222222223
-dvp_021_place_103	Vietnam	Q881		16,108
+dvp_021_place_103	Vietnam	Q881		16108
 dvp_021_place_104	Da Nang Air Base	Q1656800		16.043888888889,108.19944444444
-dvp_021_place_105	Vietnam	Q881		16,108
-dvp_021_place_106	Vietnam	Q881		16,108
+dvp_021_place_105	Vietnam	Q881		16108
+dvp_021_place_106	Vietnam	Q881		16108
 dvp_021_place_107	Da Nang	Q25282		16.069444444444443,108.20972222222223
 dvp_021_place_108	Da Nang	Q25282		16.069444444444443,108.20972222222223
 dvp_021_place_109	United States of America	Q30		39.828175,-98.5795
 dvp_021_place_110	United States of America	Q30		39.828175,-98.5795
 dvp_021_place_111	United States of America	Q30		39.828175,-98.5795
-dvp_021_place_112	Vietnam	Q881		16,108
+dvp_021_place_112	Vietnam	Q881		16108
 dvp_021_place_113	Da Nang	Q25282		16.069444444444443,108.20972222222223
-dvp_021_place_114	Vietnam	Q881		16,108
+dvp_021_place_114	Vietnam	Q881		16108
 dvp_021_place_115	Da Nang	Q25282		16.069444444444443,108.20972222222223
 dvp_021_place_116	United States of America	Q30		39.828175,-98.5795
 dvp_021_place_117	Da Nang	Q25282		16.069444444444443,108.20972222222223
@@ -131,17 +131,17 @@ dvp_021_place_128	Da Nang	Q25282		16.069444444444443,108.20972222222223
 dvp_021_place_129	Da Nang	Q25282		16.069444444444443,108.20972222222223
 dvp_021_place_130	An Hoa	Q2842421		10.2856,105.1910
 dvp_021_place_131	An Hoa	Q2842421		10.2856,105.1910
-dvp_021_place_132	Vietnam	Q881		16,108
-dvp_021_place_133	Vietnam	Q881		16,108
+dvp_021_place_132	Vietnam	Q881		16108
+dvp_021_place_133	Vietnam	Q881		16108
 dvp_021_place_134	An Hoa	Q2842421		10.2856,105.1910
 dvp_021_place_135	Đông Hà	Q33343		16.805555555556,107.09055555556
 dvp_021_place_136	Ho Chi Minh trail	Q695916		18.6852,104.8373
-dvp_021_place_137	Vietnam	Q881		16,108
+dvp_021_place_137	Vietnam	Q881		16108
 dvp_021_place_138	Cua Viet River	Q18639566		16.907133470862703, 107.17590020371453
 dvp_021_place_139	Vietnamese Demilitarized Zone	Q2349960		16.9875,107.0359
 dvp_021_place_140	Laos	Q819		18.2,104
 dvp_021_place_141	Cambodia	Q424		12.6,105
-dvp_021_place_142	Vietnam	Q881		16,108
+dvp_021_place_142	Vietnam	Q881		16108
 dvp_021_place_143	Ho Chi Minh trail	Q695916		18.6852,104.8373
 dvp_021_place_144	Ho Chi Minh trail	Q695916		18.6852,104.8373
 dvp_021_place_145	Đông Hà	Q33343		16.805555555556,107.09055555556
@@ -152,7 +152,7 @@ dvp_021_place_149	Đông Hà	Q33343		16.805555555556,107.09055555556
 dvp_021_place_150	Đông Hà	Q33343		16.805555555556,107.09055555556
 dvp_021_place_151	Ho Chi Minh trail	Q695916		18.6852,104.8373
 dvp_021_place_152	The Rockpile	Q7761303		16.7805,106.852
-dvp_021_place_153	Vietnam	Q881		16,108
+dvp_021_place_153	Vietnam	Q881		16108
 dvp_021_place_154	Korea	Q18097		38.316666666667,127.23333333333
 dvp_021_place_155	Ho Chi Minh trail	Q695916		18.6852,104.8373
 dvp_021_place_156	Ho Chi Minh trail	Q695916		18.6852,104.8373
@@ -162,13 +162,13 @@ dvp_021_place_159	Laos	Q819		18.2,104
 dvp_021_place_160	Ho Chi Minh trail	Q695916		18.6852,104.8373
 dvp_021_place_161	Laos	Q819		18.2,104
 dvp_021_place_162	Ho Chi Minh trail	Q695916		18.6852,104.8373
-dvp_021_place_163	Vietnam	Q881		16,108
+dvp_021_place_163	Vietnam	Q881		16108
 dvp_021_place_164	Hanoi	Q1858		21.0245,105.84117
-dvp_021_place_165	Vietnam	Q881		16,108
+dvp_021_place_165	Vietnam	Q881		16108
 dvp_021_place_166	South Vietnam	Q180573		10.75,106.66666666667
-dvp_021_place_167	Vietnam	Q881		16,108
-dvp_021_place_168	Vietnam	Q881		16,108
-dvp_021_place_169	Vietnam	Q881		16,108
+dvp_021_place_167	Vietnam	Q881		16108
+dvp_021_place_168	Vietnam	Q881		16108
+dvp_021_place_169	Vietnam	Q881		16108
 dvp_021_place_170	United States of America	Q30		39.828175,-98.5795
 dvp_021_place_171	United States of America	Q30		39.828175,-98.5795
 dvp_021_place_172	United States of America	Q30		39.828175,-98.5795
@@ -182,21 +182,20 @@ dvp_021_place_179	Đông Hà	Q33343		16.805555555556,107.09055555556
 dvp_021_place_180	Đông Hà	Q33343		16.805555555556,107.09055555556
 dvp_021_place_181	Đông Hà	Q33343		16.805555555556,107.09055555556
 dvp_021_place_182	Ho Chi Minh trail	Q695916		18.6852,104.8373
-dvp_021_place_183	Hồ Chí Minh	Q1854		10.824020, 106.628516
 dvp_021_place_184	Washington, D.C.	Q61		38.895,-77.036666666667
 dvp_021_place_185	United States of America	Q30		39.828175,-98.5795
-dvp_021_place_186	Vietnam	Q881		16,108
+dvp_021_place_186	Vietnam	Q881		16108
 dvp_021_place_187	United States of America	Q30		39.828175,-98.5795
 dvp_021_place_188	Marine Corps Base Camp Pendleton	Q195334		33.333333333333,-117.41666666667
-dvp_021_place_189	Vietnam	Q881		16,108
-dvp_021_place_190	Vietnam	Q881		16,108
+dvp_021_place_189	Vietnam	Q881		16108
+dvp_021_place_190	Vietnam	Q881		16108
 dvp_021_place_191	Coronado	Q828753		32.678055555556,-117.1725
 dvp_021_place_192	Chicago	Q1297		41.881944444444,-87.627777777778
-dvp_021_place_193	Vietnam	Q881		16,108
-dvp_021_place_194	Vietnam	Q881		16,108
+dvp_021_place_193	Vietnam	Q881		16108
+dvp_021_place_194	Vietnam	Q881		16108
 dvp_021_place_195	United States of America	Q30		39.828175,-98.5795
-dvp_021_place_196	Vietnam	Q881		16,108
-dvp_021_place_197	Vietnam	Q881		16,108
+dvp_021_place_196	Vietnam	Q881		16108
+dvp_021_place_197	Vietnam	Q881		16108
 dvp_021_place_198	Mediterranean Sea	Q4918		38,17
 dvp_021_place_199	United States of America	Q30		39.828175,-98.5795
 dvp_021_place_200	Mediterranean Basin	Q72499		35,18
@@ -207,7 +206,7 @@ dvp_021_place_204	Haifa	Q41621		32.8,34.983333333333
 dvp_021_place_205	White House	Q35525		38.897669444444,-77.03655
 dvp_021_place_206	Mediterranean Basin	Q72499		35,18
 dvp_021_place_207	Caribbean	Q664609		16.256944,-73.300833
-dvp_021_place_208	Vietnam	Q881		16,108
+dvp_021_place_208	Vietnam	Q881		16108
 dvp_021_place_209	Mediterranean Basin	Q72499		35,18
 dvp_021_place_210	Caribbean	Q664609		16.256944,-73.300833
 dvp_021_place_211	Dartmouth College	Q49116		43.703333333333,-72.288333333333
@@ -216,9 +215,9 @@ dvp_021_place_213	Sanborn House	Q107672686		43.421702260,-72.172185969
 dvp_021_place_214	Dartmouth College	Q49116		43.703333333333,-72.288333333333
 dvp_021_place_215	Mediterranean Basin	Q72499		35,18
 dvp_021_place_216	Caribbean	Q664609		16.256944,-73.300833
-dvp_021_place_217	Vietnam	Q881		16,108
-dvp_021_place_218	Vietnam	Q881		16,108
-dvp_021_place_219	Vietnam	Q881		16,108
+dvp_021_place_217	Vietnam	Q881		16108
+dvp_021_place_218	Vietnam	Q881		16108
+dvp_021_place_219	Vietnam	Q881		16108
 dvp_021_place_220	France	Q142		47,2
 dvp_021_place_221	Italy	Q38		42.5,12.5
 dvp_021_place_222	Nice	Q33959		43.701944444444,7.2683333333333
