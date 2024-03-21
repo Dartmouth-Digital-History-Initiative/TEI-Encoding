@@ -1,4 +1,4 @@
-﻿id	placeName	QID	dvp_id	coordinate location
+id	placeName	QID	dvp_id	coordinate location
 dvp_048_place_0	Rauner Special Collections Library	Q98544730		43.70447,-72.28817
 dvp_048_place_1	Dartmouth College	Q49116		43.703333333333,-72.288333333333
 dvp_048_place_2	Hanover	Q131908		43.7,-72.28333333333333
@@ -28,22 +28,22 @@ dvp_048_place_25	Quebec	Q176		52,-72
 dvp_048_place_26	The Green	Q7738117		43.7033,-72.2886
 dvp_048_place_27	Dartmouth College	Q49116		43.703333333333,-72.288333333333
 dvp_048_place_28	Congregational church		dvp_0203	43.70639181576554, -72.28763163137073
-dvp_048_place_29	Vietnam	Q881		16,108
+dvp_048_place_29	Vietnam	Q881		16108
 dvp_048_place_30	Guantanamo Bay Naval Base	Q762570		19.9175,-75.16
-dvp_048_place_31	South China Sea	Q37660		12,113
+dvp_048_place_31	South China Sea	Q37660		12113
 dvp_048_place_32	East Coast		dvp_0202	10.558970, 107.542002
 dvp_048_place_33	Guantanamo Bay Naval Base	Q762570		19.9175,-75.16
 dvp_048_place_34	Cuba	Q241		22,-79.5
 dvp_048_place_35	Cuba	Q241		22,-79.5
 dvp_048_place_36	Guantanamo Bay Naval Base	Q762570		19.9175,-75.16
-dvp_048_place_37	Vietnam	Q881		16,108
+dvp_048_place_37	Vietnam	Q881		16108
 dvp_048_place_38	Ho Chi Minh City	Q1854		10.816666666667,106.63333333333
-dvp_048_place_39	Vietnam	Q881		16,108
-dvp_048_place_40	Vietnam	Q881		16,108
+dvp_048_place_39	Vietnam	Q881		16108
+dvp_048_place_40	Vietnam	Q881		16108
 dvp_048_place_41	Mekong Delta	Q1052867		10.009,105.824
 dvp_048_place_42	Mekong River	Q41179		33.152722222222,94.064027777778
 dvp_048_place_43	Mekong River	Q41179		33.152722222222,94.064027777778
-dvp_048_place_44	Vietnam	Q881		16,108
+dvp_048_place_44	Vietnam	Q881		16108
 dvp_048_place_45	Cuba	Q241		22,-79.5
 dvp_048_place_46	Cuba	Q241		22,-79.5
 dvp_048_place_47	Mediterranean Sea	Q4918		38,17
@@ -73,10 +73,10 @@ dvp_048_place_70	Philadelphia	Q1345		39.952777777778,-75.163611111111
 dvp_048_place_71	Norfolk	Q49231		36.854627777778,-76.274394444444
 dvp_048_place_72	Naval Amphibious Base Little Creek	Q3337215		36.917,-76.164
 dvp_048_place_73	Norfolk	Q49231		36.854627777778,-76.274394444444
-dvp_048_place_74	Vietnam	Q881		16,108
-dvp_048_place_75	Vietnam	Q881		16,108
+dvp_048_place_74	Vietnam	Q881		16108
+dvp_048_place_75	Vietnam	Q881		16108
 dvp_048_place_76	West Coast of the United States	Q12606		33.963335, -118.861654
-dvp_048_place_77	Vietnam	Q881		16,108
+dvp_048_place_77	Vietnam	Q881		16108
 dvp_048_place_78	California	Q99		37,-120
 dvp_048_place_79	Ho Chi Minh City	Q1854		10.816666666667,106.63333333333
 dvp_048_place_80	United States of America	Q30		39.828175,-98.5795
@@ -99,16 +99,16 @@ dvp_048_place_96	Cửa Việt	Q10752783		16.906111,107.181667
 dvp_048_place_97	Cửa Việt	Q10752783		16.906666666667,107.19472222222
 dvp_048_place_98	Vietnamese Demilitarized Zone	Q2349960		16.9875,107.0359
 dvp_048_place_99	Cuba	Q241		22,-79.5
-dvp_048_place_100	Vietnam	Q881		16,108
-dvp_048_place_101	Vietnam	Q881		16,108
-dvp_048_place_102	Vietnam	Q881		16,108
-dvp_048_place_103	Vietnam	Q881		16,108
+dvp_048_place_100	Vietnam	Q881		16108
+dvp_048_place_101	Vietnam	Q881		16108
+dvp_048_place_102	Vietnam	Q881		16108
+dvp_048_place_103	Vietnam	Q881		16108
 dvp_048_place_104	Newport	Q54264		41.488002,-71.312622
 dvp_048_place_105	Ho Chi Minh City	Q1854		10.816666666667,106.63333333333
-dvp_048_place_106	Vietnam	Q881		16,108
+dvp_048_place_106	Vietnam	Q881		16108
 dvp_048_place_107	Washington, D.C.	Q61		38.895,-77.036666666667
 dvp_048_place_108	Ho Chi Minh City	Q1854		10.816666666667,106.63333333333
-dvp_048_place_109	Vietnam	Q881		16,108
+dvp_048_place_109	Vietnam	Q881		16108
 dvp_048_place_110	Walter Reed National Military Medical Center	Q1457886		39.00194444444445,-77.09361111111112
 dvp_048_place_111	Pittsfield	Q887204		44.784,-69.382
 dvp_048_place_112	Bethesda	Q584451		38.9806658,-77.100256
@@ -133,7 +133,7 @@ dvp_048_place_130	Scotland	Q22		57,-5
 dvp_048_place_131	Naval Base Kitsap	Q1509410		47.720555555556,-122.71305555556
 dvp_048_place_132	Naval Base Kitsap	Q1509410		47.720555555556,-122.71305555556
 dvp_048_place_133	United States of America	Q30		39.828175,-98.5795
-dvp_048_place_134	Vietnam	Q881		16,108
+dvp_048_place_134	Vietnam	Q881		16108
 dvp_048_place_135	Scotland	Q22		57,-5
 dvp_048_place_136	Bath	Q22889		43.916388888889,-69.8225
 dvp_048_place_137	Scotland	Q22		57,-5
@@ -143,7 +143,7 @@ dvp_048_place_140	Walter Reed National Military Medical Center	Q1457886		39.0019
 dvp_048_place_141	Walter Reed National Military Medical Center	Q1457886		39.00194444444445,-77.09361111111112
 dvp_048_place_142	Walter Reed National Military Medical Center	Q1457886		39.00194444444445,-77.09361111111112
 dvp_048_place_143	Washington	Q1223		47.5,-120.5
-dvp_048_place_144	Vietnam	Q881		16,108
+dvp_048_place_144	Vietnam	Q881		16108
 dvp_048_place_145	Bangor Base	Q579941		47.7208,-122.713
 dvp_048_place_146	Maine	Q724		45.5,-69
 dvp_048_place_147	Maine	Q724		45.5,-69
